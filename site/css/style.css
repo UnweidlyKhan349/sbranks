@@ -319,7 +319,7 @@ figure.chart { margin: 0; min-width: 0; }
 .ax-line { stroke: var(--axis); stroke-width: 1; shape-rendering: crispEdges; }
 .grid-line { stroke: var(--grid); stroke-width: 1; shape-rendering: crispEdges; }
 .ref-line { stroke: var(--muted); stroke-width: 1; shape-rendering: crispEdges; }
-.ref-label { font-size: 11px; fill: var(--muted); }
+.ref-label { font-size: 11px; fill: var(--muted); paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; }
 .crosshair { stroke: var(--muted); stroke-width: 1; shape-rendering: crispEdges; pointer-events: none; }
 .series-line { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
 .series-band { stroke: none; fill-opacity: 0.1; }
@@ -335,6 +335,7 @@ figure.chart { margin: 0; min-width: 0; }
 .hit { fill: transparent; cursor: default; }
 .hit:focus { outline: none; }
 .hit:focus-visible, .hit.active { fill: var(--hover); stroke: var(--border); }
+.hit:focus-visible { stroke: var(--focus); stroke-width: 2px; }
 .legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; padding: 0; list-style: none; font-size: 13px; color: var(--ink-2); }
 .legend li { display: inline-flex; align-items: center; gap: 6px; }
 .legend .swatch { width: 10px; height: 10px; }
@@ -422,7 +423,9 @@ details.prov-list > summary { cursor: pointer; padding: 4px 0; }
 @media (max-width: 480px) { .tbl .hide-sm { display: none; } .tbl .name { min-width: 120px; } .tbl .sub.show-sm { display: block; } }
 .leaders { grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
 .data-notes { margin-top: 16px; color: var(--ink-2); font-size: 13.5px; max-width: 80ch; }
-.data-notes h3 { font-size: 13.5px; margin-bottom: 4px; color: var(--ink); }
+.data-notes > summary { cursor: pointer; width: max-content; max-width: 100%; padding: 2px 0; color: var(--ink-2); }
+.data-notes > summary:hover { color: var(--ink); }
+.data-notes > p { margin: 6px 0 0; overflow-wrap: anywhere; }
 .games-tbl { min-width: 560px; }
 .tbl.compact { font-size: 13.5px; }
 .tbl.compact th, .tbl.compact td { padding-left: 7px; padding-right: 7px; }
@@ -433,3 +436,9 @@ details.prov-list > summary { cursor: pointer; padding: 4px 0; }
 .tile .subj-label { white-space: normal; align-items: baseline; overflow-wrap: normal; font-size: 18px; line-height: 1.25; }
 .tile .subj-label .swatch { align-self: center; }
 .tile-value .tile-text { display: inline-block; font-size: 18px; line-height: 1.25; }
+
+/* nationals: one collapsible card per year */
+.year-summary { cursor: pointer; }
+.year-body { margin-top: 8px; }
+.year-note { font-size: 13px; margin: 0 0 8px; }
+.year-h { font-size: 13.5px; color: var(--ink-2); font-weight: 600; margin: 14px 0 2px; }

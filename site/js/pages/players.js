@@ -16,13 +16,15 @@ export async function render(ctx) {
     minT: Math.max(1, parseInt(q.get("min") || "1", 10) || 1),
   };
   const states = [...new Set(P.list.map((p) => p.state).filter(Boolean))].sort();
+  if (!states.includes(st.state)) st.state = ""; // unknown value from the URL: show all
   const root = h("div");
   root.appendChild(pageHead({
     title: "Player rankings",
     sub: h("span", null, `${fmt.int(P.list.length)} players with published individual statistics. Ratings are Elo-scaled tossup points per tossup heard, adjusted for field strength. Names are shown as published by tournaments. `,
       h("a", { href: "#/about" }, "Methodology")),
   }));
-  root.appendChild(tabs(subjectTabItems(true), st.s, (key) => { st.s = key; update(); }));
+  const panel = h("div");
+  root.append(tabs(subjectTabItems(true), st.s, (key) => { st.s = key; update(); }, "Rating", panel), panel);
 
   const search = h("input", { class: "input", type: "search", placeholder: "Search player or school", "aria-label": "Search players", value: st.q });
   search.addEventListener("input", debounce(() => { st.q = search.value; update(); }, 120));
@@ -37,14 +39,14 @@ export async function render(ctx) {
   minInput.addEventListener("input", debounce(() => { st.minT = Math.max(1, parseInt(minInput.value, 10) || 1); update(); }, 150));
   const csv = csvButton("sbranks-players.csv", ["rank", "player", "school", "state", "rating", "se", "ppg", "points_per_tuh", "tournaments", "best_subject", "last_played"],
     () => current.map((p) => { const v = val(p); return [rankOf(p), p.name, p.school_name, p.state, v ? Math.round(v.r) : "", v ? Math.round(v.pm) : "", p.ppg, p.ptuh, p.n_t, p.best, p.last]; }));
-  root.appendChild(h("div", { class: "filters", role: "search", "aria-label": "Filter players" },
+  panel.appendChild(h("div", { class: "filters", role: "search", "aria-label": "Filter players" },
     search, stateSel,
     h("label", { class: "check", title: `Played within ${m.thresholds.active_days} days of the latest tournament` }, activeBox, "Active only"),
     h("label", { class: "check", title: "Enough tossups heard to be ranked, and active" }, rankedBox, "Ranked only"),
     h("label", { class: "field" }, "Min. tournaments", minInput), csv));
   const note = h("div", { class: "result-note", "aria-live": "polite" });
   const host = h("div");
-  root.append(note, host);
+  panel.append(note, host);
 
   let current = [];
   function val(p) {
@@ -73,7 +75,7 @@ export async function render(ctx) {
     const prov = st.ranked ? rows.filter((p) => rankOf(p) == null) : [];
     current = rows;
     clear(note).append(st.ranked ? `${fmt.plural(ranked.length, "ranked player")}, ${fmt.int(prov.length)} provisional` : fmt.plural(rows.length, "player"),
-      st.s !== "overall" ? ` with a ${subjLabel(st.s)} rating` : "");
+      st.s !== "overall" ? ` with ${/^[AEIOU]/.test(subjLabel(st.s)) ? "an" : "a"} ${subjLabel(st.s)} rating` : "");
     const hidden = base.length - rows.length;
     if (hidden > 0) {
       note.append(h("span", null, ` · ${fmt.int(hidden)} hidden by filters `), h("button", { type: "button", class: "btn-link", onclick: () => {
@@ -109,7 +111,7 @@ export async function render(ctx) {
       host.appendChild(h("details", { class: "section prov-list", open: ranked.length < 25 },
         h("summary", null, h("strong", null, `Provisional and unrated players (${fmt.int(prov.length)})`)),
         h("p", { class: "muted", style: { "font-size": "13px", margin: "6px 0 10px" } },
-          `Fewer than ${minN} effective tossups heard${subj ? ` in ${subjLabel(st.s)}` : ""}, or not active${subj ? "" : ", or only single-subject events (no overall rating)"}.`),
+          `Fewer than ${minN} effective tossups heard${subj ? ` in ${subjLabel(st.s)}` : ""} or fewer than ${m.thresholds.player_min_tournaments ?? 2} tournaments, or not active${subj ? "" : ", or only single-subject events (no overall rating)"}.`),
         dataTable(columns, prov, { pageSize: 100, sort: { key: "r", dir: "desc" }, caption: "Provisional and unrated players", captionHidden: true, rowClass: () => "dim" })));
     }
   }

@@ -1,17 +1,8 @@
-import { h, fmt, dataTable, section, pageHead, notice, emptyState, extLink } from "../ui.js";
+import { h, fmt, dataTable, section, pageHead, notice, emptyState, extLink, tile, champBadge } from "../ui.js";
 import { teams, schools, tournaments, nationals } from "../data.js";
-import { teamA, schoolA, tournamentA } from "../links.js";
+import { teamA, schoolA, tournamentA, finishLabel, finishRank } from "../links.js";
 
 const pick = (o, ...keys) => { for (const k of keys) if (o[k] != null && o[k] !== "") return o[k]; return null; };
-
-function finishRank(f) {
-  const s = String(f ?? "").toLowerCase();
-  if (/^(1|1st|first|champion|winner)\b/.test(s)) return 1;
-  if (/^(2|2nd|second|runner)/.test(s)) return 2;
-  if (/^(3|3rd|third)/.test(s)) return 3;
-  const n = parseInt(s.replace(/[^0-9]/g, ""), 10);
-  return Number.isFinite(n) ? n : 999;
-}
 
 export async function render(ctx) {
   const [T, S, TR, N] = await Promise.all([teams(), schools(), tournaments(), nationals()]);
@@ -20,49 +11,118 @@ export async function render(ctx) {
   root.appendChild(pageHead({
     title: "National Science Bowl",
     sub: h("span", null, "High-school champions of the DOE National Science Bowl since 1991, finishes by year, and the Nationals tournaments included in the ratings. Official results: ",
-      extLink("https://science.osti.gov/wdts/nsb", "science.osti.gov"), "."),
+      extLink("https://science.osti.gov/wdts/nsb", "science.osti.gov")),
   }));
 
   // ---- champions
   const winners = (N.winners || []).filter((w) => w && typeof w === "object").slice().sort((a, b) => (b.year || 0) - (a.year || 0));
-  const hasCity = winners.some((w) => pick(w, "city", "location"));
-  const hasState = winners.some((w) => pick(w, "state"));
-  const hasRunner = winners.some((w) => pick(w, "runner_up", "second", "runnerup"));
-  const hasThird = winners.some((w) => pick(w, "third"));
-  const findSchool = (w) => w.school_id || null;
-  root.appendChild(section("Champions", winners.length ? `${winners.length} national champions` : null,
+  const champName = (w) => String(pick(w, "school", "champion", "winner", "team") || "–");
+  const champCell = (w) => (w.school_id && S.byId.has(w.school_id) ? schoolA(w.school_id, champName(w)) : h("span", null, champName(w)));
+  const place = (w) => [pick(w, "city", "location"), pick(w, "state")].filter(Boolean).join(", ");
+
+  if (winners.length) {
+    const titles = new Map();
+    for (const w of winners) {
+      const k = w.school_id || champName(w);
+      const e = titles.get(k) || { w, n: 0, years: [] };
+      e.n++;
+      e.years.push(w.year);
+      titles.set(k, e);
+    }
+    const top = [...titles.values()].sort((a, b) => b.n - a.n || Math.max(...b.years) - Math.max(...a.years));
+    const most = top.filter((x) => x.n === top[0].n);
+    const latest = winners[0];
+    const years = winners.map((w) => w.year).filter(Boolean);
+    root.appendChild(h("div", { class: "tiles" },
+      tile("Latest champion", h("span", { class: "tile-text" }, champCell(latest)), `${latest.year}${place(latest) ? ` · ${place(latest)}` : ""}`),
+      tile("Most titles", h("span", { class: "tile-text" }, most.slice(0, 2).map((x, i) => [i ? ", " : "", champCell(x.w)])),
+        `${fmt.plural(most[0].n, "title")}${most.length > 2 ? ` · ${most.length - 2} more schools tied` : ""}`),
+      tile("Champions on record", fmt.int(winners.length), years.length ? `${Math.min(...years)}–${Math.max(...years)}` : null),
+      tile("Different schools", fmt.int(titles.size), "have won the title")));
+  }
+
+  const hasRoster = winners.some((w) => (w.roster && w.roster.length) || w.coach);
+  root.appendChild(section("Champions", winners.length ? `${winners.length} national champions${hasRoster ? ", with their team members and coach where recorded" : ""}` : null,
     winners.length ? dataTable([
-      { key: "year", label: "Year", sort: (w) => w.year, defaultDir: "desc", render: (w) => String(w.year ?? "–") },
-      { key: "champ", label: "Champion", cls: "name", sort: (w) => String(pick(w, "champion", "winner", "school", "team") || ""),
-        render: (w) => { const name = pick(w, "champion", "winner", "school", "team") || "–"; const sid = findSchool(w); return sid && S.byId.has(sid) ? schoolA(sid, String(name)) : String(name); } },
-      hasCity ? { key: "city", label: "City", render: (w) => String(pick(w, "city", "location") || "–") } : null,
-      hasState ? { key: "state", label: "State", sort: (w) => String(w.state || ""), render: (w) => String(w.state || "–") } : null,
-      hasRunner ? { key: "ru", label: "Runner-up", render: (w) => String(pick(w, "runner_up", "second", "runnerup") || "–") } : null,
-      hasThird ? { key: "third", label: "Third", render: (w) => String(pick(w, "third") || "–") } : null,
-    ].filter(Boolean), winners, { sort: { key: "year", dir: "desc" }, caption: "National Science Bowl high-school champions", captionHidden: true })
+      { key: "year", label: "Year", num: true, sort: (w) => w.year, defaultDir: "desc", render: (w) => String(w.year ?? "–") },
+      { key: "champ", label: "Champion", cls: "name wide", sort: (w) => champName(w),
+        render: (w) => {
+          const team = (w.roster || []).filter(Boolean);
+          return h("div", null, champCell(w),
+            place(w) ? h("span", { class: "sub show-sm" }, place(w)) : null,
+            team.length || w.coach ? h("span", { class: "sub" }, team.join(", "), team.length && w.coach ? " · " : "", w.coach ? `Coach ${w.coach}` : "") : null);
+        } },
+      { key: "loc", label: "Location", hideSm: true, sort: (w) => place(w), render: (w) => place(w) || h("span", { class: "muted" }, "–") },
+      { key: "titles", label: "Titles", hideSm: true, title: "The school's title count up to and including that year",
+        render: (w) => { const e = titles2(w); return e > 1 ? h("span", { class: "nowrap" }, `${ordinal(e)} title`) : h("span", { class: "muted nowrap" }, "first title"); } },
+    ], winners, { sort: { key: "year", dir: "desc" }, caption: "National Science Bowl high-school champions", captionHidden: true, tableClass: "compact" })
       : notice("The list of national champions is still being compiled. Check back after the next data update.")));
+  function titles2(w) {
+    const k = w.school_id || champName(w);
+    return winners.filter((x) => (x.school_id || champName(x)) === k && (x.year || 0) <= (w.year || 0)).length;
+  }
 
   // ---- finishes by year
+  const nsbIds = (N.tournaments || []).filter((id) => TR.byId.has(id));
+  const tourByYear = new Map(nsbIds.map((id) => [TR.byId.get(id).date.slice(0, 4), id]));
   const years = Object.keys(N.finishes || {}).sort().reverse();
   const finWrap = h("div", { class: "stack" });
-  years.forEach((y, i) => {
-    const items = (N.finishes[y] || []).slice().sort((a, b) => finishRank(a.finish) - finishRank(b.finish));
-    if (!items.length) return;
-    finWrap.appendChild(h("details", { class: "card", open: i === 0 },
-      h("summary", { style: { cursor: "pointer" } }, h("strong", null, y), h("span", { class: "muted" }, ` · ${fmt.plural(items.length, "team")}`)),
-      h("div", { style: { "margin-top": "8px" } }, dataTable([
-        { key: "finish", label: "Finish", render: (x) => String(x.finish ?? "–") },
-        { key: "team", label: "Team", cls: "name", render: (x) => (x.tm && T.byId.has(x.tm) ? teamA(T, x.tm) : String(x.team ?? "–")) },
-        { key: "school", label: "School", render: (x) => (x.school_id && S.byId.has(x.school_id) ? schoolA(x.school_id, S.byId.get(x.school_id).name) : x.school ? String(x.school) : h("span", { class: "muted" }, "–")) },
-        { key: "state", label: "State", render: (x) => String(x.state || (x.school_id && S.byId.get(x.school_id)?.state) || "–") },
-      ], items, { sortable: false, wrapClass: "bare" }))));
-  });
-  root.appendChild(section("Finishes by year", null, years.length ? finWrap : emptyState("No per-year Nationals finishes are on record yet.")));
+  let first = true;
+  for (const y of years) {
+    const items = (N.finishes[y] || []).slice().sort((a, b) => finishRank(a.finish) - finishRank(b.finish)
+      || String(a.division || "").localeCompare(String(b.division || "")) || (a.division_place || 99) - (b.division_place || 99)
+      || String(a.team || "").localeCompare(String(b.team || "")));
+    if (!items.length) continue;
+    const champ = items.find((x) => finishRank(x.finish) === 1);
+    const tid = tourByYear.get(y);
+    const elim = items.filter((x) => finishRank(x.finish) < 999);
+    const rr = items.filter((x) => finishRank(x.finish) >= 999);
+    const teamCol = { key: "team", label: "Team", cls: "name", render: (x) => h("div", null,
+      x.tm && T.byId.has(x.tm) ? teamA(T, x.tm) : h("span", null, String(x.team ?? "–")), schoolSub(x)) };
+    const body = h("div", { class: "year-body" });
+    if (tid) body.appendChild(h("p", { class: "muted year-note" }, h("a", { href: `#/tournament/${encodeURIComponent(tid)}` }, `${y} National Finals: all games`)));
+    if (elim.length) {
+      if (rr.length) body.appendChild(h("h3", { class: "year-h" }, `Elimination rounds (${elim.length} teams)`));
+      body.appendChild(dataTable([
+        { key: "finish", label: "Finish", render: (x) => h("span", { class: "nowrap" }, finishLabel(x.finish)) },
+        teamCol,
+        { key: "note", label: "", render: (x) => (finishRank(x.finish) === 1 ? champBadge() : "") },
+      ], elim, { sortable: false, wrapClass: "bare", caption: `${y} National Finals: elimination-round finishes`, captionHidden: true }));
+    }
+    if (rr.length) {
+      const hasDiv = rr.some((x) => x.division);
+      if (elim.length) body.appendChild(h("h3", { class: "year-h" }, `Round robin only (${rr.length} teams)`));
+      body.appendChild(dataTable([
+        hasDiv ? { key: "div", label: "Division", render: (x) => (x.division ? String(x.division) : h("span", { class: "muted" }, "–")) } : null,
+        hasDiv ? { key: "place", label: "Place", num: true, title: "Place in the round-robin division", render: (x) => (x.division_place ? ordinal(x.division_place) : "–") } : null,
+        teamCol,
+        { key: "rec", label: "Record", num: true, title: "Round-robin record", render: (x) => (x.record ? String(x.record).replace(/-/g, "–") : h("span", { class: "muted" }, "–")) },
+      ].filter(Boolean), rr, { sortable: false, wrapClass: "bare", caption: `${y} National Finals: teams eliminated in the round robin`, captionHidden: true }));
+    }
+    finWrap.appendChild(h("details", { class: "card", open: first },
+      h("summary", { class: "year-summary" }, h("strong", null, y),
+        h("span", { class: "muted" }, ` · ${fmt.plural(items.length, "team")}${champ ? ` · champion ${champ.tm && T.byId.has(champ.tm) ? T.byId.get(champ.tm).name : champ.team}` : ""}`)),
+      body));
+    first = false;
+  }
+  function schoolSub(x) {
+    const sc = x.school_id && S.byId.get(x.school_id);
+    const tm = x.tm && T.byId.get(x.tm);
+    const bits = [];
+    // the team name is usually the school's short name; show the school only when it adds information
+    if (sc && (!tm || !tm.name.startsWith(sc.short || sc.name))) bits.push(schoolA(sc.id, sc.name));
+    const st = x.state || (sc && sc.state);
+    if (st) bits.push(st);
+    return bits.length ? h("span", { class: "muted" }, bits.map((b) => [" · ", b])) : null;
+  }
+  root.appendChild(section("Finishes by year", "Placements at the National Finals; teams eliminated in the same round share a range",
+    years.length ? finWrap : emptyState("No per-year Nationals finishes are on record yet.")));
 
   // ---- NSB tournaments in the data
-  const ids = (N.tournaments || []).filter((id) => TR.byId.has(id));
-  const nsbT = ids.length ? ids.map((id) => TR.byId.get(id)) : TR.list.filter((t) => t.kind === "nationals");
-  root.appendChild(section("Nationals tournaments in the ratings", "Nationals results feed team ratings as wins and losses only (no scores or player stats are published)",
+  const nsbT = nsbIds.length ? nsbIds.map((id) => TR.byId.get(id)) : TR.list.filter((t) => t.kind === "nationals");
+  const anyScores = nsbT.some((t) => t.coverage && t.coverage.scores);
+  root.appendChild(section("Nationals tournaments in the ratings",
+    anyScores ? "Nationals games feed the team ratings" : "Nationals results feed team ratings as wins and losses only (no scores or player stats are published)",
     nsbT.length ? dataTable([
       { key: "date", label: "Date", sort: (t) => t.date, render: (t) => h("span", { class: "nowrap" }, fmt.date(t.date)) },
       { key: "name", label: "Tournament", cls: "name", sort: (t) => t.name, render: (t) => tournamentA(TR, t.id) },
@@ -71,4 +131,9 @@ export async function render(ctx) {
       { key: "champ", label: "Champion", render: (t) => (t.champion ? teamA(T, t.champion) : h("span", { class: "muted" }, "–")) },
     ], nsbT, { sort: { key: "date", dir: "desc" } }) : emptyState("No National Science Bowl tournaments have been parsed yet.")));
   return root;
+}
+
+function ordinal(n) {
+  const s = ["th", "st", "nd", "rd"], v = n % 100;
+  return n + (s[(v - 20) % 10] || s[v] || s[0]);
 }

@@ -88,6 +88,26 @@ def split_team_name(raw: str) -> tuple[str, str | None]:
     return raw, None
 
 
+_PLACEHOLDER = re.compile(r"^(delete|tbd|tba|n/?a|none|null|anonymous|unknown|player\s*\d*|sub(stitute)?\s*\d*|\?+|-+)$", re.I)
+
+
+def clean_player_name(raw: str) -> str | None:
+    """Strip source decorations from a player name; None for placeholder rows ("DELETE", "TBD")."""
+    n = re.sub(r"^\(\s*[^)]{1,12}\)\s*", "", raw.strip())   # "(SCDS) Adam Akins" -> "Adam Akins"
+    n = re.sub(r"#\d{4}$", "", n)                             # Discord tag: "Name#0096" -> "Name"
+    n = re.sub(r"\s+", " ", n).strip()
+    if not n or _PLACEHOLDER.match(n):
+        return None
+    return n
+
+
+def season_start(season: str) -> int:
+    try:
+        return int(str(season)[:4])
+    except ValueError:
+        return 0
+
+
 def display_case(name: str) -> str:
     if name.islower() or name.isupper():
         return " ".join(w.capitalize() if len(w) > 1 else w.upper() for w in name.split())
@@ -212,9 +232,12 @@ def build() -> dict[str, Any]:
         if t.get("individual"):
             # 1v1 events: competitors are people, not teams. Keep only their player stats.
             for r in d["player_stats"]:
-                player_obs.append({"tournament_id": t.id, "season": t.season, "raw": r["player"],
+                name = clean_player_name(r["player"])
+                if not name:
+                    continue
+                player_obs.append({"tournament_id": t.id, "season": t.season, "raw": name,
                                    "team_id": None, "school_id": "x-individual", "composite": True})
-                pstats.append({"tournament_id": t.id, "raw_player": r["player"], "team_id": None,
+                pstats.append({"tournament_id": t.id, "raw_player": name, "team_id": None,
                                "scope": r["scope"], "subject": r["subject"],
                                **{k: num(r[k]) for k in ("gp", "tuh", "correct", "zeros", "negs", "points", "ppg")}})
             tinfo.append(t)
@@ -252,11 +275,14 @@ def build() -> dict[str, Any]:
                         "subject": r["subject"], **{k: num(r[k]) for k in
                         ("points", "tossup_points", "bonus_points", "tossups_correct", "negs")}})
         for r in d["player_stats"]:
+            name = clean_player_name(r["player"])
+            if not name:
+                continue
             team_id = team_map[r["team"]]
-            player_obs.append({"tournament_id": t.id, "season": t.season, "raw": r["player"],
+            player_obs.append({"tournament_id": t.id, "season": t.season, "raw": name,
                                "team_id": team_id, "school_id": teams[team_id]["school_id"],
                                "composite": teams[team_id]["composite"]})
-            pstats.append({"tournament_id": t.id, "raw_player": r["player"], "team_id": team_id,
+            pstats.append({"tournament_id": t.id, "raw_player": name, "team_id": team_id,
                            "scope": r["scope"], "subject": r["subject"],
                            **{k: num(r[k]) for k in ("gp", "tuh", "correct", "zeros", "negs", "points", "ppg")}})
         tinfo.append(t)
@@ -335,6 +361,22 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
                 cands = full_by_first.get((toks[0], toks[-1]), set())
             if len(cands) == 1:
                 person_of[id(o)] = next(iter(cands))
+
+    # first-name-only sources (some Ignis/Prometheus/Hunter sheets): attach to the unique person
+    # at the same real school with that first name who played within one season of it
+    by_school_first_season: dict[tuple[str, str], dict[tuple[str, str | None], set[int]]] = defaultdict(lambda: defaultdict(set))
+    for o in obs:
+        toks = o["key"].split()
+        if len(toks) >= 2 and not o["composite"]:
+            by_school_first_season[(o["school_id"], toks[0])][person_of[id(o)]].add(season_start(o["season"]))
+    for o in obs:
+        toks = o["key"].split()
+        if len(toks) == 1 and not o["composite"]:
+            y = season_start(o["season"])
+            cands = [pp for pp, ys in by_school_first_season.get((o["school_id"], toks[0]), {}).items()
+                     if any(abs(y - x) <= 1 for x in ys)]
+            if len(cands) == 1:
+                person_of[id(o)] = cands[0]
 
     pid_of_person: dict[tuple[str, str | None], str] = {}
     people: dict[str, dict[str, Any]] = {}

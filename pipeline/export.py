@@ -17,7 +17,8 @@ from .ratings import glicko
 N_SHARDS = 32
 RANKED_RD = 110.0            # team leaderboard: RD at or below this is "ranked"
 ACTIVE_DAYS = 400            # active = played within this many days of the snapshot
-PLAYER_MIN_WEIGHT = {"overall": 120.0, **{s: 25.0 for s in SUBJECTS}}  # tossups heard to be ranked
+PLAYER_MIN_WEIGHT = {"overall": 200.0, **{s: 30.0 for s in SUBJECTS}}  # effective tossups heard to be ranked
+PLAYER_MIN_TOURNAMENTS = 2                                               # ... and at least this many events
 
 
 def shard_of(entity_id: str) -> int:
@@ -71,6 +72,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     rows_by_t: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for (tid, pid, subj), r in rows.items():
         rows_by_t[tid].append(r)
+    # 1v1 events: raw competitor name -> player id (when the event published player stats)
+    pid_by_raw = {(r["tournament_id"], r["raw_player"]): r["player_id"] for r in res["player_stats"] if r["team_id"] is None}
 
     tournaments_out = []
     team_tourn_summary: dict[str, list[dict[str, Any]]] = defaultdict(list)
@@ -95,6 +98,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
                     r["pa"] += g[so]
                     r["gs"] += 1
         champion = _champion(gl)
+        competitors = _individual_standings(tid, pid_by_raw) if t.get("individual") else None
         prow: dict[str, dict[str, Any]] = {}
         for r in rows_by_t.get(tid, []):
             pid = r["player_id"]
@@ -130,9 +134,15 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             "coverage": cov, "set": t.get("question_set"),
             "sources": [{"role": s.get("role"), "kind": s.get("kind"), "url": s.get("url")} for s in t.sources if s.get("url")],
         }
+        if competitors is not None:
+            # 1v1 events have no team entries: count the competitors and their games instead
+            meta.update(n_competitors=len(competitors["rows"]), n_games=competitors["n_games"],
+                        n_scored=competitors["n_scored"], champion_name=competitors["champion"],
+                        champion_player=pid_by_raw.get((tid, competitors["champion"])))
         tournaments_out.append(meta)
         _write(f"tournaments/{tid}.json", {
             **meta,
+            **({"competitors": competitors["rows"]} if competitors is not None else {}),
             "teams": team_rows,
             "games": [{"id": g["game_id"], "st": g["stage"], "rd": g["round"], "seq": g["seq"], "t1": g["team1"], "t2": g["team2"],
                        "s1": g.get("score1"), "s2": g.get("score2"), "res": g["result"], "p1": _r(g.get("p1"), 3),
@@ -250,7 +260,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     p_rank = {}
     for subj, m in pm.items():
         p_rank[subj] = _rank([(e, v["rating"]) for e, v in m["entities"].items()
-                              if v["eff_weight"] >= PLAYER_MIN_WEIGHT[subj] and _date(v["last_day"]) >= active_cut])
+                              if v["eff_weight"] >= PLAYER_MIN_WEIGHT[subj] and v["tournaments"] >= PLAYER_MIN_TOURNAMENTS
+                              and _date(v["last_day"]) >= active_cut])
     rows_by_p: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for (tid, pid, subj), r in rows.items():
         rows_by_p[pid].append(r)
@@ -334,7 +345,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
         "subjects": [{"key": k, "label": SUBJECT_LABELS[k]} for k in SUBJECTS],
         "glicko": {k: v for k, v in vars(gparams).items()}, "glicko_metrics": gres["metrics"],
         "stats_model": {sj: {"beta": _r(m["beta"], 3), "spread": _r(m["spread"], 4)} for sj, m in pm.items()},
-        "thresholds": {"ranked_rd": RANKED_RD, "active_days": ACTIVE_DAYS, "player_min_tuh": PLAYER_MIN_WEIGHT},
+        "thresholds": {"ranked_rd": RANKED_RD, "active_days": ACTIVE_DAYS, "player_min_tuh": PLAYER_MIN_WEIGHT,
+                       "player_min_tournaments": PLAYER_MIN_TOURNAMENTS},
         "n_shards": N_SHARDS,
     })
     print(f"exported: {counts}")
@@ -375,6 +387,45 @@ def _champion(gl: list[dict[str, Any]]) -> str | None:
     if any(losses[t] < losses[champ] for t in teams if t != champ):
         return None
     return champ
+
+
+def _individual_standings(tid: str, pid_by_raw: dict[tuple[str, str], str]) -> dict[str, Any]:
+    """Standings of a 1v1 event from its parsed games (each competitor is a one-person "team").
+
+    Same rules as team standings: forfeit-flagged games are left out of the records; the champion
+    is the winner of the final playoff game (see _champion). ``p`` is the competitor's player id
+    when the event published player stats under the same name, else null."""
+    from .schema import load_parsed
+    d = load_parsed(tid)
+    num = lambda x: None if x in (None, "") else float(x)  # noqa: E731
+    games = [{**g, "seq": int(g["seq"] or 0), "score1": num(g.get("score1")), "score2": num(g.get("score2")),
+              "forfeit": g.get("forfeit") in ("1", "true", "True")} for g in d["games"]]
+    rec: dict[str, dict[str, float]] = {}
+    for tr in d["teams"]:
+        rec.setdefault(tr["team"], {"w": 0, "l": 0, "t": 0, "g": 0, "pf": 0.0, "pa": 0.0, "gs": 0})
+    for g in games:
+        if g["forfeit"]:
+            continue
+        for me, sm, so in (("team1", "score1", "score2"), ("team2", "score2", "score1")):
+            r = rec.setdefault(g[me], {"w": 0, "l": 0, "t": 0, "g": 0, "pf": 0.0, "pa": 0.0, "gs": 0})
+            r["g"] += 1
+            if g["result"] == "T":
+                r["t"] += 1
+            elif (g["result"] == "1") == (me == "team1"):
+                r["w"] += 1
+            else:
+                r["l"] += 1
+            if g[sm] is not None and g[so] is not None:
+                r["pf"] += g[sm]
+                r["pa"] += g[so]
+                r["gs"] += 1
+    champ = _champion(games)
+    rows = [{"name": name, "p": pid_by_raw.get((tid, name)), "w": r["w"], "l": r["l"], "t": r["t"], "g": r["g"],
+             "ppg": _r(r["pf"] / r["gs"]) if r["gs"] else None, "papg": _r(r["pa"] / r["gs"]) if r["gs"] else None,
+             "champ": name == champ} for name, r in rec.items()]
+    rows.sort(key=lambda x: (-(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999), x["name"]))
+    return {"rows": rows, "n_games": len(games), "n_scored": sum(1 for g in games if g["score1"] is not None),
+            "champion": champ}
 
 
 def _coverage(tid: str) -> dict[str, Any]:
@@ -444,14 +495,15 @@ def _norm_name(x: Any) -> str:
 
 def _norm_winners(winners: list[dict[str, Any]], schools: dict[str, Any]) -> list[dict[str, Any]]:
     """Pass the reference list through, adding `school` (a school id) when the champion's name
-    matches a known school exactly after light normalisation."""
-    by_name: dict[str, str] = {}
+    matches a known school exactly after light normalisation and, when both give one, the state agrees
+    (the 1998 champion Valley High School of West Des Moines, IA is not Valley High School, OH)."""
+    by_name: dict[str, list[str]] = {}
     for sid, sch in schools.items():
         if sch.get("composite"):
             continue
         for nm in (sch.get("name"), sch.get("short")):
-            if nm:
-                by_name.setdefault(_norm_name(nm), sid)
+            if nm and sid not in by_name.get(_norm_name(nm), []):
+                by_name.setdefault(_norm_name(nm), []).append(sid)
     out = []
     for w in winners or []:
         if not isinstance(w, dict):
@@ -459,7 +511,10 @@ def _norm_winners(winners: list[dict[str, Any]], schools: dict[str, Any]) -> lis
         w = dict(w)
         champ = w.get("champion") or w.get("winner") or w.get("school") or w.get("team")
         champ = champ if isinstance(champ, str) else None
-        sid = by_name.get(_norm_name(champ)) if champ else None
+        st = str(w.get("state") or "").upper()
+        cands = [s for s in by_name.get(_norm_name(champ), [])
+                 if not st or not schools[s].get("state") or str(schools[s]["state"]).upper() == st] if champ else []
+        sid = cands[0] if cands else None
         if sid and "school_id" not in w:
             w["school_id"] = sid
         out.append(w)

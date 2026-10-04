@@ -1,7 +1,7 @@
 import { h, fmt, dataTable, ratingCell, section, SUBJECTS, subjColor, emptyState } from "../ui.js";
 import { sparkline } from "../charts.js";
 import { meta, teams, players, tournaments } from "../data.js";
-import { teamA, playerA, tournamentA, teamCell } from "../links.js";
+import { teamA, playerA, tournamentA, teamCell, entrantCount, championA } from "../links.js";
 
 export async function render(ctx) {
   const [m, T, P, TR] = await Promise.all([meta(), teams(), players(), tournaments()]);
@@ -62,9 +62,9 @@ export async function render(ctx) {
     recent.length ? dataTable([
       { key: "date", label: "Date", render: (t) => h("span", { class: "nowrap" }, fmt.range(t.date, t.end)) },
       { key: "name", label: "Tournament", cls: "name", render: (t) => h("div", null, tournamentA(TR, t.id), h("span", { class: "sub" }, t.online ? "Online" : (t.location || ""))) },
-      { key: "n_teams", label: "Teams", num: true, render: (t) => fmt.int(t.n_teams) },
+      { key: "n_teams", label: "Teams", num: true, render: (t) => (t.individual ? h("span", { title: "Individual event" }, fmt.int(entrantCount(t)), h("span", { class: "sub" }, "competitors")) : fmt.int(t.n_teams)) },
       { key: "strength", label: "Field strength", num: true, title: "Mean pre-tournament rating of the field's top 8 teams", render: (t) => fmt.r(t.strength) },
-      { key: "champion", label: "Champion", render: (t) => t.champion ? h("span", { class: "nowrap" }, teamA(T, t.champion)) : h("span", { class: "muted" }, "–") },
+      { key: "champion", label: "Champion", render: (t) => h("span", { class: "nowrap" }, championA(T, P, t)) },
     ], recent, { sortable: false }) : emptyState("No tournaments yet.")));
 
   // ---- how ratings work
@@ -72,7 +72,7 @@ export async function render(ctx) {
     h("div", { class: "card prose" },
       h("p", null, "Team ratings use ", h("strong", null, "Glicko-2"), " on the familiar Elo scale (1500 = average): every game moves both teams by an amount that depends on the expected result, the margin of victory and how certain each rating is. The ± is the rating deviation; teams are ranked once it falls below ",
         String(m.thresholds.ranked_rd), " and they have played in the last ", String(m.thresholds.active_days), " days."),
-      h("p", null, "Players never play one-on-one, so player and subject ratings are ", h("strong", null, "Elo-scaled"),
+      h("p", null, "In team games players never face each other one-on-one, so player and subject ratings are ", h("strong", null, "Elo-scaled"),
         ": tossup points per tossup heard, adjusted for the strength of the field, shrunk toward the average when there is little data, and mapped to 1500 + 200 × z."),
       h("p", null, h("a", { href: "#/about" }, "Read the full methodology"), " · ", h("a", { href: "#/compare" }, "Compare two teams")))));
   return root;

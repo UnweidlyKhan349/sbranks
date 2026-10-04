@@ -1,10 +1,10 @@
 import { h, clear, fmt, dataTable, ratingCell, tabs, subjectTabItems, subjLabel, pageHead, setQuery, boolParam, debounce, csvButton } from "../ui.js";
 import { sparkline } from "../charts.js";
-import { meta, teams, isActive } from "../data.js";
+import { meta, teams, schools, isActive } from "../data.js";
 import { teamA, schoolA } from "../links.js";
 
 export async function render(ctx) {
-  const [m, T] = await Promise.all([meta(), teams()]);
+  const [m, T, S] = await Promise.all([meta(), teams(), schools()]);
   ctx.setTitle("Teams");
   const q = ctx.query;
   const subjects = ["overall", ...m.subjects.map((x) => x.key)];
@@ -20,6 +20,9 @@ export async function render(ctx) {
   st.ranked = boolParam(q, "ranked", st.s === "overall");
 
   const states = [...new Set(T.list.map((t) => t.state).filter(Boolean))].sort();
+  // values from the URL that match no option fall back to "all" (the select could not show them)
+  if (!states.includes(st.state)) st.state = "";
+  if (!m.seasons.includes(st.season)) st.season = "";
   const root = h("div");
   root.appendChild(pageHead({
     title: "Team rankings",
@@ -27,13 +30,14 @@ export async function render(ctx) {
       h("a", { href: "#/about" }, "Methodology")),
   }));
 
+  const panel = h("div");
   const tabEl = tabs(subjectTabItems(true), st.s, (key) => {
     const wasDefault = st.ranked === (st.s === "overall");
     st.s = key;
     if (wasDefault) { st.ranked = key === "overall"; rankedBox.checked = st.ranked; }
     update();
-  });
-  root.appendChild(tabEl);
+  }, "Rating", panel);
+  root.append(tabEl, panel);
 
   // ---- filter row
   const search = h("input", { class: "input", type: "search", placeholder: "Search team or school", "aria-label": "Search teams", value: st.q });
@@ -57,10 +61,10 @@ export async function render(ctx) {
       const v = val(t);
       return [rankOf(t), t.name, t.school_name, t.state, v ? Math.round(v.r) : "", v ? Math.round(v.pm) : "", t.w, t.l, t.t, t.g, t.last];
     }));
-  root.appendChild(h("div", { class: "filters", role: "search", "aria-label": "Filter teams" }, search, stateSel, seasonSel, activeLbl, rankedLbl, compLbl, csv));
+  panel.appendChild(h("div", { class: "filters", role: "search", "aria-label": "Filter teams" }, search, stateSel, seasonSel, activeLbl, rankedLbl, compLbl, csv));
   const note = h("div", { class: "result-note", "aria-live": "polite" });
   const tableHost = h("div");
-  root.append(note, tableHost);
+  panel.append(note, tableHost);
 
   let current = [];
   function val(t) {
@@ -103,7 +107,7 @@ export async function render(ctx) {
     clear(note);
     const hidden = base.length - matching.length;
     note.append(st.ranked ? `${fmt.plural(rows.length, "ranked team")}, ${fmt.int(prov.length)} provisional` : `${fmt.plural(rows.length, "team")}`,
-      st.s !== "overall" ? ` with a ${subjLabel(st.s)} rating` : "");
+      st.s !== "overall" ? ` with ${/^[AEIOU]/.test(subjLabel(st.s)) ? "an" : "a"} ${subjLabel(st.s)} rating` : "");
     if (hidden > 0) {
       note.append(h("span", null, ` · ${fmt.int(hidden)} hidden by filters `),
         h("button", { type: "button", class: "btn-link", onclick: () => {
@@ -117,7 +121,10 @@ export async function render(ctx) {
     const columns = [
       { key: "rank", label: "#", num: true, cls: "rank", title: "Rank among ranked teams", sort: (t) => rankOf(t), defaultDir: "asc", render: (t) => rankOf(t) ?? "–" },
       { key: "name", label: "Team", cls: "name", sort: (t) => t.name, render: (t) => h("div", null, teamA(T, t.id), t.state ? h("span", { class: "sub show-sm" }, t.state) : null) },
-      { key: "school", label: "School", cls: "wrap", hideSm: true, sort: (t) => t.school_name || "", render: (t) => h("div", null, schoolA(t.school, t.school_name), t.state ? h("span", { class: "sub" }, t.state) : null) },
+      { key: "school", label: "School", cls: "wrap", hideSm: true, sort: (t) => (t.composite ? "" : t.school_name || ""),
+        render: (t) => (t.composite
+          ? h("div", null, h("span", { class: "muted" }, "Pickup team"), t.affiliate && S.byId.has(t.affiliate) ? h("span", { class: "sub" }, "mostly ", schoolA(t.affiliate, S.byId.get(t.affiliate).name)) : null)
+          : h("div", null, schoolA(t.school, t.school_name), t.state ? h("span", { class: "sub" }, t.state) : null)) },
       { key: "r", label: subj ? `${subjLabel(st.s)} rating` : "Rating", num: true, sort: (t) => (val(t) ? val(t).r : null), tie: (t) => rankOf(t),
         title: subj ? "Elo-scaled subject rating ± standard error" : "Glicko-2 rating ± rating deviation",
         render: (t) => { const v = val(t); return v ? ratingCell(v.r, v.pm, { provisional: rankOf(t) == null }) : h("span", { class: "muted" }, "unrated"); } },

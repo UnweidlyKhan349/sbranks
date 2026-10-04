@@ -1,6 +1,6 @@
 import { h, fmt, dataTable, tile, section, pageHead, notFound, notice, SUBJECTS, subjColor, subjLabel, champBadge, upsetBadge, badge, emptyState, extLink } from "../ui.js";
 import { teams, players, tournaments, tournamentDetail } from "../data.js";
-import { teamA, playerA, kindLabel, levelBadge } from "../links.js";
+import { teamA, playerA, kindLabel, levelBadge, championA, sourceRoleLabel, sourceKindLabel } from "../links.js";
 import { coverageBadges } from "./tournaments.js";
 
 const STAGE = { rr: "Round robin", playoff: "Playoffs", consolation: "Consolation", prelim: "Preliminaries", final: "Finals" };
@@ -16,11 +16,12 @@ export async function render(ctx) {
   const row = TR.byId.get(id);
   if (!row) { ctx.setTitle("Tournament not found"); return notFound("Tournament", id); }
   const t = await tournamentDetail(id);
-  ctx.setTitle(row.name);
+  // recurring events share a name ("NSB National Finals"): add the year to the window title
+  ctx.setTitle(/\b(19|20)\d\d\b/.test(row.name) ? row.name : `${row.name} ${(row.date || "").slice(0, 4)}`.trim());
   const root = h("div");
   root.appendChild(pageHead({
     eyebrow: [h("a", { href: "#/tournaments" }, "Tournaments"), h("span", { "aria-hidden": "true" }, "/"), h("a", { href: `#/tournaments?season=${encodeURIComponent(row.season)}` }, `${row.season} season`),
-      badge(kindLabel(row.kind)), levelBadge(row.level), row.subject_only ? badge(`${subjLabel(String(row.subject_only))} only`) : null, row.rated === false && !row.no_data ? badge("Not rated", "off") : null],
+      badge(kindLabel(row.kind)), row.individual ? badge("Individual · 1v1") : null, levelBadge(row.level), row.subject_only ? badge(`${subjLabel(String(row.subject_only))} only`) : null, row.rated === false && !row.no_data ? badge("Not rated", "off") : null],
     title: row.name,
     sub: [h("span", null, fmt.range(row.date, row.end)), h("span", null, row.online ? "Online" : row.location || "Location not recorded"),
       row.set ? h("span", { class: "muted" }, `Question set: ${row.set}`) : null],
@@ -29,10 +30,11 @@ export async function render(ctx) {
   const srcs = row.sources || [];
   const srcBlock = h("div", { class: "section" }, h("div", { class: "section-head" }, h("h2", null, "Sources"), h("p", null, "Original results and statistics (open in a new tab)")),
     srcs.length ? h("ul", { class: "plain-list card" }, srcs.map((s) => h("li", null,
-      h("span", { class: "li-main" }, extLink(s.url, ({ results: "Results", stats: "Statistics", "results+stats": "Results and statistics", "results+scoresheets": "Results and scoresheets" })[s.role] || "Source")),
-      h("span", { class: "muted" }, ({ gsheet: "Google Sheets", isobowl: "ISOBowl", scibowl_live: "scibowl.live", challonge: "Challonge", drive_folder: "Google Drive", drive_file: "Google Drive", url: (() => { try { return new URL(s.url).hostname.replace(/^www\./, ""); } catch { return "link"; } })() })[s.kind] || s.kind || ""))))
+      h("span", { class: "li-main" }, extLink(s.url, sourceRoleLabel(s.role))),
+      h("span", { class: "muted" }, sourceKindLabel(s)))))
       : emptyState("No source links recorded."),
-    row.notes ? h("div", { class: "data-notes" }, h("h3", null, "Data notes"), h("p", null, row.notes)) : null);
+    // notes are written for maintainers (parsing caveats): available, but collapsed
+    row.notes ? h("details", { class: "data-notes" }, h("summary", null, "Data notes"), h("p", null, row.notes)) : null);
 
   if (row.no_data) {
     const why = row.status === "todo" && srcs.length
@@ -45,31 +47,45 @@ export async function render(ctx) {
     return root;
   }
 
+  if (row.individual) {
+    renderIndividual(root, row, t, P, T, TR);
+    root.appendChild(srcBlock);
+    return root;
+  }
+
   root.appendChild(h("div", { class: "tiles section" },
     tile("Teams", fmt.int(row.n_teams)),
     tile("Games", fmt.int(row.n_games), row.n_scored < row.n_games ? `${fmt.int(row.n_scored)} with scores` : "all with scores"),
     tile("Players with stats", row.n_players ? fmt.int(row.n_players) : "–"),
-    tile("Field strength", fmt.r(row.strength), "mean rating of the top 8"),
+    tile("Field strength", fmt.r(row.strength), row.strength != null ? "mean rating of the top 8" : row.rated === false ? "not computed for unrated events" : null),
     tile("Champion", row.champion ? h("span", { class: "tile-text" }, teamA(T, row.champion)) : "–",
       row.champion ? "won the final playoff game" : (t.games || []).some((g) => g.st === "playoff") ? "final result not published" : "no playoff recorded"),
     tile("Data", coverageBadges(row))));
 
   // ---- standings
   const champ = row.champion;
-  root.appendChild(section("Standings", "Sorted by wins, then fewest losses, then points per game", dataTable([
+  const scored = (t.teams || []).some((r) => r.ppg != null);
+  root.appendChild(section("Standings", scored ? "Sorted by wins, then fewest losses, then points per game" : "Sorted by wins, then fewest losses (no scores were published)", dataTable([
     { key: "i", label: "#", num: true, cls: "rank", render: (r, i) => i + 1 },
     { key: "tm", label: "Team", cls: "name", sort: (r) => (T.byId.get(r.tm) || {}).name || r.raw,
       render: (r) => {
         const tm = T.byId.get(r.tm);
-        const norm = (x) => String(x || "").toLowerCase().replace(/\s+/g, " ").trim();
-        const differs = tm && r.raw && norm(r.raw) !== norm(tm.name) && norm(r.raw) !== norm(tm.name.replace(/ [A-H]$/, ""));
+        // note the published name only when it says more than the team's or school's name: its words
+        // (ignoring generic ones like "High School") are not all part of either
+        const GENERIC = new Set(["high", "school", "senior", "junior", "hs", "the", "of", "and", "a", "b", "c", "d", "team"]);
+        const words = (x) => String(x || "").toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g, " ").trim().split(" ").filter((w) => w && !GENERIC.has(w) && !/^\d$/.test(w));
+        const known = new Set(tm ? [...words(tm.name), ...words(tm.school_name)] : []);
+        const rawWords = words(r.raw);
+        const differs = tm && rawWords.length && !rawWords.every((w) => known.has(w));
         return h("div", null, teamA(T, r.tm), differs ? h("span", { class: "sub" }, `listed as “${r.raw}”`) : null);
       } },
     { key: "rec", label: "W–L–T", num: true, sort: (r) => (r.g ? (r.w + 0.5 * r.t) / r.g : null), render: (r) => fmt.record(r.w, r.l, r.t) },
     { key: "g", label: "Games", num: true, sort: (r) => r.g, render: (r) => r.g },
-    { key: "ppg", label: "PPG", num: true, sort: (r) => r.ppg, render: (r) => fmt.num(r.ppg) },
-    { key: "papg", label: "PAPG", num: true, title: "Points allowed per game", sort: (r) => r.papg, render: (r) => fmt.num(r.papg) },
-    { key: "mrg", label: "Margin", num: true, sort: (r) => (r.ppg != null ? r.ppg - r.papg : null), render: (r) => (r.ppg != null ? fmt.signed(r.ppg - r.papg, 1) : "–") },
+    ...(scored ? [
+      { key: "ppg", label: "PPG", num: true, sort: (r) => r.ppg, render: (r) => fmt.num(r.ppg) },
+      { key: "papg", label: "PAPG", num: true, title: "Points allowed per game", sort: (r) => r.papg, render: (r) => fmt.num(r.papg) },
+      { key: "mrg", label: "Margin", num: true, sort: (r) => (r.ppg != null ? r.ppg - r.papg : null), render: (r) => (r.ppg != null ? fmt.signed(r.ppg - r.papg, 1) : "–") },
+    ] : []),
     { key: "rating", label: "Rating now", num: true, title: "Current overall rating", sort: (r) => (T.byId.get(r.tm) || {}).r, render: (r) => fmt.r((T.byId.get(r.tm) || {}).r) },
     { key: "note", label: "", render: (r) => (r.tm === champ ? champBadge() : "") },
   ], t.teams || [], { empty: "No standings." })));
@@ -81,6 +97,49 @@ export async function render(ctx) {
   root.appendChild(playerSection(t.players || [], P, T));
   root.appendChild(srcBlock);
   return root;
+}
+
+/** 1v1 events: competitors are people (no team entries); standings come from their games. */
+function renderIndividual(root, row, t, P, T, TR) {
+  const subj = row.subject_only ? String(row.subject_only) : null;
+  // competitors (computed from the 1v1 games); older data files only have the players array
+  const comps = t.competitors && t.competitors.length ? t.competitors
+    : (t.players || []).map((r) => ({ name: (P.byId.get(r.p) || {}).name || r.p, p: r.p }));
+  const nComp = row.n_competitors ?? comps.length;
+  root.appendChild(h("div", { class: "tiles section" },
+    tile("Format", h("span", { class: "tile-text" }, "Individual event"), `${fmt.plural(nComp, "competitor")} · one-on-one games`),
+    tile("Games", fmt.int(row.n_games), row.n_games ? (row.n_scored < row.n_games ? `${fmt.int(row.n_scored)} with scores` : "all with scores") : null),
+    tile("Players with stats", row.n_players ? fmt.int(row.n_players) : "–", row.n_players ? null : "no statistics published"),
+    tile("Champion", row.champion_name ? h("span", { class: "tile-text" }, championA(T, P, row)) : "–",
+      row.champion_name ? "won the final playoff game" : "final result not published"),
+    tile("Data", coverageBadges(row))));
+  const rating = (c) => {
+    const p = c.p && P.byId.get(c.p);
+    if (!p) return null;
+    return subj ? (p.subj[subj] ? p.subj[subj].r : null) : p.r;
+  };
+  const hasRec = comps.some((c) => c.g != null);
+  const columns = [
+    { key: "i", label: "#", num: true, cls: "rank", render: (c, i) => i + 1 },
+    { key: "name", label: "Competitor", cls: "name", sort: (c) => c.name,
+      render: (c) => (c.p && P.byId.has(c.p) ? playerA(P, c.p) : h("span", null, c.name)) },
+    ...(hasRec ? [
+      { key: "rec", label: "W–L–T", num: true, sort: (c) => (c.g ? (c.w + 0.5 * c.t) / c.g : null), render: (c) => (c.g ? fmt.record(c.w, c.l, c.t) : "–") },
+      { key: "g", label: "Games", num: true, sort: (c) => c.g, render: (c) => fmt.int(c.g) },
+      { key: "ppg", label: "PPG", num: true, sort: (c) => c.ppg, render: (c) => fmt.num(c.ppg) },
+      { key: "papg", label: "PAPG", num: true, title: "Points allowed per game", sort: (c) => c.papg, render: (c) => fmt.num(c.papg) },
+    ] : []),
+    comps.some((c) => c.p) ? { key: "rating", label: subj ? `${subjLabel(subj, true)} rating now` : "Rating now", num: true, title: subj ? `Current ${subjLabel(subj)} rating` : "Current overall rating", sort: rating, render: (c) => fmt.r(rating(c)) } : null,
+    { key: "note", label: "", render: (c) => (c.champ ? champBadge() : "") },
+  ].filter(Boolean);
+  const sub = hasRec
+    ? `${fmt.plural(nComp, "competitor")} · records from the one-on-one games, which are not listed individually and do not affect team ratings`
+    : `${fmt.plural(nComp, "competitor")}`;
+  root.appendChild(section("Competitors", sub, dataTable(columns, comps, {
+    caption: "Competitors", captionHidden: true, pageSize: 100,
+    empty: "No competitors recorded.",
+  })));
+  root.appendChild(playerSection(t.players || [], P, T, { individual: true }));
 }
 
 function gamesSection(games, T) {
@@ -129,7 +188,7 @@ function gamesSection(games, T) {
   return section("Games", `${fmt.plural(games.length, "game")} by stage and round${nUpsets ? ` · ${fmt.plural(nUpsets, "upset")} (loser had a pre-game win probability of 70% or more)` : ""}`, wrap);
 }
 
-function playerSection(rows, P, T) {
+function playerSection(rows, P, T, { individual = false } = {}) {
   if (!rows.length) return section("Player stats", null, emptyState("No individual statistics were published for this tournament."));
   const sv = (r, subj, k) => (r.s[subj] ? r.s[subj][k] : null);
   const ppg = (r) => { const o = r.s.overall; if (!o) return null; if (o.ppg != null) return o.ppg; return o.pts != null && o.gp ? o.pts / o.gp : null; };
@@ -137,7 +196,7 @@ function playerSection(rows, P, T) {
   const hasSubj = rows.some((r) => SUBJECTS.some((x) => r.s[x.key]));
   const columns = [
     { key: "p", label: "Player", cls: "name", sort: (r) => (P.byId.get(r.p) || {}).name || r.p, render: (r) => playerA(P, r.p) },
-    { key: "tm", label: "Team", cls: "team", sort: (r) => (T.byId.get(r.tm) || {}).name || r.tm, render: (r) => teamA(T, r.tm, { pickup: false }) },
+    individual ? null : { key: "tm", label: "Team", cls: "team", sort: (r) => (T.byId.get(r.tm) || {}).name || r.tm, render: (r) => teamA(T, r.tm, { pickup: false }) },
     { key: "gp", label: "GP", num: true, sort: (r) => sv(r, "overall", "gp"), render: (r) => { const g = sv(r, "overall", "gp"); return g == null ? "–" : (r.s.overall.gp_est ? "≈" : "") + fmt.num(g, 0); } },
     { key: "tuh", label: "TUH", num: true, title: "Tossups heard", sort: (r) => sv(r, "overall", "tuh"), render: (r) => fmt.int(sv(r, "overall", "tuh")) },
     { key: "c", label: "4s", num: true, title: "Correct tossups", sort: (r) => sv(r, "overall", "c"), render: (r) => fmt.int(sv(r, "overall", "c")) },
@@ -150,7 +209,7 @@ function playerSection(rows, P, T) {
       label: h("span", { class: "subj-label" }, h("span", { class: "swatch", style: { background: subjColor(x.key) }, "aria-hidden": "true" }), x.short),
       render: (r) => fmt.int(sv(r, x.key, "pts")),
     })) : []),
-  ];
+  ].filter(Boolean);
   return section("Player stats", `${fmt.plural(rows.length, "player")} · tossup points as published; ≈ marks inferred games played`,
     dataTable(columns, rows, { sort: { key: "pts", dir: "desc" }, pageSize: 100, caption: "Player statistics", captionHidden: true, tableClass: "compact" }));
 }

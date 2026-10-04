@@ -113,7 +113,8 @@ export function searchIndex() {
       const items = [];
       for (const t of T.list) items.push({ type: "Teams", id: t.id, label: t.name, sub: t.r != null ? `${Math.round(t.r)}` : (t.composite ? "pickup" : "unrated"), key: norm(t.name + " " + (t.school_name || "")), weight: t.r || 0 });
       for (const p of P.list) items.push({ type: "Players", id: p.id, label: p.name, sub: p.school_name || "", key: norm(p.name + " " + (p.aliases || []).join(" ")), weight: p.r || 0 });
-      for (const sc of S.list) items.push({ type: "Schools", id: sc.id, label: sc.name, sub: sc.state || "", key: norm(sc.name + " " + (sc.short || "") + " " + (sc.city || "")), weight: sc.best || 0 });
+      // pickup/composite "schools" are one-team placeholders, already listed under Teams
+      for (const sc of S.list) if (!sc.composite) items.push({ type: "Schools", id: sc.id, label: sc.name, sub: sc.state || "", key: norm(sc.name + " " + (sc.short || "") + " " + (sc.city || "")), weight: sc.best || 0 });
       const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
       const when = (d) => (d ? `${MONTHS[Number(d.slice(5, 7)) - 1]} ${d.slice(0, 4)}` : "");
       for (const tr of TR.list) items.push({ type: "Tournaments", id: tr.id, label: tr.name, sub: when(tr.date), key: norm(`${tr.name} ${tr.season} ${(tr.date || "").slice(0, 4)} ${tr.location || ""}`), weight: Date.parse(tr.date) / 1e9 });

@@ -316,20 +316,35 @@
   school: Venice High School
   city: Los Angeles
   state: CA
-  roster: []
-  coach: null
+  roster:
+  - Noah Bray-Ali
+  - David Dickinson
+  - Adam Ferrell
+  - Mathew Nickens
+  - Ryan Young
+  coach: Richard A. Erdman
 - year: 1996
   school: Venice High School
   city: Los Angeles
   state: CA
-  roster: []
-  coach: null
+  roster:
+  - Noah Bray-Ali
+  - David Dickinson
+  - Christopher Mayor
+  - Le Hoang
+  - Candice Kamachi
+  coach: Richard A. Erdman
 - year: 1995
   school: Van Nuys High School
   city: Van Nuys
   state: CA
-  roster: []
-  coach: null
+  roster:
+  - Jonathan Kirzner
+  - Michael Chu
+  - Scott Schneider
+  - Michael Mazur
+  - Do Joon Ra
+  coach: Arthur Altschiller
 - year: 1994
   school: Westminster School
   city: Atlanta
@@ -345,17 +360,32 @@
   school: Albany High School
   city: Albany
   state: CA
-  roster: []
-  coach: null
+  roster:
+  - Michael C. Wang
+  - Ben Rudiak-Gould
+  - Matthew A. Siebert
+  - Ilkay Can
+  - Zach Teitler
+  coach: Bruce Downing
 - year: 1992
   school: Lubbock High School
   city: Lubbock
   state: TX
-  roster: []
-  coach: null
+  roster:
+  - Michael Hsia
+  - Juny Sridhara
+  - Jeremy Martin
+  - Jason Tumlinson
+  - Jesse Martin
+  coach: Ann Sims
 - year: 1991
   school: Lubbock High School
   city: Lubbock
   state: TX
-  roster: []
-  coach: null
+  roster:
+  - Nirjar (Juny) Sridhara
+  - Tom Zavisca
+  - Michael Hsia
+  - Jay Moore
+  - Lee Cochran
+  coach: Hugh C. Smith

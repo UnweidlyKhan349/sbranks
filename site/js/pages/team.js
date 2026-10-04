@@ -1,6 +1,6 @@
 import { h, fmt, dataTable, tile, section, pageHead, notFound, SUBJECTS, subjColor, subjTag, delta, resultBadge, champBadge, upsetBadge, badge, parseDate, href, emptyState } from "../ui.js";
 import { lineChart, refBars, attachTip, tipContent, seqBin, rampLegend } from "../charts.js";
-import { meta, teams, players, tournaments, teamDetail, isActive } from "../data.js";
+import { meta, teams, players, schools, tournaments, teamDetail, isActive } from "../data.js";
 import { teamA, playerA, schoolA, tournamentA } from "../links.js";
 
 export function isUpset(result, p) {
@@ -10,20 +10,23 @@ export function isUpset(result, p) {
 
 export async function render(ctx) {
   const id = ctx.param;
-  const [m, T, P, TR] = await Promise.all([meta(), teams(), players(), tournaments()]);
+  const [m, T, P, TR, S] = await Promise.all([meta(), teams(), players(), tournaments(), schools()]);
   const t = T.byId.get(id);
   if (!t) { ctx.setTitle("Team not found"); return notFound("Team", id); }
   const d = (await teamDetail(id)) || { history: [], games: [], tournaments: [], roster: {}, subj_history: {}, coverage: null };
   ctx.setTitle(t.name);
+  const aff = t.affiliate ? S.byId.get(t.affiliate) || { id: t.affiliate, name: t.affiliate } : null;
   const root = h("div");
   const nRanked = T.list.filter((x) => x.rank != null).length;
   const active = isActive(t.last, m);
 
   root.appendChild(pageHead({
-    eyebrow: [h("a", { href: "#/teams" }, "Teams"), h("span", { "aria-hidden": "true" }, "/"), schoolA(t.school, t.school_name), t.state ? h("span", { class: "muted" }, t.state) : null,
+    eyebrow: [h("a", { href: "#/teams" }, "Teams"), h("span", { "aria-hidden": "true" }, "/"),
+      t.composite ? "Pickup team" : schoolA(t.school, t.school_name), t.state ? h("span", { class: "muted" }, t.state) : null,
       t.composite ? badge("Pickup / composite team") : null],
     title: t.name,
     sub: [
+      t.composite ? (aff ? h("span", null, "Players mostly from ", schoolA(aff.id, aff.name)) : h("span", null, "Players from several schools")) : null,
       h("span", null, t.seasons.length ? `Seasons ${t.seasons[0]}${t.seasons.length > 1 ? " – " + t.seasons[t.seasons.length - 1] : ""}` : "No seasons"),
       h("span", null, `Last played ${fmt.date(t.last)}`),
       h("a", { href: `#/compare?type=teams&a=${encodeURIComponent(t.id)}` }, "Compare with another team"),
@@ -39,7 +42,7 @@ export async function render(ctx) {
       t.rank != null ? `of ${fmt.int(nRanked)} ranked teams` : t.r == null ? "–" : !active ? "Inactive" : `Provisional (± above ${m.thresholds.ranked_rd})`),
     tile("Record", t.g ? fmt.record(t.w, t.l, t.t) : "–", `${fmt.plural(t.g, "rated game")}`),
     tile("Peak rating", fmt.r(t.peak), t.peak != null ? "after a tournament" : null),
-    tile("Tournaments", fmt.int(t.n_t), t.seasons.join(", ")),
+    tile("Tournaments", fmt.int(t.n_t), t.seasons.length > 1 ? `in ${t.seasons.length} seasons` : t.seasons[0] || null),
     tile("Best subject", subjBest ? subjTag(subjBest.k) : "–", subjBest ? `${fmt.r(subjBest.v.r)} ±${Math.round(subjBest.v.se)}` : null)));
 
   // ---- rating history

@@ -92,6 +92,9 @@ was inferred from the team's game count.
   sources: [{role, kind, url}], no_data? }
 ```
 `individual: true` marks 1v1 events (competitors are people; no team entries, only player stats).
+Individual events also carry `n_competitors`, `champion_name` (the winner of the final playoff
+game, by competitor name) and `champion_player` (that competitor's player id, or `null`), and their `n_games` / `n_scored` count the 1v1 games (which feed no
+rating and are not listed in `games`).
 `strength` = mean pre-tournament rating of the field's top 8 teams. `rated` = games count toward
 the overall team rating (false for single-subject events). `no_data: true` for listed events with
 no obtainable results.
@@ -108,8 +111,11 @@ Tournament row (above) plus:
 ```
 { teams: [{tm, raw, w, l, t, g, ppg, papg}],                 // sorted by wins (ties = ½), then fewest losses, then ppg
   games: [{id, st, rd, seq, t1, t2, s1, s2, res, p1, ff, pre1, pre2}],
-  players: [{p, tm, s: { overall|<subject>: {gp, tuh, c, n, pts, ppg, gp_est} }}] }
+  players: [{p, tm, s: { overall|<subject>: {gp, tuh, c, n, pts, ppg, gp_est} }}],
+  competitors?: [{name, p, w, l, t, g, ppg, papg, champ}] }  // individual events only
 ```
+`competitors` = standings of a 1v1 event computed from its games (forfeits left out of the records),
+sorted like `teams`; `p` = the competitor's player id when the event published player stats, else `null`.
 
 ## `nationals.json`
 ```

@@ -13,13 +13,18 @@ export async function render(ctx) {
   const nRanked = P.list.filter((x) => x.rank != null).length;
   const minN = m.thresholds.player_min_tuh;
   const root = h("div");
+  // other spellings, ignoring case-only differences
+  const seenNames = new Set([p.name.toLowerCase()]);
+  const aliases = (p.aliases || []).filter((a) => { const k = String(a).toLowerCase(); if (seenNames.has(k)) return false; seenNames.add(k); return true; });
 
   root.appendChild(pageHead({
-    eyebrow: [h("a", { href: "#/players" }, "Players"), h("span", { "aria-hidden": "true" }, "/"), schoolA(p.school, p.school_name), p.state ? h("span", { class: "muted" }, p.state) : null],
+    eyebrow: [h("a", { href: "#/players" }, "Players"),
+      ...(p.school ? [h("span", { "aria-hidden": "true" }, "/"), schoolA(p.school, p.school_name), p.state ? h("span", { class: "muted" }, p.state) : null]
+        : p.school_name ? [h("span", { "aria-hidden": "true" }, "/"), h("span", null, p.school_name)] : [])],
     title: p.name,
     sub: [
       p.teams.length ? h("span", null, "Teams: ", p.teams.map((tid, i) => [i ? ", " : "", teamA(T, tid)])) : null,
-      p.aliases && p.aliases.filter((a) => a !== p.name).length ? h("span", { class: "muted" }, `Also listed as ${p.aliases.filter((a) => a !== p.name).join(", ")}`) : null,
+      aliases.length ? h("span", { class: "muted" }, `Also listed as ${aliases.join(", ")}`) : null,
       h("a", { href: `#/compare?type=players&a=${encodeURIComponent(p.id)}` }, "Compare with another player"),
     ],
   }));

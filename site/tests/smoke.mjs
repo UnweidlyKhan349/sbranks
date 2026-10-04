@@ -26,7 +26,7 @@ const getJSON = async (p) => {
   return r.json();
 };
 
-const [teams, players, tournaments] = await Promise.all([getJSON("data/teams.json"), getJSON("data/players.json"), getJSON("data/tournaments.json")]);
+const [teams, players, tournaments, schools] = await Promise.all([getJSON("data/teams.json"), getJSON("data/players.json"), getJSON("data/tournaments.json"), getJSON("data/schools.json")]);
 const enc = encodeURIComponent;
 const topTeam = teams.find((t) => t.rank === 1) || teams[0];
 const secondTeam = teams.find((t) => t.rank === 2) || teams[1];
@@ -37,6 +37,10 @@ const noOverall = players.find((p) => p.r == null);
 const withStats = tournaments.find((t) => !t.no_data && t.coverage && t.coverage.player_stats);
 const noData = tournaments.find((t) => t.no_data);
 const unrated = teams.find((t) => t.r == null);
+const individual = tournaments.find((t) => t.individual && !t.no_data && (t.n_competitors || t.n_players));
+const affiliated = teams.find((t) => t.composite && t.affiliate);
+const pickupSchool = schools.find((sc) => (sc.pickup_teams || []).length);
+const nsbTournament = tournaments.find((t) => t.kind === "nationals" && !t.no_data);
 
 const routes = [
   ["home", "#/"],
@@ -45,7 +49,10 @@ const routes = [
   ["team-top", `#/team/${enc(topTeam.id)}`],
   composite ? ["team-composite", `#/team/${enc(composite.id)}`] : null,
   unrated ? ["team-unrated", `#/team/${enc(unrated.id)}`] : null,
+  affiliated ? ["team-pickup-affiliate", `#/team/${enc(affiliated.id)}`] : null,
+  affiliated ? ["school-composite", `#/school/${enc(affiliated.school)}`] : null,
   ["school", `#/school/${enc(topTeam.school)}`],
+  pickupSchool ? ["school-with-pickups", `#/school/${enc(pickupSchool.id)}`] : null,
   ["players", "#/players"],
   ["players-energy", "#/players?s=energy"],
   ["player-top", `#/player/${enc(topPlayer.id)}`],
@@ -53,6 +60,8 @@ const routes = [
   ["tournaments", "#/tournaments"],
   withStats ? ["tournament-stats", `#/tournament/${enc(withStats.id)}`] : null,
   noData ? ["tournament-nodata", `#/tournament/${enc(noData.id)}`] : null,
+  individual ? ["tournament-individual", `#/tournament/${enc(individual.id)}`] : null,
+  nsbTournament ? ["tournament-nsb", `#/tournament/${enc(nsbTournament.id)}`] : null,
   ["nationals", "#/nationals"],
   ["compare-teams", `#/compare?a=${enc(topTeam.id)}&b=${enc(secondTeam.id)}`],
   ["compare-players", `#/compare?type=players&a=${enc(topPlayer.id)}&b=${enc(secondPlayer.id)}`],
@@ -88,7 +97,7 @@ async function settle(page) {
 for (const [width, theme] of [[1280, "light"], [375, "light"], [375, "dark"]]) {
   const { ctx, page } = await newPage(width, theme);
   for (const [name, hash] of routes) {
-    if (theme === "dark" && !["home", "team-top", "player-top", "tournament-stats", "compare-teams"].includes(name)) continue;
+    if (theme === "dark" && !["home", "team-top", "player-top", "tournament-stats", "tournament-individual", "nationals", "compare-teams"].includes(name)) continue;
     const url = base + hash;
     try {
       await page.goto(url, { waitUntil: "load" });
@@ -214,6 +223,84 @@ for (const [width, theme] of [[1280, "light"], [375, "light"], [375, "dark"]]) {
   const rows = await page.locator("main tbody tr").count();
   if (rows < 2) fail(`nationals page rendered ${rows} table rows`);
   await page.screenshot({ path: join(outDir, "nationals-sample-1280.png"), fullPage: true });
+  await ctx.close();
+}
+
+// ---- features: individual events, pickup affiliations, Nationals history, collapsed data notes
+{
+  const { ctx, page } = await newPage(1280);
+  const text = async () => (await page.textContent("main")) || "";
+  if (individual) {
+    await page.goto(base + `#/tournament/${enc(individual.id)}`);
+    await settle(page);
+    const tx = await text();
+    if (!/Individual event/.test(tx)) fail("individual tournament page does not say 'Individual event'");
+    if (/\b0 teams\b/.test(tx)) fail("individual tournament page shows '0 teams'");
+    const n = await page.locator("main section:has(h2:text-is('Competitors')) tbody tr").count();
+    const expect = Math.min(100, individual.n_competitors || individual.n_players);
+    if (n !== expect) fail(`individual tournament lists ${n} competitors, expected ${expect}`);
+    await page.goto(base + `#/tournaments?q=${enc(individual.name)}`);
+    await settle(page);
+    if (!(await page.locator("main tbody tr", { hasText: "competitors" }).count())) fail("tournament list does not label an individual event's competitors");
+  }
+  if (affiliated) {
+    await page.goto(base + `#/team/${enc(affiliated.id)}`);
+    await settle(page);
+    const sub = (await page.textContent(".page-sub")) || "";
+    if (!/Players mostly from/.test(sub)) fail("pickup team page lacks 'Players mostly from'");
+    if (!(await page.locator(`.page-sub a[href="#/school/${enc(affiliated.affiliate)}"]`).count())) fail("pickup team page does not link its affiliate school");
+  }
+  if (pickupSchool) {
+    await page.goto(base + `#/school/${enc(pickupSchool.id)}`);
+    await settle(page);
+    const sec = page.locator("main section:has(h2:text-is(\"Pickup teams with this school's players\"))");
+    const n = await sec.locator("tbody tr").count();
+    if (n !== pickupSchool.pickup_teams.length) fail(`school page lists ${n} pickup teams, expected ${pickupSchool.pickup_teams.length}`);
+  }
+  // Nationals: champions back to 1991 and per-year finishes with team links
+  const nat = await getJSON("data/nationals.json");
+  if ((nat.winners || []).length) {
+    await page.goto(base + "#/nationals");
+    await settle(page);
+    const champs = await page.locator("main section:has(h2:text-is('Champions')) tbody tr").count();
+    if (champs !== nat.winners.length) fail(`nationals lists ${champs} champions, expected ${nat.winners.length}`);
+    const years = Object.keys(nat.finishes || {});
+    const cards = await page.locator("main section:has(h2:text-is('Finishes by year')) details").count();
+    if (cards !== years.length) fail(`nationals shows ${cards} finish years, expected ${years.length}`);
+    const newest = years.sort().reverse()[0];
+    const linked = await page.locator("main section:has(h2:text-is('Finishes by year')) details[open] tbody a[href^='#/team/']").count();
+    if (newest && linked < Math.min(10, nat.finishes[newest].filter((x) => x.tm).length)) fail(`nationals ${newest} finishes link only ${linked} teams`);
+  }
+  // maintainer notes stay collapsed
+  const withNotes = tournaments.find((t) => t.notes && !t.no_data);
+  if (withNotes) {
+    await page.goto(base + `#/tournament/${enc(withNotes.id)}`);
+    await settle(page);
+    const det = page.locator("main details.data-notes");
+    if (!(await det.count())) fail("tournament notes are not in a 'Data notes' disclosure");
+    else if (await det.evaluate((d) => d.open)) fail("'Data notes' disclosure is open by default");
+  }
+  await ctx.close();
+}
+
+// ---- big leaderboard stays responsive: paging appends rows, no full re-render of thousands
+{
+  const { ctx, page } = await newPage(1280);
+  await page.goto(base + "#/players?ranked=0&active=0");
+  await settle(page);
+  const r = await page.evaluate(() => {
+    const btn = document.querySelector(".more-row .btn");
+    if (!btn) return null;
+    const t0 = performance.now();
+    btn.click();
+    document.body.offsetHeight;
+    return { ms: performance.now() - t0, rows: document.querySelectorAll("main tbody tr").length, showAll: !![...document.querySelectorAll(".more-row button")].find((b) => b.textContent === "Show all") };
+  });
+  if (!r) fail("players leaderboard has no 'Show more' button");
+  else {
+    if (r.ms > 400) fail(`'Show more' on the players leaderboard blocked for ${Math.round(r.ms)} ms`);
+    if (r.showAll && players.length > 1000) fail("players leaderboard offers 'Show all' for thousands of rows");
+  }
   await ctx.close();
 }
 

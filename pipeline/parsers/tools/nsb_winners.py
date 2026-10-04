@@ -53,10 +53,12 @@ def main() -> None:
             continue
         body = cells[1].get_text("\n", strip=True).replace("\xa0", " ")
         body = re.sub(r"[ \t]+", " ", body)
-        m = re.search(r"First Place(?: High School)? Team\s*:?\s*(.+?)(?:\n|Team Members)", body, re.S)
+        # the page capitalises inconsistently ("Team members:" in 1991-1997)
+        m = re.search(r"First Place(?: High School)? Team\s*:?\s*(.+?)(?:\n|Team Members)", body, re.S | re.I)
         school, city, state = _place(m.group(1)) if m else ("", "", "")
         roster, coach = [], None
-        mm = re.search(r"Team Members\s*:?\s*(.+?)(?:\n(?:Prize|Other Participants|Winners of)|$)", body, re.S)
+        mm = re.search(r"Team Members\s*:?\s*(.+?)(?:\n(?:Prize|Other Participants|Winners of)|$)", body,
+                       re.S | re.I)
         if mm:
             names = re.split(r",|\band\b|\n", mm.group(1))
             for n in names:

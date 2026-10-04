@@ -46,3 +46,27 @@ def test_player_resolution_rules():
     pid = next(iter(set(t.values())))
     assert people[pid]["name"] == "Theenash Sengupta"
     assert people[pid]["school_id"] == "msj"
+
+
+def test_clean_player_name():
+    assert resolve.clean_player_name("(SCDS) Adam Akins") == "Adam Akins"
+    assert resolve.clean_player_name("Theenash Sengupta#0096") == "Theenash Sengupta"
+    assert resolve.clean_player_name("DELETE") is None
+    assert resolve.clean_player_name("  TBD ") is None
+    assert resolve.clean_player_name("Player 3") is None
+    assert resolve.clean_player_name("Kian Dhawan") == "Kian Dhawan"
+
+
+def test_first_name_only_rows_merge_with_unique_schoolmate():
+    R = resolve.Resolver.__new__(resolve.Resolver)
+    R.player_merge, R.player_nosplit, R.player_rename = {}, set(), {}
+    obs = [
+        {"tournament_id": "t1", "season": "2024-25", "raw": "Sohil Rathi", "team_id": "lyn-a", "school_id": "lyn", "composite": False},
+        {"tournament_id": "t2", "season": "2023-24", "raw": "Sohil", "team_id": "lyn-a", "school_id": "lyn", "composite": False},
+        {"tournament_id": "t3", "season": "2020-21", "raw": "Daniel", "team_id": "lyn-b", "school_id": "lyn", "composite": False},
+        {"tournament_id": "t1", "season": "2024-25", "raw": "Daniel Li", "team_id": "lyn-a", "school_id": "lyn", "composite": False},
+    ]
+    people, raw_to_pid = resolve._resolve_players(R, obs)
+    assert raw_to_pid[("t1", "Sohil Rathi", "lyn-a")] == raw_to_pid[("t2", "Sohil", "lyn-a")]
+    # a first name seen four seasons away from the full-name player stays separate
+    assert raw_to_pid[("t3", "Daniel", "lyn-b")] != raw_to_pid[("t1", "Daniel Li", "lyn-a")]

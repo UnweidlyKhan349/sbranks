@@ -127,6 +127,12 @@ export const fmt = {
   },
   record(w, l, t) { return t ? `${w}–${l}–${t}` : `${w}–${l}`; },
   plural(n, one, many) { return `${fmt.int(n)} ${n === 1 ? one : many || one + "s"}`; },
+  /** ["2020-21", …, "2026-27"] -> "2020-21 – 2026-27" */
+  seasons(list) {
+    const xs = [...new Set(list || [])].sort();
+    if (!xs.length) return "–";
+    return xs.length === 1 ? xs[0] : `${xs[0]} – ${xs[xs.length - 1]}`;
+  },
 };
 
 // ------------------------------------------------------------------ subjects
@@ -226,7 +232,8 @@ export function pageHead({ eyebrow, title, sub }) {
   return h("header", { class: "page-head" },
     eyebrow ? h("div", { class: "eyebrow" }, eyebrow) : null,
     h("h1", null, title),
-    sub ? h("div", { class: "page-sub" }, sub) : null);
+    // each item of an array sub-line is its own flex item (bare strings would merge into one)
+    sub ? h("div", { class: "page-sub" }, Array.isArray(sub) ? sub.filter((x) => x != null && x !== false).map((x) => (x instanceof Node ? x : h("span", null, x))) : sub) : null);
 }
 
 // ------------------------------------------------------------------ hrefs
@@ -239,12 +246,20 @@ export const href = {
 };
 
 // ------------------------------------------------------------------ tabs
-/** Tab strip; onSelect(key). Arrow keys move between tabs. */
-export function tabs(items, selected, onSelect, label = "Subject") {
+let tabSeq = 0;
+/** Tab strip; onSelect(key). Arrow keys move between tabs. `panel` (optional) is the element the tabs
+ *  control: it becomes the tabpanel, labelled by the selected tab. */
+export function tabs(items, selected, onSelect, label = "Subject", panel = null) {
+  const uid = `tabs${++tabSeq}`;
   const list = h("div", { class: "tablist", role: "tablist", "aria-label": label });
+  if (panel) {
+    panel.id = panel.id || `${uid}-panel`;
+    panel.setAttribute("role", "tabpanel");
+  }
   const buttons = items.map((it) => {
     const b = h("button", {
-      type: "button", class: "tab", role: "tab", "aria-selected": String(it.key === selected), tabindex: it.key === selected ? "0" : "-1",
+      type: "button", class: "tab", role: "tab", id: `${uid}-${it.key}`, "aria-selected": String(it.key === selected), tabindex: it.key === selected ? "0" : "-1",
+      "aria-controls": panel ? panel.id : null,
       onclick: () => select(it.key, true),
     }, it.swatch ? h("span", { class: "swatch", style: { background: it.swatch }, "aria-hidden": "true" }) : null, it.label);
     b.dataset.key = it.key;
@@ -255,9 +270,11 @@ export function tabs(items, selected, onSelect, label = "Subject") {
       const on = b.dataset.key === key;
       b.setAttribute("aria-selected", String(on));
       b.tabIndex = on ? 0 : -1;
+      if (on && panel) panel.setAttribute("aria-labelledby", b.id);
     }
     if (fire) onSelect(key);
   }
+  select(selected, false);
   list.addEventListener("keydown", (e) => {
     const i = buttons.indexOf(document.activeElement);
     if (i < 0) return;
@@ -287,6 +304,8 @@ export function subjectTabItems(withOverall = true) {
  *            render: (row, i) => Node|string, sortable?: true, defaultDir?: 'desc'|'asc'}]
  * opts: {rows, sort: {key, dir}, pageSize, caption, empty, rowClass, onSort, wrapClass}
  */
+const collator = new Intl.Collator("en", { sensitivity: "base", numeric: true });
+
 export function dataTable(columns, rows, opts = {}) {
   const pageSize = opts.pageSize || Infinity;
   let shown = Math.min(pageSize, rows.length);
@@ -322,7 +341,7 @@ export function dataTable(columns, rows, opts = {}) {
       if (na && nb) return 0;
       if (na) return 1; // nulls always last
       if (nb) return -1;
-      if (typeof va === "string") return mult * va.localeCompare(vb);
+      if (typeof va === "string") return mult * collator.compare(va, vb);
       return mult * (va - vb);
     };
     const primary = base(c.sort, m);
@@ -342,39 +361,60 @@ export function dataTable(columns, rows, opts = {}) {
   function toggleSort(c) {
     if (sort && sort.key === c.key) sort.dir = sort.dir === "asc" ? "desc" : "asc";
     else sort = { key: c.key, dir: c.defaultDir || (c.num ? "desc" : "asc") };
+    // a new order starts again from the top (bounded re-render on big tables)
+    if (shown > SHOW_ALL_MAX) shown = Math.min(pageSize, rows.length);
     data = rows.slice();
     applySort();
     renderBody();
     if (opts.onSort) opts.onSort(sort);
   }
-  function renderBody() {
-    clear(tbody);
-    if (!data.length) {
-      tbody.appendChild(h("tr", null, h("td", { colspan: columns.length, class: "empty" }, opts.empty || "Nothing to show.")));
+  // Rows render in pages: "Show more" appends only the new rows, and "Show all" is offered only for
+  // tables small enough to lay out at once (thousands of rows block the page for about a second).
+  const SHOW_ALL_MAX = 1000;
+  let rendered = 0;
+  function rowEl(row, i) {
+    const tr = h("tr", { class: opts.rowClass ? opts.rowClass(row) : null });
+    for (const c of columns) {
+      const v = c.render ? c.render(row, i) : row[c.key];
+      const td = h(c.th ? "th" : "td", { class: [c.num ? "num" : null, c.cls, c.hideSm ? "hide-sm" : null], scope: c.th ? "row" : null });
+      append(td, [v]);
+      tr.appendChild(td);
+    }
+    return tr;
+  }
+  function renderBody(appendOnly = false) {
+    if (!appendOnly) {
+      clear(tbody);
+      rendered = 0;
+      if (!data.length) {
+        tbody.appendChild(h("tr", null, h("td", { colspan: columns.length, class: "empty" }, opts.empty || "Nothing to show.")));
+      }
     }
     const frag = document.createDocumentFragment();
-    for (let i = 0; i < Math.min(shown, data.length); i++) {
-      const row = data[i];
-      const tr = h("tr", { class: opts.rowClass ? opts.rowClass(row) : null });
-      for (const c of columns) {
-        const v = c.render ? c.render(row, i) : row[c.key];
-        const td = h(c.th ? "th" : "td", { class: [c.num ? "num" : null, c.cls, c.hideSm ? "hide-sm" : null], scope: c.th ? "row" : null });
-        append(td, [v]);
-        tr.appendChild(td);
-      }
-      frag.appendChild(tr);
-    }
+    const firstNew = rendered;
+    const end = Math.min(shown, data.length);
+    for (let i = rendered; i < end; i++) frag.appendChild(rowEl(data[i], i));
+    rendered = Math.max(rendered, end);
     tbody.appendChild(frag);
+    // keep keyboard focus in the "more" row when its button is replaced
+    const hadFocus = more.contains(document.activeElement);
     clear(more);
     if (data.length > shown) {
       more.appendChild(document.createTextNode(`Showing ${fmt.int(shown)} of ${fmt.int(data.length)}`));
-      more.appendChild(h("button", { type: "button", class: "btn", onclick: () => { shown = Math.min(data.length, shown + pageSize); renderBody(); } },
-        `Show ${fmt.int(Math.min(pageSize, data.length - shown))} more`));
-      if (data.length - shown > pageSize) {
-        more.appendChild(h("button", { type: "button", class: "btn-link", onclick: () => { shown = data.length; renderBody(); } }, "Show all"));
+      const btn = h("button", { type: "button", class: "btn", onclick: () => { shown = Math.min(data.length, shown + pageSize); renderBody(true); } },
+        `Show ${fmt.int(Math.min(pageSize, data.length - shown))} more`);
+      more.appendChild(btn);
+      if (data.length - shown > pageSize && data.length <= SHOW_ALL_MAX) {
+        more.appendChild(h("button", { type: "button", class: "btn-link", onclick: () => { shown = data.length; renderBody(true); } }, "Show all"));
       }
+      if (hadFocus) btn.focus();
     } else if (data.length > 20 && pageSize !== Infinity) {
       more.appendChild(document.createTextNode(`${fmt.int(data.length)} rows`));
+    }
+    if (hadFocus && !more.contains(document.activeElement)) {
+      // the last page was shown and its button is gone: continue at the first newly added row
+      const link = tbody.rows[firstNew] && tbody.rows[firstNew].querySelector("a, button");
+      if (link) link.focus();
     }
     if (!more.childNodes.length) more.hidden = true; else more.hidden = false;
   }

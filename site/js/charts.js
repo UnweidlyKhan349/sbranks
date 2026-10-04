@@ -226,10 +226,44 @@ export function lineChart(series, opts = {}) {
       svgEl.appendChild(s("line", { class: "grid-line", x1: m.l, x2: m.l + iw, y1: y, y2: y }));
       svgEl.appendChild(s("text", { class: "ax-tick", x: m.l - 8, y: y + 4, "text-anchor": "end" }, yFormat(v)));
     }
+    let refText = null;
     if (opts.refY != null) {
       const y = Math.round(sy(opts.refY)) + 0.5;
       svgEl.appendChild(s("line", { class: "ref-line", x1: m.l, x2: m.l + iw, y1: y, y2: y }));
-      svgEl.appendChild(s("text", { class: "ref-label", x: m.l + 4, y: y - 4 }, opts.refLabel || ""));
+      if (opts.refLabel) {
+        // put the label at whichever end of the reference line the data leaves free (above, else below)
+        const lw = textWidth(opts.refLabel, 11);
+        const hitsBox = (bx0, bx1, by0, by1) => {
+          let n = 0;
+          for (const sr of visible) {
+            const P = sr.points.map((p) => [sx(p.x), sy(p.y)]);
+            for (let x = bx0; x <= bx1; x += 3) {
+              for (let i = 0; i < P.length; i++) {
+                const [xa, ya] = P[i];
+                const [xb, yb] = P[Math.min(i + 1, P.length - 1)];
+                let yy = null;
+                if (Math.abs(xa - x) <= 5) yy = ya;
+                else if (i + 1 < P.length && xa <= x && x <= xb) yy = ya + ((x - xa) / (xb - xa || 1)) * (yb - ya);
+                if (yy != null && yy >= by0 - 5 && yy <= by1 + 5) n++;
+              }
+            }
+          }
+          return n;
+        };
+        const cands = [
+          { x: m.l + 4, anchor: "start", ty: y - 4 }, { x: m.l + iw - 4, anchor: "end", ty: y - 4 },
+          { x: m.l + 4, anchor: "start", ty: y + 13 }, { x: m.l + iw - 4, anchor: "end", ty: y + 13 },
+        ].filter((c) => c.ty + 2 < m.t + ih || c.ty < y);
+        let best = cands[0], bestN = Infinity;
+        for (const c of cands) {
+          const bx0 = c.anchor === "start" ? c.x : c.x - lw;
+          const n = hitsBox(bx0, bx0 + lw, c.ty - 10, c.ty + 2);
+          if (n < bestN) { best = c; bestN = n; }
+          if (!n) break;
+        }
+        // appended after the series (below), so its halo keeps it legible where a line still crosses
+        refText = s("text", { class: "ref-label", x: best.x, y: best.ty, "text-anchor": best.anchor }, opts.refLabel);
+      }
     }
     // x axis
     const xb = Math.round(m.t + ih) + 0.5;
@@ -264,6 +298,7 @@ export function lineChart(series, opts = {}) {
       const pts = dotsAll ? sr.points : sr.points.slice(-1);
       for (const p of pts) svgEl.appendChild(s("circle", { class: "series-dot", cx: sx(p.x), cy: sy(p.y), r: 4, style: `fill:${sr.color}` }));
     }
+    if (refText) svgEl.appendChild(refText);
     // direct end labels (only when they don't collide)
     if (endLabels) {
       const labs = visible.map((sr) => ({ sr, y: sy(sr.points[sr.points.length - 1].y) })).sort((a, b) => a.y - b.y);
@@ -410,7 +445,9 @@ export function refBars(categories, series, opts = {}) {
     const sx = linear(dmin - span * 0.02, dmax + span * 0.02, x0, x1);
     const svgEl = s("svg", { width: W, height, viewBox: `0 0 ${W} ${height}`, role: "group", "aria-label": opts.label || "Bar chart" });
     const xr = Math.round(sx(ref)) + 0.5;
-    svgEl.appendChild(s("line", { class: "ref-line", x1: xr, x2: xr, y1: top - 4, y2: height - 4 }));
+    // stacked rows put their labels above the bars: draw the reference line per row so it never
+    // runs through a label
+    if (!stacked) svgEl.appendChild(s("line", { class: "ref-line", x1: xr, x2: xr, y1: top - 4, y2: height - 4 }));
     const refText = opts.refLabel || `${ref} = average`;
     const rtw = textWidth(refText, 11) / 2;
     const anchor = xr + rtw > W ? "end" : xr - rtw < labelW ? "start" : "middle";
@@ -427,6 +464,7 @@ export function refBars(categories, series, opts = {}) {
       }
       if (ci > 0) g.appendChild(s("line", { class: "grid-line", x1: 0, x2: W, y1: Math.round(y0) + 0.5, y2: Math.round(y0) + 0.5 }));
       const barsTop = stacked ? y0 + 22 : y0 + (rowH - barsH) / 2;
+      if (stacked) g.appendChild(s("line", { class: "ref-line", x1: xr, x2: xr, y1: barsTop - 3, y2: barsTop + barsH + 3 }));
       series.forEach((sr, si) => {
         const v = sr.values[c.key];
         const by = barsTop + si * (barH + gap);

@@ -1,9 +1,9 @@
 import { h, clear, fmt, dataTable, pageHead, setQuery, boolParam, debounce, coverageBadge, badge, extLink, emptyState, subjLabel } from "../ui.js";
-import { teams, tournaments } from "../data.js";
-import { teamA, tournamentA, kindLabel, levelBadge } from "../links.js";
+import { teams, players, tournaments } from "../data.js";
+import { tournamentA, kindLabel, levelBadge, entrantCount, championA, sourceRoleLabel } from "../links.js";
 
 export function sourceLinks(t) {
-  const label = (s) => ({ results: "Results", stats: "Stats", "results+stats": "Results & stats", "results+scoresheets": "Results & scoresheets" })[s.role] || "Source";
+  const label = (s) => sourceRoleLabel(s.role, true);
   const seen = new Map();
   return h("span", { class: "source-links" }, (t.sources || []).map((s) => {
     let text = label(s);
@@ -28,12 +28,15 @@ export function coverageBadges(t, { compact = false } = {}) {
 }
 
 export async function render(ctx) {
-  const [T, TR] = await Promise.all([teams(), tournaments()]);
+  const [T, P, TR] = await Promise.all([teams(), players(), tournaments()]);
   ctx.setTitle("Tournaments");
   const q = ctx.query;
   const st = { q: q.get("q") || "", season: q.get("season") || "", kind: q.get("kind") || "", stats: boolParam(q, "stats", false), data: boolParam(q, "data", false) };
   const seasons = [...new Set(TR.list.map((t) => t.season))].sort().reverse();
   const kinds = [...new Set(TR.list.map((t) => t.kind).filter(Boolean))].sort();
+  // unknown values from the URL fall back to "all"
+  if (!seasons.includes(st.season)) st.season = "";
+  if (!kinds.includes(st.kind)) st.kind = "";
   const root = h("div");
   const nData = TR.list.filter((t) => !t.no_data).length;
   root.appendChild(pageHead({
@@ -84,15 +87,16 @@ export async function render(ctx) {
       host.appendChild(dataTable([
         { key: "date", label: "Date", sort: (t) => t.date, defaultDir: "desc", render: (t) => h("span", { class: "nowrap" }, fmt.range(t.date, t.end)) },
         { key: "name", label: "Tournament", cls: "name wide", sort: (t) => t.name,
-          render: (t) => h("div", null, tournamentA(TR, t.id), " ", t.kind && t.kind !== "invitational" ? badge(kindLabel(t.kind)) : null, " ", levelBadge(t.level), t.subject_only ? badge(`${subjLabel(String(t.subject_only))} only`) : null,
-            t.no_data ? h("span", { class: "sub" }, "No results available", t.notes ? ` — ${t.notes}` : "") : null) },
+          render: (t) => h("div", null, tournamentA(TR, t.id), " ", t.kind && t.kind !== "invitational" ? badge(kindLabel(t.kind)) : null, " ", levelBadge(t.level), t.individual ? badge("Individual") : null, " ", t.subject_only ? badge(`${subjLabel(String(t.subject_only))} only`) : null,
+            t.no_data ? h("span", { class: "sub" }, "No results available") : null) },
         { key: "loc", label: "Location", sort: (t) => (t.online ? "Online" : t.location || ""), render: (t) => (t.online ? "Online" : t.location || h("span", { class: "muted" }, "–")) },
-        { key: "n_teams", label: "Teams", num: true, sort: (t) => (t.no_data ? null : t.n_teams), render: (t) => (t.no_data ? "–" : fmt.int(t.n_teams)) },
+        { key: "n_teams", label: "Teams", num: true, title: "Teams (competitors for individual events)", sort: (t) => (t.no_data ? null : entrantCount(t)),
+          render: (t) => (t.no_data ? "–" : t.individual ? h("span", { title: `Individual event: ${fmt.plural(entrantCount(t), "competitor")}` }, fmt.int(entrantCount(t)), h("span", { class: "sub" }, "competitors")) : fmt.int(t.n_teams)) },
         { key: "n_games", label: "Games", num: true, sort: (t) => (t.no_data ? null : t.n_games), render: (t) => (t.no_data ? "–" : fmt.int(t.n_games)) },
-        { key: "strength", label: "Field", num: true, title: "Field strength: mean pre-tournament rating of the top 8 teams", sort: (t) => t.strength, render: (t) => fmt.r(t.strength) },
-        { key: "champ", label: "Champion", sort: (t) => (t.champion ? (T.byId.get(t.champion) || {}).name : null), render: (t) => (t.champion ? teamA(T, t.champion) : h("span", { class: "muted" }, "–")) },
-        { key: "cov", label: "Data", render: (t) => (t.no_data ? badge("No results", "off") : coverageBadges(t, { compact: true })) },
-        { key: "src", label: "Sources", render: (t) => sourceLinks(t) },
+        { hideSm: true, key: "strength", label: "Field", num: true, title: "Field strength: mean pre-tournament rating of the top 8 teams", sort: (t) => t.strength, render: (t) => fmt.r(t.strength) },
+        { key: "champ", label: "Champion", sort: (t) => (t.champion ? (T.byId.get(t.champion) || {}).name : t.champion_name || null), render: (t) => championA(T, P, t) },
+        { hideSm: true, key: "cov", label: "Data", render: (t) => (t.no_data ? badge("No results", "off") : coverageBadges(t, { compact: true })) },
+        { hideSm: true, key: "src", label: "Sources", render: (t) => sourceLinks(t) },
       ], list, { sort: { key: "date", dir: "desc" }, rowClass: (t) => (t.no_data ? "dim" : null), caption: `${season} tournaments`, captionHidden: true, tableClass: "compact" }));
     }
   }
