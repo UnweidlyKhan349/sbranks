@@ -1,0 +1,24 @@
+id: 2025-04-19-science-bowl-at-ucla
+name: Science Bowl @ UCLA
+date: '2025-04-19'
+end_date: null
+season: 2024-25
+location: Los Angeles, CA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: stanford-2025
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1ZEficq-FQAT7Hv2YPWyjA43ayRLmn-eMiUy4D2IVm-s
+  url: https://docs.google.com/spreadsheets/d/1ZEficq-FQAT7Hv2YPWyjA43ayRLmn-eMiUy4D2IVm-s/edit?gid=210914516#gid=210914516
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

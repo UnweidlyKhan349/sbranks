@@ -1,0 +1,29 @@
+id: 2024-08-01-earth-and-space-scrimmage
+name: Earth and Space Scrimmage
+date: '2024-08-01'
+end_date: '2024-08-17'
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: scrimmage
+level: standard
+subject_only: ess
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 15QP4EBU6yVNzZQB5dB7_lU5UfFwm5jqqVb5b_nt75mo
+  url: https://docs.google.com/spreadsheets/d/15QP4EBU6yVNzZQB5dB7_lU5UfFwm5jqqVb5b_nt75mo/edit?gid=1432902636#gid=1432902636
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1VMCdOIULINAAYT2Rimzp30-eRrpQCB8ZzqGAXE3IVlM
+  url: https://docs.google.com/spreadsheets/d/1VMCdOIULINAAYT2Rimzp30-eRrpQCB8ZzqGAXE3IVlM/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

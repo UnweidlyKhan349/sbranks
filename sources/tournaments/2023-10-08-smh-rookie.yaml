@@ -1,0 +1,24 @@
+id: 2023-10-08-smh-rookie
+name: SMH Rookie
+date: '2023-10-08'
+end_date: null
+season: 2023-24
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: novice
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 1hK0JM8_5tP8ZLBpk8AB42uucqHPO_pvEYQ21VeQK0kk
+  url: https://docs.google.com/spreadsheets/d/1hK0JM8_5tP8ZLBpk8AB42uucqHPO_pvEYQ21VeQK0kk/edit#gid=0
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

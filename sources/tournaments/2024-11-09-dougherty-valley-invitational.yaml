@@ -1,0 +1,24 @@
+id: 2024-11-09-dougherty-valley-invitational
+name: Dougherty Valley Invitational
+date: '2024-11-09'
+end_date: null
+season: 2024-25
+location: San Ramon, CA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1tuyVvc_TBdUb2T8WJOc-wYBQ0dRXAUrtror1n7hzxBk
+  url: https://docs.google.com/spreadsheets/d/1tuyVvc_TBdUb2T8WJOc-wYBQ0dRXAUrtror1n7hzxBk/edit?usp=sharing
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,29 @@
+id: 2025-05-18-bash
+name: BASH
+date: '2025-05-18'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1iF3m_V6DufNEGc_HEEkFRsES4dtwoZjdZyTfHp2rV8E
+  url: https://docs.google.com/spreadsheets/d/1iF3m_V6DufNEGc_HEEkFRsES4dtwoZjdZyTfHp2rV8E/edit?gid=141778254#gid=141778254
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1oE6R16n6_jEhb12jYOE7Zh_DRrwMWX8evq-wkaOtRd4
+  url: https://docs.google.com/spreadsheets/d/1oE6R16n6_jEhb12jYOE7Zh_DRrwMWX8evq-wkaOtRd4/edit?gid=123110859#gid=123110859
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

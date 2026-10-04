@@ -1,0 +1,27 @@
+id: 2022-08-08-ssbt
+name: SSBT
+date: '2022-08-08'
+end_date: '2022-08-28'
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: challonge
+  role: results
+  url: https://challonge.com/66zxx0jt
+- kind: gsheet
+  role: stats
+  sheet_id: 16RFtbkGnCY4H-AgXdY8ulel9fCG5rHIp4U77eiywgww
+  url: https://docs.google.com/spreadsheets/d/16RFtbkGnCY4H-AgXdY8ulel9fCG5rHIp4U77eiywgww/edit#gid=64972669
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

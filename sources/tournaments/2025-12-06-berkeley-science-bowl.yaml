@@ -1,0 +1,29 @@
+id: 2025-12-06-berkeley-science-bowl
+name: Berkeley Science Bowl
+date: '2025-12-06'
+end_date: null
+season: 2025-26
+location: Berkeley, CA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1Yv7DF6YPq3L3qgKwbtOgErgpnUgQLrc6frRpA0UgA4M
+  url: https://docs.google.com/spreadsheets/d/1Yv7DF6YPq3L3qgKwbtOgErgpnUgQLrc6frRpA0UgA4M/edit?usp=drivesdk
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1ZNmI5PtUwu6gqVRhZadluGzDl31OXrZyZ8K0z6pOLgM
+  url: https://docs.google.com/spreadsheets/d/1ZNmI5PtUwu6gqVRhZadluGzDl31OXrZyZ8K0z6pOLgM/edit?usp=drivesdk
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

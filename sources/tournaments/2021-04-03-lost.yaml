@@ -1,0 +1,24 @@
+id: 2021-04-03-lost
+name: LOST
+date: '2021-04-03'
+end_date: null
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1sx4mikfjYi4NTZIIEvd89_DkqyOmJGB9b0MGM2aSG54
+  url: https://docs.google.com/spreadsheets/d/1sx4mikfjYi4NTZIIEvd89_DkqyOmJGB9b0MGM2aSG54/edit#gid=0
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,23 @@
+id: 2026-06-14-nsba-4
+name: NSBA 4
+date: '2026-06-14'
+end_date: '2026-08-30'
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: nsba-4
+  url: https://isobowl.com/premier/tournaments/nsba-4/standings
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,29 @@
+id: 2023-03-26-esbot
+name: ESBOT
+date: '2023-03-26'
+end_date: null
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1akMtA0zvWqCJWZaEYI5YbJey7Gmd8F83QlyeXiLOwdQ
+  url: https://docs.google.com/spreadsheets/d/1akMtA0zvWqCJWZaEYI5YbJey7Gmd8F83QlyeXiLOwdQ/edit#gid=1513475668
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1hT1jeA3bsHjehk6PcDnzx_Do0kLxblt5_K4XCSmTDvQ
+  url: https://docs.google.com/spreadsheets/d/1hT1jeA3bsHjehk6PcDnzx_Do0kLxblt5_K4XCSmTDvQ/edit#gid=659067696
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

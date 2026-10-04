@@ -1,0 +1,28 @@
+id: 2026-03-01-johns-hopkins-science-bowl
+name: Johns Hopkins Science Bowl
+date: '2026-03-01'
+end_date: null
+season: 2025-26
+location: Baltimore, MD
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: stanford-2026
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1vxVPIZbuKWpFa6tRIVz1tBpjRRl_yTOp3Zf8T9t_uyY
+  url: https://docs.google.com/spreadsheets/d/1vxVPIZbuKWpFa6tRIVz1tBpjRRl_yTOp3Zf8T9t_uyY/edit?pli=1&gid=117040699#gid=117040699
+  file: results.xlsx
+- kind: scibowl_live
+  role: results+stats
+  slug: johns-hopkins-invitational
+  url: https://www.scibowl.live/tournaments/johns-hopkins-invitational
+parser: scibowl_live:parse
+parser_options: {}
+status: parsed
+notes: Parsed from scibowl.live MoSS exports (per-game, per-category, per-player).

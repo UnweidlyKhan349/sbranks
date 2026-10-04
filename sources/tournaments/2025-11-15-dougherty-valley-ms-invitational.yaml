@@ -1,0 +1,24 @@
+id: 2025-11-15-dougherty-valley-ms-invitational
+name: Dougherty Valley MS Invitational
+date: '2025-11-15'
+end_date: null
+season: 2025-26
+location: San Ramon, CA
+online: false
+division: MS
+include: false
+exclude_reason: Middle school tournament
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1zuj9rqqZ7bO402TsmWvOrIQIuyLh_klUTcmlBLzE7pc
+  url: https://docs.google.com/spreadsheets/d/1zuj9rqqZ7bO402TsmWvOrIQIuyLh_klUTcmlBLzE7pc/edit?usp=sharing
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

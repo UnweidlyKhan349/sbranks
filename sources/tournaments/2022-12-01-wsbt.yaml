@@ -1,0 +1,27 @@
+id: 2022-12-01-wsbt
+name: WSBT
+date: '2022-12-01'
+end_date: '2023-03-31'
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: challonge
+  role: results
+  url: https://challonge.com/i5ow6xt2
+- kind: gsheet
+  role: stats
+  sheet_id: 1ifyTIilwRWDD7Xku94-ooUKpzIJJoNAOoGxGkI0DS_k
+  url: https://docs.google.com/spreadsheets/d/1ifyTIilwRWDD7Xku94-ooUKpzIJJoNAOoGxGkI0DS_k/edit#gid=454044142
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

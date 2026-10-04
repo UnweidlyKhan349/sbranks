@@ -1,0 +1,23 @@
+id: 2026-08-29-isobowl-invitational-tournament-hs
+name: ISOBowl Invitational Tournament HS
+date: '2026-08-29'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: isobowl-invitational-tournament
+  url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament/standings
+parser: null
+parser_options: {}
+status: todo
+notes: ''

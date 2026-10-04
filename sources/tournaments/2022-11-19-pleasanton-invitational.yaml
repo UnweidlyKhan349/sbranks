@@ -1,0 +1,24 @@
+id: 2022-11-19-pleasanton-invitational
+name: Pleasanton Invitational
+date: '2022-11-19'
+end_date: null
+season: 2022-23
+location: Pleasanton, CA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1JbfcwR0dKnABs5EG5T1i5FGpTOqvT7kAQ1gj2i0ZdH4
+  url: https://docs.google.com/spreadsheets/d/1JbfcwR0dKnABs5EG5T1i5FGpTOqvT7kAQ1gj2i0ZdH4/edit?usp=sharing
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

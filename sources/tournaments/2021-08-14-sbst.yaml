@@ -1,0 +1,29 @@
+id: 2021-08-14-sbst
+name: SBST
+date: '2021-08-14'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1QlFVLA8eWtdPudUzOxCe4DvBrIAdKHqVUJl_OXEgeI0
+  url: https://docs.google.com/spreadsheets/d/1QlFVLA8eWtdPudUzOxCe4DvBrIAdKHqVUJl_OXEgeI0/edit#gid=920507017
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1DYRT_mvwp3bbPdx86sfvohcAT5UiCUHl
+  url: https://docs.google.com/spreadsheets/d/1DYRT_mvwp3bbPdx86sfvohcAT5UiCUHl/edit#gid=1939856787
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

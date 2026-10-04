@@ -1,0 +1,27 @@
+id: 2024-01-14-nwi
+name: NWI
+date: '2024-01-14'
+end_date: null
+season: 2023-24
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://www.niskyscibowl.com/niskayuna-tournaments/nwi-2024/results
+  file: results.html
+- kind: url
+  role: stats
+  url: https://www.niskyscibowl.com/niskayuna-tournaments/nwi-2024/statistics
+  file: stats.html
+parser: null
+parser_options: {}
+status: todo
+notes: ''

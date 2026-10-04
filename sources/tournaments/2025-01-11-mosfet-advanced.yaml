@@ -1,0 +1,24 @@
+id: 2025-01-11-mosfet-advanced
+name: MOSFET Advanced
+date: '2025-01-11'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: advanced
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1oBGDkJriGyXwSg863lEaHKiunNKx1_BM_Yene7cWhec
+  url: https://docs.google.com/spreadsheets/d/1oBGDkJriGyXwSg863lEaHKiunNKx1_BM_Yene7cWhec/edit?gid=576804788#gid=576804788
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

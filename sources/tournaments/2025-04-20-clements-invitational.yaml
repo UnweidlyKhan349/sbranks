@@ -1,0 +1,24 @@
+id: 2025-04-20-clements-invitational
+name: Clements Invitational
+date: '2025-04-20'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 17mtBFAdH-qLFqz6XqiXtv1_xqbBAaCI98IHmQY9hOcA
+  url: https://docs.google.com/spreadsheets/d/17mtBFAdH-qLFqz6XqiXtv1_xqbBAaCI98IHmQY9hOcA/edit?gid=697506192#gid=697506192
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

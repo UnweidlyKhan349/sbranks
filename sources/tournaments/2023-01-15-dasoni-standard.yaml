@@ -1,0 +1,29 @@
+id: 2023-01-15-dasoni-standard
+name: DASONI Standard
+date: '2023-01-15'
+end_date: null
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1UKjkeRGnlrLIWOGkza6BT1mTLfRNDqGT2X8-Y0GGwpA
+  url: https://docs.google.com/spreadsheets/d/1UKjkeRGnlrLIWOGkza6BT1mTLfRNDqGT2X8-Y0GGwpA/edit#gid=1920854332
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1Dm_VZxUWOhHjB6vjmz5t622ALK9ZYkkhqvwJIejEIww
+  url: https://docs.google.com/spreadsheets/d/1Dm_VZxUWOhHjB6vjmz5t622ALK9ZYkkhqvwJIejEIww/edit#gid=346318044
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

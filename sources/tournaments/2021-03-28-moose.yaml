@@ -1,0 +1,24 @@
+id: 2021-03-28-moose
+name: MOOSE
+date: '2021-03-28'
+end_date: null
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1m6LCMjAPQNHWBqDunau6hOabcjpTky3mc8m8f8Jnswc
+  url: https://docs.google.com/spreadsheets/d/1m6LCMjAPQNHWBqDunau6hOabcjpTky3mc8m8f8Jnswc/edit#gid=364107482
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

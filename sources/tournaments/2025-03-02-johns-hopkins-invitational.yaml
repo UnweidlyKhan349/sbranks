@@ -1,0 +1,29 @@
+id: 2025-03-02-johns-hopkins-invitational
+name: Johns Hopkins Invitational
+date: '2025-03-02'
+end_date: null
+season: 2024-25
+location: Baltimore, MD
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: stanford-2025
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1LrqnCpa5BGVDSPFVZDnL6emtljaE1nsQs5YbdPzX1sc
+  url: https://docs.google.com/spreadsheets/d/1LrqnCpa5BGVDSPFVZDnL6emtljaE1nsQs5YbdPzX1sc/edit?gid=117040699#gid=117040699
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1dLmTbSxYyGYvhHAKMbQVivxPj8q-2iA7N3Lijw4xbWY
+  url: https://docs.google.com/spreadsheets/d/1dLmTbSxYyGYvhHAKMbQVivxPj8q-2iA7N3Lijw4xbWY/edit?gid=0#gid=0
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

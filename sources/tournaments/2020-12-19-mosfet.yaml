@@ -1,0 +1,29 @@
+id: 2020-12-19-mosfet
+name: MOSFET
+date: '2020-12-19'
+end_date: '2020-12-20'
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 10in33m9Ebe987NudxsOag8_wxVRcvyNB66cUCN_DQGc
+  url: https://docs.google.com/spreadsheets/d/10in33m9Ebe987NudxsOag8_wxVRcvyNB66cUCN_DQGc/edit#gid=0
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1-fQz5SvS-mNoT14iFWTt32KGLV8rTiIQ_3xpivtLYR0
+  url: https://docs.google.com/spreadsheets/d/1-fQz5SvS-mNoT14iFWTt32KGLV8rTiIQ_3xpivtLYR0/edit#gid=1695194000
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,24 @@
+id: 2022-09-01-nfsbl
+name: NFSBL
+date: '2022-09-01'
+end_date: '2022-12-31'
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 18Y5drGKGl2vNjGgeqOiOjijedoxCv5_Gi7QmAzX_yhE
+  url: https://docs.google.com/spreadsheets/d/18Y5drGKGl2vNjGgeqOiOjijedoxCv5_Gi7QmAzX_yhE/edit#gid=298437426
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

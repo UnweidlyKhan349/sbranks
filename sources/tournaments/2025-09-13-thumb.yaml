@@ -1,0 +1,29 @@
+id: 2025-09-13-thumb
+name: THUMB
+date: '2025-09-13'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1airV3e-nIqmGHLazO9nInBiouhSwTlwXYcgMMk_-2oI
+  url: https://docs.google.com/spreadsheets/d/1airV3e-nIqmGHLazO9nInBiouhSwTlwXYcgMMk_-2oI/edit?gid=468752784#gid=468752784
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1nhKQghNrGuob62nrP5t06rWyA4ITKDI8mY-Jm9MYNUI
+  url: https://docs.google.com/spreadsheets/d/1nhKQghNrGuob62nrP5t06rWyA4ITKDI8mY-Jm9MYNUI/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

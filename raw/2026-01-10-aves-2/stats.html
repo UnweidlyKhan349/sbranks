@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyrie</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M3 13h2v8H3zm4-8h2v13H7zm4-2h2v15h-2zm4 4h2v11h-2zm4-2h2v13h-2z" />
+                    </svg>
+                </div>
+                <span class="logo-text">Eyrie</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/rrscores">RR Scores</a></li>
+                <li><a href="/rrrank">RR Rankings</a></li>
+                <li><a href="/debracket">DE Bracket</a></li>
+                <li><a href="/sebracket">SE Bracket</a></li>
+                <li><a href="/stats">Stats</a></li>
+                <li><a href="/schedule">Schedule</a></li>
+                <li><a href="/games">Games</a></li>
+                <li><a href="/logout">Logout</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <ul class="nav-links-mobile" id="navLinksMobile">
+            <li><a href="/">Home</a></li>
+            <li><a href="/rrscores">RR Scores</a></li>
+            <li><a href="/rrrank">RR Rankings</a></li>
+            <li><a href="/debracket">DE Bracket</a></li>
+            <li><a href="/sebracket">SE Bracket</a></li>
+            <li><a href="/stats">Stats</a></li>
+            <li><a href="/schedule">Schedule</a></li>
+            <li><a href="/games">Games</a></li>
+            <li><a href="/logout">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        
+<section class="stats-page">
+    <div class="container" style="max-width: 1400px; margin: auto; padding: 20px; color: #fff;">
+        <br><br><br>
+        <h1 class="page-title" style="text-align: center; margin-bottom: 30px;">Tournament Statistics</h1>
+
+        <!-- Search Bar -->
+        <div class="search-container" style="text-align: center; margin-bottom: 50px;">
+            <form action="/stats" method="POST" style="display: inline-block;">
+                <input type="text" name="first_name" placeholder="First Name" required
+                    style="padding: 10px; border-radius: 5px; border: 1px solid #444; background: #222; color: white;">
+                <input type="text" name="last_name" placeholder="Last Name" required
+                    style="padding: 10px; border-radius: 5px; border: 1px solid #444; background: #222; color: white;">
+                <button type="submit" class="search-btn">Search User</button>
+            </form>
+            
+            
+            
+        </div>
+
+        <div class="stats-grid">
+            <!-- Helper Macro for Tables -->
+            
+
+            <!-- Explicit calls because dynamic key access in jinja macro is tricky for nested dicts -->
+
+            <!-- Overall -->
+            <div class="stats-card">
+                <h3 class="stats-header">Overall Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/73"
+                                        style="color: #58a6ff; text-decoration: none;">Edward Anthony</a></td>
+                                <td>33.6</td>
+                                <td style="color: #ff7b72;">5.6</td>
+                                <td>168</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/204"
+                                        style="color: #58a6ff; text-decoration: none;">Liran Zhu</a></td>
+                                <td>31.2</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>156</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/46"
+                                        style="color: #58a6ff; text-decoration: none;">suzuko ohshima</a></td>
+                                <td>28.8</td>
+                                <td style="color: #ff7b72;">5.6</td>
+                                <td>144</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/88"
+                                        style="color: #58a6ff; text-decoration: none;">Lucas Wu</a></td>
+                                <td>25.6</td>
+                                <td style="color: #ff7b72;">4.0</td>
+                                <td>128</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/67"
+                                        style="color: #58a6ff; text-decoration: none;">Travis Dumaran</a></td>
+                                <td>25.6</td>
+                                <td style="color: #ff7b72;">2.4</td>
+                                <td>128</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/326"
+                                        style="color: #58a6ff; text-decoration: none;">Andrew Wen</a></td>
+                                <td>24.8</td>
+                                <td style="color: #ff7b72;">2.4</td>
+                                <td>124</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/200"
+                                        style="color: #58a6ff; text-decoration: none;">Aldric Benalan</a></td>
+                                <td>24.8</td>
+                                <td style="color: #ff7b72;">4.0</td>
+                                <td>124</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/54"
+                                        style="color: #58a6ff; text-decoration: none;">Akhil Batchu</a></td>
+                                <td>23.2</td>
+                                <td style="color: #ff7b72;">6.4</td>
+                                <td>116</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/74"
+                                        style="color: #58a6ff; text-decoration: none;">Aaron Lin</a></td>
+                                <td>23.2</td>
+                                <td style="color: #ff7b72;">2.4</td>
+                                <td>116</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/390"
+                                        style="color: #58a6ff; text-decoration: none;">Gabe Levin</a></td>
+                                <td>22.4</td>
+                                <td style="color: #ff7b72;">4.8</td>
+                                <td>112</td>
+                                <td>10</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="stats-card">
+                <h3 class="stats-header">Overall Neg Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/112"
+                                        style="color: #58a6ff; text-decoration: none;">Timothy Chen</a></td>
+                                <td>10.0</td>
+                                <td style="color: #ff7b72;">12.0</td>
+                                <td>40</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/467"
+                                        style="color: #58a6ff; text-decoration: none;">Likhith Malipati</a></td>
+                                <td>-0.9</td>
+                                <td style="color: #ff7b72;">9.8</td>
+                                <td>-4</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/33"
+                                        style="color: #58a6ff; text-decoration: none;">Praneel Avula</a></td>
+                                <td>18.4</td>
+                                <td style="color: #ff7b72;">9.6</td>
+                                <td>92</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/91"
+                                        style="color: #58a6ff; text-decoration: none;">Ishaan Kabra</a></td>
+                                <td>12.0</td>
+                                <td style="color: #ff7b72;">8.8</td>
+                                <td>60</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/188"
+                                        style="color: #58a6ff; text-decoration: none;">Advaith Mopuri</a></td>
+                                <td>4.4</td>
+                                <td style="color: #ff7b72;">8.0</td>
+                                <td>20</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/117"
+                                        style="color: #58a6ff; text-decoration: none;">Harry Gao</a></td>
+                                <td>20.8</td>
+                                <td style="color: #ff7b72;">8.0</td>
+                                <td>104</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/260"
+                                        style="color: #58a6ff; text-decoration: none;">Eric Liu</a></td>
+                                <td>12.8</td>
+                                <td style="color: #ff7b72;">7.2</td>
+                                <td>64</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/54"
+                                        style="color: #58a6ff; text-decoration: none;">Akhil Batchu</a></td>
+                                <td>23.2</td>
+                                <td style="color: #ff7b72;">6.4</td>
+                                <td>116</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/164"
+                                        style="color: #58a6ff; text-decoration: none;">Bryce  Thach</a></td>
+                                <td>12.8</td>
+                                <td style="color: #ff7b72;">6.4</td>
+                                <td>64</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/506"
+                                        style="color: #58a6ff; text-decoration: none;">Fei Sean</a></td>
+                                <td>14.4</td>
+                                <td style="color: #ff7b72;">6.4</td>
+                                <td>36</td>
+                                <td>5</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Categories -->
+            
+
+            
+            <div class="stats-card">
+                <h3 class="stats-header">Biology Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/228"
+                                        style="color: #58a6ff; text-decoration: none;">Ajay Sawant</a></td>
+                                <td>12.0</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>60</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/506"
+                                        style="color: #58a6ff; text-decoration: none;">Fei Sean</a></td>
+                                <td>11.2</td>
+                                <td style="color: #ff7b72;">1.6</td>
+                                <td>28</td>
+                                <td>5</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/420"
+                                        style="color: #58a6ff; text-decoration: none;">Henry Kim</a></td>
+                                <td>10.3</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>36</td>
+                                <td>7</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/458"
+                                        style="color: #58a6ff; text-decoration: none;">Heidi Leonard</a></td>
+                                <td>9.8</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>44</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/289"
+                                        style="color: #58a6ff; text-decoration: none;">Larry Zhao</a></td>
+                                <td>9.6</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>48</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/89"
+                                        style="color: #58a6ff; text-decoration: none;">Jake Rosenblum</a></td>
+                                <td>9.1</td>
+                                <td style="color: #ff7b72;">1.1</td>
+                                <td>32</td>
+                                <td>7</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/439"
+                                        style="color: #58a6ff; text-decoration: none;">Aravind Muralidharan</a></td>
+                                <td>9.1</td>
+                                <td style="color: #ff7b72;">2.3</td>
+                                <td>32</td>
+                                <td>7</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/86"
+                                        style="color: #58a6ff; text-decoration: none;">Yajur Chandar</a></td>
+                                <td>8.9</td>
+                                <td style="color: #ff7b72;">0.9</td>
+                                <td>40</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/75"
+                                        style="color: #58a6ff; text-decoration: none;">Kian  Dhawan</a></td>
+                                <td>8.8</td>
+                                <td style="color: #ff7b72;">2.4</td>
+                                <td>44</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/424"
+                                        style="color: #58a6ff; text-decoration: none;">Helen Wang</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>40</td>
+                                <td>10</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="stats-card">
+                <h3 class="stats-header">Math Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/201"
+                                        style="color: #58a6ff; text-decoration: none;">Varun Gadi</a></td>
+                                <td>12.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>60</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/326"
+                                        style="color: #58a6ff; text-decoration: none;">Andrew Wen</a></td>
+                                <td>8.8</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>44</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/74"
+                                        style="color: #58a6ff; text-decoration: none;">Aaron Lin</a></td>
+                                <td>8.8</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>44</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/129"
+                                        style="color: #58a6ff; text-decoration: none;">Zoey Tang</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>36</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/47"
+                                        style="color: #58a6ff; text-decoration: none;">Michael Wei</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>40</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/151"
+                                        style="color: #58a6ff; text-decoration: none;">Evan Zhang</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>40</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/263"
+                                        style="color: #58a6ff; text-decoration: none;">Carl Towns</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>20</td>
+                                <td>5</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/264"
+                                        style="color: #58a6ff; text-decoration: none;">Kevin Qiu</a></td>
+                                <td>7.1</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>32</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/88"
+                                        style="color: #58a6ff; text-decoration: none;">Lucas Wu</a></td>
+                                <td>6.4</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>32</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/117"
+                                        style="color: #58a6ff; text-decoration: none;">Harry Gao</a></td>
+                                <td>6.4</td>
+                                <td style="color: #ff7b72;">4.0</td>
+                                <td>32</td>
+                                <td>10</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="stats-card">
+                <h3 class="stats-header">Chemistry Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/73"
+                                        style="color: #58a6ff; text-decoration: none;">Edward Anthony</a></td>
+                                <td>13.6</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>68</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/136"
+                                        style="color: #58a6ff; text-decoration: none;">Sanjay Oruganti</a></td>
+                                <td>12.0</td>
+                                <td style="color: #ff7b72;">2.0</td>
+                                <td>48</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/204"
+                                        style="color: #58a6ff; text-decoration: none;">Liran Zhu</a></td>
+                                <td>10.4</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>52</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/189"
+                                        style="color: #58a6ff; text-decoration: none;">Justin Do</a></td>
+                                <td>9.8</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>44</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/116"
+                                        style="color: #58a6ff; text-decoration: none;">Ryan Tae</a></td>
+                                <td>9.8</td>
+                                <td style="color: #ff7b72;">0.9</td>
+                                <td>44</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/41"
+                                        style="color: #58a6ff; text-decoration: none;">Adhav Kumar</a></td>
+                                <td>9.6</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>48</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/278"
+                                        style="color: #58a6ff; text-decoration: none;">William Wang</a></td>
+                                <td>9.0</td>
+                                <td style="color: #ff7b72;">1.0</td>
+                                <td>36</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/45"
+                                        style="color: #58a6ff; text-decoration: none;">Simon Zhang</a></td>
+                                <td>8.9</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>40</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/305"
+                                        style="color: #58a6ff; text-decoration: none;">Paxton Lin</a></td>
+                                <td>8.8</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>44</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/390"
+                                        style="color: #58a6ff; text-decoration: none;">Gabe Levin</a></td>
+                                <td>8.8</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>44</td>
+                                <td>10</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="stats-card">
+                <h3 class="stats-header">ESS Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/312"
+                                        style="color: #58a6ff; text-decoration: none;">Roshan Annamalai</a></td>
+                                <td>13.6</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>68</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/67"
+                                        style="color: #58a6ff; text-decoration: none;">Travis Dumaran</a></td>
+                                <td>12.8</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>64</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/46"
+                                        style="color: #58a6ff; text-decoration: none;">suzuko ohshima</a></td>
+                                <td>11.2</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>56</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/203"
+                                        style="color: #58a6ff; text-decoration: none;">Vishnu Mangipudi</a></td>
+                                <td>10.4</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>52</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/105"
+                                        style="color: #58a6ff; text-decoration: none;">Joel Yang</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>32</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/118"
+                                        style="color: #58a6ff; text-decoration: none;">Kensuke Ohshima</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">2.0</td>
+                                <td>32</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/117"
+                                        style="color: #58a6ff; text-decoration: none;">Harry Gao</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>40</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/300"
+                                        style="color: #58a6ff; text-decoration: none;">Camille Pimentel</a></td>
+                                <td>8.0</td>
+                                <td style="color: #ff7b72;">1.6</td>
+                                <td>40</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/54"
+                                        style="color: #58a6ff; text-decoration: none;">Akhil Batchu</a></td>
+                                <td>7.2</td>
+                                <td style="color: #ff7b72;">1.6</td>
+                                <td>36</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/200"
+                                        style="color: #58a6ff; text-decoration: none;">Aldric Benalan</a></td>
+                                <td>7.2</td>
+                                <td style="color: #ff7b72;">2.4</td>
+                                <td>36</td>
+                                <td>10</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+            <div class="stats-card">
+                <h3 class="stats-header">Physics Leaders</h3>
+                <div class="table-wrapper">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Name</th>
+                                <th>PPG</th>
+                                <th>NPG</th>
+                                <th>Pts</th>
+                                <th>HP</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                            <tr>
+                                <td>1</td>
+                                <td><a href="/stats/74"
+                                        style="color: #58a6ff; text-decoration: none;">Aaron Lin</a></td>
+                                <td>11.2</td>
+                                <td style="color: #ff7b72;">0.8</td>
+                                <td>56</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>2</td>
+                                <td><a href="/stats/326"
+                                        style="color: #58a6ff; text-decoration: none;">Andrew Wen</a></td>
+                                <td>10.4</td>
+                                <td style="color: #ff7b72;">1.6</td>
+                                <td>52</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>3</td>
+                                <td><a href="/stats/202"
+                                        style="color: #58a6ff; text-decoration: none;">Eric Xie</a></td>
+                                <td>8.9</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>40</td>
+                                <td>9</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>4</td>
+                                <td><a href="/stats/73"
+                                        style="color: #58a6ff; text-decoration: none;">Edward Anthony</a></td>
+                                <td>8.8</td>
+                                <td style="color: #ff7b72;">1.6</td>
+                                <td>44</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>5</td>
+                                <td><a href="/stats/204"
+                                        style="color: #58a6ff; text-decoration: none;">Liran Zhu</a></td>
+                                <td>7.2</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>36</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>6</td>
+                                <td><a href="/stats/390"
+                                        style="color: #58a6ff; text-decoration: none;">Gabe Levin</a></td>
+                                <td>7.2</td>
+                                <td style="color: #ff7b72;">2.4</td>
+                                <td>36</td>
+                                <td>10</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>7</td>
+                                <td><a href="/stats/173"
+                                        style="color: #58a6ff; text-decoration: none;">Anish Patel</a></td>
+                                <td>7.0</td>
+                                <td style="color: #ff7b72;">1.0</td>
+                                <td>28</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>8</td>
+                                <td><a href="/stats/118"
+                                        style="color: #58a6ff; text-decoration: none;">Kensuke Ohshima</a></td>
+                                <td>7.0</td>
+                                <td style="color: #ff7b72;">1.0</td>
+                                <td>28</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>9</td>
+                                <td><a href="/stats/112"
+                                        style="color: #58a6ff; text-decoration: none;">Timothy Chen</a></td>
+                                <td>7.0</td>
+                                <td style="color: #ff7b72;">2.0</td>
+                                <td>28</td>
+                                <td>8</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>10</td>
+                                <td><a href="/stats/436"
+                                        style="color: #58a6ff; text-decoration: none;">Shivam Chowdhary</a></td>
+                                <td>6.7</td>
+                                <td style="color: #ff7b72;">0.0</td>
+                                <td>20</td>
+                                <td>6</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            
+
+        </div>
+    </div>
+</section>
+
+<style>
+    body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+    }
+
+    .search-btn {
+        padding: 10px 20px;
+        background-color: #238636;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+    .search-btn:hover {
+        background-color: #2ea043;
+    }
+
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+        gap: 30px;
+    }
+
+    .stats-card {
+        background-color: #161b22;
+        border: 1px solid #30363d;
+        border-radius: 8px;
+        padding: 15px;
+    }
+
+    .stats-header {
+        text-align: center;
+        color: #58a6ff;
+        border-bottom: 1px solid #30363d;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .stats-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9em;
+    }
+
+    .stats-table th,
+    .stats-table td {
+        padding: 8px;
+        text-align: center;
+        border-bottom: 1px solid #21262d;
+    }
+
+    .stats-table th {
+        color: #8b949e;
+    }
+
+    .stats-table tr:last-child td {
+        border-bottom: none;
+    }
+</style>
+
+    </main>
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+id: 2020-10-01-sbl
+name: SBL
+date: '2020-10-01'
+end_date: '2020-12-31'
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: stats
+  sheet_id: 1DOM7ZiP5eVnFhH_hYDJGfeEb7V_UsYO2CjgmBVxBHa0
+  url: https://docs.google.com/spreadsheets/d/1DOM7ZiP5eVnFhH_hYDJGfeEb7V_UsYO2CjgmBVxBHa0/edit#gid=678795756
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

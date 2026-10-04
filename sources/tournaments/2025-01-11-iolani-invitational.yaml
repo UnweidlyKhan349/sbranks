@@ -1,0 +1,24 @@
+id: 2025-01-11-iolani-invitational
+name: ‘Iolani Invitational
+date: '2025-01-11'
+end_date: null
+season: 2024-25
+location: Honolulu, HI
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 11PZrPuEvOjPmLfrktNFmihVWtFaqgc7GkxnkFd-scnc
+  url: https://docs.google.com/spreadsheets/d/11PZrPuEvOjPmLfrktNFmihVWtFaqgc7GkxnkFd-scnc/edit?gid=360979583#gid=360979583
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

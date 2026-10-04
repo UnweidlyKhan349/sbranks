@@ -1,0 +1,19 @@
+id: 2025-09-27-college-plus-science-bowl-tournament
+name: College+ Science Bowl Tournament
+date: '2025-09-27'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: College+
+include: false
+exclude_reason: College+ division
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources: []
+parser: null
+parser_options: {}
+status: unavailable
+notes: No results or statistics linked from the Stanford tournament list.

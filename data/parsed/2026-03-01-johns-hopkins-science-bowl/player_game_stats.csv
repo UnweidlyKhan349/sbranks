@@ -1,0 +1,2320 @@
+game_id,player,team,subject,correct,negs,points
+1,Arjun Ganesan,Centreville HS Team 1,overall,1,0,4
+1,Ishaan Nandamudi,Centreville HS Team 1,overall,0,0,0
+1,Pritham Singh,Centreville HS Team 1,overall,3,0,12
+1,Yeojune Yun,Centreville HS Team 1,overall,0,0,0
+1,Angelina Li,Eagles A,overall,1,0,4
+1,Kaiwen Yao,Eagles A,overall,12,1,44
+1,Max Xu,Eagles A,overall,2,0,8
+1,Oliver Yang,Eagles A,overall,2,0,8
+2,Ian Wang,Basis,overall,3,1,8
+2,Jueon Kim,Basis,overall,0,0,0
+2,Neel Jain,Basis,overall,0,1,-4
+2,Sumer Chaudhary,Basis,overall,3,0,12
+2,Andrew Feng,North Allegheny,overall,1,0,4
+2,Hongyi Wang,North Allegheny,overall,5,1,16
+2,Jason Liu,North Allegheny,overall,3,0,12
+2,Kaartic Muralidharan,North Allegheny,overall,0,0,0
+2,Leonardo Yu,North Allegheny,overall,2,0,8
+3,Allen Liu,Eagles B,overall,2,1,4
+3,Anvita A,Eagles B,overall,1,0,4
+3,Lilly Yang,Eagles B,overall,1,1,0
+3,Madhuram Sharma,Eagles B,overall,2,0,8
+3,Akhil Mandapati,South Jersey,overall,1,0,4
+3,Arjun Deshpande,South Jersey,overall,4,1,12
+3,Dennis Ji,South Jersey,overall,2,0,8
+3,Gyan Chande,South Jersey,overall,2,0,8
+3,Monish Saravana Kumar,South Jersey,overall,2,3,-4
+4,Eli Segal,Eagles C,overall,0,0,0
+4,Kingshuk Roy,Eagles C,overall,0,0,0
+4,Matthew Du,Eagles C,overall,1,0,4
+4,Ryan Yang,Eagles C,overall,2,1,4
+4,Aahan Mahakud,WWPN A,overall,2,0,8
+4,Aldric Benalan,WWPN A,overall,7,2,20
+4,Easton Wei,WWPN A,overall,4,0,16
+4,Ishaan Arya,WWPN A,overall,3,0,12
+5,Abhinav Anand,Gargy Bomy,overall,4,1,12
+5,Dhairya Mathur,Gargy Bomy,overall,0,0,0
+5,Jason Mak,Gargy Bomy,overall,0,0,0
+5,Likhith Malipati,Gargy Bomy,overall,1,3,-8
+5,Sanjay Oruganti,Gargy Bomy,overall,2,2,0
+5,Nimit Agarwal,Shallow Walk team A,overall,0,0,0
+5,Prithwish Chatterjee,Shallow Walk team A,overall,0,1,-4
+5,Rishvanth Balasubramanian,Shallow Walk team A,overall,3,0,12
+5,Riyan Nayak,Shallow Walk team A,overall,1,0,4
+5,Ryan Karim,Shallow Walk team A,overall,9,0,36
+6,Eric Xie,Kiruna Scholars,overall,3,0,12
+6,Hrishi Bhooma,Kiruna Scholars,overall,1,2,-4
+6,Rohan Bairi,Kiruna Scholars,overall,3,0,12
+6,Sophia Guo,Kiruna Scholars,overall,4,1,12
+6,Abhijay Banerjee,Montgomery Blair B,overall,0,2,-8
+6,Arman Ayazi,Montgomery Blair B,overall,3,2,4
+6,Henry Lu,Montgomery Blair B,overall,0,0,0
+6,Kenneth Liu,Montgomery Blair B,overall,1,0,4
+6,William Qian,Montgomery Blair B,overall,4,1,12
+7,Chris Wang,Montgomery Blair A,overall,1,0,4
+7,Evan Zhang,Montgomery Blair A,overall,7,1,24
+7,Kevin Feng,Montgomery Blair A,overall,2,0,8
+7,Kian Dhawan,Montgomery Blair A,overall,11,0,44
+7,Sam Easaw,Montgomery Blair A,overall,0,0,0
+7,Aaron Zhou,WCHS A,overall,1,7,-24
+7,Allen Chang,WCHS A,overall,0,0,0
+7,Andrew Li,WCHS A,overall,0,5,-20
+7,Beirui Zhang,WCHS A,overall,0,1,-4
+8,Andrew Zhao,Richard Montgomery,overall,3,0,12
+8,David He,Richard Montgomery,overall,3,0,12
+8,Ethan Pei,Richard Montgomery,overall,1,0,4
+8,Keshav Ramaswamy,Richard Montgomery,overall,2,1,4
+8,Alex Wang,poolesville village idiots,overall,9,1,32
+8,Alvin Tong,poolesville village idiots,overall,0,0,0
+8,Caleb Wen,poolesville village idiots,overall,2,0,8
+8,Denis Motuzenko,poolesville village idiots,overall,1,1,0
+9,Arjun Ganesan,Centreville HS Team 1,overall,2,0,8
+9,Pritham Singh,Centreville HS Team 1,overall,4,0,16
+9,Ryan Hyon,Centreville HS Team 1,overall,1,0,4
+9,Yeojune Yun,Centreville HS Team 1,overall,0,0,0
+9,Andrew Zhao,Richard Montgomery,overall,9,1,32
+9,David He,Richard Montgomery,overall,2,0,8
+9,Ethan Pei,Richard Montgomery,overall,0,0,0
+9,Sedric Su,Richard Montgomery,overall,0,0,0
+10,Ian Wang,Basis,overall,7,0,28
+10,Jueon Kim,Basis,overall,1,0,4
+10,Neel Jain,Basis,overall,0,0,0
+10,Sumer Chaudhary,Basis,overall,1,0,4
+10,Eli Segal,Eagles C,overall,3,0,12
+10,Kingshuk Roy,Eagles C,overall,3,0,12
+10,Matthew Du,Eagles C,overall,2,0,8
+10,Ryan Yang,Eagles C,overall,0,0,0
+11,Angelina Li,Eagles A,overall,3,0,12
+11,Kaiwen Yao,Eagles A,overall,6,0,24
+11,Oliver Yang,Eagles A,overall,2,0,8
+11,Vishruth Kadiyala,Eagles A,overall,1,0,4
+11,Alex Wang,poolesville village idiots,overall,5,0,20
+11,Alvin Tong,poolesville village idiots,overall,0,0,0
+11,Caleb Wen,poolesville village idiots,overall,1,0,4
+11,Denis Motuzenko,poolesville village idiots,overall,0,0,0
+12,Allen Liu,Eagles B,overall,2,0,8
+12,Anvita A,Eagles B,overall,1,0,4
+12,Lilly Yang,Eagles B,overall,0,0,0
+12,Madhuram Sharma,Eagles B,overall,2,1,4
+12,Abhijay Banerjee,Montgomery Blair B,overall,1,0,4
+12,Arman Ayazi,Montgomery Blair B,overall,7,0,28
+12,Henry Lu,Montgomery Blair B,overall,2,0,8
+12,William Qian,Montgomery Blair B,overall,1,1,0
+13,Abhinav Anand,Gargy Bomy,overall,4,1,12
+13,Dhairya Mathur,Gargy Bomy,overall,2,0,8
+13,Likhith Malipati,Gargy Bomy,overall,2,2,0
+13,Sanjay Oruganti,Gargy Bomy,overall,3,1,8
+13,Aaron Zhou,WCHS A,overall,2,1,4
+13,Allen Chang,WCHS A,overall,0,0,0
+13,Andrew Li,WCHS A,overall,0,0,0
+13,Beirui Zhang,WCHS A,overall,0,0,0
+13,Steven Qi,WCHS A,overall,1,0,4
+14,Eric Xie,Kiruna Scholars,overall,3,1,8
+14,Hrishi Bhooma,Kiruna Scholars,overall,2,0,8
+14,Nathan Liang,Kiruna Scholars,overall,1,0,4
+14,Sophia Guo,Kiruna Scholars,overall,5,0,20
+14,Akhil Mandapati,South Jersey,overall,1,0,4
+14,Arjun Deshpande,South Jersey,overall,4,0,16
+14,Dennis Ji,South Jersey,overall,1,0,4
+14,Gyan Chande,South Jersey,overall,0,1,-4
+14,Monish Saravana Kumar,South Jersey,overall,4,0,16
+15,Chris Wang,Montgomery Blair A,overall,2,0,8
+15,Evan Zhang,Montgomery Blair A,overall,3,2,4
+15,Kevin Feng,Montgomery Blair A,overall,0,0,0
+15,Kian Dhawan,Montgomery Blair A,overall,7,1,24
+15,Sam Easaw,Montgomery Blair A,overall,0,0,0
+15,Nimit Agarwal,Shallow Walk team A,overall,0,0,0
+15,Prithwish Chatterjee,Shallow Walk team A,overall,0,1,-4
+15,Rishvanth Balasubramanian,Shallow Walk team A,overall,0,1,-4
+15,Riyan Nayak,Shallow Walk team A,overall,2,1,4
+15,Ryan Karim,Shallow Walk team A,overall,5,0,20
+16,Andrew Feng,North Allegheny,overall,1,0,4
+16,Hongyi Wang,North Allegheny,overall,2,1,4
+16,Jason Liu,North Allegheny,overall,4,0,16
+16,Leonardo Yu,North Allegheny,overall,2,0,8
+16,Aahan Mahakud,WWPN A,overall,1,0,4
+16,Aldric Benalan,WWPN A,overall,9,2,28
+16,Easton Wei,WWPN A,overall,1,0,4
+16,Ishaan Arya,WWPN A,overall,1,1,0
+17,Ian Wang,Basis,overall,5,0,20
+17,Jueon Kim,Basis,overall,0,0,0
+17,Neel Jain,Basis,overall,0,0,0
+17,Sumer Chaudhary,Basis,overall,1,0,4
+17,Alex Wang,poolesville village idiots,overall,4,2,8
+17,Alvin Tong,poolesville village idiots,overall,1,0,4
+17,Caleb Wen,poolesville village idiots,overall,5,1,16
+17,Denis Motuzenko,poolesville village idiots,overall,0,0,0
+18,Abhinav Anand,Gargy Bomy,overall,3,0,12
+18,Dhairya Mathur,Gargy Bomy,overall,0,1,-4
+18,Likhith Malipati,Gargy Bomy,overall,2,1,4
+18,Sanjay Oruganti,Gargy Bomy,overall,4,1,12
+18,Arjun Deshpande,South Jersey,overall,3,0,12
+18,Dennis Ji,South Jersey,overall,3,2,4
+18,Gyan Chande,South Jersey,overall,1,0,4
+18,Monish Saravana Kumar,South Jersey,overall,3,0,12
+19,Abhijay Banerjee,Montgomery Blair B,overall,1,2,-4
+19,Arman Ayazi,Montgomery Blair B,overall,4,3,4
+19,Henry Lu,Montgomery Blair B,overall,2,0,8
+19,William Qian,Montgomery Blair B,overall,1,1,0
+19,Nimit Agarwal,Shallow Walk team A,overall,0,1,-4
+19,Prithwish Chatterjee,Shallow Walk team A,overall,0,0,0
+19,Rishvanth Balasubramanian,Shallow Walk team A,overall,1,1,0
+19,Riyan Nayak,Shallow Walk team A,overall,1,0,4
+19,Ryan Karim,Shallow Walk team A,overall,9,1,32
+20,Andrew Feng,North Allegheny,overall,1,0,4
+20,Hongyi Wang,North Allegheny,overall,2,1,4
+20,Jason Liu,North Allegheny,overall,2,0,8
+20,Kaartic Muralidharan,North Allegheny,overall,0,0,0
+20,Leonardo Yu,North Allegheny,overall,1,2,-4
+20,Andrew Zhao,Richard Montgomery,overall,7,0,28
+20,David He,Richard Montgomery,overall,0,0,0
+20,Ethan Pei,Richard Montgomery,overall,5,0,20
+20,Keshav Ramaswamy,Richard Montgomery,overall,0,0,0
+21,Angelina Li,Eagles A,overall,2,0,8
+21,Kaiwen Yao,Eagles A,overall,6,1,20
+21,Oliver Yang,Eagles A,overall,2,0,8
+21,Vishruth Kadiyala,Eagles A,overall,0,0,0
+21,Eric Xie,Kiruna Scholars,overall,4,0,16
+21,Hrishi Bhooma,Kiruna Scholars,overall,3,0,12
+21,Rohan Bairi,Kiruna Scholars,overall,2,0,8
+21,Sophia Guo,Kiruna Scholars,overall,1,0,4
+22,Chris Wang,Montgomery Blair A,overall,1,0,4
+22,Evan Zhang,Montgomery Blair A,overall,3,0,12
+22,Kian Dhawan,Montgomery Blair A,overall,7,2,20
+22,Sam Easaw,Montgomery Blair A,overall,0,0,0
+22,Aahan Mahakud,WWPN A,overall,0,0,0
+22,Aldric Benalan,WWPN A,overall,6,0,24
+22,Easton Wei,WWPN A,overall,4,2,8
+22,Ishaan Arya,WWPN A,overall,0,0,0
+23,Andrew Zhao,Richard Montgomery,overall,3,0,12
+23,David He,Richard Montgomery,overall,0,0,0
+23,Ethan Pei,Richard Montgomery,overall,2,0,8
+23,Keshav Ramaswamy,Richard Montgomery,overall,4,1,12
+23,Sedric Su,Richard Montgomery,overall,0,0,0
+23,Nimit Agarwal,Shallow Walk team A,overall,0,0,0
+23,Prithwish Chatterjee,Shallow Walk team A,overall,1,0,4
+23,Rishvanth Balasubramanian,Shallow Walk team A,overall,0,0,0
+23,Riyan Nayak,Shallow Walk team A,overall,1,0,4
+23,Ryan Karim,Shallow Walk team A,overall,4,0,16
+24,Akhil Mandapati,South Jersey,overall,2,0,8
+24,Arjun Deshpande,South Jersey,overall,3,2,4
+24,Dennis Ji,South Jersey,overall,2,0,8
+24,Monish Saravana Kumar,South Jersey,overall,3,1,8
+24,Alex Wang,poolesville village idiots,overall,6,0,24
+24,Alvin Tong,poolesville village idiots,overall,0,0,0
+24,Caleb Wen,poolesville village idiots,overall,1,0,4
+24,Denis Motuzenko,poolesville village idiots,overall,0,2,-8
+25,Eric Xie,Kiruna Scholars,overall,2,1,4
+25,Hrishi Bhooma,Kiruna Scholars,overall,3,1,8
+25,Nathan Liang,Kiruna Scholars,overall,0,0,0
+25,Rohan Bairi,Kiruna Scholars,overall,1,0,4
+25,Sophia Guo,Kiruna Scholars,overall,1,2,-4
+25,Andrew Zhao,Richard Montgomery,overall,2,1,4
+25,David He,Richard Montgomery,overall,1,1,0
+25,Ethan Pei,Richard Montgomery,overall,4,0,16
+25,Keshav Ramaswamy,Richard Montgomery,overall,1,0,4
+26,Arjun Deshpande,South Jersey,overall,4,0,16
+26,Dennis Ji,South Jersey,overall,2,0,8
+26,Gyan Chande,South Jersey,overall,0,0,0
+26,Monish Saravana Kumar,South Jersey,overall,2,0,8
+26,Aahan Mahakud,WWPN A,overall,0,0,0
+26,Aldric Benalan,WWPN A,overall,6,1,20
+26,Easton Wei,WWPN A,overall,6,0,24
+26,Ishaan Arya,WWPN A,overall,0,1,-4
+27,Angelina Li,Eagles A,overall,0,0,0
+27,Kaiwen Yao,Eagles A,overall,6,1,20
+27,Max Xu,Eagles A,overall,1,0,4
+27,Vishruth Kadiyala,Eagles A,overall,2,0,8
+27,Chris Wang,Montgomery Blair A,overall,0,0,0
+27,Evan Zhang,Montgomery Blair A,overall,3,0,12
+27,Kevin Feng,Montgomery Blair A,overall,1,0,4
+27,Kian Dhawan,Montgomery Blair A,overall,8,1,28
+28,Eric Xie,Kiruna Scholars,overall,3,0,12
+28,Hrishi Bhooma,Kiruna Scholars,overall,4,0,16
+28,Rohan Bairi,Kiruna Scholars,overall,1,0,4
+28,Sophia Guo,Kiruna Scholars,overall,3,0,12
+28,Aahan Mahakud,WWPN A,overall,0,0,0
+28,Aldric Benalan,WWPN A,overall,5,0,20
+28,Easton Wei,WWPN A,overall,1,2,-4
+28,Ishaan Arya,WWPN A,overall,2,0,8
+29,Angelina Li,Eagles A,overall,1,0,4
+29,Kaiwen Yao,Eagles A,overall,7,0,28
+29,Max Xu,Eagles A,overall,0,0,0
+29,Oliver Yang,Eagles A,overall,0,0,0
+29,Eric Xie,Kiruna Scholars,overall,3,0,12
+29,Hrishi Bhooma,Kiruna Scholars,overall,2,0,8
+29,Rohan Bairi,Kiruna Scholars,overall,0,0,0
+29,Sophia Guo,Kiruna Scholars,overall,1,0,4
+30,Angelina Li,Eagles A,overall,0,0,0
+30,Kaiwen Yao,Eagles A,overall,5,0,20
+30,Max Xu,Eagles A,overall,0,0,0
+30,Vishruth Kadiyala,Eagles A,overall,0,1,-4
+30,Chris Wang,Montgomery Blair A,overall,0,0,0
+30,Evan Zhang,Montgomery Blair A,overall,3,1,8
+30,Kevin Feng,Montgomery Blair A,overall,0,0,0
+30,Kian Dhawan,Montgomery Blair A,overall,9,0,36
+31,Ian Wang,Basis,overall,5,0,20
+31,Jueon Kim,Basis,overall,1,0,4
+31,Neel Jain,Basis,overall,0,0,0
+31,Sumer Chaudhary,Basis,overall,7,0,28
+31,Eliana Hogan,Pilgrimage Homeschool,overall,0,0,0
+31,Ellie Leung,Pilgrimage Homeschool,overall,2,0,8
+31,Joshie Cheng,Pilgrimage Homeschool,overall,0,0,0
+31,Leila Indharasophang,Pilgrimage Homeschool,overall,3,0,12
+32,Aakanksh Govada,Centennial A,overall,0,1,-4
+32,Matthew Yang,Centennial A,overall,11,1,40
+32,Ray Gao,Centennial A,overall,0,0,0
+32,Shravan Yoagentharan,Centennial A,overall,0,0,0
+32,Eli Segal,Eagles C,overall,3,0,12
+32,Kingshuk Roy,Eagles C,overall,1,0,4
+32,Matthew Du,Eagles C,overall,3,0,12
+32,Ryan Yang,Eagles C,overall,3,0,12
+33,Litish Deepa,Centennial B,overall,0,0,0
+33,Rohan Sengupta,Centennial B,overall,3,1,8
+33,Eric Xie,Kiruna Scholars,overall,3,0,12
+33,Hrishi Bhooma,Kiruna Scholars,overall,8,1,28
+33,Nathan Liang,Kiruna Scholars,overall,2,0,8
+33,Rohan Bairi,Kiruna Scholars,overall,4,1,12
+34,Arjun,Centreville HS Team 1,overall,1,0,4
+34,Ishaan Nandamudi,Centreville HS Team 1,overall,0,0,0
+34,Pritham Singh,Centreville HS Team 1,overall,1,0,4
+34,Ryan Hyon,Centreville HS Team 1,overall,0,0,0
+34,Yeojune Yun,Centreville HS Team 1,overall,0,0,0
+34,Andrew Zhao,Richard Montgomery,overall,8,0,32
+34,David He,Richard Montgomery,overall,0,1,-4
+34,Ethan Pei,Richard Montgomery,overall,4,0,16
+34,Keshav Ramaswamy,Richard Montgomery,overall,4,0,16
+34,Sedric Su,Richard Montgomery,overall,3,0,12
+35,Angelina Li,Eagles A,overall,2,0,8
+35,Kaiwen Yao,Eagles A,overall,6,0,24
+35,Oliver Yang,Eagles A,overall,8,0,32
+35,Vishruth Kadiyala,Eagles A,overall,1,1,0
+35,Amy Xu,WCHS C,overall,0,0,0
+35,Evelyn Wang,WCHS C,overall,0,0,0
+35,Sonia Lin,WCHS C,overall,0,0,0
+35,Vivian Samara,WCHS C,overall,0,0,0
+36,Allen Liu,Eagles B,overall,1,1,0
+36,Anvita A,Eagles B,overall,3,0,12
+36,Lilly Yang,Eagles B,overall,2,1,4
+36,Madhuram Sharma,Eagles B,overall,6,1,20
+36,Angela Wang,Westtown A,overall,4,0,16
+36,Ben D'Alessandro,Westtown A,overall,0,0,0
+36,Jamie Lee,Westtown A,overall,3,0,12
+36,Tessa Kipnis,Westtown A,overall,0,0,0
+37,Abhinav Anand,Gargy Bomy,overall,8,1,28
+37,Dhairya Mathur,Gargy Bomy,overall,0,0,0
+37,Jason Mak,Gargy Bomy,overall,1,0,4
+37,Likhith Malipati,Gargy Bomy,overall,3,0,12
+37,Sanjay Oruganti,Gargy Bomy,overall,6,2,16
+37,Jayden Qin,Westtown B,overall,0,0,0
+37,Leila Alobeidy,Westtown B,overall,1,0,4
+37,Sarah Lan,Westtown B,overall,2,0,8
+38,Chris Wang,Montgomery Blair A,overall,1,0,4
+38,Evan Zhang,Montgomery Blair A,overall,5,0,20
+38,Kevin Feng,Montgomery Blair A,overall,0,0,0
+38,Kian Dhawan,Montgomery Blair A,overall,9,0,36
+38,Sam Easaw,Montgomery Blair A,overall,1,0,4
+38,Nimit Agarwal,Shallow Walk team A,overall,0,0,0
+38,Prithwish Chatterjee,Shallow Walk team A,overall,0,0,0
+38,Rishvanth Balasubramanian,Shallow Walk team A,overall,0,0,0
+38,Riyan Nayak,Shallow Walk team A,overall,1,2,-4
+38,Ryan Karim,Shallow Walk team A,overall,4,3,4
+39,Abhijay Banerjee,Montgomery Blair B,overall,2,1,4
+39,Arman Ayazi,Montgomery Blair B,overall,3,0,12
+39,Henry Lu,Montgomery Blair B,overall,2,0,8
+39,William Qian,Montgomery Blair B,overall,2,0,8
+39,Andrew Feng,North Allegheny,overall,3,0,12
+39,Hongyi Wang,North Allegheny,overall,5,0,20
+39,Jason Liu,North Allegheny,overall,1,0,4
+39,Kaartic Muralidharan,North Allegheny,overall,0,0,0
+39,Leonardo Yu,North Allegheny,overall,5,0,20
+40,Aarav Mohindru,Poolesville 2,overall,0,0,0
+40,Ankush Karmakar,Poolesville 2,overall,1,0,4
+40,Daniel Zhang,Poolesville 2,overall,5,0,20
+40,Jasraj Bhatia,Poolesville 2,overall,1,0,4
+40,Alice Wan,The Wilberforce School,overall,2,0,8
+40,Julian Lin,The Wilberforce School,overall,0,0,0
+40,Matthew Hettena,The Wilberforce School,overall,7,0,28
+40,Richmond Darrow,The Wilberforce School,overall,5,0,20
+41,Dheeran Seelam,Shallow Stroll Team B,overall,0,0,0
+41,Rithik Natarajan,Shallow Stroll Team B,overall,0,0,0
+41,Ruohan Xu,Shallow Stroll Team B,overall,3,0,12
+41,Sreekar Karra,Shallow Stroll Team B,overall,4,0,16
+41,Yunay Vaddi,Shallow Stroll Team B,overall,1,1,0
+41,Chaitan Praveen,Thomas S Wootton High School team B,overall,3,0,12
+41,Hyunjoon Song,Thomas S Wootton High School team B,overall,0,0,0
+41,Peter Foerster,Thomas S Wootton High School team B,overall,6,0,24
+41,Vikram Gidwani,Thomas S Wootton High School team B,overall,0,0,0
+42,Akhil Mandapati,South Jersey,overall,0,1,-4
+42,Arjun Deshpande,South Jersey,overall,4,0,16
+42,Dennis Ji,South Jersey,overall,2,0,8
+42,Gyan Chande,South Jersey,overall,2,0,8
+42,Monish Saravana Kumar,South Jersey,overall,6,2,16
+42,Andrew Li,WWPN B,overall,1,0,4
+42,Jeddy Yu,WWPN B,overall,0,0,0
+42,Krivi Partani,WWPN B,overall,2,0,8
+42,Will Luo,WWPN B,overall,2,0,8
+43,Arun Kompella,Thomas S Wootton High School team A,overall,0,0,0
+43,Christina Chow,Thomas S Wootton High School team A,overall,0,0,0
+43,Cody Gao,Thomas S Wootton High School team A,overall,2,0,8
+43,Louis Wang,Thomas S Wootton High School team A,overall,1,0,4
+43,Quinn Lam-Vu,Thomas S Wootton High School team A,overall,0,0,0
+43,Aahan Mahakud,WWPN A,overall,0,0,0
+43,Aldric Benalan,WWPN A,overall,10,1,36
+43,Easton Wei,WWPN A,overall,7,0,28
+43,Ishaan Arya,WWPN A,overall,1,1,0
+44,Aayu Rastogi,Thomas S Wootton High School team C,overall,0,0,0
+44,Callie Gao,Thomas S Wootton High School team C,overall,0,0,0
+44,Christina Teng,Thomas S Wootton High School team C,overall,1,0,4
+44,Ricky Bam,Thomas S Wootton High School team C,overall,3,0,12
+44,Aaron Zhou,WCHS A,overall,3,0,12
+44,Allen Chang,WCHS A,overall,0,0,0
+44,Andrew Li,WCHS A,overall,4,0,16
+44,Beirui Zhang,WCHS A,overall,6,1,20
+44,Steven Qi,WCHS A,overall,0,0,0
+45,Rebecca Loving,WCHS B,overall,0,0,0
+45,Ritisha Das,WCHS B,overall,0,0,0
+45,Seojin Kim,WCHS B,overall,0,0,0
+45,TaeHee Kim,WCHS B,overall,0,0,0
+45,Alex Wang,poolesville village idiots,overall,7,0,28
+45,Alvin Tong,poolesville village idiots,overall,1,0,4
+45,Caleb Wen,poolesville village idiots,overall,6,0,24
+45,Denis Motuzenko,poolesville village idiots,overall,2,1,4
+46,Ian Wang,Basis,overall,1,0,4
+46,Jueon Kim,Basis,overall,0,0,0
+46,Neel Jain,Basis,overall,0,0,0
+46,Sumer Chaudhary,Basis,overall,1,0,4
+46,Eric Xie,Kiruna Scholars,overall,6,0,24
+46,Hrishi Bhooma,Kiruna Scholars,overall,10,1,36
+46,Nathan Liang,Kiruna Scholars,overall,1,0,4
+46,Rohan Bairi,Kiruna Scholars,overall,1,0,4
+46,Sophia Guo,Kiruna Scholars,overall,2,0,8
+47,Aakanksh Govada,Centennial A,overall,0,0,0
+47,Matthew Yang,Centennial A,overall,4,1,12
+47,Ray Gao,Centennial A,overall,1,0,4
+47,Shravan Yoagentharan,Centennial A,overall,3,0,12
+47,Arun Kompella,Thomas S Wootton High School team A,overall,1,0,4
+47,Christina Chow,Thomas S Wootton High School team A,overall,4,1,12
+47,Cody Gao,Thomas S Wootton High School team A,overall,2,1,4
+47,Louis Wang,Thomas S Wootton High School team A,overall,0,0,0
+47,Quinn Lam-Vu,Thomas S Wootton High School team A,overall,3,1,8
+48,Litish Deepa,Centennial B,overall,0,0,0
+48,Rohan Sengupta,Centennial B,overall,1,0,4
+48,Akhil Mandapati,South Jersey,overall,2,1,4
+48,Arjun Deshpande,South Jersey,overall,6,1,20
+48,Dennis Ji,South Jersey,overall,2,0,8
+48,Gyan Chande,South Jersey,overall,2,0,8
+48,Monish Saravana Kumar,South Jersey,overall,6,1,20
+49,Arjun Ganesan,Centreville HS Team 1,overall,6,0,24
+49,Ishaan Nandamudi,Centreville HS Team 1,overall,0,0,0
+49,Pritham Singh,Centreville HS Team 1,overall,7,1,24
+49,Ryan Hyon,Centreville HS Team 1,overall,0,0,0
+49,Yeojune Yun,Centreville HS Team 1,overall,0,0,0
+49,Nagadheeran,Shallow Stroll Team B,overall,0,0,0
+49,Rithik Natarajan,Shallow Stroll Team B,overall,1,0,4
+49,Ruohan Xu,Shallow Stroll Team B,overall,2,2,0
+49,Sreekar Karra,Shallow Stroll Team B,overall,1,1,0
+49,Yunay Vaddi,Shallow Stroll Team B,overall,0,2,-8
+50,Angelina Li,Eagles A,overall,0,0,0
+50,Kaiwen Yao,Eagles A,overall,11,1,40
+50,Max Xu,Eagles A,overall,0,0,0
+50,Oliver Yang,Eagles A,overall,1,1,0
+50,Vishruth Kadiyala,Eagles A,overall,2,0,8
+50,Andrew Zhao,Richard Montgomery,overall,2,0,8
+50,David He,Richard Montgomery,overall,1,0,4
+50,Ethan Pei,Richard Montgomery,overall,2,1,4
+50,Keshav Ramaswamy,Richard Montgomery,overall,2,0,8
+50,Sedric Su,Richard Montgomery,overall,1,0,4
+51,Allen Liu,Eagles B,overall,3,0,12
+51,Anvita A,Eagles B,overall,0,0,0
+51,Lilly Yang,Eagles B,overall,3,0,12
+51,Madhuram Sharma,Eagles B,overall,3,2,4
+51,Andrew Feng,North Allegheny,overall,4,0,16
+51,Hongyi Wang,North Allegheny,overall,3,1,8
+51,Jason Liu,North Allegheny,overall,5,0,20
+51,Kaartic Muralidharan,North Allegheny,overall,0,0,0
+51,Leonardo Yu,North Allegheny,overall,2,0,8
+52,Eli Segal,Eagles C,overall,5,0,20
+52,Kingshuk Roy,Eagles C,overall,3,0,12
+52,Matthew Du,Eagles C,overall,4,0,16
+52,Ryan Yang,Eagles C,overall,3,1,8
+52,Jayden Qin,Westtown B,overall,3,1,8
+52,Leila Alobeidy,Westtown B,overall,0,0,0
+52,Sarah Lan,Westtown B,overall,0,0,0
+53,Abhinav Anand,Gargy Bomy,overall,3,2,4
+53,Jason Mak,Gargy Bomy,overall,0,0,0
+53,Likhith Malipati,Gargy Bomy,overall,4,0,16
+53,Sanjay Oruganti,Gargy Bomy,overall,3,1,8
+53,Aahan Mahakud,WWPN A,overall,1,0,4
+53,Aldric Benalan,WWPN A,overall,6,0,24
+53,Easton Wei,WWPN A,overall,2,0,8
+53,Ishaan Arya,WWPN A,overall,0,0,0
+54,Chris Wang,Montgomery Blair A,overall,1,0,4
+54,Evan Zhang,Montgomery Blair A,overall,6,0,24
+54,Kevin Feng,Montgomery Blair A,overall,5,0,20
+54,Kian Dhawan,Montgomery Blair A,overall,11,0,44
+54,Sam Easaw,Montgomery Blair A,overall,0,0,0
+54,Alice Wan,The Wilberforce School,overall,0,1,-4
+54,Julian Lin,The Wilberforce School,overall,0,0,0
+54,Matthew Hettena,The Wilberforce School,overall,0,0,0
+54,Richmond Darrow,The Wilberforce School,overall,0,0,0
+55,Abhijay Banerjee,Montgomery Blair B,overall,6,0,24
+55,Arman Ayazi,Montgomery Blair B,overall,6,1,20
+55,Henry Lu,Montgomery Blair B,overall,3,0,12
+55,Kenneth Liu,Montgomery Blair B,overall,2,0,8
+55,William Qian,Montgomery Blair B,overall,2,0,8
+55,Rebecca Loving,WCHS B,overall,0,0,0
+55,Ritisha Das,WCHS B,overall,0,1,-4
+55,Seojin Kim,WCHS B,overall,0,0,0
+55,TaeHee Kim,WCHS B,overall,0,0,0
+56,Eliana Hogan,Pilgrimage Homeschool,overall,0,0,0
+56,Ellie Leung,Pilgrimage Homeschool,overall,0,0,0
+56,Joshie Cheng,Pilgrimage Homeschool,overall,0,0,0
+56,Leila Indharasophang,Pilgrimage Homeschool,overall,4,0,16
+56,Andrew Li,WWPN B,overall,2,0,8
+56,Jeddy,WWPN B,overall,1,0,4
+56,Krivi Partani,WWPN B,overall,6,0,24
+56,Will Luo,WWPN B,overall,3,1,8
+57,Aarav Mohindru,Poolesville 2,overall,0,0,0
+57,Ankush Karmakar,Poolesville 2,overall,0,1,-4
+57,Daniel Zhang,Poolesville 2,overall,0,1,-4
+57,Jasraj Bhatia,Poolesville 2,overall,0,1,-4
+57,Aaron Zhou,WCHS A,overall,3,1,8
+57,Allen Chang,WCHS A,overall,3,0,12
+57,Andrew Li,WCHS A,overall,5,0,20
+57,Beirui Zhang,WCHS A,overall,2,2,0
+57,Steven Qi,WCHS A,overall,0,0,0
+58,Nimit Agarwal,Shallow Walk team A,overall,0,0,0
+58,Prithwish Chatterjee,Shallow Walk team A,overall,1,0,4
+58,Rishvanth Balasubramanian,Shallow Walk team A,overall,0,0,0
+58,Riyan Nayak,Shallow Walk team A,overall,1,0,4
+58,Ryan Karim,Shallow Walk team A,overall,18,0,72
+58,Aayu Rastogi,Thomas S Wootton High School team C,overall,0,0,0
+58,Callie Gao,Thomas S Wootton High School team C,overall,0,0,0
+58,Christina Teng,Thomas S Wootton High School team C,overall,0,0,0
+58,Ricky Bam,Thomas S Wootton High School team C,overall,0,0,0
+59,Chaitan Praveen,Thomas S Wootton High School team B,overall,2,0,8
+59,Hyunjoon Song,Thomas S Wootton High School team B,overall,5,0,20
+59,Peter Foerster,Thomas S Wootton High School team B,overall,4,0,16
+59,Vikram Gidwani,Thomas S Wootton High School team B,overall,0,0,0
+59,Amy Xu,WCHS C,overall,2,0,8
+59,Evelyn Wang,WCHS C,overall,1,0,4
+59,Sonia Lin,WCHS C,overall,1,0,4
+59,Vivian Samara,WCHS C,overall,0,0,0
+60,Angela Wang,Westtown A,overall,2,0,8
+60,Ben D'Alessandro,Westtown A,overall,0,0,0
+60,Jamie Lee,Westtown A,overall,5,0,20
+60,Tessa Kipnis,Westtown A,overall,1,0,4
+60,Alex Wang,poolesville village idiots,overall,10,0,40
+60,Alvin Tong,poolesville village idiots,overall,0,0,0
+60,Caleb Wen,poolesville village idiots,overall,5,0,20
+60,Denis Motuzenko,poolesville village idiots,overall,0,0,0
+61,Ian Wang,Basis,overall,7,0,28
+61,Jueon Kim,Basis,overall,0,1,-4
+61,Neel Jain,Basis,overall,3,0,12
+61,Sumer Chaudhary,Basis,overall,2,0,8
+61,Andrew Li,WWPN B,overall,0,0,0
+61,Jeddy,WWPN B,overall,0,0,0
+61,Krivi Partani,WWPN B,overall,3,0,12
+61,Will Luo,WWPN B,overall,2,1,4
+62,Aakanksh Govada,Centennial A,overall,0,0,0
+62,Matthew Yang,Centennial A,overall,7,3,16
+62,Ray Gao,Centennial A,overall,1,0,4
+62,Shravan Yoagentharan,Centennial A,overall,1,1,0
+62,Jayden Qin,Westtown B,overall,4,0,16
+62,Leila Alobeidy,Westtown B,overall,2,0,8
+62,Sarah Lan,Westtown B,overall,0,0,0
+63,Litish Deepa,Centennial B,overall,0,0,0
+63,Rohan Sengupta,Centennial B,overall,8,1,28
+63,Eliana Hogan,Pilgrimage Homeschool,overall,1,0,4
+63,Ellie Leung,Pilgrimage Homeschool,overall,2,0,8
+63,Joshie Cheng,Pilgrimage Homeschool,overall,0,0,0
+63,Leila Indharasophang,Pilgrimage Homeschool,overall,2,0,8
+64,Arjun Ganesan,Centreville HS Team 1,overall,0,1,-4
+64,Ishaan Nandamudi,Centreville HS Team 1,overall,0,0,0
+64,Pritham Singh,Centreville HS Team 1,overall,2,0,8
+64,Ryan Hyon,Centreville HS Team 1,overall,0,0,0
+64,Yeojune Yun,Centreville HS Team 1,overall,0,0,0
+64,Angelina Li,Eagles A,overall,2,0,8
+64,Kaiwen Yao,Eagles A,overall,10,2,32
+64,Max Xu,Eagles A,overall,0,0,0
+64,Oliver Yang,Eagles A,overall,2,1,4
+64,Vishruth Kadiyala,Eagles A,overall,3,0,12
+65,Allen Liu,Eagles B,overall,2,0,8
+65,Anvita A,Eagles B,overall,1,0,4
+65,Lilly Yang,Eagles B,overall,1,0,4
+65,Madhuram Sharma,Eagles B,overall,3,0,12
+65,Abhijay Banerjee,Montgomery Blair B,overall,4,1,12
+65,Arman Ayazi,Montgomery Blair B,overall,2,2,0
+65,Henry Lu,Montgomery Blair B,overall,3,0,12
+65,Kenneth Liu,Montgomery Blair B,overall,1,0,4
+65,William Qian,Montgomery Blair B,overall,2,1,4
+66,Eli Segal,Eagles C,overall,1,0,4
+66,Kingshuk Roy,Eagles C,overall,1,0,4
+66,Matthew Du,Eagles C,overall,2,0,8
+66,Ryan Yang,Eagles C,overall,0,1,-4
+66,Aahan Mahakud,WWPN A,overall,2,2,0
+66,Aldric Benalan,WWPN A,overall,8,1,28
+66,Easton Wei,WWPN A,overall,3,1,8
+66,Ishaan Arya,WWPN A,overall,5,0,20
+67,Abhinav Anand,Gargy Bomy,overall,6,0,24
+67,Dhairya Mathur,Gargy Bomy,overall,0,1,-4
+67,Jason Mak,Gargy Bomy,overall,1,1,0
+67,Likhith Malipati,Gargy Bomy,overall,1,1,0
+67,Sanjay Oruganti,Gargy Bomy,overall,3,0,12
+67,Arun Kompella,Thomas S Wootton High School team A,overall,1,0,4
+67,Christina Chow,Thomas S Wootton High School team A,overall,0,0,0
+67,Cody Gao,Thomas S Wootton High School team A,overall,2,2,0
+67,Louis Wang,Thomas S Wootton High School team A,overall,1,0,4
+67,Quinn Lam-Vu,Thomas S Wootton High School team A,overall,0,0,0
+68,Eric Xie,Kiruna Scholars,overall,1,1,0
+68,Hrishi Bhooma,Kiruna Scholars,overall,4,0,16
+68,Rohan Bairi,Kiruna Scholars,overall,1,0,4
+68,Sophia Guo,Kiruna Scholars,overall,5,1,16
+68,Akhil Mandapati,South Jersey,overall,1,0,4
+68,Arjun Deshpande,South Jersey,overall,6,0,24
+68,Dennis Ji,South Jersey,overall,1,1,0
+68,Gyan Chande,South Jersey,overall,0,0,0
+68,Monish Saravana Kumar,South Jersey,overall,3,1,8
+69,Chris Wang,Montgomery Blair A,overall,2,0,8
+69,Evan Zhang,Montgomery Blair A,overall,7,0,28
+69,Kevin Feng,Montgomery Blair A,overall,2,0,8
+69,Kian Dhawan,Montgomery Blair A,overall,8,0,32
+69,Sam Easaw,Montgomery Blair A,overall,2,0,8
+69,Aayu Rastogi,Thomas S Wootton High School team C,overall,0,0,0
+69,Callie Gao,Thomas S Wootton High School team C,overall,0,0,0
+69,Christina Teng,Thomas S Wootton High School team C,overall,0,0,0
+69,Ricky Bam,Thomas S Wootton High School team C,overall,0,0,0
+70,Andrew Feng,North Allegheny,overall,2,0,8
+70,Hongyi Wang,North Allegheny,overall,6,1,20
+70,Jason Liu,North Allegheny,overall,1,0,4
+70,Kaartic Muralidharan,North Allegheny,overall,1,0,4
+70,Leonardo Yu,North Allegheny,overall,3,2,4
+70,Alex Wang,poolesville village idiots,overall,5,1,16
+70,Alvin Tong,poolesville village idiots,overall,0,0,0
+70,Caleb Wen,poolesville village idiots,overall,3,0,12
+70,Denis Motuzenko,poolesville village idiots,overall,1,0,4
+71,Aarav Mohindru,Poolesville 2,overall,0,0,0
+71,Ankush Karmakar,Poolesville 2,overall,0,0,0
+71,Daniel Zhang,Poolesville 2,overall,3,0,12
+71,Jasraj Bhatia,Poolesville 2,overall,0,0,0
+71,Shivum Arora,Poolesville 2,overall,0,0,0
+71,Nimit Agarwal,Shallow Walk team A,overall,1,0,4
+71,Prithwish Chatterjee,Shallow Walk team A,overall,1,0,4
+71,Rishvanth Balasubramanian,Shallow Walk team A,overall,0,0,0
+71,Riyan Nayak,Shallow Walk team A,overall,2,0,8
+71,Ryan Karim,Shallow Walk team A,overall,13,1,48
+72,Andrew Zhao,Richard Montgomery,overall,8,0,32
+72,Ethan Pei,Richard Montgomery,overall,6,0,24
+72,Keshav Ramaswamy,Richard Montgomery,overall,3,0,12
+72,Sedric Su,Richard Montgomery,overall,0,1,-4
+72,Chaitan Praveen,Thomas S Wootton High School team B,overall,0,0,0
+72,Hyunjoon Song,Thomas S Wootton High School team B,overall,0,1,-4
+72,Peter Foerster,Thomas S Wootton High School team B,overall,3,0,12
+72,Vikram Gidwani,Thomas S Wootton High School team B,overall,0,0,0
+73,Rithik Natarajan,Shallow Stroll Team B,overall,0,1,-4
+73,Ruohan Xu,Shallow Stroll Team B,overall,6,1,20
+73,Sreekar Karra,Shallow Stroll Team B,overall,1,0,4
+73,Yunay Vaddi,Shallow Stroll Team B,overall,1,0,4
+73,Amy Xu,WCHS C,overall,2,0,8
+73,Evelyn Wang,WCHS C,overall,0,0,0
+73,Sonia Lin,WCHS C,overall,0,0,0
+73,Vivian Samara,WCHS C,overall,1,0,4
+74,Alice Wan,The Wilberforce School,overall,5,0,20
+74,Julian Lin,The Wilberforce School,overall,0,0,0
+74,Matthew Hettena,The Wilberforce School,overall,2,0,8
+74,Richmond Darrow,The Wilberforce School,overall,1,0,4
+74,Aaron Zhou,WCHS A,overall,5,0,20
+74,Allen Chang,WCHS A,overall,0,0,0
+74,Andrew Li,WCHS A,overall,2,0,8
+74,Beirui Zhang,WCHS A,overall,4,1,12
+74,Steven Qi,WCHS A,overall,0,0,0
+75,Rebecca Loving,WCHS B,overall,0,0,0
+75,Ritisha Das,WCHS B,overall,0,1,-4
+75,Seojin Kim,WCHS B,overall,0,0,0
+75,TaeHee Kim,WCHS B,overall,1,0,4
+75,Angela Wang,Westtown A,overall,7,1,24
+75,Ben D'Alessandro,Westtown A,overall,3,0,12
+75,Jamie Lee,Westtown A,overall,3,1,8
+75,Tessa Kipnis,Westtown A,overall,0,0,0
+76,Ian Wang,Basis,overall,5,0,20
+76,Jueon Kim,Basis,overall,0,0,0
+76,Neel Jain,Basis,overall,2,0,8
+76,Sumer Chaudhary,Basis,overall,7,0,28
+76,Litish Deepa,Centennial B,overall,1,0,4
+76,Rohan Sengupta,Centennial B,overall,2,1,4
+77,Aakanksh Govada,Centennial A,overall,0,0,0
+77,Matthew Yang,Centennial A,overall,3,0,12
+77,Ray Gao,Centennial A,overall,0,0,0
+77,Shravan Yoagentharan,Centennial A,overall,0,0,0
+77,Aahan Mahakud,WWPN A,overall,1,0,4
+77,Aldric Benalan,WWPN A,overall,8,2,24
+77,Easton Wei,WWPN A,overall,4,0,16
+77,Ishaan Arya,WWPN A,overall,2,0,8
+78,Arjun Ganesan,Centreville HS Team 1,overall,2,0,8
+78,Pritham Singh,Centreville HS Team 1,overall,6,0,24
+78,Ryan Hyon,Centreville HS Team 1,overall,2,0,8
+78,Yeojune Yun,Centreville HS Team 1,overall,2,0,8
+78,Chaitan Praveen,Thomas S Wootton High School team B,overall,0,0,0
+78,Hyunjoon Song,Thomas S Wootton High School team B,overall,4,0,16
+78,Peter Foerster,Thomas S Wootton High School team B,overall,1,0,4
+78,Vikram Gidwani,Thomas S Wootton High School team B,overall,0,0,0
+79,Angelina Li,Eagles A,overall,2,0,8
+79,Kaiwen Yao,Eagles A,overall,8,0,32
+79,Oliver Yang,Eagles A,overall,2,0,8
+79,Vishruth Kadiyala,Eagles A,overall,4,0,16
+79,Dheeran Seelam,Shallow Stroll Team B,overall,0,0,0
+79,Rithik Natarajan,Shallow Stroll Team B,overall,0,1,-4
+79,Sreekar Karra,Shallow Stroll Team B,overall,1,3,-8
+79,Yunay Vaddi,Shallow Stroll Team B,overall,2,2,0
+80,Allen Liu,Eagles B,overall,2,0,8
+80,Anvita A,Eagles B,overall,2,0,8
+80,Lilly Yang,Eagles B,overall,1,0,4
+80,Madhuram Sharma,Eagles B,overall,5,1,16
+80,Rebecca Loving,WCHS B,overall,0,0,0
+80,Ritisha Das,WCHS B,overall,3,0,12
+80,Seojin Kim,WCHS B,overall,0,0,0
+80,TaeHee Kim,WCHS B,overall,1,0,4
+81,Eli Segal,Eagles C,overall,1,0,4
+81,Kingshuk Roy,Eagles C,overall,2,0,8
+81,Matthew Du,Eagles C,overall,2,0,8
+81,Ryan Yang,Eagles C,overall,0,0,0
+81,Abhinav Anand,Gargy Bomy,overall,6,1,20
+81,Dhairya Mathur,Gargy Bomy,overall,0,0,0
+81,Jason Mak,Gargy Bomy,overall,0,0,0
+81,Likhith Malipati,Gargy Bomy,overall,2,1,4
+81,Sanjay Oruganti,Gargy Bomy,overall,7,0,28
+82,Hrishi Bhooma,Kiruna Scholars,overall,7,2,20
+82,Nathan Liang,Kiruna Scholars,overall,2,0,8
+82,Rohan Bairi,Kiruna Scholars,overall,2,0,8
+82,Sophia Guo,Kiruna Scholars,overall,4,1,12
+82,Andrew Li,WWPN B,overall,1,1,0
+82,Jeddy,WWPN B,overall,0,1,-4
+82,Krivi Partani,WWPN B,overall,4,1,12
+82,Will Luo,WWPN B,overall,1,0,4
+83,Chris Wang,Montgomery Blair A,overall,3,1,8
+83,Evan Zhang,Montgomery Blair A,overall,8,0,32
+83,Kevin Feng,Montgomery Blair A,overall,0,0,0
+83,Kian Dhawan,Montgomery Blair A,overall,7,1,24
+83,Sam Easaw,Montgomery Blair A,overall,1,0,4
+83,Aaron Zhou,WCHS A,overall,0,3,-12
+83,Allen Chang,WCHS A,overall,0,0,0
+83,Andrew Li,WCHS A,overall,0,0,0
+83,Beirui Zhang,WCHS A,overall,0,0,0
+83,Steven Qi,WCHS A,overall,0,0,0
+84,Abhijay Banerjee,Montgomery Blair B,overall,2,0,8
+84,Arman Ayazi,Montgomery Blair B,overall,2,0,8
+84,Henry Lu,Montgomery Blair B,overall,2,0,8
+84,William Qian,Montgomery Blair B,overall,3,0,12
+84,Alex Wang,poolesville village idiots,overall,8,2,24
+84,Alvin Tong,poolesville village idiots,overall,0,0,0
+84,Caleb Wen,poolesville village idiots,overall,2,1,4
+84,Denis Motuzenko,poolesville village idiots,overall,0,0,0
+85,Andrew Feng,North Allegheny,overall,2,0,8
+85,Hongyi Wang,North Allegheny,overall,5,1,16
+85,Jason Liu,North Allegheny,overall,3,0,12
+85,Kaartic Muralidharan,North Allegheny,overall,1,0,4
+85,Leonardo Yu,North Allegheny,overall,2,1,4
+85,Angela Wang,Westtown A,overall,3,1,8
+85,Ben D'Alessandro,Westtown A,overall,1,0,4
+85,Jamie Lee,Westtown A,overall,0,0,0
+85,Tessa Kipnis,Westtown A,overall,0,0,0
+86,Eliana Hogan,Pilgrimage Homeschool,overall,0,0,0
+86,Ellie Leung,Pilgrimage Homeschool,overall,0,0,0
+86,Joshie Cheng,Pilgrimage Homeschool,overall,0,0,0
+86,Leila Indharasophang,Pilgrimage Homeschool,overall,1,0,4
+86,Akhil Mandapati,South Jersey,overall,3,0,12
+86,Arjun Deshpande,South Jersey,overall,5,1,16
+86,Dennis Ji,South Jersey,overall,3,0,12
+86,Monish Saravana Kumar,South Jersey,overall,5,2,12
+87,Aarav Mohindru,Poolesville 2,overall,1,0,4
+87,Ankush Karmakar,Poolesville 2,overall,2,0,8
+87,Daniel Zhang,Poolesville 2,overall,3,1,8
+87,Jasraj Bhatia,Poolesville 2,overall,1,1,0
+87,Aayu Rastogi,Thomas S Wootton High School team C,overall,1,0,4
+87,Callie Gao,Thomas S Wootton High School team C,overall,1,0,4
+87,Christina Teng,Thomas S Wootton High School team C,overall,0,0,0
+87,Ricky Bam,Thomas S Wootton High School team C,overall,1,0,4
+88,Andrew Zhao,Richard Montgomery,overall,6,0,24
+88,David He,Richard Montgomery,overall,1,0,4
+88,Ethan Pei,Richard Montgomery,overall,6,0,24
+88,Keshav Ramaswamy,Richard Montgomery,overall,1,0,4
+88,Sedric Su,Richard Montgomery,overall,2,1,4
+88,Amy Xu,WCHS C,overall,1,0,4
+88,Evelyn Wang,WCHS C,overall,0,0,0
+88,Sonia Lin,WCHS C,overall,0,0,0
+88,Vivian Samara,WCHS C,overall,0,0,0
+89,Nimit Agarwal,Shallow Walk team A,overall,0,0,0
+89,Prithwish Chatterjee,Shallow Walk team A,overall,0,0,0
+89,Rishvanth Balasubramanian,Shallow Walk team A,overall,2,0,8
+89,Riyan Nayak,Shallow Walk team A,overall,1,0,4
+89,Ryan Karim,Shallow Walk team A,overall,11,1,40
+89,Alice Wan,The Wilberforce School,overall,4,0,16
+89,Julian Lin,The Wilberforce School,overall,0,0,0
+89,Matthew Hettena,The Wilberforce School,overall,1,1,0
+89,Richmond Darrow,The Wilberforce School,overall,0,1,-4
+90,Arun Kompella,Thomas S Wootton High School team A,overall,2,0,8
+90,Christina Chow,Thomas S Wootton High School team A,overall,1,0,4
+90,Louis Wang,Thomas S Wootton High School team A,overall,1,0,4
+90,Quinn Lam-Vu,Thomas S Wootton High School team A,overall,6,1,20
+90,Jayden Qin,Westtown B,overall,1,3,-8
+90,Leila Alobeidy,Westtown B,overall,2,0,8
+90,Sarah Lan,Westtown B,overall,1,0,4
+91,Ian Wang,Basis,overall,4,0,16
+91,Jueon Kim,Basis,overall,0,0,0
+91,Neel Jain,Basis,overall,0,0,0
+91,Sumer Chaudhary,Basis,overall,2,1,4
+91,Akhil Mandapati,South Jersey,overall,1,0,4
+91,Arjun Deshpande,South Jersey,overall,6,1,20
+91,Dennis Ji,South Jersey,overall,0,0,0
+91,Gyan Chande,South Jersey,overall,2,0,8
+91,Monish Saravana Kumar,South Jersey,overall,6,2,16
+92,Aakanksh Govada,Centennial A,overall,0,0,0
+92,Matthew Yang,Centennial A,overall,4,0,16
+92,Ray Gao,Centennial A,overall,0,0,0
+92,Shravan Yoagentharan,Centennial A,overall,2,0,8
+92,Abhinav Anand,Gargy Bomy,overall,4,2,8
+92,Jason Mak,Gargy Bomy,overall,0,0,0
+92,Likhith Malipati,Gargy Bomy,overall,0,2,-8
+92,Sanjay Oruganti,Gargy Bomy,overall,8,0,32
+93,Litish Deepa,Centennial B,overall,0,0,0
+93,Rohan Sengupta,Centennial B,overall,7,0,28
+93,Andrew Li,WWPN B,overall,1,0,4
+93,Jeddy Yu,WWPN B,overall,1,0,4
+93,Krivi Partani,WWPN B,overall,2,0,8
+93,Will Luo,WWPN B,overall,3,0,12
+94,Arjun Ganesan,Centreville HS Team 1,overall,3,0,12
+94,Pritham Singh,Centreville HS Team 1,overall,6,1,20
+94,Ryan Hyon,Centreville HS Team 1,overall,1,0,4
+94,Yeojune Yun,Centreville HS Team 1,overall,0,0,0
+94,Amy Xu,WCHS C,overall,2,0,8
+94,Evelyn Wang,WCHS C,overall,0,0,0
+94,Sonia Lin,WCHS C,overall,1,0,4
+94,Vivaan Samara,WCHS C,overall,0,0,0
+95,Angelina Li,Eagles A,overall,2,1,4
+95,Kaiwen Yao,Eagles A,overall,11,1,40
+95,Max Xu,Eagles A,overall,0,1,-4
+95,Oliver Yang,Eagles A,overall,0,1,-4
+95,Vishruth Kadiyala,Eagles A,overall,1,1,0
+95,Chaitan Praveen,Thomas S Wootton High School team B,overall,0,0,0
+95,Hyunjoon Song,Thomas S Wootton High School team B,overall,1,0,4
+95,Peter Foerster,Thomas S Wootton High School team B,overall,0,0,0
+95,Vikram Gidwani,Thomas S Wootton High School team B,overall,0,0,0
+96,Allen Liu,Eagles B,overall,1,1,0
+96,Anvita A,Eagles B,overall,0,0,0
+96,Lilly Yang,Eagles B,overall,3,0,12
+96,Madhuram Sharma,Eagles B,overall,4,2,8
+96,Alex Wang,poolesville village idiots,overall,10,0,40
+96,Alvin Tong,poolesville village idiots,overall,1,0,4
+96,Caleb Wen,poolesville village idiots,overall,3,0,12
+96,Denis Motuzenko,poolesville village idiots,overall,1,0,4
+97,Eli Segal,Eagles C,overall,4,0,16
+97,Kingshuk Roy,Eagles C,overall,1,0,4
+97,Matthew Du,Eagles C,overall,4,1,12
+97,Ryan Yang,Eagles C,overall,3,0,12
+97,Arun Kompella,Thomas S Wootton High School team A,overall,0,0,0
+97,Christina Chow,Thomas S Wootton High School team A,overall,0,0,0
+97,Cody Gao,Thomas S Wootton High School team A,overall,3,1,8
+97,Louis Wang,Thomas S Wootton High School team A,overall,0,0,0
+97,Quinn Lam-Vu,Thomas S Wootton High School team A,overall,1,0,4
+98,Eric Xie,Kiruna Scholars,overall,1,1,0
+98,Hrishi Bhooma,Kiruna Scholars,overall,10,0,40
+98,Nathan Liang,Kiruna Scholars,overall,0,0,0
+98,Rohan Bairi,Kiruna Scholars,overall,1,0,4
+98,Sophia Guo,Kiruna Scholars,overall,5,2,12
+98,Eliana Hogan,Pilgrimage Homeschool,overall,0,0,0
+98,Ellie Leung,Pilgrimage Homeschool,overall,2,1,4
+98,Joshie Cheng,Pilgrimage Homeschool,overall,0,0,0
+98,Leila Indharasophang,Pilgrimage Homeschool,overall,1,0,4
+99,Chris Wang,Montgomery Blair A,overall,1,0,4
+99,Evan Zhang,Montgomery Blair A,overall,9,1,32
+99,Kevin Feng,Montgomery Blair A,overall,1,0,4
+99,Kian Dhawan,Montgomery Blair A,overall,8,0,32
+99,Sam Easaw,Montgomery Blair A,overall,1,0,4
+99,Aarav Mohindru,Poolesville 2,overall,0,0,0
+99,Ankush Karmakar,Poolesville 2,overall,1,0,4
+99,Daniel Zhang,Poolesville 2,overall,1,0,4
+99,Jasraj Bhatia,Poolesville 2,overall,0,0,0
+100,Abhijay Banerjee,Montgomery Blair B,overall,5,0,20
+100,Arman Ayazi,Montgomery Blair B,overall,5,1,16
+100,Henry Lu,Montgomery Blair B,overall,3,1,8
+100,Kenneth Liu,Montgomery Blair B,overall,0,1,-4
+100,William Qian,Montgomery Blair B,overall,0,0,0
+100,Angela Wang,Westtown A,overall,3,1,8
+100,Ben D'Alessandro,Westtown A,overall,3,0,12
+100,Jamie Lee,Westtown A,overall,1,1,0
+100,Tessa Kipnis,Westtown A,overall,0,0,0
+101,Andrew Feng,North Allegheny,overall,3,2,4
+101,Hongyi Wang,North Allegheny,overall,1,2,-4
+101,Jason Liu,North Allegheny,overall,2,0,8
+101,Kaartic Muralidharan,North Allegheny,overall,3,0,12
+101,Leonardo Yu,North Allegheny,overall,3,1,8
+101,Rebecca Loving,WCHS B,overall,1,0,4
+101,Ritisha Das,WCHS B,overall,0,0,0
+101,Seojin Kim,WCHS B,overall,0,0,0
+101,TaeHee Kim,WCHS B,overall,2,0,8
+102,David He,Richard Montgomery,overall,1,0,4
+102,Ethan Pei,Richard Montgomery,overall,4,0,16
+102,Keshav Ramaswamy,Richard Montgomery,overall,2,1,4
+102,Sedric Su,Richard Montgomery,overall,1,0,4
+102,Dheeran Seelam,Shallow Stroll Team B,overall,0,0,0
+102,Rithik Natarajan,Shallow Stroll Team B,overall,0,1,-4
+102,Ruohan Xu,Shallow Stroll Team B,overall,2,0,8
+102,Sreekar Karra,Shallow Stroll Team B,overall,2,2,0
+103,Nimit Agarwal,Shallow Walk team A,overall,1,0,4
+103,Prithwish Chatterjee,Shallow Walk team A,overall,0,0,0
+103,Rishvanth Balasubramanian,Shallow Walk team A,overall,3,0,12
+103,Riyan Nayak,Shallow Walk team A,overall,0,0,0
+103,Ryan Karim,Shallow Walk team A,overall,8,2,24
+103,Aaron Zhou,WCHS A,overall,3,0,12
+103,Allen Chang,WCHS A,overall,0,0,0
+103,Andrew Li,WCHS A,overall,0,0,0
+103,Beirui Zhang,WCHS A,overall,0,1,-4
+104,Alice Wan,The Wilberforce School,overall,2,2,0
+104,Julian Lin,The Wilberforce School,overall,0,0,0
+104,Matthew Hettena,The Wilberforce School,overall,5,0,20
+104,Richmond Darrow,The Wilberforce School,overall,1,0,4
+104,Aayu Rastogi,Thomas S Wootton High School team C,overall,2,0,8
+104,Callie Gao,Thomas S Wootton High School team C,overall,0,0,0
+104,Christina Teng,Thomas S Wootton High School team C,overall,0,0,0
+104,Ricky Bam,Thomas S Wootton High School team C,overall,3,0,12
+105,Aahan Mahakud,WWPN A,overall,0,1,-4
+105,Aldric Benalan,WWPN A,overall,9,0,36
+105,Easton Wei,WWPN A,overall,4,0,16
+105,Ishaan Arya,WWPN A,overall,2,2,0
+105,Jayden Qin,Westtown B,overall,0,0,0
+105,Leila Alobeidy,Westtown B,overall,0,1,-4
+105,Sarah Lan,Westtown B,overall,0,0,0
+1,Arjun Ganesan,Centreville HS Team 1,energy,1,0,4
+1,Pritham Singh,Centreville HS Team 1,math,1,0,4
+1,Pritham Singh,Centreville HS Team 1,physics,2,0,8
+1,Angelina Li,Eagles A,other,1,0,4
+1,Kaiwen Yao,Eagles A,biology,2,0,8
+1,Kaiwen Yao,Eagles A,chemistry,4,0,16
+1,Kaiwen Yao,Eagles A,other,2,1,4
+1,Kaiwen Yao,Eagles A,energy,1,0,4
+1,Kaiwen Yao,Eagles A,math,1,0,4
+1,Kaiwen Yao,Eagles A,physics,2,0,8
+1,Max Xu,Eagles A,math,2,0,8
+1,Oliver Yang,Eagles A,biology,1,0,4
+1,Oliver Yang,Eagles A,energy,1,0,4
+2,Ian Wang,Basis,other,1,0,4
+2,Ian Wang,Basis,math,1,0,4
+2,Ian Wang,Basis,physics,1,1,0
+2,Neel Jain,Basis,physics,0,1,-4
+2,Sumer Chaudhary,Basis,other,1,0,4
+2,Sumer Chaudhary,Basis,energy,1,0,4
+2,Sumer Chaudhary,Basis,physics,1,0,4
+2,Andrew Feng,North Allegheny,other,1,0,4
+2,Hongyi Wang,North Allegheny,biology,2,1,4
+2,Hongyi Wang,North Allegheny,energy,2,0,8
+2,Hongyi Wang,North Allegheny,physics,1,0,4
+2,Jason Liu,North Allegheny,math,2,0,8
+2,Jason Liu,North Allegheny,physics,1,0,4
+2,Leonardo Yu,North Allegheny,chemistry,2,0,8
+3,Allen Liu,Eagles B,math,2,1,4
+3,Anvita A,Eagles B,energy,1,0,4
+3,Lilly Yang,Eagles B,other,1,1,0
+3,Madhuram Sharma,Eagles B,chemistry,1,0,4
+3,Madhuram Sharma,Eagles B,energy,1,0,4
+3,Akhil Mandapati,South Jersey,chemistry,1,0,4
+3,Arjun Deshpande,South Jersey,biology,3,1,8
+3,Arjun Deshpande,South Jersey,energy,1,0,4
+3,Dennis Ji,South Jersey,physics,2,0,8
+3,Gyan Chande,South Jersey,other,2,0,8
+3,Monish Saravana Kumar,South Jersey,chemistry,0,1,-4
+3,Monish Saravana Kumar,South Jersey,other,1,0,4
+3,Monish Saravana Kumar,South Jersey,math,1,1,0
+3,Monish Saravana Kumar,South Jersey,physics,0,1,-4
+4,Matthew Du,Eagles C,physics,1,0,4
+4,Ryan Yang,Eagles C,other,1,1,0
+4,Ryan Yang,Eagles C,energy,1,0,4
+4,Aahan Mahakud,WWPN A,math,2,0,8
+4,Aldric Benalan,WWPN A,biology,1,1,0
+4,Aldric Benalan,WWPN A,chemistry,1,0,4
+4,Aldric Benalan,WWPN A,other,3,0,12
+4,Aldric Benalan,WWPN A,energy,1,0,4
+4,Aldric Benalan,WWPN A,physics,1,1,0
+4,Easton Wei,WWPN A,chemistry,3,0,12
+4,Easton Wei,WWPN A,math,1,0,4
+4,Ishaan Arya,WWPN A,biology,2,0,8
+4,Ishaan Arya,WWPN A,energy,1,0,4
+5,Abhinav Anand,Gargy Bomy,chemistry,0,1,-4
+5,Abhinav Anand,Gargy Bomy,other,3,0,12
+5,Abhinav Anand,Gargy Bomy,energy,1,0,4
+5,Likhith Malipati,Gargy Bomy,math,1,2,-4
+5,Likhith Malipati,Gargy Bomy,physics,0,1,-4
+5,Sanjay Oruganti,Gargy Bomy,chemistry,1,1,0
+5,Sanjay Oruganti,Gargy Bomy,math,1,0,4
+5,Sanjay Oruganti,Gargy Bomy,physics,0,1,-4
+5,Prithwish Chatterjee,Shallow Walk team A,other,0,1,-4
+5,Rishvanth Balasubramanian,Shallow Walk team A,physics,3,0,12
+5,Riyan Nayak,Shallow Walk team A,energy,1,0,4
+5,Ryan Karim,Shallow Walk team A,biology,3,0,12
+5,Ryan Karim,Shallow Walk team A,chemistry,2,0,8
+5,Ryan Karim,Shallow Walk team A,energy,1,0,4
+5,Ryan Karim,Shallow Walk team A,math,2,0,8
+5,Ryan Karim,Shallow Walk team A,physics,1,0,4
+6,Eric Xie,Kiruna Scholars,physics,3,0,12
+6,Hrishi Bhooma,Kiruna Scholars,chemistry,1,1,0
+6,Hrishi Bhooma,Kiruna Scholars,math,0,1,-4
+6,Rohan Bairi,Kiruna Scholars,chemistry,2,0,8
+6,Rohan Bairi,Kiruna Scholars,other,1,0,4
+6,Sophia Guo,Kiruna Scholars,biology,2,0,8
+6,Sophia Guo,Kiruna Scholars,other,1,1,0
+6,Sophia Guo,Kiruna Scholars,energy,1,0,4
+6,Abhijay Banerjee,Montgomery Blair B,physics,0,2,-8
+6,Arman Ayazi,Montgomery Blair B,biology,2,1,4
+6,Arman Ayazi,Montgomery Blair B,energy,1,1,0
+6,Kenneth Liu,Montgomery Blair B,chemistry,1,0,4
+6,William Qian,Montgomery Blair B,math,4,0,16
+6,William Qian,Montgomery Blair B,physics,0,1,-4
+7,Chris Wang,Montgomery Blair A,physics,1,0,4
+7,Evan Zhang,Montgomery Blair A,other,2,0,8
+7,Evan Zhang,Montgomery Blair A,math,4,0,16
+7,Evan Zhang,Montgomery Blair A,physics,1,1,0
+7,Kevin Feng,Montgomery Blair A,other,2,0,8
+7,Kian Dhawan,Montgomery Blair A,biology,4,0,16
+7,Kian Dhawan,Montgomery Blair A,chemistry,4,0,16
+7,Kian Dhawan,Montgomery Blair A,energy,3,0,12
+7,Aaron Zhou,WCHS A,biology,0,1,-4
+7,Aaron Zhou,WCHS A,chemistry,0,1,-4
+7,Aaron Zhou,WCHS A,other,0,2,-8
+7,Aaron Zhou,WCHS A,energy,0,2,-8
+7,Aaron Zhou,WCHS A,physics,1,1,0
+7,Andrew Li,WCHS A,biology,0,1,-4
+7,Andrew Li,WCHS A,chemistry,0,1,-4
+7,Andrew Li,WCHS A,other,0,1,-4
+7,Andrew Li,WCHS A,math,0,1,-4
+7,Andrew Li,WCHS A,physics,0,1,-4
+7,Beirui Zhang,WCHS A,biology,0,1,-4
+8,Andrew Zhao,Richard Montgomery,biology,2,0,8
+8,Andrew Zhao,Richard Montgomery,energy,1,0,4
+8,David He,Richard Montgomery,math,3,0,12
+8,Ethan Pei,Richard Montgomery,energy,1,0,4
+8,Keshav Ramaswamy,Richard Montgomery,chemistry,1,0,4
+8,Keshav Ramaswamy,Richard Montgomery,physics,1,1,0
+8,Alex Wang,poolesville village idiots,biology,1,0,4
+8,Alex Wang,poolesville village idiots,chemistry,3,1,8
+8,Alex Wang,poolesville village idiots,other,2,0,8
+8,Alex Wang,poolesville village idiots,energy,1,0,4
+8,Alex Wang,poolesville village idiots,math,1,0,4
+8,Alex Wang,poolesville village idiots,physics,1,0,4
+8,Caleb Wen,poolesville village idiots,physics,2,0,8
+8,Denis Motuzenko,poolesville village idiots,biology,0,1,-4
+8,Denis Motuzenko,poolesville village idiots,other,1,0,4
+9,Arjun Ganesan,Centreville HS Team 1,biology,1,0,4
+9,Arjun Ganesan,Centreville HS Team 1,other,1,0,4
+9,Pritham Singh,Centreville HS Team 1,chemistry,1,0,4
+9,Pritham Singh,Centreville HS Team 1,other,1,0,4
+9,Pritham Singh,Centreville HS Team 1,math,1,0,4
+9,Pritham Singh,Centreville HS Team 1,physics,1,0,4
+9,Ryan Hyon,Centreville HS Team 1,physics,1,0,4
+9,Andrew Zhao,Richard Montgomery,biology,3,0,12
+9,Andrew Zhao,Richard Montgomery,chemistry,2,0,8
+9,Andrew Zhao,Richard Montgomery,other,1,1,0
+9,Andrew Zhao,Richard Montgomery,energy,2,0,8
+9,Andrew Zhao,Richard Montgomery,physics,1,0,4
+9,David He,Richard Montgomery,energy,1,0,4
+9,David He,Richard Montgomery,math,1,0,4
+10,Ian Wang,Basis,other,2,0,8
+10,Ian Wang,Basis,energy,2,0,8
+10,Ian Wang,Basis,math,1,0,4
+10,Ian Wang,Basis,physics,2,0,8
+10,Jueon Kim,Basis,chemistry,1,0,4
+10,Sumer Chaudhary,Basis,energy,1,0,4
+10,Eli Segal,Eagles C,math,2,0,8
+10,Eli Segal,Eagles C,physics,1,0,4
+10,Kingshuk Roy,Eagles C,biology,1,0,4
+10,Kingshuk Roy,Eagles C,chemistry,1,0,4
+10,Kingshuk Roy,Eagles C,other,1,0,4
+10,Matthew Du,Eagles C,biology,1,0,4
+10,Matthew Du,Eagles C,physics,1,0,4
+11,Angelina Li,Eagles A,other,2,0,8
+11,Angelina Li,Eagles A,math,1,0,4
+11,Kaiwen Yao,Eagles A,other,2,0,8
+11,Kaiwen Yao,Eagles A,energy,1,0,4
+11,Kaiwen Yao,Eagles A,math,1,0,4
+11,Kaiwen Yao,Eagles A,physics,2,0,8
+11,Oliver Yang,Eagles A,biology,2,0,8
+11,Vishruth Kadiyala,Eagles A,energy,1,0,4
+11,Alex Wang,poolesville village idiots,biology,1,0,4
+11,Alex Wang,poolesville village idiots,chemistry,3,0,12
+11,Alex Wang,poolesville village idiots,energy,1,0,4
+11,Caleb Wen,poolesville village idiots,physics,1,0,4
+12,Allen Liu,Eagles B,math,2,0,8
+12,Anvita A,Eagles B,energy,1,0,4
+12,Madhuram Sharma,Eagles B,other,2,0,8
+12,Madhuram Sharma,Eagles B,physics,0,1,-4
+12,Abhijay Banerjee,Montgomery Blair B,physics,1,0,4
+12,Arman Ayazi,Montgomery Blair B,biology,4,0,16
+12,Arman Ayazi,Montgomery Blair B,energy,2,0,8
+12,Arman Ayazi,Montgomery Blair B,physics,1,0,4
+12,Henry Lu,Montgomery Blair B,chemistry,1,0,4
+12,Henry Lu,Montgomery Blair B,other,1,0,4
+12,William Qian,Montgomery Blair B,math,1,0,4
+12,William Qian,Montgomery Blair B,physics,0,1,-4
+13,Abhinav Anand,Gargy Bomy,biology,2,0,8
+13,Abhinav Anand,Gargy Bomy,other,2,1,4
+13,Dhairya Mathur,Gargy Bomy,energy,2,0,8
+13,Likhith Malipati,Gargy Bomy,energy,0,1,-4
+13,Likhith Malipati,Gargy Bomy,math,1,0,4
+13,Likhith Malipati,Gargy Bomy,physics,1,1,0
+13,Sanjay Oruganti,Gargy Bomy,chemistry,2,1,4
+13,Sanjay Oruganti,Gargy Bomy,other,1,0,4
+13,Aaron Zhou,WCHS A,math,1,1,0
+13,Aaron Zhou,WCHS A,physics,1,0,4
+13,Steven Qi,WCHS A,chemistry,1,0,4
+14,Eric Xie,Kiruna Scholars,math,2,0,8
+14,Eric Xie,Kiruna Scholars,physics,1,1,0
+14,Hrishi Bhooma,Kiruna Scholars,chemistry,2,0,8
+14,Nathan Liang,Kiruna Scholars,math,1,0,4
+14,Sophia Guo,Kiruna Scholars,biology,2,0,8
+14,Sophia Guo,Kiruna Scholars,other,3,0,12
+14,Akhil Mandapati,South Jersey,chemistry,1,0,4
+14,Arjun Deshpande,South Jersey,biology,1,0,4
+14,Arjun Deshpande,South Jersey,chemistry,1,0,4
+14,Arjun Deshpande,South Jersey,energy,2,0,8
+14,Dennis Ji,South Jersey,physics,1,0,4
+14,Gyan Chande,South Jersey,other,0,1,-4
+14,Monish Saravana Kumar,South Jersey,other,1,0,4
+14,Monish Saravana Kumar,South Jersey,energy,1,0,4
+14,Monish Saravana Kumar,South Jersey,math,1,0,4
+14,Monish Saravana Kumar,South Jersey,physics,1,0,4
+15,Chris Wang,Montgomery Blair A,other,1,0,4
+15,Chris Wang,Montgomery Blair A,physics,1,0,4
+15,Evan Zhang,Montgomery Blair A,chemistry,1,0,4
+15,Evan Zhang,Montgomery Blair A,other,2,0,8
+15,Evan Zhang,Montgomery Blair A,energy,0,1,-4
+15,Evan Zhang,Montgomery Blair A,physics,0,1,-4
+15,Kian Dhawan,Montgomery Blair A,biology,2,1,4
+15,Kian Dhawan,Montgomery Blair A,chemistry,3,0,12
+15,Kian Dhawan,Montgomery Blair A,energy,1,0,4
+15,Kian Dhawan,Montgomery Blair A,math,1,0,4
+15,Prithwish Chatterjee,Shallow Walk team A,other,0,1,-4
+15,Rishvanth Balasubramanian,Shallow Walk team A,physics,0,1,-4
+15,Riyan Nayak,Shallow Walk team A,chemistry,0,1,-4
+15,Riyan Nayak,Shallow Walk team A,math,1,0,4
+15,Riyan Nayak,Shallow Walk team A,physics,1,0,4
+15,Ryan Karim,Shallow Walk team A,biology,2,0,8
+15,Ryan Karim,Shallow Walk team A,energy,2,0,8
+15,Ryan Karim,Shallow Walk team A,math,1,0,4
+16,Andrew Feng,North Allegheny,other,1,0,4
+16,Hongyi Wang,North Allegheny,biology,1,0,4
+16,Hongyi Wang,North Allegheny,chemistry,1,0,4
+16,Hongyi Wang,North Allegheny,physics,0,1,-4
+16,Jason Liu,North Allegheny,energy,1,0,4
+16,Jason Liu,North Allegheny,math,2,0,8
+16,Jason Liu,North Allegheny,physics,1,0,4
+16,Leonardo Yu,North Allegheny,biology,2,0,8
+16,Aahan Mahakud,WWPN A,math,1,0,4
+16,Aldric Benalan,WWPN A,chemistry,2,0,8
+16,Aldric Benalan,WWPN A,other,3,1,8
+16,Aldric Benalan,WWPN A,energy,2,1,4
+16,Aldric Benalan,WWPN A,physics,2,0,8
+16,Easton Wei,WWPN A,chemistry,1,0,4
+16,Ishaan Arya,WWPN A,biology,1,1,0
+17,Ian Wang,Basis,chemistry,1,0,4
+17,Ian Wang,Basis,other,1,0,4
+17,Ian Wang,Basis,energy,1,0,4
+17,Ian Wang,Basis,math,2,0,8
+17,Sumer Chaudhary,Basis,biology,1,0,4
+17,Alex Wang,poolesville village idiots,biology,0,1,-4
+17,Alex Wang,poolesville village idiots,chemistry,2,0,8
+17,Alex Wang,poolesville village idiots,other,0,1,-4
+17,Alex Wang,poolesville village idiots,physics,2,0,8
+17,Alvin Tong,poolesville village idiots,biology,1,0,4
+17,Caleb Wen,poolesville village idiots,chemistry,1,0,4
+17,Caleb Wen,poolesville village idiots,energy,0,1,-4
+17,Caleb Wen,poolesville village idiots,math,2,0,8
+17,Caleb Wen,poolesville village idiots,physics,2,0,8
+18,Abhinav Anand,Gargy Bomy,other,2,0,8
+18,Abhinav Anand,Gargy Bomy,physics,1,0,4
+18,Dhairya Mathur,Gargy Bomy,energy,0,1,-4
+18,Likhith Malipati,Gargy Bomy,math,1,1,0
+18,Likhith Malipati,Gargy Bomy,physics,1,0,4
+18,Sanjay Oruganti,Gargy Bomy,chemistry,3,0,12
+18,Sanjay Oruganti,Gargy Bomy,energy,1,0,4
+18,Sanjay Oruganti,Gargy Bomy,physics,0,1,-4
+18,Arjun Deshpande,South Jersey,biology,3,0,12
+18,Dennis Ji,South Jersey,math,1,0,4
+18,Dennis Ji,South Jersey,physics,2,2,0
+18,Gyan Chande,South Jersey,other,1,0,4
+18,Monish Saravana Kumar,South Jersey,biology,1,0,4
+18,Monish Saravana Kumar,South Jersey,energy,1,0,4
+18,Monish Saravana Kumar,South Jersey,math,1,0,4
+19,Abhijay Banerjee,Montgomery Blair B,physics,1,2,-4
+19,Arman Ayazi,Montgomery Blair B,biology,3,1,8
+19,Arman Ayazi,Montgomery Blair B,chemistry,0,1,-4
+19,Arman Ayazi,Montgomery Blair B,energy,1,1,0
+19,Henry Lu,Montgomery Blair B,other,2,0,8
+19,William Qian,Montgomery Blair B,math,1,1,0
+19,Nimit Agarwal,Shallow Walk team A,biology,0,1,-4
+19,Rishvanth Balasubramanian,Shallow Walk team A,energy,1,0,4
+19,Rishvanth Balasubramanian,Shallow Walk team A,physics,0,1,-4
+19,Riyan Nayak,Shallow Walk team A,physics,1,0,4
+19,Ryan Karim,Shallow Walk team A,chemistry,3,0,12
+19,Ryan Karim,Shallow Walk team A,other,2,0,8
+19,Ryan Karim,Shallow Walk team A,energy,1,0,4
+19,Ryan Karim,Shallow Walk team A,math,2,1,4
+19,Ryan Karim,Shallow Walk team A,physics,1,0,4
+20,Andrew Feng,North Allegheny,other,1,0,4
+20,Hongyi Wang,North Allegheny,biology,1,0,4
+20,Hongyi Wang,North Allegheny,physics,1,1,0
+20,Jason Liu,North Allegheny,math,1,0,4
+20,Jason Liu,North Allegheny,physics,1,0,4
+20,Leonardo Yu,North Allegheny,biology,0,2,-8
+20,Leonardo Yu,North Allegheny,chemistry,1,0,4
+20,Andrew Zhao,Richard Montgomery,chemistry,2,0,8
+20,Andrew Zhao,Richard Montgomery,other,1,0,4
+20,Andrew Zhao,Richard Montgomery,energy,2,0,8
+20,Andrew Zhao,Richard Montgomery,physics,2,0,8
+20,Ethan Pei,Richard Montgomery,biology,3,0,12
+20,Ethan Pei,Richard Montgomery,chemistry,1,0,4
+20,Ethan Pei,Richard Montgomery,energy,1,0,4
+21,Angelina Li,Eagles A,other,1,0,4
+21,Angelina Li,Eagles A,energy,1,0,4
+21,Kaiwen Yao,Eagles A,chemistry,1,0,4
+21,Kaiwen Yao,Eagles A,other,0,1,-4
+21,Kaiwen Yao,Eagles A,energy,1,0,4
+21,Kaiwen Yao,Eagles A,math,2,0,8
+21,Kaiwen Yao,Eagles A,physics,2,0,8
+21,Oliver Yang,Eagles A,biology,1,0,4
+21,Oliver Yang,Eagles A,energy,1,0,4
+21,Eric Xie,Kiruna Scholars,math,2,0,8
+21,Eric Xie,Kiruna Scholars,physics,2,0,8
+21,Hrishi Bhooma,Kiruna Scholars,chemistry,3,0,12
+21,Rohan Bairi,Kiruna Scholars,other,2,0,8
+21,Sophia Guo,Kiruna Scholars,biology,1,0,4
+22,Chris Wang,Montgomery Blair A,physics,1,0,4
+22,Evan Zhang,Montgomery Blair A,other,1,0,4
+22,Evan Zhang,Montgomery Blair A,math,2,0,8
+22,Kian Dhawan,Montgomery Blair A,biology,2,1,4
+22,Kian Dhawan,Montgomery Blair A,chemistry,3,0,12
+22,Kian Dhawan,Montgomery Blair A,energy,1,0,4
+22,Kian Dhawan,Montgomery Blair A,math,0,1,-4
+22,Kian Dhawan,Montgomery Blair A,physics,1,0,4
+22,Aldric Benalan,WWPN A,chemistry,1,0,4
+22,Aldric Benalan,WWPN A,other,3,0,12
+22,Aldric Benalan,WWPN A,physics,2,0,8
+22,Easton Wei,WWPN A,biology,0,1,-4
+22,Easton Wei,WWPN A,energy,2,0,8
+22,Easton Wei,WWPN A,math,2,1,4
+23,Andrew Zhao,Richard Montgomery,biology,1,0,4
+23,Andrew Zhao,Richard Montgomery,chemistry,1,0,4
+23,Andrew Zhao,Richard Montgomery,other,1,0,4
+23,Ethan Pei,Richard Montgomery,biology,1,0,4
+23,Ethan Pei,Richard Montgomery,energy,1,0,4
+23,Keshav Ramaswamy,Richard Montgomery,chemistry,1,0,4
+23,Keshav Ramaswamy,Richard Montgomery,energy,1,1,0
+23,Keshav Ramaswamy,Richard Montgomery,physics,2,0,8
+23,Prithwish Chatterjee,Shallow Walk team A,other,1,0,4
+23,Riyan Nayak,Shallow Walk team A,energy,1,0,4
+23,Ryan Karim,Shallow Walk team A,chemistry,1,0,4
+23,Ryan Karim,Shallow Walk team A,math,2,0,8
+23,Ryan Karim,Shallow Walk team A,physics,1,0,4
+24,Akhil Mandapati,South Jersey,chemistry,1,0,4
+24,Akhil Mandapati,South Jersey,other,1,0,4
+24,Arjun Deshpande,South Jersey,biology,1,2,-4
+24,Arjun Deshpande,South Jersey,energy,2,0,8
+24,Dennis Ji,South Jersey,physics,2,0,8
+24,Monish Saravana Kumar,South Jersey,math,3,1,8
+24,Alex Wang,poolesville village idiots,biology,1,0,4
+24,Alex Wang,poolesville village idiots,chemistry,3,0,12
+24,Alex Wang,poolesville village idiots,energy,1,0,4
+24,Alex Wang,poolesville village idiots,physics,1,0,4
+24,Caleb Wen,poolesville village idiots,physics,1,0,4
+24,Denis Motuzenko,poolesville village idiots,energy,0,1,-4
+24,Denis Motuzenko,poolesville village idiots,math,0,1,-4
+25,Eric Xie,Kiruna Scholars,math,1,0,4
+25,Eric Xie,Kiruna Scholars,physics,1,1,0
+25,Hrishi Bhooma,Kiruna Scholars,chemistry,2,1,4
+25,Hrishi Bhooma,Kiruna Scholars,physics,1,0,4
+25,Rohan Bairi,Kiruna Scholars,other,1,0,4
+25,Sophia Guo,Kiruna Scholars,biology,1,1,0
+25,Sophia Guo,Kiruna Scholars,other,0,1,-4
+25,Andrew Zhao,Richard Montgomery,biology,0,1,-4
+25,Andrew Zhao,Richard Montgomery,energy,2,0,8
+25,David He,Richard Montgomery,math,1,1,0
+25,Ethan Pei,Richard Montgomery,biology,2,0,8
+25,Ethan Pei,Richard Montgomery,chemistry,2,0,8
+25,Keshav Ramaswamy,Richard Montgomery,physics,1,0,4
+26,Arjun Deshpande,South Jersey,biology,4,0,16
+26,Dennis Ji,South Jersey,math,1,0,4
+26,Dennis Ji,South Jersey,physics,1,0,4
+26,Monish Saravana Kumar,South Jersey,energy,1,0,4
+26,Monish Saravana Kumar,South Jersey,physics,1,0,4
+26,Aldric Benalan,WWPN A,other,2,0,8
+26,Aldric Benalan,WWPN A,energy,2,0,8
+26,Aldric Benalan,WWPN A,physics,2,1,4
+26,Easton Wei,WWPN A,chemistry,3,0,12
+26,Easton Wei,WWPN A,math,3,0,12
+26,Ishaan Arya,WWPN A,biology,0,1,-4
+27,Kaiwen Yao,Eagles A,other,0,1,-4
+27,Kaiwen Yao,Eagles A,energy,2,0,8
+27,Kaiwen Yao,Eagles A,math,1,0,4
+27,Kaiwen Yao,Eagles A,physics,3,0,12
+27,Max Xu,Eagles A,math,1,0,4
+27,Vishruth Kadiyala,Eagles A,chemistry,2,0,8
+27,Evan Zhang,Montgomery Blair A,other,2,0,8
+27,Evan Zhang,Montgomery Blair A,energy,1,0,4
+27,Kevin Feng,Montgomery Blair A,other,1,0,4
+27,Kian Dhawan,Montgomery Blair A,biology,4,0,16
+27,Kian Dhawan,Montgomery Blair A,chemistry,2,0,8
+27,Kian Dhawan,Montgomery Blair A,energy,0,1,-4
+27,Kian Dhawan,Montgomery Blair A,math,1,0,4
+27,Kian Dhawan,Montgomery Blair A,physics,1,0,4
+28,Eric Xie,Kiruna Scholars,energy,1,0,4
+28,Eric Xie,Kiruna Scholars,math,2,0,8
+28,Hrishi Bhooma,Kiruna Scholars,chemistry,2,0,8
+28,Hrishi Bhooma,Kiruna Scholars,physics,2,0,8
+28,Rohan Bairi,Kiruna Scholars,other,1,0,4
+28,Sophia Guo,Kiruna Scholars,biology,2,0,8
+28,Sophia Guo,Kiruna Scholars,math,1,0,4
+28,Aldric Benalan,WWPN A,biology,1,0,4
+28,Aldric Benalan,WWPN A,other,2,0,8
+28,Aldric Benalan,WWPN A,physics,2,0,8
+28,Easton Wei,WWPN A,chemistry,0,1,-4
+28,Easton Wei,WWPN A,energy,1,1,0
+28,Ishaan Arya,WWPN A,biology,1,0,4
+28,Ishaan Arya,WWPN A,chemistry,1,0,4
+29,Angelina Li,Eagles A,other,1,0,4
+29,Kaiwen Yao,Eagles A,energy,2,0,8
+29,Kaiwen Yao,Eagles A,math,1,0,4
+29,Kaiwen Yao,Eagles A,physics,4,0,16
+29,Eric Xie,Kiruna Scholars,other,1,0,4
+29,Eric Xie,Kiruna Scholars,math,2,0,8
+29,Hrishi Bhooma,Kiruna Scholars,chemistry,2,0,8
+29,Sophia Guo,Kiruna Scholars,biology,1,0,4
+30,Kaiwen Yao,Eagles A,chemistry,1,0,4
+30,Kaiwen Yao,Eagles A,other,2,0,8
+30,Kaiwen Yao,Eagles A,physics,2,0,8
+30,Vishruth Kadiyala,Eagles A,energy,0,1,-4
+30,Evan Zhang,Montgomery Blair A,other,0,1,-4
+30,Evan Zhang,Montgomery Blair A,math,3,0,12
+30,Kian Dhawan,Montgomery Blair A,biology,4,0,16
+30,Kian Dhawan,Montgomery Blair A,chemistry,2,0,8
+30,Kian Dhawan,Montgomery Blair A,energy,2,0,8
+30,Kian Dhawan,Montgomery Blair A,physics,1,0,4
+31,Ian Wang,Basis,chemistry,1,0,4
+31,Ian Wang,Basis,other,1,0,4
+31,Ian Wang,Basis,energy,1,0,4
+31,Ian Wang,Basis,physics,2,0,8
+31,Jueon Kim,Basis,math,1,0,4
+31,Sumer Chaudhary,Basis,biology,2,0,8
+31,Sumer Chaudhary,Basis,chemistry,2,0,8
+31,Sumer Chaudhary,Basis,energy,1,0,4
+31,Sumer Chaudhary,Basis,math,1,0,4
+31,Sumer Chaudhary,Basis,physics,1,0,4
+31,Ellie Leung,Pilgrimage Homeschool,chemistry,1,0,4
+31,Ellie Leung,Pilgrimage Homeschool,energy,1,0,4
+31,Leila Indharasophang,Pilgrimage Homeschool,biology,2,0,8
+31,Leila Indharasophang,Pilgrimage Homeschool,other,1,0,4
+32,Aakanksh Govada,Centennial A,math,0,1,-4
+32,Matthew Yang,Centennial A,biology,4,0,16
+32,Matthew Yang,Centennial A,chemistry,3,1,8
+32,Matthew Yang,Centennial A,energy,2,0,8
+32,Matthew Yang,Centennial A,physics,2,0,8
+32,Eli Segal,Eagles C,chemistry,1,0,4
+32,Eli Segal,Eagles C,math,2,0,8
+32,Kingshuk Roy,Eagles C,energy,1,0,4
+32,Matthew Du,Eagles C,math,1,0,4
+32,Matthew Du,Eagles C,physics,2,0,8
+32,Ryan Yang,Eagles C,other,3,0,12
+33,Rohan Sengupta,Centennial B,biology,1,0,4
+33,Rohan Sengupta,Centennial B,other,0,1,-4
+33,Rohan Sengupta,Centennial B,energy,2,0,8
+33,Eric Xie,Kiruna Scholars,other,1,0,4
+33,Eric Xie,Kiruna Scholars,math,2,0,8
+33,Hrishi Bhooma,Kiruna Scholars,biology,1,1,0
+33,Hrishi Bhooma,Kiruna Scholars,chemistry,4,0,16
+33,Hrishi Bhooma,Kiruna Scholars,math,1,0,4
+33,Hrishi Bhooma,Kiruna Scholars,physics,2,0,8
+33,Nathan Liang,Kiruna Scholars,energy,1,0,4
+33,Nathan Liang,Kiruna Scholars,physics,1,0,4
+33,Rohan Bairi,Kiruna Scholars,biology,1,0,4
+33,Rohan Bairi,Kiruna Scholars,other,2,1,4
+33,Rohan Bairi,Kiruna Scholars,physics,1,0,4
+34,Arjun,Centreville HS Team 1,other,1,0,4
+34,Pritham Singh,Centreville HS Team 1,math,1,0,4
+34,Andrew Zhao,Richard Montgomery,biology,2,0,8
+34,Andrew Zhao,Richard Montgomery,chemistry,2,0,8
+34,Andrew Zhao,Richard Montgomery,other,2,0,8
+34,Andrew Zhao,Richard Montgomery,physics,2,0,8
+34,David He,Richard Montgomery,other,0,1,-4
+34,Ethan Pei,Richard Montgomery,biology,1,0,4
+34,Ethan Pei,Richard Montgomery,chemistry,2,0,8
+34,Ethan Pei,Richard Montgomery,energy,1,0,4
+34,Keshav Ramaswamy,Richard Montgomery,energy,2,0,8
+34,Keshav Ramaswamy,Richard Montgomery,math,1,0,4
+34,Keshav Ramaswamy,Richard Montgomery,physics,1,0,4
+34,Sedric Su,Richard Montgomery,math,2,0,8
+34,Sedric Su,Richard Montgomery,physics,1,0,4
+35,Angelina Li,Eagles A,other,1,0,4
+35,Angelina Li,Eagles A,energy,1,0,4
+35,Kaiwen Yao,Eagles A,biology,1,0,4
+35,Kaiwen Yao,Eagles A,chemistry,1,0,4
+35,Kaiwen Yao,Eagles A,other,1,0,4
+35,Kaiwen Yao,Eagles A,math,1,0,4
+35,Kaiwen Yao,Eagles A,physics,2,0,8
+35,Max Xu,Eagles A,math,1,0,4
+35,Max Xu,Eagles A,physics,1,0,4
+35,Oliver Yang,Eagles A,biology,1,0,4
+35,Oliver Yang,Eagles A,chemistry,2,0,8
+35,Oliver Yang,Eagles A,other,1,0,4
+35,Oliver Yang,Eagles A,energy,2,0,8
+35,Oliver Yang,Eagles A,math,1,0,4
+35,Oliver Yang,Eagles A,physics,1,0,4
+35,Vishruth Kadiyala,Eagles A,biology,0,1,-4
+35,Vishruth Kadiyala,Eagles A,chemistry,1,0,4
+36,Allen Liu,Eagles B,math,1,1,0
+36,Anvita A,Eagles B,biology,2,0,8
+36,Anvita A,Eagles B,energy,1,0,4
+36,Lilly Yang,Eagles B,other,2,1,4
+36,Madhuram Sharma,Eagles B,biology,1,0,4
+36,Madhuram Sharma,Eagles B,chemistry,1,1,0
+36,Madhuram Sharma,Eagles B,other,1,0,4
+36,Madhuram Sharma,Eagles B,energy,2,0,8
+36,Madhuram Sharma,Eagles B,physics,1,0,4
+36,Angela Wang,Westtown A,biology,1,0,4
+36,Angela Wang,Westtown A,math,1,0,4
+36,Angela Wang,Westtown A,physics,2,0,8
+36,Jamie Lee,Westtown A,chemistry,1,0,4
+36,Jamie Lee,Westtown A,math,1,0,4
+36,Jamie Lee,Westtown A,physics,1,0,4
+37,Abhinav Anand,Gargy Bomy,biology,4,0,16
+37,Abhinav Anand,Gargy Bomy,other,3,1,8
+37,Abhinav Anand,Gargy Bomy,energy,1,0,4
+37,Jason Mak,Gargy Bomy,math,1,0,4
+37,Likhith Malipati,Gargy Bomy,math,2,0,8
+37,Likhith Malipati,Gargy Bomy,physics,1,0,4
+37,Sanjay Oruganti,Gargy Bomy,chemistry,3,1,8
+37,Sanjay Oruganti,Gargy Bomy,energy,2,0,8
+37,Sanjay Oruganti,Gargy Bomy,physics,1,1,0
+37,Leila Alobeidy,Westtown B,other,1,0,4
+37,Sarah Lan,Westtown B,chemistry,1,0,4
+37,Sarah Lan,Westtown B,physics,1,0,4
+38,Chris Wang,Montgomery Blair A,physics,1,0,4
+38,Evan Zhang,Montgomery Blair A,other,1,0,4
+38,Evan Zhang,Montgomery Blair A,energy,1,0,4
+38,Evan Zhang,Montgomery Blair A,math,3,0,12
+38,Kian Dhawan,Montgomery Blair A,biology,4,0,16
+38,Kian Dhawan,Montgomery Blair A,chemistry,2,0,8
+38,Kian Dhawan,Montgomery Blair A,other,1,0,4
+38,Kian Dhawan,Montgomery Blair A,energy,1,0,4
+38,Kian Dhawan,Montgomery Blair A,physics,1,0,4
+38,Sam Easaw,Montgomery Blair A,chemistry,1,0,4
+38,Riyan Nayak,Shallow Walk team A,other,0,1,-4
+38,Riyan Nayak,Shallow Walk team A,physics,1,1,0
+38,Ryan Karim,Shallow Walk team A,biology,0,1,-4
+38,Ryan Karim,Shallow Walk team A,chemistry,1,0,4
+38,Ryan Karim,Shallow Walk team A,other,1,0,4
+38,Ryan Karim,Shallow Walk team A,energy,0,1,-4
+38,Ryan Karim,Shallow Walk team A,math,1,0,4
+38,Ryan Karim,Shallow Walk team A,physics,1,1,0
+39,Abhijay Banerjee,Montgomery Blair B,chemistry,1,0,4
+39,Abhijay Banerjee,Montgomery Blair B,energy,1,0,4
+39,Abhijay Banerjee,Montgomery Blair B,physics,0,1,-4
+39,Arman Ayazi,Montgomery Blair B,biology,2,0,8
+39,Arman Ayazi,Montgomery Blair B,energy,1,0,4
+39,Henry Lu,Montgomery Blair B,other,1,0,4
+39,Henry Lu,Montgomery Blair B,energy,1,0,4
+39,William Qian,Montgomery Blair B,math,2,0,8
+39,Andrew Feng,North Allegheny,chemistry,1,0,4
+39,Andrew Feng,North Allegheny,other,1,0,4
+39,Andrew Feng,North Allegheny,math,1,0,4
+39,Hongyi Wang,North Allegheny,biology,1,0,4
+39,Hongyi Wang,North Allegheny,chemistry,1,0,4
+39,Hongyi Wang,North Allegheny,physics,3,0,12
+39,Jason Liu,North Allegheny,math,1,0,4
+39,Leonardo Yu,North Allegheny,biology,1,0,4
+39,Leonardo Yu,North Allegheny,chemistry,1,0,4
+39,Leonardo Yu,North Allegheny,other,2,0,8
+39,Leonardo Yu,North Allegheny,physics,1,0,4
+40,Ankush Karmakar,Poolesville 2,chemistry,1,0,4
+40,Daniel Zhang,Poolesville 2,other,1,0,4
+40,Daniel Zhang,Poolesville 2,energy,1,0,4
+40,Daniel Zhang,Poolesville 2,math,1,0,4
+40,Daniel Zhang,Poolesville 2,physics,2,0,8
+40,Jasraj Bhatia,Poolesville 2,other,1,0,4
+40,Alice Wan,The Wilberforce School,chemistry,1,0,4
+40,Alice Wan,The Wilberforce School,other,1,0,4
+40,Matthew Hettena,The Wilberforce School,biology,1,0,4
+40,Matthew Hettena,The Wilberforce School,energy,1,0,4
+40,Matthew Hettena,The Wilberforce School,math,3,0,12
+40,Matthew Hettena,The Wilberforce School,physics,2,0,8
+40,Richmond Darrow,The Wilberforce School,biology,2,0,8
+40,Richmond Darrow,The Wilberforce School,chemistry,1,0,4
+40,Richmond Darrow,The Wilberforce School,other,1,0,4
+40,Richmond Darrow,The Wilberforce School,energy,1,0,4
+41,Ruohan Xu,Shallow Stroll Team B,chemistry,1,0,4
+41,Ruohan Xu,Shallow Stroll Team B,physics,2,0,8
+41,Sreekar Karra,Shallow Stroll Team B,other,2,0,8
+41,Sreekar Karra,Shallow Stroll Team B,energy,1,0,4
+41,Sreekar Karra,Shallow Stroll Team B,physics,1,0,4
+41,Yunay Vaddi,Shallow Stroll Team B,energy,1,0,4
+41,Yunay Vaddi,Shallow Stroll Team B,math,0,1,-4
+41,Chaitan Praveen,Thomas S Wootton High School team B,biology,1,0,4
+41,Chaitan Praveen,Thomas S Wootton High School team B,energy,1,0,4
+41,Chaitan Praveen,Thomas S Wootton High School team B,math,1,0,4
+41,Peter Foerster,Thomas S Wootton High School team B,biology,1,0,4
+41,Peter Foerster,Thomas S Wootton High School team B,chemistry,3,0,12
+41,Peter Foerster,Thomas S Wootton High School team B,math,2,0,8
+42,Akhil Mandapati,South Jersey,chemistry,0,1,-4
+42,Arjun Deshpande,South Jersey,biology,3,0,12
+42,Arjun Deshpande,South Jersey,energy,1,0,4
+42,Dennis Ji,South Jersey,chemistry,1,0,4
+42,Dennis Ji,South Jersey,physics,1,0,4
+42,Gyan Chande,South Jersey,other,2,0,8
+42,Monish Saravana Kumar,South Jersey,other,0,1,-4
+42,Monish Saravana Kumar,South Jersey,energy,1,0,4
+42,Monish Saravana Kumar,South Jersey,math,2,1,4
+42,Monish Saravana Kumar,South Jersey,physics,3,0,12
+42,Andrew Li,WWPN B,chemistry,1,0,4
+42,Krivi Partani,WWPN B,energy,1,0,4
+42,Krivi Partani,WWPN B,math,1,0,4
+42,Will Luo,WWPN B,chemistry,2,0,8
+43,Cody Gao,Thomas S Wootton High School team A,chemistry,1,0,4
+43,Cody Gao,Thomas S Wootton High School team A,energy,1,0,4
+43,Louis Wang,Thomas S Wootton High School team A,biology,1,0,4
+43,Aldric Benalan,WWPN A,biology,2,0,8
+43,Aldric Benalan,WWPN A,other,3,1,8
+43,Aldric Benalan,WWPN A,energy,1,0,4
+43,Aldric Benalan,WWPN A,math,1,0,4
+43,Aldric Benalan,WWPN A,physics,3,0,12
+43,Easton Wei,WWPN A,chemistry,3,0,12
+43,Easton Wei,WWPN A,energy,1,0,4
+43,Easton Wei,WWPN A,math,2,0,8
+43,Easton Wei,WWPN A,physics,1,0,4
+43,Ishaan Arya,WWPN A,biology,1,0,4
+43,Ishaan Arya,WWPN A,math,0,1,-4
+44,Christina Teng,Thomas S Wootton High School team C,other,1,0,4
+44,Ricky Bam,Thomas S Wootton High School team C,chemistry,2,0,8
+44,Ricky Bam,Thomas S Wootton High School team C,physics,1,0,4
+44,Aaron Zhou,WCHS A,energy,1,0,4
+44,Aaron Zhou,WCHS A,math,1,0,4
+44,Aaron Zhou,WCHS A,physics,1,0,4
+44,Andrew Li,WCHS A,chemistry,2,0,8
+44,Andrew Li,WCHS A,energy,1,0,4
+44,Andrew Li,WCHS A,physics,1,0,4
+44,Beirui Zhang,WCHS A,biology,3,1,8
+44,Beirui Zhang,WCHS A,other,1,0,4
+44,Beirui Zhang,WCHS A,energy,1,0,4
+44,Beirui Zhang,WCHS A,math,1,0,4
+45,Alex Wang,poolesville village idiots,chemistry,3,0,12
+45,Alex Wang,poolesville village idiots,other,2,0,8
+45,Alex Wang,poolesville village idiots,energy,1,0,4
+45,Alex Wang,poolesville village idiots,math,1,0,4
+45,Alvin Tong,poolesville village idiots,chemistry,1,0,4
+45,Caleb Wen,poolesville village idiots,energy,1,0,4
+45,Caleb Wen,poolesville village idiots,math,1,0,4
+45,Caleb Wen,poolesville village idiots,physics,4,0,16
+45,Denis Motuzenko,poolesville village idiots,biology,2,1,4
+46,Ian Wang,Basis,chemistry,1,0,4
+46,Sumer Chaudhary,Basis,energy,1,0,4
+46,Eric Xie,Kiruna Scholars,other,2,0,8
+46,Eric Xie,Kiruna Scholars,math,3,0,12
+46,Eric Xie,Kiruna Scholars,physics,1,0,4
+46,Hrishi Bhooma,Kiruna Scholars,biology,3,0,12
+46,Hrishi Bhooma,Kiruna Scholars,chemistry,3,0,12
+46,Hrishi Bhooma,Kiruna Scholars,energy,1,1,0
+46,Hrishi Bhooma,Kiruna Scholars,physics,3,0,12
+46,Nathan Liang,Kiruna Scholars,math,1,0,4
+46,Rohan Bairi,Kiruna Scholars,other,1,0,4
+46,Sophia Guo,Kiruna Scholars,biology,1,0,4
+46,Sophia Guo,Kiruna Scholars,other,1,0,4
+47,Matthew Yang,Centennial A,biology,3,0,12
+47,Matthew Yang,Centennial A,energy,0,1,-4
+47,Matthew Yang,Centennial A,math,1,0,4
+47,Ray Gao,Centennial A,energy,1,0,4
+47,Shravan Yoagentharan,Centennial A,chemistry,1,0,4
+47,Shravan Yoagentharan,Centennial A,physics,2,0,8
+47,Arun Kompella,Thomas S Wootton High School team A,math,1,0,4
+47,Christina Chow,Thomas S Wootton High School team A,chemistry,3,1,8
+47,Christina Chow,Thomas S Wootton High School team A,energy,1,0,4
+47,Cody Gao,Thomas S Wootton High School team A,other,0,1,-4
+47,Cody Gao,Thomas S Wootton High School team A,energy,1,0,4
+47,Cody Gao,Thomas S Wootton High School team A,physics,1,0,4
+47,Quinn Lam-Vu,Thomas S Wootton High School team A,other,3,0,12
+47,Quinn Lam-Vu,Thomas S Wootton High School team A,physics,0,1,-4
+48,Rohan Sengupta,Centennial B,math,1,0,4
+48,Akhil Mandapati,South Jersey,chemistry,1,0,4
+48,Akhil Mandapati,South Jersey,other,1,0,4
+48,Akhil Mandapati,South Jersey,energy,0,1,-4
+48,Arjun Deshpande,South Jersey,biology,3,0,12
+48,Arjun Deshpande,South Jersey,chemistry,2,0,8
+48,Arjun Deshpande,South Jersey,energy,1,1,0
+48,Dennis Ji,South Jersey,other,1,0,4
+48,Dennis Ji,South Jersey,physics,1,0,4
+48,Gyan Chande,South Jersey,other,2,0,8
+48,Monish Saravana Kumar,South Jersey,biology,1,0,4
+48,Monish Saravana Kumar,South Jersey,chemistry,1,0,4
+48,Monish Saravana Kumar,South Jersey,math,3,0,12
+48,Monish Saravana Kumar,South Jersey,physics,1,1,0
+49,Arjun Ganesan,Centreville HS Team 1,biology,2,0,8
+49,Arjun Ganesan,Centreville HS Team 1,chemistry,2,0,8
+49,Arjun Ganesan,Centreville HS Team 1,energy,1,0,4
+49,Arjun Ganesan,Centreville HS Team 1,math,1,0,4
+49,Pritham Singh,Centreville HS Team 1,chemistry,1,1,0
+49,Pritham Singh,Centreville HS Team 1,other,2,0,8
+49,Pritham Singh,Centreville HS Team 1,energy,1,0,4
+49,Pritham Singh,Centreville HS Team 1,math,1,0,4
+49,Pritham Singh,Centreville HS Team 1,physics,2,0,8
+49,Rithik Natarajan,Shallow Stroll Team B,physics,1,0,4
+49,Ruohan Xu,Shallow Stroll Team B,biology,1,0,4
+49,Ruohan Xu,Shallow Stroll Team B,other,0,1,-4
+49,Ruohan Xu,Shallow Stroll Team B,physics,1,1,0
+49,Sreekar Karra,Shallow Stroll Team B,chemistry,1,1,0
+49,Yunay Vaddi,Shallow Stroll Team B,biology,0,1,-4
+49,Yunay Vaddi,Shallow Stroll Team B,other,0,1,-4
+50,Kaiwen Yao,Eagles A,chemistry,1,1,0
+50,Kaiwen Yao,Eagles A,other,3,0,12
+50,Kaiwen Yao,Eagles A,energy,2,0,8
+50,Kaiwen Yao,Eagles A,math,2,0,8
+50,Kaiwen Yao,Eagles A,physics,3,0,12
+50,Oliver Yang,Eagles A,biology,1,1,0
+50,Vishruth Kadiyala,Eagles A,chemistry,1,0,4
+50,Vishruth Kadiyala,Eagles A,energy,1,0,4
+50,Andrew Zhao,Richard Montgomery,biology,2,0,8
+50,David He,Richard Montgomery,math,1,0,4
+50,Ethan Pei,Richard Montgomery,biology,1,0,4
+50,Ethan Pei,Richard Montgomery,chemistry,1,1,0
+50,Keshav Ramaswamy,Richard Montgomery,other,1,0,4
+50,Keshav Ramaswamy,Richard Montgomery,physics,1,0,4
+50,Sedric Su,Richard Montgomery,chemistry,1,0,4
+51,Allen Liu,Eagles B,biology,1,0,4
+51,Allen Liu,Eagles B,math,1,0,4
+51,Allen Liu,Eagles B,physics,1,0,4
+51,Lilly Yang,Eagles B,other,2,0,8
+51,Lilly Yang,Eagles B,energy,1,0,4
+51,Madhuram Sharma,Eagles B,chemistry,1,1,0
+51,Madhuram Sharma,Eagles B,other,1,0,4
+51,Madhuram Sharma,Eagles B,energy,1,0,4
+51,Madhuram Sharma,Eagles B,math,0,1,-4
+51,Andrew Feng,North Allegheny,chemistry,1,0,4
+51,Andrew Feng,North Allegheny,other,1,0,4
+51,Andrew Feng,North Allegheny,math,2,0,8
+51,Hongyi Wang,North Allegheny,biology,2,1,4
+51,Hongyi Wang,North Allegheny,chemistry,1,0,4
+51,Jason Liu,North Allegheny,energy,1,0,4
+51,Jason Liu,North Allegheny,math,1,0,4
+51,Jason Liu,North Allegheny,physics,3,0,12
+51,Leonardo Yu,North Allegheny,biology,1,0,4
+51,Leonardo Yu,North Allegheny,chemistry,1,0,4
+52,Eli Segal,Eagles C,biology,1,0,4
+52,Eli Segal,Eagles C,chemistry,1,0,4
+52,Eli Segal,Eagles C,energy,1,0,4
+52,Eli Segal,Eagles C,math,2,0,8
+52,Kingshuk Roy,Eagles C,chemistry,2,0,8
+52,Kingshuk Roy,Eagles C,energy,1,0,4
+52,Matthew Du,Eagles C,biology,1,0,4
+52,Matthew Du,Eagles C,other,1,0,4
+52,Matthew Du,Eagles C,physics,2,0,8
+52,Ryan Yang,Eagles C,other,2,1,4
+52,Ryan Yang,Eagles C,energy,1,0,4
+52,Jayden Qin,Westtown B,chemistry,0,1,-4
+52,Jayden Qin,Westtown B,math,1,0,4
+52,Jayden Qin,Westtown B,physics,2,0,8
+53,Abhinav Anand,Gargy Bomy,biology,2,1,4
+53,Abhinav Anand,Gargy Bomy,energy,0,1,-4
+53,Abhinav Anand,Gargy Bomy,physics,1,0,4
+53,Likhith Malipati,Gargy Bomy,math,2,0,8
+53,Likhith Malipati,Gargy Bomy,physics,2,0,8
+53,Sanjay Oruganti,Gargy Bomy,chemistry,2,0,8
+53,Sanjay Oruganti,Gargy Bomy,energy,1,1,0
+53,Aahan Mahakud,WWPN A,math,1,0,4
+53,Aldric Benalan,WWPN A,chemistry,1,0,4
+53,Aldric Benalan,WWPN A,other,3,0,12
+53,Aldric Benalan,WWPN A,energy,2,0,8
+53,Easton Wei,WWPN A,biology,1,0,4
+53,Easton Wei,WWPN A,physics,1,0,4
+54,Chris Wang,Montgomery Blair A,biology,1,0,4
+54,Evan Zhang,Montgomery Blair A,chemistry,1,0,4
+54,Evan Zhang,Montgomery Blair A,other,1,0,4
+54,Evan Zhang,Montgomery Blair A,energy,1,0,4
+54,Evan Zhang,Montgomery Blair A,math,2,0,8
+54,Evan Zhang,Montgomery Blair A,physics,1,0,4
+54,Kevin Feng,Montgomery Blair A,other,2,0,8
+54,Kevin Feng,Montgomery Blair A,math,1,0,4
+54,Kevin Feng,Montgomery Blair A,physics,2,0,8
+54,Kian Dhawan,Montgomery Blair A,biology,3,0,12
+54,Kian Dhawan,Montgomery Blair A,chemistry,3,0,12
+54,Kian Dhawan,Montgomery Blair A,other,1,0,4
+54,Kian Dhawan,Montgomery Blair A,energy,2,0,8
+54,Kian Dhawan,Montgomery Blair A,math,1,0,4
+54,Kian Dhawan,Montgomery Blair A,physics,1,0,4
+54,Alice Wan,The Wilberforce School,energy,0,1,-4
+55,Abhijay Banerjee,Montgomery Blair B,chemistry,1,0,4
+55,Abhijay Banerjee,Montgomery Blair B,other,1,0,4
+55,Abhijay Banerjee,Montgomery Blair B,energy,1,0,4
+55,Abhijay Banerjee,Montgomery Blair B,math,1,0,4
+55,Abhijay Banerjee,Montgomery Blair B,physics,2,0,8
+55,Arman Ayazi,Montgomery Blair B,biology,3,1,8
+55,Arman Ayazi,Montgomery Blair B,chemistry,1,0,4
+55,Arman Ayazi,Montgomery Blair B,physics,2,0,8
+55,Henry Lu,Montgomery Blair B,other,2,0,8
+55,Henry Lu,Montgomery Blair B,energy,1,0,4
+55,Kenneth Liu,Montgomery Blair B,chemistry,1,0,4
+55,Kenneth Liu,Montgomery Blair B,energy,1,0,4
+55,William Qian,Montgomery Blair B,math,2,0,8
+55,Ritisha Das,WCHS B,physics,0,1,-4
+56,Leila Indharasophang,Pilgrimage Homeschool,biology,1,0,4
+56,Leila Indharasophang,Pilgrimage Homeschool,other,3,0,12
+56,Andrew Li,WWPN B,chemistry,1,0,4
+56,Andrew Li,WWPN B,energy,1,0,4
+56,Jeddy,WWPN B,biology,1,0,4
+56,Krivi Partani,WWPN B,math,3,0,12
+56,Krivi Partani,WWPN B,physics,3,0,12
+56,Will Luo,WWPN B,chemistry,2,1,4
+56,Will Luo,WWPN B,other,1,0,4
+57,Ankush Karmakar,Poolesville 2,chemistry,0,1,-4
+57,Daniel Zhang,Poolesville 2,chemistry,0,1,-4
+57,Jasraj Bhatia,Poolesville 2,chemistry,0,1,-4
+57,Aaron Zhou,WCHS A,chemistry,2,0,8
+57,Aaron Zhou,WCHS A,other,1,0,4
+57,Aaron Zhou,WCHS A,physics,0,1,-4
+57,Allen Chang,WCHS A,math,2,0,8
+57,Allen Chang,WCHS A,physics,1,0,4
+57,Andrew Li,WCHS A,biology,1,0,4
+57,Andrew Li,WCHS A,other,3,0,12
+57,Andrew Li,WCHS A,energy,1,0,4
+57,Beirui Zhang,WCHS A,biology,2,0,8
+57,Beirui Zhang,WCHS A,chemistry,0,1,-4
+57,Beirui Zhang,WCHS A,energy,0,1,-4
+58,Prithwish Chatterjee,Shallow Walk team A,other,1,0,4
+58,Riyan Nayak,Shallow Walk team A,physics,1,0,4
+58,Ryan Karim,Shallow Walk team A,biology,4,0,16
+58,Ryan Karim,Shallow Walk team A,chemistry,3,0,12
+58,Ryan Karim,Shallow Walk team A,other,3,0,12
+58,Ryan Karim,Shallow Walk team A,energy,2,0,8
+58,Ryan Karim,Shallow Walk team A,math,3,0,12
+58,Ryan Karim,Shallow Walk team A,physics,3,0,12
+59,Chaitan Praveen,Thomas S Wootton High School team B,biology,1,0,4
+59,Chaitan Praveen,Thomas S Wootton High School team B,math,1,0,4
+59,Hyunjoon Song,Thomas S Wootton High School team B,chemistry,2,0,8
+59,Hyunjoon Song,Thomas S Wootton High School team B,physics,3,0,12
+59,Peter Foerster,Thomas S Wootton High School team B,chemistry,2,0,8
+59,Peter Foerster,Thomas S Wootton High School team B,other,2,0,8
+59,Amy Xu,WCHS C,other,1,0,4
+59,Amy Xu,WCHS C,math,1,0,4
+59,Evelyn Wang,WCHS C,energy,1,0,4
+59,Sonia Lin,WCHS C,biology,1,0,4
+60,Angela Wang,Westtown A,biology,1,0,4
+60,Angela Wang,Westtown A,chemistry,1,0,4
+60,Jamie Lee,Westtown A,math,2,0,8
+60,Jamie Lee,Westtown A,physics,3,0,12
+60,Tessa Kipnis,Westtown A,energy,1,0,4
+60,Alex Wang,poolesville village idiots,biology,3,0,12
+60,Alex Wang,poolesville village idiots,chemistry,2,0,8
+60,Alex Wang,poolesville village idiots,other,2,0,8
+60,Alex Wang,poolesville village idiots,energy,2,0,8
+60,Alex Wang,poolesville village idiots,math,1,0,4
+60,Caleb Wen,poolesville village idiots,chemistry,1,0,4
+60,Caleb Wen,poolesville village idiots,other,2,0,8
+60,Caleb Wen,poolesville village idiots,math,1,0,4
+60,Caleb Wen,poolesville village idiots,physics,1,0,4
+61,Ian Wang,Basis,chemistry,1,0,4
+61,Ian Wang,Basis,other,1,0,4
+61,Ian Wang,Basis,math,2,0,8
+61,Ian Wang,Basis,physics,3,0,12
+61,Jueon Kim,Basis,math,0,1,-4
+61,Neel Jain,Basis,biology,1,0,4
+61,Neel Jain,Basis,chemistry,1,0,4
+61,Neel Jain,Basis,energy,1,0,4
+61,Sumer Chaudhary,Basis,biology,1,0,4
+61,Sumer Chaudhary,Basis,chemistry,1,0,4
+61,Krivi Partani,WWPN B,biology,1,0,4
+61,Krivi Partani,WWPN B,other,1,0,4
+61,Krivi Partani,WWPN B,math,1,0,4
+61,Will Luo,WWPN B,chemistry,1,1,0
+61,Will Luo,WWPN B,other,1,0,4
+62,Matthew Yang,Centennial A,biology,2,2,0
+62,Matthew Yang,Centennial A,chemistry,2,0,8
+62,Matthew Yang,Centennial A,other,1,0,4
+62,Matthew Yang,Centennial A,energy,1,1,0
+62,Matthew Yang,Centennial A,math,1,0,4
+62,Ray Gao,Centennial A,other,1,0,4
+62,Shravan Yoagentharan,Centennial A,energy,1,0,4
+62,Shravan Yoagentharan,Centennial A,physics,0,1,-4
+62,Jayden Qin,Westtown B,math,2,0,8
+62,Jayden Qin,Westtown B,physics,2,0,8
+62,Leila Alobeidy,Westtown B,chemistry,1,0,4
+62,Leila Alobeidy,Westtown B,other,1,0,4
+63,Rohan Sengupta,Centennial B,biology,1,0,4
+63,Rohan Sengupta,Centennial B,chemistry,2,0,8
+63,Rohan Sengupta,Centennial B,other,1,0,4
+63,Rohan Sengupta,Centennial B,energy,1,1,0
+63,Rohan Sengupta,Centennial B,math,2,0,8
+63,Rohan Sengupta,Centennial B,physics,1,0,4
+63,Eliana Hogan,Pilgrimage Homeschool,chemistry,1,0,4
+63,Ellie Leung,Pilgrimage Homeschool,biology,1,0,4
+63,Ellie Leung,Pilgrimage Homeschool,chemistry,1,0,4
+63,Leila Indharasophang,Pilgrimage Homeschool,other,2,0,8
+64,Arjun Ganesan,Centreville HS Team 1,biology,0,1,-4
+64,Pritham Singh,Centreville HS Team 1,math,1,0,4
+64,Pritham Singh,Centreville HS Team 1,physics,1,0,4
+64,Angelina Li,Eagles A,other,1,0,4
+64,Angelina Li,Eagles A,math,1,0,4
+64,Kaiwen Yao,Eagles A,biology,1,0,4
+64,Kaiwen Yao,Eagles A,chemistry,2,0,8
+64,Kaiwen Yao,Eagles A,other,2,0,8
+64,Kaiwen Yao,Eagles A,energy,2,0,8
+64,Kaiwen Yao,Eagles A,math,1,1,0
+64,Kaiwen Yao,Eagles A,physics,2,1,4
+64,Oliver Yang,Eagles A,biology,2,0,8
+64,Oliver Yang,Eagles A,energy,0,1,-4
+64,Vishruth Kadiyala,Eagles A,chemistry,2,0,8
+64,Vishruth Kadiyala,Eagles A,physics,1,0,4
+65,Allen Liu,Eagles B,biology,1,0,4
+65,Allen Liu,Eagles B,math,1,0,4
+65,Anvita A,Eagles B,energy,1,0,4
+65,Lilly Yang,Eagles B,other,1,0,4
+65,Madhuram Sharma,Eagles B,energy,1,0,4
+65,Madhuram Sharma,Eagles B,math,1,0,4
+65,Madhuram Sharma,Eagles B,physics,1,0,4
+65,Abhijay Banerjee,Montgomery Blair B,chemistry,2,0,8
+65,Abhijay Banerjee,Montgomery Blair B,energy,1,0,4
+65,Abhijay Banerjee,Montgomery Blair B,physics,1,1,0
+65,Arman Ayazi,Montgomery Blair B,biology,2,1,4
+65,Arman Ayazi,Montgomery Blair B,energy,0,1,-4
+65,Henry Lu,Montgomery Blair B,other,3,0,12
+65,Kenneth Liu,Montgomery Blair B,chemistry,1,0,4
+65,William Qian,Montgomery Blair B,math,2,1,4
+66,Eli Segal,Eagles C,math,1,0,4
+66,Kingshuk Roy,Eagles C,energy,1,0,4
+66,Matthew Du,Eagles C,physics,2,0,8
+66,Ryan Yang,Eagles C,other,0,1,-4
+66,Aahan Mahakud,WWPN A,math,2,1,4
+66,Aahan Mahakud,WWPN A,physics,0,1,-4
+66,Aldric Benalan,WWPN A,chemistry,2,0,8
+66,Aldric Benalan,WWPN A,other,4,0,16
+66,Aldric Benalan,WWPN A,energy,1,1,0
+66,Aldric Benalan,WWPN A,physics,1,0,4
+66,Easton Wei,WWPN A,chemistry,2,0,8
+66,Easton Wei,WWPN A,math,1,0,4
+66,Easton Wei,WWPN A,physics,0,1,-4
+66,Ishaan Arya,WWPN A,biology,4,0,16
+66,Ishaan Arya,WWPN A,energy,1,0,4
+67,Abhinav Anand,Gargy Bomy,biology,2,0,8
+67,Abhinav Anand,Gargy Bomy,other,4,0,16
+67,Dhairya Mathur,Gargy Bomy,biology,0,1,-4
+67,Jason Mak,Gargy Bomy,energy,1,0,4
+67,Jason Mak,Gargy Bomy,physics,0,1,-4
+67,Likhith Malipati,Gargy Bomy,math,1,1,0
+67,Sanjay Oruganti,Gargy Bomy,chemistry,2,0,8
+67,Sanjay Oruganti,Gargy Bomy,energy,1,0,4
+67,Arun Kompella,Thomas S Wootton High School team A,math,1,0,4
+67,Cody Gao,Thomas S Wootton High School team A,chemistry,1,1,0
+67,Cody Gao,Thomas S Wootton High School team A,energy,0,1,-4
+67,Cody Gao,Thomas S Wootton High School team A,physics,1,0,4
+67,Louis Wang,Thomas S Wootton High School team A,biology,1,0,4
+68,Eric Xie,Kiruna Scholars,math,1,0,4
+68,Eric Xie,Kiruna Scholars,physics,0,1,-4
+68,Hrishi Bhooma,Kiruna Scholars,chemistry,2,0,8
+68,Hrishi Bhooma,Kiruna Scholars,energy,1,0,4
+68,Hrishi Bhooma,Kiruna Scholars,physics,1,0,4
+68,Rohan Bairi,Kiruna Scholars,other,1,0,4
+68,Sophia Guo,Kiruna Scholars,biology,1,0,4
+68,Sophia Guo,Kiruna Scholars,other,3,0,12
+68,Sophia Guo,Kiruna Scholars,energy,1,0,4
+68,Sophia Guo,Kiruna Scholars,math,0,1,-4
+68,Akhil Mandapati,South Jersey,chemistry,1,0,4
+68,Arjun Deshpande,South Jersey,biology,3,0,12
+68,Arjun Deshpande,South Jersey,chemistry,1,0,4
+68,Arjun Deshpande,South Jersey,energy,1,0,4
+68,Arjun Deshpande,South Jersey,math,1,0,4
+68,Dennis Ji,South Jersey,physics,1,1,0
+68,Monish Saravana Kumar,South Jersey,chemistry,0,1,-4
+68,Monish Saravana Kumar,South Jersey,math,2,0,8
+68,Monish Saravana Kumar,South Jersey,physics,1,0,4
+69,Chris Wang,Montgomery Blair A,math,1,0,4
+69,Chris Wang,Montgomery Blair A,physics,1,0,4
+69,Evan Zhang,Montgomery Blair A,chemistry,2,0,8
+69,Evan Zhang,Montgomery Blair A,other,1,0,4
+69,Evan Zhang,Montgomery Blair A,energy,1,0,4
+69,Evan Zhang,Montgomery Blair A,math,1,0,4
+69,Evan Zhang,Montgomery Blair A,physics,2,0,8
+69,Kevin Feng,Montgomery Blair A,biology,1,0,4
+69,Kevin Feng,Montgomery Blair A,other,1,0,4
+69,Kian Dhawan,Montgomery Blair A,biology,3,0,12
+69,Kian Dhawan,Montgomery Blair A,chemistry,1,0,4
+69,Kian Dhawan,Montgomery Blair A,other,1,0,4
+69,Kian Dhawan,Montgomery Blair A,energy,2,0,8
+69,Kian Dhawan,Montgomery Blair A,math,1,0,4
+69,Sam Easaw,Montgomery Blair A,chemistry,1,0,4
+69,Sam Easaw,Montgomery Blair A,math,1,0,4
+70,Andrew Feng,North Allegheny,other,2,0,8
+70,Hongyi Wang,North Allegheny,biology,4,0,16
+70,Hongyi Wang,North Allegheny,other,2,0,8
+70,Hongyi Wang,North Allegheny,physics,0,1,-4
+70,Jason Liu,North Allegheny,math,1,0,4
+70,Kaartic Muralidharan,North Allegheny,energy,1,0,4
+70,Leonardo Yu,North Allegheny,chemistry,0,2,-8
+70,Leonardo Yu,North Allegheny,energy,2,0,8
+70,Leonardo Yu,North Allegheny,physics,1,0,4
+70,Alex Wang,poolesville village idiots,chemistry,3,0,12
+70,Alex Wang,poolesville village idiots,math,2,0,8
+70,Alex Wang,poolesville village idiots,physics,0,1,-4
+70,Caleb Wen,poolesville village idiots,physics,3,0,12
+70,Denis Motuzenko,poolesville village idiots,math,1,0,4
+71,Daniel Zhang,Poolesville 2,math,1,0,4
+71,Daniel Zhang,Poolesville 2,physics,2,0,8
+71,Nimit Agarwal,Shallow Walk team A,biology,1,0,4
+71,Prithwish Chatterjee,Shallow Walk team A,energy,1,0,4
+71,Riyan Nayak,Shallow Walk team A,biology,1,0,4
+71,Riyan Nayak,Shallow Walk team A,other,1,0,4
+71,Ryan Karim,Shallow Walk team A,biology,2,0,8
+71,Ryan Karim,Shallow Walk team A,chemistry,4,0,16
+71,Ryan Karim,Shallow Walk team A,other,2,0,8
+71,Ryan Karim,Shallow Walk team A,energy,2,0,8
+71,Ryan Karim,Shallow Walk team A,math,3,1,8
+72,Andrew Zhao,Richard Montgomery,biology,2,0,8
+72,Andrew Zhao,Richard Montgomery,chemistry,1,0,4
+72,Andrew Zhao,Richard Montgomery,other,2,0,8
+72,Andrew Zhao,Richard Montgomery,energy,1,0,4
+72,Andrew Zhao,Richard Montgomery,math,1,0,4
+72,Andrew Zhao,Richard Montgomery,physics,1,0,4
+72,Ethan Pei,Richard Montgomery,biology,2,0,8
+72,Ethan Pei,Richard Montgomery,chemistry,1,0,4
+72,Ethan Pei,Richard Montgomery,other,2,0,8
+72,Ethan Pei,Richard Montgomery,energy,1,0,4
+72,Keshav Ramaswamy,Richard Montgomery,energy,1,0,4
+72,Keshav Ramaswamy,Richard Montgomery,math,1,0,4
+72,Keshav Ramaswamy,Richard Montgomery,physics,1,0,4
+72,Sedric Su,Richard Montgomery,math,0,1,-4
+72,Hyunjoon Song,Thomas S Wootton High School team B,physics,0,1,-4
+72,Peter Foerster,Thomas S Wootton High School team B,chemistry,2,0,8
+72,Peter Foerster,Thomas S Wootton High School team B,math,1,0,4
+73,Rithik Natarajan,Shallow Stroll Team B,energy,0,1,-4
+73,Ruohan Xu,Shallow Stroll Team B,biology,2,0,8
+73,Ruohan Xu,Shallow Stroll Team B,chemistry,1,0,4
+73,Ruohan Xu,Shallow Stroll Team B,math,3,1,8
+73,Sreekar Karra,Shallow Stroll Team B,chemistry,1,0,4
+73,Yunay Vaddi,Shallow Stroll Team B,biology,1,0,4
+73,Amy Xu,WCHS C,biology,1,0,4
+73,Amy Xu,WCHS C,other,1,0,4
+73,Vivian Samara,WCHS C,energy,1,0,4
+74,Alice Wan,The Wilberforce School,chemistry,2,0,8
+74,Alice Wan,The Wilberforce School,other,3,0,12
+74,Matthew Hettena,The Wilberforce School,math,1,0,4
+74,Matthew Hettena,The Wilberforce School,physics,1,0,4
+74,Richmond Darrow,The Wilberforce School,biology,1,0,4
+74,Aaron Zhou,WCHS A,energy,2,0,8
+74,Aaron Zhou,WCHS A,math,2,0,8
+74,Aaron Zhou,WCHS A,physics,1,0,4
+74,Andrew Li,WCHS A,other,1,0,4
+74,Andrew Li,WCHS A,physics,1,0,4
+74,Beirui Zhang,WCHS A,biology,2,1,4
+74,Beirui Zhang,WCHS A,chemistry,1,0,4
+74,Beirui Zhang,WCHS A,energy,1,0,4
+75,Ritisha Das,WCHS B,biology,0,1,-4
+75,TaeHee Kim,WCHS B,chemistry,1,0,4
+75,Angela Wang,Westtown A,biology,3,1,8
+75,Angela Wang,Westtown A,chemistry,1,0,4
+75,Angela Wang,Westtown A,other,1,0,4
+75,Angela Wang,Westtown A,energy,1,0,4
+75,Angela Wang,Westtown A,physics,1,0,4
+75,Ben D'Alessandro,Westtown A,chemistry,1,0,4
+75,Ben D'Alessandro,Westtown A,other,1,0,4
+75,Ben D'Alessandro,Westtown A,physics,1,0,4
+75,Jamie Lee,Westtown A,math,3,1,8
+76,Ian Wang,Basis,other,1,0,4
+76,Ian Wang,Basis,math,2,0,8
+76,Ian Wang,Basis,physics,2,0,8
+76,Neel Jain,Basis,other,1,0,4
+76,Neel Jain,Basis,physics,1,0,4
+76,Sumer Chaudhary,Basis,biology,2,0,8
+76,Sumer Chaudhary,Basis,chemistry,1,0,4
+76,Sumer Chaudhary,Basis,energy,2,0,8
+76,Sumer Chaudhary,Basis,math,1,0,4
+76,Sumer Chaudhary,Basis,physics,1,0,4
+76,Litish Deepa,Centennial B,chemistry,1,0,4
+76,Rohan Sengupta,Centennial B,chemistry,1,0,4
+76,Rohan Sengupta,Centennial B,energy,1,0,4
+76,Rohan Sengupta,Centennial B,math,0,1,-4
+77,Matthew Yang,Centennial A,biology,1,0,4
+77,Matthew Yang,Centennial A,physics,2,0,8
+77,Aahan Mahakud,WWPN A,math,1,0,4
+77,Aldric Benalan,WWPN A,biology,1,0,4
+77,Aldric Benalan,WWPN A,chemistry,1,0,4
+77,Aldric Benalan,WWPN A,other,4,0,16
+77,Aldric Benalan,WWPN A,energy,1,0,4
+77,Aldric Benalan,WWPN A,math,1,0,4
+77,Aldric Benalan,WWPN A,physics,0,2,-8
+77,Easton Wei,WWPN A,chemistry,2,0,8
+77,Easton Wei,WWPN A,math,1,0,4
+77,Easton Wei,WWPN A,physics,1,0,4
+77,Ishaan Arya,WWPN A,biology,1,0,4
+77,Ishaan Arya,WWPN A,energy,1,0,4
+78,Arjun Ganesan,Centreville HS Team 1,biology,2,0,8
+78,Pritham Singh,Centreville HS Team 1,chemistry,2,0,8
+78,Pritham Singh,Centreville HS Team 1,energy,1,0,4
+78,Pritham Singh,Centreville HS Team 1,math,2,0,8
+78,Pritham Singh,Centreville HS Team 1,physics,1,0,4
+78,Ryan Hyon,Centreville HS Team 1,biology,1,0,4
+78,Ryan Hyon,Centreville HS Team 1,physics,1,0,4
+78,Yeojune Yun,Centreville HS Team 1,other,2,0,8
+78,Hyunjoon Song,Thomas S Wootton High School team B,chemistry,2,0,8
+78,Hyunjoon Song,Thomas S Wootton High School team B,physics,2,0,8
+78,Peter Foerster,Thomas S Wootton High School team B,math,1,0,4
+79,Angelina Li,Eagles A,other,2,0,8
+79,Kaiwen Yao,Eagles A,biology,2,0,8
+79,Kaiwen Yao,Eagles A,energy,1,0,4
+79,Kaiwen Yao,Eagles A,math,2,0,8
+79,Kaiwen Yao,Eagles A,physics,3,0,12
+79,Oliver Yang,Eagles A,biology,1,0,4
+79,Oliver Yang,Eagles A,energy,1,0,4
+79,Vishruth Kadiyala,Eagles A,chemistry,3,0,12
+79,Vishruth Kadiyala,Eagles A,other,1,0,4
+79,Rithik Natarajan,Shallow Stroll Team B,math,0,1,-4
+79,Sreekar Karra,Shallow Stroll Team B,chemistry,1,2,-4
+79,Sreekar Karra,Shallow Stroll Team B,energy,0,1,-4
+79,Yunay Vaddi,Shallow Stroll Team B,biology,0,1,-4
+79,Yunay Vaddi,Shallow Stroll Team B,chemistry,0,1,-4
+79,Yunay Vaddi,Shallow Stroll Team B,other,1,0,4
+79,Yunay Vaddi,Shallow Stroll Team B,physics,1,0,4
+80,Allen Liu,Eagles B,math,1,0,4
+80,Allen Liu,Eagles B,physics,1,0,4
+80,Anvita A,Eagles B,biology,2,0,8
+80,Lilly Yang,Eagles B,other,1,0,4
+80,Madhuram Sharma,Eagles B,biology,1,0,4
+80,Madhuram Sharma,Eagles B,chemistry,1,0,4
+80,Madhuram Sharma,Eagles B,other,1,1,0
+80,Madhuram Sharma,Eagles B,math,1,0,4
+80,Madhuram Sharma,Eagles B,physics,1,0,4
+80,Ritisha Das,WCHS B,biology,1,0,4
+80,Ritisha Das,WCHS B,energy,1,0,4
+80,Ritisha Das,WCHS B,math,1,0,4
+80,TaeHee Kim,WCHS B,chemistry,1,0,4
+81,Eli Segal,Eagles C,biology,1,0,4
+81,Kingshuk Roy,Eagles C,other,1,0,4
+81,Kingshuk Roy,Eagles C,energy,1,0,4
+81,Matthew Du,Eagles C,math,1,0,4
+81,Matthew Du,Eagles C,physics,1,0,4
+81,Abhinav Anand,Gargy Bomy,biology,2,1,4
+81,Abhinav Anand,Gargy Bomy,other,3,0,12
+81,Abhinav Anand,Gargy Bomy,energy,1,0,4
+81,Likhith Malipati,Gargy Bomy,energy,1,0,4
+81,Likhith Malipati,Gargy Bomy,math,1,1,0
+81,Sanjay Oruganti,Gargy Bomy,chemistry,3,0,12
+81,Sanjay Oruganti,Gargy Bomy,math,2,0,8
+81,Sanjay Oruganti,Gargy Bomy,physics,2,0,8
+82,Hrishi Bhooma,Kiruna Scholars,biology,0,1,-4
+82,Hrishi Bhooma,Kiruna Scholars,chemistry,3,0,12
+82,Hrishi Bhooma,Kiruna Scholars,energy,0,1,-4
+82,Hrishi Bhooma,Kiruna Scholars,math,1,0,4
+82,Hrishi Bhooma,Kiruna Scholars,physics,3,0,12
+82,Nathan Liang,Kiruna Scholars,other,1,0,4
+82,Nathan Liang,Kiruna Scholars,physics,1,0,4
+82,Rohan Bairi,Kiruna Scholars,other,2,0,8
+82,Sophia Guo,Kiruna Scholars,biology,2,1,4
+82,Sophia Guo,Kiruna Scholars,chemistry,1,0,4
+82,Sophia Guo,Kiruna Scholars,math,1,0,4
+82,Andrew Li,WWPN B,other,0,1,-4
+82,Andrew Li,WWPN B,energy,1,0,4
+82,Jeddy,WWPN B,other,0,1,-4
+82,Krivi Partani,WWPN B,biology,1,1,0
+82,Krivi Partani,WWPN B,energy,1,0,4
+82,Krivi Partani,WWPN B,math,2,0,8
+82,Will Luo,WWPN B,other,1,0,4
+83,Chris Wang,Montgomery Blair A,math,1,0,4
+83,Chris Wang,Montgomery Blair A,physics,2,1,4
+83,Evan Zhang,Montgomery Blair A,other,3,0,12
+83,Evan Zhang,Montgomery Blair A,energy,2,0,8
+83,Evan Zhang,Montgomery Blair A,math,2,0,8
+83,Evan Zhang,Montgomery Blair A,physics,1,0,4
+83,Kian Dhawan,Montgomery Blair A,biology,3,0,12
+83,Kian Dhawan,Montgomery Blair A,chemistry,2,1,4
+83,Kian Dhawan,Montgomery Blair A,energy,1,0,4
+83,Kian Dhawan,Montgomery Blair A,math,1,0,4
+83,Sam Easaw,Montgomery Blair A,chemistry,1,0,4
+83,Aaron Zhou,WCHS A,other,0,1,-4
+83,Aaron Zhou,WCHS A,energy,0,1,-4
+83,Aaron Zhou,WCHS A,math,0,1,-4
+84,Abhijay Banerjee,Montgomery Blair B,chemistry,1,0,4
+84,Abhijay Banerjee,Montgomery Blair B,physics,1,0,4
+84,Arman Ayazi,Montgomery Blair B,biology,1,0,4
+84,Arman Ayazi,Montgomery Blair B,chemistry,1,0,4
+84,Henry Lu,Montgomery Blair B,other,2,0,8
+84,William Qian,Montgomery Blair B,energy,1,0,4
+84,William Qian,Montgomery Blair B,math,2,0,8
+84,Alex Wang,poolesville village idiots,biology,2,0,8
+84,Alex Wang,poolesville village idiots,chemistry,1,1,0
+84,Alex Wang,poolesville village idiots,other,1,0,4
+84,Alex Wang,poolesville village idiots,energy,2,1,4
+84,Alex Wang,poolesville village idiots,math,1,0,4
+84,Alex Wang,poolesville village idiots,physics,1,0,4
+84,Caleb Wen,poolesville village idiots,physics,2,1,4
+85,Andrew Feng,North Allegheny,other,1,0,4
+85,Andrew Feng,North Allegheny,math,1,0,4
+85,Hongyi Wang,North Allegheny,biology,2,0,8
+85,Hongyi Wang,North Allegheny,energy,1,1,0
+85,Hongyi Wang,North Allegheny,physics,2,0,8
+85,Jason Liu,North Allegheny,math,2,0,8
+85,Jason Liu,North Allegheny,physics,1,0,4
+85,Kaartic Muralidharan,North Allegheny,math,1,0,4
+85,Leonardo Yu,North Allegheny,biology,0,1,-4
+85,Leonardo Yu,North Allegheny,chemistry,2,0,8
+85,Angela Wang,Westtown A,energy,2,0,8
+85,Angela Wang,Westtown A,physics,1,1,0
+85,Ben D'Alessandro,Westtown A,other,1,0,4
+86,Leila Indharasophang,Pilgrimage Homeschool,other,1,0,4
+86,Akhil Mandapati,South Jersey,chemistry,1,0,4
+86,Akhil Mandapati,South Jersey,other,2,0,8
+86,Arjun Deshpande,South Jersey,biology,4,0,16
+86,Arjun Deshpande,South Jersey,chemistry,1,0,4
+86,Arjun Deshpande,South Jersey,energy,0,1,-4
+86,Dennis Ji,South Jersey,math,2,0,8
+86,Dennis Ji,South Jersey,physics,1,0,4
+86,Monish Saravana Kumar,South Jersey,chemistry,1,0,4
+86,Monish Saravana Kumar,South Jersey,energy,0,2,-8
+86,Monish Saravana Kumar,South Jersey,math,1,0,4
+86,Monish Saravana Kumar,South Jersey,physics,3,0,12
+87,Aarav Mohindru,Poolesville 2,biology,1,0,4
+87,Ankush Karmakar,Poolesville 2,chemistry,1,0,4
+87,Ankush Karmakar,Poolesville 2,energy,1,0,4
+87,Daniel Zhang,Poolesville 2,energy,1,0,4
+87,Daniel Zhang,Poolesville 2,math,2,0,8
+87,Daniel Zhang,Poolesville 2,physics,0,1,-4
+87,Jasraj Bhatia,Poolesville 2,biology,0,1,-4
+87,Jasraj Bhatia,Poolesville 2,energy,1,0,4
+87,Aayu Rastogi,Thomas S Wootton High School team C,physics,1,0,4
+87,Callie Gao,Thomas S Wootton High School team C,biology,1,0,4
+87,Ricky Bam,Thomas S Wootton High School team C,other,1,0,4
+88,Andrew Zhao,Richard Montgomery,biology,3,0,12
+88,Andrew Zhao,Richard Montgomery,chemistry,2,0,8
+88,Andrew Zhao,Richard Montgomery,physics,1,0,4
+88,David He,Richard Montgomery,math,1,0,4
+88,Ethan Pei,Richard Montgomery,biology,1,0,4
+88,Ethan Pei,Richard Montgomery,chemistry,2,0,8
+88,Ethan Pei,Richard Montgomery,other,2,0,8
+88,Ethan Pei,Richard Montgomery,energy,1,0,4
+88,Keshav Ramaswamy,Richard Montgomery,physics,1,0,4
+88,Sedric Su,Richard Montgomery,energy,1,0,4
+88,Sedric Su,Richard Montgomery,math,0,1,-4
+88,Sedric Su,Richard Montgomery,physics,1,0,4
+88,Amy Xu,WCHS C,math,1,0,4
+89,Rishvanth Balasubramanian,Shallow Walk team A,energy,1,0,4
+89,Rishvanth Balasubramanian,Shallow Walk team A,physics,1,0,4
+89,Riyan Nayak,Shallow Walk team A,physics,1,0,4
+89,Ryan Karim,Shallow Walk team A,biology,3,0,12
+89,Ryan Karim,Shallow Walk team A,chemistry,3,1,8
+89,Ryan Karim,Shallow Walk team A,energy,2,0,8
+89,Ryan Karim,Shallow Walk team A,math,3,0,12
+89,Alice Wan,The Wilberforce School,other,3,0,12
+89,Alice Wan,The Wilberforce School,physics,1,0,4
+89,Matthew Hettena,The Wilberforce School,math,1,0,4
+89,Matthew Hettena,The Wilberforce School,physics,0,1,-4
+89,Richmond Darrow,The Wilberforce School,biology,0,1,-4
+90,Arun Kompella,Thomas S Wootton High School team A,math,2,0,8
+90,Christina Chow,Thomas S Wootton High School team A,chemistry,1,0,4
+90,Louis Wang,Thomas S Wootton High School team A,biology,1,0,4
+90,Quinn Lam-Vu,Thomas S Wootton High School team A,other,2,1,4
+90,Quinn Lam-Vu,Thomas S Wootton High School team A,energy,2,0,8
+90,Quinn Lam-Vu,Thomas S Wootton High School team A,physics,2,0,8
+90,Jayden Qin,Westtown B,energy,0,1,-4
+90,Jayden Qin,Westtown B,math,0,2,-8
+90,Jayden Qin,Westtown B,physics,1,0,4
+90,Leila Alobeidy,Westtown B,biology,1,0,4
+90,Leila Alobeidy,Westtown B,chemistry,1,0,4
+90,Sarah Lan,Westtown B,biology,1,0,4
+91,Ian Wang,Basis,chemistry,2,0,8
+91,Ian Wang,Basis,other,1,0,4
+91,Ian Wang,Basis,physics,1,0,4
+91,Sumer Chaudhary,Basis,chemistry,0,1,-4
+91,Sumer Chaudhary,Basis,energy,1,0,4
+91,Sumer Chaudhary,Basis,physics,1,0,4
+91,Akhil Mandapati,South Jersey,energy,1,0,4
+91,Arjun Deshpande,South Jersey,biology,3,1,8
+91,Arjun Deshpande,South Jersey,chemistry,2,0,8
+91,Arjun Deshpande,South Jersey,physics,1,0,4
+91,Gyan Chande,South Jersey,other,2,0,8
+91,Monish Saravana Kumar,South Jersey,other,0,1,-4
+91,Monish Saravana Kumar,South Jersey,energy,1,0,4
+91,Monish Saravana Kumar,South Jersey,math,4,0,16
+91,Monish Saravana Kumar,South Jersey,physics,1,1,0
+92,Matthew Yang,Centennial A,biology,2,0,8
+92,Matthew Yang,Centennial A,other,1,0,4
+92,Matthew Yang,Centennial A,math,1,0,4
+92,Shravan Yoagentharan,Centennial A,math,2,0,8
+92,Abhinav Anand,Gargy Bomy,biology,1,1,0
+92,Abhinav Anand,Gargy Bomy,other,3,1,8
+92,Likhith Malipati,Gargy Bomy,math,0,2,-8
+92,Sanjay Oruganti,Gargy Bomy,chemistry,4,0,16
+92,Sanjay Oruganti,Gargy Bomy,energy,2,0,8
+92,Sanjay Oruganti,Gargy Bomy,physics,2,0,8
+93,Rohan Sengupta,Centennial B,biology,1,0,4
+93,Rohan Sengupta,Centennial B,chemistry,2,0,8
+93,Rohan Sengupta,Centennial B,other,2,0,8
+93,Rohan Sengupta,Centennial B,energy,1,0,4
+93,Rohan Sengupta,Centennial B,math,1,0,4
+93,Andrew Li,WWPN B,energy,1,0,4
+93,Jeddy Yu,WWPN B,biology,1,0,4
+93,Krivi Partani,WWPN B,math,1,0,4
+93,Krivi Partani,WWPN B,physics,1,0,4
+93,Will Luo,WWPN B,chemistry,1,0,4
+93,Will Luo,WWPN B,math,1,0,4
+93,Will Luo,WWPN B,physics,1,0,4
+94,Arjun Ganesan,Centreville HS Team 1,biology,2,0,8
+94,Arjun Ganesan,Centreville HS Team 1,chemistry,1,0,4
+94,Pritham Singh,Centreville HS Team 1,other,2,0,8
+94,Pritham Singh,Centreville HS Team 1,energy,1,0,4
+94,Pritham Singh,Centreville HS Team 1,math,1,1,0
+94,Pritham Singh,Centreville HS Team 1,physics,2,0,8
+94,Ryan Hyon,Centreville HS Team 1,chemistry,1,0,4
+94,Amy Xu,WCHS C,other,2,0,8
+94,Sonia Lin,WCHS C,biology,1,0,4
+95,Angelina Li,Eagles A,other,2,1,4
+95,Kaiwen Yao,Eagles A,biology,1,0,4
+95,Kaiwen Yao,Eagles A,chemistry,1,1,0
+95,Kaiwen Yao,Eagles A,other,1,0,4
+95,Kaiwen Yao,Eagles A,energy,3,0,12
+95,Kaiwen Yao,Eagles A,math,1,0,4
+95,Kaiwen Yao,Eagles A,physics,4,0,16
+95,Max Xu,Eagles A,math,0,1,-4
+95,Oliver Yang,Eagles A,biology,0,1,-4
+95,Vishruth Kadiyala,Eagles A,chemistry,1,1,0
+95,Hyunjoon Song,Thomas S Wootton High School team B,chemistry,1,0,4
+96,Allen Liu,Eagles B,chemistry,0,1,-4
+96,Allen Liu,Eagles B,math,1,0,4
+96,Lilly Yang,Eagles B,other,3,0,12
+96,Madhuram Sharma,Eagles B,biology,3,0,12
+96,Madhuram Sharma,Eagles B,other,1,0,4
+96,Madhuram Sharma,Eagles B,math,0,1,-4
+96,Madhuram Sharma,Eagles B,physics,0,1,-4
+96,Alex Wang,poolesville village idiots,chemistry,3,0,12
+96,Alex Wang,poolesville village idiots,energy,3,0,12
+96,Alex Wang,poolesville village idiots,math,3,0,12
+96,Alex Wang,poolesville village idiots,physics,1,0,4
+96,Alvin Tong,poolesville village idiots,chemistry,1,0,4
+96,Caleb Wen,poolesville village idiots,physics,3,0,12
+96,Denis Motuzenko,poolesville village idiots,biology,1,0,4
+97,Eli Segal,Eagles C,biology,2,0,8
+97,Eli Segal,Eagles C,energy,1,0,4
+97,Eli Segal,Eagles C,math,1,0,4
+97,Kingshuk Roy,Eagles C,chemistry,1,0,4
+97,Matthew Du,Eagles C,biology,1,0,4
+97,Matthew Du,Eagles C,chemistry,1,0,4
+97,Matthew Du,Eagles C,energy,1,0,4
+97,Matthew Du,Eagles C,physics,1,1,0
+97,Ryan Yang,Eagles C,other,3,0,12
+97,Cody Gao,Thomas S Wootton High School team A,chemistry,1,0,4
+97,Cody Gao,Thomas S Wootton High School team A,energy,0,1,-4
+97,Cody Gao,Thomas S Wootton High School team A,physics,2,0,8
+97,Quinn Lam-Vu,Thomas S Wootton High School team A,other,1,0,4
+98,Eric Xie,Kiruna Scholars,math,0,1,-4
+98,Eric Xie,Kiruna Scholars,physics,1,0,4
+98,Hrishi Bhooma,Kiruna Scholars,biology,1,0,4
+98,Hrishi Bhooma,Kiruna Scholars,chemistry,3,0,12
+98,Hrishi Bhooma,Kiruna Scholars,energy,3,0,12
+98,Hrishi Bhooma,Kiruna Scholars,math,1,0,4
+98,Hrishi Bhooma,Kiruna Scholars,physics,2,0,8
+98,Rohan Bairi,Kiruna Scholars,other,1,0,4
+98,Sophia Guo,Kiruna Scholars,biology,2,1,4
+98,Sophia Guo,Kiruna Scholars,other,2,1,4
+98,Sophia Guo,Kiruna Scholars,physics,1,0,4
+98,Ellie Leung,Pilgrimage Homeschool,biology,0,1,-4
+98,Ellie Leung,Pilgrimage Homeschool,chemistry,1,0,4
+98,Ellie Leung,Pilgrimage Homeschool,math,1,0,4
+98,Leila Indharasophang,Pilgrimage Homeschool,other,1,0,4
+99,Chris Wang,Montgomery Blair A,physics,1,0,4
+99,Evan Zhang,Montgomery Blair A,chemistry,0,1,-4
+99,Evan Zhang,Montgomery Blair A,other,2,0,8
+99,Evan Zhang,Montgomery Blair A,energy,1,0,4
+99,Evan Zhang,Montgomery Blair A,math,3,0,12
+99,Evan Zhang,Montgomery Blair A,physics,3,0,12
+99,Kevin Feng,Montgomery Blair A,other,1,0,4
+99,Kian Dhawan,Montgomery Blair A,biology,4,0,16
+99,Kian Dhawan,Montgomery Blair A,chemistry,1,0,4
+99,Kian Dhawan,Montgomery Blair A,other,1,0,4
+99,Kian Dhawan,Montgomery Blair A,energy,2,0,8
+99,Sam Easaw,Montgomery Blair A,chemistry,1,0,4
+99,Ankush Karmakar,Poolesville 2,chemistry,1,0,4
+99,Daniel Zhang,Poolesville 2,math,1,0,4
+100,Abhijay Banerjee,Montgomery Blair B,chemistry,2,0,8
+100,Abhijay Banerjee,Montgomery Blair B,energy,1,0,4
+100,Abhijay Banerjee,Montgomery Blair B,math,1,0,4
+100,Abhijay Banerjee,Montgomery Blair B,physics,1,0,4
+100,Arman Ayazi,Montgomery Blair B,biology,2,1,4
+100,Arman Ayazi,Montgomery Blair B,chemistry,1,0,4
+100,Arman Ayazi,Montgomery Blair B,math,1,0,4
+100,Arman Ayazi,Montgomery Blair B,physics,1,0,4
+100,Henry Lu,Montgomery Blair B,other,3,1,8
+100,Kenneth Liu,Montgomery Blair B,energy,0,1,-4
+100,Angela Wang,Westtown A,biology,2,0,8
+100,Angela Wang,Westtown A,chemistry,0,1,-4
+100,Angela Wang,Westtown A,physics,1,0,4
+100,Ben D'Alessandro,Westtown A,energy,1,0,4
+100,Ben D'Alessandro,Westtown A,math,1,0,4
+100,Ben D'Alessandro,Westtown A,physics,1,0,4
+100,Jamie Lee,Westtown A,math,1,1,0
+101,Andrew Feng,North Allegheny,other,2,1,4
+101,Andrew Feng,North Allegheny,energy,0,1,-4
+101,Andrew Feng,North Allegheny,math,1,0,4
+101,Hongyi Wang,North Allegheny,biology,0,2,-8
+101,Hongyi Wang,North Allegheny,energy,1,0,4
+101,Jason Liu,North Allegheny,math,1,0,4
+101,Jason Liu,North Allegheny,physics,1,0,4
+101,Kaartic Muralidharan,North Allegheny,math,1,0,4
+101,Kaartic Muralidharan,North Allegheny,physics,2,0,8
+101,Leonardo Yu,North Allegheny,biology,1,0,4
+101,Leonardo Yu,North Allegheny,chemistry,2,0,8
+101,Leonardo Yu,North Allegheny,other,0,1,-4
+101,Rebecca Loving,WCHS B,energy,1,0,4
+101,TaeHee Kim,WCHS B,chemistry,1,0,4
+101,TaeHee Kim,WCHS B,physics,1,0,4
+102,Andrew Zhao,Richard Montgomery,biology,1,0,4
+102,Andrew Zhao,Richard Montgomery,chemistry,1,0,4
+102,Andrew Zhao,Richard Montgomery,other,1,0,4
+102,Andrew Zhao,Richard Montgomery,energy,2,0,8
+102,Andrew Zhao,Richard Montgomery,physics,1,0,4
+102,David He,Richard Montgomery,math,1,0,4
+102,Ethan Pei,Richard Montgomery,biology,2,0,8
+102,Ethan Pei,Richard Montgomery,chemistry,2,0,8
+102,Keshav Ramaswamy,Richard Montgomery,energy,0,1,-4
+102,Keshav Ramaswamy,Richard Montgomery,math,1,0,4
+102,Keshav Ramaswamy,Richard Montgomery,physics,1,0,4
+102,Sedric Su,Richard Montgomery,biology,1,0,4
+102,Rithik Natarajan,Shallow Stroll Team B,math,0,1,-4
+102,Ruohan Xu,Shallow Stroll Team B,physics,2,0,8
+102,Sreekar Karra,Shallow Stroll Team B,chemistry,0,1,-4
+102,Sreekar Karra,Shallow Stroll Team B,other,2,0,8
+102,Sreekar Karra,Shallow Stroll Team B,energy,0,1,-4
+103,Nimit Agarwal,Shallow Walk team A,other,1,0,4
+103,Rishvanth Balasubramanian,Shallow Walk team A,other,1,0,4
+103,Rishvanth Balasubramanian,Shallow Walk team A,energy,1,0,4
+103,Rishvanth Balasubramanian,Shallow Walk team A,physics,1,0,4
+103,Ryan Karim,Shallow Walk team A,biology,3,1,8
+103,Ryan Karim,Shallow Walk team A,chemistry,1,1,0
+103,Ryan Karim,Shallow Walk team A,other,1,0,4
+103,Ryan Karim,Shallow Walk team A,energy,1,0,4
+103,Ryan Karim,Shallow Walk team A,math,1,0,4
+103,Ryan Karim,Shallow Walk team A,physics,1,0,4
+103,Aaron Zhou,WCHS A,chemistry,1,0,4
+103,Aaron Zhou,WCHS A,math,2,0,8
+103,Beirui Zhang,WCHS A,biology,0,1,-4
+104,Alice Wan,The Wilberforce School,chemistry,0,1,-4
+104,Alice Wan,The Wilberforce School,other,1,1,0
+104,Alice Wan,The Wilberforce School,physics,1,0,4
+104,Matthew Hettena,The Wilberforce School,chemistry,1,0,4
+104,Matthew Hettena,The Wilberforce School,energy,1,0,4
+104,Matthew Hettena,The Wilberforce School,math,2,0,8
+104,Matthew Hettena,The Wilberforce School,physics,1,0,4
+104,Richmond Darrow,The Wilberforce School,biology,1,0,4
+104,Aayu Rastogi,Thomas S Wootton High School team C,chemistry,1,0,4
+104,Aayu Rastogi,Thomas S Wootton High School team C,math,1,0,4
+104,Ricky Bam,Thomas S Wootton High School team C,biology,2,0,8
+104,Ricky Bam,Thomas S Wootton High School team C,chemistry,1,0,4
+105,Aahan Mahakud,WWPN A,math,0,1,-4
+105,Aldric Benalan,WWPN A,biology,1,0,4
+105,Aldric Benalan,WWPN A,other,4,0,16
+105,Aldric Benalan,WWPN A,energy,2,0,8
+105,Aldric Benalan,WWPN A,physics,2,0,8
+105,Easton Wei,WWPN A,chemistry,2,0,8
+105,Easton Wei,WWPN A,energy,1,0,4
+105,Easton Wei,WWPN A,math,1,0,4
+105,Ishaan Arya,WWPN A,biology,1,1,0
+105,Ishaan Arya,WWPN A,chemistry,0,1,-4
+105,Ishaan Arya,WWPN A,physics,1,0,4
+105,Leila Alobeidy,Westtown B,chemistry,0,1,-4

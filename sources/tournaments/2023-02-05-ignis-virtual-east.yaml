@@ -1,0 +1,27 @@
+id: 2023-02-05-ignis-virtual-east
+name: Ignis Virtual East
+date: '2023-02-05'
+end_date: null
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://prometheus.science/east
+  file: results.html
+- kind: url
+  role: stats
+  url: https://prometheus.science/virtual/statistics
+  file: stats.html
+parser: null
+parser_options: {}
+status: todo
+notes: ''

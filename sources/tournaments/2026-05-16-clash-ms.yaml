@@ -1,0 +1,24 @@
+id: 2026-05-16-clash-ms
+name: CLASH MS
+date: '2026-05-16'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: MS
+include: false
+exclude_reason: Middle school division
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1GQqvdoboDMYjumBZN7ZrpmSbqKkllVvX2BFI_KrOtIU
+  url: https://docs.google.com/spreadsheets/d/1GQqvdoboDMYjumBZN7ZrpmSbqKkllVvX2BFI_KrOtIU/edit?gid=1337950755#gid=1337950755
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

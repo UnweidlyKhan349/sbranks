@@ -1,0 +1,27 @@
+id: 2022-06-01-nsba
+name: NSBA
+date: '2022-06-01'
+end_date: '2022-08-31'
+season: 2022-23
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://nsba.herokuapp.com/playoffs/bracket
+  file: results.html
+- kind: url
+  role: stats
+  url: https://nsba.herokuapp.com/rr/leaderboard
+  file: stats.html
+parser: null
+parser_options: {}
+status: todo
+notes: ''

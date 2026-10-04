@@ -1,0 +1,29 @@
+id: 2026-01-18-texas-science-bowl
+name: Texas Science Bowl
+date: '2026-01-18'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1I1lYdVOSQg5Ejo24kFSDoU3_3LW14lzcZDlq1BV1iVo
+  url: https://docs.google.com/spreadsheets/d/1I1lYdVOSQg5Ejo24kFSDoU3_3LW14lzcZDlq1BV1iVo/edit?gid=1148783192#gid=1148783192
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1KlKOwsmkSXS6E3xAzmffIVKBh4I6A3ZzX50RMitqLr4
+  url: https://docs.google.com/spreadsheets/d/1KlKOwsmkSXS6E3xAzmffIVKBh4I6A3ZzX50RMitqLr4/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,28 @@
+id: 2021-11-27-cast
+name: CAST
+date: '2021-11-27'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1SRousMlHLDaW8iWsvVHhu6NZSXkxJakTeYkkL67I8ao
+  url: https://docs.google.com/spreadsheets/d/1SRousMlHLDaW8iWsvVHhu6NZSXkxJakTeYkkL67I8ao/edit#gid=0
+  file: results.xlsx
+- kind: url
+  role: stats
+  url: https://prometheus.science/s/CAST-Stats.xlsx
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

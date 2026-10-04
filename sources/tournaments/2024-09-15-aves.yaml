@@ -1,0 +1,24 @@
+id: 2024-09-15-aves
+name: AVES
+date: '2024-09-15'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 16P81ssUdGgAaJE-Fjk6bJjQPGfJIHRpeIC-uVXuCmQ4
+  url: https://docs.google.com/spreadsheets/d/16P81ssUdGgAaJE-Fjk6bJjQPGfJIHRpeIC-uVXuCmQ4/edit?gid=204270256#gid=204270256
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

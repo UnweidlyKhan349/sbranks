@@ -1,0 +1,24 @@
+id: 2025-12-06-rice-science-bowl
+name: Rice Science Bowl
+date: '2025-12-06'
+end_date: null
+season: 2025-26
+location: Houston, TX
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 1jyj6Rwihc5R3n-8u3Jcq45Xge5tu6dbSw1q315u9dUk
+  url: https://docs.google.com/spreadsheets/d/1jyj6Rwihc5R3n-8u3Jcq45Xge5tu6dbSw1q315u9dUk/edit?gid=1885827931#gid=1885827931
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

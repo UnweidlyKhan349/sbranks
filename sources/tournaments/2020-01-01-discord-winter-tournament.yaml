@@ -1,0 +1,24 @@
+id: 2020-01-01-discord-winter-tournament
+name: Discord Winter Tournament
+date: '2020-01-01'
+end_date: '2020-01-31'
+season: 2019-20
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 1OFcII45QGCmZbe7ZOrokY5OMCL_H03cKrgqU1PK12Y4
+  url: https://docs.google.com/spreadsheets/d/1OFcII45QGCmZbe7ZOrokY5OMCL_H03cKrgqU1PK12Y4/edit#gid=1692538233
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,24 @@
+id: 2026-01-24-bay-ultimate-ms-scibowl
+name: Bay Ultimate MS Scibowl
+date: '2026-01-24'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: MS
+include: false
+exclude_reason: Middle school tournament
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1wTXGZedcG43CWDzpDdJntpKZTRSrVlwYY70lSFgJBfg
+  url: https://docs.google.com/spreadsheets/d/1wTXGZedcG43CWDzpDdJntpKZTRSrVlwYY70lSFgJBfg/edit?gid=1186929404#gid=1186929404
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,24 @@
+id: 2023-11-11-mit-science-bowl
+name: MIT Science Bowl
+date: '2023-11-11'
+end_date: null
+season: 2023-24
+location: Cambridge, MA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1HcmdA4lmlFEzSLPoYxIQA2TbeFz4iSZv002rDs5Song
+  url: https://docs.google.com/spreadsheets/d/1HcmdA4lmlFEzSLPoYxIQA2TbeFz4iSZv002rDs5Song/edit#gid=1191694692
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

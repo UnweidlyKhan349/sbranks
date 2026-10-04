@@ -1,0 +1,29 @@
+id: 2024-08-04-nsi-2
+name: NSI 2
+date: '2024-08-04'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1a4zoA0rAxqACxlmWyICup5YVEo7G71M1_Z5IYYUCkQ8
+  url: https://docs.google.com/spreadsheets/d/1a4zoA0rAxqACxlmWyICup5YVEo7G71M1_Z5IYYUCkQ8/edit?gid=0#gid=0
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1RP41_o0sir5iG4aEQdHLv99ovV5ELZJnyDM3hMRgrT8
+  url: https://docs.google.com/spreadsheets/d/1RP41_o0sir5iG4aEQdHLv99ovV5ELZJnyDM3hMRgrT8/edit?gid=1648354100#gid=1648354100
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

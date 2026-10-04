@@ -1,0 +1,29 @@
+id: 2025-04-13-tjsbt
+name: TJSBT
+date: '2025-04-13'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 18SZ3fheXS_8OCALz1YmiE7Hf_Gllg-c9hrO5sgNrOX0
+  url: https://docs.google.com/spreadsheets/d/18SZ3fheXS_8OCALz1YmiE7Hf_Gllg-c9hrO5sgNrOX0/edit?gid=1049059372#gid=1049059372
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 15wOm5sB49kAma4l-V_XWAb_KFoVi5AuEcRNZ-RNQNfs
+  url: https://docs.google.com/spreadsheets/d/15wOm5sB49kAma4l-V_XWAb_KFoVi5AuEcRNZ-RNQNfs/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

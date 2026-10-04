@@ -1,0 +1,23 @@
+id: 2026-08-09-tomb
+name: TOMB
+date: '2026-08-09'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: math
+question_set: null
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: trio-online-math-bowl-tomb
+  url: https://isobowl.com/premier/tournaments/trio-online-math-bowl-tomb/standings
+parser: null
+parser_options: {}
+status: todo
+notes: ''

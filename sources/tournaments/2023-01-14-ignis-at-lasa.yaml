@@ -1,0 +1,27 @@
+id: 2023-01-14-ignis-at-lasa
+name: Ignis @ LASA
+date: '2023-01-14'
+end_date: null
+season: 2022-23
+location: Austin, TX
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://prometheus.science/lasa/results
+  file: results.html
+- kind: url
+  role: stats
+  url: https://prometheus.science/lasa/statistics
+  file: stats.html
+parser: null
+parser_options: {}
+status: todo
+notes: ''

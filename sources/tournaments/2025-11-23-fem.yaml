@@ -1,0 +1,24 @@
+id: 2025-11-23-fem
+name: FE!M
+date: '2025-11-23'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 1WQ-yrxn58hwX6ivqABMdKeA8i12qNxUVy678c1aVXao
+  url: https://docs.google.com/spreadsheets/d/1WQ-yrxn58hwX6ivqABMdKeA8i12qNxUVy678c1aVXao/edit?gid=2030484951#gid=2030484951
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

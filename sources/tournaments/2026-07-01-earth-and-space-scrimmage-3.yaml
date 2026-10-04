@@ -1,0 +1,24 @@
+id: 2026-07-01-earth-and-space-scrimmage-3
+name: Earth and Space Scrimmage 3
+date: '2026-07-01'
+end_date: '2026-08-31'
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: scrimmage
+level: standard
+subject_only: ess
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1b0AjISRvTIZ1kYIJo8IwJ7tTnTYxjS9nD72MNglFrnc
+  url: https://docs.google.com/spreadsheets/d/1b0AjISRvTIZ1kYIJo8IwJ7tTnTYxjS9nD72MNglFrnc/edit?gid=561917516#gid=561917516
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,27 @@
+id: 2021-09-05-ass
+name: ASS
+date: '2021-09-05'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1ohAxKDFJ_HOj-8W6j1mCMtwKElT6wh6AbI_9jM_1up0
+  url: https://docs.google.com/spreadsheets/d/1ohAxKDFJ_HOj-8W6j1mCMtwKElT6wh6AbI_9jM_1up0/edit#gid=920507017
+  file: results.xlsx
+- kind: drive_folder
+  role: stats
+  url: https://drive.google.com/drive/folders/1i503auhxz08piG5xjfGrSoUGY-Ahz3L0
+parser: null
+parser_options: {}
+status: todo
+notes: ''

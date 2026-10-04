@@ -1,0 +1,22 @@
+id: 2021-09-04-dast
+name: DAST
+date: '2021-09-04'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: challonge
+  role: results
+  url: https://challonge.com/dast2021
+parser: null
+parser_options: {}
+status: todo
+notes: ''

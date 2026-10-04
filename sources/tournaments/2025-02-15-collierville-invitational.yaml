@@ -1,0 +1,24 @@
+id: 2025-02-15-collierville-invitational
+name: Collierville Invitational
+date: '2025-02-15'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1bSWctWNORD9_y7xV-Pl0fnAffeYrWGvehLCWVzD1GLc
+  url: https://docs.google.com/spreadsheets/d/1bSWctWNORD9_y7xV-Pl0fnAffeYrWGvehLCWVzD1GLc/edit?gid=576804788#gid=576804788
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,28 @@
+id: 2026-04-26-clements-invitational
+name: Clements Invitational
+date: '2026-04-26'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1cXgOEEJ6DKDC7ssNe8ATG2pNeF1n1e50cwD1Hgvyx2Q
+  url: https://docs.google.com/spreadsheets/d/1cXgOEEJ6DKDC7ssNe8ATG2pNeF1n1e50cwD1Hgvyx2Q/edit?gid=0#gid=0
+  file: results.xlsx
+- kind: url
+  role: stats
+  url: https://csb.clementsjets.org/stats
+  file: stats.html
+parser: null
+parser_options: {}
+status: todo
+notes: ''

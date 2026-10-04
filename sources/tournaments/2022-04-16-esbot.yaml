@@ -1,0 +1,28 @@
+id: 2022-04-16-esbot
+name: ESBOT
+date: '2022-04-16'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1uSwcUQjfu245jbXpXxkVwpj8Z1_--_7B1T-I9OlZilM
+  url: https://docs.google.com/spreadsheets/d/1uSwcUQjfu245jbXpXxkVwpj8Z1_--_7B1T-I9OlZilM/edit#gid=967944929
+  file: results.xlsx
+- kind: url
+  role: stats
+  url: https://prometheus.science/s/ESBOT-Stats.xlsx
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

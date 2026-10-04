@@ -1,0 +1,24 @@
+id: 2023-06-01-nsba2
+name: NSBA2
+date: '2023-06-01'
+end_date: '2023-09-30'
+season: 2023-24
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: stats
+  sheet_id: 14VnXjYArei_2LLBstH4Vamdy8DSnEOqb
+  url: https://docs.google.com/spreadsheets/d/14VnXjYArei_2LLBstH4Vamdy8DSnEOqb/edit?gid=185593515#gid=185593515
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

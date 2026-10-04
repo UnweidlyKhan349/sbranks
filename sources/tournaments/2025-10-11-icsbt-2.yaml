@@ -1,0 +1,29 @@
+id: 2025-10-11-icsbt-2
+name: ICSBT 2
+date: '2025-10-11'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1Opzth5l9JiNwdXNbkZcg76Tc1fol22Jl9mq6xBOGksw
+  url: https://docs.google.com/spreadsheets/d/1Opzth5l9JiNwdXNbkZcg76Tc1fol22Jl9mq6xBOGksw/edit?gid=204270256#gid=204270256
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 13GXSkBNPGoL9oAXxPs6th6zyTP2RaBVSpd0cuVirEKc
+  url: https://docs.google.com/spreadsheets/d/13GXSkBNPGoL9oAXxPs6th6zyTP2RaBVSpd0cuVirEKc/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

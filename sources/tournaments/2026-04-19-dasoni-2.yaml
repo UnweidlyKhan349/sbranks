@@ -1,0 +1,28 @@
+id: 2026-04-19-dasoni-2
+name: DASONI 2
+date: '2026-04-19'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1o3qLkGG0MyGPs7Eli1QrT4tFzcaQkBtHR0NJJ-N91HM
+  url: https://docs.google.com/spreadsheets/d/1o3qLkGG0MyGPs7Eli1QrT4tFzcaQkBtHR0NJJ-N91HM/edit?gid=321984022#gid=321984022
+  file: results.xlsx
+- kind: scibowl_live
+  role: results+stats
+  slug: dasoni-2
+  url: https://www.scibowl.live/tournaments/dasoni-2
+parser: scibowl_live:parse
+parser_options: {}
+status: parsed
+notes: Parsed from scibowl.live MoSS exports (per-game, per-category, per-player).

@@ -1,0 +1,24 @@
+id: 2022-02-20-csbl
+name: CSBL
+date: '2022-02-20'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1I5z75aWNVWkmlJL0sYePfKXdtZHrwc5yp5szSrokilg
+  url: https://docs.google.com/spreadsheets/d/1I5z75aWNVWkmlJL0sYePfKXdtZHrwc5yp5szSrokilg/edit#gid=1474124581
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

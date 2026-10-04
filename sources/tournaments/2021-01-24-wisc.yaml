@@ -1,0 +1,29 @@
+id: 2021-01-24-wisc
+name: WISC
+date: '2021-01-24'
+end_date: null
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1-g7xBRRqWE8_AKhuDGD4KY8mJ3ByuOXg1k423ehnflA
+  url: https://docs.google.com/spreadsheets/d/1-g7xBRRqWE8_AKhuDGD4KY8mJ3ByuOXg1k423ehnflA/edit#gid=0
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1vswuJsos3ipg4QTd5vo3CAcySCl8C4Wvd8ovOrTTxIw
+  url: https://docs.google.com/spreadsheets/d/1vswuJsos3ipg4QTd5vo3CAcySCl8C4Wvd8ovOrTTxIw/edit#gid=1525171063
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

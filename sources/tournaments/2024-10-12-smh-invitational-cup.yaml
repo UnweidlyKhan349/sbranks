@@ -1,0 +1,24 @@
+id: 2024-10-12-smh-invitational-cup
+name: SMH Invitational Cup
+date: '2024-10-12'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results+stats
+  sheet_id: 14uDPD3AN8kEmY-b__RD-All9Wd921LdlNSPE7Xm7E7w
+  url: https://docs.google.com/spreadsheets/d/14uDPD3AN8kEmY-b__RD-All9Wd921LdlNSPE7Xm7E7w/edit?gid=0#gid=0
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,19 @@
+id: 2025-01-25-east-brunswick-invitational
+name: East Brunswick Invitational
+date: '2025-01-25'
+end_date: null
+season: 2024-25
+location: East Brunswick, NJ
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources: []
+parser: null
+parser_options: {}
+status: unavailable
+notes: No results or statistics linked from the Stanford tournament list.

@@ -1,0 +1,28 @@
+id: 2023-12-03-berkeley-science-bowl
+name: Berkeley Science Bowl
+date: '2023-12-03'
+end_date: null
+season: 2023-24
+location: Berkeley, CA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://sites.google.com/berkeley.edu/berkeley-scibowl/results
+  file: results.html
+- kind: gsheet
+  role: stats
+  sheet_id: 1s15wI02Dj3JtZ7ctmel7JNKm5rElNhT3MSogr2u2eNc
+  url: https://docs.google.com/spreadsheets/d/1s15wI02Dj3JtZ7ctmel7JNKm5rElNhT3MSogr2u2eNc/edit?gid=403952224#gid=403952224
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

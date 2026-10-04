@@ -1,0 +1,24 @@
+id: 2021-11-05-mit-science-bowl
+name: MIT Science Bowl
+date: '2021-11-05'
+end_date: null
+season: 2021-22
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1tem24933jmXH49IKZrI75hSv8A-pe00_4JwRFZoEUCg
+  url: https://docs.google.com/spreadsheets/d/1tem24933jmXH49IKZrI75hSv8A-pe00_4JwRFZoEUCg/edit#gid=882335030
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

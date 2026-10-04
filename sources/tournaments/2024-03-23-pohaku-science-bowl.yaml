@@ -1,0 +1,24 @@
+id: 2024-03-23-pohaku-science-bowl
+name: Pohaku Science Bowl
+date: '2024-03-23'
+end_date: null
+season: 2023-24
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1-O7tqCMRoM8Z47Tb_exZSTKDNx0JQ3nwO6a1_vW4d3Q
+  url: https://docs.google.com/spreadsheets/d/1-O7tqCMRoM8Z47Tb_exZSTKDNx0JQ3nwO6a1_vW4d3Q/edit?usp=sharing
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,3374 @@
+game_id,player,team,subject,correct,negs,points
+1,Gaurav Gupta,Amador Valley A,overall,0,1,-4
+1,Ritwik Aeka,Amador Valley A,overall,3,0,12
+1,Rohan Garg,Amador Valley A,overall,7,6,4
+1,Samarth Jain,Amador Valley A,overall,0,0,0
+1,Aarush Iyer,Mission San Jose B,overall,1,0,4
+1,Andy Liu,Mission San Jose B,overall,6,0,24
+1,Aravind Muralidharan,Mission San Jose B,overall,1,0,4
+1,Ishaan Kabra,Mission San Jose B,overall,4,1,12
+2,Anish Roy,Archbishop Mitty A,overall,3,0,12
+2,Ben Zheng,Archbishop Mitty A,overall,1,0,4
+2,Richard Peng,Archbishop Mitty A,overall,5,0,20
+2,Sudhanva Belur,Archbishop Mitty A,overall,4,0,16
+2,Andrew Liu,Lynbrook A,overall,5,2,12
+2,Evan Liu,Lynbrook A,overall,0,0,0
+2,Philip Kohr,Lynbrook A,overall,1,1,0
+2,Sohil Rathi,Lynbrook A,overall,4,2,8
+3,Aaron Cohen,BASIS Silicon Valley A,overall,3,0,12
+3,Larry Zhao,BASIS Silicon Valley A,overall,6,1,20
+3,Lucas Quan,BASIS Silicon Valley A,overall,5,1,16
+3,Zanda Zhu,BASIS Silicon Valley A,overall,0,0,0
+3,Athithan Elamaran,Foothill A,overall,2,1,4
+3,Bhagirath Bandigari,Foothill A,overall,0,3,-12
+3,Jake Nguyen,Foothill A,overall,1,0,4
+3,Parv Surjan,Foothill A,overall,0,0,0
+3,Shashank Vedula,Foothill A,overall,2,1,4
+4,Achuth Vinay,Clovis North,overall,3,1,8
+4,Justin Do,Clovis North,overall,3,1,8
+4,Majed Almasri,Clovis North,overall,1,0,4
+4,Meera Malkar,Clovis North,overall,1,0,4
+4,Alan Chen,Dougherty Valley A,overall,1,0,4
+4,Ashwin Shekhar,Dougherty Valley A,overall,4,0,16
+4,Keshav Verma,Dougherty Valley A,overall,2,0,8
+4,Soham Chatterjee,Dougherty Valley A,overall,3,2,4
+5,Alexander Weaver,Davidson A,overall,3,3,0
+5,Julian Kuang,Davidson A,overall,3,2,4
+5,Lucas Wu,Davidson A,overall,3,0,12
+5,Yajur Chandar,Davidson A,overall,4,1,12
+5,Bourne Zhou,Davidson B,overall,3,0,12
+5,Casey Fong,Davidson B,overall,0,0,0
+5,Ethan Chan,Davidson B,overall,1,1,0
+5,Kaison Fong,Davidson B,overall,2,1,4
+5,Shayan Sattarvand,Davidson B,overall,2,0,8
+6,Ali Sherazi,GSB A,overall,2,0,8
+6,Elliot Boyce,GSB A,overall,0,1,-4
+6,Kabir Mahajan,GSB A,overall,2,0,8
+6,Neil Dixit,GSB A,overall,5,1,16
+6,Alex Ge,Saratoga,overall,5,1,16
+6,Ethan Pan,Saratoga,overall,3,0,12
+6,Max Rombakh,Saratoga,overall,1,4,-12
+6,Quinn Gifford,Saratoga,overall,0,0,0
+7,Arjun Murugappan,Irvington A,overall,2,3,-4
+7,Avyukt Bhardwaj,Irvington A,overall,0,0,0
+7,Ishaan Agrawal,Irvington A,overall,0,2,-8
+7,Matthew Wang,Irvington A,overall,0,0,0
+7,Roland Pratt,Irvington A,overall,3,0,12
+7,Andrew Wen,Palo Alto,overall,3,2,4
+7,Kevin Pei,Palo Alto,overall,6,1,20
+7,Rasia Yu,Palo Alto,overall,2,1,4
+7,Sayan Singh,Palo Alto,overall,1,0,4
+8,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,2,1,4
+8,Bryan Nasr,Mira Loma A,overall,1,0,4
+8,Krish Singh,Mira Loma A,overall,2,0,8
+8,Sudeep Suresh,Mira Loma A,overall,0,0,0
+8,Advaith Mopuri,Mission San Jose A,overall,2,1,4
+8,Anish Agarwal,Mission San Jose A,overall,0,0,0
+8,Roshan Annamalai,Mission San Jose A,overall,6,3,12
+8,Theenash Sengupta,Mission San Jose A,overall,7,2,20
+9,Dalbert Wu,Amador Valley A,overall,1,0,4
+9,Gaurav Gupta,Amador Valley A,overall,3,0,12
+9,Ritwik Aeka,Amador Valley A,overall,3,1,8
+9,Rohan Garg,Amador Valley A,overall,7,3,16
+9,Samarth Jain,Amador Valley A,overall,0,0,0
+9,Arjun Murugappan,Irvington A,overall,0,1,-4
+9,Avyukt Bhardwaj,Irvington A,overall,0,0,0
+9,Ishaan Agrawal,Irvington A,overall,5,1,16
+9,Matthew Wang,Irvington A,overall,0,1,-4
+9,Roland Pratt,Irvington A,overall,0,0,0
+10,Anish Roy,Archbishop Mitty A,overall,1,1,0
+10,Ben Zheng,Archbishop Mitty A,overall,0,1,-4
+10,Richard Peng,Archbishop Mitty A,overall,1,2,-4
+10,Sudhanva Belur,Archbishop Mitty A,overall,2,1,4
+10,Advaith Mopuri,Mission San Jose A,overall,3,0,12
+10,Roshan Annamalai,Mission San Jose A,overall,3,2,4
+10,Rutvik Arora,Mission San Jose A,overall,0,1,-4
+10,Theenash Sengupta,Mission San Jose A,overall,8,0,32
+11,Aaron Cohen,BASIS Silicon Valley A,overall,1,1,0
+11,Larry Zhao,BASIS Silicon Valley A,overall,3,0,12
+11,Lucas Quan,BASIS Silicon Valley A,overall,6,0,24
+11,Zanda Zhu,BASIS Silicon Valley A,overall,2,0,8
+11,Ali Sherazi,GSB A,overall,1,0,4
+11,Kabir Mahajan,GSB A,overall,3,0,12
+11,Neil Dixit,GSB A,overall,1,3,-8
+11,Olivia Kim,GSB A,overall,1,0,4
+12,Achuth Vinay,Clovis North,overall,6,0,24
+12,Justin Do,Clovis North,overall,3,0,12
+12,Majed Almasri,Clovis North,overall,2,0,8
+12,Meera Malkar,Clovis North,overall,0,0,0
+12,Bourne Zhou,Davidson B,overall,0,0,0
+12,Casey Fong,Davidson B,overall,0,0,0
+12,Ethan Chan,Davidson B,overall,0,0,0
+12,Kaison Fong,Davidson B,overall,4,0,16
+12,Shayan Sattarvand,Davidson B,overall,3,0,12
+13,Alexander Weaver,Davidson A,overall,2,1,4
+13,Filip Ramazan,Davidson A,overall,0,2,-8
+13,Julian Kuang,Davidson A,overall,4,0,16
+13,Lucas Wu,Davidson A,overall,4,0,16
+13,Yajur Chandar,Davidson A,overall,2,0,8
+13,Alan Chen,Dougherty Valley A,overall,2,0,8
+13,Ashwin Shekhar,Dougherty Valley A,overall,1,1,0
+13,Keshav Verma,Dougherty Valley A,overall,2,1,4
+13,Soham Chatterjee,Dougherty Valley A,overall,5,0,20
+14,Athithan Elamaran,Foothill A,overall,4,0,16
+14,Bhagirath Bandigari,Foothill A,overall,3,1,8
+14,Jake Nguyen,Foothill A,overall,0,0,0
+14,Shashank Vedula,Foothill A,overall,2,1,4
+14,Alex Ge,Saratoga,overall,4,0,16
+14,Ethan Pan,Saratoga,overall,3,0,12
+14,Max Rombakh,Saratoga,overall,2,1,4
+14,Quinn Gifford,Saratoga,overall,3,0,12
+15,Andrew Liu,Lynbrook A,overall,2,0,8
+15,Evan Liu,Lynbrook A,overall,4,0,16
+15,Philip Kohr,Lynbrook A,overall,1,1,0
+15,Sohil Rathi,Lynbrook A,overall,5,2,12
+15,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,4,0,16
+15,Bryan Nasr,Mira Loma A,overall,1,0,4
+15,Krish Singh,Mira Loma A,overall,0,0,0
+15,Sudeep Suresh,Mira Loma A,overall,1,1,0
+16,Aarush Iyer,Mission San Jose B,overall,1,0,4
+16,Andy Liu,Mission San Jose B,overall,1,1,0
+16,Aravind Muralidharan,Mission San Jose B,overall,2,0,8
+16,Ishaan Kabra,Mission San Jose B,overall,5,1,16
+16,Andrew Wen,Palo Alto,overall,5,1,16
+16,Kevin Pei,Palo Alto,overall,3,1,8
+16,Rasia Yu,Palo Alto,overall,2,0,8
+16,Sayan Singh,Palo Alto,overall,0,0,0
+17,Gaurav Gupta,Amador Valley A,overall,3,1,8
+17,Ritwik Aeka,Amador Valley A,overall,1,1,0
+17,Rohan Garg,Amador Valley A,overall,10,2,32
+17,Samarth Jain,Amador Valley A,overall,1,0,4
+17,Alan Chen,Dougherty Valley A,overall,2,1,4
+17,Ashwin Shekhar,Dougherty Valley A,overall,0,1,-4
+17,Keshav Verma,Dougherty Valley A,overall,1,2,-4
+17,Soham Chatterjee,Dougherty Valley A,overall,3,0,12
+18,Anish Roy,Archbishop Mitty A,overall,2,0,8
+18,Ben Zheng,Archbishop Mitty A,overall,1,0,4
+18,Richard Peng,Archbishop Mitty A,overall,6,5,4
+18,Sudhanva Belur,Archbishop Mitty A,overall,0,1,-4
+18,Athithan Elamaran,Foothill A,overall,2,0,8
+18,Bhagirath Bandigari,Foothill A,overall,0,0,0
+18,Jake Nguyen,Foothill A,overall,3,0,12
+18,Shashank Vedula,Foothill A,overall,2,0,8
+19,Achuth Vinay,Clovis North,overall,4,0,16
+19,Justin Do,Clovis North,overall,4,0,16
+19,Majed Almasri,Clovis North,overall,1,0,4
+19,Meera Malkar,Clovis North,overall,1,0,4
+19,Aarush Iyer,Mission San Jose B,overall,1,0,4
+19,Andy Liu,Mission San Jose B,overall,3,2,4
+19,Aravind Muralidharan,Mission San Jose B,overall,0,1,-4
+19,Ishaan Kabra,Mission San Jose B,overall,4,3,4
+20,Ali Sherazi,GSB A,overall,0,0,0
+20,Elliot Boyce,GSB A,overall,1,0,4
+20,Kabir Mahajan,GSB A,overall,1,2,-4
+20,Neil Dixit,GSB A,overall,1,0,4
+20,Andrew Liu,Lynbrook A,overall,3,1,8
+20,Evan Liu,Lynbrook A,overall,3,0,12
+20,Philip Kohr,Lynbrook A,overall,3,0,12
+20,Sohil Rathi,Lynbrook A,overall,7,2,20
+21,Gaurav Gupta,Amador Valley A,overall,2,0,8
+21,Ritwik Aeka,Amador Valley A,overall,2,1,4
+21,Rohan Garg,Amador Valley A,overall,8,3,20
+21,Samarth Jain,Amador Valley A,overall,0,0,0
+21,Athithan Elamaran,Foothill A,overall,3,2,4
+21,Bhagirath Bandigari,Foothill A,overall,1,1,0
+21,Jake Nguyen,Foothill A,overall,0,1,-4
+21,Shashank Vedula,Foothill A,overall,0,3,-12
+22,Aaron Cohen,BASIS Silicon Valley A,overall,0,0,0
+22,Larry Zhao,BASIS Silicon Valley A,overall,1,0,4
+22,Lucas Quan,BASIS Silicon Valley A,overall,4,1,12
+22,Zanda Zhu,BASIS Silicon Valley A,overall,1,0,4
+22,Andrew Wen,Palo Alto,overall,2,2,0
+22,Kevin Pei,Palo Alto,overall,5,0,20
+22,Rasia Yu,Palo Alto,overall,0,0,0
+22,Sayan Singh,Palo Alto,overall,0,1,-4
+23,Alexander Weaver,Davidson A,overall,4,0,16
+23,Julian Kuang,Davidson A,overall,3,1,8
+23,Lucas Wu,Davidson A,overall,3,0,12
+23,Yajur Chandar,Davidson A,overall,2,1,4
+23,Advaith Mopuri,Mission San Jose A,overall,1,0,4
+23,Anish Agarwal,Mission San Jose A,overall,1,0,4
+23,Roshan Annamalai,Mission San Jose A,overall,1,3,-8
+23,Rutvik Arora,Mission San Jose A,overall,1,0,4
+23,Theenash Sengupta,Mission San Jose A,overall,5,2,12
+24,Andrew Liu,Lynbrook A,overall,2,2,0
+24,Evan Liu,Lynbrook A,overall,2,1,4
+24,Philip Kohr,Lynbrook A,overall,1,1,0
+24,Sohil Rathi,Lynbrook A,overall,4,0,16
+24,Aarush Iyer,Mission San Jose B,overall,1,0,4
+24,Andy Liu,Mission San Jose B,overall,3,0,12
+24,Aravind Muralidharan,Mission San Jose B,overall,1,0,4
+24,Ishaan Kabra,Mission San Jose B,overall,2,1,4
+25,Gaurav Gupta,Amador Valley A,overall,0,2,-8
+25,Ritwik Aeka,Amador Valley A,overall,3,0,12
+25,Rohan Garg,Amador Valley A,overall,5,1,16
+25,Samarth Jain,Amador Valley A,overall,0,0,0
+25,Andrew Wen,Palo Alto,overall,3,0,12
+25,Kevin Pei,Palo Alto,overall,6,1,20
+25,Rasia Yu,Palo Alto,overall,1,0,4
+25,Sayan Singh,Palo Alto,overall,0,0,0
+26,Advaith Mopuri,Mission San Jose A,overall,0,1,-4
+26,Roshan Annamalai,Mission San Jose A,overall,4,2,8
+26,Rutvik Arora,Mission San Jose A,overall,4,0,16
+26,Theenash Sengupta,Mission San Jose A,overall,4,1,12
+26,Aarush Iyer,Mission San Jose B,overall,1,0,4
+26,Andy Liu,Mission San Jose B,overall,2,0,8
+26,Aravind Muralidharan,Mission San Jose B,overall,0,1,-4
+26,Ishaan Kabra,Mission San Jose B,overall,2,1,4
+27,Aaron Cohen,BASIS Silicon Valley A,overall,0,1,-4
+27,Larry Zhao,BASIS Silicon Valley A,overall,3,0,12
+27,Lucas Quan,BASIS Silicon Valley A,overall,3,0,12
+27,Zanda Zhu,BASIS Silicon Valley A,overall,0,0,0
+27,Alexander Weaver,Davidson A,overall,2,0,8
+27,Julian Kuang,Davidson A,overall,3,1,8
+27,Lucas Wu,Davidson A,overall,4,0,16
+27,Yajur Chandar,Davidson A,overall,4,2,8
+28,Advaith Mopuri,Mission San Jose A,overall,4,0,16
+28,Roshan Annamalai,Mission San Jose A,overall,5,1,16
+28,Rutvik Arora,Mission San Jose A,overall,1,0,4
+28,Theenash Sengupta,Mission San Jose A,overall,4,3,4
+28,Andrew Wen,Palo Alto,overall,2,3,-4
+28,Kevin Pei,Palo Alto,overall,2,0,8
+28,Rasia Yu,Palo Alto,overall,2,0,8
+28,Sayan Singh,Palo Alto,overall,0,0,0
+29,Aaron Cohen,BASIS Silicon Valley A,overall,1,0,4
+29,Larry Zhao,BASIS Silicon Valley A,overall,1,1,0
+29,Lucas Quan,BASIS Silicon Valley A,overall,2,4,-8
+29,Zanda Zhu,BASIS Silicon Valley A,overall,0,0,0
+29,Advaith Mopuri,Mission San Jose A,overall,4,2,8
+29,Roshan Annamalai,Mission San Jose A,overall,3,2,4
+29,Rutvik Arora,Mission San Jose A,overall,1,0,4
+29,Theenash Sengupta,Mission San Jose A,overall,4,2,8
+30,Alexander Weaver,Davidson A,overall,0,1,-4
+30,Julian Kuang,Davidson A,overall,0,0,0
+30,Lucas Wu,Davidson A,overall,3,0,12
+30,Yajur Chandar,Davidson A,overall,2,0,8
+30,Advaith Mopuri,Mission San Jose A,overall,2,0,8
+30,Roshan Annamalai,Mission San Jose A,overall,5,0,20
+30,Rutvik Arora,Mission San Jose A,overall,0,0,0
+30,Theenash Sengupta,Mission San Jose A,overall,7,2,20
+31,Alexander Weaver,Davidson A,overall,0,0,0
+31,Julian Kuang,Davidson A,overall,3,0,12
+31,Lucas Wu,Davidson A,overall,5,1,16
+31,Yajur Chandar,Davidson A,overall,0,0,0
+31,Advaith Mopuri,Mission San Jose A,overall,1,2,-4
+31,Roshan Annamalai,Mission San Jose A,overall,3,0,12
+31,Rutvik Arora,Mission San Jose A,overall,0,0,0
+31,Theenash Sengupta,Mission San Jose A,overall,6,2,16
+32,Benton Vargo,Albany A,overall,1,0,4
+32,Eugene Rubino,Albany A,overall,0,0,0
+32,Nick Linzer,Albany A,overall,1,0,4
+32,Tate Nomura,Albany A,overall,3,0,12
+32,Joshua Wu,Folsom City,overall,6,1,20
+32,Kavin Anreddy,Folsom City,overall,10,0,40
+32,Pushkal Mishra,Folsom City,overall,1,0,4
+32,Satvik Chakkapalli,Folsom City,overall,0,0,0
+33,David Ha,Albany B,overall,0,0,0
+33,Isiang,Albany B,overall,0,0,0
+33,Lina Kim,Albany B,overall,1,0,4
+33,Michael Hou,Albany B,overall,1,0,4
+33,Brandon Seo,Cupertino A,overall,5,0,20
+33,Jaanya Annapureddy,Cupertino A,overall,1,0,4
+33,Namita Gaidhani,Cupertino A,overall,2,0,8
+33,Pranav Burra,Cupertino A,overall,4,0,16
+33,Shubhi Jain,Cupertino A,overall,3,0,12
+34,Gaurav Gupta,Amador Valley A,overall,6,3,12
+34,Ritwik Aeka,Amador Valley A,overall,4,0,16
+34,Rohan Garg,Amador Valley A,overall,6,1,20
+34,Samarth Jain,Amador Valley A,overall,2,0,8
+34,Aarnav Rudiaiaju,BASIS Fremont,overall,3,0,12
+34,Kevin Chen,BASIS Fremont,overall,0,1,-4
+34,Lexing Liu,BASIS Fremont,overall,1,1,0
+34,Ryan Yan,BASIS Fremont,overall,0,0,0
+35,Lusen Yao,Amador Valley B,overall,1,0,4
+35,Olive Leuten,Amador Valley B,overall,1,0,4
+35,Pratham Mehta,Amador Valley B,overall,1,0,4
+35,Srijon Mandal,Amador Valley B,overall,1,0,4
+35,Aaron Cohen,BASIS Silicon Valley A,overall,2,0,8
+35,Larry Zhao,BASIS Silicon Valley A,overall,5,0,20
+35,Lucas Quan,BASIS Silicon Valley A,overall,11,1,40
+35,Zanda Zhu,BASIS Silicon Valley A,overall,1,0,4
+36,Abdul Muhaimin,American A,overall,0,0,0
+36,Abhinav Shivalli,American A,overall,0,0,0
+36,Keshav Venkatesh,American A,overall,1,0,4
+36,Ryan Liu,American A,overall,1,0,4
+36,Srithan Devarashetty,American A,overall,0,0,0
+36,Anish Roy,Archbishop Mitty A,overall,2,0,8
+36,Ben Zheng,Archbishop Mitty A,overall,2,0,8
+36,Richard Peng,Archbishop Mitty A,overall,11,1,40
+36,Sudhanva Belur,Archbishop Mitty A,overall,3,1,8
+37,Aarav Gupta,American B,overall,1,0,4
+37,Sanjay Seshadri,American B,overall,1,0,4
+37,Sudesh Srivatsan,American B,overall,0,0,0
+37,Thomas Nguyen,American B,overall,0,0,0
+37,Eric Guo,BASIS Silicon Valley B,overall,1,0,4
+37,Ethan Guo,BASIS Silicon Valley B,overall,3,0,12
+37,Jason Zhao,BASIS Silicon Valley B,overall,0,0,0
+37,Jonathan Gao,BASIS Silicon Valley B,overall,6,2,16
+37,Liam Tran,BASIS Silicon Valley B,overall,7,0,28
+38,Advait Reddy Duvvuru,Archbishop Mitty B,overall,7,1,24
+38,Ruoyu Zhou,Archbishop Mitty B,overall,0,0,0
+38,Saatvik Chauhan,Archbishop Mitty B,overall,3,0,12
+38,Samiha Das,Archbishop Mitty B,overall,0,0,0
+38,Yixin Xu,Archbishop Mitty B,overall,0,0,0
+38,Aariv Aggarwal,Irvington B,overall,1,0,4
+38,Abhiram Kuchi,Irvington B,overall,6,0,24
+38,Aditya Arun,Irvington B,overall,0,0,0
+38,Gabriella Liu,Irvington B,overall,2,0,8
+39,Kavin Jain,California,overall,4,1,12
+39,Lucas Chi,California,overall,2,1,4
+39,Sushrut Pola,California,overall,1,0,4
+39,Vihaan Tigadikar,California,overall,4,0,16
+39,Daphne Chen,GSB B,overall,0,0,0
+39,Kaiyuan Ding,GSB B,overall,3,0,12
+39,Margaret Beery,GSB B,overall,1,0,4
+39,Max Li,GSB B,overall,3,0,12
+40,Greta Nikolai,Chico A,overall,7,1,24
+40,Lily Tao,Chico A,overall,1,0,4
+40,Lucas Lazarski,Chico A,overall,1,0,4
+40,Phuong Lu,Chico A,overall,0,0,0
+40,YiLun Liu,Chico A,overall,0,0,0
+40,Chun Tu Matthew Yu,Mountain House B,overall,2,0,8
+40,Neel Raina,Mountain House B,overall,5,0,20
+40,Shreyas Mandayam,Mountain House B,overall,1,1,0
+40,Steven Tang,Mountain House B,overall,0,0,0
+41,Devi Schumann,Chico B,overall,0,1,-4
+41,Eli Hu,Chico B,overall,0,0,0
+41,Maddy Dietz,Chico B,overall,1,0,4
+41,Phineas Wehrheim,Chico B,overall,0,0,0
+41,Alan Chen,Dougherty Valley A,overall,2,0,8
+41,Ashwin Shekhar,Dougherty Valley A,overall,7,0,28
+41,Keshav Verma,Dougherty Valley A,overall,5,1,16
+41,Soham Chatterjee,Dougherty Valley A,overall,6,1,20
+42,Achuth Vinay,Clovis North,overall,2,1,4
+42,Justin Do,Clovis North,overall,4,2,8
+42,Majed Almasri,Clovis North,overall,4,0,16
+42,Renard Wu,Clovis North,overall,5,0,20
+42,Angad Hayer,Quarry Lane A,overall,0,1,-4
+42,Nyasa Gupta,Quarry Lane A,overall,0,0,0
+42,Nyles Han,Quarry Lane A,overall,1,0,4
+42,Rayirth Lakharia,Quarry Lane A,overall,1,0,4
+43,Anya Sarode,Cupertino B,overall,2,0,8
+43,Elaine Chen,Cupertino B,overall,0,0,0
+43,Iurii Kirpichev,Cupertino B,overall,5,0,20
+43,Rosa Lee,Cupertino B,overall,2,1,4
+43,Josh Tittiranonda,Stanford Online,overall,5,0,20
+43,Vikrant Chintanaboina,Stanford Online,overall,4,1,12
+43,Vinayak Vikram,Stanford Online,overall,3,2,4
+44,Alexander Weaver,Davidson A,overall,1,0,4
+44,Julian Kuang,Davidson A,overall,3,1,8
+44,Lucas Wu,Davidson A,overall,7,0,28
+44,Yajur Chandar,Davidson A,overall,4,2,8
+44,Everett Tung,Homestead,overall,3,0,12
+44,Ishaan Sinha,Homestead,overall,1,0,4
+44,Leo Sitaraman,Homestead,overall,1,0,4
+44,Madeline Brown,Homestead,overall,2,0,8
+44,Spencer Diep,Homestead,overall,0,0,0
+45,Bourne Zhou,Davidson B,overall,0,0,0
+45,Casey Fong,Davidson B,overall,0,0,0
+45,Ethan Chan,Davidson B,overall,2,0,8
+45,Kaison Fong,Davidson B,overall,2,0,8
+45,Shayan Sattarvand,Davidson B,overall,9,1,32
+45,Hasita Venkat Raman,Mountain House A,overall,1,1,0
+45,Ibrahim Nadeem,Mountain House A,overall,5,0,20
+45,Saicharan Avuthu,Mountain House A,overall,0,0,0
+45,Sampriti Brahma,Mountain House A,overall,0,0,0
+45,Shrikoustubh Veldanda,Mountain House A,overall,0,0,0
+46,Adhrit Viswanth Balaji,Dougherty Valley B,overall,3,2,4
+46,Andrew Sun,Dougherty Valley B,overall,1,0,4
+46,Armaan Syed,Dougherty Valley B,overall,5,0,20
+46,Tannishtha Chakraborthy,Dougherty Valley B,overall,1,0,4
+46,Andrew Liu,Lynbrook A,overall,6,1,20
+46,Evan Liu,Lynbrook A,overall,1,0,4
+46,Philip Kohr,Lynbrook A,overall,1,1,0
+46,Ryan Bansal,Lynbrook A,overall,1,0,4
+46,Sohil Rathi,Lynbrook A,overall,3,0,12
+47,John Blones,El Camino A,overall,0,0,0
+47,Milan Pecson,El Camino A,overall,0,0,0
+47,Ryan Chen,El Camino A,overall,0,0,0
+47,Swaraj Adhikari,El Camino A,overall,6,2,16
+47,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,6,1,20
+47,Bryan Nasr,Mira Loma A,overall,2,0,8
+47,Krish Singh,Mira Loma A,overall,3,1,8
+47,Sudeep Suresh,Mira Loma A,overall,4,0,16
+48,Avery Fung,El Camino B,overall,0,0,0
+48,Billy Battogtokh,El Camino B,overall,3,0,12
+48,Grant Kitchen,El Camino B,overall,3,1,8
+48,Jaylyn Sanchez,El Camino B,overall,0,0,0
+48,Kaelen Mendoza,El Camino B,overall,0,0,0
+48,Athithan Elamaran,Foothill A,overall,2,0,8
+48,Bhagirath Bandigari,Foothill A,overall,3,2,4
+48,Jake Nguyen,Foothill A,overall,3,0,12
+48,Parv Surjan,Foothill A,overall,1,0,4
+48,Shashank Vedula,Foothill A,overall,5,1,16
+49,Autumn Le,Evergreen Valley,overall,0,0,0
+49,Ethan Li,Evergreen Valley,overall,0,0,0
+49,Joshua Huang,Evergreen Valley,overall,3,0,12
+49,Zichao Zhou,Evergreen Valley,overall,0,0,0
+49,Ali Sherazi,GSB A,overall,2,1,4
+49,Kabir Mahajan,GSB A,overall,6,0,24
+49,Neil Dixit,GSB A,overall,7,0,28
+49,Olivia Kim,GSB A,overall,2,0,8
+50,Ashwin Ganapathi,Foothill B,overall,0,0,0
+50,Austin Lin,Foothill B,overall,5,0,20
+50,Sahana Venkat,Foothill B,overall,4,1,12
+50,Shulin Lu,Foothill B,overall,3,0,12
+50,Aiden Gao,Los Gatos,overall,3,0,12
+50,Anya Agarwal,Los Gatos,overall,0,0,0
+50,Atharava Pandey,Los Gatos,overall,2,0,8
+50,James Smith,Los Gatos,overall,1,0,4
+51,Arjun Murugappan,Irvington A,overall,0,0,0
+51,Avyukt Bhardwaj,Irvington A,overall,0,0,0
+51,Ishaan Agrawal,Irvington A,overall,2,0,8
+51,Matthew Wang,Irvington A,overall,4,0,16
+51,Roland Pratt,Irvington A,overall,0,0,0
+51,Advaith Mopuri,Mission San Jose A,overall,4,0,16
+51,Anish Agarwal,Mission San Jose A,overall,0,0,0
+51,Roshan Annamalai,Mission San Jose A,overall,5,2,12
+51,Rutvik Arora,Mission San Jose A,overall,0,1,-4
+51,Theenash Sengupta,Mission San Jose A,overall,6,2,16
+52,Matthew Yuan,Lynbrook B,overall,5,1,16
+52,Rishab Medepalli,Lynbrook B,overall,2,0,8
+52,Sophia Fan,Lynbrook B,overall,4,0,16
+52,Vincent Qin,Lynbrook B,overall,4,0,16
+52,Arthur Chang,Miller,overall,3,0,12
+52,Asad Rahman,Miller,overall,1,0,4
+52,Pranik Biswas,Miller,overall,3,0,12
+52,Shien Fang,Miller,overall,1,0,4
+53,Jeeva Karthy,Mira Loma B,overall,1,0,4
+53,Kapilan Karunakaran,Mira Loma B,overall,1,0,4
+53,Rohith Gonuguntla,Mira Loma B,overall,1,0,4
+53,Sai-Sanaathan Vemireddy,Mira Loma B,overall,0,0,0
+53,Andrew Wen,Palo Alto,overall,8,0,32
+53,Kevin Pei,Palo Alto,overall,8,0,32
+53,Rasia Yu,Palo Alto,overall,2,1,4
+53,Sayan Singh,Palo Alto,overall,0,0,0
+54,Aarush Iyer,Mission San Jose B,overall,1,1,0
+54,Andy Liu,Mission San Jose B,overall,3,1,8
+54,Aravind Muralidharan,Mission San Jose B,overall,4,2,8
+54,Ishaan Kabra,Mission San Jose B,overall,3,1,8
+54,Alex Ge,Saratoga,overall,3,0,12
+54,Ethan Pan,Saratoga,overall,2,0,8
+54,Max Rombakh,Saratoga,overall,2,1,4
+54,Quinn Gifford,Saratoga,overall,4,1,12
+55,Alex Luo,Quarry Lane B,overall,1,0,4
+55,Dhruv Subramanian,Quarry Lane B,overall,1,0,4
+55,Elaine Gu,Quarry Lane B,overall,3,0,12
+55,Gautham Doddapaneni,Quarry Lane B,overall,3,0,12
+55,Neel Gupta,Quarry Lane B,overall,7,0,28
+55,Krisha Gupta,San Mateo,overall,0,0,0
+55,Mia Hasanain,San Mateo,overall,0,0,0
+55,Navya Kayath,San Mateo,overall,1,0,4
+55,Surbhi Sakshi,San Mateo,overall,0,0,0
+56,Aaron Cohen,BASIS Silicon Valley A,overall,1,1,0
+56,Larry Zhao,BASIS Silicon Valley A,overall,4,0,16
+56,Lucas Quan,BASIS Silicon Valley A,overall,13,0,52
+56,Zanda Zhu,BASIS Silicon Valley A,overall,0,0,0
+56,Aiden Gao,Los Gatos,overall,1,0,4
+56,Anya Agarwal,Los Gatos,overall,0,1,-4
+56,Atharava Pandey,Los Gatos,overall,0,1,-4
+56,James Smith,Los Gatos,overall,1,0,4
+57,Alex Bowen,Albany A,overall,0,0,0
+57,Benton Vargo,Albany A,overall,0,0,0
+57,Eugene Rubino,Albany A,overall,0,0,0
+57,Nick Linzer,Albany A,overall,0,0,0
+57,Tate Nomura,Albany A,overall,3,0,12
+57,Alex Ge,Saratoga,overall,6,0,24
+57,Ethan Pan,Saratoga,overall,2,1,4
+57,Max Rombakh,Saratoga,overall,6,1,20
+57,Quinn Gifford,Saratoga,overall,2,0,8
+57,Warren Chee,Saratoga,overall,1,1,0
+58,David Ha,Albany B,overall,0,0,0
+58,Isiang,Albany B,overall,0,0,0
+58,Lina Kim,Albany B,overall,1,0,4
+58,Michael Hou,Albany B,overall,0,0,0
+58,Everett Tung,Homestead,overall,6,0,24
+58,Ishaan Sinha,Homestead,overall,3,2,4
+58,Leo Sitaraman,Homestead,overall,3,0,12
+58,Madeline Brown,Homestead,overall,2,0,8
+58,Spencer Diep,Homestead,overall,0,0,0
+59,Gaurav Gupta,Amador Valley A,overall,2,2,0
+59,Ritwik Aeka,Amador Valley A,overall,3,1,8
+59,Rohan Garg,Amador Valley A,overall,7,5,8
+59,Samarth Jain,Amador Valley A,overall,1,0,4
+59,Josh Tittiranonda,Stanford Online,overall,2,1,4
+59,Vikrant Chintanaboina,Stanford Online,overall,3,0,12
+59,Vinayak Vikram,Stanford Online,overall,2,3,-4
+60,Lusen Yao,Amador Valley B,overall,1,0,4
+60,Olive Leuten,Amador Valley B,overall,2,0,8
+60,Pratham Mehta,Amador Valley B,overall,1,0,4
+60,Srijon Mandal,Amador Valley B,overall,3,0,12
+60,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,8,0,32
+60,Bryan Nasr,Mira Loma A,overall,4,0,16
+60,Krish Singh,Mira Loma A,overall,1,1,0
+60,Sudeep Suresh,Mira Loma A,overall,0,1,-4
+61,Abdul Muhaimin,American A,overall,1,0,4
+61,Abhinav Shivalli,American A,overall,2,1,4
+61,Keshav Venkatesh,American A,overall,6,1,20
+61,Ryan Liu,American A,overall,0,1,-4
+61,Srithan Devarashetty,American A,overall,0,1,-4
+61,Chun Tu Matthew Yu,Mountain House B,overall,1,0,4
+61,Neel Raina,Mountain House B,overall,6,0,24
+61,Shreyas Mandayam,Mountain House B,overall,1,1,0
+61,Steven Tang,Mountain House B,overall,1,0,4
+62,Aarav Gupta,American B,overall,0,1,-4
+62,Sanjay Seshadri,American B,overall,1,0,4
+62,Sudesh Srivatsan,American B,overall,1,0,4
+62,Thomas Nguyen,American B,overall,1,1,0
+62,Angad Hayer,Quarry Lane A,overall,8,0,32
+62,Nyasa Gupta,Quarry Lane A,overall,3,0,12
+62,Nyles Han,Quarry Lane A,overall,0,0,0
+62,Rayirth Lakharia,Quarry Lane A,overall,1,1,0
+63,Anish Roy,Archbishop Mitty A,overall,2,0,8
+63,Ben Zheng,Archbishop Mitty A,overall,1,0,4
+63,Richard Peng,Archbishop Mitty A,overall,5,2,12
+63,Sudhanva Belur,Archbishop Mitty A,overall,2,1,4
+63,Andrew Liu,Lynbrook A,overall,4,0,16
+63,Evan Liu,Lynbrook A,overall,2,1,4
+63,Ryan Bansal,Lynbrook A,overall,1,0,4
+63,Sohil Rathi,Lynbrook A,overall,6,1,20
+64,Advait Reddy Duvvuru,Archbishop Mitty B,overall,4,1,12
+64,Ruoyu Zhou,Archbishop Mitty B,overall,2,0,8
+64,Saatvik Chauhan,Archbishop Mitty B,overall,5,0,20
+64,Samiha Das,Archbishop Mitty B,overall,1,0,4
+64,Yixin Xu,Archbishop Mitty B,overall,1,0,4
+64,Devi Schumann,Chico B,overall,1,1,0
+64,Eli Hu,Chico B,overall,1,0,4
+64,Maddy Dietz,Chico B,overall,1,1,0
+64,Phineas Wehrheim,Chico B,overall,0,0,0
+65,Aarnav Rudraraju,BASIS Fremont,overall,4,2,8
+65,Kevin Chen,BASIS Fremont,overall,4,0,16
+65,Lexing Liu,BASIS Fremont,overall,1,0,4
+65,Ryan Yan,BASIS Fremont,overall,0,0,0
+65,Hasita Venkat Raman,Mountain House A,overall,0,0,0
+65,Ibrahim Nadeem,Mountain House A,overall,5,2,12
+65,Saicharan Avuthu,Mountain House A,overall,0,0,0
+65,Sampriti Brahma,Mountain House A,overall,2,0,8
+65,Shrikoustubh Veldanda,Mountain House A,overall,0,0,0
+66,Eric Guo,BASIS Silicon Valley B,overall,1,0,4
+66,Ethan Guo,BASIS Silicon Valley B,overall,1,0,4
+66,Jonathan Gao,BASIS Silicon Valley B,overall,1,1,0
+66,Liam Tran,BASIS Silicon Valley B,overall,3,2,4
+66,Ali Sherazi,GSB A,overall,2,0,8
+66,Elliot Boyce,GSB A,overall,3,0,12
+66,Kabir Mahajan,GSB A,overall,5,0,20
+66,Neil Dixit,GSB A,overall,6,1,20
+67,Kavin Jain,California,overall,2,1,4
+67,Lucas Chi,California,overall,0,0,0
+67,Ray Zhang,California,overall,0,0,0
+67,Vihaan Tigadikar,California,overall,1,1,0
+67,Advaith Mopuri,Mission San Jose A,overall,3,1,8
+67,Roshan Annamalai,Mission San Jose A,overall,5,0,20
+67,Rutvik Arora,Mission San Jose A,overall,1,1,0
+67,Theenash Sengupta,Mission San Jose A,overall,6,1,20
+68,Greta Nikolai,Chico A,overall,1,0,4
+68,Lily Tao,Chico A,overall,0,0,0
+68,Lucas Lazarski,Chico A,overall,1,0,4
+68,YiLun Liu,Chico A,overall,0,0,0
+68,Adhrit Viswanth Balaji,Dougherty Valley B,overall,4,0,16
+68,Andrew Sun,Dougherty Valley B,overall,3,0,12
+68,Aneeka Rao,Dougherty Valley B,overall,1,0,4
+68,Armaan Syed,Dougherty Valley B,overall,2,0,8
+68,Tannishtha Chakraborthy,Dougherty Valley B,overall,5,0,20
+69,Achuth Vinay,Clovis North,overall,5,0,20
+69,Justin Do,Clovis North,overall,7,0,28
+69,Majed Almasri,Clovis North,overall,3,0,12
+69,Meera Malkar,Clovis North,overall,1,0,4
+69,Renard Wu,Clovis North,overall,1,0,4
+69,Autumn Le,Evergreen Valley,overall,0,0,0
+69,Ethan Li,Evergreen Valley,overall,0,0,0
+69,Joshua Huang,Evergreen Valley,overall,0,0,0
+69,Zichao Zhou,Evergreen Valley,overall,2,1,4
+70,Brandon Seo,Cupertino A,overall,2,0,8
+70,Namita Gaidhani,Cupertino A,overall,1,0,4
+70,Pranav Burra,Cupertino A,overall,6,1,20
+70,Shubhi Jain,Cupertino A,overall,0,0,0
+70,Athithan Elamaran,Foothill A,overall,3,1,8
+70,Bhagirath Bandigari,Foothill A,overall,1,1,0
+70,Jake Nguyen,Foothill A,overall,5,1,16
+70,Shashank Vedula,Foothill A,overall,4,1,12
+71,Anya Sarode,Cupertino B,overall,0,0,0
+71,Elaine Chen,Cupertino B,overall,1,0,4
+71,Iurii Kirpichev,Cupertino B,overall,0,0,0
+71,Rosa Lee,Cupertino B,overall,3,0,12
+71,Bourne Zhou,Davidson B,overall,2,0,8
+71,Casey Fong,Davidson B,overall,0,0,0
+71,Ethan Chan,Davidson B,overall,1,0,4
+71,Kaison Fong,Davidson B,overall,5,0,20
+71,Shayan Sattarvand,Davidson B,overall,9,0,36
+72,Alexander Weaver,Davidson A,overall,4,0,16
+72,Filip Ramazan,Davidson A,overall,3,2,4
+72,Julian Kuang,Davidson A,overall,7,0,28
+72,Lucas Wu,Davidson A,overall,6,0,24
+72,Billy Battogtokh,El Camino B,overall,0,0,0
+72,Grant Kitchen,El Camino B,overall,1,0,4
+72,Jaylyn Sanchez,El Camino B,overall,0,0,0
+72,Kaelen Mendoza,El Camino B,overall,0,0,0
+73,Alan Chen,Dougherty Valley A,overall,0,0,0
+73,Ashwin Shekhar,Dougherty Valley A,overall,4,0,16
+73,Keshav Verma,Dougherty Valley A,overall,3,0,12
+73,Soham Chatterjee,Dougherty Valley A,overall,3,0,12
+73,Andrew Wen,Palo Alto,overall,8,0,32
+73,Kevin Pei,Palo Alto,overall,5,0,20
+73,Rasia Yu,Palo Alto,overall,0,0,0
+73,Sayan Singh,Palo Alto,overall,0,0,0
+74,Agrima Rai,El Camino A,overall,0,0,0
+74,Avery Fung,El Camino A,overall,0,0,0
+74,Ryan Chen,El Camino A,overall,1,0,4
+74,Swaraj Adhikari,El Camino A,overall,8,0,32
+74,Ashwin Ganapathi,Foothill B,overall,0,1,-4
+74,Austin Lin,Foothill B,overall,3,0,12
+74,Sahana Venkat,Foothill B,overall,1,0,4
+74,Shulin Lu,Foothill B,overall,2,1,4
+75,Joshua Wu,Folsom City,overall,10,0,40
+75,Kavin Anreddy,Folsom City,overall,7,0,28
+75,Pushkal Mishra,Folsom City,overall,1,0,4
+75,Satvik Chakkapalli,Folsom City,overall,1,0,4
+75,Krisha Gupta,San Mateo,overall,1,0,4
+75,Mia Hasanain,San Mateo,overall,0,0,0
+75,Navya Kayath,San Mateo,overall,0,0,0
+75,Surbhi Sakshi,San Mateo,overall,0,1,-4
+76,Daphne Chen,GSB B,overall,0,0,0
+76,Kaiyuan Ding,GSB B,overall,4,0,16
+76,Margaret Beery,GSB B,overall,2,0,8
+76,Max Li,GSB B,overall,1,0,4
+76,Arthur Chang,Miller,overall,6,0,24
+76,Pranik Biswas,Miller,overall,4,0,16
+76,Shien Fang,Miller,overall,4,0,16
+76,Tim Xia,Miller,overall,0,0,0
+77,Arjun Murugappan,Irvington A,overall,3,1,8
+77,Ishaan Agrawal,Irvington A,overall,6,0,24
+77,Matthew Wang,Irvington A,overall,1,2,-4
+77,Roland Pratt,Irvington A,overall,1,0,4
+77,Alex Ma,Lynbrook B,overall,0,0,0
+77,Matthew Yuan,Lynbrook B,overall,4,3,4
+77,Sophia Fan,Lynbrook B,overall,3,1,8
+77,Vincent Qin,Lynbrook B,overall,2,0,8
+78,Aariv Aggarwal,Irvington B,overall,1,1,0
+78,Abhiram Kuchi,Irvington B,overall,3,0,12
+78,Gabriella Liu,Irvington B,overall,1,0,4
+78,Mahi Kumar,Irvington B,overall,1,0,4
+78,Jeeva Karthy,Mira Loma B,overall,5,0,20
+78,Kapilan Karunakaran,Mira Loma B,overall,6,0,24
+78,Rohith Gonuguntla,Mira Loma B,overall,1,0,4
+78,Sai-Sanaathan Vemireddy,Mira Loma B,overall,1,0,4
+79,Aarush Iyer,Mission San Jose B,overall,2,0,8
+79,Andy Liu,Mission San Jose B,overall,7,0,28
+79,Aravind Muralidharan,Mission San Jose B,overall,1,2,-4
+79,Ishaan Kabra,Mission San Jose B,overall,8,3,20
+79,Alex Luo,Quarry Lane B,overall,1,1,0
+79,Dhruv Subramanian,Quarry Lane B,overall,2,0,8
+79,Elaine Gu,Quarry Lane B,overall,1,1,0
+79,Gautham Doddapaneni,Quarry Lane B,overall,0,0,0
+79,Neel Gupta,Quarry Lane B,overall,0,1,-4
+80,Alex Bowen,Albany A,overall,1,0,4
+80,Benton Vargo,Albany A,overall,0,0,0
+80,Nick Linzer,Albany A,overall,0,0,0
+80,Tate Nomura,Albany A,overall,6,0,24
+80,Krisha Gupta,San Mateo,overall,0,0,0
+80,Mia Hasanain,San Mateo,overall,0,0,0
+80,Navya Kayath,San Mateo,overall,2,0,8
+80,Surbhi Sakshi,San Mateo,overall,1,0,4
+81,David Ha,Albany B,overall,0,0,0
+81,Isiang,Albany B,overall,0,0,0
+81,Lina Kim,Albany B,overall,2,0,8
+81,Michael Hou,Albany B,overall,0,0,0
+81,Athithan Elamaran,Foothill A,overall,5,1,16
+81,Bhagirath Bandigari,Foothill A,overall,4,2,8
+81,Jake Nguyen,Foothill A,overall,4,0,16
+81,Parv Surjan,Foothill A,overall,3,0,12
+81,Shashank Vedula,Foothill A,overall,2,0,8
+82,Dalbert Wu,Amador Valley A,overall,0,0,0
+82,Gaurav Gupta,Amador Valley A,overall,2,3,-4
+82,Ritwik Aeka,Amador Valley A,overall,2,2,0
+82,Rohan Garg,Amador Valley A,overall,12,0,48
+82,Samarth Jain,Amador Valley A,overall,1,0,4
+82,Hasita Venkat Raman,Mountain House A,overall,0,0,0
+82,Ibrahim Nadeem,Mountain House A,overall,3,0,12
+82,Saicharan Avuthu,Mountain House A,overall,0,0,0
+82,Sampriti Brahma,Mountain House A,overall,0,0,0
+82,Shrikoustubh Veldanda,Mountain House A,overall,0,0,0
+83,Lusen Yao,Amador Valley B,overall,0,2,-8
+83,Olive Leuten,Amador Valley B,overall,0,1,-4
+83,Pratham Mehta,Amador Valley B,overall,2,1,4
+83,Srijon Mandal,Amador Valley B,overall,4,0,16
+83,Aiden Gao,Los Gatos,overall,2,0,8
+83,Anya Agarwal,Los Gatos,overall,0,0,0
+83,Atharava Pandey,Los Gatos,overall,5,0,20
+83,James Smith,Los Gatos,overall,0,0,0
+84,Abdul Muhaimin,American A,overall,0,2,-8
+84,Jiayu Song,American A,overall,0,0,0
+84,Keshav Venkatesh,American A,overall,0,0,0
+84,Ryan Liu,American A,overall,0,0,0
+84,Srithan Devarashetty,American A,overall,0,0,0
+84,Andrew Liu,Lynbrook A,overall,7,0,28
+84,Evan Liu,Lynbrook A,overall,3,0,12
+84,Philip Kohr,Lynbrook A,overall,3,0,12
+84,Ryan Bansal,Lynbrook A,overall,6,0,24
+84,Sohil Rathi,Lynbrook A,overall,3,0,12
+85,Aarav Gupta,American B,overall,1,0,4
+85,Sanjay Seshadri,American B,overall,1,0,4
+85,Sudesh Srivatsan,American B,overall,0,0,0
+85,Thomas Nguyen,American B,overall,1,0,4
+85,Ali Sherazi,GSB A,overall,0,0,0
+85,Kabir Mahajan,GSB A,overall,4,2,8
+85,Neil Dixit,GSB A,overall,7,4,12
+85,Olivia Kim,GSB A,overall,0,0,0
+86,Anish Roy,Archbishop Mitty A,overall,2,0,8
+86,Kiyan Raisinghani,Archbishop Mitty A,overall,1,2,-4
+86,Richard Peng,Archbishop Mitty A,overall,8,0,32
+86,Sudhanva Belur,Archbishop Mitty A,overall,6,1,20
+86,Greta Nikolai,Chico A,overall,1,0,4
+86,Lily Tao,Chico A,overall,0,0,0
+86,Lucas Lazarski,Chico A,overall,0,0,0
+86,Phuong Lu,Chico A,overall,0,0,0
+86,YiLun Liu,Chico A,overall,1,0,4
+87,Advait Reddy Duvvuru,Archbishop Mitty B,overall,3,1,8
+87,Ruoyu Zhou,Archbishop Mitty B,overall,0,0,0
+87,Saatvik Chauhan,Archbishop Mitty B,overall,3,0,12
+87,Samiha Das,Archbishop Mitty B,overall,1,0,4
+87,Jeeva Karthy,Mira Loma B,overall,3,0,12
+87,Kapilan Karunakaran,Mira Loma B,overall,5,0,20
+87,Rohith Gonuguntla,Mira Loma B,overall,2,0,8
+87,Sai-Sanaathan Vemireddy,Mira Loma B,overall,2,0,8
+88,Aarnav Rudraraju,BASIS Fremont,overall,6,0,24
+88,Kevin Chen,BASIS Fremont,overall,2,1,4
+88,Lexing Liu,BASIS Fremont,overall,0,0,0
+88,Ryan Yan,BASIS Fremont,overall,0,0,0
+88,Anya Sarode,Cupertino B,overall,0,0,0
+88,Elaine Chen,Cupertino B,overall,1,0,4
+88,Iurii Kirpichev,Cupertino B,overall,3,1,8
+88,Rosa Lee,Cupertino B,overall,4,0,16
+89,Aaron Cohen,BASIS Silicon Valley A,overall,2,0,8
+89,Larry Zhao,BASIS Silicon Valley A,overall,4,1,12
+89,Lucas Quan,BASIS Silicon Valley A,overall,10,2,32
+89,Zanda Zhu,BASIS Silicon Valley A,overall,1,0,4
+89,Agrima Rai,El Camino A,overall,0,0,0
+89,Eric Blones,El Camino A,overall,0,0,0
+89,Milan Pecson,El Camino A,overall,0,0,0
+89,Swaraj Adhikari,El Camino A,overall,4,0,16
+90,Eric Guo,BASIS Silicon Valley B,overall,1,1,0
+90,Ethan Guo,BASIS Silicon Valley B,overall,0,0,0
+90,Jonathan Gao,BASIS Silicon Valley B,overall,2,0,8
+90,Liam Tran,BASIS Silicon Valley B,overall,4,1,12
+90,Achuth Vinay,Clovis North,overall,5,0,20
+90,Justin Do,Clovis North,overall,5,1,16
+90,Majed Almasri,Clovis North,overall,1,2,-4
+90,Meera Malkar,Clovis North,overall,2,0,8
+91,Kavin Jain,California,overall,0,0,0
+91,Lucas Chi,California,overall,0,1,-4
+91,Ray Zhang,California,overall,0,0,0
+91,Vihaan Tigadikar,California,overall,3,1,8
+91,Arthur Chang,Miller,overall,3,0,12
+91,Asad Rahman,Miller,overall,2,0,8
+91,Pranik Biswas,Miller,overall,6,0,24
+91,Shien Fang,Miller,overall,4,1,12
+91,Tim Xia,Miller,overall,1,0,4
+92,Devi Schumann,Chico B,overall,0,0,0
+92,Eli Hu,Chico B,overall,0,0,0
+92,Maddy Dietz,Chico B,overall,2,2,0
+92,Phineas Wehrheim,Chico B,overall,0,0,0
+92,Andrew Wen,Palo Alto,overall,9,1,32
+92,Jacob Guhr,Palo Alto,overall,0,0,0
+92,Kevin Pei,Palo Alto,overall,7,0,28
+92,Rasia Yu,Palo Alto,overall,4,1,12
+93,Brandon Seo,Cupertino A,overall,0,0,0
+93,Jaanya Annapureddy,Cupertino A,overall,0,0,0
+93,Namita Gaidhani,Cupertino A,overall,0,0,0
+93,Pranav Burra,Cupertino A,overall,0,2,-8
+93,Shubhi Jain,Cupertino A,overall,0,0,0
+93,Alexander Weaver,Davidson A,overall,6,0,24
+93,Julian Kuang,Davidson A,overall,5,0,20
+93,Lucas Wu,Davidson A,overall,8,0,32
+93,Yajur Chandar,Davidson A,overall,2,1,4
+94,Bourne Zhou,Davidson B,overall,0,1,-4
+94,Casey Fong,Davidson B,overall,0,0,0
+94,Ethan Chan,Davidson B,overall,3,0,12
+94,Kaison Fong,Davidson B,overall,1,0,4
+94,Shayan Sattarvand,Davidson B,overall,6,1,20
+94,Josh Tittiranonda,Stanford Online,overall,1,1,0
+94,Vikrant Chintanaboina,Stanford Online,overall,4,0,16
+94,Vinayak Vikram,Stanford Online,overall,3,2,4
+95,Alan Chen,Dougherty Valley A,overall,1,0,4
+95,Ashwin Shekhar,Dougherty Valley A,overall,3,0,12
+95,Keshav Verma,Dougherty Valley A,overall,5,0,20
+95,Sohail Abidnia,Dougherty Valley A,overall,1,0,4
+95,Soham Chatterjee,Dougherty Valley A,overall,5,1,16
+95,Aariv Aggarwal,Irvington B,overall,1,0,4
+95,Abhiram Kuchi,Irvington B,overall,3,0,12
+95,Aditya Arun,Irvington B,overall,0,0,0
+95,Gabriella Liu,Irvington B,overall,1,0,4
+95,Mahi Kumar,Irvington B,overall,0,0,0
+96,Adhrit Viswanth Balaji,Dougherty Valley B,overall,3,1,8
+96,Andrew Sun,Dougherty Valley B,overall,3,0,12
+96,Aneeka Rao,Dougherty Valley B,overall,0,0,0
+96,Armaan Syed,Dougherty Valley B,overall,2,1,4
+96,Tannishtha Chakraborthy,Dougherty Valley B,overall,5,0,20
+96,Chun Tu Matthew Yu,Mountain House B,overall,1,0,4
+96,Neel Raina,Mountain House B,overall,2,0,8
+96,Pradyun Jupalli,Mountain House B,overall,1,1,0
+96,Shreyas Mandayam,Mountain House B,overall,2,0,8
+96,Steven Tang,Mountain House B,overall,0,0,0
+97,Avery Fung,El Camino B,overall,0,0,0
+97,Billy Battogtokh,El Camino B,overall,0,0,0
+97,Grant Kitchen,El Camino B,overall,8,2,24
+97,Jaylyn Sanchez,El Camino B,overall,1,1,0
+97,Kaelen Mendoza,El Camino B,overall,0,0,0
+97,Everett Tung,Homestead,overall,3,0,12
+97,Ishaan Sinha,Homestead,overall,1,0,4
+97,Leo Sitaraman,Homestead,overall,2,1,4
+97,Madeline Brown,Homestead,overall,0,2,-8
+98,Autumn Le,Evergreen Valley,overall,0,0,0
+98,Ethan Li,Evergreen Valley,overall,0,0,0
+98,Joshua Huang,Evergreen Valley,overall,6,1,20
+98,Zichao Zhou,Evergreen Valley,overall,2,0,8
+98,Angad Hayer,Quarry Lane A,overall,0,1,-4
+98,Nyasa Gupta,Quarry Lane A,overall,0,0,0
+98,Nyles Han,Quarry Lane A,overall,2,0,8
+98,Rayirth Lakharia,Quarry Lane A,overall,1,1,0
+99,Joshua Wu,Folsom City,overall,1,0,4
+99,Kavin Anreddy,Folsom City,overall,4,0,16
+99,Pushkal Mishra,Folsom City,overall,1,0,4
+99,Satvik Chakkapalli,Folsom City,overall,0,0,0
+99,Aarush Iyer,Mission San Jose B,overall,1,0,4
+99,Abhiraam Girish,Mission San Jose B,overall,0,0,0
+99,Andy Liu,Mission San Jose B,overall,6,1,20
+99,Aravind Muralidharan,Mission San Jose B,overall,3,1,8
+99,Ishaan Kabra,Mission San Jose B,overall,5,1,16
+100,Ashwin Ganapathi,Foothill B,overall,0,0,0
+100,Austin Lin,Foothill B,overall,2,0,8
+100,Sahana Venkat,Foothill B,overall,0,0,0
+100,Shulin Lu,Foothill B,overall,2,1,4
+100,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,8,3,20
+100,Bryan Nasr,Mira Loma A,overall,2,0,8
+100,Krish Singh,Mira Loma A,overall,2,1,4
+100,Sudeep Suresh,Mira Loma A,overall,1,0,4
+101,Chiara Montanari,GSB B,overall,0,0,0
+101,Daphne Chen,GSB B,overall,1,0,4
+101,Kaiyuan Ding,GSB B,overall,1,0,4
+101,Margaret Beery,GSB B,overall,0,0,0
+101,Max Li,GSB B,overall,2,0,8
+101,Arjun Murugappan,Irvington A,overall,5,1,16
+101,Ishaan Agrawal,Irvington A,overall,3,0,12
+101,Matthew Wang,Irvington A,overall,4,1,12
+101,Roland Pratt,Irvington A,overall,2,1,4
+102,Alex Ma,Lynbrook B,overall,0,0,0
+102,Matthew Yuan,Lynbrook B,overall,1,3,-8
+102,Rishab Medepalli,Lynbrook B,overall,0,0,0
+102,Sophia Fan,Lynbrook B,overall,2,0,8
+102,Advaith Mopuri,Mission San Jose A,overall,4,0,16
+102,Anish Agarwal,Mission San Jose A,overall,3,0,12
+102,Roshan Annamalai,Mission San Jose A,overall,8,1,28
+102,Theenash Sengupta,Mission San Jose A,overall,4,1,12
+103,Alex Luo,Quarry Lane B,overall,0,0,0
+103,Dhruv Subramanian,Quarry Lane B,overall,1,1,0
+103,Elaine Gu,Quarry Lane B,overall,0,1,-4
+103,Gautham Doddapaneni,Quarry Lane B,overall,2,0,8
+103,Neel Gupta,Quarry Lane B,overall,0,0,0
+103,Alex Ge,Saratoga,overall,8,0,32
+103,Ethan Pan,Saratoga,overall,2,0,8
+103,Quinn Gifford,Saratoga,overall,9,1,32
+103,Warren Chee,Saratoga,overall,1,0,4
+104,Alex Bowen,Albany A,overall,1,0,4
+104,Benton Vargo,Albany A,overall,0,0,0
+104,Eugene Rubino,Albany A,overall,0,0,0
+104,Nick Linzer,Albany A,overall,0,0,0
+104,Tate Nomura,Albany A,overall,1,0,4
+104,Alex Luo,Quarry Lane B,overall,1,0,4
+104,Dhruv Subramanian,Quarry Lane B,overall,5,0,20
+104,Elaine Gu,Quarry Lane B,overall,2,1,4
+104,Gautham Doddapaneni,Quarry Lane B,overall,0,0,0
+104,Neel Gupta,Quarry Lane B,overall,2,0,8
+105,David Ha,Albany B,overall,0,0,0
+105,Isiang,Albany B,overall,0,0,0
+105,Lina Kim,Albany B,overall,2,0,8
+105,Michael Hou,Albany B,overall,2,0,8
+105,Avery Fung,El Camino B,overall,0,0,0
+105,Billy Battogtokh,El Camino B,overall,0,1,-4
+105,Grant Kitchen,El Camino B,overall,7,0,28
+105,Jaylyn Sanchez,El Camino B,overall,3,0,12
+105,Kaelen Mendoza,El Camino B,overall,0,0,0
+106,Gaurav Gupta,Amador Valley A,overall,4,3,4
+106,Ritwik Aeka,Amador Valley A,overall,3,3,0
+106,Rohan Garg,Amador Valley A,overall,5,1,16
+106,Samarth Jain,Amador Valley A,overall,1,0,4
+106,Bourne Zhou,Davidson B,overall,1,0,4
+106,Casey Fong,Davidson B,overall,0,0,0
+106,Ethan Chan,Davidson B,overall,0,0,0
+106,Kaison Fong,Davidson B,overall,2,0,8
+106,Shayan Sattarvand,Davidson B,overall,2,1,4
+107,Lusen Yao,Amador Valley B,overall,3,0,12
+107,Olive Leuten,Amador Valley B,overall,0,0,0
+107,Pratham Mehta,Amador Valley B,overall,2,0,8
+107,Srijon Mandal,Amador Valley B,overall,3,0,12
+107,Ashwin Ganapathi,Foothill B,overall,0,0,0
+107,Austin Lin,Foothill B,overall,4,0,16
+107,Sahana Venkat,Foothill B,overall,2,0,8
+107,Shulin Lu,Foothill B,overall,2,0,8
+108,Abdul Muhaimin,American A,overall,3,2,4
+108,Jiayu Song,American A,overall,1,0,4
+108,Keshav Venkatesh,American A,overall,0,0,0
+108,Ryan Liu,American A,overall,2,0,8
+108,Srithan Devarashetty,American A,overall,1,0,4
+108,Adhrit Viswanth Balaji,Dougherty Valley B,overall,4,2,8
+108,Andrew Sun,Dougherty Valley B,overall,2,0,8
+108,Armaan Syed,Dougherty Valley B,overall,0,1,-4
+108,Tannishtha Chakraborthy,Dougherty Valley B,overall,4,0,16
+109,Aarav Gupta,American B,overall,1,0,4
+109,Sanjay Seshadri,American B,overall,3,0,12
+109,Sudesh Srivatsan,American B,overall,3,0,12
+109,Thomas Nguyen,American B,overall,0,0,0
+109,Autumn Le,Evergreen Valley,overall,0,0,0
+109,Ethan Li,Evergreen Valley,overall,2,0,8
+109,Joshua Huang,Evergreen Valley,overall,5,1,16
+109,Zichao Zhou,Evergreen Valley,overall,3,0,12
+110,Anish Roy,Archbishop Mitty A,overall,3,0,12
+110,Ben Zheng,Archbishop Mitty A,overall,1,1,0
+110,Richard Peng,Archbishop Mitty A,overall,6,2,16
+110,Sudhanva Belur,Archbishop Mitty A,overall,3,0,12
+110,Chun Tu Matthew Yu,Mountain House B,overall,0,0,0
+110,Neel Raina,Mountain House B,overall,3,0,12
+110,Pradyun Jupalli,Mountain House B,overall,0,0,0
+110,Shreyas Mandayam,Mountain House B,overall,0,0,0
+111,Advait Reddy Duvvuru,Archbishop Mitty B,overall,2,1,4
+111,Ruoyu Zhou,Archbishop Mitty B,overall,2,0,8
+111,Saatvik Chauhan,Archbishop Mitty B,overall,0,0,0
+111,Samiha Das,Archbishop Mitty B,overall,0,0,0
+111,Yixin Xu,Archbishop Mitty B,overall,1,1,0
+111,Alan Chen,Dougherty Valley A,overall,3,0,12
+111,Ashwin Shekhar,Dougherty Valley A,overall,4,0,16
+111,Keshav Verma,Dougherty Valley A,overall,2,1,4
+111,Soham Chatterjee,Dougherty Valley A,overall,6,0,24
+112,Aarnav Rudraraju,BASIS Fremont,overall,1,1,0
+112,Kevin Chen,BASIS Fremont,overall,4,0,16
+112,Lexing Liu,BASIS Fremont,overall,1,0,4
+112,Ryan Yan,BASIS Fremont,overall,1,0,4
+112,Josh Tittiranonda,Stanford Online,overall,1,0,4
+112,Vikrant Chintanaboina,Stanford Online,overall,4,3,4
+112,Vinayak Vikram,Stanford Online,overall,1,1,0
+113,Aaron Cohen,BASIS Silicon Valley A,overall,0,0,0
+113,Larry Zhao,BASIS Silicon Valley A,overall,4,1,12
+113,Lucas Quan,BASIS Silicon Valley A,overall,7,1,24
+113,Zanda Zhu,BASIS Silicon Valley A,overall,1,1,0
+113,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,8,0,32
+113,Bryan Nasr,Mira Loma A,overall,2,0,8
+113,Krish Singh,Mira Loma A,overall,0,1,-4
+113,Sudeep Suresh,Mira Loma A,overall,1,0,4
+114,Eric Guo,BASIS Silicon Valley B,overall,0,1,-4
+114,Ethan Guo,BASIS Silicon Valley B,overall,3,0,12
+114,Jonathan Gao,BASIS Silicon Valley B,overall,4,3,4
+114,Liam Tran,BASIS Silicon Valley B,overall,6,0,24
+114,Angad Hayer,Quarry Lane A,overall,0,0,0
+114,Nyasa Gupta,Quarry Lane A,overall,1,0,4
+114,Nyles Han,Quarry Lane A,overall,0,0,0
+114,Rayirth Lakharia,Quarry Lane A,overall,1,2,-4
+115,Kavin Jain,California,overall,4,0,16
+115,Lucas Chi,California,overall,2,1,4
+115,Sushrut Pola,California,overall,2,0,8
+115,Vihaan Tigadikar,California,overall,3,1,8
+115,Alex Ma,Lynbrook B,overall,3,0,12
+115,Matthew Yuan,Lynbrook B,overall,5,0,20
+115,Sophia Fan,Lynbrook B,overall,0,1,-4
+115,Vincent Qin,Lynbrook B,overall,2,0,8
+116,Greta Nikolai,Chico A,overall,0,0,0
+116,Lily Tao,Chico A,overall,1,0,4
+116,Phuong Lu,Chico A,overall,0,0,0
+116,YiLun Liu,Chico A,overall,0,0,0
+116,Andrew Liu,Lynbrook A,overall,4,1,12
+116,Evan Liu,Lynbrook A,overall,2,0,8
+116,Philip Kohr,Lynbrook A,overall,5,0,20
+116,Ryan Bansal,Lynbrook A,overall,3,2,4
+116,Sohil Rathi,Lynbrook A,overall,2,1,4
+117,Devi Schumann,Chico B,overall,2,2,0
+117,Eli Hu,Chico B,overall,0,0,0
+117,Maddy Dietz,Chico B,overall,1,0,4
+117,Phineas Wehrheim,Chico B,overall,0,1,-4
+117,Jeeva Karthy,Mira Loma B,overall,4,0,16
+117,Kapilan Karunakaran,Mira Loma B,overall,3,1,8
+117,Rohith Gonuguntla,Mira Loma B,overall,2,0,8
+117,Sai-Sanaathan Vemireddy,Mira Loma B,overall,3,0,12
+118,Achuth Vinay,Clovis North,overall,2,0,8
+118,Justin Do,Clovis North,overall,4,0,16
+118,Majed Almasri,Clovis North,overall,3,0,12
+118,Meera Malkar,Clovis North,overall,1,0,4
+118,Ali Sherazi,GSB A,overall,1,1,0
+118,Elliot Boyce,GSB A,overall,2,0,8
+118,Kabir Mahajan,GSB A,overall,1,2,-4
+118,Neil Dixit,GSB A,overall,4,1,12
+119,Brandon Seo,Cupertino A,overall,5,1,16
+119,Namita Gaidhani,Cupertino A,overall,2,0,8
+119,Pranav Burra,Cupertino A,overall,4,0,16
+119,Shubhi Jain,Cupertino A,overall,2,0,8
+119,Everett Tung,Homestead,overall,1,0,4
+119,Ishaan Sinha,Homestead,overall,3,0,12
+119,Leo Sitaraman,Homestead,overall,0,0,0
+119,Madeline Brown,Homestead,overall,2,0,8
+120,Anya Sarode,Cupertino B,overall,1,0,4
+120,Elaine Chen,Cupertino B,overall,0,0,0
+120,Iurii Kirpichev,Cupertino B,overall,2,0,8
+120,Rosa Lee,Cupertino B,overall,2,1,4
+120,Hasita Venkat Raman,Mountain House A,overall,1,0,4
+120,Ibrahim Nadeem,Mountain House A,overall,8,1,28
+120,Saicharan Avuthu,Mountain House A,overall,0,0,0
+120,Sampriti Brahma,Mountain House A,overall,0,1,-4
+120,Shrikoustubh Veldanda,Mountain House A,overall,1,0,4
+121,Alexander Weaver,Davidson A,overall,2,0,8
+121,Filip Ramazan,Davidson A,overall,4,0,16
+121,Julian Kuang,Davidson A,overall,4,0,16
+121,Lucas Wu,Davidson A,overall,7,1,24
+121,Athithan Elamaran,Foothill A,overall,1,1,0
+121,Bhagirath Bandigari,Foothill A,overall,1,0,4
+121,Jake Nguyen,Foothill A,overall,2,1,4
+121,Shashank Vedula,Foothill A,overall,2,1,4
+122,Eric Blones,El Camino A,overall,1,0,4
+122,Milan Pecson,El Camino A,overall,0,0,0
+122,Ryan Chen,El Camino A,overall,0,0,0
+122,Swaraj Adhikari,El Camino A,overall,5,1,16
+122,Aiden Gao,Los Gatos,overall,2,0,8
+122,Anya Agarwal,Los Gatos,overall,1,1,0
+122,Atharava Pandey,Los Gatos,overall,1,0,4
+122,James Smith,Los Gatos,overall,2,1,4
+123,Joshua Wu,Folsom City,overall,3,2,4
+123,Kavin Anreddy,Folsom City,overall,5,1,16
+123,Pushkal Mishra,Folsom City,overall,0,0,0
+123,Satvik Chakkapalli,Folsom City,overall,0,0,0
+123,Alex Ge,Saratoga,overall,5,0,20
+123,Ethan Pan,Saratoga,overall,1,0,4
+123,Max Rombakh,Saratoga,overall,5,0,20
+123,Quinn Gifford,Saratoga,overall,1,1,0
+124,Chiara Montanari,GSB B,overall,0,0,0
+124,Daphne Chen,GSB B,overall,0,0,0
+124,Kaiyuan Ding,GSB B,overall,0,0,0
+124,Margaret Beery,GSB B,overall,0,0,0
+124,Max Li,GSB B,overall,4,0,16
+124,Advaith Mopuri,Mission San Jose A,overall,3,1,8
+124,Roshan Annamalai,Mission San Jose A,overall,7,1,24
+124,Rutvik Arora,Mission San Jose A,overall,1,0,4
+124,Theenash Sengupta,Mission San Jose A,overall,7,1,24
+125,Arjun Murugappan,Irvington A,overall,3,1,8
+125,Avyukt Bhardwaj,Irvington A,overall,0,0,0
+125,Ishaan Agrawal,Irvington A,overall,3,1,8
+125,Matthew Wang,Irvington A,overall,3,0,12
+125,Roland Pratt,Irvington A,overall,1,0,4
+125,Arthur Chang,Miller,overall,2,0,8
+125,Asad Rahman,Miller,overall,2,0,8
+125,Pranik Biswas,Miller,overall,2,1,4
+125,Shien Fang,Miller,overall,2,0,8
+126,Aariv Aggarwal,Irvington B,overall,0,0,0
+126,Abhiram Kuchi,Irvington B,overall,1,0,4
+126,Aditya Arun,Irvington B,overall,0,0,0
+126,Gabriella Liu,Irvington B,overall,0,0,0
+126,Andrew Wen,Palo Alto,overall,9,1,32
+126,Jacob Guhr,Palo Alto,overall,0,0,0
+126,Kevin Pei,Palo Alto,overall,7,1,24
+126,Rasia Yu,Palo Alto,overall,3,1,8
+126,Sayan Singh,Palo Alto,overall,0,0,0
+127,Aarush Iyer,Mission San Jose B,overall,0,1,-4
+127,Andy Liu,Mission San Jose B,overall,4,3,4
+127,Aravind Muralidharan,Mission San Jose B,overall,3,0,12
+127,Ishaan Kabra,Mission San Jose B,overall,8,1,28
+127,Krisha Gupta,San Mateo,overall,1,0,4
+127,Mia Hasanain,San Mateo,overall,0,0,0
+127,Navya Kayath,San Mateo,overall,2,0,8
+127,Surbhi Sakshi,San Mateo,overall,0,0,0
+128,Alex Bowen,Albany A,overall,1,1,0
+128,Benton Vargo,Albany A,overall,1,1,0
+128,Eugene Rubino,Albany A,overall,0,0,0
+128,Nick Linzer,Albany A,overall,0,0,0
+128,Aarush Iyer,Mission San Jose B,overall,5,0,20
+128,Andy Liu,Mission San Jose B,overall,3,2,4
+128,Aravind Muralidharan,Mission San Jose B,overall,3,1,8
+128,Ishaan Kabra,Mission San Jose B,overall,5,1,16
+129,David Ha,Albany B,overall,0,0,0
+129,Isiang,Albany B,overall,0,0,0
+129,Lina Kim,Albany B,overall,0,0,0
+129,Michael Hou,Albany B,overall,0,0,0
+129,Alexander Weaver,Davidson A,overall,4,0,16
+129,Julian Kuang,Davidson A,overall,3,1,8
+129,Lucas Wu,Davidson A,overall,7,1,24
+129,Yajur Chandar,Davidson A,overall,4,1,12
+130,Dalbert Wu,Amador Valley A,overall,0,0,0
+130,Gaurav Gupta,Amador Valley A,overall,4,1,12
+130,Ritwik Aeka,Amador Valley A,overall,4,2,8
+130,Rohan Garg,Amador Valley A,overall,5,2,12
+130,Anya Sarode,Cupertino B,overall,0,0,0
+130,Elaine Chen,Cupertino B,overall,0,0,0
+130,Iurii Kirpichev,Cupertino B,overall,2,0,8
+130,Rosa Lee,Cupertino B,overall,2,0,8
+131,Lusen Yao,Amador Valley B,overall,1,0,4
+131,Olive Leuten,Amador Valley B,overall,0,0,0
+131,Pratham Mehta,Amador Valley B,overall,0,1,-4
+131,Srijon Mandal,Amador Valley B,overall,6,2,16
+131,Eric Blones,El Camino A,overall,1,0,4
+131,Milan Pecson,El Camino A,overall,0,0,0
+131,Ryan Chen,El Camino A,overall,0,0,0
+131,Swaraj Adhikari,El Camino A,overall,3,3,0
+132,Abdul Muhaimin,American A,overall,4,1,12
+132,Jiayu Song,American A,overall,2,0,8
+132,Keshav Venkatesh,American A,overall,1,0,4
+132,Srithan Devarashetty,American A,overall,0,0,0
+132,Greta Nikolai,Chico A,overall,4,1,12
+132,Lily Tao,Chico A,overall,0,0,0
+132,Lucas Lazarski,Chico A,overall,3,0,12
+132,YiLun Liu,Chico A,overall,0,1,-4
+133,Aarav Gupta,American B,overall,0,0,0
+133,Sanjay Seshadri,American B,overall,1,0,4
+133,Sudesh Srivatsan,American B,overall,1,0,4
+133,Thomas Nguyen,American B,overall,1,0,4
+133,Achuth Vinay,Clovis North,overall,3,1,8
+133,Justin Do,Clovis North,overall,6,0,24
+133,Majed Almasri,Clovis North,overall,4,1,12
+133,Meera Malkar,Clovis North,overall,0,0,0
+133,Renard Wu,Clovis North,overall,2,0,8
+134,Anish Roy,Archbishop Mitty A,overall,1,0,4
+134,Ben Zheng,Archbishop Mitty A,overall,1,0,4
+134,Richard Peng,Archbishop Mitty A,overall,7,2,20
+134,Sudhanva Belur,Archbishop Mitty A,overall,2,2,0
+134,Adhrit Viswanth Balaji,Dougherty Valley B,overall,2,3,-4
+134,Andrew Sun,Dougherty Valley B,overall,2,0,8
+134,Armaan Syed,Dougherty Valley B,overall,0,1,-4
+134,Tannishtha Chakraborthy,Dougherty Valley B,overall,1,1,0
+135,Advait Reddy Duvvuru,Archbishop Mitty B,overall,1,1,0
+135,Ruoyu Zhou,Archbishop Mitty B,overall,0,0,0
+135,Saatvik Chauhan,Archbishop Mitty B,overall,1,0,4
+135,Samiha Das,Archbishop Mitty B,overall,1,0,4
+135,Yixin Xu,Archbishop Mitty B,overall,0,0,0
+135,Andrew Wen,Palo Alto,overall,6,2,16
+135,Kevin Pei,Palo Alto,overall,10,0,40
+135,Rasia Yu,Palo Alto,overall,2,1,4
+135,Sayan Singh,Palo Alto,overall,0,0,0
+136,Aarnav Rudraraju,BASIS Fremont,overall,2,1,4
+136,Kevin Chen,BASIS Fremont,overall,2,0,8
+136,Lexing Liu,BASIS Fremont,overall,2,1,4
+136,Ryan Yan,BASIS Fremont,overall,0,0,0
+136,Bourne Zhou,Davidson B,overall,0,0,0
+136,Casey Fong,Davidson B,overall,0,0,0
+136,Ethan Chan,Davidson B,overall,2,0,8
+136,Kaison Fong,Davidson B,overall,0,0,0
+136,Shayan Sattarvand,Davidson B,overall,5,1,16
+137,Aaron Cohen,BASIS Silicon Valley A,overall,2,0,8
+137,Larry Zhao,BASIS Silicon Valley A,overall,2,1,4
+137,Lucas Quan,BASIS Silicon Valley A,overall,13,0,52
+137,Michelle Liu,BASIS Silicon Valley A,overall,0,0,0
+137,Ashwin Ganapathi,Foothill B,overall,0,0,0
+137,Austin Lin,Foothill B,overall,0,1,-4
+137,Sahana Venkat,Foothill B,overall,0,0,0
+137,Shulin Lu,Foothill B,overall,2,3,-4
+138,Eric Guo,BASIS Silicon Valley B,overall,1,0,4
+138,Ethan Guo,BASIS Silicon Valley B,overall,0,0,0
+138,Jason Zhao,BASIS Silicon Valley B,overall,1,1,0
+138,Jonathan Gao,BASIS Silicon Valley B,overall,1,0,4
+138,Liam Tran,BASIS Silicon Valley B,overall,8,1,28
+138,Autumn Le,Evergreen Valley,overall,0,0,0
+138,Ethan Li,Evergreen Valley,overall,2,0,8
+138,Joshua Huang,Evergreen Valley,overall,0,0,0
+138,Zichao Zhou,Evergreen Valley,overall,3,0,12
+139,Kavin Jain,California,overall,2,1,4
+139,Lucas Chi,California,overall,1,0,4
+139,Ray Zhang,California,overall,0,0,0
+139,Vihaan Tigadikar,California,overall,2,1,4
+139,Arjun Murugappan,Irvington A,overall,3,0,12
+139,Ishaan Agrawal,Irvington A,overall,4,1,12
+139,Matthew Wang,Irvington A,overall,3,0,12
+139,Roland Pratt,Irvington A,overall,3,0,12
+140,Devi Schumann,Chico B,overall,4,1,12
+140,Eli Hu,Chico B,overall,0,1,-4
+140,Maddy Dietz,Chico B,overall,2,0,8
+140,Phineas Wehrheim,Chico B,overall,1,0,4
+140,Aariv Aggarwal,Irvington B,overall,1,0,4
+140,Abhiram Kuchi,Irvington B,overall,1,0,4
+140,Gabriella Liu,Irvington B,overall,3,0,12
+140,Mahi Kumar,Irvington B,overall,1,0,4
+141,Brandon Seo,Cupertino A,overall,2,2,0
+141,Jaanya Annapureddy,Cupertino A,overall,0,0,0
+141,Namita Gaidhani,Cupertino A,overall,1,0,4
+141,Pranav Burra,Cupertino A,overall,2,2,0
+141,Shubhi Jain,Cupertino A,overall,2,0,8
+141,Avery Fung,El Camino B,overall,0,0,0
+141,Billy Battogtokh,El Camino B,overall,0,0,0
+141,Grant Kitchen,El Camino B,overall,6,2,16
+141,Jaylyn Sanchez,El Camino B,overall,1,0,4
+141,Kaelen Mendoza,El Camino B,overall,0,0,0
+142,Alan Chen,Dougherty Valley A,overall,5,0,20
+142,Ashwin Shekhar,Dougherty Valley A,overall,4,0,16
+142,Keshav Verma,Dougherty Valley A,overall,1,0,4
+142,Soham Chatterjee,Dougherty Valley A,overall,4,0,16
+142,Jeeva Karthy,Mira Loma B,overall,1,0,4
+142,Kapilan Karunakaran,Mira Loma B,overall,1,1,0
+142,Rohith Gonuguntla,Mira Loma B,overall,0,1,-4
+142,Sai-Sanaathan Vemireddy,Mira Loma B,overall,0,1,-4
+143,Joshua Wu,Folsom City,overall,6,0,24
+143,Kavin Anreddy,Folsom City,overall,8,1,28
+143,Pushkal Mishra,Folsom City,overall,1,0,4
+143,Satvik Chakkapalli,Folsom City,overall,0,1,-4
+143,Alex Luo,Quarry Lane B,overall,0,0,0
+143,Dhruv Subramanian,Quarry Lane B,overall,0,1,-4
+143,Elaine Gu,Quarry Lane B,overall,0,1,-4
+143,Gautham Doddapaneni,Quarry Lane B,overall,0,0,0
+143,Neel Gupta,Quarry Lane B,overall,2,0,8
+144,Athithan Elamaran,Foothill A,overall,1,1,0
+144,Bhagirath Bandigari,Foothill A,overall,4,0,16
+144,Jake Nguyen,Foothill A,overall,4,1,12
+144,Shashank Vedula,Foothill A,overall,3,0,12
+144,Everett Tung,Homestead,overall,2,0,8
+144,Ishaan Sinha,Homestead,overall,4,0,16
+144,Leo Sitaraman,Homestead,overall,2,0,8
+144,Madeline Brown,Homestead,overall,0,0,0
+144,Spencer Diep,Homestead,overall,0,0,0
+145,Ali Sherazi,GSB A,overall,5,0,20
+145,Kabir Mahajan,GSB A,overall,5,0,20
+145,Neil Dixit,GSB A,overall,4,3,4
+145,Olivia Kim,GSB A,overall,0,0,0
+145,Angad Hayer,Quarry Lane A,overall,0,0,0
+145,Nyasa Gupta,Quarry Lane A,overall,1,0,4
+145,Nyles Han,Quarry Lane A,overall,1,1,0
+145,Rayirth Lakharia,Quarry Lane A,overall,2,0,8
+146,Chiara Montanari,GSB B,overall,0,0,0
+146,Daphne Chen,GSB B,overall,0,0,0
+146,Kaiyuan Ding,GSB B,overall,2,0,8
+146,Margaret Beery,GSB B,overall,1,0,4
+146,Max Li,GSB B,overall,3,0,12
+146,Alex Ma,Lynbrook B,overall,0,0,0
+146,Matthew Yuan,Lynbrook B,overall,4,0,16
+146,Rishab Medepalli,Lynbrook B,overall,0,0,0
+146,Sophia Fan,Lynbrook B,overall,4,0,16
+146,Vincent Qin,Lynbrook B,overall,3,0,12
+147,Aiden Gao,Los Gatos,overall,0,0,0
+147,Anya Agarwal,Los Gatos,overall,1,0,4
+147,Atharava Pandey,Los Gatos,overall,0,1,-4
+147,James Smith,Los Gatos,overall,0,0,0
+147,Abhinav Krishna Senthil Kumar,Mira Loma A,overall,10,1,36
+147,Bryan Nasr,Mira Loma A,overall,1,0,4
+147,Krish Singh,Mira Loma A,overall,3,0,12
+147,Sudeep Suresh,Mira Loma A,overall,0,0,0
+148,Andrew Liu,Lynbrook A,overall,6,1,20
+148,Philip Kohr,Lynbrook A,overall,4,1,12
+148,Ryan Bansal,Lynbrook A,overall,3,0,12
+148,Sohil Rathi,Lynbrook A,overall,4,0,16
+148,Chun Tu Matthew Yu,Mountain House B,overall,1,0,4
+148,Neel Raina,Mountain House B,overall,0,1,-4
+148,Pradyun Jupalli,Mountain House B,overall,0,0,0
+148,Shreyas Mandayam,Mountain House B,overall,0,2,-8
+148,Steven Tang,Mountain House B,overall,0,0,0
+149,Arthur Chang,Miller,overall,2,2,0
+149,Asad Rahman,Miller,overall,3,0,12
+149,Pranik Biswas,Miller,overall,1,0,4
+149,Shien Fang,Miller,overall,1,0,4
+149,Advaith Mopuri,Mission San Jose A,overall,1,0,4
+149,Anish Agarwal,Mission San Jose A,overall,0,0,0
+149,Roshan Annamalai,Mission San Jose A,overall,6,0,24
+149,Rutvik Arora,Mission San Jose A,overall,0,1,-4
+149,Theenash Sengupta,Mission San Jose A,overall,7,3,16
+150,Hasita Venkat Raman,Mountain House A,overall,1,0,4
+150,Ibrahim Nadeem,Mountain House A,overall,7,0,28
+150,Sampriti Brahma,Mountain House A,overall,0,1,-4
+150,Shrikoustubh Veldanda,Mountain House A,overall,0,0,0
+150,Josh Tittiranonda,Stanford Online,overall,4,1,12
+150,Vikrant Chintanaboina,Stanford Online,overall,6,0,24
+150,Vinayak Vikram,Stanford Online,overall,1,2,-4
+151,Krisha Gupta,San Mateo,overall,0,0,0
+151,Mia Hasanain,San Mateo,overall,1,0,4
+151,Navya Kayath,San Mateo,overall,0,0,0
+151,Surbhi Sakshi,San Mateo,overall,0,0,0
+151,Alex Ge,Saratoga,overall,6,2,16
+151,Ethan Pan,Saratoga,overall,0,0,0
+151,Max Rombakh,Saratoga,overall,6,1,20
+151,Quinn Gifford,Saratoga,overall,2,0,8
+151,Warren Chee,Saratoga,overall,2,1,4
+1,Gaurav Gupta,Amador Valley A,chemistry,0,1,-4
+1,Ritwik Aeka,Amador Valley A,biology,1,0,4
+1,Ritwik Aeka,Amador Valley A,energy,2,0,8
+1,Rohan Garg,Amador Valley A,biology,0,1,-4
+1,Rohan Garg,Amador Valley A,chemistry,3,0,12
+1,Rohan Garg,Amador Valley A,other,1,0,4
+1,Rohan Garg,Amador Valley A,energy,0,1,-4
+1,Rohan Garg,Amador Valley A,math,2,2,0
+1,Rohan Garg,Amador Valley A,physics,1,2,-4
+1,Aarush Iyer,Mission San Jose B,biology,1,0,4
+1,Andy Liu,Mission San Jose B,biology,1,0,4
+1,Andy Liu,Mission San Jose B,other,1,0,4
+1,Andy Liu,Mission San Jose B,math,1,0,4
+1,Andy Liu,Mission San Jose B,physics,3,0,12
+1,Aravind Muralidharan,Mission San Jose B,biology,1,0,4
+1,Ishaan Kabra,Mission San Jose B,other,2,1,4
+1,Ishaan Kabra,Mission San Jose B,energy,1,0,4
+1,Ishaan Kabra,Mission San Jose B,math,1,0,4
+2,Anish Roy,Archbishop Mitty A,math,3,0,12
+2,Ben Zheng,Archbishop Mitty A,physics,1,0,4
+2,Richard Peng,Archbishop Mitty A,biology,2,0,8
+2,Richard Peng,Archbishop Mitty A,chemistry,2,0,8
+2,Richard Peng,Archbishop Mitty A,energy,1,0,4
+2,Sudhanva Belur,Archbishop Mitty A,other,3,0,12
+2,Sudhanva Belur,Archbishop Mitty A,energy,1,0,4
+2,Andrew Liu,Lynbrook A,biology,2,0,8
+2,Andrew Liu,Lynbrook A,chemistry,1,0,4
+2,Andrew Liu,Lynbrook A,other,0,1,-4
+2,Andrew Liu,Lynbrook A,energy,1,1,0
+2,Andrew Liu,Lynbrook A,physics,1,0,4
+2,Philip Kohr,Lynbrook A,other,1,1,0
+2,Sohil Rathi,Lynbrook A,chemistry,1,0,4
+2,Sohil Rathi,Lynbrook A,math,1,2,-4
+2,Sohil Rathi,Lynbrook A,physics,2,0,8
+3,Aaron Cohen,BASIS Silicon Valley A,chemistry,1,0,4
+3,Aaron Cohen,BASIS Silicon Valley A,other,2,0,8
+3,Larry Zhao,BASIS Silicon Valley A,biology,3,1,8
+3,Larry Zhao,BASIS Silicon Valley A,energy,3,0,12
+3,Lucas Quan,BASIS Silicon Valley A,chemistry,1,0,4
+3,Lucas Quan,BASIS Silicon Valley A,math,3,0,12
+3,Lucas Quan,BASIS Silicon Valley A,physics,1,1,0
+3,Athithan Elamaran,Foothill A,biology,1,0,4
+3,Athithan Elamaran,Foothill A,math,1,0,4
+3,Athithan Elamaran,Foothill A,physics,0,1,-4
+3,Bhagirath Bandigari,Foothill A,biology,0,2,-8
+3,Bhagirath Bandigari,Foothill A,energy,0,1,-4
+3,Jake Nguyen,Foothill A,chemistry,1,0,4
+3,Shashank Vedula,Foothill A,chemistry,0,1,-4
+3,Shashank Vedula,Foothill A,other,2,0,8
+4,Achuth Vinay,Clovis North,biology,2,0,8
+4,Achuth Vinay,Clovis North,math,1,1,0
+4,Justin Do,Clovis North,chemistry,2,0,8
+4,Justin Do,Clovis North,math,1,0,4
+4,Justin Do,Clovis North,physics,0,1,-4
+4,Majed Almasri,Clovis North,physics,1,0,4
+4,Meera Malkar,Clovis North,energy,1,0,4
+4,Alan Chen,Dougherty Valley A,chemistry,1,0,4
+4,Ashwin Shekhar,Dougherty Valley A,math,2,0,8
+4,Ashwin Shekhar,Dougherty Valley A,physics,2,0,8
+4,Keshav Verma,Dougherty Valley A,other,2,0,8
+4,Soham Chatterjee,Dougherty Valley A,biology,1,1,0
+4,Soham Chatterjee,Dougherty Valley A,other,0,1,-4
+4,Soham Chatterjee,Dougherty Valley A,energy,2,0,8
+5,Alexander Weaver,Davidson A,chemistry,1,0,4
+5,Alexander Weaver,Davidson A,other,2,1,4
+5,Alexander Weaver,Davidson A,energy,0,1,-4
+5,Alexander Weaver,Davidson A,physics,0,1,-4
+5,Julian Kuang,Davidson A,chemistry,0,1,-4
+5,Julian Kuang,Davidson A,math,3,0,12
+5,Julian Kuang,Davidson A,physics,0,1,-4
+5,Lucas Wu,Davidson A,chemistry,1,0,4
+5,Lucas Wu,Davidson A,physics,2,0,8
+5,Yajur Chandar,Davidson A,biology,1,1,0
+5,Yajur Chandar,Davidson A,chemistry,1,0,4
+5,Yajur Chandar,Davidson A,energy,2,0,8
+5,Bourne Zhou,Davidson B,biology,2,0,8
+5,Bourne Zhou,Davidson B,chemistry,1,0,4
+5,Ethan Chan,Davidson B,energy,1,0,4
+5,Ethan Chan,Davidson B,math,0,1,-4
+5,Kaison Fong,Davidson B,other,1,0,4
+5,Kaison Fong,Davidson B,math,0,1,-4
+5,Kaison Fong,Davidson B,physics,1,0,4
+5,Shayan Sattarvand,Davidson B,biology,1,0,4
+5,Shayan Sattarvand,Davidson B,physics,1,0,4
+6,Ali Sherazi,GSB A,math,2,0,8
+6,Elliot Boyce,GSB A,biology,0,1,-4
+6,Kabir Mahajan,GSB A,energy,2,0,8
+6,Neil Dixit,GSB A,chemistry,1,0,4
+6,Neil Dixit,GSB A,other,0,1,-4
+6,Neil Dixit,GSB A,math,1,0,4
+6,Neil Dixit,GSB A,physics,3,0,12
+6,Alex Ge,Saratoga,biology,1,0,4
+6,Alex Ge,Saratoga,chemistry,2,1,4
+6,Alex Ge,Saratoga,other,1,0,4
+6,Alex Ge,Saratoga,energy,1,0,4
+6,Ethan Pan,Saratoga,biology,3,0,12
+6,Max Rombakh,Saratoga,other,1,1,0
+6,Max Rombakh,Saratoga,physics,0,3,-12
+7,Arjun Murugappan,Irvington A,biology,1,1,0
+7,Arjun Murugappan,Irvington A,chemistry,0,1,-4
+7,Arjun Murugappan,Irvington A,energy,1,1,0
+7,Ishaan Agrawal,Irvington A,math,0,1,-4
+7,Ishaan Agrawal,Irvington A,physics,0,1,-4
+7,Roland Pratt,Irvington A,energy,1,0,4
+7,Roland Pratt,Irvington A,math,1,0,4
+7,Roland Pratt,Irvington A,physics,1,0,4
+7,Andrew Wen,Palo Alto,energy,0,1,-4
+7,Andrew Wen,Palo Alto,math,2,0,8
+7,Andrew Wen,Palo Alto,physics,1,1,0
+7,Kevin Pei,Palo Alto,chemistry,2,0,8
+7,Kevin Pei,Palo Alto,other,3,1,8
+7,Kevin Pei,Palo Alto,physics,1,0,4
+7,Rasia Yu,Palo Alto,biology,1,0,4
+7,Rasia Yu,Palo Alto,energy,1,1,0
+7,Sayan Singh,Palo Alto,math,1,0,4
+8,Abhinav Krishna Senthil Kumar,Mira Loma A,chemistry,1,0,4
+8,Abhinav Krishna Senthil Kumar,Mira Loma A,other,1,1,0
+8,Bryan Nasr,Mira Loma A,physics,1,0,4
+8,Krish Singh,Mira Loma A,biology,1,0,4
+8,Krish Singh,Mira Loma A,energy,1,0,4
+8,Advaith Mopuri,Mission San Jose A,math,2,1,4
+8,Roshan Annamalai,Mission San Jose A,chemistry,0,1,-4
+8,Roshan Annamalai,Mission San Jose A,other,3,0,12
+8,Roshan Annamalai,Mission San Jose A,energy,1,0,4
+8,Roshan Annamalai,Mission San Jose A,physics,2,2,0
+8,Theenash Sengupta,Mission San Jose A,biology,3,1,8
+8,Theenash Sengupta,Mission San Jose A,chemistry,3,0,12
+8,Theenash Sengupta,Mission San Jose A,energy,1,1,0
+9,Dalbert Wu,Amador Valley A,biology,1,0,4
+9,Gaurav Gupta,Amador Valley A,chemistry,1,0,4
+9,Gaurav Gupta,Amador Valley A,other,1,0,4
+9,Gaurav Gupta,Amador Valley A,physics,1,0,4
+9,Ritwik Aeka,Amador Valley A,biology,1,1,0
+9,Ritwik Aeka,Amador Valley A,energy,2,0,8
+9,Rohan Garg,Amador Valley A,biology,1,0,4
+9,Rohan Garg,Amador Valley A,chemistry,1,0,4
+9,Rohan Garg,Amador Valley A,other,2,1,4
+9,Rohan Garg,Amador Valley A,energy,1,0,4
+9,Rohan Garg,Amador Valley A,math,2,1,4
+9,Rohan Garg,Amador Valley A,physics,0,1,-4
+9,Arjun Murugappan,Irvington A,energy,0,1,-4
+9,Ishaan Agrawal,Irvington A,chemistry,1,1,0
+9,Ishaan Agrawal,Irvington A,math,1,0,4
+9,Ishaan Agrawal,Irvington A,physics,3,0,12
+9,Matthew Wang,Irvington A,physics,0,1,-4
+10,Anish Roy,Archbishop Mitty A,math,1,1,0
+10,Ben Zheng,Archbishop Mitty A,physics,0,1,-4
+10,Richard Peng,Archbishop Mitty A,biology,1,0,4
+10,Richard Peng,Archbishop Mitty A,chemistry,0,2,-8
+10,Sudhanva Belur,Archbishop Mitty A,other,2,1,4
+10,Advaith Mopuri,Mission San Jose A,biology,1,0,4
+10,Advaith Mopuri,Mission San Jose A,math,2,0,8
+10,Roshan Annamalai,Mission San Jose A,other,2,1,4
+10,Roshan Annamalai,Mission San Jose A,energy,1,0,4
+10,Roshan Annamalai,Mission San Jose A,physics,0,1,-4
+10,Rutvik Arora,Mission San Jose A,physics,0,1,-4
+10,Theenash Sengupta,Mission San Jose A,biology,2,0,8
+10,Theenash Sengupta,Mission San Jose A,chemistry,4,0,16
+10,Theenash Sengupta,Mission San Jose A,energy,2,0,8
+11,Aaron Cohen,BASIS Silicon Valley A,biology,1,0,4
+11,Aaron Cohen,BASIS Silicon Valley A,other,0,1,-4
+11,Larry Zhao,BASIS Silicon Valley A,biology,1,0,4
+11,Larry Zhao,BASIS Silicon Valley A,chemistry,1,0,4
+11,Larry Zhao,BASIS Silicon Valley A,energy,1,0,4
+11,Lucas Quan,BASIS Silicon Valley A,chemistry,3,0,12
+11,Lucas Quan,BASIS Silicon Valley A,other,1,0,4
+11,Lucas Quan,BASIS Silicon Valley A,math,1,0,4
+11,Lucas Quan,BASIS Silicon Valley A,physics,1,0,4
+11,Zanda Zhu,BASIS Silicon Valley A,math,1,0,4
+11,Zanda Zhu,BASIS Silicon Valley A,physics,1,0,4
+11,Ali Sherazi,GSB A,other,1,0,4
+11,Kabir Mahajan,GSB A,biology,2,0,8
+11,Kabir Mahajan,GSB A,energy,1,0,4
+11,Neil Dixit,GSB A,math,1,0,4
+11,Neil Dixit,GSB A,physics,0,3,-12
+11,Olivia Kim,GSB A,energy,1,0,4
+12,Achuth Vinay,Clovis North,biology,4,0,16
+12,Achuth Vinay,Clovis North,energy,2,0,8
+12,Justin Do,Clovis North,chemistry,2,0,8
+12,Justin Do,Clovis North,math,1,0,4
+12,Majed Almasri,Clovis North,energy,1,0,4
+12,Majed Almasri,Clovis North,physics,1,0,4
+12,Kaison Fong,Davidson B,other,1,0,4
+12,Kaison Fong,Davidson B,math,2,0,8
+12,Kaison Fong,Davidson B,physics,1,0,4
+12,Shayan Sattarvand,Davidson B,chemistry,1,0,4
+12,Shayan Sattarvand,Davidson B,other,1,0,4
+12,Shayan Sattarvand,Davidson B,physics,1,0,4
+13,Alexander Weaver,Davidson A,other,2,1,4
+13,Filip Ramazan,Davidson A,biology,0,1,-4
+13,Filip Ramazan,Davidson A,energy,0,1,-4
+13,Julian Kuang,Davidson A,math,3,0,12
+13,Julian Kuang,Davidson A,physics,1,0,4
+13,Lucas Wu,Davidson A,chemistry,1,0,4
+13,Lucas Wu,Davidson A,energy,1,0,4
+13,Lucas Wu,Davidson A,physics,2,0,8
+13,Yajur Chandar,Davidson A,chemistry,1,0,4
+13,Yajur Chandar,Davidson A,energy,1,0,4
+13,Alan Chen,Dougherty Valley A,chemistry,2,0,8
+13,Ashwin Shekhar,Dougherty Valley A,math,1,0,4
+13,Ashwin Shekhar,Dougherty Valley A,physics,0,1,-4
+13,Keshav Verma,Dougherty Valley A,other,2,0,8
+13,Keshav Verma,Dougherty Valley A,physics,0,1,-4
+13,Soham Chatterjee,Dougherty Valley A,biology,4,0,16
+13,Soham Chatterjee,Dougherty Valley A,energy,1,0,4
+14,Athithan Elamaran,Foothill A,energy,1,0,4
+14,Athithan Elamaran,Foothill A,math,2,0,8
+14,Athithan Elamaran,Foothill A,physics,1,0,4
+14,Bhagirath Bandigari,Foothill A,biology,1,1,0
+14,Bhagirath Bandigari,Foothill A,energy,1,0,4
+14,Bhagirath Bandigari,Foothill A,physics,1,0,4
+14,Shashank Vedula,Foothill A,other,2,1,4
+14,Alex Ge,Saratoga,chemistry,3,0,12
+14,Alex Ge,Saratoga,energy,1,0,4
+14,Ethan Pan,Saratoga,biology,3,0,12
+14,Max Rombakh,Saratoga,physics,2,1,4
+14,Quinn Gifford,Saratoga,chemistry,1,0,4
+14,Quinn Gifford,Saratoga,other,1,0,4
+14,Quinn Gifford,Saratoga,math,1,0,4
+15,Andrew Liu,Lynbrook A,biology,2,0,8
+15,Evan Liu,Lynbrook A,chemistry,4,0,16
+15,Philip Kohr,Lynbrook A,other,1,1,0
+15,Sohil Rathi,Lynbrook A,other,2,0,8
+15,Sohil Rathi,Lynbrook A,energy,1,1,0
+15,Sohil Rathi,Lynbrook A,math,2,0,8
+15,Sohil Rathi,Lynbrook A,physics,0,1,-4
+15,Abhinav Krishna Senthil Kumar,Mira Loma A,biology,1,0,4
+15,Abhinav Krishna Senthil Kumar,Mira Loma A,energy,2,0,8
+15,Abhinav Krishna Senthil Kumar,Mira Loma A,math,1,0,4
+15,Bryan Nasr,Mira Loma A,physics,1,0,4
+15,Sudeep Suresh,Mira Loma A,physics,1,1,0
+16,Aarush Iyer,Mission San Jose B,biology,1,0,4
+16,Andy Liu,Mission San Jose B,physics,1,1,0
+16,Aravind Muralidharan,Mission San Jose B,biology,1,0,4
+16,Aravind Muralidharan,Mission San Jose B,energy,1,0,4
+16,Ishaan Kabra,Mission San Jose B,other,3,1,8
+16,Ishaan Kabra,Mission San Jose B,math,1,0,4
+16,Ishaan Kabra,Mission San Jose B,physics,1,0,4
+16,Andrew Wen,Palo Alto,biology,1,0,4
+16,Andrew Wen,Palo Alto,energy,1,0,4
+16,Andrew Wen,Palo Alto,math,3,0,12
+16,Andrew Wen,Palo Alto,physics,0,1,-4
+16,Kevin Pei,Palo Alto,chemistry,2,0,8
+16,Kevin Pei,Palo Alto,other,1,1,0
+16,Rasia Yu,Palo Alto,biology,1,0,4
+16,Rasia Yu,Palo Alto,energy,1,0,4
+17,Gaurav Gupta,Amador Valley A,other,0,1,-4
+17,Gaurav Gupta,Amador Valley A,energy,1,0,4
+17,Gaurav Gupta,Amador Valley A,physics,2,0,8
+17,Ritwik Aeka,Amador Valley A,biology,1,1,0
+17,Rohan Garg,Amador Valley A,biology,0,1,-4
+17,Rohan Garg,Amador Valley A,chemistry,2,0,8
+17,Rohan Garg,Amador Valley A,other,1,0,4
+17,Rohan Garg,Amador Valley A,energy,1,1,0
+17,Rohan Garg,Amador Valley A,math,4,0,16
+17,Rohan Garg,Amador Valley A,physics,2,0,8
+17,Samarth Jain,Amador Valley A,other,1,0,4
+17,Alan Chen,Dougherty Valley A,chemistry,2,0,8
+17,Alan Chen,Dougherty Valley A,energy,0,1,-4
+17,Ashwin Shekhar,Dougherty Valley A,physics,0,1,-4
+17,Keshav Verma,Dougherty Valley A,other,1,1,0
+17,Keshav Verma,Dougherty Valley A,energy,0,1,-4
+17,Soham Chatterjee,Dougherty Valley A,biology,3,0,12
+18,Anish Roy,Archbishop Mitty A,math,2,0,8
+18,Ben Zheng,Archbishop Mitty A,physics,1,0,4
+18,Richard Peng,Archbishop Mitty A,biology,1,2,-4
+18,Richard Peng,Archbishop Mitty A,chemistry,3,0,12
+18,Richard Peng,Archbishop Mitty A,energy,2,1,4
+18,Richard Peng,Archbishop Mitty A,physics,0,2,-8
+18,Sudhanva Belur,Archbishop Mitty A,other,0,1,-4
+18,Athithan Elamaran,Foothill A,math,1,0,4
+18,Athithan Elamaran,Foothill A,physics,1,0,4
+18,Jake Nguyen,Foothill A,chemistry,1,0,4
+18,Jake Nguyen,Foothill A,energy,1,0,4
+18,Jake Nguyen,Foothill A,physics,1,0,4
+18,Shashank Vedula,Foothill A,other,2,0,8
+19,Achuth Vinay,Clovis North,biology,3,0,12
+19,Achuth Vinay,Clovis North,math,1,0,4
+19,Justin Do,Clovis North,chemistry,2,0,8
+19,Justin Do,Clovis North,energy,1,0,4
+19,Justin Do,Clovis North,physics,1,0,4
+19,Majed Almasri,Clovis North,physics,1,0,4
+19,Meera Malkar,Clovis North,physics,1,0,4
+19,Aarush Iyer,Mission San Jose B,energy,1,0,4
+19,Andy Liu,Mission San Jose B,biology,1,0,4
+19,Andy Liu,Mission San Jose B,energy,0,1,-4
+19,Andy Liu,Mission San Jose B,math,1,0,4
+19,Andy Liu,Mission San Jose B,physics,1,1,0
+19,Aravind Muralidharan,Mission San Jose B,biology,0,1,-4
+19,Ishaan Kabra,Mission San Jose B,chemistry,1,0,4
+19,Ishaan Kabra,Mission San Jose B,other,2,2,0
+19,Ishaan Kabra,Mission San Jose B,math,1,0,4
+19,Ishaan Kabra,Mission San Jose B,physics,0,1,-4
+20,Elliot Boyce,GSB A,energy,1,0,4
+20,Kabir Mahajan,GSB A,biology,0,1,-4
+20,Kabir Mahajan,GSB A,physics,1,1,0
+20,Neil Dixit,GSB A,math,1,0,4
+20,Andrew Liu,Lynbrook A,biology,2,1,4
+20,Andrew Liu,Lynbrook A,other,1,0,4
+20,Evan Liu,Lynbrook A,chemistry,1,0,4
+20,Evan Liu,Lynbrook A,energy,1,0,4
+20,Evan Liu,Lynbrook A,math,1,0,4
+20,Philip Kohr,Lynbrook A,other,2,0,8
+20,Philip Kohr,Lynbrook A,physics,1,0,4
+20,Sohil Rathi,Lynbrook A,chemistry,2,1,4
+20,Sohil Rathi,Lynbrook A,energy,1,0,4
+20,Sohil Rathi,Lynbrook A,math,2,0,8
+20,Sohil Rathi,Lynbrook A,physics,2,1,4
+21,Gaurav Gupta,Amador Valley A,chemistry,2,0,8
+21,Ritwik Aeka,Amador Valley A,biology,2,1,4
+21,Rohan Garg,Amador Valley A,other,2,1,4
+21,Rohan Garg,Amador Valley A,math,3,1,8
+21,Rohan Garg,Amador Valley A,physics,3,1,8
+21,Athithan Elamaran,Foothill A,energy,2,0,8
+21,Athithan Elamaran,Foothill A,math,1,2,-4
+21,Bhagirath Bandigari,Foothill A,biology,0,1,-4
+21,Bhagirath Bandigari,Foothill A,energy,1,0,4
+21,Jake Nguyen,Foothill A,chemistry,0,1,-4
+21,Shashank Vedula,Foothill A,other,0,3,-12
+22,Larry Zhao,BASIS Silicon Valley A,energy,1,0,4
+22,Lucas Quan,BASIS Silicon Valley A,chemistry,1,0,4
+22,Lucas Quan,BASIS Silicon Valley A,math,1,1,0
+22,Lucas Quan,BASIS Silicon Valley A,physics,2,0,8
+22,Zanda Zhu,BASIS Silicon Valley A,energy,1,0,4
+22,Andrew Wen,Palo Alto,chemistry,1,0,4
+22,Andrew Wen,Palo Alto,other,1,1,0
+22,Andrew Wen,Palo Alto,energy,0,1,-4
+22,Kevin Pei,Palo Alto,chemistry,1,0,4
+22,Kevin Pei,Palo Alto,math,2,0,8
+22,Kevin Pei,Palo Alto,physics,2,0,8
+22,Sayan Singh,Palo Alto,biology,0,1,-4
+23,Alexander Weaver,Davidson A,other,3,0,12
+23,Alexander Weaver,Davidson A,physics,1,0,4
+23,Julian Kuang,Davidson A,biology,1,0,4
+23,Julian Kuang,Davidson A,math,1,1,0
+23,Julian Kuang,Davidson A,physics,1,0,4
+23,Lucas Wu,Davidson A,energy,1,0,4
+23,Lucas Wu,Davidson A,math,1,0,4
+23,Lucas Wu,Davidson A,physics,1,0,4
+23,Yajur Chandar,Davidson A,biology,2,0,8
+23,Yajur Chandar,Davidson A,chemistry,0,1,-4
+23,Advaith Mopuri,Mission San Jose A,math,1,0,4
+23,Anish Agarwal,Mission San Jose A,chemistry,1,0,4
+23,Roshan Annamalai,Mission San Jose A,other,1,3,-8
+23,Rutvik Arora,Mission San Jose A,physics,1,0,4
+23,Theenash Sengupta,Mission San Jose A,biology,1,2,-4
+23,Theenash Sengupta,Mission San Jose A,chemistry,3,0,12
+23,Theenash Sengupta,Mission San Jose A,energy,1,0,4
+24,Andrew Liu,Lynbrook A,biology,0,1,-4
+24,Andrew Liu,Lynbrook A,energy,2,1,4
+24,Evan Liu,Lynbrook A,chemistry,2,1,4
+24,Philip Kohr,Lynbrook A,other,1,1,0
+24,Sohil Rathi,Lynbrook A,math,2,0,8
+24,Sohil Rathi,Lynbrook A,physics,2,0,8
+24,Aarush Iyer,Mission San Jose B,chemistry,1,0,4
+24,Andy Liu,Mission San Jose B,energy,1,0,4
+24,Andy Liu,Mission San Jose B,math,1,0,4
+24,Andy Liu,Mission San Jose B,physics,1,0,4
+24,Aravind Muralidharan,Mission San Jose B,biology,1,0,4
+24,Ishaan Kabra,Mission San Jose B,other,1,0,4
+24,Ishaan Kabra,Mission San Jose B,math,0,1,-4
+24,Ishaan Kabra,Mission San Jose B,physics,1,0,4
+25,Gaurav Gupta,Amador Valley A,math,0,1,-4
+25,Gaurav Gupta,Amador Valley A,physics,0,1,-4
+25,Ritwik Aeka,Amador Valley A,biology,3,0,12
+25,Rohan Garg,Amador Valley A,chemistry,0,1,-4
+25,Rohan Garg,Amador Valley A,energy,1,0,4
+25,Rohan Garg,Amador Valley A,math,2,0,8
+25,Rohan Garg,Amador Valley A,physics,2,0,8
+25,Andrew Wen,Palo Alto,math,1,0,4
+25,Andrew Wen,Palo Alto,physics,2,0,8
+25,Kevin Pei,Palo Alto,chemistry,1,1,0
+25,Kevin Pei,Palo Alto,other,2,0,8
+25,Kevin Pei,Palo Alto,energy,2,0,8
+25,Kevin Pei,Palo Alto,math,1,0,4
+25,Rasia Yu,Palo Alto,biology,1,0,4
+26,Advaith Mopuri,Mission San Jose A,math,0,1,-4
+26,Roshan Annamalai,Mission San Jose A,chemistry,0,1,-4
+26,Roshan Annamalai,Mission San Jose A,other,3,0,12
+26,Roshan Annamalai,Mission San Jose A,energy,1,1,0
+26,Rutvik Arora,Mission San Jose A,physics,4,0,16
+26,Theenash Sengupta,Mission San Jose A,biology,2,1,4
+26,Theenash Sengupta,Mission San Jose A,chemistry,2,0,8
+26,Aarush Iyer,Mission San Jose B,chemistry,1,0,4
+26,Andy Liu,Mission San Jose B,math,2,0,8
+26,Aravind Muralidharan,Mission San Jose B,biology,0,1,-4
+26,Ishaan Kabra,Mission San Jose B,other,0,1,-4
+26,Ishaan Kabra,Mission San Jose B,energy,1,0,4
+26,Ishaan Kabra,Mission San Jose B,math,1,0,4
+27,Aaron Cohen,BASIS Silicon Valley A,other,0,1,-4
+27,Larry Zhao,BASIS Silicon Valley A,biology,2,0,8
+27,Larry Zhao,BASIS Silicon Valley A,energy,1,0,4
+27,Lucas Quan,BASIS Silicon Valley A,chemistry,1,0,4
+27,Lucas Quan,BASIS Silicon Valley A,energy,1,0,4
+27,Lucas Quan,BASIS Silicon Valley A,math,1,0,4
+27,Alexander Weaver,Davidson A,other,2,0,8
+27,Julian Kuang,Davidson A,energy,1,0,4
+27,Julian Kuang,Davidson A,math,2,1,4
+27,Lucas Wu,Davidson A,physics,4,0,16
+27,Yajur Chandar,Davidson A,biology,1,1,0
+27,Yajur Chandar,Davidson A,chemistry,3,1,8
+28,Advaith Mopuri,Mission San Jose A,energy,1,0,4
+28,Advaith Mopuri,Mission San Jose A,math,3,0,12
+28,Roshan Annamalai,Mission San Jose A,other,2,1,4
+28,Roshan Annamalai,Mission San Jose A,physics,3,0,12
+28,Rutvik Arora,Mission San Jose A,physics,1,0,4
+28,Theenash Sengupta,Mission San Jose A,biology,2,1,4
+28,Theenash Sengupta,Mission San Jose A,chemistry,2,2,0
+28,Andrew Wen,Palo Alto,energy,1,1,0
+28,Andrew Wen,Palo Alto,math,1,0,4
+28,Andrew Wen,Palo Alto,physics,0,2,-8
+28,Kevin Pei,Palo Alto,chemistry,1,0,4
+28,Kevin Pei,Palo Alto,energy,1,0,4
+28,Rasia Yu,Palo Alto,biology,2,0,8
+29,Aaron Cohen,BASIS Silicon Valley A,other,1,0,4
+29,Larry Zhao,BASIS Silicon Valley A,biology,1,1,0
+29,Lucas Quan,BASIS Silicon Valley A,chemistry,0,1,-4
+29,Lucas Quan,BASIS Silicon Valley A,other,0,1,-4
+29,Lucas Quan,BASIS Silicon Valley A,math,1,1,0
+29,Lucas Quan,BASIS Silicon Valley A,physics,1,1,0
+29,Advaith Mopuri,Mission San Jose A,energy,1,0,4
+29,Advaith Mopuri,Mission San Jose A,math,1,2,-4
+29,Advaith Mopuri,Mission San Jose A,physics,2,0,8
+29,Roshan Annamalai,Mission San Jose A,chemistry,1,0,4
+29,Roshan Annamalai,Mission San Jose A,other,1,1,0
+29,Roshan Annamalai,Mission San Jose A,physics,1,1,0
+29,Rutvik Arora,Mission San Jose A,math,1,0,4
+29,Theenash Sengupta,Mission San Jose A,biology,1,2,-4
+29,Theenash Sengupta,Mission San Jose A,chemistry,2,0,8
+29,Theenash Sengupta,Mission San Jose A,energy,1,0,4
+30,Alexander Weaver,Davidson A,other,0,1,-4
+30,Lucas Wu,Davidson A,energy,1,0,4
+30,Lucas Wu,Davidson A,math,1,0,4
+30,Lucas Wu,Davidson A,physics,1,0,4
+30,Yajur Chandar,Davidson A,chemistry,1,0,4
+30,Yajur Chandar,Davidson A,energy,1,0,4
+30,Advaith Mopuri,Mission San Jose A,math,2,0,8
+30,Roshan Annamalai,Mission San Jose A,other,3,0,12
+30,Roshan Annamalai,Mission San Jose A,physics,2,0,8
+30,Theenash Sengupta,Mission San Jose A,biology,3,1,8
+30,Theenash Sengupta,Mission San Jose A,chemistry,3,0,12
+30,Theenash Sengupta,Mission San Jose A,energy,1,1,0
+31,Julian Kuang,Davidson A,math,3,0,12
+31,Lucas Wu,Davidson A,chemistry,1,0,4
+31,Lucas Wu,Davidson A,energy,1,0,4
+31,Lucas Wu,Davidson A,physics,3,1,8
+31,Advaith Mopuri,Mission San Jose A,energy,0,1,-4
+31,Advaith Mopuri,Mission San Jose A,math,0,1,-4
+31,Advaith Mopuri,Mission San Jose A,physics,1,0,4
+31,Roshan Annamalai,Mission San Jose A,other,3,0,12
+31,Theenash Sengupta,Mission San Jose A,biology,3,1,8
+31,Theenash Sengupta,Mission San Jose A,chemistry,3,0,12
+31,Theenash Sengupta,Mission San Jose A,energy,0,1,-4
+32,Benton Vargo,Albany A,physics,1,0,4
+32,Nick Linzer,Albany A,other,1,0,4
+32,Tate Nomura,Albany A,energy,1,0,4
+32,Tate Nomura,Albany A,math,2,0,8
+32,Joshua Wu,Folsom City,chemistry,2,0,8
+32,Joshua Wu,Folsom City,other,3,1,8
+32,Joshua Wu,Folsom City,energy,1,0,4
+32,Kavin Anreddy,Folsom City,biology,3,0,12
+32,Kavin Anreddy,Folsom City,chemistry,1,0,4
+32,Kavin Anreddy,Folsom City,energy,1,0,4
+32,Kavin Anreddy,Folsom City,math,2,0,8
+32,Kavin Anreddy,Folsom City,physics,3,0,12
+32,Pushkal Mishra,Folsom City,biology,1,0,4
+33,Lina Kim,Albany B,physics,1,0,4
+33,Michael Hou,Albany B,energy,1,0,4
+33,Brandon Seo,Cupertino A,chemistry,4,0,16
+33,Brandon Seo,Cupertino A,math,1,0,4
+33,Jaanya Annapureddy,Cupertino A,biology,1,0,4
+33,Namita Gaidhani,Cupertino A,other,2,0,8
+33,Pranav Burra,Cupertino A,energy,1,0,4
+33,Pranav Burra,Cupertino A,math,1,0,4
+33,Pranav Burra,Cupertino A,physics,2,0,8
+33,Shubhi Jain,Cupertino A,biology,1,0,4
+33,Shubhi Jain,Cupertino A,energy,1,0,4
+33,Shubhi Jain,Cupertino A,physics,1,0,4
+34,Gaurav Gupta,Amador Valley A,chemistry,2,2,0
+34,Gaurav Gupta,Amador Valley A,energy,1,0,4
+34,Gaurav Gupta,Amador Valley A,math,1,0,4
+34,Gaurav Gupta,Amador Valley A,physics,2,1,4
+34,Ritwik Aeka,Amador Valley A,biology,3,0,12
+34,Ritwik Aeka,Amador Valley A,energy,1,0,4
+34,Rohan Garg,Amador Valley A,biology,1,0,4
+34,Rohan Garg,Amador Valley A,other,2,1,4
+34,Rohan Garg,Amador Valley A,math,2,0,8
+34,Rohan Garg,Amador Valley A,physics,1,0,4
+34,Samarth Jain,Amador Valley A,other,1,0,4
+34,Samarth Jain,Amador Valley A,energy,1,0,4
+34,Aarnav Rudiaiaju,BASIS Fremont,chemistry,2,0,8
+34,Aarnav Rudiaiaju,BASIS Fremont,physics,1,0,4
+34,Kevin Chen,BASIS Fremont,other,0,1,-4
+34,Lexing Liu,BASIS Fremont,other,0,1,-4
+34,Lexing Liu,BASIS Fremont,math,1,0,4
+35,Lusen Yao,Amador Valley B,math,1,0,4
+35,Olive Leuten,Amador Valley B,energy,1,0,4
+35,Pratham Mehta,Amador Valley B,energy,1,0,4
+35,Srijon Mandal,Amador Valley B,physics,1,0,4
+35,Aaron Cohen,BASIS Silicon Valley A,other,2,0,8
+35,Larry Zhao,BASIS Silicon Valley A,biology,4,0,16
+35,Larry Zhao,BASIS Silicon Valley A,energy,1,0,4
+35,Lucas Quan,BASIS Silicon Valley A,chemistry,4,0,16
+35,Lucas Quan,BASIS Silicon Valley A,other,2,0,8
+35,Lucas Quan,BASIS Silicon Valley A,energy,0,1,-4
+35,Lucas Quan,BASIS Silicon Valley A,math,2,0,8
+35,Lucas Quan,BASIS Silicon Valley A,physics,3,0,12
+35,Zanda Zhu,BASIS Silicon Valley A,math,1,0,4
+36,Keshav Venkatesh,American A,math,1,0,4
+36,Ryan Liu,American A,energy,1,0,4
+36,Anish Roy,Archbishop Mitty A,math,2,0,8
+36,Ben Zheng,Archbishop Mitty A,physics,2,0,8
+36,Richard Peng,Archbishop Mitty A,biology,4,0,16
+36,Richard Peng,Archbishop Mitty A,chemistry,4,0,16
+36,Richard Peng,Archbishop Mitty A,energy,2,0,8
+36,Richard Peng,Archbishop Mitty A,physics,1,1,0
+36,Sudhanva Belur,Archbishop Mitty A,other,2,1,4
+36,Sudhanva Belur,Archbishop Mitty A,math,1,0,4
+37,Aarav Gupta,American B,biology,1,0,4
+37,Sanjay Seshadri,American B,chemistry,1,0,4
+37,Eric Guo,BASIS Silicon Valley B,energy,1,0,4
+37,Ethan Guo,BASIS Silicon Valley B,math,3,0,12
+37,Jonathan Gao,BASIS Silicon Valley B,biology,2,2,0
+37,Jonathan Gao,BASIS Silicon Valley B,chemistry,2,0,8
+37,Jonathan Gao,BASIS Silicon Valley B,energy,2,0,8
+37,Liam Tran,BASIS Silicon Valley B,other,2,0,8
+37,Liam Tran,BASIS Silicon Valley B,math,1,0,4
+37,Liam Tran,BASIS Silicon Valley B,physics,4,0,16
+38,Advait Reddy Duvvuru,Archbishop Mitty B,biology,1,1,0
+38,Advait Reddy Duvvuru,Archbishop Mitty B,chemistry,1,0,4
+38,Advait Reddy Duvvuru,Archbishop Mitty B,other,4,0,16
+38,Advait Reddy Duvvuru,Archbishop Mitty B,math,1,0,4
+38,Saatvik Chauhan,Archbishop Mitty B,energy,1,0,4
+38,Saatvik Chauhan,Archbishop Mitty B,math,1,0,4
+38,Saatvik Chauhan,Archbishop Mitty B,physics,1,0,4
+38,Aariv Aggarwal,Irvington B,math,1,0,4
+38,Abhiram Kuchi,Irvington B,chemistry,2,0,8
+38,Abhiram Kuchi,Irvington B,energy,1,0,4
+38,Abhiram Kuchi,Irvington B,physics,3,0,12
+38,Gabriella Liu,Irvington B,biology,1,0,4
+38,Gabriella Liu,Irvington B,energy,1,0,4
+39,Kavin Jain,California,chemistry,1,0,4
+39,Kavin Jain,California,energy,0,1,-4
+39,Kavin Jain,California,physics,3,0,12
+39,Lucas Chi,California,biology,1,1,0
+39,Lucas Chi,California,energy,1,0,4
+39,Sushrut Pola,California,physics,1,0,4
+39,Vihaan Tigadikar,California,chemistry,1,0,4
+39,Vihaan Tigadikar,California,other,1,0,4
+39,Vihaan Tigadikar,California,energy,1,0,4
+39,Vihaan Tigadikar,California,math,1,0,4
+39,Kaiyuan Ding,GSB B,chemistry,1,0,4
+39,Kaiyuan Ding,GSB B,other,2,0,8
+39,Margaret Beery,GSB B,chemistry,1,0,4
+39,Max Li,GSB B,energy,1,0,4
+39,Max Li,GSB B,math,2,0,8
+40,Greta Nikolai,Chico A,biology,1,0,4
+40,Greta Nikolai,Chico A,chemistry,1,0,4
+40,Greta Nikolai,Chico A,other,1,1,0
+40,Greta Nikolai,Chico A,energy,2,0,8
+40,Greta Nikolai,Chico A,physics,2,0,8
+40,Lily Tao,Chico A,chemistry,1,0,4
+40,Lucas Lazarski,Chico A,physics,1,0,4
+40,Chun Tu Matthew Yu,Mountain House B,biology,1,0,4
+40,Chun Tu Matthew Yu,Mountain House B,other,1,0,4
+40,Neel Raina,Mountain House B,chemistry,2,0,8
+40,Neel Raina,Mountain House B,math,3,0,12
+40,Shreyas Mandayam,Mountain House B,biology,1,0,4
+40,Shreyas Mandayam,Mountain House B,energy,0,1,-4
+41,Devi Schumann,Chico B,other,0,1,-4
+41,Maddy Dietz,Chico B,chemistry,1,0,4
+41,Alan Chen,Dougherty Valley A,chemistry,2,0,8
+41,Ashwin Shekhar,Dougherty Valley A,energy,1,0,4
+41,Ashwin Shekhar,Dougherty Valley A,math,3,0,12
+41,Ashwin Shekhar,Dougherty Valley A,physics,3,0,12
+41,Keshav Verma,Dougherty Valley A,other,4,0,16
+41,Keshav Verma,Dougherty Valley A,energy,1,0,4
+41,Keshav Verma,Dougherty Valley A,physics,0,1,-4
+41,Soham Chatterjee,Dougherty Valley A,biology,3,1,8
+41,Soham Chatterjee,Dougherty Valley A,chemistry,1,0,4
+41,Soham Chatterjee,Dougherty Valley A,energy,1,0,4
+41,Soham Chatterjee,Dougherty Valley A,math,1,0,4
+42,Achuth Vinay,Clovis North,biology,1,1,0
+42,Achuth Vinay,Clovis North,math,1,0,4
+42,Justin Do,Clovis North,chemistry,3,1,8
+42,Justin Do,Clovis North,energy,1,0,4
+42,Justin Do,Clovis North,physics,0,1,-4
+42,Majed Almasri,Clovis North,energy,1,0,4
+42,Majed Almasri,Clovis North,physics,3,0,12
+42,Renard Wu,Clovis North,biology,2,0,8
+42,Renard Wu,Clovis North,other,3,0,12
+42,Angad Hayer,Quarry Lane A,other,0,1,-4
+42,Nyles Han,Quarry Lane A,energy,1,0,4
+42,Rayirth Lakharia,Quarry Lane A,chemistry,1,0,4
+43,Anya Sarode,Cupertino B,other,2,0,8
+43,Iurii Kirpichev,Cupertino B,chemistry,2,0,8
+43,Iurii Kirpichev,Cupertino B,other,1,0,4
+43,Iurii Kirpichev,Cupertino B,math,1,0,4
+43,Iurii Kirpichev,Cupertino B,physics,1,0,4
+43,Rosa Lee,Cupertino B,biology,2,1,4
+43,Josh Tittiranonda,Stanford Online,energy,1,0,4
+43,Josh Tittiranonda,Stanford Online,math,2,0,8
+43,Josh Tittiranonda,Stanford Online,physics,2,0,8
+43,Vikrant Chintanaboina,Stanford Online,biology,2,0,8
+43,Vikrant Chintanaboina,Stanford Online,chemistry,1,1,0
+43,Vikrant Chintanaboina,Stanford Online,physics,1,0,4
+43,Vinayak Vikram,Stanford Online,chemistry,1,0,4
+43,Vinayak Vikram,Stanford Online,other,0,2,-8
+43,Vinayak Vikram,Stanford Online,energy,2,0,8
+44,Alexander Weaver,Davidson A,chemistry,1,0,4
+44,Julian Kuang,Davidson A,other,0,1,-4
+44,Julian Kuang,Davidson A,math,3,0,12
+44,Lucas Wu,Davidson A,chemistry,2,0,8
+44,Lucas Wu,Davidson A,other,1,0,4
+44,Lucas Wu,Davidson A,physics,4,0,16
+44,Yajur Chandar,Davidson A,biology,2,1,4
+44,Yajur Chandar,Davidson A,chemistry,0,1,-4
+44,Yajur Chandar,Davidson A,energy,2,0,8
+44,Everett Tung,Homestead,other,3,0,12
+44,Ishaan Sinha,Homestead,math,1,0,4
+44,Leo Sitaraman,Homestead,energy,1,0,4
+44,Madeline Brown,Homestead,biology,2,0,8
+45,Ethan Chan,Davidson B,math,1,0,4
+45,Ethan Chan,Davidson B,physics,1,0,4
+45,Kaison Fong,Davidson B,math,2,0,8
+45,Shayan Sattarvand,Davidson B,biology,1,0,4
+45,Shayan Sattarvand,Davidson B,chemistry,3,1,8
+45,Shayan Sattarvand,Davidson B,other,1,0,4
+45,Shayan Sattarvand,Davidson B,energy,2,0,8
+45,Shayan Sattarvand,Davidson B,math,1,0,4
+45,Shayan Sattarvand,Davidson B,physics,1,0,4
+45,Hasita Venkat Raman,Mountain House A,biology,1,1,0
+45,Ibrahim Nadeem,Mountain House A,chemistry,1,0,4
+45,Ibrahim Nadeem,Mountain House A,other,1,0,4
+45,Ibrahim Nadeem,Mountain House A,energy,1,0,4
+45,Ibrahim Nadeem,Mountain House A,physics,2,0,8
+46,Adhrit Viswanth Balaji,Dougherty Valley B,other,2,0,8
+46,Adhrit Viswanth Balaji,Dougherty Valley B,math,0,1,-4
+46,Adhrit Viswanth Balaji,Dougherty Valley B,physics,1,1,0
+46,Andrew Sun,Dougherty Valley B,math,1,0,4
+46,Armaan Syed,Dougherty Valley B,chemistry,3,0,12
+46,Armaan Syed,Dougherty Valley B,math,2,0,8
+46,Tannishtha Chakraborthy,Dougherty Valley B,biology,1,0,4
+46,Andrew Liu,Lynbrook A,biology,2,1,4
+46,Andrew Liu,Lynbrook A,other,1,0,4
+46,Andrew Liu,Lynbrook A,energy,3,0,12
+46,Evan Liu,Lynbrook A,chemistry,1,0,4
+46,Philip Kohr,Lynbrook A,other,1,1,0
+46,Ryan Bansal,Lynbrook A,physics,1,0,4
+46,Sohil Rathi,Lynbrook A,math,1,0,4
+46,Sohil Rathi,Lynbrook A,physics,2,0,8
+47,Swaraj Adhikari,El Camino A,biology,1,0,4
+47,Swaraj Adhikari,El Camino A,chemistry,1,0,4
+47,Swaraj Adhikari,El Camino A,other,0,1,-4
+47,Swaraj Adhikari,El Camino A,energy,2,0,8
+47,Swaraj Adhikari,El Camino A,math,2,0,8
+47,Swaraj Adhikari,El Camino A,physics,0,1,-4
+47,Abhinav Krishna Senthil Kumar,Mira Loma A,biology,1,0,4
+47,Abhinav Krishna Senthil Kumar,Mira Loma A,chemistry,3,0,12
+47,Abhinav Krishna Senthil Kumar,Mira Loma A,other,2,1,4
+47,Bryan Nasr,Mira Loma A,physics,2,0,8
+47,Krish Singh,Mira Loma A,biology,2,1,4
+47,Krish Singh,Mira Loma A,energy,1,0,4
+47,Sudeep Suresh,Mira Loma A,math,2,0,8
+47,Sudeep Suresh,Mira Loma A,physics,2,0,8
+48,Billy Battogtokh,El Camino B,math,3,0,12
+48,Grant Kitchen,El Camino B,biology,1,0,4
+48,Grant Kitchen,El Camino B,chemistry,1,1,0
+48,Grant Kitchen,El Camino B,other,1,0,4
+48,Athithan Elamaran,Foothill A,physics,2,0,8
+48,Bhagirath Bandigari,Foothill A,biology,1,1,0
+48,Bhagirath Bandigari,Foothill A,energy,2,0,8
+48,Bhagirath Bandigari,Foothill A,physics,0,1,-4
+48,Jake Nguyen,Foothill A,chemistry,3,0,12
+48,Parv Surjan,Foothill A,physics,1,0,4
+48,Shashank Vedula,Foothill A,biology,1,1,0
+48,Shashank Vedula,Foothill A,other,3,0,12
+48,Shashank Vedula,Foothill A,energy,1,0,4
+49,Joshua Huang,Evergreen Valley,biology,1,0,4
+49,Joshua Huang,Evergreen Valley,other,1,0,4
+49,Joshua Huang,Evergreen Valley,math,1,0,4
+49,Ali Sherazi,GSB A,chemistry,1,0,4
+49,Ali Sherazi,GSB A,other,1,1,0
+49,Kabir Mahajan,GSB A,biology,3,0,12
+49,Kabir Mahajan,GSB A,chemistry,1,0,4
+49,Kabir Mahajan,GSB A,energy,1,0,4
+49,Kabir Mahajan,GSB A,math,1,0,4
+49,Neil Dixit,GSB A,chemistry,1,0,4
+49,Neil Dixit,GSB A,energy,1,0,4
+49,Neil Dixit,GSB A,math,1,0,4
+49,Neil Dixit,GSB A,physics,4,0,16
+49,Olivia Kim,GSB A,energy,1,0,4
+49,Olivia Kim,GSB A,math,1,0,4
+50,Austin Lin,Foothill B,chemistry,2,0,8
+50,Austin Lin,Foothill B,other,1,0,4
+50,Austin Lin,Foothill B,math,2,0,8
+50,Sahana Venkat,Foothill B,biology,2,1,4
+50,Sahana Venkat,Foothill B,other,1,0,4
+50,Sahana Venkat,Foothill B,energy,1,0,4
+50,Shulin Lu,Foothill B,biology,1,0,4
+50,Shulin Lu,Foothill B,physics,2,0,8
+50,Aiden Gao,Los Gatos,math,2,0,8
+50,Aiden Gao,Los Gatos,physics,1,0,4
+50,Atharava Pandey,Los Gatos,biology,1,0,4
+50,Atharava Pandey,Los Gatos,energy,1,0,4
+50,James Smith,Los Gatos,physics,1,0,4
+51,Ishaan Agrawal,Irvington A,other,1,0,4
+51,Ishaan Agrawal,Irvington A,physics,1,0,4
+51,Matthew Wang,Irvington A,chemistry,2,0,8
+51,Matthew Wang,Irvington A,energy,2,0,8
+51,Advaith Mopuri,Mission San Jose A,math,3,0,12
+51,Advaith Mopuri,Mission San Jose A,physics,1,0,4
+51,Roshan Annamalai,Mission San Jose A,other,3,1,8
+51,Roshan Annamalai,Mission San Jose A,physics,2,1,4
+51,Rutvik Arora,Mission San Jose A,energy,0,1,-4
+51,Theenash Sengupta,Mission San Jose A,biology,3,1,8
+51,Theenash Sengupta,Mission San Jose A,chemistry,2,1,4
+51,Theenash Sengupta,Mission San Jose A,energy,1,0,4
+52,Matthew Yuan,Lynbrook B,biology,2,1,4
+52,Matthew Yuan,Lynbrook B,energy,1,0,4
+52,Matthew Yuan,Lynbrook B,math,1,0,4
+52,Matthew Yuan,Lynbrook B,physics,1,0,4
+52,Rishab Medepalli,Lynbrook B,chemistry,1,0,4
+52,Rishab Medepalli,Lynbrook B,energy,1,0,4
+52,Sophia Fan,Lynbrook B,chemistry,3,0,12
+52,Sophia Fan,Lynbrook B,energy,1,0,4
+52,Vincent Qin,Lynbrook B,biology,1,0,4
+52,Vincent Qin,Lynbrook B,other,1,0,4
+52,Vincent Qin,Lynbrook B,math,2,0,8
+52,Arthur Chang,Miller,math,1,0,4
+52,Arthur Chang,Miller,physics,2,0,8
+52,Asad Rahman,Miller,other,1,0,4
+52,Pranik Biswas,Miller,biology,1,0,4
+52,Pranik Biswas,Miller,other,2,0,8
+52,Shien Fang,Miller,physics,1,0,4
+53,Jeeva Karthy,Mira Loma B,energy,1,0,4
+53,Kapilan Karunakaran,Mira Loma B,math,1,0,4
+53,Rohith Gonuguntla,Mira Loma B,energy,1,0,4
+53,Andrew Wen,Palo Alto,chemistry,1,0,4
+53,Andrew Wen,Palo Alto,math,3,0,12
+53,Andrew Wen,Palo Alto,physics,4,0,16
+53,Kevin Pei,Palo Alto,biology,1,0,4
+53,Kevin Pei,Palo Alto,chemistry,3,0,12
+53,Kevin Pei,Palo Alto,other,4,0,16
+53,Rasia Yu,Palo Alto,biology,2,1,4
+54,Aarush Iyer,Mission San Jose B,chemistry,1,0,4
+54,Aarush Iyer,Mission San Jose B,other,0,1,-4
+54,Andy Liu,Mission San Jose B,chemistry,1,0,4
+54,Andy Liu,Mission San Jose B,energy,1,0,4
+54,Andy Liu,Mission San Jose B,physics,1,1,0
+54,Aravind Muralidharan,Mission San Jose B,biology,2,2,0
+54,Aravind Muralidharan,Mission San Jose B,other,1,0,4
+54,Aravind Muralidharan,Mission San Jose B,energy,1,0,4
+54,Ishaan Kabra,Mission San Jose B,other,1,1,0
+54,Ishaan Kabra,Mission San Jose B,math,1,0,4
+54,Ishaan Kabra,Mission San Jose B,physics,1,0,4
+54,Alex Ge,Saratoga,chemistry,1,0,4
+54,Alex Ge,Saratoga,other,1,0,4
+54,Alex Ge,Saratoga,energy,1,0,4
+54,Ethan Pan,Saratoga,biology,1,0,4
+54,Ethan Pan,Saratoga,other,1,0,4
+54,Max Rombakh,Saratoga,physics,2,1,4
+54,Quinn Gifford,Saratoga,chemistry,1,0,4
+54,Quinn Gifford,Saratoga,energy,0,1,-4
+54,Quinn Gifford,Saratoga,math,3,0,12
+55,Alex Luo,Quarry Lane B,physics,1,0,4
+55,Dhruv Subramanian,Quarry Lane B,biology,1,0,4
+55,Elaine Gu,Quarry Lane B,math,3,0,12
+55,Gautham Doddapaneni,Quarry Lane B,biology,1,0,4
+55,Gautham Doddapaneni,Quarry Lane B,chemistry,1,0,4
+55,Gautham Doddapaneni,Quarry Lane B,physics,1,0,4
+55,Neel Gupta,Quarry Lane B,biology,1,0,4
+55,Neel Gupta,Quarry Lane B,other,2,0,8
+55,Neel Gupta,Quarry Lane B,energy,3,0,12
+55,Neel Gupta,Quarry Lane B,physics,1,0,4
+55,Navya Kayath,San Mateo,biology,1,0,4
+56,Aaron Cohen,BASIS Silicon Valley A,other,1,0,4
+56,Aaron Cohen,BASIS Silicon Valley A,physics,0,1,-4
+56,Larry Zhao,BASIS Silicon Valley A,biology,4,0,16
+56,Lucas Quan,BASIS Silicon Valley A,chemistry,4,0,16
+56,Lucas Quan,BASIS Silicon Valley A,other,2,0,8
+56,Lucas Quan,BASIS Silicon Valley A,energy,2,0,8
+56,Lucas Quan,BASIS Silicon Valley A,math,3,0,12
+56,Lucas Quan,BASIS Silicon Valley A,physics,2,0,8
+56,Aiden Gao,Los Gatos,physics,1,0,4
+56,Anya Agarwal,Los Gatos,chemistry,0,1,-4
+56,Atharava Pandey,Los Gatos,chemistry,0,1,-4
+56,James Smith,Los Gatos,physics,1,0,4
+57,Tate Nomura,Albany A,other,1,0,4
+57,Tate Nomura,Albany A,math,1,0,4
+57,Tate Nomura,Albany A,physics,1,0,4
+57,Alex Ge,Saratoga,chemistry,2,0,8
+57,Alex Ge,Saratoga,other,1,0,4
+57,Alex Ge,Saratoga,energy,3,0,12
+57,Ethan Pan,Saratoga,biology,2,1,4
+57,Max Rombakh,Saratoga,chemistry,1,1,0
+57,Max Rombakh,Saratoga,other,2,0,8
+57,Max Rombakh,Saratoga,math,1,0,4
+57,Max Rombakh,Saratoga,physics,2,0,8
+57,Quinn Gifford,Saratoga,biology,1,0,4
+57,Quinn Gifford,Saratoga,math,1,0,4
+57,Warren Chee,Saratoga,math,1,0,4
+57,Warren Chee,Saratoga,physics,0,1,-4
+58,Lina Kim,Albany B,chemistry,1,0,4
+58,Everett Tung,Homestead,biology,1,0,4
+58,Everett Tung,Homestead,chemistry,1,0,4
+58,Everett Tung,Homestead,other,4,0,16
+58,Ishaan Sinha,Homestead,chemistry,0,1,-4
+58,Ishaan Sinha,Homestead,energy,1,0,4
+58,Ishaan Sinha,Homestead,math,0,1,-4
+58,Ishaan Sinha,Homestead,physics,2,0,8
+58,Leo Sitaraman,Homestead,math,1,0,4
+58,Leo Sitaraman,Homestead,physics,2,0,8
+58,Madeline Brown,Homestead,biology,1,0,4
+58,Madeline Brown,Homestead,energy,1,0,4
+59,Gaurav Gupta,Amador Valley A,chemistry,0,1,-4
+59,Gaurav Gupta,Amador Valley A,other,0,1,-4
+59,Gaurav Gupta,Amador Valley A,energy,1,0,4
+59,Gaurav Gupta,Amador Valley A,physics,1,0,4
+59,Ritwik Aeka,Amador Valley A,biology,2,1,4
+59,Ritwik Aeka,Amador Valley A,other,1,0,4
+59,Rohan Garg,Amador Valley A,biology,0,1,-4
+59,Rohan Garg,Amador Valley A,chemistry,2,1,4
+59,Rohan Garg,Amador Valley A,other,1,0,4
+59,Rohan Garg,Amador Valley A,energy,0,1,-4
+59,Rohan Garg,Amador Valley A,math,3,1,8
+59,Rohan Garg,Amador Valley A,physics,1,1,0
+59,Samarth Jain,Amador Valley A,energy,1,0,4
+59,Josh Tittiranonda,Stanford Online,biology,1,1,0
+59,Josh Tittiranonda,Stanford Online,physics,1,0,4
+59,Vikrant Chintanaboina,Stanford Online,chemistry,1,0,4
+59,Vikrant Chintanaboina,Stanford Online,other,1,0,4
+59,Vikrant Chintanaboina,Stanford Online,energy,1,0,4
+59,Vinayak Vikram,Stanford Online,biology,0,1,-4
+59,Vinayak Vikram,Stanford Online,chemistry,1,0,4
+59,Vinayak Vikram,Stanford Online,other,1,0,4
+59,Vinayak Vikram,Stanford Online,energy,0,2,-8
+60,Lusen Yao,Amador Valley B,math,1,0,4
+60,Olive Leuten,Amador Valley B,other,2,0,8
+60,Pratham Mehta,Amador Valley B,chemistry,1,0,4
+60,Srijon Mandal,Amador Valley B,biology,1,0,4
+60,Srijon Mandal,Amador Valley B,physics,2,0,8
+60,Abhinav Krishna Senthil Kumar,Mira Loma A,chemistry,3,0,12
+60,Abhinav Krishna Senthil Kumar,Mira Loma A,other,1,0,4
+60,Abhinav Krishna Senthil Kumar,Mira Loma A,energy,2,0,8
+60,Abhinav Krishna Senthil Kumar,Mira Loma A,math,2,0,8
+60,Bryan Nasr,Mira Loma A,biology,1,0,4
+60,Bryan Nasr,Mira Loma A,other,1,0,4
+60,Bryan Nasr,Mira Loma A,physics,2,0,8
+60,Krish Singh,Mira Loma A,biology,1,1,0
+60,Sudeep Suresh,Mira Loma A,physics,0,1,-4
+61,Abdul Muhaimin,American A,energy,1,0,4
+61,Abhinav Shivalli,American A,biology,1,0,4
+61,Abhinav Shivalli,American A,energy,1,1,0
+61,Keshav Venkatesh,American A,chemistry,0,1,-4
+61,Keshav Venkatesh,American A,math,3,0,12
+61,Keshav Venkatesh,American A,physics,3,0,12
+61,Ryan Liu,American A,biology,0,1,-4
+61,Srithan Devarashetty,American A,biology,0,1,-4
+61,Chun Tu Matthew Yu,Mountain House B,other,1,0,4
+61,Neel Raina,Mountain House B,biology,1,0,4
+61,Neel Raina,Mountain House B,chemistry,2,0,8
+61,Neel Raina,Mountain House B,other,1,0,4
+61,Neel Raina,Mountain House B,energy,1,0,4
+61,Neel Raina,Mountain House B,physics,1,0,4
+61,Shreyas Mandayam,Mountain House B,chemistry,0,1,-4
+61,Shreyas Mandayam,Mountain House B,other,1,0,4
+61,Steven Tang,Mountain House B,biology,1,0,4
+62,Aarav Gupta,American B,chemistry,0,1,-4
+62,Sanjay Seshadri,American B,other,1,0,4
+62,Sudesh Srivatsan,American B,math,1,0,4
+62,Thomas Nguyen,American B,chemistry,0,1,-4
+62,Thomas Nguyen,American B,energy,1,0,4
+62,Angad Hayer,Quarry Lane A,biology,3,0,12
+62,Angad Hayer,Quarry Lane A,chemistry,3,0,12
+62,Angad Hayer,Quarry Lane A,other,1,0,4
+62,Angad Hayer,Quarry Lane A,math,1,0,4
+62,Nyasa Gupta,Quarry Lane A,physics,3,0,12
+62,Rayirth Lakharia,Quarry Lane A,chemistry,0,1,-4
+62,Rayirth Lakharia,Quarry Lane A,other,1,0,4
+63,Anish Roy,Archbishop Mitty A,math,2,0,8
+63,Ben Zheng,Archbishop Mitty A,physics,1,0,4
+63,Richard Peng,Archbishop Mitty A,biology,2,1,4
+63,Richard Peng,Archbishop Mitty A,chemistry,1,1,0
+63,Richard Peng,Archbishop Mitty A,energy,2,0,8
+63,Sudhanva Belur,Archbishop Mitty A,other,2,0,8
+63,Sudhanva Belur,Archbishop Mitty A,energy,0,1,-4
+63,Andrew Liu,Lynbrook A,biology,2,0,8
+63,Andrew Liu,Lynbrook A,other,1,0,4
+63,Andrew Liu,Lynbrook A,energy,1,0,4
+63,Evan Liu,Lynbrook A,chemistry,2,0,8
+63,Evan Liu,Lynbrook A,energy,0,1,-4
+63,Philip Kohr,Lynbrook A,other,0,1,-4
+63,Ryan Bansal,Lynbrook A,math,1,0,4
+63,Sohil Rathi,Lynbrook A,chemistry,1,0,4
+63,Sohil Rathi,Lynbrook A,other,1,0,4
+63,Sohil Rathi,Lynbrook A,math,1,0,4
+63,Sohil Rathi,Lynbrook A,physics,3,1,8
+64,Advait Reddy Duvvuru,Archbishop Mitty B,biology,1,0,4
+64,Advait Reddy Duvvuru,Archbishop Mitty B,chemistry,1,0,4
+64,Advait Reddy Duvvuru,Archbishop Mitty B,other,2,1,4
+64,Ruoyu Zhou,Archbishop Mitty B,math,1,0,4
+64,Ruoyu Zhou,Archbishop Mitty B,physics,1,0,4
+64,Saatvik Chauhan,Archbishop Mitty B,biology,1,0,4
+64,Saatvik Chauhan,Archbishop Mitty B,math,2,0,8
+64,Saatvik Chauhan,Archbishop Mitty B,physics,2,0,8
+64,Samiha Das,Archbishop Mitty B,chemistry,1,0,4
+64,Yixin Xu,Archbishop Mitty B,biology,1,0,4
+64,Devi Schumann,Chico B,chemistry,0,1,-4
+64,Devi Schumann,Chico B,physics,1,0,4
+64,Eli Hu,Chico B,energy,1,0,4
+64,Maddy Dietz,Chico B,energy,1,1,0
+65,Aarnav Rudraraju,BASIS Fremont,biology,1,0,4
+65,Aarnav Rudraraju,BASIS Fremont,chemistry,1,0,4
+65,Aarnav Rudraraju,BASIS Fremont,energy,2,1,4
+65,Aarnav Rudraraju,BASIS Fremont,physics,0,1,-4
+65,Kevin Chen,BASIS Fremont,biology,1,0,4
+65,Kevin Chen,BASIS Fremont,chemistry,1,0,4
+65,Kevin Chen,BASIS Fremont,other,2,0,8
+65,Lexing Liu,BASIS Fremont,physics,1,0,4
+65,Ibrahim Nadeem,Mountain House A,chemistry,0,2,-8
+65,Ibrahim Nadeem,Mountain House A,other,1,0,4
+65,Ibrahim Nadeem,Mountain House A,math,1,0,4
+65,Ibrahim Nadeem,Mountain House A,physics,3,0,12
+65,Sampriti Brahma,Mountain House A,biology,1,0,4
+65,Sampriti Brahma,Mountain House A,chemistry,1,0,4
+66,Eric Guo,BASIS Silicon Valley B,chemistry,1,0,4
+66,Ethan Guo,BASIS Silicon Valley B,math,1,0,4
+66,Jonathan Gao,BASIS Silicon Valley B,biology,0,1,-4
+66,Jonathan Gao,BASIS Silicon Valley B,physics,1,0,4
+66,Liam Tran,BASIS Silicon Valley B,chemistry,0,2,-8
+66,Liam Tran,BASIS Silicon Valley B,other,1,0,4
+66,Liam Tran,BASIS Silicon Valley B,energy,1,0,4
+66,Liam Tran,BASIS Silicon Valley B,physics,1,0,4
+66,Ali Sherazi,GSB A,other,1,0,4
+66,Ali Sherazi,GSB A,energy,1,0,4
+66,Elliot Boyce,GSB A,biology,2,0,8
+66,Elliot Boyce,GSB A,chemistry,1,0,4
+66,Kabir Mahajan,GSB A,biology,2,0,8
+66,Kabir Mahajan,GSB A,chemistry,1,0,4
+66,Kabir Mahajan,GSB A,other,1,0,4
+66,Kabir Mahajan,GSB A,physics,1,0,4
+66,Neil Dixit,GSB A,chemistry,1,0,4
+66,Neil Dixit,GSB A,other,1,1,0
+66,Neil Dixit,GSB A,energy,1,0,4
+66,Neil Dixit,GSB A,math,3,0,12
+67,Kavin Jain,California,chemistry,0,1,-4
+67,Kavin Jain,California,physics,2,0,8
+67,Vihaan Tigadikar,California,chemistry,0,1,-4
+67,Vihaan Tigadikar,California,other,1,0,4
+67,Advaith Mopuri,Mission San Jose A,chemistry,1,1,0
+67,Advaith Mopuri,Mission San Jose A,math,2,0,8
+67,Roshan Annamalai,Mission San Jose A,other,2,0,8
+67,Roshan Annamalai,Mission San Jose A,energy,1,0,4
+67,Roshan Annamalai,Mission San Jose A,physics,2,0,8
+67,Rutvik Arora,Mission San Jose A,other,0,1,-4
+67,Rutvik Arora,Mission San Jose A,math,1,0,4
+67,Theenash Sengupta,Mission San Jose A,biology,2,1,4
+67,Theenash Sengupta,Mission San Jose A,chemistry,2,0,8
+67,Theenash Sengupta,Mission San Jose A,energy,2,0,8
+68,Greta Nikolai,Chico A,other,1,0,4
+68,Lucas Lazarski,Chico A,math,1,0,4
+68,Adhrit Viswanth Balaji,Dougherty Valley B,chemistry,1,0,4
+68,Adhrit Viswanth Balaji,Dougherty Valley B,energy,1,0,4
+68,Adhrit Viswanth Balaji,Dougherty Valley B,math,1,0,4
+68,Adhrit Viswanth Balaji,Dougherty Valley B,physics,1,0,4
+68,Andrew Sun,Dougherty Valley B,other,1,0,4
+68,Andrew Sun,Dougherty Valley B,math,2,0,8
+68,Aneeka Rao,Dougherty Valley B,chemistry,1,0,4
+68,Armaan Syed,Dougherty Valley B,biology,1,0,4
+68,Armaan Syed,Dougherty Valley B,energy,1,0,4
+68,Tannishtha Chakraborthy,Dougherty Valley B,biology,3,0,12
+68,Tannishtha Chakraborthy,Dougherty Valley B,chemistry,1,0,4
+68,Tannishtha Chakraborthy,Dougherty Valley B,physics,1,0,4
+69,Achuth Vinay,Clovis North,biology,3,0,12
+69,Achuth Vinay,Clovis North,math,2,0,8
+69,Justin Do,Clovis North,chemistry,4,0,16
+69,Justin Do,Clovis North,energy,2,0,8
+69,Justin Do,Clovis North,physics,1,0,4
+69,Majed Almasri,Clovis North,other,1,0,4
+69,Majed Almasri,Clovis North,physics,2,0,8
+69,Meera Malkar,Clovis North,other,1,0,4
+69,Renard Wu,Clovis North,other,1,0,4
+69,Zichao Zhou,Evergreen Valley,other,1,0,4
+69,Zichao Zhou,Evergreen Valley,physics,1,1,0
+70,Brandon Seo,Cupertino A,chemistry,1,0,4
+70,Brandon Seo,Cupertino A,energy,1,0,4
+70,Namita Gaidhani,Cupertino A,other,1,0,4
+70,Pranav Burra,Cupertino A,biology,0,1,-4
+70,Pranav Burra,Cupertino A,chemistry,1,0,4
+70,Pranav Burra,Cupertino A,math,2,0,8
+70,Pranav Burra,Cupertino A,physics,3,0,12
+70,Athithan Elamaran,Foothill A,math,2,0,8
+70,Athithan Elamaran,Foothill A,physics,1,1,0
+70,Bhagirath Bandigari,Foothill A,biology,1,0,4
+70,Bhagirath Bandigari,Foothill A,chemistry,0,1,-4
+70,Jake Nguyen,Foothill A,biology,1,0,4
+70,Jake Nguyen,Foothill A,chemistry,2,1,4
+70,Jake Nguyen,Foothill A,other,1,0,4
+70,Jake Nguyen,Foothill A,energy,1,0,4
+70,Shashank Vedula,Foothill A,biology,2,0,8
+70,Shashank Vedula,Foothill A,other,1,1,0
+70,Shashank Vedula,Foothill A,energy,1,0,4
+71,Elaine Chen,Cupertino B,physics,1,0,4
+71,Rosa Lee,Cupertino B,biology,3,0,12
+71,Bourne Zhou,Davidson B,chemistry,1,0,4
+71,Bourne Zhou,Davidson B,math,1,0,4
+71,Ethan Chan,Davidson B,physics,1,0,4
+71,Kaison Fong,Davidson B,math,3,0,12
+71,Kaison Fong,Davidson B,physics,2,0,8
+71,Shayan Sattarvand,Davidson B,biology,1,0,4
+71,Shayan Sattarvand,Davidson B,chemistry,3,0,12
+71,Shayan Sattarvand,Davidson B,other,3,0,12
+71,Shayan Sattarvand,Davidson B,energy,2,0,8
+72,Alexander Weaver,Davidson A,other,3,0,12
+72,Alexander Weaver,Davidson A,energy,1,0,4
+72,Filip Ramazan,Davidson A,biology,3,0,12
+72,Filip Ramazan,Davidson A,chemistry,0,1,-4
+72,Filip Ramazan,Davidson A,math,0,1,-4
+72,Julian Kuang,Davidson A,chemistry,1,0,4
+72,Julian Kuang,Davidson A,energy,1,0,4
+72,Julian Kuang,Davidson A,math,3,0,12
+72,Julian Kuang,Davidson A,physics,2,0,8
+72,Lucas Wu,Davidson A,biology,1,0,4
+72,Lucas Wu,Davidson A,chemistry,2,0,8
+72,Lucas Wu,Davidson A,other,1,0,4
+72,Lucas Wu,Davidson A,energy,1,0,4
+72,Lucas Wu,Davidson A,physics,1,0,4
+72,Grant Kitchen,El Camino B,physics,1,0,4
+73,Ashwin Shekhar,Dougherty Valley A,math,2,0,8
+73,Ashwin Shekhar,Dougherty Valley A,physics,2,0,8
+73,Keshav Verma,Dougherty Valley A,other,3,0,12
+73,Soham Chatterjee,Dougherty Valley A,biology,3,0,12
+73,Andrew Wen,Palo Alto,biology,1,0,4
+73,Andrew Wen,Palo Alto,chemistry,3,0,12
+73,Andrew Wen,Palo Alto,math,2,0,8
+73,Andrew Wen,Palo Alto,physics,2,0,8
+73,Kevin Pei,Palo Alto,chemistry,1,0,4
+73,Kevin Pei,Palo Alto,other,1,0,4
+73,Kevin Pei,Palo Alto,energy,3,0,12
+74,Ryan Chen,El Camino A,chemistry,1,0,4
+74,Swaraj Adhikari,El Camino A,chemistry,1,0,4
+74,Swaraj Adhikari,El Camino A,other,3,0,12
+74,Swaraj Adhikari,El Camino A,math,1,0,4
+74,Swaraj Adhikari,El Camino A,physics,3,0,12
+74,Ashwin Ganapathi,Foothill B,math,0,1,-4
+74,Austin Lin,Foothill B,biology,1,0,4
+74,Austin Lin,Foothill B,energy,2,0,8
+74,Sahana Venkat,Foothill B,biology,1,0,4
+74,Shulin Lu,Foothill B,chemistry,1,1,0
+74,Shulin Lu,Foothill B,physics,1,0,4
+75,Joshua Wu,Folsom City,chemistry,2,0,8
+75,Joshua Wu,Folsom City,other,3,0,12
+75,Joshua Wu,Folsom City,energy,3,0,12
+75,Joshua Wu,Folsom City,math,1,0,4
+75,Joshua Wu,Folsom City,physics,1,0,4
+75,Kavin Anreddy,Folsom City,biology,2,0,8
+75,Kavin Anreddy,Folsom City,chemistry,1,0,4
+75,Kavin Anreddy,Folsom City,other,1,0,4
+75,Kavin Anreddy,Folsom City,math,1,0,4
+75,Kavin Anreddy,Folsom City,physics,2,0,8
+75,Pushkal Mishra,Folsom City,biology,1,0,4
+75,Satvik Chakkapalli,Folsom City,biology,1,0,4
+75,Krisha Gupta,San Mateo,chemistry,1,0,4
+75,Surbhi Sakshi,San Mateo,physics,0,1,-4
+76,Kaiyuan Ding,GSB B,other,1,0,4
+76,Kaiyuan Ding,GSB B,energy,2,0,8
+76,Kaiyuan Ding,GSB B,physics,1,0,4
+76,Margaret Beery,GSB B,chemistry,2,0,8
+76,Max Li,GSB B,math,1,0,4
+76,Arthur Chang,Miller,chemistry,2,0,8
+76,Arthur Chang,Miller,math,3,0,12
+76,Arthur Chang,Miller,physics,1,0,4
+76,Pranik Biswas,Miller,biology,2,0,8
+76,Pranik Biswas,Miller,other,1,0,4
+76,Pranik Biswas,Miller,physics,1,0,4
+76,Shien Fang,Miller,biology,2,0,8
+76,Shien Fang,Miller,other,1,0,4
+76,Shien Fang,Miller,energy,1,0,4
+77,Arjun Murugappan,Irvington A,biology,1,1,0
+77,Arjun Murugappan,Irvington A,chemistry,1,0,4
+77,Arjun Murugappan,Irvington A,energy,1,0,4
+77,Ishaan Agrawal,Irvington A,biology,1,0,4
+77,Ishaan Agrawal,Irvington A,math,2,0,8
+77,Ishaan Agrawal,Irvington A,physics,3,0,12
+77,Matthew Wang,Irvington A,chemistry,0,1,-4
+77,Matthew Wang,Irvington A,other,1,0,4
+77,Matthew Wang,Irvington A,math,0,1,-4
+77,Roland Pratt,Irvington A,physics,1,0,4
+77,Matthew Yuan,Lynbrook B,biology,1,2,-4
+77,Matthew Yuan,Lynbrook B,chemistry,1,0,4
+77,Matthew Yuan,Lynbrook B,other,1,0,4
+77,Matthew Yuan,Lynbrook B,math,1,0,4
+77,Matthew Yuan,Lynbrook B,physics,0,1,-4
+77,Sophia Fan,Lynbrook B,chemistry,2,0,8
+77,Sophia Fan,Lynbrook B,energy,1,1,0
+77,Vincent Qin,Lynbrook B,other,2,0,8
+78,Aariv Aggarwal,Irvington B,energy,0,1,-4
+78,Aariv Aggarwal,Irvington B,math,1,0,4
+78,Abhiram Kuchi,Irvington B,chemistry,1,0,4
+78,Abhiram Kuchi,Irvington B,other,1,0,4
+78,Abhiram Kuchi,Irvington B,energy,1,0,4
+78,Gabriella Liu,Irvington B,biology,1,0,4
+78,Mahi Kumar,Irvington B,math,1,0,4
+78,Jeeva Karthy,Mira Loma B,biology,1,0,4
+78,Jeeva Karthy,Mira Loma B,chemistry,1,0,4
+78,Jeeva Karthy,Mira Loma B,other,1,0,4
+78,Jeeva Karthy,Mira Loma B,energy,1,0,4
+78,Jeeva Karthy,Mira Loma B,physics,1,0,4
+78,Kapilan Karunakaran,Mira Loma B,biology,1,0,4
+78,Kapilan Karunakaran,Mira Loma B,chemistry,2,0,8
+78,Kapilan Karunakaran,Mira Loma B,other,1,0,4
+78,Kapilan Karunakaran,Mira Loma B,energy,1,0,4
+78,Kapilan Karunakaran,Mira Loma B,physics,1,0,4
+78,Rohith Gonuguntla,Mira Loma B,biology,1,0,4
+78,Sai-Sanaathan Vemireddy,Mira Loma B,math,1,0,4
+79,Aarush Iyer,Mission San Jose B,energy,2,0,8
+79,Andy Liu,Mission San Jose B,biology,2,0,8
+79,Andy Liu,Mission San Jose B,chemistry,1,0,4
+79,Andy Liu,Mission San Jose B,other,1,0,4
+79,Andy Liu,Mission San Jose B,math,1,0,4
+79,Andy Liu,Mission San Jose B,physics,2,0,8
+79,Aravind Muralidharan,Mission San Jose B,biology,0,1,-4
+79,Aravind Muralidharan,Mission San Jose B,chemistry,1,1,0
+79,Ishaan Kabra,Mission San Jose B,biology,1,0,4
+79,Ishaan Kabra,Mission San Jose B,chemistry,0,1,-4
+79,Ishaan Kabra,Mission San Jose B,other,1,2,-4
+79,Ishaan Kabra,Mission San Jose B,energy,1,0,4
+79,Ishaan Kabra,Mission San Jose B,math,3,0,12
+79,Ishaan Kabra,Mission San Jose B,physics,2,0,8
+79,Alex Luo,Quarry Lane B,chemistry,1,0,4
+79,Alex Luo,Quarry Lane B,physics,0,1,-4
+79,Dhruv Subramanian,Quarry Lane B,biology,1,0,4
+79,Dhruv Subramanian,Quarry Lane B,other,1,0,4
+79,Elaine Gu,Quarry Lane B,chemistry,1,0,4
+79,Elaine Gu,Quarry Lane B,math,0,1,-4
+79,Neel Gupta,Quarry Lane B,energy,0,1,-4
+80,Alex Bowen,Albany A,chemistry,1,0,4
+80,Tate Nomura,Albany A,biology,1,0,4
+80,Tate Nomura,Albany A,other,1,0,4
+80,Tate Nomura,Albany A,math,4,0,16
+80,Navya Kayath,San Mateo,biology,2,0,8
+80,Surbhi Sakshi,San Mateo,energy,1,0,4
+81,Lina Kim,Albany B,energy,1,0,4
+81,Lina Kim,Albany B,physics,1,0,4
+81,Athithan Elamaran,Foothill A,chemistry,1,0,4
+81,Athithan Elamaran,Foothill A,math,3,0,12
+81,Athithan Elamaran,Foothill A,physics,1,1,0
+81,Bhagirath Bandigari,Foothill A,biology,2,1,4
+81,Bhagirath Bandigari,Foothill A,energy,1,1,0
+81,Bhagirath Bandigari,Foothill A,math,1,0,4
+81,Jake Nguyen,Foothill A,biology,1,0,4
+81,Jake Nguyen,Foothill A,chemistry,2,0,8
+81,Jake Nguyen,Foothill A,energy,1,0,4
+81,Parv Surjan,Foothill A,other,2,0,8
+81,Parv Surjan,Foothill A,physics,1,0,4
+81,Shashank Vedula,Foothill A,other,2,0,8
+82,Gaurav Gupta,Amador Valley A,biology,0,1,-4
+82,Gaurav Gupta,Amador Valley A,chemistry,2,0,8
+82,Gaurav Gupta,Amador Valley A,physics,0,2,-8
+82,Ritwik Aeka,Amador Valley A,biology,1,2,-4
+82,Ritwik Aeka,Amador Valley A,energy,1,0,4
+82,Rohan Garg,Amador Valley A,chemistry,2,0,8
+82,Rohan Garg,Amador Valley A,other,3,0,12
+82,Rohan Garg,Amador Valley A,energy,2,0,8
+82,Rohan Garg,Amador Valley A,math,4,0,16
+82,Rohan Garg,Amador Valley A,physics,1,0,4
+82,Samarth Jain,Amador Valley A,other,1,0,4
+82,Ibrahim Nadeem,Mountain House A,physics,3,0,12
+83,Lusen Yao,Amador Valley B,math,0,2,-8
+83,Olive Leuten,Amador Valley B,biology,0,1,-4
+83,Pratham Mehta,Amador Valley B,biology,1,0,4
+83,Pratham Mehta,Amador Valley B,chemistry,1,1,0
+83,Srijon Mandal,Amador Valley B,other,1,0,4
+83,Srijon Mandal,Amador Valley B,energy,1,0,4
+83,Srijon Mandal,Amador Valley B,math,1,0,4
+83,Srijon Mandal,Amador Valley B,physics,1,0,4
+83,Aiden Gao,Los Gatos,chemistry,2,0,8
+83,Atharava Pandey,Los Gatos,chemistry,1,0,4
+83,Atharava Pandey,Los Gatos,energy,1,0,4
+83,Atharava Pandey,Los Gatos,math,3,0,12
+84,Abdul Muhaimin,American A,other,0,1,-4
+84,Abdul Muhaimin,American A,physics,0,1,-4
+84,Andrew Liu,Lynbrook A,biology,4,0,16
+84,Andrew Liu,Lynbrook A,chemistry,1,0,4
+84,Andrew Liu,Lynbrook A,energy,2,0,8
+84,Evan Liu,Lynbrook A,chemistry,2,0,8
+84,Evan Liu,Lynbrook A,energy,1,0,4
+84,Philip Kohr,Lynbrook A,other,2,0,8
+84,Philip Kohr,Lynbrook A,physics,1,0,4
+84,Ryan Bansal,Lynbrook A,other,1,0,4
+84,Ryan Bansal,Lynbrook A,math,4,0,16
+84,Ryan Bansal,Lynbrook A,physics,1,0,4
+84,Sohil Rathi,Lynbrook A,chemistry,1,0,4
+84,Sohil Rathi,Lynbrook A,other,1,0,4
+84,Sohil Rathi,Lynbrook A,physics,1,0,4
+85,Aarav Gupta,American B,other,1,0,4
+85,Sanjay Seshadri,American B,math,1,0,4
+85,Thomas Nguyen,American B,biology,1,0,4
+85,Kabir Mahajan,GSB A,biology,3,1,8
+85,Kabir Mahajan,GSB A,chemistry,1,0,4
+85,Kabir Mahajan,GSB A,energy,0,1,-4
+85,Neil Dixit,GSB A,chemistry,2,0,8
+85,Neil Dixit,GSB A,energy,1,1,0
+85,Neil Dixit,GSB A,math,3,1,8
+85,Neil Dixit,GSB A,physics,1,2,-4
+86,Anish Roy,Archbishop Mitty A,math,2,0,8
+86,Kiyan Raisinghani,Archbishop Mitty A,biology,1,0,4
+86,Kiyan Raisinghani,Archbishop Mitty A,physics,0,2,-8
+86,Richard Peng,Archbishop Mitty A,biology,2,0,8
+86,Richard Peng,Archbishop Mitty A,chemistry,4,0,16
+86,Richard Peng,Archbishop Mitty A,energy,1,0,4
+86,Richard Peng,Archbishop Mitty A,math,1,0,4
+86,Sudhanva Belur,Archbishop Mitty A,biology,1,0,4
+86,Sudhanva Belur,Archbishop Mitty A,other,4,0,16
+86,Sudhanva Belur,Archbishop Mitty A,energy,1,1,0
+86,Greta Nikolai,Chico A,math,1,0,4
+86,YiLun Liu,Chico A,physics,1,0,4
+87,Advait Reddy Duvvuru,Archbishop Mitty B,biology,1,0,4
+87,Advait Reddy Duvvuru,Archbishop Mitty B,other,2,0,8
+87,Advait Reddy Duvvuru,Archbishop Mitty B,energy,0,1,-4
+87,Saatvik Chauhan,Archbishop Mitty B,math,3,0,12
+87,Samiha Das,Archbishop Mitty B,other,1,0,4
+87,Jeeva Karthy,Mira Loma B,biology,1,0,4
+87,Jeeva Karthy,Mira Loma B,other,1,0,4
+87,Jeeva Karthy,Mira Loma B,physics,1,0,4
+87,Kapilan Karunakaran,Mira Loma B,biology,2,0,8
+87,Kapilan Karunakaran,Mira Loma B,chemistry,1,0,4
+87,Kapilan Karunakaran,Mira Loma B,math,1,0,4
+87,Kapilan Karunakaran,Mira Loma B,physics,1,0,4
+87,Rohith Gonuguntla,Mira Loma B,energy,1,0,4
+87,Rohith Gonuguntla,Mira Loma B,physics,1,0,4
+87,Sai-Sanaathan Vemireddy,Mira Loma B,chemistry,1,0,4
+87,Sai-Sanaathan Vemireddy,Mira Loma B,energy,1,0,4
+88,Aarnav Rudraraju,BASIS Fremont,other,3,0,12
+88,Aarnav Rudraraju,BASIS Fremont,energy,1,0,4
+88,Aarnav Rudraraju,BASIS Fremont,math,1,0,4
+88,Aarnav Rudraraju,BASIS Fremont,physics,1,0,4
+88,Kevin Chen,BASIS Fremont,chemistry,1,0,4
+88,Kevin Chen,BASIS Fremont,other,0,1,-4
+88,Kevin Chen,BASIS Fremont,math,1,0,4
+88,Elaine Chen,Cupertino B,chemistry,1,0,4
+88,Iurii Kirpichev,Cupertino B,chemistry,1,0,4
+88,Iurii Kirpichev,Cupertino B,math,2,1,4
+88,Rosa Lee,Cupertino B,biology,3,0,12
+88,Rosa Lee,Cupertino B,energy,1,0,4
+89,Aaron Cohen,BASIS Silicon Valley A,other,2,0,8
+89,Larry Zhao,BASIS Silicon Valley A,biology,2,1,4
+89,Larry Zhao,BASIS Silicon Valley A,energy,2,0,8
+89,Lucas Quan,BASIS Silicon Valley A,biology,0,1,-4
+89,Lucas Quan,BASIS Silicon Valley A,chemistry,4,0,16
+89,Lucas Quan,BASIS Silicon Valley A,other,1,0,4
+89,Lucas Quan,BASIS Silicon Valley A,energy,1,0,4
+89,Lucas Quan,BASIS Silicon Valley A,math,2,0,8
+89,Lucas Quan,BASIS Silicon Valley A,physics,2,1,4
+89,Zanda Zhu,BASIS Silicon Valley A,math,1,0,4
+89,Swaraj Adhikari,El Camino A,biology,1,0,4
+89,Swaraj Adhikari,El Camino A,other,1,0,4
+89,Swaraj Adhikari,El Camino A,math,1,0,4
+89,Swaraj Adhikari,El Camino A,physics,1,0,4
+90,Eric Guo,BASIS Silicon Valley B,math,1,1,0
+90,Jonathan Gao,BASIS Silicon Valley B,biology,1,0,4
+90,Jonathan Gao,BASIS Silicon Valley B,energy,1,0,4
+90,Liam Tran,BASIS Silicon Valley B,chemistry,1,0,4
+90,Liam Tran,BASIS Silicon Valley B,physics,3,1,8
+90,Achuth Vinay,Clovis North,biology,3,0,12
+90,Achuth Vinay,Clovis North,math,2,0,8
+90,Justin Do,Clovis North,chemistry,3,0,12
+90,Justin Do,Clovis North,other,0,1,-4
+90,Justin Do,Clovis North,energy,1,0,4
+90,Justin Do,Clovis North,math,1,0,4
+90,Majed Almasri,Clovis North,energy,1,1,0
+90,Majed Almasri,Clovis North,math,0,1,-4
+90,Meera Malkar,Clovis North,other,2,0,8
+91,Lucas Chi,California,energy,0,1,-4
+91,Vihaan Tigadikar,California,chemistry,1,0,4
+91,Vihaan Tigadikar,California,math,1,1,0
+91,Vihaan Tigadikar,California,physics,1,0,4
+91,Arthur Chang,Miller,math,2,0,8
+91,Arthur Chang,Miller,physics,1,0,4
+91,Asad Rahman,Miller,math,1,0,4
+91,Asad Rahman,Miller,physics,1,0,4
+91,Pranik Biswas,Miller,biology,2,0,8
+91,Pranik Biswas,Miller,other,3,0,12
+91,Pranik Biswas,Miller,energy,1,0,4
+91,Shien Fang,Miller,biology,1,1,0
+91,Shien Fang,Miller,chemistry,2,0,8
+91,Shien Fang,Miller,energy,1,0,4
+91,Tim Xia,Miller,other,1,0,4
+92,Maddy Dietz,Chico B,other,0,1,-4
+92,Maddy Dietz,Chico B,energy,1,0,4
+92,Maddy Dietz,Chico B,physics,1,1,0
+92,Andrew Wen,Palo Alto,chemistry,3,0,12
+92,Andrew Wen,Palo Alto,energy,0,1,-4
+92,Andrew Wen,Palo Alto,math,4,0,16
+92,Andrew Wen,Palo Alto,physics,2,0,8
+92,Kevin Pei,Palo Alto,chemistry,1,0,4
+92,Kevin Pei,Palo Alto,other,4,0,16
+92,Kevin Pei,Palo Alto,energy,1,0,4
+92,Kevin Pei,Palo Alto,physics,1,0,4
+92,Rasia Yu,Palo Alto,biology,3,1,8
+92,Rasia Yu,Palo Alto,energy,1,0,4
+93,Pranav Burra,Cupertino A,energy,0,1,-4
+93,Pranav Burra,Cupertino A,physics,0,1,-4
+93,Alexander Weaver,Davidson A,biology,1,0,4
+93,Alexander Weaver,Davidson A,other,4,0,16
+93,Alexander Weaver,Davidson A,energy,1,0,4
+93,Julian Kuang,Davidson A,chemistry,1,0,4
+93,Julian Kuang,Davidson A,math,3,0,12
+93,Julian Kuang,Davidson A,physics,1,0,4
+93,Lucas Wu,Davidson A,chemistry,3,0,12
+93,Lucas Wu,Davidson A,energy,1,0,4
+93,Lucas Wu,Davidson A,math,1,0,4
+93,Lucas Wu,Davidson A,physics,3,0,12
+93,Yajur Chandar,Davidson A,biology,1,1,0
+93,Yajur Chandar,Davidson A,energy,1,0,4
+94,Bourne Zhou,Davidson B,biology,0,1,-4
+94,Ethan Chan,Davidson B,math,2,0,8
+94,Ethan Chan,Davidson B,physics,1,0,4
+94,Kaison Fong,Davidson B,math,1,0,4
+94,Shayan Sattarvand,Davidson B,biology,0,1,-4
+94,Shayan Sattarvand,Davidson B,chemistry,3,0,12
+94,Shayan Sattarvand,Davidson B,other,1,0,4
+94,Shayan Sattarvand,Davidson B,energy,1,0,4
+94,Shayan Sattarvand,Davidson B,physics,1,0,4
+94,Josh Tittiranonda,Stanford Online,biology,1,0,4
+94,Josh Tittiranonda,Stanford Online,physics,0,1,-4
+94,Vikrant Chintanaboina,Stanford Online,biology,1,0,4
+94,Vikrant Chintanaboina,Stanford Online,chemistry,1,0,4
+94,Vikrant Chintanaboina,Stanford Online,energy,2,0,8
+94,Vinayak Vikram,Stanford Online,other,1,1,0
+94,Vinayak Vikram,Stanford Online,math,1,1,0
+94,Vinayak Vikram,Stanford Online,physics,1,0,4
+95,Alan Chen,Dougherty Valley A,chemistry,1,0,4
+95,Ashwin Shekhar,Dougherty Valley A,math,2,0,8
+95,Ashwin Shekhar,Dougherty Valley A,physics,1,0,4
+95,Keshav Verma,Dougherty Valley A,biology,1,0,4
+95,Keshav Verma,Dougherty Valley A,other,3,0,12
+95,Keshav Verma,Dougherty Valley A,energy,1,0,4
+95,Sohail Abidnia,Dougherty Valley A,math,1,0,4
+95,Soham Chatterjee,Dougherty Valley A,biology,2,0,8
+95,Soham Chatterjee,Dougherty Valley A,chemistry,2,0,8
+95,Soham Chatterjee,Dougherty Valley A,energy,1,0,4
+95,Soham Chatterjee,Dougherty Valley A,physics,0,1,-4
+95,Aariv Aggarwal,Irvington B,math,1,0,4
+95,Abhiram Kuchi,Irvington B,other,1,0,4
+95,Abhiram Kuchi,Irvington B,physics,2,0,8
+95,Gabriella Liu,Irvington B,biology,1,0,4
+96,Adhrit Viswanth Balaji,Dougherty Valley B,chemistry,1,0,4
+96,Adhrit Viswanth Balaji,Dougherty Valley B,energy,1,1,0
+96,Adhrit Viswanth Balaji,Dougherty Valley B,physics,1,0,4
+96,Andrew Sun,Dougherty Valley B,math,2,0,8
+96,Andrew Sun,Dougherty Valley B,physics,1,0,4
+96,Armaan Syed,Dougherty Valley B,chemistry,1,0,4
+96,Armaan Syed,Dougherty Valley B,math,1,0,4
+96,Armaan Syed,Dougherty Valley B,physics,0,1,-4
+96,Tannishtha Chakraborthy,Dougherty Valley B,biology,3,0,12
+96,Tannishtha Chakraborthy,Dougherty Valley B,other,1,0,4
+96,Tannishtha Chakraborthy,Dougherty Valley B,energy,1,0,4
+96,Chun Tu Matthew Yu,Mountain House B,other,1,0,4
+96,Neel Raina,Mountain House B,math,1,0,4
+96,Neel Raina,Mountain House B,physics,1,0,4
+96,Pradyun Jupalli,Mountain House B,chemistry,1,0,4
+96,Pradyun Jupalli,Mountain House B,physics,0,1,-4
+96,Shreyas Mandayam,Mountain House B,other,1,0,4
+96,Shreyas Mandayam,Mountain House B,energy,1,0,4
+97,Grant Kitchen,El Camino B,biology,1,0,4
+97,Grant Kitchen,El Camino B,chemistry,1,0,4
+97,Grant Kitchen,El Camino B,other,0,1,-4
+97,Grant Kitchen,El Camino B,energy,3,0,12
+97,Grant Kitchen,El Camino B,math,2,1,4
+97,Grant Kitchen,El Camino B,physics,1,0,4
+97,Jaylyn Sanchez,El Camino B,biology,1,1,0
+97,Everett Tung,Homestead,chemistry,1,0,4
+97,Everett Tung,Homestead,other,2,0,8
+97,Ishaan Sinha,Homestead,biology,1,0,4
+97,Leo Sitaraman,Homestead,math,1,1,0
+97,Leo Sitaraman,Homestead,physics,1,0,4
+97,Madeline Brown,Homestead,biology,0,1,-4
+97,Madeline Brown,Homestead,energy,0,1,-4
+98,Joshua Huang,Evergreen Valley,biology,2,1,4
+98,Joshua Huang,Evergreen Valley,other,1,0,4
+98,Joshua Huang,Evergreen Valley,energy,1,0,4
+98,Joshua Huang,Evergreen Valley,math,2,0,8
+98,Zichao Zhou,Evergreen Valley,chemistry,1,0,4
+98,Zichao Zhou,Evergreen Valley,physics,1,0,4
+98,Angad Hayer,Quarry Lane A,biology,0,1,-4
+98,Nyles Han,Quarry Lane A,biology,1,0,4
+98,Nyles Han,Quarry Lane A,energy,1,0,4
+98,Rayirth Lakharia,Quarry Lane A,biology,1,0,4
+98,Rayirth Lakharia,Quarry Lane A,physics,0,1,-4
+99,Joshua Wu,Folsom City,other,1,0,4
+99,Kavin Anreddy,Folsom City,biology,1,0,4
+99,Kavin Anreddy,Folsom City,energy,1,0,4
+99,Kavin Anreddy,Folsom City,math,1,0,4
+99,Kavin Anreddy,Folsom City,physics,1,0,4
+99,Pushkal Mishra,Folsom City,energy,1,0,4
+99,Aarush Iyer,Mission San Jose B,chemistry,1,0,4
+99,Andy Liu,Mission San Jose B,chemistry,1,0,4
+99,Andy Liu,Mission San Jose B,energy,1,0,4
+99,Andy Liu,Mission San Jose B,math,2,0,8
+99,Andy Liu,Mission San Jose B,physics,2,1,4
+99,Aravind Muralidharan,Mission San Jose B,biology,2,1,4
+99,Aravind Muralidharan,Mission San Jose B,chemistry,1,0,4
+99,Ishaan Kabra,Mission San Jose B,other,3,0,12
+99,Ishaan Kabra,Mission San Jose B,math,1,1,0
+99,Ishaan Kabra,Mission San Jose B,physics,1,0,4
+100,Austin Lin,Foothill B,chemistry,2,0,8
+100,Shulin Lu,Foothill B,chemistry,0,1,-4
+100,Shulin Lu,Foothill B,math,2,0,8
+100,Abhinav Krishna Senthil Kumar,Mira Loma A,biology,1,0,4
+100,Abhinav Krishna Senthil Kumar,Mira Loma A,chemistry,1,2,-4
+100,Abhinav Krishna Senthil Kumar,Mira Loma A,other,3,0,12
+100,Abhinav Krishna Senthil Kumar,Mira Loma A,energy,1,1,0
+100,Abhinav Krishna Senthil Kumar,Mira Loma A,math,2,0,8
+100,Bryan Nasr,Mira Loma A,energy,1,0,4
+100,Bryan Nasr,Mira Loma A,physics,1,0,4
+100,Krish Singh,Mira Loma A,biology,2,1,4
+100,Sudeep Suresh,Mira Loma A,physics,1,0,4
+101,Daphne Chen,GSB B,biology,1,0,4
+101,Kaiyuan Ding,GSB B,other,1,0,4
+101,Max Li,GSB B,chemistry,1,0,4
+101,Max Li,GSB B,math,1,0,4
+101,Arjun Murugappan,Irvington A,biology,2,1,4
+101,Arjun Murugappan,Irvington A,energy,3,0,12
+101,Ishaan Agrawal,Irvington A,math,2,0,8
+101,Ishaan Agrawal,Irvington A,physics,1,0,4
+101,Matthew Wang,Irvington A,chemistry,2,1,4
+101,Matthew Wang,Irvington A,math,1,0,4
+101,Matthew Wang,Irvington A,physics,1,0,4
+101,Roland Pratt,Irvington A,other,1,0,4
+101,Roland Pratt,Irvington A,math,0,1,-4
+101,Roland Pratt,Irvington A,physics,1,0,4
+102,Matthew Yuan,Lynbrook B,biology,1,1,0
+102,Matthew Yuan,Lynbrook B,chemistry,0,1,-4
+102,Matthew Yuan,Lynbrook B,math,0,1,-4
+102,Sophia Fan,Lynbrook B,chemistry,1,0,4
+102,Sophia Fan,Lynbrook B,math,1,0,4
+102,Advaith Mopuri,Mission San Jose A,math,3,0,12
+102,Advaith Mopuri,Mission San Jose A,physics,1,0,4
+102,Anish Agarwal,Mission San Jose A,biology,1,0,4
+102,Anish Agarwal,Mission San Jose A,chemistry,1,0,4
+102,Anish Agarwal,Mission San Jose A,energy,1,0,4
+102,Roshan Annamalai,Mission San Jose A,chemistry,1,0,4
+102,Roshan Annamalai,Mission San Jose A,other,4,0,16
+102,Roshan Annamalai,Mission San Jose A,energy,1,0,4
+102,Roshan Annamalai,Mission San Jose A,math,0,1,-4
+102,Roshan Annamalai,Mission San Jose A,physics,2,0,8
+102,Theenash Sengupta,Mission San Jose A,biology,2,0,8
+102,Theenash Sengupta,Mission San Jose A,chemistry,1,1,0
+102,Theenash Sengupta,Mission San Jose A,energy,1,0,4
+103,Dhruv Subramanian,Quarry Lane B,other,1,0,4
+103,Dhruv Subramanian,Quarry Lane B,energy,0,1,-4
+103,Elaine Gu,Quarry Lane B,math,0,1,-4
+103,Gautham Doddapaneni,Quarry Lane B,biology,1,0,4
+103,Gautham Doddapaneni,Quarry Lane B,chemistry,1,0,4
+103,Alex Ge,Saratoga,biology,2,0,8
+103,Alex Ge,Saratoga,chemistry,2,0,8
+103,Alex Ge,Saratoga,other,3,0,12
+103,Alex Ge,Saratoga,energy,1,0,4
+103,Ethan Pan,Saratoga,biology,1,0,4
+103,Ethan Pan,Saratoga,energy,1,0,4
+103,Quinn Gifford,Saratoga,chemistry,1,1,0
+103,Quinn Gifford,Saratoga,energy,1,0,4
+103,Quinn Gifford,Saratoga,math,3,0,12
+103,Quinn Gifford,Saratoga,physics,4,0,16
+103,Warren Chee,Saratoga,math,1,0,4
+104,Alex Bowen,Albany A,chemistry,1,0,4
+104,Tate Nomura,Albany A,physics,1,0,4
+104,Alex Luo,Quarry Lane B,physics,1,0,4
+104,Dhruv Subramanian,Quarry Lane B,biology,3,0,12
+104,Dhruv Subramanian,Quarry Lane B,chemistry,1,0,4
+104,Dhruv Subramanian,Quarry Lane B,energy,1,0,4
+104,Elaine Gu,Quarry Lane B,chemistry,0,1,-4
+104,Elaine Gu,Quarry Lane B,math,2,0,8
+104,Neel Gupta,Quarry Lane B,other,1,0,4
+104,Neel Gupta,Quarry Lane B,math,1,0,4
+105,Lina Kim,Albany B,biology,1,0,4
+105,Lina Kim,Albany B,chemistry,1,0,4
+105,Michael Hou,Albany B,math,1,0,4
+105,Michael Hou,Albany B,physics,1,0,4
+105,Billy Battogtokh,El Camino B,math,0,1,-4
+105,Grant Kitchen,El Camino B,biology,1,0,4
+105,Grant Kitchen,El Camino B,chemistry,3,0,12
+105,Grant Kitchen,El Camino B,other,2,0,8
+105,Grant Kitchen,El Camino B,energy,1,0,4
+105,Jaylyn Sanchez,El Camino B,biology,2,0,8
+105,Jaylyn Sanchez,El Camino B,energy,1,0,4
+106,Gaurav Gupta,Amador Valley A,chemistry,1,2,-4
+106,Gaurav Gupta,Amador Valley A,energy,1,1,0
+106,Gaurav Gupta,Amador Valley A,physics,2,0,8
+106,Ritwik Aeka,Amador Valley A,biology,2,2,0
+106,Ritwik Aeka,Amador Valley A,other,1,0,4
+106,Ritwik Aeka,Amador Valley A,energy,0,1,-4
+106,Rohan Garg,Amador Valley A,chemistry,1,0,4
+106,Rohan Garg,Amador Valley A,other,1,1,0
+106,Rohan Garg,Amador Valley A,math,2,0,8
+106,Rohan Garg,Amador Valley A,physics,1,0,4
+106,Samarth Jain,Amador Valley A,other,1,0,4
+106,Bourne Zhou,Davidson B,energy,1,0,4
+106,Kaison Fong,Davidson B,math,2,0,8
+106,Shayan Sattarvand,Davidson B,chemistry,1,0,4
+106,Shayan Sattarvand,Davidson B,other,0,1,-4
+106,Shayan Sattarvand,Davidson B,physics,1,0,4
+107,Lusen Yao,Amador Valley B,biology,1,0,4
+107,Lusen Yao,Amador Valley B,math,2,0,8
+107,Pratham Mehta,Amador Valley B,chemistry,2,0,8
+107,Srijon Mandal,Amador Valley B,energy,1,0,4
+107,Srijon Mandal,Amador Valley B,math,1,0,4
+107,Srijon Mandal,Amador Valley B,physics,1,0,4
+107,Austin Lin,Foothill B,biology,1,0,4
+107,Austin Lin,Foothill B,other,1,0,4
+107,Austin Lin,Foothill B,energy,1,0,4
+107,Austin Lin,Foothill B,math,1,0,4
+107,Sahana Venkat,Foothill B,biology,1,0,4
+107,Sahana Venkat,Foothill B,other,1,0,4
+107,Shulin Lu,Foothill B,physics,2,0,8
+108,Abdul Muhaimin,American A,chemistry,2,0,8
+108,Abdul Muhaimin,American A,energy,0,1,-4
+108,Abdul Muhaimin,American A,math,1,1,0
+108,Jiayu Song,American A,chemistry,1,0,4
+108,Ryan Liu,American A,physics,2,0,8
+108,Srithan Devarashetty,American A,other,1,0,4
+108,Adhrit Viswanth Balaji,Dougherty Valley B,biology,1,0,4
+108,Adhrit Viswanth Balaji,Dougherty Valley B,chemistry,1,0,4
+108,Adhrit Viswanth Balaji,Dougherty Valley B,other,0,1,-4
+108,Adhrit Viswanth Balaji,Dougherty Valley B,energy,1,0,4
+108,Adhrit Viswanth Balaji,Dougherty Valley B,physics,1,1,0
+108,Andrew Sun,Dougherty Valley B,math,2,0,8
+108,Armaan Syed,Dougherty Valley B,math,0,1,-4
+108,Tannishtha Chakraborthy,Dougherty Valley B,biology,2,0,8
+108,Tannishtha Chakraborthy,Dougherty Valley B,other,1,0,4
+108,Tannishtha Chakraborthy,Dougherty Valley B,energy,1,0,4
+109,Aarav Gupta,American B,physics,1,0,4
+109,Sanjay Seshadri,American B,other,1,0,4
+109,Sanjay Seshadri,American B,math,1,0,4
+109,Sanjay Seshadri,American B,physics,1,0,4
+109,Sudesh Srivatsan,American B,chemistry,1,0,4
+109,Sudesh Srivatsan,American B,energy,1,0,4
+109,Sudesh Srivatsan,American B,math,1,0,4
+109,Ethan Li,Evergreen Valley,other,1,0,4
+109,Ethan Li,Evergreen Valley,math,1,0,4
+109,Joshua Huang,Evergreen Valley,biology,4,0,16
+109,Joshua Huang,Evergreen Valley,math,1,1,0
+109,Zichao Zhou,Evergreen Valley,chemistry,1,0,4
+109,Zichao Zhou,Evergreen Valley,physics,2,0,8
+110,Anish Roy,Archbishop Mitty A,math,2,0,8
+110,Anish Roy,Archbishop Mitty A,physics,1,0,4
+110,Ben Zheng,Archbishop Mitty A,physics,1,1,0
+110,Richard Peng,Archbishop Mitty A,biology,2,0,8
+110,Richard Peng,Archbishop Mitty A,chemistry,3,1,8
+110,Richard Peng,Archbishop Mitty A,energy,0,1,-4
+110,Richard Peng,Archbishop Mitty A,math,1,0,4
+110,Sudhanva Belur,Archbishop Mitty A,biology,1,0,4
+110,Sudhanva Belur,Archbishop Mitty A,other,2,0,8
+110,Neel Raina,Mountain House B,other,1,0,4
+110,Neel Raina,Mountain House B,math,1,0,4
+110,Neel Raina,Mountain House B,physics,1,0,4
+111,Advait Reddy Duvvuru,Archbishop Mitty B,other,1,1,0
+111,Advait Reddy Duvvuru,Archbishop Mitty B,physics,1,0,4
+111,Ruoyu Zhou,Archbishop Mitty B,math,1,0,4
+111,Ruoyu Zhou,Archbishop Mitty B,physics,1,0,4
+111,Yixin Xu,Archbishop Mitty B,chemistry,1,0,4
+111,Yixin Xu,Archbishop Mitty B,math,0,1,-4
+111,Alan Chen,Dougherty Valley A,chemistry,2,0,8
+111,Alan Chen,Dougherty Valley A,energy,1,0,4
+111,Ashwin Shekhar,Dougherty Valley A,energy,1,0,4
+111,Ashwin Shekhar,Dougherty Valley A,math,1,0,4
+111,Ashwin Shekhar,Dougherty Valley A,physics,2,0,8
+111,Keshav Verma,Dougherty Valley A,other,2,0,8
+111,Keshav Verma,Dougherty Valley A,physics,0,1,-4
+111,Soham Chatterjee,Dougherty Valley A,biology,4,0,16
+111,Soham Chatterjee,Dougherty Valley A,energy,1,0,4
+111,Soham Chatterjee,Dougherty Valley A,math,1,0,4
+112,Aarnav Rudraraju,BASIS Fremont,biology,0,1,-4
+112,Aarnav Rudraraju,BASIS Fremont,other,1,0,4
+112,Kevin Chen,BASIS Fremont,biology,3,0,12
+112,Kevin Chen,BASIS Fremont,physics,1,0,4
+112,Lexing Liu,BASIS Fremont,math,1,0,4
+112,Ryan Yan,BASIS Fremont,math,1,0,4
+112,Josh Tittiranonda,Stanford Online,chemistry,1,0,4
+112,Vikrant Chintanaboina,Stanford Online,biology,1,0,4
+112,Vikrant Chintanaboina,Stanford Online,chemistry,1,1,0
+112,Vikrant Chintanaboina,Stanford Online,energy,1,2,-4
+112,Vikrant Chintanaboina,Stanford Online,physics,1,0,4
+112,Vinayak Vikram,Stanford Online,other,1,0,4
+112,Vinayak Vikram,Stanford Online,math,0,1,-4
+113,Larry Zhao,BASIS Silicon Valley A,biology,4,0,16
+113,Larry Zhao,BASIS Silicon Valley A,physics,0,1,-4
+113,Lucas Quan,BASIS Silicon Valley A,chemistry,2,0,8
+113,Lucas Quan,BASIS Silicon Valley A,energy,2,1,4
+113,Lucas Quan,BASIS Silicon Valley A,math,1,0,4
+113,Lucas Quan,BASIS Silicon Valley A,physics,2,0,8
+113,Zanda Zhu,BASIS Silicon Valley A,math,1,1,0
+113,Abhinav Krishna Senthil Kumar,Mira Loma A,chemistry,2,0,8
+113,Abhinav Krishna Senthil Kumar,Mira Loma A,other,4,0,16
+113,Abhinav Krishna Senthil Kumar,Mira Loma A,math,2,0,8
+113,Bryan Nasr,Mira Loma A,physics,2,0,8
+113,Krish Singh,Mira Loma A,biology,0,1,-4
+113,Sudeep Suresh,Mira Loma A,energy,1,0,4
+114,Eric Guo,BASIS Silicon Valley B,energy,0,1,-4
+114,Ethan Guo,BASIS Silicon Valley B,math,3,0,12
+114,Jonathan Gao,BASIS Silicon Valley B,biology,3,0,12
+114,Jonathan Gao,BASIS Silicon Valley B,chemistry,1,1,0
+114,Jonathan Gao,BASIS Silicon Valley B,energy,0,1,-4
+114,Jonathan Gao,BASIS Silicon Valley B,math,0,1,-4
+114,Liam Tran,BASIS Silicon Valley B,chemistry,1,0,4
+114,Liam Tran,BASIS Silicon Valley B,energy,1,0,4
+114,Liam Tran,BASIS Silicon Valley B,physics,4,0,16
+114,Nyasa Gupta,Quarry Lane A,math,1,0,4
+114,Rayirth Lakharia,Quarry Lane A,biology,0,1,-4
+114,Rayirth Lakharia,Quarry Lane A,other,1,1,0
+115,Kavin Jain,California,chemistry,2,0,8
+115,Kavin Jain,California,physics,2,0,8
+115,Lucas Chi,California,biology,0,1,-4
+115,Lucas Chi,California,chemistry,1,0,4
+115,Lucas Chi,California,energy,1,0,4
+115,Sushrut Pola,California,energy,2,0,8
+115,Vihaan Tigadikar,California,chemistry,1,0,4
+115,Vihaan Tigadikar,California,other,1,1,0
+115,Vihaan Tigadikar,California,physics,1,0,4
+115,Alex Ma,Lynbrook B,biology,1,0,4
+115,Alex Ma,Lynbrook B,other,1,0,4
+115,Alex Ma,Lynbrook B,math,1,0,4
+115,Matthew Yuan,Lynbrook B,biology,2,0,8
+115,Matthew Yuan,Lynbrook B,math,2,0,8
+115,Matthew Yuan,Lynbrook B,physics,1,0,4
+115,Sophia Fan,Lynbrook B,chemistry,0,1,-4
+115,Vincent Qin,Lynbrook B,biology,1,0,4
+115,Vincent Qin,Lynbrook B,other,1,0,4
+116,Lily Tao,Chico A,chemistry,1,0,4
+116,Andrew Liu,Lynbrook A,biology,2,1,4
+116,Andrew Liu,Lynbrook A,energy,1,0,4
+116,Andrew Liu,Lynbrook A,physics,1,0,4
+116,Evan Liu,Lynbrook A,chemistry,2,0,8
+116,Philip Kohr,Lynbrook A,biology,1,0,4
+116,Philip Kohr,Lynbrook A,other,4,0,16
+116,Ryan Bansal,Lynbrook A,energy,1,0,4
+116,Ryan Bansal,Lynbrook A,math,2,0,8
+116,Ryan Bansal,Lynbrook A,physics,0,2,-8
+116,Sohil Rathi,Lynbrook A,chemistry,0,1,-4
+116,Sohil Rathi,Lynbrook A,math,1,0,4
+116,Sohil Rathi,Lynbrook A,physics,1,0,4
+117,Devi Schumann,Chico B,other,1,1,0
+117,Devi Schumann,Chico B,energy,1,0,4
+117,Devi Schumann,Chico B,physics,0,1,-4
+117,Maddy Dietz,Chico B,energy,1,0,4
+117,Phineas Wehrheim,Chico B,chemistry,0,1,-4
+117,Jeeva Karthy,Mira Loma B,biology,1,0,4
+117,Jeeva Karthy,Mira Loma B,other,1,0,4
+117,Jeeva Karthy,Mira Loma B,physics,2,0,8
+117,Kapilan Karunakaran,Mira Loma B,biology,1,0,4
+117,Kapilan Karunakaran,Mira Loma B,chemistry,2,0,8
+117,Kapilan Karunakaran,Mira Loma B,energy,0,1,-4
+117,Rohith Gonuguntla,Mira Loma B,biology,1,0,4
+117,Rohith Gonuguntla,Mira Loma B,math,1,0,4
+117,Sai-Sanaathan Vemireddy,Mira Loma B,chemistry,1,0,4
+117,Sai-Sanaathan Vemireddy,Mira Loma B,math,2,0,8
+118,Achuth Vinay,Clovis North,biology,2,0,8
+118,Justin Do,Clovis North,chemistry,3,0,12
+118,Justin Do,Clovis North,physics,1,0,4
+118,Majed Almasri,Clovis North,other,1,0,4
+118,Majed Almasri,Clovis North,energy,2,0,8
+118,Meera Malkar,Clovis North,other,1,0,4
+118,Ali Sherazi,GSB A,other,1,1,0
+118,Elliot Boyce,GSB A,biology,1,0,4
+118,Elliot Boyce,GSB A,math,1,0,4
+118,Kabir Mahajan,GSB A,chemistry,0,1,-4
+118,Kabir Mahajan,GSB A,energy,1,0,4
+118,Kabir Mahajan,GSB A,physics,0,1,-4
+118,Neil Dixit,GSB A,energy,0,1,-4
+118,Neil Dixit,GSB A,math,2,0,8
+118,Neil Dixit,GSB A,physics,2,0,8
+119,Brandon Seo,Cupertino A,chemistry,3,0,12
+119,Brandon Seo,Cupertino A,math,1,1,0
+119,Brandon Seo,Cupertino A,physics,1,0,4
+119,Namita Gaidhani,Cupertino A,chemistry,1,0,4
+119,Namita Gaidhani,Cupertino A,other,1,0,4
+119,Pranav Burra,Cupertino A,energy,2,0,8
+119,Pranav Burra,Cupertino A,math,1,0,4
+119,Pranav Burra,Cupertino A,physics,1,0,4
+119,Shubhi Jain,Cupertino A,biology,2,0,8
+119,Everett Tung,Homestead,biology,1,0,4
+119,Ishaan Sinha,Homestead,math,1,0,4
+119,Ishaan Sinha,Homestead,physics,2,0,8
+119,Madeline Brown,Homestead,biology,1,0,4
+119,Madeline Brown,Homestead,energy,1,0,4
+120,Anya Sarode,Cupertino B,other,1,0,4
+120,Iurii Kirpichev,Cupertino B,math,2,0,8
+120,Rosa Lee,Cupertino B,biology,1,1,0
+120,Rosa Lee,Cupertino B,energy,1,0,4
+120,Hasita Venkat Raman,Mountain House A,biology,1,0,4
+120,Ibrahim Nadeem,Mountain House A,chemistry,0,1,-4
+120,Ibrahim Nadeem,Mountain House A,energy,2,0,8
+120,Ibrahim Nadeem,Mountain House A,math,2,0,8
+120,Ibrahim Nadeem,Mountain House A,physics,4,0,16
+120,Sampriti Brahma,Mountain House A,chemistry,0,1,-4
+120,Shrikoustubh Veldanda,Mountain House A,other,1,0,4
+121,Alexander Weaver,Davidson A,other,2,0,8
+121,Filip Ramazan,Davidson A,biology,3,0,12
+121,Filip Ramazan,Davidson A,energy,1,0,4
+121,Julian Kuang,Davidson A,math,3,0,12
+121,Julian Kuang,Davidson A,physics,1,0,4
+121,Lucas Wu,Davidson A,chemistry,3,1,8
+121,Lucas Wu,Davidson A,energy,2,0,8
+121,Lucas Wu,Davidson A,physics,2,0,8
+121,Athithan Elamaran,Foothill A,math,1,0,4
+121,Athithan Elamaran,Foothill A,physics,0,1,-4
+121,Bhagirath Bandigari,Foothill A,biology,1,0,4
+121,Jake Nguyen,Foothill A,chemistry,1,1,0
+121,Jake Nguyen,Foothill A,physics,1,0,4
+121,Shashank Vedula,Foothill A,other,2,1,4
+122,Eric Blones,El Camino A,other,1,0,4
+122,Swaraj Adhikari,El Camino A,biology,1,0,4
+122,Swaraj Adhikari,El Camino A,chemistry,0,1,-4
+122,Swaraj Adhikari,El Camino A,math,2,0,8
+122,Swaraj Adhikari,El Camino A,physics,2,0,8
+122,Aiden Gao,Los Gatos,chemistry,2,0,8
+122,Anya Agarwal,Los Gatos,other,1,0,4
+122,Anya Agarwal,Los Gatos,physics,0,1,-4
+122,Atharava Pandey,Los Gatos,math,1,0,4
+122,James Smith,Los Gatos,chemistry,1,0,4
+122,James Smith,Los Gatos,physics,1,1,0
+123,Joshua Wu,Folsom City,chemistry,0,1,-4
+123,Joshua Wu,Folsom City,other,2,1,4
+123,Joshua Wu,Folsom City,math,1,0,4
+123,Kavin Anreddy,Folsom City,biology,3,0,12
+123,Kavin Anreddy,Folsom City,math,2,0,8
+123,Kavin Anreddy,Folsom City,physics,0,1,-4
+123,Alex Ge,Saratoga,biology,1,0,4
+123,Alex Ge,Saratoga,chemistry,3,0,12
+123,Alex Ge,Saratoga,other,1,0,4
+123,Ethan Pan,Saratoga,other,1,0,4
+123,Max Rombakh,Saratoga,energy,1,0,4
+123,Max Rombakh,Saratoga,math,1,0,4
+123,Max Rombakh,Saratoga,physics,3,0,12
+123,Quinn Gifford,Saratoga,energy,1,1,0
+124,Max Li,GSB B,math,2,0,8
+124,Max Li,GSB B,physics,2,0,8
+124,Advaith Mopuri,Mission San Jose A,energy,1,0,4
+124,Advaith Mopuri,Mission San Jose A,math,1,0,4
+124,Advaith Mopuri,Mission San Jose A,physics,1,1,0
+124,Roshan Annamalai,Mission San Jose A,biology,1,0,4
+124,Roshan Annamalai,Mission San Jose A,chemistry,1,0,4
+124,Roshan Annamalai,Mission San Jose A,other,4,0,16
+124,Roshan Annamalai,Mission San Jose A,energy,1,0,4
+124,Roshan Annamalai,Mission San Jose A,physics,0,1,-4
+124,Rutvik Arora,Mission San Jose A,math,1,0,4
+124,Theenash Sengupta,Mission San Jose A,biology,3,0,12
+124,Theenash Sengupta,Mission San Jose A,chemistry,2,1,4
+124,Theenash Sengupta,Mission San Jose A,energy,1,0,4
+124,Theenash Sengupta,Mission San Jose A,physics,1,0,4
+125,Arjun Murugappan,Irvington A,biology,1,1,0
+125,Arjun Murugappan,Irvington A,chemistry,1,0,4
+125,Arjun Murugappan,Irvington A,energy,1,0,4
+125,Ishaan Agrawal,Irvington A,other,1,0,4
+125,Ishaan Agrawal,Irvington A,energy,0,1,-4
+125,Ishaan Agrawal,Irvington A,physics,2,0,8
+125,Matthew Wang,Irvington A,chemistry,3,0,12
+125,Roland Pratt,Irvington A,math,1,0,4
+125,Arthur Chang,Miller,math,1,0,4
+125,Arthur Chang,Miller,physics,1,0,4
+125,Asad Rahman,Miller,math,1,0,4
+125,Asad Rahman,Miller,physics,1,0,4
+125,Pranik Biswas,Miller,biology,1,0,4
+125,Pranik Biswas,Miller,other,1,1,0
+125,Shien Fang,Miller,biology,2,0,8
+126,Abhiram Kuchi,Irvington B,math,1,0,4
+126,Andrew Wen,Palo Alto,chemistry,1,0,4
+126,Andrew Wen,Palo Alto,energy,2,0,8
+126,Andrew Wen,Palo Alto,math,3,0,12
+126,Andrew Wen,Palo Alto,physics,3,1,8
+126,Kevin Pei,Palo Alto,biology,1,0,4
+126,Kevin Pei,Palo Alto,chemistry,2,1,4
+126,Kevin Pei,Palo Alto,other,4,0,16
+126,Rasia Yu,Palo Alto,biology,3,0,12
+126,Rasia Yu,Palo Alto,energy,0,1,-4
+127,Aarush Iyer,Mission San Jose B,math,0,1,-4
+127,Andy Liu,Mission San Jose B,biology,0,1,-4
+127,Andy Liu,Mission San Jose B,chemistry,0,1,-4
+127,Andy Liu,Mission San Jose B,energy,1,1,0
+127,Andy Liu,Mission San Jose B,physics,3,0,12
+127,Aravind Muralidharan,Mission San Jose B,chemistry,1,0,4
+127,Aravind Muralidharan,Mission San Jose B,energy,1,0,4
+127,Aravind Muralidharan,Mission San Jose B,physics,1,0,4
+127,Ishaan Kabra,Mission San Jose B,biology,2,0,8
+127,Ishaan Kabra,Mission San Jose B,chemistry,1,0,4
+127,Ishaan Kabra,Mission San Jose B,other,3,0,12
+127,Ishaan Kabra,Mission San Jose B,math,2,1,4
+127,Krisha Gupta,San Mateo,other,1,0,4
+127,Navya Kayath,San Mateo,energy,1,0,4
+127,Navya Kayath,San Mateo,math,1,0,4
+128,Alex Bowen,Albany A,other,1,0,4
+128,Alex Bowen,Albany A,math,0,1,-4
+128,Benton Vargo,Albany A,chemistry,1,1,0
+128,Aarush Iyer,Mission San Jose B,biology,2,0,8
+128,Aarush Iyer,Mission San Jose B,chemistry,1,0,4
+128,Aarush Iyer,Mission San Jose B,other,1,0,4
+128,Aarush Iyer,Mission San Jose B,energy,1,0,4
+128,Andy Liu,Mission San Jose B,chemistry,0,1,-4
+128,Andy Liu,Mission San Jose B,math,0,1,-4
+128,Andy Liu,Mission San Jose B,physics,3,0,12
+128,Aravind Muralidharan,Mission San Jose B,biology,1,1,0
+128,Aravind Muralidharan,Mission San Jose B,chemistry,1,0,4
+128,Aravind Muralidharan,Mission San Jose B,math,1,0,4
+128,Ishaan Kabra,Mission San Jose B,other,2,1,4
+128,Ishaan Kabra,Mission San Jose B,energy,2,0,8
+128,Ishaan Kabra,Mission San Jose B,physics,1,0,4
+129,Alexander Weaver,Davidson A,other,4,0,16
+129,Julian Kuang,Davidson A,chemistry,1,0,4
+129,Julian Kuang,Davidson A,math,2,0,8
+129,Julian Kuang,Davidson A,physics,0,1,-4
+129,Lucas Wu,Davidson A,chemistry,2,1,4
+129,Lucas Wu,Davidson A,energy,3,0,12
+129,Lucas Wu,Davidson A,physics,2,0,8
+129,Yajur Chandar,Davidson A,biology,4,0,16
+129,Yajur Chandar,Davidson A,physics,0,1,-4
+130,Gaurav Gupta,Amador Valley A,chemistry,2,1,4
+130,Gaurav Gupta,Amador Valley A,other,1,0,4
+130,Gaurav Gupta,Amador Valley A,energy,1,0,4
+130,Ritwik Aeka,Amador Valley A,biology,2,2,0
+130,Ritwik Aeka,Amador Valley A,other,1,0,4
+130,Ritwik Aeka,Amador Valley A,energy,1,0,4
+130,Rohan Garg,Amador Valley A,other,0,1,-4
+130,Rohan Garg,Amador Valley A,energy,1,0,4
+130,Rohan Garg,Amador Valley A,math,2,0,8
+130,Rohan Garg,Amador Valley A,physics,2,1,4
+130,Iurii Kirpichev,Cupertino B,math,1,0,4
+130,Iurii Kirpichev,Cupertino B,physics,1,0,4
+130,Rosa Lee,Cupertino B,biology,2,0,8
+131,Lusen Yao,Amador Valley B,math,1,0,4
+131,Pratham Mehta,Amador Valley B,math,0,1,-4
+131,Srijon Mandal,Amador Valley B,biology,2,1,4
+131,Srijon Mandal,Amador Valley B,chemistry,0,1,-4
+131,Srijon Mandal,Amador Valley B,energy,2,0,8
+131,Srijon Mandal,Amador Valley B,physics,2,0,8
+131,Eric Blones,El Camino A,chemistry,1,0,4
+131,Swaraj Adhikari,El Camino A,other,1,0,4
+131,Swaraj Adhikari,El Camino A,math,1,2,-4
+131,Swaraj Adhikari,El Camino A,physics,1,1,0
+132,Abdul Muhaimin,American A,chemistry,2,0,8
+132,Abdul Muhaimin,American A,other,1,0,4
+132,Abdul Muhaimin,American A,energy,0,1,-4
+132,Abdul Muhaimin,American A,math,1,0,4
+132,Jiayu Song,American A,chemistry,2,0,8
+132,Keshav Venkatesh,American A,math,1,0,4
+132,Greta Nikolai,Chico A,biology,1,0,4
+132,Greta Nikolai,Chico A,other,2,0,8
+132,Greta Nikolai,Chico A,energy,1,0,4
+132,Greta Nikolai,Chico A,physics,0,1,-4
+132,Lucas Lazarski,Chico A,math,1,0,4
+132,Lucas Lazarski,Chico A,physics,2,0,8
+132,YiLun Liu,Chico A,biology,0,1,-4
+133,Sanjay Seshadri,American B,other,1,0,4
+133,Sudesh Srivatsan,American B,chemistry,1,0,4
+133,Thomas Nguyen,American B,biology,1,0,4
+133,Achuth Vinay,Clovis North,biology,2,1,4
+133,Achuth Vinay,Clovis North,math,1,0,4
+133,Justin Do,Clovis North,chemistry,3,0,12
+133,Justin Do,Clovis North,energy,1,0,4
+133,Justin Do,Clovis North,math,1,0,4
+133,Justin Do,Clovis North,physics,1,0,4
+133,Majed Almasri,Clovis North,other,1,0,4
+133,Majed Almasri,Clovis North,energy,1,0,4
+133,Majed Almasri,Clovis North,physics,2,1,4
+133,Renard Wu,Clovis North,biology,1,0,4
+133,Renard Wu,Clovis North,math,1,0,4
+134,Anish Roy,Archbishop Mitty A,math,1,0,4
+134,Ben Zheng,Archbishop Mitty A,physics,1,0,4
+134,Richard Peng,Archbishop Mitty A,biology,3,0,12
+134,Richard Peng,Archbishop Mitty A,chemistry,2,2,0
+134,Richard Peng,Archbishop Mitty A,energy,1,0,4
+134,Richard Peng,Archbishop Mitty A,physics,1,0,4
+134,Sudhanva Belur,Archbishop Mitty A,other,2,1,4
+134,Sudhanva Belur,Archbishop Mitty A,energy,0,1,-4
+134,Adhrit Viswanth Balaji,Dougherty Valley B,chemistry,0,2,-8
+134,Adhrit Viswanth Balaji,Dougherty Valley B,energy,1,1,0
+134,Adhrit Viswanth Balaji,Dougherty Valley B,physics,1,0,4
+134,Andrew Sun,Dougherty Valley B,math,2,0,8
+134,Armaan Syed,Dougherty Valley B,math,0,1,-4
+134,Tannishtha Chakraborthy,Dougherty Valley B,biology,1,1,0
+135,Advait Reddy Duvvuru,Archbishop Mitty B,biology,1,0,4
+135,Advait Reddy Duvvuru,Archbishop Mitty B,other,0,1,-4
+135,Saatvik Chauhan,Archbishop Mitty B,energy,1,0,4
+135,Samiha Das,Archbishop Mitty B,physics,1,0,4
+135,Andrew Wen,Palo Alto,chemistry,1,0,4
+135,Andrew Wen,Palo Alto,energy,0,1,-4
+135,Andrew Wen,Palo Alto,math,2,0,8
+135,Andrew Wen,Palo Alto,physics,3,1,8
+135,Kevin Pei,Palo Alto,biology,1,0,4
+135,Kevin Pei,Palo Alto,chemistry,3,0,12
+135,Kevin Pei,Palo Alto,other,4,0,16
+135,Kevin Pei,Palo Alto,energy,2,0,8
+135,Rasia Yu,Palo Alto,biology,2,1,4
+136,Aarnav Rudraraju,BASIS Fremont,biology,1,0,4
+136,Aarnav Rudraraju,BASIS Fremont,other,0,1,-4
+136,Aarnav Rudraraju,BASIS Fremont,energy,1,0,4
+136,Kevin Chen,BASIS Fremont,other,1,0,4
+136,Kevin Chen,BASIS Fremont,physics,1,0,4
+136,Lexing Liu,BASIS Fremont,other,1,0,4
+136,Lexing Liu,BASIS Fremont,energy,0,1,-4
+136,Lexing Liu,BASIS Fremont,physics,1,0,4
+136,Ethan Chan,Davidson B,other,1,0,4
+136,Ethan Chan,Davidson B,math,1,0,4
+136,Shayan Sattarvand,Davidson B,chemistry,3,0,12
+136,Shayan Sattarvand,Davidson B,energy,1,1,0
+136,Shayan Sattarvand,Davidson B,physics,1,0,4
+137,Aaron Cohen,BASIS Silicon Valley A,other,2,0,8
+137,Larry Zhao,BASIS Silicon Valley A,biology,2,1,4
+137,Lucas Quan,BASIS Silicon Valley A,biology,1,0,4
+137,Lucas Quan,BASIS Silicon Valley A,chemistry,4,0,16
+137,Lucas Quan,BASIS Silicon Valley A,other,1,0,4
+137,Lucas Quan,BASIS Silicon Valley A,energy,2,0,8
+137,Lucas Quan,BASIS Silicon Valley A,math,1,0,4
+137,Lucas Quan,BASIS Silicon Valley A,physics,4,0,16
+137,Austin Lin,Foothill B,biology,0,1,-4
+137,Shulin Lu,Foothill B,biology,0,1,-4
+137,Shulin Lu,Foothill B,other,1,0,4
+137,Shulin Lu,Foothill B,math,1,1,0
+137,Shulin Lu,Foothill B,physics,0,1,-4
+138,Eric Guo,BASIS Silicon Valley B,math,1,0,4
+138,Jason Zhao,BASIS Silicon Valley B,biology,0,1,-4
+138,Jason Zhao,BASIS Silicon Valley B,chemistry,1,0,4
+138,Jonathan Gao,BASIS Silicon Valley B,other,1,0,4
+138,Liam Tran,BASIS Silicon Valley B,chemistry,2,0,8
+138,Liam Tran,BASIS Silicon Valley B,other,1,0,4
+138,Liam Tran,BASIS Silicon Valley B,energy,2,1,4
+138,Liam Tran,BASIS Silicon Valley B,math,1,0,4
+138,Liam Tran,BASIS Silicon Valley B,physics,2,0,8
+138,Ethan Li,Evergreen Valley,math,1,0,4
+138,Ethan Li,Evergreen Valley,physics,1,0,4
+138,Zichao Zhou,Evergreen Valley,biology,2,0,8
+138,Zichao Zhou,Evergreen Valley,chemistry,1,0,4
+139,Kavin Jain,California,chemistry,1,1,0
+139,Kavin Jain,California,physics,1,0,4
+139,Lucas Chi,California,physics,1,0,4
+139,Vihaan Tigadikar,California,chemistry,1,0,4
+139,Vihaan Tigadikar,California,other,1,0,4
+139,Vihaan Tigadikar,California,math,0,1,-4
+139,Arjun Murugappan,Irvington A,biology,3,0,12
+139,Ishaan Agrawal,Irvington A,chemistry,0,1,-4
+139,Ishaan Agrawal,Irvington A,energy,1,0,4
+139,Ishaan Agrawal,Irvington A,math,2,0,8
+139,Ishaan Agrawal,Irvington A,physics,1,0,4
+139,Matthew Wang,Irvington A,chemistry,2,0,8
+139,Matthew Wang,Irvington A,energy,1,0,4
+139,Roland Pratt,Irvington A,other,1,0,4
+139,Roland Pratt,Irvington A,energy,1,0,4
+139,Roland Pratt,Irvington A,math,1,0,4
+140,Devi Schumann,Chico B,chemistry,2,0,8
+140,Devi Schumann,Chico B,other,1,0,4
+140,Devi Schumann,Chico B,energy,0,1,-4
+140,Devi Schumann,Chico B,physics,1,0,4
+140,Eli Hu,Chico B,energy,0,1,-4
+140,Maddy Dietz,Chico B,biology,1,0,4
+140,Maddy Dietz,Chico B,chemistry,1,0,4
+140,Phineas Wehrheim,Chico B,physics,1,0,4
+140,Aariv Aggarwal,Irvington B,chemistry,1,0,4
+140,Abhiram Kuchi,Irvington B,physics,1,0,4
+140,Gabriella Liu,Irvington B,biology,3,0,12
+140,Mahi Kumar,Irvington B,math,1,0,4
+141,Brandon Seo,Cupertino A,chemistry,1,2,-4
+141,Brandon Seo,Cupertino A,energy,1,0,4
+141,Namita Gaidhani,Cupertino A,other,1,0,4
+141,Pranav Burra,Cupertino A,math,1,0,4
+141,Pranav Burra,Cupertino A,physics,1,2,-4
+141,Shubhi Jain,Cupertino A,biology,2,0,8
+141,Grant Kitchen,El Camino B,biology,0,1,-4
+141,Grant Kitchen,El Camino B,other,2,0,8
+141,Grant Kitchen,El Camino B,math,2,1,4
+141,Grant Kitchen,El Camino B,physics,2,0,8
+141,Jaylyn Sanchez,El Camino B,biology,1,0,4
+142,Alan Chen,Dougherty Valley A,chemistry,3,0,12
+142,Alan Chen,Dougherty Valley A,energy,1,0,4
+142,Alan Chen,Dougherty Valley A,physics,1,0,4
+142,Ashwin Shekhar,Dougherty Valley A,energy,1,0,4
+142,Ashwin Shekhar,Dougherty Valley A,math,2,0,8
+142,Ashwin Shekhar,Dougherty Valley A,physics,1,0,4
+142,Keshav Verma,Dougherty Valley A,other,1,0,4
+142,Soham Chatterjee,Dougherty Valley A,biology,4,0,16
+142,Jeeva Karthy,Mira Loma B,other,1,0,4
+142,Kapilan Karunakaran,Mira Loma B,biology,0,1,-4
+142,Kapilan Karunakaran,Mira Loma B,chemistry,1,0,4
+142,Rohith Gonuguntla,Mira Loma B,biology,0,1,-4
+142,Sai-Sanaathan Vemireddy,Mira Loma B,energy,0,1,-4
+143,Joshua Wu,Folsom City,chemistry,1,0,4
+143,Joshua Wu,Folsom City,other,3,0,12
+143,Joshua Wu,Folsom City,energy,2,0,8
+143,Kavin Anreddy,Folsom City,biology,2,0,8
+143,Kavin Anreddy,Folsom City,chemistry,2,1,4
+143,Kavin Anreddy,Folsom City,energy,1,0,4
+143,Kavin Anreddy,Folsom City,math,2,0,8
+143,Kavin Anreddy,Folsom City,physics,1,0,4
+143,Pushkal Mishra,Folsom City,biology,1,0,4
+143,Satvik Chakkapalli,Folsom City,biology,0,1,-4
+143,Dhruv Subramanian,Quarry Lane B,biology,0,1,-4
+143,Elaine Gu,Quarry Lane B,math,0,1,-4
+143,Neel Gupta,Quarry Lane B,other,1,0,4
+143,Neel Gupta,Quarry Lane B,physics,1,0,4
+144,Athithan Elamaran,Foothill A,math,1,1,0
+144,Bhagirath Bandigari,Foothill A,biology,3,0,12
+144,Bhagirath Bandigari,Foothill A,energy,1,0,4
+144,Jake Nguyen,Foothill A,chemistry,2,1,4
+144,Jake Nguyen,Foothill A,physics,2,0,8
+144,Shashank Vedula,Foothill A,other,3,0,12
+144,Everett Tung,Homestead,other,1,0,4
+144,Everett Tung,Homestead,energy,1,0,4
+144,Ishaan Sinha,Homestead,chemistry,1,0,4
+144,Ishaan Sinha,Homestead,math,2,0,8
+144,Ishaan Sinha,Homestead,physics,1,0,4
+144,Leo Sitaraman,Homestead,math,1,0,4
+144,Leo Sitaraman,Homestead,physics,1,0,4
+145,Ali Sherazi,GSB A,other,4,0,16
+145,Ali Sherazi,GSB A,energy,1,0,4
+145,Kabir Mahajan,GSB A,biology,4,0,16
+145,Kabir Mahajan,GSB A,energy,1,0,4
+145,Neil Dixit,GSB A,chemistry,2,1,4
+145,Neil Dixit,GSB A,math,0,1,-4
+145,Neil Dixit,GSB A,physics,2,1,4
+145,Nyasa Gupta,Quarry Lane A,math,1,0,4
+145,Nyles Han,Quarry Lane A,chemistry,1,0,4
+145,Nyles Han,Quarry Lane A,energy,0,1,-4
+145,Rayirth Lakharia,Quarry Lane A,math,1,0,4
+145,Rayirth Lakharia,Quarry Lane A,physics,1,0,4
+146,Kaiyuan Ding,GSB B,other,2,0,8
+146,Margaret Beery,GSB B,biology,1,0,4
+146,Max Li,GSB B,math,2,0,8
+146,Max Li,GSB B,physics,1,0,4
+146,Matthew Yuan,Lynbrook B,biology,3,0,12
+146,Matthew Yuan,Lynbrook B,math,1,0,4
+146,Sophia Fan,Lynbrook B,chemistry,2,0,8
+146,Sophia Fan,Lynbrook B,energy,1,0,4
+146,Sophia Fan,Lynbrook B,physics,1,0,4
+146,Vincent Qin,Lynbrook B,other,2,0,8
+146,Vincent Qin,Lynbrook B,math,1,0,4
+147,Anya Agarwal,Los Gatos,chemistry,1,0,4
+147,Atharava Pandey,Los Gatos,chemistry,0,1,-4
+147,Abhinav Krishna Senthil Kumar,Mira Loma A,chemistry,3,1,8
+147,Abhinav Krishna Senthil Kumar,Mira Loma A,other,2,0,8
+147,Abhinav Krishna Senthil Kumar,Mira Loma A,energy,2,0,8
+147,Abhinav Krishna Senthil Kumar,Mira Loma A,math,1,0,4
+147,Abhinav Krishna Senthil Kumar,Mira Loma A,physics,2,0,8
+147,Bryan Nasr,Mira Loma A,physics,1,0,4
+147,Krish Singh,Mira Loma A,biology,3,0,12
+148,Andrew Liu,Lynbrook A,biology,4,0,16
+148,Andrew Liu,Lynbrook A,chemistry,1,0,4
+148,Andrew Liu,Lynbrook A,energy,0,1,-4
+148,Andrew Liu,Lynbrook A,physics,1,0,4
+148,Philip Kohr,Lynbrook A,other,2,1,4
+148,Philip Kohr,Lynbrook A,energy,1,0,4
+148,Philip Kohr,Lynbrook A,physics,1,0,4
+148,Ryan Bansal,Lynbrook A,math,2,0,8
+148,Ryan Bansal,Lynbrook A,physics,1,0,4
+148,Sohil Rathi,Lynbrook A,chemistry,3,0,12
+148,Sohil Rathi,Lynbrook A,energy,1,0,4
+148,Chun Tu Matthew Yu,Mountain House B,other,1,0,4
+148,Neel Raina,Mountain House B,chemistry,0,1,-4
+148,Shreyas Mandayam,Mountain House B,biology,0,1,-4
+148,Shreyas Mandayam,Mountain House B,math,0,1,-4
+149,Arthur Chang,Miller,energy,0,1,-4
+149,Arthur Chang,Miller,math,0,1,-4
+149,Arthur Chang,Miller,physics,2,0,8
+149,Asad Rahman,Miller,energy,1,0,4
+149,Asad Rahman,Miller,math,2,0,8
+149,Pranik Biswas,Miller,biology,1,0,4
+149,Shien Fang,Miller,chemistry,1,0,4
+149,Advaith Mopuri,Mission San Jose A,math,1,0,4
+149,Roshan Annamalai,Mission San Jose A,other,4,0,16
+149,Roshan Annamalai,Mission San Jose A,physics,2,0,8
+149,Rutvik Arora,Mission San Jose A,energy,0,1,-4
+149,Theenash Sengupta,Mission San Jose A,biology,3,1,8
+149,Theenash Sengupta,Mission San Jose A,chemistry,2,2,0
+149,Theenash Sengupta,Mission San Jose A,energy,2,0,8
+150,Hasita Venkat Raman,Mountain House A,biology,1,0,4
+150,Ibrahim Nadeem,Mountain House A,energy,2,0,8
+150,Ibrahim Nadeem,Mountain House A,math,4,0,16
+150,Ibrahim Nadeem,Mountain House A,physics,1,0,4
+150,Sampriti Brahma,Mountain House A,chemistry,0,1,-4
+150,Josh Tittiranonda,Stanford Online,other,1,0,4
+150,Josh Tittiranonda,Stanford Online,math,0,1,-4
+150,Josh Tittiranonda,Stanford Online,physics,3,0,12
+150,Vikrant Chintanaboina,Stanford Online,biology,2,0,8
+150,Vikrant Chintanaboina,Stanford Online,chemistry,4,0,16
+150,Vinayak Vikram,Stanford Online,other,1,0,4
+150,Vinayak Vikram,Stanford Online,energy,0,2,-8
+151,Mia Hasanain,San Mateo,other,1,0,4
+151,Alex Ge,Saratoga,biology,2,0,8
+151,Alex Ge,Saratoga,chemistry,1,2,-4
+151,Alex Ge,Saratoga,other,2,0,8
+151,Alex Ge,Saratoga,energy,1,0,4
+151,Max Rombakh,Saratoga,other,1,0,4
+151,Max Rombakh,Saratoga,energy,1,1,0
+151,Max Rombakh,Saratoga,math,1,0,4
+151,Max Rombakh,Saratoga,physics,3,0,12
+151,Quinn Gifford,Saratoga,chemistry,1,0,4
+151,Quinn Gifford,Saratoga,physics,1,0,4
+151,Warren Chee,Saratoga,math,2,1,4

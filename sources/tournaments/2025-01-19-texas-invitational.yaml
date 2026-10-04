@@ -1,0 +1,29 @@
+id: 2025-01-19-texas-invitational
+name: Texas Invitational
+date: '2025-01-19'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1La5Wr-yXdoNFjwLc47WtEhA3aV-HttQ-6F3DBwmJuH0
+  url: https://docs.google.com/spreadsheets/d/1La5Wr-yXdoNFjwLc47WtEhA3aV-HttQ-6F3DBwmJuH0/edit?gid=1148783192#gid=1148783192
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1mOKnaq0-nSvL863-SrAN8x5zWR9AsgE6qOelC1GFNRQ
+  url: https://docs.google.com/spreadsheets/d/1mOKnaq0-nSvL863-SrAN8x5zWR9AsgE6qOelC1GFNRQ/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

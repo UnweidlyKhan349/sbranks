@@ -1,0 +1,29 @@
+id: 2025-01-12-nwi-2
+name: NWI 2
+date: '2025-01-12'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1EDGL758Ex3VX1xKQ5fHn4WDxeG4N9vrRnqhGS8Dkx5A
+  url: https://docs.google.com/spreadsheets/d/1EDGL758Ex3VX1xKQ5fHn4WDxeG4N9vrRnqhGS8Dkx5A/edit?gid=2097396140#gid=2097396140
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1CS95zegBp8UHso-0L06A9KrJiypmHiM91DSPa1JnQQ0
+  url: https://docs.google.com/spreadsheets/d/1CS95zegBp8UHso-0L06A9KrJiypmHiM91DSPa1JnQQ0/edit?gid=368021216#gid=368021216
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

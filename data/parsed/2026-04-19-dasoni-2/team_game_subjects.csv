@@ -1,0 +1,1221 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+1,BISV B,biology,4,4,0,1,0
+1,BISV B,chemistry,18,8,10,2,0
+1,BISV B,other,0,0,0,0,0
+1,BISV B,math,0,0,0,0,0
+1,BISV B,physics,-4,-4,0,0,1
+1,Canyon Crest A,biology,18,8,10,2,0
+1,Canyon Crest A,chemistry,10,0,10,1,1
+1,Canyon Crest A,other,4,4,0,2,1
+1,Canyon Crest A,math,22,12,10,3,0
+1,Canyon Crest A,physics,46,16,30,4,0
+2,Clements,biology,0,0,0,0,0
+2,Clements,chemistry,32,12,20,3,0
+2,Clements,other,0,0,0,0,0
+2,Clements,math,32,12,20,3,0
+2,Clements,physics,28,8,20,2,0
+2,Whitney Young,biology,22,12,10,3,0
+2,Whitney Young,chemistry,14,4,10,1,0
+2,Whitney Young,other,26,16,10,4,0
+2,Whitney Young,math,14,4,10,1,0
+2,Whitney Young,physics,14,4,10,2,1
+3,Allen School,biology,0,0,0,0,0
+3,Allen School,chemistry,18,8,10,2,0
+3,Allen School,other,18,8,10,2,0
+3,Allen School,math,0,0,0,1,1
+3,Allen School,physics,32,12,20,3,0
+3,Clovis North,biology,46,16,30,4,0
+3,Clovis North,chemistry,10,0,10,1,1
+3,Clovis North,other,8,8,0,2,0
+3,Clovis North,math,18,8,10,2,0
+3,Clovis North,physics,10,0,10,1,1
+4,WWPS B,biology,0,0,0,0,0
+4,WWPS B,chemistry,32,12,20,3,0
+4,WWPS B,other,8,8,0,2,0
+4,WWPS B,math,4,4,0,1,0
+4,WWPS B,physics,0,0,0,0,0
+4,Woodlands,biology,4,4,0,1,0
+4,Woodlands,chemistry,4,4,0,1,0
+4,Woodlands,other,4,4,0,1,0
+4,Woodlands,math,8,8,0,2,0
+4,Woodlands,physics,8,8,0,2,0
+5,MSJ,biology,56,16,40,4,0
+5,MSJ,chemistry,38,8,30,3,1
+5,MSJ,other,24,4,20,2,1
+5,MSJ,math,42,12,30,3,0
+5,MSJ,physics,46,16,30,4,0
+5,North Hollywood B,biology,0,0,0,0,0
+5,North Hollywood B,chemistry,4,4,0,1,0
+5,North Hollywood B,other,18,8,10,2,0
+5,North Hollywood B,math,4,4,0,1,0
+5,North Hollywood B,physics,0,0,0,0,0
+6,Deap South,biology,32,12,20,3,0
+6,Deap South,chemistry,10,0,10,2,2
+6,Deap South,other,26,16,10,4,0
+6,Deap South,math,42,12,30,3,0
+6,Deap South,physics,36,16,20,4,0
+6,Ward Melville,biology,0,0,0,0,0
+6,Ward Melville,chemistry,18,8,10,2,0
+6,Ward Melville,other,0,0,0,0,0
+6,Ward Melville,math,4,4,0,1,0
+6,Ward Melville,physics,0,0,0,0,0
+7,Lexington A,biology,-8,-8,0,0,2
+7,Lexington A,chemistry,24,4,20,2,1
+7,Lexington A,other,14,4,10,2,1
+7,Lexington A,math,18,8,10,2,0
+7,Lexington A,physics,18,8,10,2,0
+7,North Allegheny,biology,56,16,40,4,0
+7,North Allegheny,chemistry,14,4,10,1,0
+7,North Allegheny,other,4,4,0,1,0
+7,North Allegheny,math,14,4,10,1,0
+7,North Allegheny,physics,4,4,0,2,1
+8,Lynbrook B,biology,0,0,0,0,0
+8,Lynbrook B,chemistry,28,8,20,2,0
+8,Lynbrook B,other,18,8,10,2,0
+8,Lynbrook B,math,0,0,0,0,0
+8,Lynbrook B,physics,28,8,20,2,0
+8,WWPS A,biology,56,16,40,4,0
+8,WWPS A,chemistry,10,0,10,2,2
+8,WWPS A,other,0,0,0,0,0
+8,WWPS A,math,46,16,30,4,0
+8,WWPS A,physics,14,4,10,2,1
+9,Collierville B,biology,0,0,0,0,0
+9,Collierville B,chemistry,-4,-4,0,0,1
+9,Collierville B,other,0,0,0,0,0
+9,Collierville B,math,4,4,0,1,0
+9,Collierville B,physics,0,0,0,0,0
+9,Iolani A,biology,28,8,20,2,0
+9,Iolani A,chemistry,36,16,20,4,0
+9,Iolani A,other,26,16,10,4,0
+9,Iolani A,math,22,12,10,3,0
+9,Iolani A,physics,46,16,30,4,0
+10,Doral Academy,biology,32,12,20,3,0
+10,Doral Academy,chemistry,14,4,10,1,0
+10,Doral Academy,other,0,0,0,0,0
+10,Doral Academy,math,8,8,0,2,0
+10,Doral Academy,physics,18,8,10,2,0
+10,Palo Alto,biology,0,0,0,1,1
+10,Palo Alto,chemistry,32,12,20,3,0
+10,Palo Alto,other,6,-4,10,1,2
+10,Palo Alto,math,18,8,10,2,0
+10,Palo Alto,physics,28,8,20,2,0
+11,American Heritage Broward,biology,22,12,10,3,0
+11,American Heritage Broward,chemistry,0,0,0,0,0
+11,American Heritage Broward,other,0,0,0,0,0
+11,American Heritage Broward,math,8,8,0,2,0
+11,American Heritage Broward,physics,14,4,10,1,0
+11,Lexington B,biology,-4,-4,0,0,1
+11,Lexington B,chemistry,56,16,40,4,0
+11,Lexington B,other,8,8,0,2,0
+11,Lexington B,math,18,8,10,2,0
+11,Lexington B,physics,18,8,10,3,1
+12,Bridgeland,biology,18,8,10,2,0
+12,Bridgeland,chemistry,18,8,10,2,0
+12,Bridgeland,other,-4,-4,0,0,1
+12,Bridgeland,math,8,8,0,2,0
+12,Bridgeland,physics,14,4,10,1,0
+12,Punahou School,biology,-4,-4,0,0,1
+12,Punahou School,chemistry,24,4,20,2,1
+12,Punahou School,other,32,12,20,3,0
+12,Punahou School,math,18,8,10,2,0
+12,Punahou School,physics,18,8,10,2,0
+13,Collierville A,biology,22,12,10,3,0
+13,Collierville A,chemistry,28,8,20,3,1
+13,Collierville A,other,4,4,0,1,0
+13,Collierville A,math,8,8,0,2,0
+13,Collierville A,physics,32,12,20,3,0
+13,Iolani B,biology,0,0,0,0,0
+13,Iolani B,chemistry,-8,-8,0,0,2
+13,Iolani B,other,8,8,0,2,0
+13,Iolani B,math,28,8,20,2,0
+13,Iolani B,physics,0,0,0,1,1
+14,Canyon Crest B,biology,0,0,0,0,0
+14,Canyon Crest B,chemistry,0,0,0,0,0
+14,Canyon Crest B,other,0,0,0,0,0
+14,Canyon Crest B,math,0,0,0,0,0
+14,Canyon Crest B,physics,0,0,0,0,0
+14,Lynbrook A,biology,32,12,20,3,0
+14,Lynbrook A,chemistry,56,16,40,4,0
+14,Lynbrook A,other,8,8,0,2,0
+14,Lynbrook A,math,56,16,40,4,0
+14,Lynbrook A,physics,46,16,30,4,0
+15,Arcadia A,biology,18,8,10,2,0
+15,Arcadia A,chemistry,42,12,30,3,0
+15,Arcadia A,other,8,8,0,2,0
+15,Arcadia A,math,14,4,10,1,0
+15,Arcadia A,physics,32,12,20,3,0
+15,Luka Fan Club,biology,4,4,0,1,0
+15,Luka Fan Club,chemistry,6,-4,10,1,2
+15,Luka Fan Club,other,10,0,10,1,1
+15,Luka Fan Club,math,42,12,30,3,0
+15,Luka Fan Club,physics,10,0,10,1,1
+16,Hunter,biology,22,12,10,3,0
+16,Hunter,chemistry,42,12,30,3,0
+16,Hunter,other,0,0,0,0,0
+16,Hunter,math,0,0,0,0,0
+16,Hunter,physics,18,8,10,2,0
+16,North Hollywood A,biology,14,4,10,1,0
+16,North Hollywood A,chemistry,14,4,10,1,0
+16,North Hollywood A,other,22,12,10,3,0
+16,North Hollywood A,math,46,16,30,4,0
+16,North Hollywood A,physics,14,4,10,2,1
+17,Arcadia B,biology,22,12,10,3,0
+17,Arcadia B,chemistry,4,4,0,1,0
+17,Arcadia B,other,4,4,0,1,0
+17,Arcadia B,math,28,8,20,2,0
+17,Arcadia B,physics,10,0,10,1,1
+17,Enloe,biology,0,0,0,0,0
+17,Enloe,chemistry,42,12,30,3,0
+17,Enloe,other,4,4,0,2,1
+17,Enloe,math,18,8,10,2,0
+17,Enloe,physics,32,12,20,3,0
+18,BISV A,biology,28,8,20,3,1
+18,BISV A,chemistry,10,0,10,1,1
+18,BISV A,other,8,8,0,2,0
+18,BISV A,math,8,8,0,2,0
+18,BISV A,physics,28,8,20,3,1
+18,Benjamin Franklin,biology,14,4,10,1,0
+18,Benjamin Franklin,chemistry,22,12,10,3,0
+18,Benjamin Franklin,other,4,4,0,1,0
+18,Benjamin Franklin,math,8,8,0,2,0
+18,Benjamin Franklin,physics,0,0,0,0,0
+19,Deep Run,biology,24,4,20,2,1
+19,Deep Run,chemistry,-4,-4,0,0,1
+19,Deep Run,other,8,8,0,2,0
+19,Deep Run,math,28,8,20,2,0
+19,Deep Run,physics,14,4,10,2,1
+19,Thomas Jefferson,biology,24,4,20,2,1
+19,Thomas Jefferson,chemistry,56,16,40,4,0
+19,Thomas Jefferson,other,0,0,0,1,1
+19,Thomas Jefferson,math,0,0,0,0,0
+19,Thomas Jefferson,physics,14,4,10,2,1
+20,Arcadia A,biology,0,0,0,0,0
+20,Arcadia A,chemistry,0,0,0,0,0
+20,Arcadia A,other,8,8,0,2,0
+20,Arcadia A,math,14,4,10,1,0
+20,Arcadia A,physics,14,4,10,1,0
+20,Varun Clemens,biology,56,16,40,4,0
+20,Varun Clemens,chemistry,46,16,30,4,0
+20,Varun Clemens,other,0,0,0,1,1
+20,Varun Clemens,math,0,0,0,1,1
+20,Varun Clemens,physics,32,12,20,3,0
+21,BISV A,biology,38,8,30,3,1
+21,BISV A,chemistry,18,8,10,2,0
+21,BISV A,other,4,4,0,2,1
+21,BISV A,math,-4,-4,0,0,1
+21,BISV A,physics,18,8,10,3,1
+21,Bridgeland,biology,4,4,0,1,0
+21,Bridgeland,chemistry,4,4,0,1,0
+21,Bridgeland,other,14,4,10,1,0
+21,Bridgeland,math,4,4,0,1,0
+21,Bridgeland,physics,4,4,0,1,0
+22,Ward Melville,biology,8,8,0,2,0
+22,Ward Melville,chemistry,4,4,0,1,0
+22,Ward Melville,other,8,8,0,2,0
+22,Ward Melville,math,32,12,20,3,0
+22,Ward Melville,physics,4,4,0,1,0
+22,Woodlands,biology,14,4,10,1,0
+22,Woodlands,chemistry,28,8,20,2,0
+22,Woodlands,other,14,4,10,1,0
+22,Woodlands,math,0,0,0,0,0
+22,Woodlands,physics,4,4,0,1,0
+23,Eastlake,biology,14,4,10,2,1
+23,Eastlake,chemistry,18,8,10,2,0
+23,Eastlake,other,14,4,10,1,0
+23,Eastlake,math,10,0,10,1,1
+23,Eastlake,physics,0,0,0,0,0
+23,Whitney Young,biology,4,4,0,1,0
+23,Whitney Young,chemistry,18,8,10,2,0
+23,Whitney Young,other,8,8,0,2,0
+23,Whitney Young,math,42,12,30,3,0
+23,Whitney Young,physics,36,16,20,4,0
+24,Benjamin Franklin,biology,4,4,0,1,0
+24,Benjamin Franklin,chemistry,0,0,0,0,0
+24,Benjamin Franklin,other,4,4,0,1,0
+24,Benjamin Franklin,math,14,4,10,1,0
+24,Benjamin Franklin,physics,18,8,10,2,0
+24,North Hollywood B,biology,32,12,20,3,0
+24,North Hollywood B,chemistry,24,4,20,2,1
+24,North Hollywood B,other,24,4,20,2,1
+24,North Hollywood B,math,28,8,20,2,0
+24,North Hollywood B,physics,14,4,10,1,0
+25,Collierville B,biology,18,8,10,2,0
+25,Collierville B,chemistry,28,8,20,2,0
+25,Collierville B,other,0,0,0,0,0
+25,Collierville B,math,4,4,0,1,0
+25,Collierville B,physics,28,8,20,2,0
+25,Hunter,biology,14,4,10,1,0
+25,Hunter,chemistry,18,8,10,2,0
+25,Hunter,other,46,16,30,4,0
+25,Hunter,math,42,12,30,3,0
+25,Hunter,physics,8,8,0,2,0
+26,Collierville A,biology,0,0,0,1,1
+26,Collierville A,chemistry,46,16,30,4,0
+26,Collierville A,other,22,12,10,3,0
+26,Collierville A,math,32,12,20,3,0
+26,Collierville A,physics,4,4,0,1,0
+26,WWPS B,biology,28,8,20,2,0
+26,WWPS B,chemistry,0,0,0,0,0
+26,WWPS B,other,14,4,10,1,0
+26,WWPS B,math,0,0,0,0,0
+26,WWPS B,physics,4,4,0,1,0
+27,Deep Run,biology,14,4,10,1,0
+27,Deep Run,chemistry,0,0,0,0,0
+27,Deep Run,other,0,0,0,1,1
+27,Deep Run,math,-4,-4,0,0,1
+27,Deep Run,physics,4,4,0,1,0
+27,Morgantown,biology,14,4,10,1,0
+27,Morgantown,chemistry,32,12,20,3,0
+27,Morgantown,other,18,8,10,2,0
+27,Morgantown,math,28,8,20,3,1
+27,Morgantown,physics,10,0,10,1,1
+28,Doral Academy,biology,18,8,10,2,0
+28,Doral Academy,chemistry,28,8,20,2,0
+28,Doral Academy,other,0,0,0,0,0
+28,Doral Academy,math,46,16,30,4,0
+28,Doral Academy,physics,0,0,0,1,1
+28,North Allegheny,biology,28,8,20,2,0
+28,North Allegheny,chemistry,24,4,20,2,1
+28,North Allegheny,other,26,16,10,4,0
+28,North Allegheny,math,0,0,0,0,0
+28,North Allegheny,physics,42,12,30,3,0
+29,Lexington B,biology,14,4,10,2,1
+29,Lexington B,chemistry,0,0,0,0,0
+29,Lexington B,other,14,4,10,2,1
+29,Lexington B,math,24,4,20,2,1
+29,Lexington B,physics,0,0,0,0,0
+29,North Hollywood A,biology,28,8,20,2,0
+29,North Hollywood A,chemistry,56,16,40,4,0
+29,North Hollywood A,other,0,0,0,1,1
+29,North Hollywood A,math,8,8,0,2,0
+29,North Hollywood A,physics,38,8,30,3,1
+30,Lexington A,biology,20,0,20,2,2
+30,Lexington A,chemistry,56,16,40,4,0
+30,Lexington A,other,14,4,10,2,1
+30,Lexington A,math,28,8,20,2,0
+30,Lexington A,physics,14,4,10,1,0
+30,Quail Valley,biology,28,8,20,2,0
+30,Quail Valley,chemistry,0,0,0,0,0
+30,Quail Valley,other,8,8,0,2,0
+30,Quail Valley,math,28,8,20,2,0
+30,Quail Valley,physics,18,8,10,2,0
+31,BASIS Chandler,biology,56,16,40,4,0
+31,BASIS Chandler,chemistry,46,16,30,4,0
+31,BASIS Chandler,other,18,8,10,3,1
+31,BASIS Chandler,math,32,12,20,3,0
+31,BASIS Chandler,physics,18,8,10,3,1
+31,Enloe,biology,-4,-4,0,0,1
+31,Enloe,chemistry,0,0,0,0,0
+31,Enloe,other,0,0,0,0,0
+31,Enloe,math,0,0,0,0,0
+31,Enloe,physics,4,4,0,1,0
+32,American Heritage Broward,biology,18,8,10,2,0
+32,American Heritage Broward,chemistry,4,4,0,1,0
+32,American Heritage Broward,other,0,0,0,0,0
+32,American Heritage Broward,math,28,8,20,2,0
+32,American Heritage Broward,physics,4,4,0,1,0
+32,Iolani A,biology,24,4,20,2,1
+32,Iolani A,chemistry,42,12,30,3,0
+32,Iolani A,other,8,8,0,2,0
+32,Iolani A,math,14,4,10,1,0
+32,Iolani A,physics,18,8,10,2,0
+33,Deap South,biology,20,0,20,2,2
+33,Deap South,chemistry,46,16,30,4,0
+33,Deap South,other,8,8,0,3,1
+33,Deap South,math,24,4,20,2,1
+33,Deap South,physics,32,12,20,3,0
+33,Iolani B,biology,0,0,0,1,1
+33,Iolani B,chemistry,0,0,0,0,0
+33,Iolani B,other,-8,-8,0,0,2
+33,Iolani B,math,28,8,20,2,0
+33,Iolani B,physics,-4,-4,0,1,2
+34,BISV B,biology,0,0,0,0,0
+34,BISV B,chemistry,4,4,0,1,0
+34,BISV B,other,4,4,0,1,0
+34,BISV B,math,10,0,10,1,1
+34,BISV B,physics,4,4,0,1,0
+34,Luka Fan Club,biology,24,4,20,2,1
+34,Luka Fan Club,chemistry,32,12,20,3,0
+34,Luka Fan Club,other,18,8,10,3,1
+34,Luka Fan Club,math,28,8,20,3,1
+34,Luka Fan Club,physics,28,8,20,2,0
+35,MSJ,biology,56,16,40,4,0
+35,MSJ,chemistry,42,12,30,3,0
+35,MSJ,other,6,-4,10,1,2
+35,MSJ,math,20,0,20,2,2
+35,MSJ,physics,14,4,10,2,1
+35,Punahou School,biology,0,0,0,0,0
+35,Punahou School,chemistry,14,4,10,1,0
+35,Punahou School,other,0,0,0,1,1
+35,Punahou School,math,8,8,0,2,0
+35,Punahou School,physics,18,8,10,2,0
+36,Clements,biology,4,4,0,1,0
+36,Clements,chemistry,18,8,10,2,0
+36,Clements,other,22,12,10,3,0
+36,Clements,math,24,4,20,2,1
+36,Clements,physics,28,8,20,3,1
+36,Lynbrook B,biology,8,8,0,2,0
+36,Lynbrook B,chemistry,18,8,10,2,0
+36,Lynbrook B,other,4,4,0,1,0
+36,Lynbrook B,math,8,8,0,2,0
+36,Lynbrook B,physics,0,0,0,0,0
+37,Clovis North,biology,0,0,0,0,0
+37,Clovis North,chemistry,32,12,20,3,0
+37,Clovis North,other,4,4,0,1,0
+37,Clovis North,math,14,4,10,1,0
+37,Clovis North,physics,32,12,20,3,0
+37,Thomas Jefferson,biology,46,16,30,4,0
+37,Thomas Jefferson,chemistry,14,4,10,1,0
+37,Thomas Jefferson,other,0,0,0,2,2
+37,Thomas Jefferson,math,28,8,20,3,1
+37,Thomas Jefferson,physics,-4,-4,0,0,1
+38,Arcadia B,biology,4,4,0,1,0
+38,Arcadia B,chemistry,10,0,10,1,1
+38,Arcadia B,other,0,0,0,0,0
+38,Arcadia B,math,-4,-4,0,0,1
+38,Arcadia B,physics,4,4,0,1,0
+38,Lynbrook A,biology,42,12,30,3,0
+38,Lynbrook A,chemistry,32,12,20,3,0
+38,Lynbrook A,other,8,8,0,2,0
+38,Lynbrook A,math,56,16,40,4,0
+38,Lynbrook A,physics,38,8,30,3,1
+39,Canyon Crest A,biology,-4,-4,0,0,1
+39,Canyon Crest A,chemistry,28,8,20,2,0
+39,Canyon Crest A,other,0,0,0,0,0
+39,Canyon Crest A,math,4,4,0,1,0
+39,Canyon Crest A,physics,8,8,0,2,0
+39,Luka Fan Club,biology,20,0,20,2,2
+39,Luka Fan Club,chemistry,10,0,10,1,1
+39,Luka Fan Club,other,24,4,20,2,1
+39,Luka Fan Club,math,4,4,0,1,0
+39,Luka Fan Club,physics,18,8,10,2,0
+40,WWPS B,biology,0,0,0,0,0
+40,WWPS B,chemistry,0,0,0,1,1
+40,WWPS B,other,10,0,10,1,1
+40,WWPS B,math,4,4,0,1,0
+40,WWPS B,physics,14,4,10,1,0
+40,Ward Melville,biology,16,16,0,4,0
+40,Ward Melville,chemistry,14,4,10,1,0
+40,Ward Melville,other,0,0,0,0,0
+40,Ward Melville,math,0,0,0,0,0
+40,Ward Melville,physics,4,4,0,1,0
+41,Bridgeland,biology,4,4,0,1,0
+41,Bridgeland,chemistry,14,4,10,1,0
+41,Bridgeland,other,0,0,0,0,0
+41,Bridgeland,math,0,0,0,0,0
+41,Bridgeland,physics,0,0,0,0,0
+41,North Hollywood B,biology,4,4,0,1,0
+41,North Hollywood B,chemistry,28,8,20,3,1
+41,North Hollywood B,other,28,8,20,3,1
+41,North Hollywood B,math,8,8,0,2,0
+41,North Hollywood B,physics,36,16,20,4,0
+42,BISV B,biology,4,4,0,1,0
+42,BISV B,chemistry,14,4,10,1,0
+42,BISV B,other,0,0,0,0,0
+42,BISV B,math,4,4,0,1,0
+42,BISV B,physics,0,0,0,0,0
+42,Varun Clemens,biology,10,0,10,1,1
+42,Varun Clemens,chemistry,24,4,20,2,1
+42,Varun Clemens,other,2,-8,10,1,3
+42,Varun Clemens,math,18,8,10,2,0
+42,Varun Clemens,physics,28,8,20,3,1
+43,Iolani B,biology,-4,-4,0,0,1
+43,Iolani B,chemistry,46,16,30,4,0
+43,Iolani B,other,0,0,0,1,1
+43,Iolani B,math,18,8,10,2,0
+43,Iolani B,physics,10,0,10,1,1
+43,Woodlands,biology,4,4,0,1,0
+43,Woodlands,chemistry,0,0,0,0,0
+43,Woodlands,other,10,0,10,1,1
+43,Woodlands,math,0,0,0,0,0
+43,Woodlands,physics,0,0,0,1,1
+44,Arcadia B,biology,14,4,10,1,0
+44,Arcadia B,chemistry,28,8,20,3,1
+44,Arcadia B,other,0,0,0,0,0
+44,Arcadia B,math,8,8,0,2,0
+44,Arcadia B,physics,22,12,10,3,0
+44,Canyon Crest B,biology,4,4,0,1,0
+44,Canyon Crest B,chemistry,0,0,0,0,0
+44,Canyon Crest B,other,0,0,0,0,0
+44,Canyon Crest B,math,4,4,0,1,0
+44,Canyon Crest B,physics,0,0,0,0,0
+45,Clements,biology,14,4,10,1,0
+45,Clements,chemistry,42,12,30,3,0
+45,Clements,other,-4,-4,0,1,2
+45,Clements,math,14,4,10,2,1
+45,Clements,physics,18,8,10,2,0
+45,WWPS A,biology,24,4,20,2,1
+45,WWPS A,chemistry,6,-4,10,1,2
+45,WWPS A,other,4,4,0,1,0
+45,WWPS A,math,14,4,10,2,1
+45,WWPS A,physics,18,8,10,2,0
+46,Benjamin Franklin,biology,0,0,0,0,0
+46,Benjamin Franklin,chemistry,0,0,0,0,0
+46,Benjamin Franklin,other,4,4,0,1,0
+46,Benjamin Franklin,math,4,4,0,1,0
+46,Benjamin Franklin,physics,8,8,0,2,0
+46,MSJ,biology,38,8,30,3,1
+46,MSJ,chemistry,32,12,20,3,0
+46,MSJ,other,-4,-4,0,1,2
+46,MSJ,math,42,12,30,3,0
+46,MSJ,physics,10,0,10,1,1
+47,North Allegheny,biology,28,8,20,2,0
+47,North Allegheny,chemistry,10,0,10,1,1
+47,North Allegheny,other,14,4,10,1,0
+47,North Allegheny,math,-4,-4,0,0,1
+47,North Allegheny,physics,32,12,20,3,0
+47,Palo Alto,biology,4,4,0,1,0
+47,Palo Alto,chemistry,14,4,10,2,1
+47,Palo Alto,other,24,4,20,2,1
+47,Palo Alto,math,26,16,10,4,0
+47,Palo Alto,physics,0,0,0,1,1
+48,Doral Academy,biology,42,12,30,3,0
+48,Doral Academy,chemistry,22,12,10,3,0
+48,Doral Academy,other,14,4,10,1,0
+48,Doral Academy,math,38,8,30,3,1
+48,Doral Academy,physics,18,8,10,2,0
+48,Quail Valley,biology,0,0,0,0,0
+48,Quail Valley,chemistry,0,0,0,0,0
+48,Quail Valley,other,22,12,10,3,0
+48,Quail Valley,math,14,4,10,1,0
+48,Quail Valley,physics,18,8,10,2,0
+49,BISV A,biology,42,12,30,3,0
+49,BISV A,chemistry,14,4,10,1,0
+49,BISV A,other,10,0,10,1,1
+49,BISV A,math,4,4,0,1,0
+49,BISV A,physics,4,4,0,1,0
+49,Punahou School,biology,0,0,0,0,0
+49,Punahou School,chemistry,24,4,20,2,1
+49,Punahou School,other,42,12,30,3,0
+49,Punahou School,math,8,8,0,2,0
+49,Punahou School,physics,8,8,0,2,0
+50,Iolani A,biology,18,8,10,2,0
+50,Iolani A,chemistry,42,12,30,3,0
+50,Iolani A,other,0,0,0,0,0
+50,Iolani A,math,28,8,20,2,0
+50,Iolani A,physics,14,4,10,1,0
+50,North Hollywood A,biology,18,8,10,2,0
+50,North Hollywood A,chemistry,14,4,10,1,0
+50,North Hollywood A,other,24,4,20,2,1
+50,North Hollywood A,math,24,4,20,2,1
+50,North Hollywood A,physics,42,12,30,3,0
+51,Allen School,biology,22,12,10,3,0
+51,Allen School,chemistry,28,8,20,2,0
+51,Allen School,other,0,0,0,1,1
+51,Allen School,math,4,4,0,1,0
+51,Allen School,physics,22,12,10,3,0
+51,Thomas Jefferson,biology,-4,-4,0,0,1
+51,Thomas Jefferson,chemistry,6,-4,10,1,2
+51,Thomas Jefferson,other,14,4,10,1,0
+51,Thomas Jefferson,math,18,8,10,2,0
+51,Thomas Jefferson,physics,10,0,10,1,1
+52,Eastlake,biology,28,8,20,2,0
+52,Eastlake,chemistry,14,4,10,2,1
+52,Eastlake,other,18,8,10,3,1
+52,Eastlake,math,0,0,0,1,1
+52,Eastlake,physics,22,12,10,3,0
+52,Lynbrook B,biology,18,8,10,2,0
+52,Lynbrook B,chemistry,18,8,10,2,0
+52,Lynbrook B,other,0,0,0,0,0
+52,Lynbrook B,math,42,12,30,3,0
+52,Lynbrook B,physics,14,4,10,1,0
+53,BASIS Chandler,biology,32,12,20,3,0
+53,BASIS Chandler,chemistry,10,0,10,1,1
+53,BASIS Chandler,other,-12,-12,0,0,3
+53,BASIS Chandler,math,0,0,0,1,1
+53,BASIS Chandler,physics,6,-4,10,1,2
+53,Lynbrook A,biology,14,4,10,1,0
+53,Lynbrook A,chemistry,28,8,20,2,0
+53,Lynbrook A,other,18,8,10,2,0
+53,Lynbrook A,math,24,4,20,2,1
+53,Lynbrook A,physics,32,12,20,3,0
+54,Collierville A,biology,24,4,20,2,1
+54,Collierville A,chemistry,-4,-4,0,0,1
+54,Collierville A,other,-8,-8,0,0,2
+54,Collierville A,math,0,0,0,0,0
+54,Collierville A,physics,14,4,10,1,0
+54,Deap South,biology,14,4,10,1,0
+54,Deap South,chemistry,56,16,40,4,0
+54,Deap South,other,-4,-4,0,1,2
+54,Deap South,math,42,12,30,3,0
+54,Deap South,physics,18,8,10,2,0
+55,American Heritage Broward,biology,14,4,10,1,0
+55,American Heritage Broward,chemistry,8,8,0,2,0
+55,American Heritage Broward,other,0,0,0,0,0
+55,American Heritage Broward,math,18,8,10,2,0
+55,American Heritage Broward,physics,4,4,0,1,0
+55,Collierville B,biology,-4,-4,0,0,1
+55,Collierville B,chemistry,-4,-4,0,0,1
+55,Collierville B,other,4,4,0,1,0
+55,Collierville B,math,0,0,0,0,0
+55,Collierville B,physics,32,12,20,3,0
+56,Hunter,biology,0,0,0,0,0
+56,Hunter,chemistry,24,4,20,2,1
+56,Hunter,other,10,0,10,1,1
+56,Hunter,math,0,0,0,1,1
+56,Hunter,physics,18,8,10,2,0
+56,Lexington B,biology,46,16,30,4,0
+56,Lexington B,chemistry,20,0,20,2,2
+56,Lexington B,other,18,8,10,2,0
+56,Lexington B,math,4,4,0,1,0
+56,Lexington B,physics,14,4,10,1,0
+57,Clovis North,biology,46,16,30,4,0
+57,Clovis North,chemistry,0,0,0,1,1
+57,Clovis North,other,14,4,10,2,1
+57,Clovis North,math,4,4,0,1,0
+57,Clovis North,physics,32,12,20,3,0
+57,Morgantown,biology,-4,-4,0,0,1
+57,Morgantown,chemistry,28,8,20,2,0
+57,Morgantown,other,4,4,0,1,0
+57,Morgantown,math,8,8,0,2,0
+57,Morgantown,physics,14,4,10,1,0
+58,Arcadia A,biology,14,4,10,2,1
+58,Arcadia A,chemistry,38,8,30,3,1
+58,Arcadia A,other,-4,-4,0,0,1
+58,Arcadia A,math,6,-4,10,1,2
+58,Arcadia A,physics,4,4,0,1,0
+58,Canyon Crest A,biology,18,8,10,2,0
+58,Canyon Crest A,chemistry,14,4,10,1,0
+58,Canyon Crest A,other,16,16,0,4,0
+58,Canyon Crest A,math,18,8,10,2,0
+58,Canyon Crest A,physics,18,8,10,2,0
+59,WWPS A,biology,56,16,40,4,0
+59,WWPS A,chemistry,28,8,20,3,1
+59,WWPS A,other,10,0,10,1,1
+59,WWPS A,math,18,8,10,2,0
+59,WWPS A,physics,0,0,0,2,2
+59,Whitney Young,biology,0,0,0,0,0
+59,Whitney Young,chemistry,-4,-4,0,1,2
+59,Whitney Young,other,0,0,0,1,1
+59,Whitney Young,math,18,8,10,2,0
+59,Whitney Young,physics,8,8,0,2,0
+60,Canyon Crest B,biology,18,8,10,2,0
+60,Canyon Crest B,chemistry,0,0,0,0,0
+60,Canyon Crest B,other,4,4,0,1,0
+60,Canyon Crest B,math,14,4,10,1,0
+60,Canyon Crest B,physics,0,0,0,1,1
+60,Enloe,biology,4,4,0,2,1
+60,Enloe,chemistry,46,16,30,4,0
+60,Enloe,other,28,8,20,2,0
+60,Enloe,math,14,4,10,1,0
+60,Enloe,physics,14,4,10,1,0
+61,Arcadia B,biology,14,4,10,1,0
+61,Arcadia B,chemistry,32,12,20,3,0
+61,Arcadia B,other,0,0,0,0,0
+61,Arcadia B,math,14,4,10,1,0
+61,Arcadia B,physics,14,4,10,1,0
+61,BASIS Chandler,biology,42,12,30,3,0
+61,BASIS Chandler,chemistry,0,0,0,0,0
+61,BASIS Chandler,other,42,12,30,3,0
+61,BASIS Chandler,math,32,12,20,3,0
+61,BASIS Chandler,physics,14,4,10,2,1
+62,Allen School,biology,22,12,10,3,0
+62,Allen School,chemistry,22,12,10,3,0
+62,Allen School,other,4,4,0,1,0
+62,Allen School,math,18,8,10,2,0
+62,Allen School,physics,36,16,20,4,0
+62,Deep Run,biology,0,0,0,0,0
+62,Deep Run,chemistry,4,4,0,1,0
+62,Deep Run,other,-4,-4,0,0,1
+62,Deep Run,math,0,0,0,0,0
+62,Deep Run,physics,0,0,0,0,0
+63,BISV A,biology,24,4,20,2,1
+63,BISV A,chemistry,14,4,10,1,0
+63,BISV A,other,14,4,10,1,0
+63,BISV A,math,0,0,0,0,0
+63,BISV A,physics,0,0,0,0,0
+63,North Hollywood B,biology,18,8,10,2,0
+63,North Hollywood B,chemistry,14,4,10,2,1
+63,North Hollywood B,other,42,12,30,3,0
+63,North Hollywood B,math,18,8,10,2,0
+63,North Hollywood B,physics,22,12,10,3,0
+64,Luka Fan Club,biology,4,4,0,2,1
+64,Luka Fan Club,chemistry,-4,-4,0,0,1
+64,Luka Fan Club,other,10,0,10,1,1
+64,Luka Fan Club,math,28,8,20,2,0
+64,Luka Fan Club,physics,0,0,0,0,0
+64,Varun Clemens,biology,20,0,20,2,2
+64,Varun Clemens,chemistry,46,16,30,4,0
+64,Varun Clemens,other,28,8,20,3,1
+64,Varun Clemens,math,-4,-4,0,1,2
+64,Varun Clemens,physics,28,8,20,3,1
+65,Benjamin Franklin,biology,8,8,0,2,0
+65,Benjamin Franklin,chemistry,8,8,0,2,0
+65,Benjamin Franklin,other,0,0,0,0,0
+65,Benjamin Franklin,math,32,12,20,3,0
+65,Benjamin Franklin,physics,-4,-4,0,0,1
+65,Punahou School,biology,24,4,20,2,1
+65,Punahou School,chemistry,18,8,10,2,0
+65,Punahou School,other,32,12,20,3,0
+65,Punahou School,math,14,4,10,1,0
+65,Punahou School,physics,4,4,0,1,0
+66,Collierville A,biology,8,8,0,2,0
+66,Collierville A,chemistry,14,4,10,2,1
+66,Collierville A,other,14,4,10,2,1
+66,Collierville A,math,8,8,0,2,0
+66,Collierville A,physics,8,8,0,2,0
+66,Ward Melville,biology,18,8,10,2,0
+66,Ward Melville,chemistry,-4,-4,0,0,1
+66,Ward Melville,other,8,8,0,2,0
+66,Ward Melville,math,0,0,0,0,0
+66,Ward Melville,physics,4,4,0,1,0
+67,Clements,biology,6,-4,10,1,2
+67,Clements,chemistry,10,0,10,2,2
+67,Clements,other,36,16,20,4,0
+67,Clements,math,24,4,20,2,1
+67,Clements,physics,46,16,30,4,0
+67,Eastlake,biology,18,8,10,2,0
+67,Eastlake,chemistry,14,4,10,1,0
+67,Eastlake,other,0,0,0,0,0
+67,Eastlake,math,28,8,20,2,0
+67,Eastlake,physics,-4,-4,0,0,1
+68,Lexington A,biology,42,12,30,3,0
+68,Lexington A,chemistry,38,8,30,3,1
+68,Lexington A,other,18,8,10,2,0
+68,Lexington A,math,-8,-8,0,0,2
+68,Lexington A,physics,28,8,20,3,1
+68,Palo Alto,biology,4,4,0,1,0
+68,Palo Alto,chemistry,14,4,10,1,0
+68,Palo Alto,other,18,8,10,2,0
+68,Palo Alto,math,46,16,30,4,0
+68,Palo Alto,physics,0,0,0,0,0
+69,North Allegheny,biology,32,12,20,3,0
+69,North Allegheny,chemistry,36,16,20,4,0
+69,North Allegheny,other,14,4,10,2,1
+69,North Allegheny,math,28,8,20,2,0
+69,North Allegheny,physics,46,16,30,4,0
+69,Quail Valley,biology,14,4,10,1,0
+69,Quail Valley,chemistry,-4,-4,0,0,1
+69,Quail Valley,other,18,8,10,2,0
+69,Quail Valley,math,8,8,0,2,0
+69,Quail Valley,physics,0,0,0,0,0
+70,Deap South,biology,38,8,30,3,1
+70,Deap South,chemistry,46,16,30,4,0
+70,Deap South,other,26,16,10,4,0
+70,Deap South,math,32,12,20,3,0
+70,Deap South,physics,14,4,10,2,1
+70,Woodlands,biology,0,0,0,0,0
+70,Woodlands,chemistry,0,0,0,0,0
+70,Woodlands,other,0,0,0,0,0
+70,Woodlands,math,0,0,0,0,0
+70,Woodlands,physics,4,4,0,1,0
+71,Iolani B,biology,10,0,10,1,1
+71,Iolani B,chemistry,4,4,0,2,1
+71,Iolani B,other,-4,-4,0,0,1
+71,Iolani B,math,8,8,0,2,0
+71,Iolani B,physics,0,0,0,0,0
+71,WWPS B,biology,32,12,20,3,0
+71,WWPS B,chemistry,14,4,10,1,0
+71,WWPS B,other,42,12,30,3,0
+71,WWPS B,math,8,8,0,2,0
+71,WWPS B,physics,22,12,10,3,0
+72,Bridgeland,biology,4,4,0,1,0
+72,Bridgeland,chemistry,0,0,0,0,0
+72,Bridgeland,other,8,8,0,2,0
+72,Bridgeland,math,4,4,0,1,0
+72,Bridgeland,physics,0,0,0,1,1
+72,MSJ,biology,18,8,10,3,1
+72,MSJ,chemistry,56,16,40,4,0
+72,MSJ,other,18,8,10,2,0
+72,MSJ,math,-4,-4,0,1,2
+72,MSJ,physics,10,0,10,2,2
+73,Hunter,biology,14,4,10,1,0
+73,Hunter,chemistry,18,8,10,2,0
+73,Hunter,other,18,8,10,2,0
+73,Hunter,math,42,12,30,3,0
+73,Hunter,physics,14,4,10,2,1
+73,Iolani A,biology,24,4,20,2,1
+73,Iolani A,chemistry,14,4,10,2,1
+73,Iolani A,other,8,8,0,2,0
+73,Iolani A,math,14,4,10,1,0
+73,Iolani A,physics,24,4,20,2,1
+74,American Heritage Broward,biology,10,0,10,1,1
+74,American Heritage Broward,chemistry,0,0,0,0,0
+74,American Heritage Broward,other,0,0,0,0,0
+74,American Heritage Broward,math,4,4,0,1,0
+74,American Heritage Broward,physics,0,0,0,0,0
+74,North Hollywood A,biology,18,8,10,2,0
+74,North Hollywood A,chemistry,10,0,10,2,2
+74,North Hollywood A,other,28,8,20,3,1
+74,North Hollywood A,math,42,12,30,3,0
+74,North Hollywood A,physics,38,8,30,3,1
+75,Collierville B,biology,4,4,0,1,0
+75,Collierville B,chemistry,0,0,0,0,0
+75,Collierville B,other,0,0,0,0,0
+75,Collierville B,math,14,4,10,1,0
+75,Collierville B,physics,4,4,0,1,0
+75,Lexington B,biology,22,12,10,3,0
+75,Lexington B,chemistry,8,8,0,3,1
+75,Lexington B,other,26,16,10,4,0
+75,Lexington B,math,4,4,0,2,1
+75,Lexington B,physics,18,8,10,3,1
+76,Morgantown,biology,14,4,10,1,0
+76,Morgantown,chemistry,28,8,20,2,0
+76,Morgantown,other,-4,-4,0,0,1
+76,Morgantown,math,14,4,10,1,0
+76,Morgantown,physics,14,4,10,1,0
+76,Thomas Jefferson,biology,18,8,10,2,0
+76,Thomas Jefferson,chemistry,14,4,10,1,0
+76,Thomas Jefferson,other,16,16,0,4,0
+76,Thomas Jefferson,math,28,8,20,3,1
+76,Thomas Jefferson,physics,24,4,20,2,1
+77,Arcadia A,biology,4,4,0,1,0
+77,Arcadia A,chemistry,32,12,20,3,0
+77,Arcadia A,other,22,12,10,3,0
+77,Arcadia A,math,18,8,10,2,0
+77,Arcadia A,physics,12,12,0,3,0
+77,BISV B,biology,4,4,0,1,0
+77,BISV B,chemistry,0,0,0,0,0
+77,BISV B,other,-4,-4,0,0,1
+77,BISV B,math,-4,-4,0,0,1
+77,BISV B,physics,0,0,0,0,0
+78,BASIS Chandler,biology,22,12,10,3,0
+78,BASIS Chandler,chemistry,24,4,20,2,1
+78,BASIS Chandler,other,28,8,20,2,0
+78,BASIS Chandler,math,8,8,0,2,0
+78,BASIS Chandler,physics,22,12,10,3,0
+78,Canyon Crest B,biology,0,0,0,0,0
+78,Canyon Crest B,chemistry,0,0,0,0,0
+78,Canyon Crest B,other,0,0,0,0,0
+78,Canyon Crest B,math,0,0,0,0,0
+78,Canyon Crest B,physics,0,0,0,0,0
+79,Lynbrook B,biology,28,8,20,2,0
+79,Lynbrook B,chemistry,18,8,10,2,0
+79,Lynbrook B,other,32,12,20,3,0
+79,Lynbrook B,math,18,8,10,2,0
+79,Lynbrook B,physics,8,8,0,2,0
+79,Whitney Young,biology,0,0,0,0,0
+79,Whitney Young,chemistry,4,4,0,1,0
+79,Whitney Young,other,0,0,0,0,0
+79,Whitney Young,math,4,4,0,1,0
+79,Whitney Young,physics,0,0,0,0,0
+80,Iolani B,biology,0,0,0,0,0
+80,Iolani B,chemistry,46,16,30,4,0
+80,Iolani B,other,8,8,0,2,0
+80,Iolani B,math,18,8,10,2,0
+80,Iolani B,physics,8,8,0,3,1
+80,Ward Melville,biology,8,8,0,2,0
+80,Ward Melville,chemistry,0,0,0,0,0
+80,Ward Melville,other,0,0,0,0,0
+80,Ward Melville,math,14,4,10,1,0
+80,Ward Melville,physics,4,4,0,1,0
+81,BISV A,biology,14,4,10,1,0
+81,BISV A,chemistry,4,4,0,1,0
+81,BISV A,other,4,4,0,1,0
+81,BISV A,math,0,0,0,0,0
+81,BISV A,physics,4,4,0,1,0
+81,MSJ,biology,38,8,30,3,1
+81,MSJ,chemistry,38,8,30,3,1
+81,MSJ,other,20,0,20,2,2
+81,MSJ,math,14,4,10,2,1
+81,MSJ,physics,4,4,0,2,1
+82,Palo Alto,biology,4,4,0,1,0
+82,Palo Alto,chemistry,0,0,0,1,1
+82,Palo Alto,other,28,8,20,3,1
+82,Palo Alto,math,6,-4,10,1,2
+82,Palo Alto,physics,14,4,10,1,0
+82,Quail Valley,biology,0,0,0,1,1
+82,Quail Valley,chemistry,28,8,20,2,0
+82,Quail Valley,other,4,4,0,1,0
+82,Quail Valley,math,18,8,10,2,0
+82,Quail Valley,physics,14,4,10,1,0
+83,North Hollywood B,biology,4,4,0,1,0
+83,North Hollywood B,chemistry,14,4,10,2,1
+83,North Hollywood B,other,24,4,20,2,1
+83,North Hollywood B,math,4,4,0,1,0
+83,North Hollywood B,physics,14,4,10,2,1
+83,Punahou School,biology,8,8,0,2,0
+83,Punahou School,chemistry,24,4,20,2,1
+83,Punahou School,other,14,4,10,2,1
+83,Punahou School,math,0,0,0,1,1
+83,Punahou School,physics,0,0,0,0,0
+84,Clovis North,biology,14,4,10,1,0
+84,Clovis North,chemistry,42,12,30,3,0
+84,Clovis North,other,8,8,0,2,0
+84,Clovis North,math,0,0,0,1,1
+84,Clovis North,physics,8,8,0,2,0
+84,Deep Run,biology,8,8,0,2,0
+84,Deep Run,chemistry,0,0,0,0,0
+84,Deep Run,other,4,4,0,1,0
+84,Deep Run,math,4,4,0,1,0
+84,Deep Run,physics,0,0,0,1,1
+85,Collierville A,biology,42,12,30,3,0
+85,Collierville A,chemistry,46,16,30,4,0
+85,Collierville A,other,28,8,20,2,0
+85,Collierville A,math,10,0,10,1,1
+85,Collierville A,physics,4,4,0,2,1
+85,Woodlands,biology,4,4,0,1,0
+85,Woodlands,chemistry,0,0,0,0,0
+85,Woodlands,other,0,0,0,0,0
+85,Woodlands,math,0,0,0,0,0
+85,Woodlands,physics,8,8,0,2,0
+86,American Heritage Broward,biology,0,0,0,0,0
+86,American Heritage Broward,chemistry,0,0,0,0,0
+86,American Heritage Broward,other,0,0,0,0,0
+86,American Heritage Broward,math,0,0,0,0,0
+86,American Heritage Broward,physics,0,0,0,0,0
+86,Hunter,biology,4,4,0,1,0
+86,Hunter,chemistry,14,4,10,1,0
+86,Hunter,other,46,16,30,4,0
+86,Hunter,math,38,8,30,3,1
+86,Hunter,physics,12,12,0,3,0
+87,Iolani A,biology,14,4,10,1,0
+87,Iolani A,chemistry,24,4,20,2,1
+87,Iolani A,other,14,4,10,2,1
+87,Iolani A,math,46,16,30,4,0
+87,Iolani A,physics,0,0,0,1,1
+87,Lexington B,biology,28,8,20,2,0
+87,Lexington B,chemistry,14,4,10,2,1
+87,Lexington B,other,8,8,0,2,0
+87,Lexington B,math,-4,-4,0,0,1
+87,Lexington B,physics,14,4,10,1,0
+88,Benjamin Franklin,biology,4,4,0,1,0
+88,Benjamin Franklin,chemistry,0,0,0,1,1
+88,Benjamin Franklin,other,4,4,0,1,0
+88,Benjamin Franklin,math,18,8,10,2,0
+88,Benjamin Franklin,physics,8,8,0,2,0
+88,Bridgeland,biology,0,0,0,0,0
+88,Bridgeland,chemistry,4,4,0,1,0
+88,Bridgeland,other,0,0,0,1,1
+88,Bridgeland,math,0,0,0,0,0
+88,Bridgeland,physics,4,4,0,1,0
+89,Deap South,biology,6,-4,10,1,2
+89,Deap South,chemistry,56,16,40,4,0
+89,Deap South,other,28,8,20,2,0
+89,Deap South,math,22,12,10,3,0
+89,Deap South,physics,22,12,10,3,0
+89,WWPS B,biology,18,8,10,2,0
+89,WWPS B,chemistry,0,0,0,0,0
+89,WWPS B,other,8,8,0,2,0
+89,WWPS B,math,0,0,0,0,0
+89,WWPS B,physics,0,0,0,0,0
+90,Eastlake,biology,14,4,10,1,0
+90,Eastlake,chemistry,8,8,0,2,0
+90,Eastlake,other,22,12,10,3,0
+90,Eastlake,math,24,4,20,2,1
+90,Eastlake,physics,28,8,20,2,0
+90,WWPS A,biology,42,12,30,3,0
+90,WWPS A,chemistry,14,4,10,2,1
+90,WWPS A,other,-4,-4,0,0,1
+90,WWPS A,math,0,0,0,2,2
+90,WWPS A,physics,14,4,10,2,1
+91,Enloe,biology,18,8,10,2,0
+91,Enloe,chemistry,6,-4,10,1,2
+91,Enloe,other,4,4,0,2,1
+91,Enloe,math,14,4,10,1,0
+91,Enloe,physics,26,16,10,4,0
+91,Lynbrook A,biology,8,8,0,2,0
+91,Lynbrook A,chemistry,32,12,20,3,0
+91,Lynbrook A,other,18,8,10,2,0
+91,Lynbrook A,math,18,8,10,3,1
+91,Lynbrook A,physics,-4,-4,0,0,1
+92,Doral Academy,biology,14,4,10,1,0
+92,Doral Academy,chemistry,4,4,0,1,0
+92,Doral Academy,other,14,4,10,1,0
+92,Doral Academy,math,32,12,20,3,0
+92,Doral Academy,physics,18,8,10,2,0
+92,Lexington A,biology,24,4,20,2,1
+92,Lexington A,chemistry,42,12,30,3,0
+92,Lexington A,other,20,0,20,2,2
+92,Lexington A,math,0,0,0,0,0
+92,Lexington A,physics,14,4,10,2,1
+93,Collierville B,biology,4,4,0,1,0
+93,Collierville B,chemistry,14,4,10,1,0
+93,Collierville B,other,0,0,0,0,0
+93,Collierville B,math,0,0,0,0,0
+93,Collierville B,physics,0,0,0,0,0
+93,North Hollywood A,biology,0,0,0,1,1
+93,North Hollywood A,chemistry,14,4,10,2,1
+93,North Hollywood A,other,56,16,40,4,0
+93,North Hollywood A,math,22,12,10,3,0
+93,North Hollywood A,physics,14,4,10,2,1
+94,Allen School,biology,4,4,0,2,1
+94,Allen School,chemistry,26,16,10,4,0
+94,Allen School,other,42,12,30,3,0
+94,Allen School,math,8,8,0,2,0
+94,Allen School,physics,36,16,20,4,0
+94,Morgantown,biology,4,4,0,1,0
+94,Morgantown,chemistry,-4,-4,0,0,1
+94,Morgantown,other,0,0,0,0,0
+94,Morgantown,math,-8,-8,0,0,2
+94,Morgantown,physics,-4,-4,0,0,1
+95,Canyon Crest A,biology,4,4,0,1,0
+95,Canyon Crest A,chemistry,12,12,0,3,0
+95,Canyon Crest A,other,4,4,0,1,0
+95,Canyon Crest A,math,18,8,10,2,0
+95,Canyon Crest A,physics,0,0,0,0,0
+95,Varun Clemens,biology,24,4,20,2,1
+95,Varun Clemens,chemistry,6,-4,10,1,2
+95,Varun Clemens,other,22,12,10,3,0
+95,Varun Clemens,math,-8,-8,0,0,2
+95,Varun Clemens,physics,18,8,10,3,1
+96,Clements,biology,0,0,0,0,0
+96,Clements,chemistry,18,8,10,2,0
+96,Clements,other,0,0,0,0,0
+96,Clements,math,24,4,20,2,1
+96,Clements,physics,28,8,20,2,0
+96,Iolani A,biology,10,0,10,1,1
+96,Iolani A,chemistry,10,0,10,1,1
+96,Iolani A,other,36,16,20,4,0
+96,Iolani A,math,28,8,20,2,0
+96,Iolani A,physics,10,0,10,1,1
+97,Allen School,biology,0,0,0,0,0
+97,Allen School,chemistry,32,12,20,3,0
+97,Allen School,other,4,4,0,1,0
+97,Allen School,math,18,8,10,2,0
+97,Allen School,physics,28,8,20,3,1
+97,North Allegheny,biology,18,8,10,3,1
+97,North Allegheny,chemistry,14,4,10,1,0
+97,North Allegheny,other,14,4,10,1,0
+97,North Allegheny,math,18,8,10,2,0
+97,North Allegheny,physics,4,4,0,1,0
+98,Lexington A,biology,14,4,10,1,0
+98,Lexington A,chemistry,-4,-4,0,0,1
+98,Lexington A,other,18,8,10,2,0
+98,Lexington A,math,18,8,10,2,0
+98,Lexington A,physics,24,4,20,2,1
+98,Varun Clemens,biology,32,12,20,3,0
+98,Varun Clemens,chemistry,42,12,30,3,0
+98,Varun Clemens,other,18,8,10,2,0
+98,Varun Clemens,math,-4,-4,0,0,1
+98,Varun Clemens,physics,-8,-8,0,0,2
+99,BASIS Chandler,biology,28,8,20,3,1
+99,BASIS Chandler,chemistry,32,12,20,3,0
+99,BASIS Chandler,other,32,12,20,3,0
+99,BASIS Chandler,math,8,8,0,2,0
+99,BASIS Chandler,physics,0,0,0,1,1
+99,WWPS A,biology,4,4,0,1,0
+99,WWPS A,chemistry,4,4,0,1,0
+99,WWPS A,other,-4,-4,0,0,1
+99,WWPS A,math,6,-4,10,1,2
+99,WWPS A,physics,-8,-8,0,0,2
+100,MSJ,biology,36,16,20,4,0
+100,MSJ,chemistry,46,16,30,4,0
+100,MSJ,other,-4,-4,0,1,2
+100,MSJ,math,28,8,20,2,0
+100,MSJ,physics,18,8,10,2,0
+100,North Hollywood B,biology,0,0,0,0,0
+100,North Hollywood B,chemistry,0,0,0,0,0
+100,North Hollywood B,other,32,12,20,3,0
+100,North Hollywood B,math,4,4,0,1,0
+100,North Hollywood B,physics,-4,-4,0,0,1
+101,Luka Fan Club,biology,28,8,20,2,0
+101,Luka Fan Club,chemistry,-4,-4,0,0,1
+101,Luka Fan Club,other,4,4,0,1,0
+101,Luka Fan Club,math,14,4,10,1,0
+101,Luka Fan Club,physics,10,0,10,1,1
+101,Lynbrook A,biology,18,8,10,2,0
+101,Lynbrook A,chemistry,56,16,40,4,0
+101,Lynbrook A,other,24,4,20,2,1
+101,Lynbrook A,math,32,12,20,3,0
+101,Lynbrook A,physics,14,4,10,1,0
+102,Clovis North,biology,28,8,20,2,0
+102,Clovis North,chemistry,8,8,0,2,0
+102,Clovis North,other,14,4,10,1,0
+102,Clovis North,math,22,12,10,3,0
+102,Clovis North,physics,0,0,0,0,0
+102,North Hollywood A,biology,18,8,10,2,0
+102,North Hollywood A,chemistry,18,8,10,2,0
+102,North Hollywood A,other,22,12,10,3,0
+102,North Hollywood A,math,4,4,0,1,0
+102,North Hollywood A,physics,38,8,30,3,1
+103,Collierville A,biology,28,8,20,2,0
+103,Collierville A,chemistry,14,4,10,1,0
+103,Collierville A,other,22,12,10,3,0
+103,Collierville A,math,18,8,10,2,0
+103,Collierville A,physics,4,4,0,1,0
+103,Deap South,biology,14,4,10,1,0
+103,Deap South,chemistry,10,0,10,1,1
+103,Deap South,other,14,4,10,1,0
+103,Deap South,math,28,8,20,2,0
+103,Deap South,physics,28,8,20,2,0
+104,Clements,biology,0,0,0,0,0
+104,Clements,chemistry,-4,-4,0,0,1
+104,Clements,other,0,0,0,0,0
+104,Clements,math,28,8,20,2,0
+104,Clements,physics,24,4,20,2,1
+104,Collierville A,biology,4,4,0,1,0
+104,Collierville A,chemistry,32,12,20,3,0
+104,Collierville A,other,22,12,10,3,0
+104,Collierville A,math,14,4,10,1,0
+104,Collierville A,physics,14,4,10,1,0
+105,Allen School,biology,4,4,0,1,0
+105,Allen School,chemistry,-4,-4,0,0,1
+105,Allen School,other,4,4,0,1,0
+105,Allen School,math,0,0,0,1,1
+105,Allen School,physics,18,8,10,2,0
+105,North Hollywood A,biology,0,0,0,0,0
+105,North Hollywood A,chemistry,46,16,30,4,0
+105,North Hollywood A,other,28,8,20,3,1
+105,North Hollywood A,math,14,4,10,2,1
+105,North Hollywood A,physics,20,0,20,2,2
+106,North Hollywood B,biology,0,0,0,0,0
+106,North Hollywood B,chemistry,56,16,40,4,0
+106,North Hollywood B,other,36,16,20,4,0
+106,North Hollywood B,math,0,0,0,0,0
+106,North Hollywood B,physics,28,8,20,2,0
+106,WWPS A,biology,56,16,40,4,0
+106,WWPS A,chemistry,0,0,0,0,0
+106,WWPS A,other,-4,-4,0,0,1
+106,WWPS A,math,12,12,0,3,0
+106,WWPS A,physics,4,4,0,2,1
+107,Clovis North,biology,32,12,20,3,0
+107,Clovis North,chemistry,28,8,20,2,0
+107,Clovis North,other,8,8,0,2,0
+107,Clovis North,math,22,12,10,3,0
+107,Clovis North,physics,14,4,10,1,0
+107,North Allegheny,biology,-4,-4,0,0,1
+107,North Allegheny,chemistry,8,8,0,2,0
+107,North Allegheny,other,10,0,10,1,1
+107,North Allegheny,math,4,4,0,1,0
+107,North Allegheny,physics,10,0,10,1,1
+108,BASIS Chandler,biology,28,8,20,2,0
+108,BASIS Chandler,chemistry,0,0,0,1,1
+108,BASIS Chandler,other,14,4,10,2,1
+108,BASIS Chandler,math,0,0,0,0,0
+108,BASIS Chandler,physics,0,0,0,1,1
+108,MSJ,biology,28,8,20,2,0
+108,MSJ,chemistry,38,8,30,3,1
+108,MSJ,other,28,8,20,2,0
+108,MSJ,math,36,16,20,4,0
+108,MSJ,physics,22,12,10,3,0
+109,Lexington A,biology,32,12,20,3,0
+109,Lexington A,chemistry,10,0,10,2,2
+109,Lexington A,other,42,12,30,3,0
+109,Lexington A,math,0,0,0,1,1
+109,Lexington A,physics,18,8,10,2,0
+109,Luka Fan Club,biology,14,4,10,1,0
+109,Luka Fan Club,chemistry,14,4,10,1,0
+109,Luka Fan Club,other,14,4,10,1,0
+109,Luka Fan Club,math,22,12,10,3,0
+109,Luka Fan Club,physics,14,4,10,1,0
+110,Deap South,biology,22,12,10,3,0
+110,Deap South,chemistry,2,-8,10,1,3
+110,Deap South,other,28,8,20,2,0
+110,Deap South,math,8,8,0,2,0
+110,Deap South,physics,56,16,40,4,0
+110,Iolani A,biology,-4,-4,0,0,1
+110,Iolani A,chemistry,38,8,30,3,1
+110,Iolani A,other,8,8,0,2,0
+110,Iolani A,math,18,8,10,2,0
+110,Iolani A,physics,-4,-4,0,0,1
+111,Lynbrook A,biology,4,4,0,1,0
+111,Lynbrook A,chemistry,10,0,10,1,1
+111,Lynbrook A,other,28,8,20,2,0
+111,Lynbrook A,math,42,12,30,3,0
+111,Lynbrook A,physics,18,8,10,2,0
+111,Varun Clemens,biology,24,4,20,2,1
+111,Varun Clemens,chemistry,10,0,10,1,1
+111,Varun Clemens,other,24,4,20,2,1
+111,Varun Clemens,math,0,0,0,1,1
+111,Varun Clemens,physics,24,4,20,2,1
+112,BASIS Chandler,biology,10,0,10,2,2
+112,BASIS Chandler,chemistry,-4,-4,0,0,1
+112,BASIS Chandler,other,18,8,10,2,0
+112,BASIS Chandler,math,0,0,0,1,1
+112,BASIS Chandler,physics,0,0,0,1,1
+112,Lexington A,biology,24,4,20,2,1
+112,Lexington A,chemistry,22,12,10,3,0
+112,Lexington A,other,14,4,10,2,1
+112,Lexington A,math,0,0,0,0,0
+112,Lexington A,physics,14,4,10,1,0
+113,Allen School,biology,0,0,0,0,0
+113,Allen School,chemistry,14,4,10,1,0
+113,Allen School,other,4,4,0,1,0
+113,Allen School,math,4,4,0,1,0
+113,Allen School,physics,8,8,0,2,0
+113,Collierville A,biology,4,4,0,1,0
+113,Collierville A,chemistry,6,-4,10,1,2
+113,Collierville A,other,12,12,0,3,0
+113,Collierville A,math,0,0,0,0,0
+113,Collierville A,physics,4,4,0,1,0
+114,North Hollywood B,biology,24,4,20,2,1
+114,North Hollywood B,chemistry,14,4,10,1,0
+114,North Hollywood B,other,6,-4,10,1,2
+114,North Hollywood B,math,0,0,0,0,0
+114,North Hollywood B,physics,0,0,0,0,0
+114,Varun Clemens,biology,28,8,20,2,0
+114,Varun Clemens,chemistry,0,0,0,0,0
+114,Varun Clemens,other,14,4,10,2,1
+114,Varun Clemens,math,4,4,0,1,0
+114,Varun Clemens,physics,26,16,10,4,0
+115,Clovis North,biology,10,0,10,2,2
+115,Clovis North,chemistry,0,0,0,0,0
+115,Clovis North,other,18,8,10,2,0
+115,Clovis North,math,0,0,0,1,1
+115,Clovis North,physics,8,8,0,2,0
+115,Iolani A,biology,0,0,0,0,0
+115,Iolani A,chemistry,18,8,10,2,0
+115,Iolani A,other,10,0,10,1,1
+115,Iolani A,math,28,8,20,3,1
+115,Iolani A,physics,8,8,0,2,0
+116,Allen School,biology,0,0,0,0,0
+116,Allen School,chemistry,0,0,0,0,0
+116,Allen School,other,0,0,0,0,0
+116,Allen School,math,8,8,0,2,0
+116,Allen School,physics,-4,-4,0,0,1
+116,Varun Clemens,biology,28,8,20,3,1
+116,Varun Clemens,chemistry,46,16,30,4,0
+116,Varun Clemens,other,-4,-4,0,1,2
+116,Varun Clemens,math,0,0,0,1,1
+116,Varun Clemens,physics,12,12,0,3,0
+117,Lynbrook A,biology,18,8,10,2,0
+117,Lynbrook A,chemistry,10,0,10,1,1
+117,Lynbrook A,other,-4,-4,0,0,1
+117,Lynbrook A,math,14,4,10,1,0
+117,Lynbrook A,physics,14,4,10,2,1
+117,North Hollywood A,biology,0,0,0,0,0
+117,North Hollywood A,chemistry,20,0,20,2,2
+117,North Hollywood A,other,12,12,0,3,0
+117,North Hollywood A,math,4,4,0,1,0
+117,North Hollywood A,physics,0,0,0,1,1
+118,Deap South,biology,4,4,0,1,0
+118,Deap South,chemistry,28,8,20,2,0
+118,Deap South,other,0,0,0,1,1
+118,Deap South,math,18,8,10,2,0
+118,Deap South,physics,18,8,10,2,0
+118,MSJ,biology,38,8,30,3,1
+118,MSJ,chemistry,6,-4,10,1,2
+118,MSJ,other,-4,-4,0,0,1
+118,MSJ,math,-4,-4,0,0,1
+118,MSJ,physics,0,0,0,1,1
+119,Iolani A,biology,14,4,10,1,0
+119,Iolani A,chemistry,4,4,0,1,0
+119,Iolani A,other,32,12,20,3,0
+119,Iolani A,math,46,16,30,4,0
+119,Iolani A,physics,-4,-4,0,0,1
+119,North Hollywood A,biology,28,8,20,2,0
+119,North Hollywood A,chemistry,32,12,20,3,0
+119,North Hollywood A,other,-4,-4,0,0,1
+119,North Hollywood A,math,0,0,0,0,0
+119,North Hollywood A,physics,22,12,10,3,0
+120,MSJ,biology,28,8,20,2,0
+120,MSJ,chemistry,10,0,10,2,2
+120,MSJ,other,0,0,0,0,0
+120,MSJ,math,12,12,0,3,0
+120,MSJ,physics,10,0,10,2,2
+120,Varun Clemens,biology,6,-4,10,1,2
+120,Varun Clemens,chemistry,8,8,0,2,0
+120,Varun Clemens,other,24,4,20,2,1
+120,Varun Clemens,math,0,0,0,0,0
+120,Varun Clemens,physics,0,0,0,1,1
+121,Iolani A,biology,0,0,0,0,0
+121,Iolani A,chemistry,4,4,0,1,0
+121,Iolani A,other,8,8,0,2,0
+121,Iolani A,math,32,12,20,3,0
+121,Iolani A,physics,0,0,0,0,0
+121,MSJ,biology,28,8,20,3,1
+121,MSJ,chemistry,10,0,10,1,1
+121,MSJ,other,0,0,0,0,0
+121,MSJ,math,4,4,0,1,0
+121,MSJ,physics,0,0,0,1,1
+122,Deap South,biology,4,4,0,1,0
+122,Deap South,chemistry,4,4,0,2,1
+122,Deap South,other,8,8,0,2,0
+122,Deap South,math,18,8,10,2,0
+122,Deap South,physics,0,0,0,0,0
+122,Lynbrook A,biology,0,0,0,0,0
+122,Lynbrook A,chemistry,4,4,0,1,0
+122,Lynbrook A,other,0,0,0,0,0
+122,Lynbrook A,math,-4,-4,0,0,1
+122,Lynbrook A,physics,8,8,0,2,0

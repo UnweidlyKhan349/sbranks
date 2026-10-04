@@ -1,0 +1,29 @@
+id: 2021-02-21-dbhsst
+name: DBHSST
+date: '2021-02-21'
+end_date: null
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1izx8T3pN1MkS2hqZXXX2otGgu_TkPmjj88DTprT1EyI
+  url: https://docs.google.com/spreadsheets/d/1izx8T3pN1MkS2hqZXXX2otGgu_TkPmjj88DTprT1EyI/edit#gid=2126797333
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1Jins3W1_5A7y5KHk_uIJPvqwVinduU0W9UJJX71yZgA
+  url: https://docs.google.com/spreadsheets/d/1Jins3W1_5A7y5KHk_uIJPvqwVinduU0W9UJJX71yZgA/edit#gid=1180759868
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

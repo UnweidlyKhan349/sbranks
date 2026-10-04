@@ -1,0 +1,29 @@
+id: 2025-10-19-south-clemens-bonanza
+name: South Clemens Bonanza
+date: '2025-10-19'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 10NKJgFzRuP1bF7lRkKfSLjSxH5NtwL2nlkyOLykvfk4
+  url: https://docs.google.com/spreadsheets/d/10NKJgFzRuP1bF7lRkKfSLjSxH5NtwL2nlkyOLykvfk4/edit?gid=1049059372#gid=1049059372
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1hgLRgHUu8JcRPuAihcCMob_3h9Y6wRCPrUy_ZkleC2A
+  url: https://docs.google.com/spreadsheets/d/1hgLRgHUu8JcRPuAihcCMob_3h9Y6wRCPrUy_ZkleC2A/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

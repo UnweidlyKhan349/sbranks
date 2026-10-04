@@ -1,0 +1,29 @@
+id: 2026-02-15-lexington-biology-bowl
+name: Lexington Biology Bowl
+date: '2026-02-15'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: biology
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 18BvkcyUEkPLajn8dczuzORqjfC3TRTQNho2YZMBCEdk
+  url: https://docs.google.com/spreadsheets/d/18BvkcyUEkPLajn8dczuzORqjfC3TRTQNho2YZMBCEdk/edit?gid=1432902636#gid=1432902636
+  file: results.xlsx
+- kind: drive_file
+  role: stats
+  file_id: 1bZ5DyPQbe4Eje9xSCrlHcHthtLIsmWrs
+  url: https://drive.google.com/file/d/1bZ5DyPQbe4Eje9xSCrlHcHthtLIsmWrs/view?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

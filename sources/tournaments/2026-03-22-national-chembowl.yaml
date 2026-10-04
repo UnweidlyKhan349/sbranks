@@ -1,0 +1,29 @@
+id: 2026-03-22-national-chembowl
+name: National ChemBowl
+date: '2026-03-22'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: chemistry
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1BmqFwJnf4APuD-omxhm5FAszYyRMugjHptEJ00BKmwE
+  url: https://docs.google.com/spreadsheets/d/1BmqFwJnf4APuD-omxhm5FAszYyRMugjHptEJ00BKmwE/edit?gid=856852450#gid=856852450
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1VPbkaRjs91KsVgxkqAW0yTlTIjv_5oUhOevPR3eQFX0
+  url: https://docs.google.com/spreadsheets/d/1VPbkaRjs91KsVgxkqAW0yTlTIjv_5oUhOevPR3eQFX0/edit?usp=sharing
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

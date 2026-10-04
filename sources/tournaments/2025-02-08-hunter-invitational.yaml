@@ -1,0 +1,29 @@
+id: 2025-02-08-hunter-invitational
+name: Hunter Invitational
+date: '2025-02-08'
+end_date: null
+season: 2024-25
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1V85IAIuS9yq3ICaYRcv1npOE_X-VGOvkSkcBbP9T7JM
+  url: https://docs.google.com/spreadsheets/d/1V85IAIuS9yq3ICaYRcv1npOE_X-VGOvkSkcBbP9T7JM/edit?gid=835392042#gid=835392042
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1L1I1l4Si0IoQ0fq6zxJL8CNPU0zUGgLqUg_g-tw7I_c
+  url: https://docs.google.com/spreadsheets/d/1L1I1l4Si0IoQ0fq6zxJL8CNPU0zUGgLqUg_g-tw7I_c/edit?gid=2131085596#gid=2131085596
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

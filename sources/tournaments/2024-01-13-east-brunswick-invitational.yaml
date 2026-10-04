@@ -1,0 +1,24 @@
+id: 2024-01-13-east-brunswick-invitational
+name: East Brunswick Invitational
+date: '2024-01-13'
+end_date: null
+season: 2023-24
+location: East Brunswick, NJ
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1WMpHa-TM9JhVBdV4XWO1lxUaLhlcs98wAlAKxRm4N9M
+  url: https://docs.google.com/spreadsheets/d/1WMpHa-TM9JhVBdV4XWO1lxUaLhlcs98wAlAKxRm4N9M/edit?usp=sharing
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

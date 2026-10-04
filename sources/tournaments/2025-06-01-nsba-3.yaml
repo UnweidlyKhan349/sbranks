@@ -1,0 +1,22 @@
+id: 2025-06-01-nsba-3
+name: NSBA 3
+date: '2025-06-01'
+end_date: '2025-09-30'
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: league
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: challonge
+  role: results
+  url: https://challonge.com/5qr7sb3g/bracket
+parser: null
+parser_options: {}
+status: todo
+notes: ''

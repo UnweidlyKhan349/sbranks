@@ -1,0 +1,2240 @@
+game_id,player,team,subject,correct,negs,points
+1,Andrew L,BISV B,overall,0,1,-4
+1,Timothy Y,BISV B,overall,3,0,12
+1,Aidan B,Canyon Crest A,overall,0,0,0
+1,Alex D,Canyon Crest A,overall,1,1,0
+1,Haiyue M,Canyon Crest A,overall,7,1,24
+1,Owen M,Canyon Crest A,overall,4,0,16
+2,Alex F,Clements,overall,0,0,0
+2,Alex S,Clements,overall,8,0,32
+2,Eric Z,Clements,overall,0,0,0
+2,Yale Z,Clements,overall,0,0,0
+2,Andrew K,Whitney Young,overall,6,1,20
+2,Brennan T,Whitney Young,overall,2,0,8
+2,Chaniel K,Whitney Young,overall,2,0,8
+2,Zachary H,Whitney Young,overall,1,0,4
+3,Daniel L,Allen School,overall,8,1,28
+3,Achuth V,Clovis North,overall,4,0,16
+3,Ethan W,Clovis North,overall,3,1,8
+3,Justin D,Clovis North,overall,3,1,8
+3,Renard W,Clovis North,overall,0,0,0
+4,Anna K,WWPS B,overall,4,0,16
+4,Dhanshika S,WWPS B,overall,0,0,0
+4,Gyan C,WWPS B,overall,2,0,8
+4,Niharika D,WWPS B,overall,0,0,0
+4,John,Woodlands,overall,4,0,16
+4,Kai C,Woodlands,overall,2,0,8
+4,Liam,Woodlands,overall,1,0,4
+4,Walker,Woodlands,overall,0,0,0
+5,Anish A,MSJ,overall,1,0,4
+5,Ishaan K,MSJ,overall,5,1,16
+5,Theenash S,MSJ,overall,10,1,36
+5,Jake R,North Hollywood B,overall,0,0,0
+5,Kensuke O,North Hollywood B,overall,3,0,12
+5,Nathaniel O,North Hollywood B,overall,1,0,4
+5,Patrick L,North Hollywood B,overall,0,0,0
+6,Abhinav A,Deap South,overall,4,0,16
+6,Ryan K,Deap South,overall,4,0,16
+6,Sanjay O,Deap South,overall,6,2,16
+6,Ziang Z,Deap South,overall,2,0,8
+6,Aydin E,Ward Melville,overall,1,0,4
+6,Srihari K,Ward Melville,overall,1,0,4
+6,Will S,Ward Melville,overall,1,0,4
+7,Allen F,Lexington A,overall,2,2,0
+7,William J,Lexington A,overall,6,2,16
+7,Andrew,North Allegheny,overall,2,0,8
+7,Hongyi,North Allegheny,overall,5,1,16
+7,Jason,North Allegheny,overall,0,0,0
+7,Leo,North Allegheny,overall,2,0,8
+8,Ameyaa R,Lynbrook B,overall,0,0,0
+8,Robert Y,Lynbrook B,overall,3,0,12
+8,Vincent Q,Lynbrook B,overall,3,0,12
+8,Akhil M,WWPS A,overall,1,2,-4
+8,Arjun D,WWPS A,overall,5,1,16
+8,Monish S,WWPS A,overall,6,0,24
+9,Ishan A,Collierville B,overall,0,0,0
+9,Jacob L,Collierville B,overall,1,0,4
+9,Sai B,Collierville B,overall,0,0,0
+9,Santhosh B,Collierville B,overall,0,1,-4
+9,Daniel Y,Iolani A,overall,3,0,12
+9,Ethan Z,Iolani A,overall,6,0,24
+9,Haru G,Iolani A,overall,2,0,8
+9,Min S,Iolani A,overall,6,0,24
+10,Abhishek C,Doral Academy,overall,4,0,16
+10,Neil H,Doral Academy,overall,3,0,12
+10,Santiago S,Doral Academy,overall,1,0,4
+10,Shalina L,Doral Academy,overall,0,0,0
+10,Kaylee Z,Palo Alto,overall,0,0,0
+10,Kevin P,Palo Alto,overall,7,2,20
+10,Ryan P,Palo Alto,overall,2,1,4
+11,Dhruv M,American Heritage Broward,overall,1,0,4
+11,Jason T,American Heritage Broward,overall,5,0,20
+11,Adam H,Lexington B,overall,2,0,8
+11,Akshay R,Lexington B,overall,3,0,12
+11,Ayaan I,Lexington B,overall,4,0,16
+11,Ethan L,Lexington B,overall,0,1,-4
+11,Simon Z,Lexington B,overall,2,1,4
+12,Advaith B,Bridgeland,overall,3,1,8
+12,Carson P,Bridgeland,overall,1,0,4
+12,Jeffy L,Bridgeland,overall,3,0,12
+12,Sidh K,Bridgeland,overall,0,0,0
+12,Luke I,Punahou School,overall,0,1,-4
+12,Nicholas B,Punahou School,overall,0,0,0
+12,Travis D,Punahou School,overall,9,1,32
+12,Ty D,Punahou School,overall,0,0,0
+13,Abhinav S,Collierville A,overall,10,1,36
+13,Charith N,Collierville A,overall,1,0,4
+13,Krish S,Collierville A,overall,1,0,4
+13,Sumin Y,Collierville A,overall,0,0,0
+13,Hong Jin K,Iolani B,overall,4,1,12
+13,Keene K,Iolani B,overall,1,1,0
+13,Naoto H,Iolani B,overall,0,1,-4
+13,Rongting Z,Iolani B,overall,0,0,0
+14,Andy S,Canyon Crest B,overall,0,0,0
+14,Sahej B,Canyon Crest B,overall,0,0,0
+14,Theodore A,Canyon Crest B,overall,0,0,0
+14,Yihan J,Canyon Crest B,overall,0,0,0
+14,Andrew,Lynbrook A,overall,4,0,16
+14,Philip,Lynbrook A,overall,1,0,4
+14,Ryan,Lynbrook A,overall,2,0,8
+14,Sohil,Lynbrook A,overall,9,0,36
+14,evan,Lynbrook A,overall,1,0,4
+15,Christopher C,Arcadia A,overall,1,0,4
+15,Ethan W,Arcadia A,overall,2,0,8
+15,Jamie W,Arcadia A,overall,0,0,0
+15,Paxton L,Arcadia A,overall,8,0,32
+15,Akhil B,Luka Fan Club,overall,7,4,12
+16,Camille P,Hunter,overall,3,0,12
+16,Gabe L,Hunter,overall,5,0,20
+16,Melody L,Hunter,overall,0,0,0
+16,Charles H,North Hollywood A,overall,2,0,8
+16,Connor C,North Hollywood A,overall,2,0,8
+16,Connor Z,North Hollywood A,overall,4,1,12
+16,Minghao G,North Hollywood A,overall,3,0,12
+17,Henry Z,Arcadia B,overall,0,1,-4
+17,Johnson P,Arcadia B,overall,0,0,0
+17,Kevin W,Arcadia B,overall,8,0,32
+17,Lawrence Q,Enloe,overall,2,0,8
+17,Max X,Enloe,overall,1,0,4
+17,Ryan Y,Enloe,overall,0,0,0
+17,Vishruth K,Enloe,overall,7,1,24
+18,Aaron C,BISV A,overall,4,0,16
+18,Larry Z,BISV A,overall,5,1,16
+18,Lutecia L,BISV A,overall,0,0,0
+18,Timo Y,BISV A,overall,2,2,0
+18,Andrew B,Benjamin Franklin,overall,0,0,0
+18,Lucas B,Benjamin Franklin,overall,2,0,8
+18,Marianne N,Benjamin Franklin,overall,3,0,12
+18,Ronald Z,Benjamin Franklin,overall,2,0,8
+19,Dheeran S,Deep Run,overall,0,1,-4
+19,Nimit A,Deep Run,overall,4,1,12
+19,Rithik N,Deep Run,overall,1,0,4
+19,Riyan N,Deep Run,overall,3,1,8
+19,Yunay V,Deep Run,overall,0,0,0
+19,Eshaan S,Thomas Jefferson,overall,3,0,12
+19,Hrishi B,Thomas Jefferson,overall,2,1,4
+19,Justin Y,Thomas Jefferson,overall,1,1,0
+19,Rohan B,Thomas Jefferson,overall,3,1,8
+20,Christopher C,Arcadia A,overall,1,0,4
+20,Ethan W,Arcadia A,overall,3,0,12
+20,Olivia Q,Arcadia A,overall,0,0,0
+20,Paxton L,Arcadia A,overall,0,0,0
+20,Heidi,Varun Clemens,overall,0,0,0
+20,Praneel A,Varun Clemens,overall,10,2,32
+20,Shaun I,Varun Clemens,overall,1,0,4
+20,Uddip K,Varun Clemens,overall,2,0,8
+21,Aaron C,BISV A,overall,5,3,8
+21,Larry Z,BISV A,overall,3,1,8
+21,Lutecia L,BISV A,overall,2,0,8
+21,Timo Y,BISV A,overall,0,0,0
+21,Advaith B,Bridgeland,overall,3,0,12
+21,Carson P,Bridgeland,overall,1,0,4
+21,Jeffy L,Bridgeland,overall,0,0,0
+21,Sidh K,Bridgeland,overall,1,0,4
+22,Aydin E,Ward Melville,overall,1,0,4
+22,Srihari K,Ward Melville,overall,4,0,16
+22,Will S,Ward Melville,overall,4,0,16
+22,Arjith,Woodlands,overall,1,0,4
+22,John,Woodlands,overall,4,0,16
+22,Kai C,Woodlands,overall,0,0,0
+22,Walker,Woodlands,overall,0,0,0
+23,Saahil,Eastlake,overall,6,2,16
+23,Andrew K,Whitney Young,overall,9,0,36
+23,Brennan T,Whitney Young,overall,2,0,8
+23,Chaniel K,Whitney Young,overall,1,0,4
+23,Zachary H,Whitney Young,overall,0,0,0
+24,Andrew B,Benjamin Franklin,overall,1,0,4
+24,Maddox H,Benjamin Franklin,overall,1,0,4
+24,Marianne N,Benjamin Franklin,overall,2,0,8
+24,Ronald Z,Benjamin Franklin,overall,1,0,4
+24,Jake R,North Hollywood B,overall,0,0,0
+24,Kensuke O,North Hollywood B,overall,6,1,20
+24,Nathaniel O,North Hollywood B,overall,4,1,12
+24,Neelabh G,North Hollywood B,overall,0,0,0
+25,Ishan A,Collierville B,overall,1,0,4
+25,Jacob L,Collierville B,overall,2,0,8
+25,Sai B,Collierville B,overall,2,0,8
+25,Santhosh B,Collierville B,overall,2,0,8
+25,Camille P,Hunter,overall,6,0,24
+25,Gabe L,Hunter,overall,6,0,24
+25,Melody L,Hunter,overall,0,0,0
+26,Abhinav S,Collierville A,overall,5,1,16
+26,Charith N,Collierville A,overall,0,0,0
+26,Krish S,Collierville A,overall,1,0,4
+26,Sumin Y,Collierville A,overall,6,0,24
+26,Anna K,WWPS B,overall,0,0,0
+26,Dhanshika S,WWPS B,overall,2,0,8
+26,Gyan C,WWPS B,overall,1,0,4
+26,Niharika D,WWPS B,overall,1,0,4
+27,Dheeran S,Deep Run,overall,0,0,0
+27,Nimit A,Deep Run,overall,2,1,4
+27,Prithwish C,Deep Run,overall,1,0,4
+27,Rithik N,Deep Run,overall,0,1,-4
+27,Sreekar K,Deep Run,overall,0,0,0
+27,Gloria H,Morgantown,overall,0,0,0
+27,Larry D,Morgantown,overall,2,0,8
+27,Sunny G,Morgantown,overall,4,1,12
+27,William T,Morgantown,overall,4,1,12
+28,Abhishek C,Doral Academy,overall,5,1,16
+28,Neil H,Doral Academy,overall,2,0,8
+28,Santiago S,Doral Academy,overall,2,0,8
+28,Shalina L,Doral Academy,overall,0,0,0
+28,Andrew,North Allegheny,overall,2,0,8
+28,Hongyi,North Allegheny,overall,3,0,12
+28,Jason,North Allegheny,overall,1,0,4
+28,Leo,North Allegheny,overall,5,1,16
+29,Adam H,Lexington B,overall,2,1,4
+29,Akshay R,Lexington B,overall,2,1,4
+29,Ayaan I,Lexington B,overall,0,0,0
+29,Simon Z,Lexington B,overall,2,1,4
+29,Charles H,North Hollywood A,overall,4,0,16
+29,Connor C,North Hollywood A,overall,1,0,4
+29,Connor Z,North Hollywood A,overall,5,2,12
+29,Minghao G,North Hollywood A,overall,2,0,8
+30,Allen F,Lexington A,overall,4,2,8
+30,Rahib H,Lexington A,overall,0,0,0
+30,William J,Lexington A,overall,7,1,24
+30,Josh P,Quail Valley,overall,3,0,12
+30,Shruthi R,Quail Valley,overall,2,0,8
+30,Vedant B,Quail Valley,overall,3,0,12
+30,Vedant N,Quail Valley,overall,0,0,0
+30,Vihaan N,Quail Valley,overall,0,0,0
+31,Bowen S,BASIS Chandler,overall,0,0,0
+31,Lishan P,BASIS Chandler,overall,1,0,4
+31,Nihar B,BASIS Chandler,overall,6,0,24
+31,Varyan J,BASIS Chandler,overall,10,2,32
+31,Lawrence Q,Enloe,overall,1,0,4
+31,Max X,Enloe,overall,0,0,0
+31,Ryan Y,Enloe,overall,0,0,0
+31,Vishruth K,Enloe,overall,0,1,-4
+32,Ariv B,American Heritage Broward,overall,2,0,8
+32,Arnav B,American Heritage Broward,overall,2,0,8
+32,Dhruv M,American Heritage Broward,overall,0,0,0
+32,Jason T,American Heritage Broward,overall,2,0,8
+32,Daniel Y,Iolani A,overall,2,0,8
+32,Ethan Z,Iolani A,overall,1,0,4
+32,Haru G,Iolani A,overall,2,0,8
+32,Min S,Iolani A,overall,3,0,12
+32,Sola M,Iolani A,overall,2,1,4
+33,Abhinav A,Deap South,overall,0,1,-4
+33,Ryan K,Deap South,overall,5,3,8
+33,Sanjay O,Deap South,overall,6,0,24
+33,Ziang Z,Deap South,overall,3,0,12
+33,Hong Jin K,Iolani B,overall,3,4,-4
+33,Keene K,Iolani B,overall,0,0,0
+33,Naoto H,Iolani B,overall,1,1,0
+33,Rongting Z,Iolani B,overall,0,0,0
+34,Andrew L,BISV B,overall,1,0,4
+34,Timothy Y,BISV B,overall,3,1,8
+34,Akhil B,Luka Fan Club,overall,13,3,40
+35,Anish A,MSJ,overall,1,0,4
+35,Ishaan K,MSJ,overall,2,3,-4
+35,Theenash S,MSJ,overall,9,2,28
+35,Luke I,Punahou School,overall,0,0,0
+35,Nicholas B,Punahou School,overall,1,0,4
+35,Travis D,Punahou School,overall,5,1,16
+35,Ty D,Punahou School,overall,0,0,0
+36,Alex S,Clements,overall,6,2,16
+36,Eric Z,Clements,overall,5,0,20
+36,Ameyaa R,Lynbrook B,overall,0,0,0
+36,Matthew Y,Lynbrook B,overall,2,0,8
+36,Robert Y,Lynbrook B,overall,2,0,8
+36,Vincent Q,Lynbrook B,overall,3,0,12
+37,Achuth V,Clovis North,overall,0,0,0
+37,Ethan W,Clovis North,overall,2,0,8
+37,Justin D,Clovis North,overall,6,0,24
+37,Renard W,Clovis North,overall,0,0,0
+37,Eshaan S,Thomas Jefferson,overall,1,2,-4
+37,Hrishi B,Thomas Jefferson,overall,3,0,12
+37,Rohan B,Thomas Jefferson,overall,0,1,-4
+37,Sophia G,Thomas Jefferson,overall,6,1,20
+38,Henry Z,Arcadia B,overall,1,0,4
+38,Johnson P,Arcadia B,overall,1,1,0
+38,Kevin W,Arcadia B,overall,1,1,0
+38,Andrew,Lynbrook A,overall,3,0,12
+38,Philip,Lynbrook A,overall,1,0,4
+38,Ryan,Lynbrook A,overall,0,0,0
+38,Sohil,Lynbrook A,overall,11,1,40
+39,Alex D,Canyon Crest A,overall,0,1,-4
+39,Haiyue M,Canyon Crest A,overall,2,0,8
+39,Owen M,Canyon Crest A,overall,3,0,12
+39,Akhil B,Luka Fan Club,overall,8,4,16
+40,Anna K,WWPS B,overall,1,1,0
+40,Dhanshika S,WWPS B,overall,2,0,8
+40,Gyan C,WWPS B,overall,1,1,0
+40,Niharika D,WWPS B,overall,0,0,0
+40,Aydin E,Ward Melville,overall,2,0,8
+40,Srihari K,Ward Melville,overall,1,0,4
+40,Will S,Ward Melville,overall,3,0,12
+41,Advaith B,Bridgeland,overall,0,0,0
+41,Carson P,Bridgeland,overall,2,0,8
+41,Jeffy L,Bridgeland,overall,0,0,0
+41,Sidh K,Bridgeland,overall,0,0,0
+41,Jake R,North Hollywood B,overall,0,0,0
+41,Kensuke O,North Hollywood B,overall,6,1,20
+41,Nathaniel O,North Hollywood B,overall,7,1,24
+41,Patrick L,North Hollywood B,overall,0,0,0
+42,Andrew L,BISV B,overall,1,0,4
+42,Timothy Y,BISV B,overall,2,0,8
+42,Praneel A,Varun Clemens,overall,6,1,20
+42,Shaun I,Varun Clemens,overall,2,3,-4
+42,Uddip K,Varun Clemens,overall,1,2,-4
+43,Hong Jin K,Iolani B,overall,4,2,8
+43,Keene K,Iolani B,overall,4,0,16
+43,Naoto H,Iolani B,overall,0,1,-4
+43,Rongting Z,Iolani B,overall,0,0,0
+43,Arjith,Woodlands,overall,1,1,0
+43,Kai C,Woodlands,overall,1,1,0
+43,Liam,Woodlands,overall,1,0,4
+43,Walker,Woodlands,overall,0,0,0
+44,Henry Z,Arcadia B,overall,1,1,0
+44,Johnson P,Arcadia B,overall,3,0,12
+44,Kevin W,Arcadia B,overall,5,0,20
+44,Andy S,Canyon Crest B,overall,1,0,4
+44,Sahej B,Canyon Crest B,overall,0,0,0
+44,Theodore A,Canyon Crest B,overall,1,0,4
+44,Yihan J,Canyon Crest B,overall,0,0,0
+45,Alex S,Clements,overall,4,1,12
+45,Eric Z,Clements,overall,2,0,8
+45,Yale Z,Clements,overall,3,2,4
+45,Akhil M,WWPS A,overall,1,2,-4
+45,Arjun D,WWPS A,overall,2,1,4
+45,Dennis J,WWPS A,overall,0,0,0
+45,Monish S,WWPS A,overall,5,1,16
+46,Lucas B,Benjamin Franklin,overall,0,0,0
+46,Maddox H,Benjamin Franklin,overall,0,0,0
+46,Marianne N,Benjamin Franklin,overall,1,0,4
+46,Ronald Z,Benjamin Franklin,overall,3,0,12
+46,Anish A,MSJ,overall,0,0,0
+46,Ishaan K,MSJ,overall,4,2,8
+46,Theenash S,MSJ,overall,7,2,20
+47,Andrew,North Allegheny,overall,0,0,0
+47,Hongyi,North Allegheny,overall,3,0,12
+47,Jason,North Allegheny,overall,3,0,12
+47,Leo,North Allegheny,overall,1,2,-4
+47,Kaylee Z,Palo Alto,overall,0,0,0
+47,Kevin P,Palo Alto,overall,9,2,28
+47,Ryan P,Palo Alto,overall,1,1,0
+48,Abhishek C,Doral Academy,overall,6,0,24
+48,Neil H,Doral Academy,overall,3,0,12
+48,Santiago S,Doral Academy,overall,3,1,8
+48,Shalina L,Doral Academy,overall,0,0,0
+48,Josh P,Quail Valley,overall,3,0,12
+48,Shruthi R,Quail Valley,overall,0,0,0
+48,Vedant B,Quail Valley,overall,3,0,12
+48,Vihaan N,Quail Valley,overall,0,0,0
+49,Aaron C,BISV A,overall,4,1,12
+49,Larry Z,BISV A,overall,3,0,12
+49,Lutecia L,BISV A,overall,0,0,0
+49,Timo Y,BISV A,overall,0,0,0
+49,Luke I,Punahou School,overall,1,0,4
+49,Nicholas B,Punahou School,overall,0,0,0
+49,Travis D,Punahou School,overall,8,1,28
+49,Ty D,Punahou School,overall,0,0,0
+50,Daniel Y,Iolani A,overall,1,0,4
+50,Haru G,Iolani A,overall,1,0,4
+50,Min S,Iolani A,overall,3,0,12
+50,Sola M,Iolani A,overall,3,0,12
+50,Charles H,North Hollywood A,overall,2,1,4
+50,Connor C,North Hollywood A,overall,4,1,12
+50,Connor Z,North Hollywood A,overall,3,0,12
+50,Minghao G,North Hollywood A,overall,1,0,4
+51,Daniel L,Allen School,overall,10,1,36
+51,Eshaan S,Thomas Jefferson,overall,2,1,4
+51,Hrishi B,Thomas Jefferson,overall,2,2,0
+51,Justin Y,Thomas Jefferson,overall,0,0,0
+51,Rohan B,Thomas Jefferson,overall,1,0,4
+51,Sophia G,Thomas Jefferson,overall,0,1,-4
+52,Saahil,Eastlake,overall,7,1,24
+52,Shivam,Eastlake,overall,4,2,8
+52,Ameyaa R,Lynbrook B,overall,0,0,0
+52,Matthew Y,Lynbrook B,overall,4,0,16
+52,Robert Y,Lynbrook B,overall,2,0,8
+52,Vincent Q,Lynbrook B,overall,2,0,8
+53,Bowen S,BASIS Chandler,overall,0,0,0
+53,Lishan P,BASIS Chandler,overall,2,1,4
+53,Nihar B,BASIS Chandler,overall,3,0,12
+53,Varyan J,BASIS Chandler,overall,1,6,-20
+53,Andrew,Lynbrook A,overall,0,0,0
+53,Philip,Lynbrook A,overall,2,0,8
+53,Ryan,Lynbrook A,overall,0,0,0
+53,Sohil,Lynbrook A,overall,8,1,28
+54,Abhinav S,Collierville A,overall,1,0,4
+54,Arman,Collierville A,overall,0,1,-4
+54,Charith N,Collierville A,overall,0,0,0
+54,Krish S,Collierville A,overall,0,0,0
+54,Sumin Y,Collierville A,overall,2,3,-4
+54,Abhinav A,Deap South,overall,0,2,-8
+54,Ryan K,Deap South,overall,4,0,16
+54,Sanjay O,Deap South,overall,5,0,20
+54,Ziang Z,Deap South,overall,2,0,8
+55,Ariv B,American Heritage Broward,overall,3,0,12
+55,Dhruv M,American Heritage Broward,overall,1,0,4
+55,Jason T,American Heritage Broward,overall,2,0,8
+55,Ishan A,Collierville B,overall,0,0,0
+55,Jacob L,Collierville B,overall,0,0,0
+55,Sai B,Collierville B,overall,3,0,12
+55,Santhosh B,Collierville B,overall,1,2,-4
+56,Camille P,Hunter,overall,1,1,0
+56,Gabe L,Hunter,overall,4,2,8
+56,Melody L,Hunter,overall,1,0,4
+56,Adam H,Lexington B,overall,0,0,0
+56,Akshay R,Lexington B,overall,2,0,8
+56,Ayaan I,Lexington B,overall,1,0,4
+56,Ethan L,Lexington B,overall,2,0,8
+56,Simon Z,Lexington B,overall,5,2,12
+57,Achuth V,Clovis North,overall,4,0,16
+57,Ethan W,Clovis North,overall,0,0,0
+57,Justin D,Clovis North,overall,5,2,12
+57,Renard W,Clovis North,overall,2,0,8
+57,Caden Y,Morgantown,overall,1,0,4
+57,Larry D,Morgantown,overall,2,0,8
+57,Sunny G,Morgantown,overall,2,1,4
+57,William T,Morgantown,overall,1,0,4
+58,Christopher C,Arcadia A,overall,0,0,0
+58,Ethan W,Arcadia A,overall,5,4,4
+58,Jamie W,Arcadia A,overall,0,0,0
+58,Paxton L,Arcadia A,overall,2,1,4
+58,Alex D,Canyon Crest A,overall,4,0,16
+58,Haiyue M,Canyon Crest A,overall,3,0,12
+58,Owen M,Canyon Crest A,overall,4,0,16
+59,Akhil M,WWPS A,overall,2,1,4
+59,Arjun D,WWPS A,overall,6,0,24
+59,Dennis J,WWPS A,overall,0,0,0
+59,Monish S,WWPS A,overall,4,3,4
+59,Andrew K,Whitney Young,overall,3,2,4
+59,Brennan T,Whitney Young,overall,2,0,8
+59,Chaniel K,Whitney Young,overall,0,1,-4
+59,Zachary H,Whitney Young,overall,1,0,4
+60,Andy S,Canyon Crest B,overall,2,0,8
+60,Sahej B,Canyon Crest B,overall,2,0,8
+60,Theodore A,Canyon Crest B,overall,0,0,0
+60,Yihan J,Canyon Crest B,overall,1,1,0
+60,Lawrence Q,Enloe,overall,1,0,4
+60,Max X,Enloe,overall,1,0,4
+60,Ryan Y,Enloe,overall,2,0,8
+60,Vishruth K,Enloe,overall,6,1,20
+61,Henry Z,Arcadia B,overall,2,0,8
+61,Johnson P,Arcadia B,overall,0,0,0
+61,Kevin W,Arcadia B,overall,4,0,16
+61,Bowen S,BASIS Chandler,overall,0,0,0
+61,Lishan P,BASIS Chandler,overall,1,0,4
+61,Nihar B,BASIS Chandler,overall,3,0,12
+61,Varyan J,BASIS Chandler,overall,7,1,24
+62,Daniel L,Allen School,overall,13,0,52
+62,Nimit A,Deep Run,overall,0,0,0
+62,Prithwish C,Deep Run,overall,1,0,4
+62,Sreekar K,Deep Run,overall,0,0,0
+62,Yunay V,Deep Run,overall,0,1,-4
+63,Aaron C,BISV A,overall,1,0,4
+63,Larry Z,BISV A,overall,3,1,8
+63,Lutecia L,BISV A,overall,0,0,0
+63,Timo Y,BISV A,overall,0,0,0
+63,Jake R,North Hollywood B,overall,0,0,0
+63,Kensuke O,North Hollywood B,overall,5,0,20
+63,Nathaniel O,North Hollywood B,overall,7,1,24
+63,Patrick L,North Hollywood B,overall,0,0,0
+64,Akhil B,Luka Fan Club,overall,5,3,8
+64,Heidi,Varun Clemens,overall,0,1,-4
+64,Praneel A,Varun Clemens,overall,10,1,36
+64,Shaun I,Varun Clemens,overall,1,1,0
+64,Uddip K,Varun Clemens,overall,2,3,-4
+65,Andrew B,Benjamin Franklin,overall,0,0,0
+65,Maddox H,Benjamin Franklin,overall,2,0,8
+65,Marianne N,Benjamin Franklin,overall,2,1,4
+65,Ronald Z,Benjamin Franklin,overall,3,0,12
+65,Luke I,Punahou School,overall,2,1,4
+65,Nicholas B,Punahou School,overall,0,0,0
+65,Travis D,Punahou School,overall,7,0,28
+65,Ty D,Punahou School,overall,0,0,0
+66,Abhinav S,Collierville A,overall,4,2,8
+66,Charith N,Collierville A,overall,0,0,0
+66,Krish S,Collierville A,overall,2,0,8
+66,Sumin Y,Collierville A,overall,4,0,16
+66,Aydin E,Ward Melville,overall,2,1,4
+66,Srihari K,Ward Melville,overall,2,0,8
+66,Will S,Ward Melville,overall,1,0,4
+67,Alex S,Clements,overall,4,4,0
+67,Eric Z,Clements,overall,5,0,20
+67,Yale Z,Clements,overall,4,1,12
+67,Saahil,Eastlake,overall,4,0,16
+67,Shivam,Eastlake,overall,1,1,0
+68,Allen F,Lexington A,overall,3,2,4
+68,William J,Lexington A,overall,8,2,24
+68,Kaylee Z,Palo Alto,overall,0,0,0
+68,Kevin P,Palo Alto,overall,6,0,24
+68,Ryan P,Palo Alto,overall,2,0,8
+69,Andrew,North Allegheny,overall,3,1,8
+69,Hongyi,North Allegheny,overall,8,0,32
+69,Jason,North Allegheny,overall,1,0,4
+69,Leo,North Allegheny,overall,3,0,12
+69,Josh P,Quail Valley,overall,2,1,4
+69,Shruthi R,Quail Valley,overall,1,0,4
+69,Vedant B,Quail Valley,overall,2,0,8
+69,Vedant N,Quail Valley,overall,0,0,0
+69,Vihaan N,Quail Valley,overall,0,0,0
+70,Abhinav A,Deap South,overall,3,1,8
+70,Ryan K,Deap South,overall,6,0,24
+70,Sanjay O,Deap South,overall,3,1,8
+70,Ziang Z,Deap South,overall,4,0,16
+70,Arjith,Woodlands,overall,0,0,0
+70,John,Woodlands,overall,0,0,0
+70,Kai C,Woodlands,overall,1,0,4
+70,Liam,Woodlands,overall,0,0,0
+71,Hong Jin K,Iolani B,overall,0,0,0
+71,Keene K,Iolani B,overall,4,0,16
+71,Naoto H,Iolani B,overall,1,2,-4
+71,Rongting Z,Iolani B,overall,0,1,-4
+71,Anna K,WWPS B,overall,4,0,16
+71,Dhanshika S,WWPS B,overall,4,0,16
+71,Gyan C,WWPS B,overall,3,0,12
+71,Niharika D,WWPS B,overall,1,0,4
+72,Advaith B,Bridgeland,overall,3,1,8
+72,Carson P,Bridgeland,overall,2,0,8
+72,Jeffy L,Bridgeland,overall,0,0,0
+72,Sidh K,Bridgeland,overall,0,0,0
+72,Anish A,MSJ,overall,0,0,0
+72,Ishaan K,MSJ,overall,3,2,4
+72,Theenash S,MSJ,overall,9,3,24
+73,Camille P,Hunter,overall,3,0,12
+73,Gabe L,Hunter,overall,7,1,24
+73,Melody L,Hunter,overall,0,0,0
+73,Ethan Z,Iolani A,overall,3,0,12
+73,Haru G,Iolani A,overall,2,1,4
+73,Min S,Iolani A,overall,2,1,4
+73,Sola M,Iolani A,overall,2,1,4
+74,Dhruv M,American Heritage Broward,overall,0,0,0
+74,Jason T,American Heritage Broward,overall,2,1,4
+74,Charles H,North Hollywood A,overall,2,1,4
+74,Connor C,North Hollywood A,overall,4,1,12
+74,Connor Z,North Hollywood A,overall,6,2,16
+74,Minghao G,North Hollywood A,overall,1,0,4
+75,Ishan A,Collierville B,overall,1,0,4
+75,Jacob L,Collierville B,overall,1,0,4
+75,Sai B,Collierville B,overall,1,0,4
+75,Santhosh B,Collierville B,overall,0,0,0
+75,Akshay R,Lexington B,overall,4,0,16
+75,Ayaan I,Lexington B,overall,3,2,4
+75,Ethan L,Lexington B,overall,1,1,0
+75,Simon Z,Lexington B,overall,7,0,28
+76,Caden Y,Morgantown,overall,0,0,0
+76,Larry D,Morgantown,overall,3,0,12
+76,Sunny G,Morgantown,overall,2,0,8
+76,William T,Morgantown,overall,0,1,-4
+76,Eshaan S,Thomas Jefferson,overall,3,1,8
+76,Hrishi B,Thomas Jefferson,overall,2,1,4
+76,Rohan B,Thomas Jefferson,overall,3,0,12
+76,Sophia G,Thomas Jefferson,overall,4,0,16
+77,Christopher C,Arcadia A,overall,4,0,16
+77,Ethan W,Arcadia A,overall,6,0,24
+77,Jamie W,Arcadia A,overall,2,0,8
+77,Olivia Q,Arcadia A,overall,0,0,0
+77,Andrew L,BISV B,overall,1,1,0
+77,Timothy Y,BISV B,overall,0,1,-4
+78,Bowen S,BASIS Chandler,overall,0,0,0
+78,Lishan P,BASIS Chandler,overall,4,1,12
+78,Nihar B,BASIS Chandler,overall,3,0,12
+78,Varyan J,BASIS Chandler,overall,5,0,20
+78,Andy S,Canyon Crest B,overall,0,0,0
+78,Sahej B,Canyon Crest B,overall,0,0,0
+78,Theodore A,Canyon Crest B,overall,0,0,0
+78,Yihan J,Canyon Crest B,overall,0,0,0
+79,Ameyaa R,Lynbrook B,overall,0,0,0
+79,Matthew Y,Lynbrook B,overall,4,0,16
+79,Robert Y,Lynbrook B,overall,0,0,0
+79,Vincent Q,Lynbrook B,overall,7,0,28
+79,Andrew K,Whitney Young,overall,2,0,8
+79,Brennan T,Whitney Young,overall,0,0,0
+79,Chaniel K,Whitney Young,overall,0,0,0
+79,Zachary H,Whitney Young,overall,0,0,0
+80,Hong Jin K,Iolani B,overall,7,1,24
+80,Keene K,Iolani B,overall,3,0,12
+80,Naoto H,Iolani B,overall,1,0,4
+80,Rongting Z,Iolani B,overall,0,0,0
+80,Aydin E,Ward Melville,overall,1,0,4
+80,Srihari K,Ward Melville,overall,3,0,12
+80,Will S,Ward Melville,overall,0,0,0
+81,Aaron C,BISV A,overall,2,0,8
+81,Larry Z,BISV A,overall,2,0,8
+81,Lutecia L,BISV A,overall,0,0,0
+81,Timo Y,BISV A,overall,0,0,0
+81,Anish A,MSJ,overall,0,0,0
+81,Ishaan K,MSJ,overall,4,3,4
+81,Theenash S,MSJ,overall,8,3,20
+82,Kaylee Z,Palo Alto,overall,0,0,0
+82,Kevin P,Palo Alto,overall,5,2,12
+82,Ryan P,Palo Alto,overall,2,2,0
+82,Josh P,Quail Valley,overall,4,0,16
+82,Shruthi R,Quail Valley,overall,1,1,0
+82,Vedant B,Quail Valley,overall,1,0,4
+82,Vedant N,Quail Valley,overall,0,0,0
+82,Vihaan N,Quail Valley,overall,1,0,4
+83,Jake R,North Hollywood B,overall,0,0,0
+83,Kensuke O,North Hollywood B,overall,5,1,16
+83,Nathaniel O,North Hollywood B,overall,3,2,4
+83,Patrick L,North Hollywood B,overall,0,0,0
+83,Luke I,Punahou School,overall,2,0,8
+83,Nicholas B,Punahou School,overall,0,0,0
+83,Travis D,Punahou School,overall,5,3,8
+83,Ty D,Punahou School,overall,0,0,0
+84,Achuth V,Clovis North,overall,1,1,0
+84,Ethan W,Clovis North,overall,3,0,12
+84,Justin D,Clovis North,overall,5,0,20
+84,Renard W,Clovis North,overall,0,0,0
+84,Dheeran S,Deep Run,overall,0,0,0
+84,Nimit A,Deep Run,overall,3,0,12
+84,Prithwish C,Deep Run,overall,1,1,0
+84,Yunay V,Deep Run,overall,1,0,4
+85,Abhinav S,Collierville A,overall,7,2,20
+85,Arman,Collierville A,overall,1,0,4
+85,Charith N,Collierville A,overall,1,0,4
+85,Krish S,Collierville A,overall,0,0,0
+85,Sumin Y,Collierville A,overall,3,0,12
+85,Arjith,Woodlands,overall,1,0,4
+85,John,Woodlands,overall,2,0,8
+85,Liam,Woodlands,overall,0,0,0
+85,Walker,Woodlands,overall,0,0,0
+86,Ariv B,American Heritage Broward,overall,0,0,0
+86,Arnav B,American Heritage Broward,overall,0,0,0
+86,Dhruv M,American Heritage Broward,overall,0,0,0
+86,Jason T,American Heritage Broward,overall,0,0,0
+86,Camille P,Hunter,overall,4,0,16
+86,Gabe L,Hunter,overall,8,0,32
+86,Melody L,Hunter,overall,0,1,-4
+87,Daniel Y,Iolani A,overall,2,2,0
+87,Haru G,Iolani A,overall,1,0,4
+87,Min S,Iolani A,overall,2,1,4
+87,Sola M,Iolani A,overall,5,0,20
+87,Akshay R,Lexington B,overall,2,1,4
+87,Ayaan I,Lexington B,overall,1,0,4
+87,Ethan L,Lexington B,overall,1,0,4
+87,Simon Z,Lexington B,overall,3,1,8
+88,Andrew B,Benjamin Franklin,overall,0,0,0
+88,Lucas B,Benjamin Franklin,overall,0,0,0
+88,Maddox H,Benjamin Franklin,overall,2,0,8
+88,Marianne N,Benjamin Franklin,overall,1,0,4
+88,Ronald Z,Benjamin Franklin,overall,4,1,12
+88,Advaith B,Bridgeland,overall,1,1,0
+88,Carson P,Bridgeland,overall,1,0,4
+88,Jeffy L,Bridgeland,overall,1,0,4
+88,Sidh K,Bridgeland,overall,0,0,0
+89,Abhinav A,Deap South,overall,1,1,0
+89,Ryan K,Deap South,overall,8,1,28
+89,Sanjay O,Deap South,overall,1,0,4
+89,Ziang Z,Deap South,overall,3,0,12
+89,Anna K,WWPS B,overall,1,0,4
+89,Dhanshika S,WWPS B,overall,2,0,8
+89,Gyan C,WWPS B,overall,1,0,4
+89,Niharika D,WWPS B,overall,0,0,0
+90,Neal K,Eastlake,overall,1,0,4
+90,Saahil,Eastlake,overall,6,0,24
+90,Shivam,Eastlake,overall,3,1,8
+90,Akhil M,WWPS A,overall,0,1,-4
+90,Arjun D,WWPS A,overall,4,0,16
+90,Dennis J,WWPS A,overall,2,0,8
+90,Monish S,WWPS A,overall,3,4,-4
+91,Kaiwen Y,Enloe,overall,7,0,28
+91,Lawrence Q,Enloe,overall,1,0,4
+91,Ryan Y,Enloe,overall,1,0,4
+91,Vishruth K,Enloe,overall,1,3,-8
+91,Philip,Lynbrook A,overall,1,0,4
+91,Ryan,Lynbrook A,overall,1,0,4
+91,Sohil,Lynbrook A,overall,7,2,20
+91,evan,Lynbrook A,overall,1,0,4
+92,Abhishek C,Doral Academy,overall,6,0,24
+92,Neil H,Doral Academy,overall,1,0,4
+92,Santiago S,Doral Academy,overall,1,0,4
+92,Shalina L,Doral Academy,overall,0,0,0
+92,Allen F,Lexington A,overall,5,2,12
+92,Rahib H,Lexington A,overall,0,0,0
+92,William J,Lexington A,overall,4,2,8
+93,Ishan A,Collierville B,overall,2,0,8
+93,Jacob L,Collierville B,overall,0,0,0
+93,Sai B,Collierville B,overall,0,0,0
+93,Santhosh B,Collierville B,overall,0,0,0
+93,Charles H,North Hollywood A,overall,1,2,-4
+93,Connor C,North Hollywood A,overall,8,1,28
+93,Connor Z,North Hollywood A,overall,0,0,0
+93,Minghao G,North Hollywood A,overall,3,0,12
+94,Daniel L,Allen School,overall,15,1,56
+94,Caden Y,Morgantown,overall,0,3,-12
+94,Gloria H,Morgantown,overall,0,0,0
+94,Larry D,Morgantown,overall,1,1,0
+94,William T,Morgantown,overall,0,0,0
+95,Alex D,Canyon Crest A,overall,2,0,8
+95,Haiyue M,Canyon Crest A,overall,3,0,12
+95,Owen M,Canyon Crest A,overall,2,0,8
+95,Heidi,Varun Clemens,overall,0,0,0
+95,Praneel A,Varun Clemens,overall,7,4,12
+95,Shaun I,Varun Clemens,overall,0,2,-8
+95,Uddip K,Varun Clemens,overall,2,0,8
+96,Alex S,Clements,overall,5,1,16
+96,Eric Z,Clements,overall,1,0,4
+96,Daniel Y,Iolani A,overall,1,2,-4
+96,Haru G,Iolani A,overall,1,1,0
+96,Min S,Iolani A,overall,1,0,4
+96,Sola M,Iolani A,overall,6,0,24
+97,Daniel L,Allen School,overall,9,1,32
+97,Andrew,North Allegheny,overall,2,0,8
+97,Hongyi,North Allegheny,overall,4,1,12
+97,Jason,North Allegheny,overall,1,0,4
+97,Leo,North Allegheny,overall,1,0,4
+98,Allen F,Lexington A,overall,4,0,16
+98,Rahib H,Lexington A,overall,0,0,0
+98,William J,Lexington A,overall,3,2,4
+98,Heidi,Varun Clemens,overall,0,0,0
+98,Praneel A,Varun Clemens,overall,4,3,4
+98,Shaun I,Varun Clemens,overall,2,0,8
+98,Uddip K,Varun Clemens,overall,2,0,8
+99,Bowen S,BASIS Chandler,overall,0,0,0
+99,Lishan P,BASIS Chandler,overall,4,0,16
+99,Nihar B,BASIS Chandler,overall,3,1,8
+99,Varyan J,BASIS Chandler,overall,5,1,16
+99,Akhil M,WWPS A,overall,1,0,4
+99,Arjun D,WWPS A,overall,1,0,4
+99,Dennis J,WWPS A,overall,0,2,-8
+99,Monish S,WWPS A,overall,1,3,-8
+100,Ishaan K,MSJ,overall,2,2,0
+100,Theenash S,MSJ,overall,11,0,44
+100,Kensuke O,North Hollywood B,overall,4,1,12
+100,Nathaniel O,North Hollywood B,overall,0,0,0
+100,Neelabh G,North Hollywood B,overall,0,0,0
+101,Akhil B,Luka Fan Club,overall,5,2,12
+101,Andrew,Lynbrook A,overall,4,0,16
+101,Philip,Lynbrook A,overall,1,0,4
+101,Ryan,Lynbrook A,overall,0,0,0
+101,Sohil,Lynbrook A,overall,7,1,24
+102,Achuth V,Clovis North,overall,3,0,12
+102,Ethan W,Clovis North,overall,1,0,4
+102,Justin D,Clovis North,overall,3,0,12
+102,Renard W,Clovis North,overall,1,0,4
+102,Charles H,North Hollywood A,overall,2,1,4
+102,Connor C,North Hollywood A,overall,6,0,24
+102,Connor Z,North Hollywood A,overall,2,0,8
+102,Minghao G,North Hollywood A,overall,1,0,4
+103,Abhinav S,Collierville A,overall,3,0,12
+103,Arman,Collierville A,overall,2,0,8
+103,Charith N,Collierville A,overall,0,0,0
+103,Sumin Y,Collierville A,overall,4,0,16
+103,Abhinav A,Deap South,overall,1,0,4
+103,Ryan K,Deap South,overall,1,0,4
+103,Sanjay O,Deap South,overall,1,0,4
+103,Ziang Z,Deap South,overall,4,1,12
+104,Alex S,Clements,overall,4,2,8
+104,Eric Z,Clements,overall,0,0,0
+104,Abhinav S,Collierville A,overall,4,0,16
+104,Charith N,Collierville A,overall,0,0,0
+104,Krish S,Collierville A,overall,1,0,4
+104,Sumin Y,Collierville A,overall,4,0,16
+105,Daniel L,Allen School,overall,5,2,12
+105,Charles H,North Hollywood A,overall,1,2,-4
+105,Connor C,North Hollywood A,overall,3,1,8
+105,Connor Z,North Hollywood A,overall,5,0,20
+105,Minghao G,North Hollywood A,overall,2,1,4
+106,Kensuke O,North Hollywood B,overall,4,0,16
+106,Nathaniel O,North Hollywood B,overall,6,0,24
+106,Akhil M,WWPS A,overall,0,1,-4
+106,Arjun D,WWPS A,overall,4,0,16
+106,Dennis J,WWPS A,overall,1,0,4
+106,Monish S,WWPS A,overall,4,1,12
+107,Achuth V,Clovis North,overall,4,0,16
+107,Ethan W,Clovis North,overall,3,0,12
+107,Justin D,Clovis North,overall,4,0,16
+107,Renard W,Clovis North,overall,0,0,0
+107,Andrew,North Allegheny,overall,1,1,0
+107,Hongyi,North Allegheny,overall,1,2,-4
+107,Jason,North Allegheny,overall,1,0,4
+107,Leo,North Allegheny,overall,2,0,8
+108,Arnav S,BASIS Chandler,overall,0,0,0
+108,Lishan P,BASIS Chandler,overall,1,1,0
+108,Nihar B,BASIS Chandler,overall,2,0,8
+108,Varyan J,BASIS Chandler,overall,3,2,4
+108,Anish A,MSJ,overall,1,0,4
+108,Ishaan K,MSJ,overall,5,0,20
+108,Theenash S,MSJ,overall,8,1,28
+109,Allen F,Lexington A,overall,5,0,20
+109,William J,Lexington A,overall,6,3,12
+109,Akhil B,Luka Fan Club,overall,7,0,28
+110,Abhinav A,Deap South,overall,3,0,12
+110,Ryan K,Deap South,overall,5,0,20
+110,Sanjay O,Deap South,overall,1,2,-4
+110,Ziang Z,Deap South,overall,3,1,8
+110,Daniel Y,Iolani A,overall,1,0,4
+110,Haru G,Iolani A,overall,0,1,-4
+110,Min S,Iolani A,overall,3,1,8
+110,Sola M,Iolani A,overall,3,1,8
+111,Andrew,Lynbrook A,overall,2,0,8
+111,Philip,Lynbrook A,overall,1,0,4
+111,Ryan,Lynbrook A,overall,0,0,0
+111,Sohil,Lynbrook A,overall,6,1,20
+111,Heidi,Varun Clemens,overall,1,0,4
+111,Praneel A,Varun Clemens,overall,4,4,0
+111,Shaun I,Varun Clemens,overall,2,0,8
+111,Uddip K,Varun Clemens,overall,1,1,0
+112,Bowen S,BASIS Chandler,overall,0,0,0
+112,Lishan P,BASIS Chandler,overall,0,0,0
+112,Nihar B,BASIS Chandler,overall,2,2,0
+112,Varyan J,BASIS Chandler,overall,4,3,4
+112,Allen F,Lexington A,overall,4,2,8
+112,Rahib H,Lexington A,overall,0,0,0
+112,William J,Lexington A,overall,4,0,16
+113,Daniel L,Allen School,overall,5,0,20
+113,Abhinav S,Collierville A,overall,1,2,-4
+113,Charith N,Collierville A,overall,1,0,4
+113,Krish S,Collierville A,overall,1,0,4
+113,Sumin Y,Collierville A,overall,3,0,12
+114,Jake R,North Hollywood B,overall,1,1,0
+114,Kensuke O,North Hollywood B,overall,2,2,0
+114,Nathaniel O,North Hollywood B,overall,1,0,4
+114,Heidi,Varun Clemens,overall,1,0,4
+114,Praneel A,Varun Clemens,overall,6,1,20
+114,Shaun I,Varun Clemens,overall,1,0,4
+114,Uddip K,Varun Clemens,overall,1,0,4
+115,Achuth V,Clovis North,overall,2,3,-4
+115,Ethan W,Clovis North,overall,2,0,8
+115,Justin D,Clovis North,overall,2,0,8
+115,Renard W,Clovis North,overall,1,0,4
+115,Daniel Y,Iolani A,overall,2,0,8
+115,Haru G,Iolani A,overall,0,0,0
+115,Min S,Iolani A,overall,2,0,8
+115,Sola M,Iolani A,overall,4,2,8
+116,Daniel L,Allen School,overall,2,1,4
+116,Heidi,Varun Clemens,overall,0,0,0
+116,Praneel A,Varun Clemens,overall,3,1,8
+116,Shaun I,Varun Clemens,overall,4,1,12
+116,Uddip K,Varun Clemens,overall,5,2,12
+117,Andrew,Lynbrook A,overall,3,0,12
+117,Philip,Lynbrook A,overall,0,0,0
+117,Ryan,Lynbrook A,overall,0,0,0
+117,Sohil,Lynbrook A,overall,3,3,0
+117,Charles H,North Hollywood A,overall,0,0,0
+117,Connor C,North Hollywood A,overall,4,0,16
+117,Connor Z,North Hollywood A,overall,3,3,0
+117,Minghao G,North Hollywood A,overall,0,0,0
+118,Abhinav A,Deap South,overall,1,0,4
+118,Ryan K,Deap South,overall,2,0,8
+118,Sanjay O,Deap South,overall,2,0,8
+118,Ziang Z,Deap South,overall,3,1,8
+118,Anish A,MSJ,overall,0,0,0
+118,Ishaan K,MSJ,overall,0,0,0
+118,Theenash S,MSJ,overall,5,6,-4
+119,Daniel Y,Iolani A,overall,1,0,4
+119,Ethan Z,Iolani A,overall,0,0,0
+119,Min S,Iolani A,overall,2,1,4
+119,Sola M,Iolani A,overall,6,0,24
+119,Charles H,North Hollywood A,overall,2,0,8
+119,Connor C,North Hollywood A,overall,1,1,0
+119,Connor Z,North Hollywood A,overall,5,0,20
+119,Minghao G,North Hollywood A,overall,0,0,0
+120,Anish A,MSJ,overall,2,0,8
+120,Ishaan K,MSJ,overall,0,0,0
+120,Theenash S,MSJ,overall,7,4,12
+120,Heidi,Varun Clemens,overall,0,0,0
+120,Praneel A,Varun Clemens,overall,4,1,12
+120,Shaun I,Varun Clemens,overall,1,1,0
+120,Uddip K,Varun Clemens,overall,1,2,-4
+121,Daniel Y,Iolani A,overall,0,0,0
+121,Ethan Z,Iolani A,overall,0,0,0
+121,Min S,Iolani A,overall,1,0,4
+121,Sola M,Iolani A,overall,5,0,20
+121,Anish A,MSJ,overall,0,0,0
+121,Ishaan K,MSJ,overall,0,0,0
+121,Theenash S,MSJ,overall,6,3,12
+122,Abhinav A,Deap South,overall,1,0,4
+122,Ryan K,Deap South,overall,2,0,8
+122,Sanjay O,Deap South,overall,2,1,4
+122,Ziang Z,Deap South,overall,2,0,8
+122,Andrew,Lynbrook A,overall,1,0,4
+122,Philip,Lynbrook A,overall,0,0,0
+122,Ryan,Lynbrook A,overall,0,1,-4
+122,Sohil,Lynbrook A,overall,2,0,8
+1,Andrew L,BISV B,physics,0,1,-4
+1,Timothy Y,BISV B,biology,1,0,4
+1,Timothy Y,BISV B,chemistry,2,0,8
+1,Alex D,Canyon Crest A,chemistry,0,1,-4
+1,Alex D,Canyon Crest A,other,1,0,4
+1,Haiyue M,Canyon Crest A,biology,2,0,8
+1,Haiyue M,Canyon Crest A,other,1,1,0
+1,Haiyue M,Canyon Crest A,physics,4,0,16
+1,Owen M,Canyon Crest A,chemistry,1,0,4
+1,Owen M,Canyon Crest A,math,3,0,12
+2,Alex S,Clements,chemistry,3,0,12
+2,Alex S,Clements,math,3,0,12
+2,Alex S,Clements,physics,2,0,8
+2,Andrew K,Whitney Young,chemistry,1,0,4
+2,Andrew K,Whitney Young,other,2,0,8
+2,Andrew K,Whitney Young,math,1,0,4
+2,Andrew K,Whitney Young,physics,2,1,4
+2,Brennan T,Whitney Young,other,2,0,8
+2,Chaniel K,Whitney Young,biology,2,0,8
+2,Zachary H,Whitney Young,biology,1,0,4
+3,Daniel L,Allen School,chemistry,2,0,8
+3,Daniel L,Allen School,other,2,0,8
+3,Daniel L,Allen School,math,1,1,0
+3,Daniel L,Allen School,physics,3,0,12
+3,Achuth V,Clovis North,biology,4,0,16
+3,Ethan W,Clovis North,other,2,0,8
+3,Ethan W,Clovis North,physics,1,1,0
+3,Justin D,Clovis North,chemistry,1,1,0
+3,Justin D,Clovis North,math,2,0,8
+4,Anna K,WWPS B,chemistry,3,0,12
+4,Anna K,WWPS B,math,1,0,4
+4,Gyan C,WWPS B,other,2,0,8
+4,John,Woodlands,biology,1,0,4
+4,John,Woodlands,chemistry,1,0,4
+4,John,Woodlands,other,1,0,4
+4,John,Woodlands,physics,1,0,4
+4,Kai C,Woodlands,math,1,0,4
+4,Kai C,Woodlands,physics,1,0,4
+4,Liam,Woodlands,math,1,0,4
+5,Anish A,MSJ,physics,1,0,4
+5,Ishaan K,MSJ,other,2,1,4
+5,Ishaan K,MSJ,math,3,0,12
+5,Theenash S,MSJ,biology,4,0,16
+5,Theenash S,MSJ,chemistry,3,1,8
+5,Theenash S,MSJ,physics,3,0,12
+5,Kensuke O,North Hollywood B,other,2,0,8
+5,Kensuke O,North Hollywood B,math,1,0,4
+5,Nathaniel O,North Hollywood B,chemistry,1,0,4
+6,Abhinav A,Deap South,biology,1,0,4
+6,Abhinav A,Deap South,other,3,0,12
+6,Ryan K,Deap South,other,1,0,4
+6,Ryan K,Deap South,math,2,0,8
+6,Ryan K,Deap South,physics,1,0,4
+6,Sanjay O,Deap South,biology,1,0,4
+6,Sanjay O,Deap South,chemistry,2,2,0
+6,Sanjay O,Deap South,physics,3,0,12
+6,Ziang Z,Deap South,biology,1,0,4
+6,Ziang Z,Deap South,math,1,0,4
+6,Aydin E,Ward Melville,chemistry,1,0,4
+6,Srihari K,Ward Melville,chemistry,1,0,4
+6,Will S,Ward Melville,math,1,0,4
+7,Allen F,Lexington A,biology,0,1,-4
+7,Allen F,Lexington A,other,2,1,4
+7,William J,Lexington A,biology,0,1,-4
+7,William J,Lexington A,chemistry,2,1,4
+7,William J,Lexington A,math,2,0,8
+7,William J,Lexington A,physics,2,0,8
+7,Andrew,North Allegheny,other,1,0,4
+7,Andrew,North Allegheny,math,1,0,4
+7,Hongyi,North Allegheny,biology,3,0,12
+7,Hongyi,North Allegheny,physics,2,1,4
+7,Leo,North Allegheny,biology,1,0,4
+7,Leo,North Allegheny,chemistry,1,0,4
+8,Robert Y,Lynbrook B,chemistry,2,0,8
+8,Robert Y,Lynbrook B,physics,1,0,4
+8,Vincent Q,Lynbrook B,other,2,0,8
+8,Vincent Q,Lynbrook B,physics,1,0,4
+8,Akhil M,WWPS A,chemistry,1,2,-4
+8,Arjun D,WWPS A,biology,4,0,16
+8,Arjun D,WWPS A,chemistry,1,0,4
+8,Arjun D,WWPS A,physics,0,1,-4
+8,Monish S,WWPS A,math,4,0,16
+8,Monish S,WWPS A,physics,2,0,8
+9,Jacob L,Collierville B,math,1,0,4
+9,Santhosh B,Collierville B,chemistry,0,1,-4
+9,Daniel Y,Iolani A,biology,1,0,4
+9,Daniel Y,Iolani A,physics,2,0,8
+9,Ethan Z,Iolani A,other,4,0,16
+9,Ethan Z,Iolani A,physics,2,0,8
+9,Haru G,Iolani A,biology,1,0,4
+9,Haru G,Iolani A,math,1,0,4
+9,Min S,Iolani A,chemistry,4,0,16
+9,Min S,Iolani A,math,2,0,8
+10,Abhishek C,Doral Academy,math,2,0,8
+10,Abhishek C,Doral Academy,physics,2,0,8
+10,Neil H,Doral Academy,biology,3,0,12
+10,Santiago S,Doral Academy,chemistry,1,0,4
+10,Kevin P,Palo Alto,biology,1,0,4
+10,Kevin P,Palo Alto,chemistry,2,0,8
+10,Kevin P,Palo Alto,other,1,2,-4
+10,Kevin P,Palo Alto,math,1,0,4
+10,Kevin P,Palo Alto,physics,2,0,8
+10,Ryan P,Palo Alto,biology,0,1,-4
+10,Ryan P,Palo Alto,chemistry,1,0,4
+10,Ryan P,Palo Alto,math,1,0,4
+11,Dhruv M,American Heritage Broward,physics,1,0,4
+11,Jason T,American Heritage Broward,biology,3,0,12
+11,Jason T,American Heritage Broward,math,2,0,8
+11,Adam H,Lexington B,math,2,0,8
+11,Akshay R,Lexington B,chemistry,1,0,4
+11,Akshay R,Lexington B,other,2,0,8
+11,Ayaan I,Lexington B,chemistry,1,0,4
+11,Ayaan I,Lexington B,physics,3,0,12
+11,Ethan L,Lexington B,biology,0,1,-4
+11,Simon Z,Lexington B,chemistry,2,0,8
+11,Simon Z,Lexington B,physics,0,1,-4
+12,Advaith B,Bridgeland,other,0,1,-4
+12,Advaith B,Bridgeland,math,2,0,8
+12,Advaith B,Bridgeland,physics,1,0,4
+12,Carson P,Bridgeland,biology,1,0,4
+12,Jeffy L,Bridgeland,biology,1,0,4
+12,Jeffy L,Bridgeland,chemistry,2,0,8
+12,Luke I,Punahou School,biology,0,1,-4
+12,Travis D,Punahou School,chemistry,2,1,4
+12,Travis D,Punahou School,other,3,0,12
+12,Travis D,Punahou School,math,2,0,8
+12,Travis D,Punahou School,physics,2,0,8
+13,Abhinav S,Collierville A,biology,2,0,8
+13,Abhinav S,Collierville A,chemistry,2,1,4
+13,Abhinav S,Collierville A,other,1,0,4
+13,Abhinav S,Collierville A,math,2,0,8
+13,Abhinav S,Collierville A,physics,3,0,12
+13,Charith N,Collierville A,chemistry,1,0,4
+13,Krish S,Collierville A,biology,1,0,4
+13,Hong Jin K,Iolani B,other,2,0,8
+13,Hong Jin K,Iolani B,math,1,0,4
+13,Hong Jin K,Iolani B,physics,1,1,0
+13,Keene K,Iolani B,chemistry,0,1,-4
+13,Keene K,Iolani B,math,1,0,4
+13,Naoto H,Iolani B,chemistry,0,1,-4
+14,Andrew,Lynbrook A,biology,3,0,12
+14,Andrew,Lynbrook A,chemistry,1,0,4
+14,Philip,Lynbrook A,other,1,0,4
+14,Ryan,Lynbrook A,math,2,0,8
+14,Sohil,Lynbrook A,chemistry,2,0,8
+14,Sohil,Lynbrook A,other,1,0,4
+14,Sohil,Lynbrook A,math,2,0,8
+14,Sohil,Lynbrook A,physics,4,0,16
+14,evan,Lynbrook A,chemistry,1,0,4
+15,Christopher C,Arcadia A,other,1,0,4
+15,Ethan W,Arcadia A,biology,1,0,4
+15,Ethan W,Arcadia A,other,1,0,4
+15,Paxton L,Arcadia A,biology,1,0,4
+15,Paxton L,Arcadia A,chemistry,3,0,12
+15,Paxton L,Arcadia A,math,1,0,4
+15,Paxton L,Arcadia A,physics,3,0,12
+15,Akhil B,Luka Fan Club,biology,1,0,4
+15,Akhil B,Luka Fan Club,chemistry,1,2,-4
+15,Akhil B,Luka Fan Club,other,1,1,0
+15,Akhil B,Luka Fan Club,math,3,0,12
+15,Akhil B,Luka Fan Club,physics,1,1,0
+16,Camille P,Hunter,biology,3,0,12
+16,Gabe L,Hunter,chemistry,3,0,12
+16,Gabe L,Hunter,physics,2,0,8
+16,Charles H,North Hollywood A,biology,1,0,4
+16,Charles H,North Hollywood A,physics,1,0,4
+16,Connor C,North Hollywood A,other,2,0,8
+16,Connor Z,North Hollywood A,chemistry,1,0,4
+16,Connor Z,North Hollywood A,other,1,0,4
+16,Connor Z,North Hollywood A,math,1,0,4
+16,Connor Z,North Hollywood A,physics,1,1,0
+16,Minghao G,North Hollywood A,math,3,0,12
+17,Henry Z,Arcadia B,physics,0,1,-4
+17,Kevin W,Arcadia B,biology,3,0,12
+17,Kevin W,Arcadia B,chemistry,1,0,4
+17,Kevin W,Arcadia B,other,1,0,4
+17,Kevin W,Arcadia B,math,2,0,8
+17,Kevin W,Arcadia B,physics,1,0,4
+17,Lawrence Q,Enloe,math,1,0,4
+17,Lawrence Q,Enloe,physics,1,0,4
+17,Max X,Enloe,math,1,0,4
+17,Vishruth K,Enloe,chemistry,3,0,12
+17,Vishruth K,Enloe,other,2,1,4
+17,Vishruth K,Enloe,physics,2,0,8
+18,Aaron C,BISV A,other,2,0,8
+18,Aaron C,BISV A,math,1,0,4
+18,Aaron C,BISV A,physics,1,0,4
+18,Larry Z,BISV A,biology,3,1,8
+18,Larry Z,BISV A,chemistry,1,0,4
+18,Larry Z,BISV A,physics,1,0,4
+18,Timo Y,BISV A,chemistry,0,1,-4
+18,Timo Y,BISV A,math,1,0,4
+18,Timo Y,BISV A,physics,1,1,0
+18,Lucas B,Benjamin Franklin,chemistry,1,0,4
+18,Lucas B,Benjamin Franklin,other,1,0,4
+18,Marianne N,Benjamin Franklin,biology,1,0,4
+18,Marianne N,Benjamin Franklin,chemistry,2,0,8
+18,Ronald Z,Benjamin Franklin,math,2,0,8
+19,Dheeran S,Deep Run,chemistry,0,1,-4
+19,Nimit A,Deep Run,biology,2,1,4
+19,Nimit A,Deep Run,other,2,0,8
+19,Rithik N,Deep Run,physics,1,0,4
+19,Riyan N,Deep Run,math,2,0,8
+19,Riyan N,Deep Run,physics,1,1,0
+19,Eshaan S,Thomas Jefferson,chemistry,1,0,4
+19,Eshaan S,Thomas Jefferson,physics,2,0,8
+19,Hrishi B,Thomas Jefferson,biology,1,0,4
+19,Hrishi B,Thomas Jefferson,chemistry,1,0,4
+19,Hrishi B,Thomas Jefferson,physics,0,1,-4
+19,Justin Y,Thomas Jefferson,biology,1,1,0
+19,Rohan B,Thomas Jefferson,chemistry,2,0,8
+19,Rohan B,Thomas Jefferson,other,1,1,0
+20,Christopher C,Arcadia A,other,1,0,4
+20,Ethan W,Arcadia A,other,1,0,4
+20,Ethan W,Arcadia A,math,1,0,4
+20,Ethan W,Arcadia A,physics,1,0,4
+20,Praneel A,Varun Clemens,biology,1,0,4
+20,Praneel A,Varun Clemens,chemistry,4,0,16
+20,Praneel A,Varun Clemens,other,1,1,0
+20,Praneel A,Varun Clemens,math,1,1,0
+20,Praneel A,Varun Clemens,physics,3,0,12
+20,Shaun I,Varun Clemens,biology,1,0,4
+20,Uddip K,Varun Clemens,biology,2,0,8
+21,Aaron C,BISV A,other,2,1,4
+21,Aaron C,BISV A,math,0,1,-4
+21,Aaron C,BISV A,physics,3,1,8
+21,Larry Z,BISV A,biology,3,1,8
+21,Lutecia L,BISV A,chemistry,2,0,8
+21,Advaith B,Bridgeland,other,1,0,4
+21,Advaith B,Bridgeland,math,1,0,4
+21,Advaith B,Bridgeland,physics,1,0,4
+21,Carson P,Bridgeland,chemistry,1,0,4
+21,Sidh K,Bridgeland,biology,1,0,4
+22,Aydin E,Ward Melville,biology,1,0,4
+22,Srihari K,Ward Melville,other,2,0,8
+22,Srihari K,Ward Melville,math,2,0,8
+22,Will S,Ward Melville,biology,1,0,4
+22,Will S,Ward Melville,chemistry,1,0,4
+22,Will S,Ward Melville,math,1,0,4
+22,Will S,Ward Melville,physics,1,0,4
+22,Arjith,Woodlands,physics,1,0,4
+22,John,Woodlands,biology,1,0,4
+22,John,Woodlands,chemistry,2,0,8
+22,John,Woodlands,other,1,0,4
+23,Saahil,Eastlake,biology,2,1,4
+23,Saahil,Eastlake,chemistry,2,0,8
+23,Saahil,Eastlake,other,1,0,4
+23,Saahil,Eastlake,math,1,1,0
+23,Andrew K,Whitney Young,chemistry,2,0,8
+23,Andrew K,Whitney Young,other,2,0,8
+23,Andrew K,Whitney Young,math,3,0,12
+23,Andrew K,Whitney Young,physics,2,0,8
+23,Brennan T,Whitney Young,physics,2,0,8
+23,Chaniel K,Whitney Young,biology,1,0,4
+24,Andrew B,Benjamin Franklin,other,1,0,4
+24,Maddox H,Benjamin Franklin,physics,1,0,4
+24,Marianne N,Benjamin Franklin,biology,1,0,4
+24,Marianne N,Benjamin Franklin,math,1,0,4
+24,Ronald Z,Benjamin Franklin,physics,1,0,4
+24,Kensuke O,North Hollywood B,biology,1,0,4
+24,Kensuke O,North Hollywood B,other,2,1,4
+24,Kensuke O,North Hollywood B,math,2,0,8
+24,Kensuke O,North Hollywood B,physics,1,0,4
+24,Nathaniel O,North Hollywood B,biology,2,0,8
+24,Nathaniel O,North Hollywood B,chemistry,2,1,4
+25,Ishan A,Collierville B,math,1,0,4
+25,Jacob L,Collierville B,biology,1,0,4
+25,Jacob L,Collierville B,chemistry,1,0,4
+25,Sai B,Collierville B,physics,2,0,8
+25,Santhosh B,Collierville B,biology,1,0,4
+25,Santhosh B,Collierville B,chemistry,1,0,4
+25,Camille P,Hunter,biology,1,0,4
+25,Camille P,Hunter,chemistry,1,0,4
+25,Camille P,Hunter,other,4,0,16
+25,Gabe L,Hunter,chemistry,1,0,4
+25,Gabe L,Hunter,math,3,0,12
+25,Gabe L,Hunter,physics,2,0,8
+26,Abhinav S,Collierville A,biology,0,1,-4
+26,Abhinav S,Collierville A,chemistry,1,0,4
+26,Abhinav S,Collierville A,other,1,0,4
+26,Abhinav S,Collierville A,math,2,0,8
+26,Abhinav S,Collierville A,physics,1,0,4
+26,Krish S,Collierville A,biology,1,0,4
+26,Sumin Y,Collierville A,chemistry,3,0,12
+26,Sumin Y,Collierville A,other,2,0,8
+26,Sumin Y,Collierville A,math,1,0,4
+26,Dhanshika S,WWPS B,biology,1,0,4
+26,Dhanshika S,WWPS B,physics,1,0,4
+26,Gyan C,WWPS B,other,1,0,4
+26,Niharika D,WWPS B,biology,1,0,4
+27,Nimit A,Deep Run,biology,1,0,4
+27,Nimit A,Deep Run,other,1,1,0
+27,Prithwish C,Deep Run,physics,1,0,4
+27,Rithik N,Deep Run,math,0,1,-4
+27,Larry D,Morgantown,chemistry,2,0,8
+27,Sunny G,Morgantown,biology,1,0,4
+27,Sunny G,Morgantown,other,1,0,4
+27,Sunny G,Morgantown,math,2,1,4
+27,William T,Morgantown,chemistry,1,0,4
+27,William T,Morgantown,other,1,0,4
+27,William T,Morgantown,math,1,0,4
+27,William T,Morgantown,physics,1,1,0
+28,Abhishek C,Doral Academy,math,4,0,16
+28,Abhishek C,Doral Academy,physics,1,1,0
+28,Neil H,Doral Academy,biology,2,0,8
+28,Santiago S,Doral Academy,chemistry,2,0,8
+28,Andrew,North Allegheny,other,2,0,8
+28,Hongyi,North Allegheny,biology,2,0,8
+28,Hongyi,North Allegheny,physics,1,0,4
+28,Jason,North Allegheny,physics,1,0,4
+28,Leo,North Allegheny,chemistry,2,1,4
+28,Leo,North Allegheny,other,2,0,8
+28,Leo,North Allegheny,physics,1,0,4
+29,Adam H,Lexington B,math,2,1,4
+29,Akshay R,Lexington B,other,2,1,4
+29,Simon Z,Lexington B,biology,2,1,4
+29,Charles H,North Hollywood A,chemistry,1,0,4
+29,Charles H,North Hollywood A,physics,3,0,12
+29,Connor C,North Hollywood A,math,1,0,4
+29,Connor Z,North Hollywood A,biology,1,0,4
+29,Connor Z,North Hollywood A,chemistry,3,0,12
+29,Connor Z,North Hollywood A,other,1,1,0
+29,Connor Z,North Hollywood A,physics,0,1,-4
+29,Minghao G,North Hollywood A,biology,1,0,4
+29,Minghao G,North Hollywood A,math,1,0,4
+30,Allen F,Lexington A,biology,2,2,0
+30,Allen F,Lexington A,other,2,0,8
+30,William J,Lexington A,chemistry,4,0,16
+30,William J,Lexington A,other,0,1,-4
+30,William J,Lexington A,math,2,0,8
+30,William J,Lexington A,physics,1,0,4
+30,Josh P,Quail Valley,math,2,0,8
+30,Josh P,Quail Valley,physics,1,0,4
+30,Shruthi R,Quail Valley,biology,2,0,8
+30,Vedant B,Quail Valley,other,2,0,8
+30,Vedant B,Quail Valley,physics,1,0,4
+31,Lishan P,BASIS Chandler,chemistry,1,0,4
+31,Nihar B,BASIS Chandler,biology,4,0,16
+31,Nihar B,BASIS Chandler,chemistry,1,0,4
+31,Nihar B,BASIS Chandler,physics,1,0,4
+31,Varyan J,BASIS Chandler,chemistry,2,0,8
+31,Varyan J,BASIS Chandler,other,3,1,8
+31,Varyan J,BASIS Chandler,math,3,0,12
+31,Varyan J,BASIS Chandler,physics,2,1,4
+31,Lawrence Q,Enloe,physics,1,0,4
+31,Vishruth K,Enloe,biology,0,1,-4
+32,Ariv B,American Heritage Broward,chemistry,1,0,4
+32,Ariv B,American Heritage Broward,physics,1,0,4
+32,Arnav B,American Heritage Broward,math,2,0,8
+32,Jason T,American Heritage Broward,biology,2,0,8
+32,Daniel Y,Iolani A,other,1,0,4
+32,Daniel Y,Iolani A,physics,1,0,4
+32,Ethan Z,Iolani A,other,1,0,4
+32,Haru G,Iolani A,biology,2,0,8
+32,Min S,Iolani A,chemistry,3,0,12
+32,Sola M,Iolani A,biology,0,1,-4
+32,Sola M,Iolani A,math,1,0,4
+32,Sola M,Iolani A,physics,1,0,4
+33,Abhinav A,Deap South,other,0,1,-4
+33,Ryan K,Deap South,biology,2,2,0
+33,Ryan K,Deap South,other,1,0,4
+33,Ryan K,Deap South,math,2,1,4
+33,Sanjay O,Deap South,chemistry,4,0,16
+33,Sanjay O,Deap South,other,1,0,4
+33,Sanjay O,Deap South,physics,1,0,4
+33,Ziang Z,Deap South,other,1,0,4
+33,Ziang Z,Deap South,physics,2,0,8
+33,Hong Jin K,Iolani B,other,0,2,-8
+33,Hong Jin K,Iolani B,math,2,0,8
+33,Hong Jin K,Iolani B,physics,1,2,-4
+33,Naoto H,Iolani B,biology,1,1,0
+34,Andrew L,BISV B,physics,1,0,4
+34,Timothy Y,BISV B,chemistry,1,0,4
+34,Timothy Y,BISV B,other,1,0,4
+34,Timothy Y,BISV B,math,1,1,0
+34,Akhil B,Luka Fan Club,biology,2,1,4
+34,Akhil B,Luka Fan Club,chemistry,3,0,12
+34,Akhil B,Luka Fan Club,other,3,1,8
+34,Akhil B,Luka Fan Club,math,3,1,8
+34,Akhil B,Luka Fan Club,physics,2,0,8
+35,Anish A,MSJ,biology,1,0,4
+35,Ishaan K,MSJ,other,1,1,0
+35,Ishaan K,MSJ,math,1,1,0
+35,Ishaan K,MSJ,physics,0,1,-4
+35,Theenash S,MSJ,biology,3,0,12
+35,Theenash S,MSJ,chemistry,3,0,12
+35,Theenash S,MSJ,other,0,1,-4
+35,Theenash S,MSJ,math,1,1,0
+35,Theenash S,MSJ,physics,2,0,8
+35,Nicholas B,Punahou School,math,1,0,4
+35,Travis D,Punahou School,chemistry,1,0,4
+35,Travis D,Punahou School,other,1,1,0
+35,Travis D,Punahou School,math,1,0,4
+35,Travis D,Punahou School,physics,2,0,8
+36,Alex S,Clements,biology,1,0,4
+36,Alex S,Clements,chemistry,2,0,8
+36,Alex S,Clements,other,1,0,4
+36,Alex S,Clements,math,1,1,0
+36,Alex S,Clements,physics,1,1,0
+36,Eric Z,Clements,other,2,0,8
+36,Eric Z,Clements,math,1,0,4
+36,Eric Z,Clements,physics,2,0,8
+36,Matthew Y,Lynbrook B,biology,1,0,4
+36,Matthew Y,Lynbrook B,math,1,0,4
+36,Robert Y,Lynbrook B,chemistry,2,0,8
+36,Vincent Q,Lynbrook B,biology,1,0,4
+36,Vincent Q,Lynbrook B,other,1,0,4
+36,Vincent Q,Lynbrook B,math,1,0,4
+37,Ethan W,Clovis North,other,1,0,4
+37,Ethan W,Clovis North,physics,1,0,4
+37,Justin D,Clovis North,chemistry,3,0,12
+37,Justin D,Clovis North,math,1,0,4
+37,Justin D,Clovis North,physics,2,0,8
+37,Eshaan S,Thomas Jefferson,math,1,1,0
+37,Eshaan S,Thomas Jefferson,physics,0,1,-4
+37,Hrishi B,Thomas Jefferson,chemistry,1,0,4
+37,Hrishi B,Thomas Jefferson,other,1,0,4
+37,Hrishi B,Thomas Jefferson,math,1,0,4
+37,Rohan B,Thomas Jefferson,other,0,1,-4
+37,Sophia G,Thomas Jefferson,biology,4,0,16
+37,Sophia G,Thomas Jefferson,other,1,1,0
+37,Sophia G,Thomas Jefferson,math,1,0,4
+38,Henry Z,Arcadia B,chemistry,1,0,4
+38,Johnson P,Arcadia B,chemistry,0,1,-4
+38,Johnson P,Arcadia B,physics,1,0,4
+38,Kevin W,Arcadia B,biology,1,0,4
+38,Kevin W,Arcadia B,math,0,1,-4
+38,Andrew,Lynbrook A,biology,3,0,12
+38,Philip,Lynbrook A,other,1,0,4
+38,Sohil,Lynbrook A,chemistry,3,0,12
+38,Sohil,Lynbrook A,other,1,0,4
+38,Sohil,Lynbrook A,math,4,0,16
+38,Sohil,Lynbrook A,physics,3,1,8
+39,Alex D,Canyon Crest A,biology,0,1,-4
+39,Haiyue M,Canyon Crest A,physics,2,0,8
+39,Owen M,Canyon Crest A,chemistry,2,0,8
+39,Owen M,Canyon Crest A,math,1,0,4
+39,Akhil B,Luka Fan Club,biology,2,2,0
+39,Akhil B,Luka Fan Club,chemistry,1,1,0
+39,Akhil B,Luka Fan Club,other,2,1,4
+39,Akhil B,Luka Fan Club,math,1,0,4
+39,Akhil B,Luka Fan Club,physics,2,0,8
+40,Anna K,WWPS B,chemistry,1,1,0
+40,Dhanshika S,WWPS B,math,1,0,4
+40,Dhanshika S,WWPS B,physics,1,0,4
+40,Gyan C,WWPS B,other,1,1,0
+40,Aydin E,Ward Melville,biology,2,0,8
+40,Srihari K,Ward Melville,biology,1,0,4
+40,Will S,Ward Melville,biology,1,0,4
+40,Will S,Ward Melville,chemistry,1,0,4
+40,Will S,Ward Melville,physics,1,0,4
+41,Carson P,Bridgeland,biology,1,0,4
+41,Carson P,Bridgeland,chemistry,1,0,4
+41,Kensuke O,North Hollywood B,chemistry,1,0,4
+41,Kensuke O,North Hollywood B,other,3,1,8
+41,Kensuke O,North Hollywood B,math,1,0,4
+41,Kensuke O,North Hollywood B,physics,1,0,4
+41,Nathaniel O,North Hollywood B,biology,1,0,4
+41,Nathaniel O,North Hollywood B,chemistry,2,1,4
+41,Nathaniel O,North Hollywood B,math,1,0,4
+41,Nathaniel O,North Hollywood B,physics,3,0,12
+42,Andrew L,BISV B,biology,1,0,4
+42,Timothy Y,BISV B,chemistry,1,0,4
+42,Timothy Y,BISV B,math,1,0,4
+42,Praneel A,Varun Clemens,other,1,0,4
+42,Praneel A,Varun Clemens,math,2,0,8
+42,Praneel A,Varun Clemens,physics,3,1,8
+42,Shaun I,Varun Clemens,chemistry,2,1,4
+42,Shaun I,Varun Clemens,other,0,2,-8
+42,Uddip K,Varun Clemens,biology,1,1,0
+42,Uddip K,Varun Clemens,other,0,1,-4
+43,Hong Jin K,Iolani B,other,1,1,0
+43,Hong Jin K,Iolani B,math,2,0,8
+43,Hong Jin K,Iolani B,physics,1,1,0
+43,Keene K,Iolani B,chemistry,4,0,16
+43,Naoto H,Iolani B,biology,0,1,-4
+43,Arjith,Woodlands,biology,1,0,4
+43,Arjith,Woodlands,physics,0,1,-4
+43,Kai C,Woodlands,other,0,1,-4
+43,Kai C,Woodlands,physics,1,0,4
+43,Liam,Woodlands,other,1,0,4
+44,Henry Z,Arcadia B,chemistry,0,1,-4
+44,Henry Z,Arcadia B,physics,1,0,4
+44,Johnson P,Arcadia B,math,1,0,4
+44,Johnson P,Arcadia B,physics,2,0,8
+44,Kevin W,Arcadia B,biology,1,0,4
+44,Kevin W,Arcadia B,chemistry,3,0,12
+44,Kevin W,Arcadia B,math,1,0,4
+44,Andy S,Canyon Crest B,math,1,0,4
+44,Theodore A,Canyon Crest B,biology,1,0,4
+45,Alex S,Clements,biology,1,0,4
+45,Alex S,Clements,chemistry,1,0,4
+45,Alex S,Clements,math,1,1,0
+45,Alex S,Clements,physics,1,0,4
+45,Eric Z,Clements,chemistry,1,0,4
+45,Eric Z,Clements,math,1,0,4
+45,Yale Z,Clements,chemistry,1,0,4
+45,Yale Z,Clements,other,1,2,-4
+45,Yale Z,Clements,physics,1,0,4
+45,Akhil M,WWPS A,chemistry,0,2,-8
+45,Akhil M,WWPS A,other,1,0,4
+45,Arjun D,WWPS A,biology,2,1,4
+45,Monish S,WWPS A,chemistry,1,0,4
+45,Monish S,WWPS A,math,2,1,4
+45,Monish S,WWPS A,physics,2,0,8
+46,Marianne N,Benjamin Franklin,other,1,0,4
+46,Ronald Z,Benjamin Franklin,math,1,0,4
+46,Ronald Z,Benjamin Franklin,physics,2,0,8
+46,Ishaan K,MSJ,chemistry,1,0,4
+46,Ishaan K,MSJ,other,1,2,-4
+46,Ishaan K,MSJ,math,2,0,8
+46,Theenash S,MSJ,biology,3,1,8
+46,Theenash S,MSJ,chemistry,2,0,8
+46,Theenash S,MSJ,math,1,0,4
+46,Theenash S,MSJ,physics,1,1,0
+47,Hongyi,North Allegheny,biology,1,0,4
+47,Hongyi,North Allegheny,other,1,0,4
+47,Hongyi,North Allegheny,physics,1,0,4
+47,Jason,North Allegheny,biology,1,0,4
+47,Jason,North Allegheny,physics,2,0,8
+47,Leo,North Allegheny,chemistry,1,1,0
+47,Leo,North Allegheny,math,0,1,-4
+47,Kevin P,Palo Alto,biology,1,0,4
+47,Kevin P,Palo Alto,chemistry,2,0,8
+47,Kevin P,Palo Alto,other,2,1,4
+47,Kevin P,Palo Alto,math,3,0,12
+47,Kevin P,Palo Alto,physics,1,1,0
+47,Ryan P,Palo Alto,chemistry,0,1,-4
+47,Ryan P,Palo Alto,math,1,0,4
+48,Abhishek C,Doral Academy,other,1,0,4
+48,Abhishek C,Doral Academy,math,3,0,12
+48,Abhishek C,Doral Academy,physics,2,0,8
+48,Neil H,Doral Academy,biology,3,0,12
+48,Santiago S,Doral Academy,chemistry,3,0,12
+48,Santiago S,Doral Academy,math,0,1,-4
+48,Josh P,Quail Valley,math,1,0,4
+48,Josh P,Quail Valley,physics,2,0,8
+48,Vedant B,Quail Valley,other,3,0,12
+49,Aaron C,BISV A,chemistry,1,0,4
+49,Aaron C,BISV A,other,1,1,0
+49,Aaron C,BISV A,math,1,0,4
+49,Aaron C,BISV A,physics,1,0,4
+49,Larry Z,BISV A,biology,3,0,12
+49,Luke I,Punahou School,math,1,0,4
+49,Travis D,Punahou School,chemistry,2,1,4
+49,Travis D,Punahou School,other,3,0,12
+49,Travis D,Punahou School,math,1,0,4
+49,Travis D,Punahou School,physics,2,0,8
+50,Daniel Y,Iolani A,physics,1,0,4
+50,Haru G,Iolani A,biology,1,0,4
+50,Min S,Iolani A,chemistry,3,0,12
+50,Sola M,Iolani A,biology,1,0,4
+50,Sola M,Iolani A,math,2,0,8
+50,Charles H,North Hollywood A,math,0,1,-4
+50,Charles H,North Hollywood A,physics,2,0,8
+50,Connor C,North Hollywood A,biology,2,0,8
+50,Connor C,North Hollywood A,other,1,1,0
+50,Connor C,North Hollywood A,math,1,0,4
+50,Connor Z,North Hollywood A,chemistry,1,0,4
+50,Connor Z,North Hollywood A,other,1,0,4
+50,Connor Z,North Hollywood A,physics,1,0,4
+50,Minghao G,North Hollywood A,math,1,0,4
+51,Daniel L,Allen School,biology,3,0,12
+51,Daniel L,Allen School,chemistry,2,0,8
+51,Daniel L,Allen School,other,1,1,0
+51,Daniel L,Allen School,math,1,0,4
+51,Daniel L,Allen School,physics,3,0,12
+51,Eshaan S,Thomas Jefferson,math,2,0,8
+51,Eshaan S,Thomas Jefferson,physics,0,1,-4
+51,Hrishi B,Thomas Jefferson,chemistry,1,2,-4
+51,Hrishi B,Thomas Jefferson,physics,1,0,4
+51,Rohan B,Thomas Jefferson,other,1,0,4
+51,Sophia G,Thomas Jefferson,biology,0,1,-4
+52,Saahil,Eastlake,biology,2,0,8
+52,Saahil,Eastlake,chemistry,2,1,4
+52,Saahil,Eastlake,other,3,0,12
+52,Shivam,Eastlake,other,0,1,-4
+52,Shivam,Eastlake,math,1,1,0
+52,Shivam,Eastlake,physics,3,0,12
+52,Matthew Y,Lynbrook B,biology,2,0,8
+52,Matthew Y,Lynbrook B,math,2,0,8
+52,Robert Y,Lynbrook B,chemistry,2,0,8
+52,Vincent Q,Lynbrook B,math,1,0,4
+52,Vincent Q,Lynbrook B,physics,1,0,4
+53,Lishan P,BASIS Chandler,chemistry,1,1,0
+53,Lishan P,BASIS Chandler,math,1,0,4
+53,Nihar B,BASIS Chandler,biology,3,0,12
+53,Varyan J,BASIS Chandler,other,0,3,-12
+53,Varyan J,BASIS Chandler,math,0,1,-4
+53,Varyan J,BASIS Chandler,physics,1,2,-4
+53,Philip,Lynbrook A,other,2,0,8
+53,Sohil,Lynbrook A,biology,1,0,4
+53,Sohil,Lynbrook A,chemistry,2,0,8
+53,Sohil,Lynbrook A,math,2,1,4
+53,Sohil,Lynbrook A,physics,3,0,12
+54,Abhinav S,Collierville A,biology,1,0,4
+54,Arman,Collierville A,biology,0,1,-4
+54,Sumin Y,Collierville A,biology,1,0,4
+54,Sumin Y,Collierville A,chemistry,0,1,-4
+54,Sumin Y,Collierville A,other,0,2,-8
+54,Sumin Y,Collierville A,physics,1,0,4
+54,Abhinav A,Deap South,other,0,2,-8
+54,Ryan K,Deap South,biology,1,0,4
+54,Ryan K,Deap South,other,1,0,4
+54,Ryan K,Deap South,math,1,0,4
+54,Ryan K,Deap South,physics,1,0,4
+54,Sanjay O,Deap South,chemistry,4,0,16
+54,Sanjay O,Deap South,math,1,0,4
+54,Ziang Z,Deap South,math,1,0,4
+54,Ziang Z,Deap South,physics,1,0,4
+55,Ariv B,American Heritage Broward,chemistry,2,0,8
+55,Ariv B,American Heritage Broward,math,1,0,4
+55,Dhruv M,American Heritage Broward,physics,1,0,4
+55,Jason T,American Heritage Broward,biology,1,0,4
+55,Jason T,American Heritage Broward,math,1,0,4
+55,Sai B,Collierville B,physics,3,0,12
+55,Santhosh B,Collierville B,biology,0,1,-4
+55,Santhosh B,Collierville B,chemistry,0,1,-4
+55,Santhosh B,Collierville B,other,1,0,4
+56,Camille P,Hunter,other,1,1,0
+56,Gabe L,Hunter,chemistry,1,1,0
+56,Gabe L,Hunter,math,1,1,0
+56,Gabe L,Hunter,physics,2,0,8
+56,Melody L,Hunter,chemistry,1,0,4
+56,Akshay R,Lexington B,other,2,0,8
+56,Ayaan I,Lexington B,physics,1,0,4
+56,Ethan L,Lexington B,biology,1,0,4
+56,Ethan L,Lexington B,chemistry,1,0,4
+56,Simon Z,Lexington B,biology,3,0,12
+56,Simon Z,Lexington B,chemistry,1,2,-4
+56,Simon Z,Lexington B,math,1,0,4
+57,Achuth V,Clovis North,biology,3,0,12
+57,Achuth V,Clovis North,math,1,0,4
+57,Justin D,Clovis North,chemistry,1,1,0
+57,Justin D,Clovis North,other,1,1,0
+57,Justin D,Clovis North,physics,3,0,12
+57,Renard W,Clovis North,biology,1,0,4
+57,Renard W,Clovis North,other,1,0,4
+57,Caden Y,Morgantown,math,1,0,4
+57,Larry D,Morgantown,chemistry,2,0,8
+57,Sunny G,Morgantown,biology,0,1,-4
+57,Sunny G,Morgantown,math,1,0,4
+57,Sunny G,Morgantown,physics,1,0,4
+57,William T,Morgantown,other,1,0,4
+58,Ethan W,Arcadia A,biology,1,1,0
+58,Ethan W,Arcadia A,chemistry,3,1,8
+58,Ethan W,Arcadia A,math,0,2,-8
+58,Ethan W,Arcadia A,physics,1,0,4
+58,Paxton L,Arcadia A,biology,1,0,4
+58,Paxton L,Arcadia A,other,0,1,-4
+58,Paxton L,Arcadia A,math,1,0,4
+58,Alex D,Canyon Crest A,biology,2,0,8
+58,Alex D,Canyon Crest A,other,1,0,4
+58,Alex D,Canyon Crest A,physics,1,0,4
+58,Haiyue M,Canyon Crest A,other,3,0,12
+58,Owen M,Canyon Crest A,chemistry,1,0,4
+58,Owen M,Canyon Crest A,math,2,0,8
+58,Owen M,Canyon Crest A,physics,1,0,4
+59,Akhil M,WWPS A,chemistry,1,1,0
+59,Akhil M,WWPS A,other,1,0,4
+59,Arjun D,WWPS A,biology,4,0,16
+59,Arjun D,WWPS A,chemistry,2,0,8
+59,Monish S,WWPS A,other,0,1,-4
+59,Monish S,WWPS A,math,2,0,8
+59,Monish S,WWPS A,physics,2,2,0
+59,Andrew K,Whitney Young,chemistry,0,1,-4
+59,Andrew K,Whitney Young,other,0,1,-4
+59,Andrew K,Whitney Young,math,1,0,4
+59,Andrew K,Whitney Young,physics,2,0,8
+59,Brennan T,Whitney Young,chemistry,1,0,4
+59,Brennan T,Whitney Young,math,1,0,4
+59,Chaniel K,Whitney Young,chemistry,0,1,-4
+59,Zachary H,Whitney Young,other,1,0,4
+60,Andy S,Canyon Crest B,math,1,0,4
+60,Andy S,Canyon Crest B,physics,1,0,4
+60,Sahej B,Canyon Crest B,biology,1,0,4
+60,Sahej B,Canyon Crest B,other,1,0,4
+60,Yihan J,Canyon Crest B,biology,1,0,4
+60,Yihan J,Canyon Crest B,physics,0,1,-4
+60,Lawrence Q,Enloe,physics,1,0,4
+60,Max X,Enloe,math,1,0,4
+60,Ryan Y,Enloe,other,2,0,8
+60,Vishruth K,Enloe,biology,2,1,4
+60,Vishruth K,Enloe,chemistry,4,0,16
+61,Henry Z,Arcadia B,chemistry,1,0,4
+61,Henry Z,Arcadia B,physics,1,0,4
+61,Kevin W,Arcadia B,biology,1,0,4
+61,Kevin W,Arcadia B,chemistry,2,0,8
+61,Kevin W,Arcadia B,math,1,0,4
+61,Lishan P,BASIS Chandler,math,1,0,4
+61,Nihar B,BASIS Chandler,biology,3,0,12
+61,Varyan J,BASIS Chandler,other,3,0,12
+61,Varyan J,BASIS Chandler,math,2,0,8
+61,Varyan J,BASIS Chandler,physics,2,1,4
+62,Daniel L,Allen School,biology,3,0,12
+62,Daniel L,Allen School,chemistry,3,0,12
+62,Daniel L,Allen School,other,1,0,4
+62,Daniel L,Allen School,math,2,0,8
+62,Daniel L,Allen School,physics,4,0,16
+62,Prithwish C,Deep Run,chemistry,1,0,4
+62,Yunay V,Deep Run,other,0,1,-4
+63,Aaron C,BISV A,other,1,0,4
+63,Larry Z,BISV A,biology,2,1,4
+63,Larry Z,BISV A,chemistry,1,0,4
+63,Kensuke O,North Hollywood B,other,3,0,12
+63,Kensuke O,North Hollywood B,physics,2,0,8
+63,Nathaniel O,North Hollywood B,biology,2,0,8
+63,Nathaniel O,North Hollywood B,chemistry,2,1,4
+63,Nathaniel O,North Hollywood B,math,2,0,8
+63,Nathaniel O,North Hollywood B,physics,1,0,4
+64,Akhil B,Luka Fan Club,biology,2,1,4
+64,Akhil B,Luka Fan Club,chemistry,0,1,-4
+64,Akhil B,Luka Fan Club,other,1,1,0
+64,Akhil B,Luka Fan Club,math,2,0,8
+64,Heidi,Varun Clemens,biology,0,1,-4
+64,Praneel A,Varun Clemens,chemistry,3,0,12
+64,Praneel A,Varun Clemens,other,3,0,12
+64,Praneel A,Varun Clemens,math,1,1,0
+64,Praneel A,Varun Clemens,physics,3,0,12
+64,Shaun I,Varun Clemens,chemistry,1,0,4
+64,Shaun I,Varun Clemens,math,0,1,-4
+64,Uddip K,Varun Clemens,biology,2,1,4
+64,Uddip K,Varun Clemens,other,0,1,-4
+64,Uddip K,Varun Clemens,physics,0,1,-4
+65,Maddox H,Benjamin Franklin,math,2,0,8
+65,Marianne N,Benjamin Franklin,biology,2,0,8
+65,Marianne N,Benjamin Franklin,physics,0,1,-4
+65,Ronald Z,Benjamin Franklin,chemistry,2,0,8
+65,Ronald Z,Benjamin Franklin,math,1,0,4
+65,Luke I,Punahou School,biology,2,1,4
+65,Travis D,Punahou School,chemistry,2,0,8
+65,Travis D,Punahou School,other,3,0,12
+65,Travis D,Punahou School,math,1,0,4
+65,Travis D,Punahou School,physics,1,0,4
+66,Abhinav S,Collierville A,chemistry,1,1,0
+66,Abhinav S,Collierville A,other,1,1,0
+66,Abhinav S,Collierville A,math,2,0,8
+66,Krish S,Collierville A,biology,2,0,8
+66,Sumin Y,Collierville A,chemistry,1,0,4
+66,Sumin Y,Collierville A,other,1,0,4
+66,Sumin Y,Collierville A,physics,2,0,8
+66,Aydin E,Ward Melville,biology,2,0,8
+66,Aydin E,Ward Melville,chemistry,0,1,-4
+66,Srihari K,Ward Melville,other,1,0,4
+66,Srihari K,Ward Melville,physics,1,0,4
+66,Will S,Ward Melville,other,1,0,4
+67,Alex S,Clements,biology,1,1,0
+67,Alex S,Clements,chemistry,1,2,-4
+67,Alex S,Clements,math,1,1,0
+67,Alex S,Clements,physics,1,0,4
+67,Eric Z,Clements,chemistry,1,0,4
+67,Eric Z,Clements,math,1,0,4
+67,Eric Z,Clements,physics,3,0,12
+67,Yale Z,Clements,biology,0,1,-4
+67,Yale Z,Clements,other,4,0,16
+67,Saahil,Eastlake,biology,2,0,8
+67,Saahil,Eastlake,chemistry,1,0,4
+67,Saahil,Eastlake,math,1,0,4
+67,Shivam,Eastlake,math,1,0,4
+67,Shivam,Eastlake,physics,0,1,-4
+68,Allen F,Lexington A,biology,3,0,12
+68,Allen F,Lexington A,math,0,1,-4
+68,Allen F,Lexington A,physics,0,1,-4
+68,William J,Lexington A,chemistry,3,1,8
+68,William J,Lexington A,other,2,0,8
+68,William J,Lexington A,math,0,1,-4
+68,William J,Lexington A,physics,3,0,12
+68,Kevin P,Palo Alto,biology,1,0,4
+68,Kevin P,Palo Alto,chemistry,1,0,4
+68,Kevin P,Palo Alto,other,2,0,8
+68,Kevin P,Palo Alto,math,2,0,8
+68,Ryan P,Palo Alto,math,2,0,8
+69,Andrew,North Allegheny,other,2,1,4
+69,Andrew,North Allegheny,math,1,0,4
+69,Hongyi,North Allegheny,biology,3,0,12
+69,Hongyi,North Allegheny,chemistry,1,0,4
+69,Hongyi,North Allegheny,physics,4,0,16
+69,Jason,North Allegheny,math,1,0,4
+69,Leo,North Allegheny,chemistry,3,0,12
+69,Josh P,Quail Valley,chemistry,0,1,-4
+69,Josh P,Quail Valley,math,2,0,8
+69,Shruthi R,Quail Valley,biology,1,0,4
+69,Vedant B,Quail Valley,other,2,0,8
+70,Abhinav A,Deap South,biology,2,1,4
+70,Abhinav A,Deap South,other,1,0,4
+70,Ryan K,Deap South,biology,1,0,4
+70,Ryan K,Deap South,chemistry,1,0,4
+70,Ryan K,Deap South,math,3,0,12
+70,Ryan K,Deap South,physics,1,0,4
+70,Sanjay O,Deap South,chemistry,2,0,8
+70,Sanjay O,Deap South,physics,1,1,0
+70,Ziang Z,Deap South,chemistry,1,0,4
+70,Ziang Z,Deap South,other,3,0,12
+70,Kai C,Woodlands,physics,1,0,4
+71,Keene K,Iolani B,chemistry,2,0,8
+71,Keene K,Iolani B,math,2,0,8
+71,Naoto H,Iolani B,biology,1,1,0
+71,Naoto H,Iolani B,other,0,1,-4
+71,Rongting Z,Iolani B,chemistry,0,1,-4
+71,Anna K,WWPS B,biology,2,0,8
+71,Anna K,WWPS B,chemistry,1,0,4
+71,Anna K,WWPS B,math,1,0,4
+71,Dhanshika S,WWPS B,biology,1,0,4
+71,Dhanshika S,WWPS B,math,1,0,4
+71,Dhanshika S,WWPS B,physics,2,0,8
+71,Gyan C,WWPS B,other,3,0,12
+71,Niharika D,WWPS B,physics,1,0,4
+72,Advaith B,Bridgeland,biology,1,0,4
+72,Advaith B,Bridgeland,other,2,0,8
+72,Advaith B,Bridgeland,physics,0,1,-4
+72,Carson P,Bridgeland,math,1,0,4
+72,Carson P,Bridgeland,physics,1,0,4
+72,Ishaan K,MSJ,other,1,0,4
+72,Ishaan K,MSJ,math,1,1,0
+72,Ishaan K,MSJ,physics,1,1,0
+72,Theenash S,MSJ,biology,3,1,8
+72,Theenash S,MSJ,chemistry,4,0,16
+72,Theenash S,MSJ,other,1,0,4
+72,Theenash S,MSJ,math,0,1,-4
+72,Theenash S,MSJ,physics,1,1,0
+73,Camille P,Hunter,biology,1,0,4
+73,Camille P,Hunter,other,2,0,8
+73,Gabe L,Hunter,chemistry,2,0,8
+73,Gabe L,Hunter,math,3,0,12
+73,Gabe L,Hunter,physics,2,1,4
+73,Ethan Z,Iolani A,other,2,0,8
+73,Ethan Z,Iolani A,math,1,0,4
+73,Haru G,Iolani A,biology,2,1,4
+73,Min S,Iolani A,chemistry,2,1,4
+73,Sola M,Iolani A,physics,2,1,4
+74,Jason T,American Heritage Broward,biology,1,1,0
+74,Jason T,American Heritage Broward,math,1,0,4
+74,Charles H,North Hollywood A,physics,2,1,4
+74,Connor C,North Hollywood A,biology,2,0,8
+74,Connor C,North Hollywood A,other,2,1,4
+74,Connor Z,North Hollywood A,chemistry,2,2,0
+74,Connor Z,North Hollywood A,other,1,0,4
+74,Connor Z,North Hollywood A,math,2,0,8
+74,Connor Z,North Hollywood A,physics,1,0,4
+74,Minghao G,North Hollywood A,math,1,0,4
+75,Ishan A,Collierville B,math,1,0,4
+75,Jacob L,Collierville B,biology,1,0,4
+75,Sai B,Collierville B,physics,1,0,4
+75,Akshay R,Lexington B,other,3,0,12
+75,Akshay R,Lexington B,math,1,0,4
+75,Ayaan I,Lexington B,chemistry,1,0,4
+75,Ayaan I,Lexington B,math,0,1,-4
+75,Ayaan I,Lexington B,physics,2,1,4
+75,Ethan L,Lexington B,chemistry,0,1,-4
+75,Ethan L,Lexington B,other,1,0,4
+75,Simon Z,Lexington B,biology,3,0,12
+75,Simon Z,Lexington B,chemistry,2,0,8
+75,Simon Z,Lexington B,math,1,0,4
+75,Simon Z,Lexington B,physics,1,0,4
+76,Larry D,Morgantown,biology,1,0,4
+76,Larry D,Morgantown,chemistry,2,0,8
+76,Sunny G,Morgantown,math,1,0,4
+76,Sunny G,Morgantown,physics,1,0,4
+76,William T,Morgantown,other,0,1,-4
+76,Eshaan S,Thomas Jefferson,math,3,1,8
+76,Hrishi B,Thomas Jefferson,chemistry,1,0,4
+76,Hrishi B,Thomas Jefferson,physics,1,1,0
+76,Rohan B,Thomas Jefferson,other,2,0,8
+76,Rohan B,Thomas Jefferson,physics,1,0,4
+76,Sophia G,Thomas Jefferson,biology,2,0,8
+76,Sophia G,Thomas Jefferson,other,2,0,8
+77,Christopher C,Arcadia A,other,2,0,8
+77,Christopher C,Arcadia A,physics,2,0,8
+77,Ethan W,Arcadia A,chemistry,3,0,12
+77,Ethan W,Arcadia A,math,2,0,8
+77,Ethan W,Arcadia A,physics,1,0,4
+77,Jamie W,Arcadia A,biology,1,0,4
+77,Jamie W,Arcadia A,other,1,0,4
+77,Andrew L,BISV B,biology,1,0,4
+77,Andrew L,BISV B,other,0,1,-4
+77,Timothy Y,BISV B,math,0,1,-4
+78,Lishan P,BASIS Chandler,chemistry,2,1,4
+78,Lishan P,BASIS Chandler,math,2,0,8
+78,Nihar B,BASIS Chandler,biology,3,0,12
+78,Varyan J,BASIS Chandler,other,2,0,8
+78,Varyan J,BASIS Chandler,physics,3,0,12
+79,Matthew Y,Lynbrook B,biology,1,0,4
+79,Matthew Y,Lynbrook B,math,2,0,8
+79,Matthew Y,Lynbrook B,physics,1,0,4
+79,Vincent Q,Lynbrook B,biology,1,0,4
+79,Vincent Q,Lynbrook B,chemistry,2,0,8
+79,Vincent Q,Lynbrook B,other,3,0,12
+79,Vincent Q,Lynbrook B,physics,1,0,4
+79,Andrew K,Whitney Young,chemistry,1,0,4
+79,Andrew K,Whitney Young,math,1,0,4
+80,Hong Jin K,Iolani B,other,2,0,8
+80,Hong Jin K,Iolani B,math,2,0,8
+80,Hong Jin K,Iolani B,physics,3,1,8
+80,Keene K,Iolani B,chemistry,3,0,12
+80,Naoto H,Iolani B,chemistry,1,0,4
+80,Aydin E,Ward Melville,biology,1,0,4
+80,Srihari K,Ward Melville,biology,1,0,4
+80,Srihari K,Ward Melville,math,1,0,4
+80,Srihari K,Ward Melville,physics,1,0,4
+81,Aaron C,BISV A,other,1,0,4
+81,Aaron C,BISV A,physics,1,0,4
+81,Larry Z,BISV A,biology,1,0,4
+81,Larry Z,BISV A,chemistry,1,0,4
+81,Ishaan K,MSJ,other,2,2,0
+81,Ishaan K,MSJ,math,2,1,4
+81,Theenash S,MSJ,biology,3,1,8
+81,Theenash S,MSJ,chemistry,3,1,8
+81,Theenash S,MSJ,physics,2,1,4
+82,Kevin P,Palo Alto,biology,1,0,4
+82,Kevin P,Palo Alto,chemistry,1,1,0
+82,Kevin P,Palo Alto,other,3,0,12
+82,Kevin P,Palo Alto,math,0,1,-4
+82,Ryan P,Palo Alto,other,0,1,-4
+82,Ryan P,Palo Alto,math,1,1,0
+82,Ryan P,Palo Alto,physics,1,0,4
+82,Josh P,Quail Valley,chemistry,1,0,4
+82,Josh P,Quail Valley,math,2,0,8
+82,Josh P,Quail Valley,physics,1,0,4
+82,Shruthi R,Quail Valley,biology,0,1,-4
+82,Shruthi R,Quail Valley,chemistry,1,0,4
+82,Vedant B,Quail Valley,other,1,0,4
+82,Vihaan N,Quail Valley,biology,1,0,4
+83,Kensuke O,North Hollywood B,other,2,1,4
+83,Kensuke O,North Hollywood B,math,1,0,4
+83,Kensuke O,North Hollywood B,physics,2,0,8
+83,Nathaniel O,North Hollywood B,biology,1,0,4
+83,Nathaniel O,North Hollywood B,chemistry,2,1,4
+83,Nathaniel O,North Hollywood B,physics,0,1,-4
+83,Luke I,Punahou School,biology,2,0,8
+83,Travis D,Punahou School,chemistry,2,1,4
+83,Travis D,Punahou School,other,2,1,4
+83,Travis D,Punahou School,math,1,1,0
+84,Achuth V,Clovis North,biology,1,0,4
+84,Achuth V,Clovis North,math,0,1,-4
+84,Ethan W,Clovis North,other,2,0,8
+84,Ethan W,Clovis North,physics,1,0,4
+84,Justin D,Clovis North,chemistry,3,0,12
+84,Justin D,Clovis North,math,1,0,4
+84,Justin D,Clovis North,physics,1,0,4
+84,Nimit A,Deep Run,biology,2,0,8
+84,Nimit A,Deep Run,math,1,0,4
+84,Prithwish C,Deep Run,other,1,0,4
+84,Prithwish C,Deep Run,physics,0,1,-4
+84,Yunay V,Deep Run,physics,1,0,4
+85,Abhinav S,Collierville A,biology,2,0,8
+85,Abhinav S,Collierville A,chemistry,2,0,8
+85,Abhinav S,Collierville A,other,1,0,4
+85,Abhinav S,Collierville A,math,1,1,0
+85,Abhinav S,Collierville A,physics,1,1,0
+85,Arman,Collierville A,biology,1,0,4
+85,Charith N,Collierville A,physics,1,0,4
+85,Sumin Y,Collierville A,chemistry,2,0,8
+85,Sumin Y,Collierville A,other,1,0,4
+85,Arjith,Woodlands,physics,1,0,4
+85,John,Woodlands,biology,1,0,4
+85,John,Woodlands,physics,1,0,4
+86,Camille P,Hunter,biology,1,0,4
+86,Camille P,Hunter,other,3,0,12
+86,Gabe L,Hunter,chemistry,1,0,4
+86,Gabe L,Hunter,other,1,0,4
+86,Gabe L,Hunter,math,3,0,12
+86,Gabe L,Hunter,physics,3,0,12
+86,Melody L,Hunter,math,0,1,-4
+87,Daniel Y,Iolani A,other,0,1,-4
+87,Daniel Y,Iolani A,math,1,0,4
+87,Daniel Y,Iolani A,physics,1,1,0
+87,Haru G,Iolani A,biology,1,0,4
+87,Min S,Iolani A,chemistry,1,1,0
+87,Min S,Iolani A,other,1,0,4
+87,Sola M,Iolani A,chemistry,1,0,4
+87,Sola M,Iolani A,other,1,0,4
+87,Sola M,Iolani A,math,3,0,12
+87,Akshay R,Lexington B,other,2,0,8
+87,Akshay R,Lexington B,math,0,1,-4
+87,Ayaan I,Lexington B,physics,1,0,4
+87,Ethan L,Lexington B,chemistry,1,0,4
+87,Simon Z,Lexington B,biology,2,0,8
+87,Simon Z,Lexington B,chemistry,1,1,0
+88,Maddox H,Benjamin Franklin,math,1,0,4
+88,Maddox H,Benjamin Franklin,physics,1,0,4
+88,Marianne N,Benjamin Franklin,biology,1,0,4
+88,Ronald Z,Benjamin Franklin,chemistry,1,1,0
+88,Ronald Z,Benjamin Franklin,other,1,0,4
+88,Ronald Z,Benjamin Franklin,math,1,0,4
+88,Ronald Z,Benjamin Franklin,physics,1,0,4
+88,Advaith B,Bridgeland,other,1,1,0
+88,Carson P,Bridgeland,chemistry,1,0,4
+88,Jeffy L,Bridgeland,physics,1,0,4
+89,Abhinav A,Deap South,biology,0,1,-4
+89,Abhinav A,Deap South,other,1,0,4
+89,Ryan K,Deap South,biology,1,1,0
+89,Ryan K,Deap South,chemistry,2,0,8
+89,Ryan K,Deap South,other,1,0,4
+89,Ryan K,Deap South,math,3,0,12
+89,Ryan K,Deap South,physics,1,0,4
+89,Sanjay O,Deap South,chemistry,1,0,4
+89,Ziang Z,Deap South,chemistry,1,0,4
+89,Ziang Z,Deap South,physics,2,0,8
+89,Anna K,WWPS B,biology,1,0,4
+89,Dhanshika S,WWPS B,biology,1,0,4
+89,Dhanshika S,WWPS B,other,1,0,4
+89,Gyan C,WWPS B,other,1,0,4
+90,Neal K,Eastlake,biology,1,0,4
+90,Saahil,Eastlake,chemistry,2,0,8
+90,Saahil,Eastlake,other,2,0,8
+90,Saahil,Eastlake,math,1,0,4
+90,Saahil,Eastlake,physics,1,0,4
+90,Shivam,Eastlake,other,1,0,4
+90,Shivam,Eastlake,math,1,1,0
+90,Shivam,Eastlake,physics,1,0,4
+90,Akhil M,WWPS A,chemistry,0,1,-4
+90,Arjun D,WWPS A,biology,2,0,8
+90,Arjun D,WWPS A,chemistry,2,0,8
+90,Dennis J,WWPS A,physics,2,0,8
+90,Monish S,WWPS A,biology,1,0,4
+90,Monish S,WWPS A,other,0,1,-4
+90,Monish S,WWPS A,math,2,2,0
+90,Monish S,WWPS A,physics,0,1,-4
+91,Kaiwen Y,Enloe,biology,2,0,8
+91,Kaiwen Y,Enloe,chemistry,1,0,4
+91,Kaiwen Y,Enloe,other,1,0,4
+91,Kaiwen Y,Enloe,physics,3,0,12
+91,Lawrence Q,Enloe,math,1,0,4
+91,Ryan Y,Enloe,other,1,0,4
+91,Vishruth K,Enloe,chemistry,0,2,-8
+91,Vishruth K,Enloe,other,0,1,-4
+91,Vishruth K,Enloe,physics,1,0,4
+91,Philip,Lynbrook A,other,1,0,4
+91,Ryan,Lynbrook A,math,1,0,4
+91,Sohil,Lynbrook A,biology,2,0,8
+91,Sohil,Lynbrook A,chemistry,2,0,8
+91,Sohil,Lynbrook A,other,1,0,4
+91,Sohil,Lynbrook A,math,2,1,4
+91,Sohil,Lynbrook A,physics,0,1,-4
+91,evan,Lynbrook A,chemistry,1,0,4
+92,Abhishek C,Doral Academy,other,1,0,4
+92,Abhishek C,Doral Academy,math,3,0,12
+92,Abhishek C,Doral Academy,physics,2,0,8
+92,Neil H,Doral Academy,biology,1,0,4
+92,Santiago S,Doral Academy,chemistry,1,0,4
+92,Allen F,Lexington A,biology,2,1,4
+92,Allen F,Lexington A,other,2,1,4
+92,Allen F,Lexington A,physics,1,0,4
+92,William J,Lexington A,chemistry,3,0,12
+92,William J,Lexington A,other,0,1,-4
+92,William J,Lexington A,physics,1,1,0
+93,Ishan A,Collierville B,biology,1,0,4
+93,Ishan A,Collierville B,chemistry,1,0,4
+93,Charles H,North Hollywood A,chemistry,0,1,-4
+93,Charles H,North Hollywood A,physics,1,1,0
+93,Connor C,North Hollywood A,biology,1,1,0
+93,Connor C,North Hollywood A,chemistry,2,0,8
+93,Connor C,North Hollywood A,other,4,0,16
+93,Connor C,North Hollywood A,physics,1,0,4
+93,Minghao G,North Hollywood A,math,3,0,12
+94,Daniel L,Allen School,biology,2,1,4
+94,Daniel L,Allen School,chemistry,4,0,16
+94,Daniel L,Allen School,other,3,0,12
+94,Daniel L,Allen School,math,2,0,8
+94,Daniel L,Allen School,physics,4,0,16
+94,Caden Y,Morgantown,math,0,2,-8
+94,Caden Y,Morgantown,physics,0,1,-4
+94,Larry D,Morgantown,biology,1,0,4
+94,Larry D,Morgantown,chemistry,0,1,-4
+95,Alex D,Canyon Crest A,biology,1,0,4
+95,Alex D,Canyon Crest A,other,1,0,4
+95,Haiyue M,Canyon Crest A,chemistry,2,0,8
+95,Haiyue M,Canyon Crest A,math,1,0,4
+95,Owen M,Canyon Crest A,chemistry,1,0,4
+95,Owen M,Canyon Crest A,math,1,0,4
+95,Praneel A,Varun Clemens,chemistry,1,1,0
+95,Praneel A,Varun Clemens,other,3,0,12
+95,Praneel A,Varun Clemens,math,0,2,-8
+95,Praneel A,Varun Clemens,physics,3,1,8
+95,Shaun I,Varun Clemens,biology,0,1,-4
+95,Shaun I,Varun Clemens,chemistry,0,1,-4
+95,Uddip K,Varun Clemens,biology,2,0,8
+96,Alex S,Clements,chemistry,2,0,8
+96,Alex S,Clements,math,2,1,4
+96,Alex S,Clements,physics,1,0,4
+96,Eric Z,Clements,physics,1,0,4
+96,Daniel Y,Iolani A,chemistry,0,1,-4
+96,Daniel Y,Iolani A,other,1,0,4
+96,Daniel Y,Iolani A,physics,0,1,-4
+96,Haru G,Iolani A,biology,1,1,0
+96,Min S,Iolani A,chemistry,1,0,4
+96,Sola M,Iolani A,other,3,0,12
+96,Sola M,Iolani A,math,2,0,8
+96,Sola M,Iolani A,physics,1,0,4
+97,Daniel L,Allen School,chemistry,3,0,12
+97,Daniel L,Allen School,other,1,0,4
+97,Daniel L,Allen School,math,2,0,8
+97,Daniel L,Allen School,physics,3,1,8
+97,Andrew,North Allegheny,other,1,0,4
+97,Andrew,North Allegheny,math,1,0,4
+97,Hongyi,North Allegheny,biology,3,1,8
+97,Hongyi,North Allegheny,math,1,0,4
+97,Jason,North Allegheny,physics,1,0,4
+97,Leo,North Allegheny,chemistry,1,0,4
+98,Allen F,Lexington A,biology,1,0,4
+98,Allen F,Lexington A,other,2,0,8
+98,Allen F,Lexington A,math,1,0,4
+98,William J,Lexington A,chemistry,0,1,-4
+98,William J,Lexington A,math,1,0,4
+98,William J,Lexington A,physics,2,1,4
+98,Praneel A,Varun Clemens,chemistry,2,0,8
+98,Praneel A,Varun Clemens,other,2,0,8
+98,Praneel A,Varun Clemens,math,0,1,-4
+98,Praneel A,Varun Clemens,physics,0,2,-8
+98,Shaun I,Varun Clemens,biology,1,0,4
+98,Shaun I,Varun Clemens,chemistry,1,0,4
+98,Uddip K,Varun Clemens,biology,2,0,8
+99,Lishan P,BASIS Chandler,chemistry,3,0,12
+99,Lishan P,BASIS Chandler,math,1,0,4
+99,Nihar B,BASIS Chandler,biology,3,1,8
+99,Varyan J,BASIS Chandler,other,3,0,12
+99,Varyan J,BASIS Chandler,math,1,0,4
+99,Varyan J,BASIS Chandler,physics,1,1,0
+99,Akhil M,WWPS A,chemistry,1,0,4
+99,Arjun D,WWPS A,biology,1,0,4
+99,Dennis J,WWPS A,math,0,1,-4
+99,Dennis J,WWPS A,physics,0,1,-4
+99,Monish S,WWPS A,other,0,1,-4
+99,Monish S,WWPS A,math,1,1,0
+99,Monish S,WWPS A,physics,0,1,-4
+100,Ishaan K,MSJ,other,0,2,-8
+100,Ishaan K,MSJ,math,1,0,4
+100,Ishaan K,MSJ,physics,1,0,4
+100,Theenash S,MSJ,biology,4,0,16
+100,Theenash S,MSJ,chemistry,4,0,16
+100,Theenash S,MSJ,other,1,0,4
+100,Theenash S,MSJ,math,1,0,4
+100,Theenash S,MSJ,physics,1,0,4
+100,Kensuke O,North Hollywood B,other,3,0,12
+100,Kensuke O,North Hollywood B,math,1,0,4
+100,Kensuke O,North Hollywood B,physics,0,1,-4
+101,Akhil B,Luka Fan Club,biology,2,0,8
+101,Akhil B,Luka Fan Club,chemistry,0,1,-4
+101,Akhil B,Luka Fan Club,other,1,0,4
+101,Akhil B,Luka Fan Club,math,1,0,4
+101,Akhil B,Luka Fan Club,physics,1,1,0
+101,Andrew,Lynbrook A,biology,1,0,4
+101,Andrew,Lynbrook A,chemistry,3,0,12
+101,Philip,Lynbrook A,other,1,0,4
+101,Sohil,Lynbrook A,biology,1,0,4
+101,Sohil,Lynbrook A,chemistry,1,0,4
+101,Sohil,Lynbrook A,other,1,1,0
+101,Sohil,Lynbrook A,math,3,0,12
+101,Sohil,Lynbrook A,physics,1,0,4
+102,Achuth V,Clovis North,biology,2,0,8
+102,Achuth V,Clovis North,math,1,0,4
+102,Ethan W,Clovis North,other,1,0,4
+102,Justin D,Clovis North,chemistry,2,0,8
+102,Justin D,Clovis North,math,1,0,4
+102,Renard W,Clovis North,math,1,0,4
+102,Charles H,North Hollywood A,biology,1,0,4
+102,Charles H,North Hollywood A,physics,1,1,0
+102,Connor C,North Hollywood A,biology,1,0,4
+102,Connor C,North Hollywood A,other,3,0,12
+102,Connor C,North Hollywood A,physics,2,0,8
+102,Connor Z,North Hollywood A,chemistry,2,0,8
+102,Minghao G,North Hollywood A,math,1,0,4
+103,Abhinav S,Collierville A,chemistry,1,0,4
+103,Abhinav S,Collierville A,math,2,0,8
+103,Arman,Collierville A,biology,2,0,8
+103,Sumin Y,Collierville A,other,3,0,12
+103,Sumin Y,Collierville A,physics,1,0,4
+103,Abhinav A,Deap South,biology,1,0,4
+103,Ryan K,Deap South,math,1,0,4
+103,Sanjay O,Deap South,chemistry,1,0,4
+103,Ziang Z,Deap South,chemistry,0,1,-4
+103,Ziang Z,Deap South,other,1,0,4
+103,Ziang Z,Deap South,math,1,0,4
+103,Ziang Z,Deap South,physics,2,0,8
+104,Alex S,Clements,chemistry,0,1,-4
+104,Alex S,Clements,math,2,0,8
+104,Alex S,Clements,physics,2,1,4
+104,Abhinav S,Collierville A,chemistry,2,0,8
+104,Abhinav S,Collierville A,math,1,0,4
+104,Abhinav S,Collierville A,physics,1,0,4
+104,Krish S,Collierville A,biology,1,0,4
+104,Sumin Y,Collierville A,chemistry,1,0,4
+104,Sumin Y,Collierville A,other,3,0,12
+105,Daniel L,Allen School,biology,1,0,4
+105,Daniel L,Allen School,chemistry,0,1,-4
+105,Daniel L,Allen School,other,1,0,4
+105,Daniel L,Allen School,math,1,1,0
+105,Daniel L,Allen School,physics,2,0,8
+105,Charles H,North Hollywood A,physics,1,2,-4
+105,Connor C,North Hollywood A,other,3,1,8
+105,Connor Z,North Hollywood A,chemistry,4,0,16
+105,Connor Z,North Hollywood A,physics,1,0,4
+105,Minghao G,North Hollywood A,math,2,1,4
+106,Kensuke O,North Hollywood B,other,4,0,16
+106,Nathaniel O,North Hollywood B,chemistry,4,0,16
+106,Nathaniel O,North Hollywood B,physics,2,0,8
+106,Akhil M,WWPS A,other,0,1,-4
+106,Arjun D,WWPS A,biology,4,0,16
+106,Dennis J,WWPS A,physics,1,0,4
+106,Monish S,WWPS A,math,3,0,12
+106,Monish S,WWPS A,physics,1,1,0
+107,Achuth V,Clovis North,biology,3,0,12
+107,Achuth V,Clovis North,math,1,0,4
+107,Ethan W,Clovis North,other,2,0,8
+107,Ethan W,Clovis North,physics,1,0,4
+107,Justin D,Clovis North,chemistry,2,0,8
+107,Justin D,Clovis North,math,2,0,8
+107,Andrew,North Allegheny,other,1,1,0
+107,Hongyi,North Allegheny,biology,0,1,-4
+107,Hongyi,North Allegheny,physics,1,1,0
+107,Jason,North Allegheny,math,1,0,4
+107,Leo,North Allegheny,chemistry,2,0,8
+108,Lishan P,BASIS Chandler,chemistry,1,1,0
+108,Nihar B,BASIS Chandler,biology,2,0,8
+108,Varyan J,BASIS Chandler,other,2,1,4
+108,Varyan J,BASIS Chandler,physics,1,1,0
+108,Anish A,MSJ,chemistry,1,0,4
+108,Ishaan K,MSJ,other,2,0,8
+108,Ishaan K,MSJ,math,3,0,12
+108,Theenash S,MSJ,biology,2,0,8
+108,Theenash S,MSJ,chemistry,2,1,4
+108,Theenash S,MSJ,math,1,0,4
+108,Theenash S,MSJ,physics,3,0,12
+109,Allen F,Lexington A,biology,3,0,12
+109,Allen F,Lexington A,other,2,0,8
+109,William J,Lexington A,chemistry,2,2,0
+109,William J,Lexington A,other,1,0,4
+109,William J,Lexington A,math,1,1,0
+109,William J,Lexington A,physics,2,0,8
+109,Akhil B,Luka Fan Club,biology,1,0,4
+109,Akhil B,Luka Fan Club,chemistry,1,0,4
+109,Akhil B,Luka Fan Club,other,1,0,4
+109,Akhil B,Luka Fan Club,math,3,0,12
+109,Akhil B,Luka Fan Club,physics,1,0,4
+110,Abhinav A,Deap South,biology,3,0,12
+110,Ryan K,Deap South,math,2,0,8
+110,Ryan K,Deap South,physics,3,0,12
+110,Sanjay O,Deap South,chemistry,1,2,-4
+110,Ziang Z,Deap South,chemistry,0,1,-4
+110,Ziang Z,Deap South,other,2,0,8
+110,Ziang Z,Deap South,physics,1,0,4
+110,Daniel Y,Iolani A,math,1,0,4
+110,Haru G,Iolani A,biology,0,1,-4
+110,Min S,Iolani A,chemistry,3,1,8
+110,Sola M,Iolani A,other,2,0,8
+110,Sola M,Iolani A,math,1,0,4
+110,Sola M,Iolani A,physics,0,1,-4
+111,Andrew,Lynbrook A,biology,1,0,4
+111,Andrew,Lynbrook A,chemistry,1,0,4
+111,Philip,Lynbrook A,other,1,0,4
+111,Sohil,Lynbrook A,chemistry,0,1,-4
+111,Sohil,Lynbrook A,other,1,0,4
+111,Sohil,Lynbrook A,math,3,0,12
+111,Sohil,Lynbrook A,physics,2,0,8
+111,Heidi,Varun Clemens,biology,1,0,4
+111,Praneel A,Varun Clemens,chemistry,0,1,-4
+111,Praneel A,Varun Clemens,other,2,1,4
+111,Praneel A,Varun Clemens,math,0,1,-4
+111,Praneel A,Varun Clemens,physics,2,1,4
+111,Shaun I,Varun Clemens,chemistry,1,0,4
+111,Shaun I,Varun Clemens,math,1,0,4
+111,Uddip K,Varun Clemens,biology,1,1,0
+112,Nihar B,BASIS Chandler,biology,2,2,0
+112,Varyan J,BASIS Chandler,chemistry,0,1,-4
+112,Varyan J,BASIS Chandler,other,2,0,8
+112,Varyan J,BASIS Chandler,math,1,1,0
+112,Varyan J,BASIS Chandler,physics,1,1,0
+112,Allen F,Lexington A,biology,2,1,4
+112,Allen F,Lexington A,other,2,1,4
+112,William J,Lexington A,chemistry,3,0,12
+112,William J,Lexington A,physics,1,0,4
+113,Daniel L,Allen School,chemistry,1,0,4
+113,Daniel L,Allen School,other,1,0,4
+113,Daniel L,Allen School,math,1,0,4
+113,Daniel L,Allen School,physics,2,0,8
+113,Abhinav S,Collierville A,chemistry,1,2,-4
+113,Charith N,Collierville A,other,1,0,4
+113,Krish S,Collierville A,biology,1,0,4
+113,Sumin Y,Collierville A,other,2,0,8
+113,Sumin Y,Collierville A,physics,1,0,4
+114,Jake R,North Hollywood B,biology,1,1,0
+114,Kensuke O,North Hollywood B,biology,1,0,4
+114,Kensuke O,North Hollywood B,other,1,2,-4
+114,Nathaniel O,North Hollywood B,chemistry,1,0,4
+114,Heidi,Varun Clemens,biology,1,0,4
+114,Praneel A,Varun Clemens,other,2,1,4
+114,Praneel A,Varun Clemens,physics,4,0,16
+114,Shaun I,Varun Clemens,math,1,0,4
+114,Uddip K,Varun Clemens,biology,1,0,4
+115,Achuth V,Clovis North,biology,2,2,0
+115,Achuth V,Clovis North,math,0,1,-4
+115,Ethan W,Clovis North,other,1,0,4
+115,Ethan W,Clovis North,physics,1,0,4
+115,Justin D,Clovis North,math,1,0,4
+115,Justin D,Clovis North,physics,1,0,4
+115,Renard W,Clovis North,other,1,0,4
+115,Daniel Y,Iolani A,physics,2,0,8
+115,Min S,Iolani A,chemistry,2,0,8
+115,Sola M,Iolani A,other,1,1,0
+115,Sola M,Iolani A,math,3,1,8
+116,Daniel L,Allen School,math,2,0,8
+116,Daniel L,Allen School,physics,0,1,-4
+116,Praneel A,Varun Clemens,chemistry,1,0,4
+116,Praneel A,Varun Clemens,math,1,1,0
+116,Praneel A,Varun Clemens,physics,1,0,4
+116,Shaun I,Varun Clemens,biology,1,0,4
+116,Shaun I,Varun Clemens,chemistry,2,0,8
+116,Shaun I,Varun Clemens,other,0,1,-4
+116,Shaun I,Varun Clemens,physics,1,0,4
+116,Uddip K,Varun Clemens,biology,2,1,4
+116,Uddip K,Varun Clemens,chemistry,1,0,4
+116,Uddip K,Varun Clemens,other,1,1,0
+116,Uddip K,Varun Clemens,physics,1,0,4
+117,Andrew,Lynbrook A,biology,2,0,8
+117,Andrew,Lynbrook A,chemistry,1,0,4
+117,Sohil,Lynbrook A,chemistry,0,1,-4
+117,Sohil,Lynbrook A,other,0,1,-4
+117,Sohil,Lynbrook A,math,1,0,4
+117,Sohil,Lynbrook A,physics,2,1,4
+117,Connor C,North Hollywood A,other,3,0,12
+117,Connor C,North Hollywood A,math,1,0,4
+117,Connor Z,North Hollywood A,chemistry,2,2,0
+117,Connor Z,North Hollywood A,physics,1,1,0
+118,Abhinav A,Deap South,biology,1,0,4
+118,Ryan K,Deap South,math,2,0,8
+118,Sanjay O,Deap South,chemistry,2,0,8
+118,Ziang Z,Deap South,other,1,1,0
+118,Ziang Z,Deap South,physics,2,0,8
+118,Theenash S,MSJ,biology,3,1,8
+118,Theenash S,MSJ,chemistry,1,2,-4
+118,Theenash S,MSJ,other,0,1,-4
+118,Theenash S,MSJ,math,0,1,-4
+118,Theenash S,MSJ,physics,1,1,0
+119,Daniel Y,Iolani A,other,1,0,4
+119,Min S,Iolani A,biology,1,0,4
+119,Min S,Iolani A,chemistry,1,0,4
+119,Min S,Iolani A,physics,0,1,-4
+119,Sola M,Iolani A,other,2,0,8
+119,Sola M,Iolani A,math,4,0,16
+119,Charles H,North Hollywood A,physics,2,0,8
+119,Connor C,North Hollywood A,biology,1,0,4
+119,Connor C,North Hollywood A,other,0,1,-4
+119,Connor Z,North Hollywood A,biology,1,0,4
+119,Connor Z,North Hollywood A,chemistry,3,0,12
+119,Connor Z,North Hollywood A,physics,1,0,4
+120,Anish A,MSJ,math,2,0,8
+120,Theenash S,MSJ,biology,2,0,8
+120,Theenash S,MSJ,chemistry,2,2,0
+120,Theenash S,MSJ,math,1,0,4
+120,Theenash S,MSJ,physics,2,2,0
+120,Praneel A,Varun Clemens,chemistry,1,0,4
+120,Praneel A,Varun Clemens,other,2,1,4
+120,Praneel A,Varun Clemens,physics,1,0,4
+120,Shaun I,Varun Clemens,chemistry,1,0,4
+120,Shaun I,Varun Clemens,physics,0,1,-4
+120,Uddip K,Varun Clemens,biology,1,2,-4
+121,Min S,Iolani A,chemistry,1,0,4
+121,Sola M,Iolani A,other,2,0,8
+121,Sola M,Iolani A,math,3,0,12
+121,Theenash S,MSJ,biology,3,1,8
+121,Theenash S,MSJ,chemistry,1,1,0
+121,Theenash S,MSJ,math,1,0,4
+121,Theenash S,MSJ,physics,1,1,0
+122,Abhinav A,Deap South,biology,1,0,4
+122,Ryan K,Deap South,math,2,0,8
+122,Sanjay O,Deap South,chemistry,2,1,4
+122,Ziang Z,Deap South,other,2,0,8
+122,Andrew,Lynbrook A,chemistry,1,0,4
+122,Ryan,Lynbrook A,math,0,1,-4
+122,Sohil,Lynbrook A,physics,2,0,8

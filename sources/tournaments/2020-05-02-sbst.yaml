@@ -1,0 +1,24 @@
+id: 2020-05-02-sbst
+name: SBST
+date: '2020-05-02'
+end_date: '2020-05-08'
+season: 2019-20
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 14TcbTxejXf384Dj0ztGsiRg0poi3KRUi_R8WV53lymc
+  url: https://docs.google.com/spreadsheets/d/14TcbTxejXf384Dj0ztGsiRg0poi3KRUi_R8WV53lymc/edit#gid=0
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

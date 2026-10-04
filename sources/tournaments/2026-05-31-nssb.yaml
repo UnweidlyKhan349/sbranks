@@ -1,0 +1,24 @@
+id: 2026-05-31-nssb
+name: NSSB
+date: '2026-05-31'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1yPMEvFl7dnAL77xrRrHJe1vsaarQV3JyXkQxIaK7avs
+  url: https://docs.google.com/spreadsheets/d/1yPMEvFl7dnAL77xrRrHJe1vsaarQV3JyXkQxIaK7avs/edit?gid=1049059372#gid=1049059372
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

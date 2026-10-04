@@ -1,0 +1,29 @@
+id: 2025-03-01-stanford-science-bowl
+name: Stanford Science Bowl
+date: '2025-03-01'
+end_date: null
+season: 2024-25
+location: Palo Alto, CA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: stanford-2025
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1IIqjmebOIkhctbUfcPmoGAg9_JKn1T_S56rkNUmfUu8
+  url: https://docs.google.com/spreadsheets/d/1IIqjmebOIkhctbUfcPmoGAg9_JKn1T_S56rkNUmfUu8/edit?gid=210914516#gid=210914516
+  file: results.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 18yB5OY7JungPUrXYCXbfsUdmdsl9I_750z1fYXlR0_c
+  url: https://docs.google.com/spreadsheets/d/18yB5OY7JungPUrXYCXbfsUdmdsl9I_750z1fYXlR0_c/edit?gid=849644313#gid=849644313
+  file: stats.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -1,0 +1,24 @@
+id: 2024-11-16-mit-science-bowl
+name: MIT Science Bowl
+date: '2024-11-16'
+end_date: null
+season: 2024-25
+location: Cambridge, MA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1oonofz3IFJvJmZI8KxcC55ufhDYvbH4YVm1C_y90_Qk
+  url: https://docs.google.com/spreadsheets/d/1oonofz3IFJvJmZI8KxcC55ufhDYvbH4YVm1C_y90_Qk/edit?gid=1191694692#gid=1191694692
+  file: results.xlsx
+parser: null
+parser_options: {}
+status: todo
+notes: ''
