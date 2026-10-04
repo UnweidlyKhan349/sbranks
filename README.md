@@ -6,7 +6,8 @@ tournament results since the 2019–20 season plus the DOE National Science Bowl
 
 - **Teams** (school entries like *Lynbrook A*, and online pickup/composite teams) get a
   **Glicko-2** rating on the Elo scale (1500 = average) from game results, with margin of victory,
-  season regression and priors for B teams and novice events.
+  deviation that grows with time away, and priors for B teams and novice events. Parameters are
+  tuned by back-testing (`python -m pipeline.build --tune`).
 - **Players** and **team subject ratings** are **Elo-scaled**: tossup points per tossup heard,
   adjusted for tournament difficulty and field strength, shrunk toward the average when data is
   thin, and shown as `1500 + 200 × z`.
@@ -19,7 +20,7 @@ the site's About page (`#/about`) and in [`docs/PROPOSAL.md`](docs/PROPOSAL.md).
 
 ```
 sources/tournaments/   one YAML file per tournament: dates, sources, parser, status
-sources/reference/     hand-curated schools, team/player aliases, NSB winners and finishes
+sources/reference/     schools + team aliases (merged from curation/*.yaml), NSB winners/finishes, rating params
 raw/                   snapshots of every fetched source file (xlsx, CSV, JSON, HTML, PDF)
 pipeline/              fetch -> parse -> resolve -> rate -> export (Python)
 data/parsed/           canonical per-tournament CSVs written by the parsers
@@ -113,8 +114,11 @@ new tournament. In the repository settings, set **Pages → Source** to **GitHub
    or write a new one that fills a `TournamentWriter` — the canonical CSV files are documented in
    `pipeline/schema.py`. Then `python -m pipeline.parse --only <id>` and
    `python -m pipeline.validate --only <id>`.
-4. `python -m pipeline.resolve --report` and add any new schools or aliases to
-   `sources/reference/` (`schools.yaml`, `team_aliases.yaml`, `player_aliases.yaml`).
+4. `python -m pipeline.resolve --report` lists team names that match no known school. Add new
+   schools, aliases and pickup teams to a curation file in `sources/reference/curation/`
+   (`half-1.yaml` / `half-2.yaml`, or a new `*.yaml` with the same structure), then run
+   `python -m pipeline.curation merge`, which regenerates `sources/reference/schools.yaml` and
+   `team_aliases.yaml`. Player-name fixes go in `sources/reference/player_aliases.yaml`.
 5. `python -m pipeline.build`, check the site locally, set `status: parsed`, and commit.
 
 A tournament with no obtainable results can still be listed (`include: true`, no parser); the
