@@ -1,0 +1,23 @@
+id: 2026-02-13-pilot-scrimmage
+name: Pilot Scrimmage (scibowl.live)
+date: '2026-02-13'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: false
+exclude_reason: intra-school practice scrimmage (North Hollywood A vs North Hollywood B, 4 games)
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: stats
+  url: https://www.scibowl.live/stats/pilot-scrimmage/manifest.json
+  file: manifest.json
+parser: null
+parser_options: {}
+status: excluded
+notes: 'Listed for completeness: the only scibowl.live stats page not already covered by another registry entry.'

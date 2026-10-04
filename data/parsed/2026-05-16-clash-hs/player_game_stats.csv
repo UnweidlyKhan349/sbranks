@@ -1,0 +1,3439 @@
+game_id,player,team,subject,correct,negs,points
+009d10dd,Alex W,Wheaton,overall,5,3,8
+009d10dd,Alex W,Wheaton,physics,1,0,4
+009d10dd,daniel l,Re2rement Home,overall,5,1,16
+009d10dd,daniel l,Re2rement Home,math,1,1,0
+009d10dd,caleb w,Wheaton,overall,2,0,8
+009d10dd,caleb w,Wheaton,math,0,0,0
+009d10dd,Angelina Y,Re2rement Home,overall,5,1,16
+009d10dd,Angelina Y,Re2rement Home,biology,3,1,8
+009d10dd,Andrew Z,Wheaton,overall,2,0,8
+009d10dd,Andrew Z,Wheaton,chemistry,1,0,4
+009d10dd,Alex W,Wheaton,ess,2,1,4
+009d10dd,caleb w,Wheaton,physics,2,0,8
+009d10dd,Andrew Z,Wheaton,biology,1,0,4
+009d10dd,daniel l,Re2rement Home,chemistry,2,0,8
+009d10dd,daniel l,Re2rement Home,ess,1,0,4
+009d10dd,daniel l,Re2rement Home,physics,1,0,4
+009d10dd,Alex W,Wheaton,math,1,0,4
+009d10dd,Alex W,Wheaton,biology,0,1,-4
+009d10dd,Alex W,Wheaton,chemistry,1,1,0
+009d10dd,Angelina Y,Re2rement Home,ess,1,0,4
+009d10dd,caleb w,Wheaton,other,0,0,0
+009d10dd,Angelina Y,Re2rement Home,other,1,0,4
+0227e9de,Rish B.,Shallow Walk A,overall,1,0,4
+0227e9de,Rish B.,Shallow Walk A,physics,1,0,4
+0227e9de,Ryan K,Shallow Walk A,overall,11,2,36
+0227e9de,Ryan K,Shallow Walk A,math,1,0,4
+0227e9de,Matthew D,Enloe,overall,0,0,0
+0227e9de,Matthew D,Enloe,math,0,0,0
+0227e9de,Ryan K,Shallow Walk A,biology,4,0,16
+0227e9de,Ryan K,Shallow Walk A,chemistry,4,0,16
+0227e9de,Vishruth K,Enloe,overall,1,0,4
+0227e9de,Vishruth K,Enloe,ess,1,0,4
+0227e9de,Ryan K,Shallow Walk A,physics,2,0,8
+0227e9de,Riyan N,Shallow Walk A,overall,3,0,12
+0227e9de,Riyan N,Shallow Walk A,math,2,0,8
+0227e9de,Ryan K,Shallow Walk A,ess,0,2,-8
+0227e9de,Matthew D,Enloe,ess,0,0,0
+0227e9de,Matthew D,Enloe,physics,0,0,0
+0227e9de,Riyan N,Shallow Walk A,physics,1,0,4
+0227e9de,Nimit A,Shallow Walk A,overall,1,0,4
+0227e9de,Nimit A,Shallow Walk A,ess,1,0,4
+0adbb23a,akhil,ASFA,overall,11,4,28
+0adbb23a,akhil,ASFA,physics,1,1,0
+0adbb23a,akhil,ASFA,math,3,0,12
+0adbb23a,Luke Itomura,Punahou,overall,4,1,12
+0adbb23a,Luke Itomura,Punahou,biology,3,1,8
+0adbb23a,akhil,ASFA,biology,1,2,-4
+0adbb23a,akhil,ASFA,chemistry,3,0,12
+0adbb23a,akhil,ASFA,ess,2,1,4
+0adbb23a,Travis D,Punahou,overall,5,2,12
+0adbb23a,Travis D,Punahou,physics,1,0,4
+0adbb23a,Travis D,Punahou,chemistry,1,1,0
+0adbb23a,Travis D,Punahou,ess,2,1,4
+0adbb23a,Luke Itomura,Punahou,physics,1,0,4
+0adbb23a,Travis D,Punahou,math,1,0,4
+0adbb23a,akhil,ASFA,other,1,0,4
+10292abe,Aayan Ghosh,WWPS B,overall,1,0,4
+10292abe,Aayan Ghosh,WWPS B,physics,0,0,0
+10292abe,Tahmeed S,Collierville HS B,overall,6,0,24
+10292abe,Tahmeed S,Collierville HS B,physics,1,0,4
+10292abe,Tahmeed S,Collierville HS B,biology,1,0,4
+10292abe,Aayan Ghosh,WWPS B,biology,0,0,0
+10292abe,Tahmeed S,Collierville HS B,chemistry,2,0,8
+10292abe,Aayan Ghosh,WWPS B,ess,0,0,0
+10292abe,Prathiksha J,Collierville HS B,overall,0,0,0
+10292abe,Prathiksha J,Collierville HS B,ess,0,0,0
+10292abe,Aayan Ghosh,WWPS B,math,1,0,4
+10292abe,Tahmeed S,Collierville HS B,math,0,0,0
+10292abe,Aayan Ghosh,WWPS B,chemistry,0,0,0
+10292abe,Tahmeed S,Collierville HS B,ess,2,0,8
+10292abe,Tahmeed S,Collierville HS B,other,0,0,0
+10292abe,Aayan Ghosh,WWPS B,other,0,0,0
+2469cde2,Shaun I,VMATHs,overall,4,3,4
+2469cde2,Shaun I,VMATHs,physics,1,1,0
+2469cde2,Varun G,VMATHs,overall,1,0,4
+2469cde2,Varun G,VMATHs,math,1,0,4
+2469cde2,Kevin W,Arcadia B,overall,6,2,16
+2469cde2,Kevin W,Arcadia B,math,3,0,12
+2469cde2,uddip k,VMATHs,overall,2,1,4
+2469cde2,uddip k,VMATHs,biology,1,1,0
+2469cde2,Kevin W,Arcadia B,biology,3,1,8
+2469cde2,Paxton Lin,Arcadia B,overall,3,0,12
+2469cde2,Paxton Lin,Arcadia B,chemistry,2,0,8
+2469cde2,Shaun I,VMATHs,ess,2,1,4
+2469cde2,Austin Z,Arcadia B,overall,3,0,12
+2469cde2,Austin Z,Arcadia B,physics,2,0,8
+2469cde2,marty h,VMATHs,overall,0,1,-4
+2469cde2,marty h,VMATHs,math,0,0,0
+2469cde2,Shaun I,VMATHs,chemistry,1,1,0
+2469cde2,Austin Z,Arcadia B,ess,1,0,4
+2469cde2,Paxton Lin,Arcadia B,physics,1,0,4
+2469cde2,marty h,VMATHs,physics,0,1,-4
+2469cde2,Kevin W,Arcadia B,chemistry,0,1,-4
+2469cde2,uddip k,VMATHs,ess,1,0,4
+2469cde2,Shaun I,VMATHs,other,0,0,0
+2469cde2,Kevin W,Arcadia B,other,0,0,0
+2540d7e4,Monish S,WWPS A,overall,3,5,-8
+2540d7e4,Monish S,WWPS A,physics,2,1,4
+2540d7e4,Monish S,WWPS A,math,1,2,-4
+2540d7e4,Arjun D,WWPS A,overall,7,1,24
+2540d7e4,Arjun D,WWPS A,biology,4,0,16
+2540d7e4,Arjun D,WWPS A,chemistry,3,1,8
+2540d7e4,Shashank V,Foothill,overall,4,0,16
+2540d7e4,Shashank V,Foothill,ess,4,0,16
+2540d7e4,Abhee S,Foothill,overall,2,1,4
+2540d7e4,Abhee S,Foothill,physics,1,0,4
+2540d7e4,Abhee S,Foothill,math,0,0,0
+2540d7e4,Abhee S,Foothill,biology,0,1,-4
+2540d7e4,Parv S,Foothill,overall,1,2,-4
+2540d7e4,Parv S,Foothill,chemistry,0,1,-4
+2540d7e4,Monish S,WWPS A,ess,0,2,-8
+2540d7e4,Parv S,Foothill,math,1,0,4
+2540d7e4,Parv S,Foothill,physics,0,1,-4
+2540d7e4,Abhee S,Foothill,chemistry,1,0,4
+2540d7e4,Abhee S,Foothill,other,0,0,0
+2540d7e4,Monish S,WWPS A,other,0,0,0
+39278a47,Kevin F,MAAOC,overall,6,0,24
+39278a47,Kevin F,MAAOC,physics,2,0,8
+39278a47,Kevin F,MAAOC,math,3,0,12
+39278a47,Arman A,MAAOC,overall,2,1,4
+39278a47,Arman A,MAAOC,biology,2,1,4
+39278a47,Shirley V,SSP Warriors,overall,2,3,-4
+39278a47,Shirley V,SSP Warriors,biology,1,2,-4
+39278a47,Shirley V,SSP Warriors,chemistry,1,1,0
+39278a47,Praneel A,MAAOC,overall,7,2,20
+39278a47,Praneel A,MAAOC,ess,2,1,4
+39278a47,Praneel A,MAAOC,chemistry,2,0,8
+39278a47,Praneel A,MAAOC,physics,2,0,8
+39278a47,Praneel A,MAAOC,math,0,1,-4
+39278a47,Shirley V,SSP Warriors,math,0,0,0
+39278a47,Abhinav KSK,MAAOC,overall,2,0,8
+39278a47,Abhinav KSK,MAAOC,biology,1,0,4
+39278a47,Abhinav KSK,MAAOC,chemistry,1,0,4
+39278a47,Kevin F,MAAOC,ess,1,0,4
+39278a47,Praneel A,MAAOC,other,1,0,4
+415c0bf8,Chris W,Montgomery Blair,overall,5,0,20
+415c0bf8,Chris W,Montgomery Blair,physics,4,0,16
+415c0bf8,Sam E,Montgomery Blair,overall,3,3,0
+415c0bf8,Sam E,Montgomery Blair,math,1,1,0
+415c0bf8,Samuel W,Montgomery Blair,overall,4,1,12
+415c0bf8,Samuel W,Montgomery Blair,biology,3,1,8
+415c0bf8,Sam E,Montgomery Blair,chemistry,2,1,4
+415c0bf8,Samuel W,Montgomery Blair,ess,1,0,4
+415c0bf8,Chris W,Montgomery Blair,math,1,0,4
+415c0bf8,Ishan A,Collierville HS A,overall,0,0,0
+415c0bf8,Ishan A,Collierville HS A,math,0,0,0
+415c0bf8,Jacob L,Collierville HS A,overall,1,0,4
+415c0bf8,Jacob L,Collierville HS A,biology,1,0,4
+415c0bf8,Sam E,Montgomery Blair,ess,0,1,-4
+415c0bf8,Charith N,Collierville HS A,overall,3,0,12
+415c0bf8,Charith N,Collierville HS A,ess,1,0,4
+415c0bf8,Charith N,Collierville HS A,math,1,0,4
+415c0bf8,Santhosh V,Collierville HS A,overall,1,1,0
+415c0bf8,Santhosh V,Collierville HS A,biology,0,1,-4
+415c0bf8,Santhosh V,Collierville HS A,chemistry,1,0,4
+415c0bf8,Henry L,Montgomery Blair,overall,1,0,4
+415c0bf8,Henry L,Montgomery Blair,ess,1,0,4
+415c0bf8,Charith N,Collierville HS A,chemistry,1,0,4
+415c0bf8,Charith N,Collierville HS A,other,0,0,0
+415c0bf8,Chris W,Montgomery Blair,other,0,0,0
+46ac4448,Enming Z,MSJ C,overall,0,1,-4
+46ac4448,Enming Z,MSJ C,physics,0,0,0
+46ac4448,Leo Y,North Allegheny,overall,7,1,24
+46ac4448,Leo Y,North Allegheny,physics,1,0,4
+46ac4448,Arjun G.,MSJ C,overall,1,0,4
+46ac4448,Arjun G.,MSJ C,math,1,0,4
+46ac4448,Kaartic M,North Allegheny,overall,1,1,0
+46ac4448,Kaartic M,North Allegheny,biology,1,1,0
+46ac4448,Ananya V,MSJ C,overall,2,1,4
+46ac4448,Ananya V,MSJ C,biology,1,1,0
+46ac4448,Leo Y,North Allegheny,chemistry,4,0,16
+46ac4448,Andrew F,North Allegheny,overall,3,0,12
+46ac4448,Andrew F,North Allegheny,ess,2,0,8
+46ac4448,Jason L,North Allegheny,overall,4,0,16
+46ac4448,Jason L,North Allegheny,physics,2,0,8
+46ac4448,Jason L,North Allegheny,math,2,0,8
+46ac4448,Leo Y,North Allegheny,ess,1,0,4
+46ac4448,Andrew F,North Allegheny,math,1,0,4
+46ac4448,Leo Y,North Allegheny,biology,1,1,0
+46ac4448,Ananya V,MSJ C,ess,1,0,4
+46ac4448,Arjun G.,MSJ C,physics,0,0,0
+46ac4448,Enming Z,MSJ C,math,0,1,-4
+46ac4448,Andrew F,North Allegheny,other,0,0,0
+46ac4448,Arjun G.,MSJ C,other,0,0,0
+48c7fbb5,Dennis J,WWPS C,overall,2,1,4
+48c7fbb5,Dennis J,WWPS C,physics,2,1,4
+48c7fbb5,Eddie A,Law Abiding Citizens,overall,7,2,20
+48c7fbb5,Eddie A,Law Abiding Citizens,math,3,0,12
+48c7fbb5,Edward H,Law Abiding Citizens,overall,6,1,20
+48c7fbb5,Edward H,Law Abiding Citizens,biology,2,1,4
+48c7fbb5,Iris G,WWPS C,overall,1,0,4
+48c7fbb5,Iris G,WWPS C,biology,1,0,4
+48c7fbb5,Edward H,Law Abiding Citizens,chemistry,2,0,8
+48c7fbb5,Eddie A,Law Abiding Citizens,ess,1,1,0
+48c7fbb5,Eddie A,Law Abiding Citizens,physics,1,1,0
+48c7fbb5,Dennis J,WWPS C,math,0,0,0
+48c7fbb5,Eddie A,Law Abiding Citizens,chemistry,2,0,8
+48c7fbb5,Dennis J,WWPS C,ess,0,0,0
+48c7fbb5,Edward H,Law Abiding Citizens,ess,2,0,8
+48c7fbb5,Edward H,Law Abiding Citizens,other,0,0,0
+48c7fbb5,Dennis J,WWPS C,other,0,0,0
+54722eca,Sreekar K,Shallow Walk B,overall,1,0,4
+54722eca,Sreekar K,Shallow Walk B,physics,1,0,4
+54722eca,Minghao G,North Hollywood,overall,1,0,4
+54722eca,Minghao G,North Hollywood,math,1,0,4
+54722eca,Yunay V,Shallow Walk B,overall,2,0,8
+54722eca,Yunay V,Shallow Walk B,math,0,0,0
+54722eca,Kensuke O,North Hollywood,overall,7,1,24
+54722eca,Kensuke O,North Hollywood,biology,2,0,8
+54722eca,Charles H,North Hollywood,overall,4,1,12
+54722eca,Charles H,North Hollywood,chemistry,1,1,0
+54722eca,Yunay V,Shallow Walk B,chemistry,1,0,4
+54722eca,Kensuke O,North Hollywood,ess,3,0,12
+54722eca,Charles H,North Hollywood,physics,1,0,4
+54722eca,Jake R,North Hollywood,overall,2,0,8
+54722eca,Jake R,North Hollywood,biology,2,0,8
+54722eca,Kensuke O,North Hollywood,chemistry,1,0,4
+54722eca,Charles H,North Hollywood,ess,1,0,4
+54722eca,Kensuke O,North Hollywood,physics,0,1,-4
+54722eca,Kensuke O,North Hollywood,math,1,0,4
+54722eca,Yunay V,Shallow Walk B,physics,1,0,4
+54722eca,Charles H,North Hollywood,math,1,0,4
+54722eca,Jake R,North Hollywood,chemistry,0,0,0
+54722eca,Kensuke O,North Hollywood,other,0,0,0
+54722eca,Sreekar K,Shallow Walk B,other,0,0,0
+6332fe99,Timo Ye,BISV HS B,overall,2,0,8
+6332fe99,Timo Ye,BISV HS B,physics,1,0,4
+6332fe99,Alex Zhan,BISV HS B,overall,5,0,20
+6332fe99,Alex Zhan,BISV HS B,math,3,0,12
+6332fe99,ZhiyuZhao BISV,BISV HS B,overall,3,0,12
+6332fe99,ZhiyuZhao BISV,BISV HS B,biology,1,0,4
+6332fe99,Brandon,Jordan,overall,4,0,16
+6332fe99,Brandon,Jordan,biology,1,0,4
+6332fe99,Avish B,Jordan,overall,1,1,0
+6332fe99,Avish B,Jordan,chemistry,1,0,4
+6332fe99,Timo Ye,BISV HS B,ess,1,0,4
+6332fe99,Alex Zhan,BISV HS B,physics,2,0,8
+6332fe99,ZhiyuZhao BISV,BISV HS B,chemistry,1,0,4
+6332fe99,Brandon,Jordan,ess,1,0,4
+6332fe99,Avish B,Jordan,physics,0,1,-4
+6332fe99,Eric G,BISV HS B,overall,1,1,0
+6332fe99,Eric G,BISV HS B,physics,1,0,4
+6332fe99,William Chen,Jordan,overall,1,0,4
+6332fe99,William Chen,Jordan,math,1,0,4
+6332fe99,Eric G,BISV HS B,chemistry,0,1,-4
+6332fe99,Brandon,Jordan,chemistry,2,0,8
+6332fe99,ZhiyuZhao BISV,BISV HS B,ess,1,0,4
+6332fe99,ZhiyuZhao BISV,BISV HS B,other,0,0,0
+64eec207,Samy E,Chattahoochee A,overall,3,1,8
+64eec207,Samy E,Chattahoochee A,physics,0,1,-4
+64eec207,Liam T,BISV HS A,overall,3,2,4
+64eec207,Liam T,BISV HS A,physics,3,1,8
+64eec207,Aaron C,BISV HS A,overall,0,0,0
+64eec207,Aaron C,BISV HS A,math,0,0,0
+64eec207,Samy E,Chattahoochee A,math,1,0,4
+64eec207,Larry Z,BISV HS A,overall,3,1,8
+64eec207,Larry Z,BISV HS A,biology,3,1,8
+64eec207,Aarnav P,Chattahoochee A,overall,4,1,12
+64eec207,Aarnav P,Chattahoochee A,chemistry,2,0,8
+64eec207,Samy E,Chattahoochee A,ess,2,0,8
+64eec207,Naman S,BISV HS A,overall,2,0,8
+64eec207,Naman S,BISV HS A,math,0,0,0
+64eec207,Aarnav P,Chattahoochee A,biology,0,1,-4
+64eec207,Naman S,BISV HS A,chemistry,2,0,8
+64eec207,Liam T,BISV HS A,ess,0,1,-4
+64eec207,Aarnav P,Chattahoochee A,ess,1,0,4
+64eec207,Aarnav P,Chattahoochee A,physics,1,0,4
+64eec207,Chris Z,Chattahoochee A,overall,1,0,4
+64eec207,Chris Z,Chattahoochee A,math,1,0,4
+64eec207,Liam T,BISV HS A,other,0,0,0
+64eec207,Samy E,Chattahoochee A,other,0,0,0
+718aa445,Shannon I,School of Biology,overall,3,1,8
+718aa445,Shannon I,School of Biology,physics,1,0,4
+718aa445,Ethan Wang,Arcadia A,overall,6,2,16
+718aa445,Ethan Wang,Arcadia A,math,1,0,4
+718aa445,Shannon I,School of Biology,math,0,0,0
+718aa445,Lucas L,School of Biology,overall,2,0,8
+718aa445,Lucas L,School of Biology,biology,1,0,4
+718aa445,Ethan Wang,Arcadia A,chemistry,3,0,12
+718aa445,Lucas L,School of Biology,ess,1,0,4
+718aa445,Lucas L,School of Biology,physics,0,0,0
+718aa445,Ethan Wang,Arcadia A,biology,0,2,-8
+718aa445,Shannon I,School of Biology,biology,0,1,-4
+718aa445,Ethan Wang,Arcadia A,ess,1,0,4
+718aa445,Brandon Z,Arcadia A,overall,1,1,0
+718aa445,Brandon Z,Arcadia A,physics,1,0,4
+718aa445,Brandon Z,Arcadia A,math,0,1,-4
+718aa445,Nevin J,School of Biology,overall,1,0,4
+718aa445,Nevin J,School of Biology,math,0,0,0
+718aa445,Shannon I,School of Biology,ess,1,0,4
+718aa445,Ethan Wang,Arcadia A,physics,1,0,4
+718aa445,Shannon H,Arcadia A,overall,1,0,4
+718aa445,Shannon H,Arcadia A,biology,1,0,4
+718aa445,Shannon I,School of Biology,chemistry,1,0,4
+718aa445,Nevin J,School of Biology,ess,1,0,4
+821b0704,Rohan G,School of Geology,overall,4,4,0
+821b0704,Rohan G,School of Geology,physics,1,1,0
+821b0704,Rohan G,School of Geology,math,2,1,4
+821b0704,Kian D,School of Geology,overall,10,1,36
+821b0704,Kian D,School of Geology,biology,3,0,12
+821b0704,Kian D,School of Geology,chemistry,3,0,12
+821b0704,Kian D,School of Geology,ess,2,1,4
+821b0704,Kian D,School of Geology,physics,1,0,4
+821b0704,Rohan G,School of Geology,biology,0,1,-4
+821b0704,Annie L,CCA B,overall,0,0,0
+821b0704,Annie L,CCA B,biology,0,0,0
+821b0704,Rohan G,School of Geology,ess,0,1,-4
+821b0704,Annie L,CCA B,physics,0,0,0
+821b0704,Kian D,School of Geology,math,1,0,4
+821b0704,Rohan G,School of Geology,chemistry,1,0,4
+821b0704,Euan L,CCA B,overall,0,1,-4
+821b0704,Euan L,CCA B,ess,0,1,-4
+821b0704,Rohan G,School of Geology,other,0,0,0
+8447caab,Alex D,CCA A,overall,4,1,12
+8447caab,Alex D,CCA A,physics,1,0,4
+8447caab,Owen M,CCA A,overall,7,0,28
+8447caab,Owen M,CCA A,math,2,0,8
+8447caab,Alex D,CCA A,biology,1,0,4
+8447caab,Owen M,CCA A,chemistry,4,0,16
+8447caab,Ashley L,CCA A,overall,2,0,8
+8447caab,Ashley L,CCA A,ess,1,0,4
+8447caab,Shawn Phan,Chattahoochee B,overall,0,0,0
+8447caab,Shawn Phan,Chattahoochee B,biology,0,0,0
+8447caab,Alex D,CCA A,ess,1,1,0
+8447caab,Owen M,CCA A,physics,1,0,4
+8447caab,Alex D,CCA A,math,1,0,4
+8447caab,Shawn Phan,Chattahoochee B,ess,0,0,0
+8447caab,Ashley L,CCA A,biology,1,0,4
+8447caab,Owen M,CCA A,other,0,0,0
+8e997cca,Alex D,Middleton,overall,2,0,8
+8e997cca,Alex D,Middleton,physics,1,0,4
+8e997cca,Likhith M,Gargy Bomy,overall,4,1,12
+8e997cca,Likhith M,Gargy Bomy,math,2,1,4
+8e997cca,Abhinav A,Gargy Bomy,overall,7,3,16
+8e997cca,Abhinav A,Gargy Bomy,biology,2,1,4
+8e997cca,Abhinav A,Gargy Bomy,chemistry,3,1,8
+8e997cca,matthew w,Middleton,overall,3,0,12
+8e997cca,matthew w,Middleton,chemistry,1,0,4
+8e997cca,matthew w,Middleton,ess,2,0,8
+8e997cca,Likhith M,Gargy Bomy,physics,1,0,4
+8e997cca,Aditya B,Middleton,overall,1,0,4
+8e997cca,Aditya B,Middleton,math,0,0,0
+8e997cca,matthew w,Middleton,biology,0,0,0
+8e997cca,Alex D,Middleton,ess,0,0,0
+8e997cca,Abhinav A,Gargy Bomy,ess,1,1,0
+8e997cca,Abhinav A,Gargy Bomy,physics,1,0,4
+8e997cca,Alex D,Middleton,math,1,0,4
+8e997cca,Aditya B,Middleton,biology,1,0,4
+8e997cca,Likhith M,Gargy Bomy,other,1,0,4
+9e019673,Rutvik A,MSJ B,overall,5,0,20
+9e019673,Rutvik A,MSJ B,physics,3,0,12
+9e019673,Ishaan K,MSJ B,overall,2,3,-4
+9e019673,Ishaan K,MSJ B,math,1,1,0
+9e019673,Anish A,MSJ B,overall,3,1,8
+9e019673,Anish A,MSJ B,biology,2,1,4
+9e019673,William W,Lakeside,overall,5,1,16
+9e019673,William W,Lakeside,biology,1,1,0
+9e019673,William W,Lakeside,chemistry,3,0,12
+9e019673,Sarah N,Lakeside,overall,2,1,4
+9e019673,Sarah N,Lakeside,ess,1,0,4
+9e019673,William W,Lakeside,physics,0,0,0
+9e019673,Rutvik A,MSJ B,math,2,0,8
+9e019673,Ishaan K,MSJ B,ess,1,2,-4
+9e019673,William W,Lakeside,ess,1,0,4
+9e019673,Sarah N,Lakeside,math,1,0,4
+9e019673,Sarah N,Lakeside,biology,0,1,-4
+9e019673,Anish A,MSJ B,chemistry,1,0,4
+9e019673,Ishaan K,MSJ B,other,0,0,0
+9e019673,Sarah N,Lakeside,other,0,0,0
+ad708476,Timothy C,University,overall,4,0,16
+ad708476,Timothy C,University,physics,2,0,8
+ad708476,Timothy C,University,math,2,0,8
+ad708476,bluewater16,Royal Hogs,overall,5,0,20
+ad708476,bluewater16,Royal Hogs,math,2,0,8
+ad708476,Stephanie Y,University,overall,0,1,-4
+ad708476,Stephanie Y,University,biology,0,1,-4
+ad708476,Achuth V,Royal Hogs,overall,4,0,16
+ad708476,Achuth V,Royal Hogs,biology,4,0,16
+ad708476,bluewater16,Royal Hogs,chemistry,3,0,12
+ad708476,Priya K,University,overall,2,0,8
+ad708476,Priya K,University,ess,2,0,8
+ad708476,bluewater16,Royal Hogs,physics,0,0,0
+ad708476,sumin,Royal Hogs,overall,2,1,4
+ad708476,sumin,Royal Hogs,ess,1,1,0
+ad708476,sumin,Royal Hogs,physics,1,0,4
+ad708476,Carl L,University,overall,1,1,0
+ad708476,Carl L,University,chemistry,1,1,0
+ad708476,Timothy C,University,other,0,0,0
+ad708476,Achuth V,Royal Hogs,other,0,0,0
+b1b3477c,Roshan A,MSJ A,overall,11,1,40
+b1b3477c,Roshan A,MSJ A,physics,2,0,8
+b1b3477c,Advaith M,MSJ A,overall,5,1,16
+b1b3477c,Advaith M,MSJ A,math,3,0,12
+b1b3477c,Advaith M,MSJ A,biology,1,0,4
+b1b3477c,Roshan A,MSJ A,chemistry,3,0,12
+b1b3477c,Roshan A,MSJ A,ess,2,1,4
+b1b3477c,Bryce T,SGVG,overall,4,1,12
+b1b3477c,Bryce T,SGVG,physics,1,0,4
+b1b3477c,Roshan A,MSJ A,math,1,0,4
+b1b3477c,Bryce T,SGVG,biology,1,0,4
+b1b3477c,Bryce T,SGVG,ess,2,1,4
+b1b3477c,Roshan A,MSJ A,biology,2,0,8
+b1b3477c,Tianhan H,SGVG,overall,1,1,0
+b1b3477c,Tianhan H,SGVG,physics,0,1,-4
+b1b3477c,Advaith M,MSJ A,physics,1,0,4
+b1b3477c,Bryce T,SGVG,math,0,0,0
+b1b3477c,Advaith M,MSJ A,chemistry,0,1,-4
+b1b3477c,Tianhan H,SGVG,chemistry,1,0,4
+b1b3477c,Roshan A,MSJ A,other,1,0,4
+dce1b3f9,Sohil,Lynbroke,overall,15,3,48
+dce1b3f9,Sohil,Lynbroke,physics,3,1,8
+dce1b3f9,marianne,Benjamin Franklin,overall,2,0,8
+dce1b3f9,marianne,Benjamin Franklin,physics,0,0,0
+dce1b3f9,Sohil,Lynbroke,math,4,0,16
+dce1b3f9,Sohil,Lynbroke,biology,2,2,0
+dce1b3f9,marianne,Benjamin Franklin,biology,2,0,8
+dce1b3f9,Sohil,Lynbroke,chemistry,2,0,8
+dce1b3f9,Sohil,Lynbroke,ess,4,0,16
+dce1b3f9,Ronald Z,Benjamin Franklin,overall,2,0,8
+dce1b3f9,Ronald Z,Benjamin Franklin,chemistry,2,0,8
+dce1b3f9,Sohil,Lynbroke,other,0,0,0
+dce1b3f9,marianne,Benjamin Franklin,other,0,0,0
+f0ecad03,connor z,Clang! Cloom! Clash!,overall,3,2,4
+f0ecad03,connor z,Clang! Cloom! Clash!,physics,1,0,4
+f0ecad03,Vishnu M,Clang! Cloom! Clash!,overall,4,0,16
+f0ecad03,Vishnu M,Clang! Cloom! Clash!,math,1,0,4
+f0ecad03,Sritam P,Round Rock,overall,1,0,4
+f0ecad03,Sritam P,Round Rock,math,0,0,0
+f0ecad03,suzuko o,Clang! Cloom! Clash!,overall,6,2,16
+f0ecad03,suzuko o,Clang! Cloom! Clash!,biology,2,0,8
+f0ecad03,suzuko o,Clang! Cloom! Clash!,chemistry,1,0,4
+f0ecad03,connor z,Clang! Cloom! Clash!,ess,1,0,4
+f0ecad03,Vishnu M,Clang! Cloom! Clash!,physics,1,0,4
+f0ecad03,connor z,Clang! Cloom! Clash!,math,0,0,0
+f0ecad03,connor z,Clang! Cloom! Clash!,biology,0,2,-8
+f0ecad03,Soham P,Round Rock,overall,1,0,4
+f0ecad03,Soham P,Round Rock,biology,0,0,0
+f0ecad03,Vishnu M,Clang! Cloom! Clash!,chemistry,2,0,8
+f0ecad03,suzuko o,Clang! Cloom! Clash!,ess,1,1,0
+f0ecad03,Soham P,Round Rock,ess,1,0,4
+f0ecad03,suzuko o,Clang! Cloom! Clash!,physics,0,1,-4
+f0ecad03,Soham P,Round Rock,physics,0,0,0
+f0ecad03,suzuko o,Clang! Cloom! Clash!,math,1,0,4
+f0ecad03,connor z,Clang! Cloom! Clash!,chemistry,1,0,4
+f0ecad03,Sritam P,Round Rock,physics,1,0,4
+f0ecad03,Dhruv G,Round Rock,overall,1,0,4
+f0ecad03,Dhruv G,Round Rock,biology,1,0,4
+f0ecad03,suzuko o,Clang! Cloom! Clash!,other,1,0,4
+f1445b43,Andrew W,Palo Alto,overall,8,0,32
+f1445b43,Andrew W,Palo Alto,physics,2,0,8
+f1445b43,Abhishek C,Doral Academy,overall,1,1,0
+f1445b43,Abhishek C,Doral Academy,math,1,0,4
+f1445b43,Andrew W,Palo Alto,math,3,0,12
+f1445b43,Neil H,Doral Academy,overall,3,1,8
+f1445b43,Neil H,Doral Academy,biology,3,1,8
+f1445b43,Andrew W,Palo Alto,biology,1,0,4
+f1445b43,Andrew W,Palo Alto,chemistry,2,0,8
+f1445b43,Abhishek C,Doral Academy,ess,0,1,-4
+f1445b43,Jacob G,Palo Alto,overall,1,0,4
+f1445b43,Jacob G,Palo Alto,ess,1,0,4
+f1445b43,Abhishek C,Doral Academy,physics,0,0,0
+f1445b43,Kevin P,Palo Alto,overall,4,1,12
+f1445b43,Kevin P,Palo Alto,ess,2,1,4
+f1445b43,Kevin P,Palo Alto,chemistry,2,0,8
+f1445b43,Shalina Liu,Doral Academy,overall,1,0,4
+f1445b43,Shalina Liu,Doral Academy,ess,1,0,4
+f1445b43,Kevin P,Palo Alto,other,0,0,0
+f1445b43,Abhishek C,Doral Academy,other,0,0,0
+fe131870,Aldric B,WWPN,overall,5,2,12
+fe131870,Aldric B,WWPN,physics,1,0,4
+fe131870,Easton W,WWPN,overall,7,0,28
+fe131870,Easton W,WWPN,math,1,0,4
+fe131870,Haru G,School of Chemistry,overall,3,0,12
+fe131870,Haru G,School of Chemistry,math,1,0,4
+fe131870,Haru G,School of Chemistry,biology,2,0,8
+fe131870,Easton W,WWPN,biology,1,0,4
+fe131870,Easton W,WWPN,chemistry,3,0,12
+fe131870,Easton W,WWPN,ess,2,0,8
+fe131870,Daniel Y,School of Chemistry,overall,4,0,16
+fe131870,Daniel Y,School of Chemistry,physics,2,0,8
+fe131870,Aldric B,WWPN,math,1,0,4
+fe131870,Aldric B,WWPN,biology,1,1,0
+fe131870,Aldric B,WWPN,ess,1,1,0
+fe131870,Ethan Z,School of Chemistry,overall,1,0,4
+fe131870,Ethan Z,School of Chemistry,ess,1,0,4
+fe131870,Daniel Y,School of Chemistry,math,1,0,4
+fe131870,Daniel Y,School of Chemistry,chemistry,1,0,4
+fe131870,Ethan Z,School of Chemistry,other,0,0,0
+fe131870,Aldric B,WWPN,other,1,0,4
+08d77c27,Rutvik A,MSJ B,overall,8,0,32
+08d77c27,Rutvik A,MSJ B,physics,4,0,16
+08d77c27,Ishaan K,MSJ B,overall,4,1,12
+08d77c27,Ishaan K,MSJ B,math,1,1,0
+08d77c27,Yunay V,Shallow Walk B,overall,1,2,-4
+08d77c27,Yunay V,Shallow Walk B,biology,0,1,-4
+08d77c27,Anish A,MSJ B,overall,5,1,16
+08d77c27,Anish A,MSJ B,biology,4,0,16
+08d77c27,Anish A,MSJ B,chemistry,1,1,0
+08d77c27,Sreekar K,Shallow Walk B,overall,1,0,4
+08d77c27,Sreekar K,Shallow Walk B,chemistry,0,0,0
+08d77c27,Yunay V,Shallow Walk B,ess,0,1,-4
+08d77c27,Ishaan K,MSJ B,ess,2,0,8
+08d77c27,Sreekar K,Shallow Walk B,math,1,0,4
+08d77c27,Rutvik A,MSJ B,math,2,0,8
+08d77c27,Rutvik A,MSJ B,chemistry,1,0,4
+08d77c27,Yunay V,Shallow Walk B,chemistry,1,0,4
+08d77c27,Rutvik A,MSJ B,ess,1,0,4
+08d77c27,Ishaan K,MSJ B,other,1,0,4
+16e9c7e6,Tahmeed S,Collierville HS B,overall,2,1,4
+16e9c7e6,Tahmeed S,Collierville HS B,physics,0,1,-4
+16e9c7e6,Daniel Y,School of Chemistry,overall,5,1,16
+16e9c7e6,Daniel Y,School of Chemistry,physics,1,1,0
+16e9c7e6,Ethan Z,School of Chemistry,overall,5,0,20
+16e9c7e6,Ethan Z,School of Chemistry,math,1,0,4
+16e9c7e6,Haru G,School of Chemistry,overall,5,0,20
+16e9c7e6,Haru G,School of Chemistry,biology,4,0,16
+16e9c7e6,Keene K,School of Chemistry,overall,2,1,4
+16e9c7e6,Keene K,School of Chemistry,chemistry,2,1,4
+16e9c7e6,Daniel Y,School of Chemistry,ess,2,0,8
+16e9c7e6,Haru G,School of Chemistry,math,1,0,4
+16e9c7e6,Ethan Z,School of Chemistry,physics,2,0,8
+16e9c7e6,Daniel Y,School of Chemistry,math,1,0,4
+16e9c7e6,Tahmeed S,Collierville HS B,chemistry,2,0,8
+16e9c7e6,Ethan Z,School of Chemistry,ess,2,0,8
+16e9c7e6,Tahmeed S,Collierville HS B,math,0,0,0
+16e9c7e6,Daniel Y,School of Chemistry,other,1,0,4
+240bd2b0,Abhinav A,Gargy Bomy,overall,7,1,24
+240bd2b0,Abhinav A,Gargy Bomy,physics,2,0,8
+240bd2b0,Likhith M,Gargy Bomy,overall,3,1,8
+240bd2b0,Likhith M,Gargy Bomy,math,3,1,8
+240bd2b0,Larry Z,BISV HS A,overall,4,1,12
+240bd2b0,Larry Z,BISV HS A,biology,3,1,8
+240bd2b0,Abhinav A,Gargy Bomy,chemistry,2,0,8
+240bd2b0,Abhinav A,Gargy Bomy,ess,2,1,4
+240bd2b0,Aaron C,BISV HS A,overall,0,0,0
+240bd2b0,Aaron C,BISV HS A,ess,0,0,0
+240bd2b0,Liam T,BISV HS A,overall,4,0,16
+240bd2b0,Liam T,BISV HS A,physics,2,0,8
+240bd2b0,Zanda Z,BISV HS A,overall,1,0,4
+240bd2b0,Zanda Z,BISV HS A,math,1,0,4
+240bd2b0,Liam T,BISV HS A,chemistry,2,0,8
+240bd2b0,Liam T,BISV HS A,math,0,0,0
+240bd2b0,Abhinav A,Gargy Bomy,biology,1,0,4
+240bd2b0,Larry Z,BISV HS A,other,1,0,4
+450dcf04,Charith N,Collierville HS A,overall,6,1,20
+450dcf04,Charith N,Collierville HS A,physics,3,0,12
+450dcf04,Varun G,VMATHs,overall,4,0,16
+450dcf04,Varun G,VMATHs,math,4,0,16
+450dcf04,Charith N,Collierville HS A,biology,0,1,-4
+450dcf04,Shaun I,VMATHs,overall,7,2,20
+450dcf04,Shaun I,VMATHs,biology,3,0,12
+450dcf04,Shaun I,VMATHs,chemistry,2,1,4
+450dcf04,Shaun I,VMATHs,ess,0,1,-4
+450dcf04,Charith N,Collierville HS A,ess,2,0,8
+450dcf04,Shaun I,VMATHs,physics,1,0,4
+450dcf04,Charith N,Collierville HS A,chemistry,1,0,4
+450dcf04,Ishan A,Collierville HS A,overall,1,0,4
+450dcf04,Ishan A,Collierville HS A,chemistry,1,0,4
+450dcf04,uddip k,VMATHs,overall,1,0,4
+450dcf04,uddip k,VMATHs,biology,1,0,4
+450dcf04,Shaun I,VMATHs,other,1,0,4
+4be4cdbd,suzuko o,Clang! Cloom! Clash!,overall,9,0,36
+4be4cdbd,suzuko o,Clang! Cloom! Clash!,physics,3,0,12
+4be4cdbd,Vishnu M,Clang! Cloom! Clash!,overall,3,0,12
+4be4cdbd,Vishnu M,Clang! Cloom! Clash!,math,2,0,8
+4be4cdbd,suzuko o,Clang! Cloom! Clash!,biology,4,0,16
+4be4cdbd,connor z,Clang! Cloom! Clash!,overall,5,3,8
+4be4cdbd,connor z,Clang! Cloom! Clash!,chemistry,2,1,4
+4be4cdbd,connor z,Clang! Cloom! Clash!,ess,1,1,0
+4be4cdbd,Aayan Ghosh,WWPS B,overall,0,0,0
+4be4cdbd,Aayan Ghosh,WWPS B,ess,0,0,0
+4be4cdbd,connor z,Clang! Cloom! Clash!,math,0,1,-4
+4be4cdbd,Aayan Ghosh,WWPS B,math,0,0,0
+4be4cdbd,Vishnu M,Clang! Cloom! Clash!,chemistry,1,0,4
+4be4cdbd,suzuko o,Clang! Cloom! Clash!,ess,2,0,8
+4be4cdbd,connor z,Clang! Cloom! Clash!,physics,1,0,4
+4be4cdbd,Aayan Ghosh,WWPS B,chemistry,0,0,0
+4be4cdbd,connor z,Clang! Cloom! Clash!,other,1,0,4
+564e3264,Bryce T,SGVG,overall,5,1,16
+564e3264,Bryce T,SGVG,physics,2,0,8
+564e3264,Monish S,WWPS A,overall,7,1,24
+564e3264,Monish S,WWPS A,math,2,1,4
+564e3264,Arjun D,WWPS A,overall,5,0,20
+564e3264,Arjun D,WWPS A,biology,4,0,16
+564e3264,Tianhan H,SGVG,overall,2,0,8
+564e3264,Tianhan H,SGVG,chemistry,2,0,8
+564e3264,Bryce T,SGVG,ess,2,1,4
+564e3264,Darius S,SGVG,overall,0,1,-4
+564e3264,Darius S,SGVG,physics,0,1,-4
+564e3264,Monish S,WWPS A,physics,2,0,8
+564e3264,Bryce T,SGVG,math,1,0,4
+564e3264,Monish S,WWPS A,chemistry,1,0,4
+564e3264,Arjun D,WWPS A,chemistry,1,0,4
+564e3264,Arjun D,WWPS A,ess,0,0,0
+564e3264,Monish S,WWPS A,ess,1,0,4
+564e3264,Monish S,WWPS A,other,1,0,4
+57fbc8d6,Leo Y,North Allegheny,overall,8,1,28
+57fbc8d6,Leo Y,North Allegheny,physics,2,1,4
+57fbc8d6,Shannon I,School of Biology,overall,5,1,16
+57fbc8d6,Shannon I,School of Biology,physics,1,0,4
+57fbc8d6,Jason L,North Allegheny,overall,2,0,8
+57fbc8d6,Jason L,North Allegheny,math,2,0,8
+57fbc8d6,Leo Y,North Allegheny,biology,3,0,12
+57fbc8d6,Leo Y,North Allegheny,chemistry,1,0,4
+57fbc8d6,Andrew F,North Allegheny,overall,3,0,12
+57fbc8d6,Andrew F,North Allegheny,ess,1,0,4
+57fbc8d6,Andrew F,North Allegheny,math,2,0,8
+57fbc8d6,Shannon I,School of Biology,chemistry,2,1,4
+57fbc8d6,Kaartic M,North Allegheny,overall,2,0,8
+57fbc8d6,Kaartic M,North Allegheny,chemistry,1,0,4
+57fbc8d6,Leo Y,North Allegheny,ess,1,0,4
+57fbc8d6,Lucas L,School of Biology,overall,1,0,4
+57fbc8d6,Lucas L,School of Biology,physics,1,0,4
+57fbc8d6,Shannon I,School of Biology,ess,2,0,8
+57fbc8d6,Shannon I,School of Biology,biology,0,0,0
+57fbc8d6,Kaartic M,North Allegheny,biology,1,0,4
+57fbc8d6,Leo Y,North Allegheny,other,1,0,4
+6220677a,Chris W,Montgomery Blair,overall,4,0,16
+6220677a,Chris W,Montgomery Blair,physics,3,0,12
+6220677a,Andrew W,Palo Alto,overall,6,0,24
+6220677a,Andrew W,Palo Alto,math,2,0,8
+6220677a,Samuel W,Montgomery Blair,overall,2,2,0
+6220677a,Samuel W,Montgomery Blair,biology,2,2,0
+6220677a,Kevin P,Palo Alto,overall,2,1,4
+6220677a,Kevin P,Palo Alto,chemistry,1,0,4
+6220677a,Henry L,Montgomery Blair,overall,0,1,-4
+6220677a,Henry L,Montgomery Blair,ess,0,1,-4
+6220677a,Kevin P,Palo Alto,ess,0,1,-4
+6220677a,Sam E,Montgomery Blair,overall,3,0,12
+6220677a,Sam E,Montgomery Blair,chemistry,2,0,8
+6220677a,Sam E,Montgomery Blair,math,1,0,4
+6220677a,Kevin P,Palo Alto,biology,1,0,4
+6220677a,Andrew W,Palo Alto,ess,1,0,4
+6220677a,Andrew W,Palo Alto,physics,1,0,4
+6220677a,Chris W,Montgomery Blair,math,1,0,4
+6220677a,Kaylee Z,Palo Alto,overall,1,0,4
+6220677a,Kaylee Z,Palo Alto,biology,1,0,4
+6220677a,Andrew W,Palo Alto,chemistry,1,0,4
+6220677a,Andrew W,Palo Alto,other,1,0,4
+63cfc70a,akhil,ASFA,overall,6,6,0
+63cfc70a,akhil,ASFA,physics,2,1,4
+63cfc70a,bluewater16,Royal Hogs,overall,2,0,8
+63cfc70a,bluewater16,Royal Hogs,math,1,0,4
+63cfc70a,akhil,ASFA,biology,2,1,4
+63cfc70a,bluewater16,Royal Hogs,chemistry,1,0,4
+63cfc70a,akhil,ASFA,ess,0,3,-12
+63cfc70a,sumin,Royal Hogs,overall,6,0,24
+63cfc70a,sumin,Royal Hogs,ess,3,0,12
+63cfc70a,sumin,Royal Hogs,physics,1,0,4
+63cfc70a,akhil,ASFA,math,0,1,-4
+63cfc70a,Tiger,Royal Hogs,overall,2,0,8
+63cfc70a,Tiger,Royal Hogs,math,1,0,4
+63cfc70a,akhil,ASFA,chemistry,1,0,4
+63cfc70a,Tiger,Royal Hogs,physics,1,0,4
+63cfc70a,Raymond,ASFA,overall,2,0,8
+63cfc70a,Raymond,ASFA,math,2,0,8
+63cfc70a,Achuth V,Royal Hogs,overall,1,1,0
+63cfc70a,Achuth V,Royal Hogs,biology,1,1,0
+63cfc70a,sumin,Royal Hogs,chemistry,2,0,8
+63cfc70a,akhil,ASFA,other,1,0,4
+77541916,Roshan A,MSJ A,overall,7,4,12
+77541916,Roshan A,MSJ A,physics,2,1,4
+77541916,Praneel A,MAAOC,overall,5,1,16
+77541916,Praneel A,MAAOC,physics,1,0,4
+77541916,Advaith M,MSJ A,overall,3,1,8
+77541916,Advaith M,MSJ A,math,1,1,0
+77541916,Praneel A,MAAOC,biology,1,0,4
+77541916,Roshan A,MSJ A,chemistry,2,1,4
+77541916,Abhinav KSK,MAAOC,overall,1,1,0
+77541916,Abhinav KSK,MAAOC,chemistry,1,0,4
+77541916,Roshan A,MSJ A,ess,3,1,8
+77541916,Praneel A,MAAOC,ess,0,1,-4
+77541916,Advaith M,MSJ A,physics,1,0,4
+77541916,Praneel A,MAAOC,math,2,0,8
+77541916,Arman A,MAAOC,overall,2,0,8
+77541916,Arman A,MAAOC,biology,2,0,8
+77541916,Praneel A,MAAOC,chemistry,1,0,4
+77541916,Roshan A,MSJ A,math,0,1,-4
+77541916,Kevin F,MAAOC,overall,1,0,4
+77541916,Kevin F,MAAOC,math,1,0,4
+77541916,Abhinav KSK,MAAOC,biology,0,1,-4
+77541916,Roshan A,MSJ A,biology,0,0,0
+77541916,Advaith M,MSJ A,other,1,0,4
+809eb30d,Easton W,WWPN,overall,9,0,36
+809eb30d,Easton W,WWPN,physics,2,0,8
+809eb30d,Easton W,WWPN,math,3,0,12
+809eb30d,Soham P,Round Rock,overall,3,2,4
+809eb30d,Soham P,Round Rock,biology,1,0,4
+809eb30d,Easton W,WWPN,chemistry,2,0,8
+809eb30d,Aldric B,WWPN,overall,4,1,12
+809eb30d,Aldric B,WWPN,ess,1,1,0
+809eb30d,Soham P,Round Rock,ess,0,2,-8
+809eb30d,Aldric B,WWPN,physics,1,0,4
+809eb30d,Sritam P,Round Rock,overall,0,1,-4
+809eb30d,Sritam P,Round Rock,math,0,1,-4
+809eb30d,Aldric B,WWPN,biology,1,0,4
+809eb30d,Dhruv G,Round Rock,overall,1,1,0
+809eb30d,Dhruv G,Round Rock,chemistry,1,1,0
+809eb30d,Easton W,WWPN,ess,2,0,8
+809eb30d,Aayush K.,WWPN,overall,2,0,8
+809eb30d,Aayush K.,WWPN,biology,2,0,8
+809eb30d,Soham P,Round Rock,chemistry,1,0,4
+809eb30d,Jason L,WWPN,overall,1,0,4
+809eb30d,Jason L,WWPN,physics,1,0,4
+809eb30d,Soham P,Round Rock,math,1,0,4
+809eb30d,Aldric B,WWPN,other,1,0,4
+8610ead8,caleb w,Wheaton,overall,4,2,8
+8610ead8,caleb w,Wheaton,physics,1,1,0
+8610ead8,Shawn Phan,Chattahoochee B,overall,1,0,4
+8610ead8,Shawn Phan,Chattahoochee B,physics,0,0,0
+8610ead8,Alex W,Wheaton,overall,5,0,20
+8610ead8,Alex W,Wheaton,math,1,0,4
+8610ead8,Andrew Z,Wheaton,overall,6,0,24
+8610ead8,Andrew Z,Wheaton,biology,3,0,12
+8610ead8,Andrew Z,Wheaton,chemistry,2,0,8
+8610ead8,Alex W,Wheaton,ess,1,0,4
+8610ead8,Andrew Z,Wheaton,physics,1,0,4
+8610ead8,Caroline H,Chattahoochee B,overall,0,1,-4
+8610ead8,Caroline H,Chattahoochee B,math,0,1,-4
+8610ead8,caleb w,Wheaton,math,1,0,4
+8610ead8,caleb w,Wheaton,chemistry,0,1,-4
+8610ead8,Shawn Phan,Chattahoochee B,chemistry,1,0,4
+8610ead8,caleb w,Wheaton,ess,2,0,8
+8610ead8,Alex W,Wheaton,physics,1,0,4
+8610ead8,Shawn Phan,Chattahoochee B,biology,0,0,0
+8610ead8,Alex W,Wheaton,chemistry,1,0,4
+8610ead8,Alex W,Wheaton,other,1,0,4
+87ffd2b9,Rohan G,School of Geology,overall,8,3,20
+87ffd2b9,Rohan G,School of Geology,physics,2,1,4
+87ffd2b9,Arjun G.,MSJ C,overall,1,2,-4
+87ffd2b9,Arjun G.,MSJ C,physics,0,1,-4
+87ffd2b9,Rohan G,School of Geology,math,3,0,12
+87ffd2b9,Kian D,School of Geology,overall,6,1,20
+87ffd2b9,Kian D,School of Geology,biology,4,0,16
+87ffd2b9,Rohan G,School of Geology,chemistry,1,2,-4
+87ffd2b9,Enming Z,MSJ C,overall,4,0,16
+87ffd2b9,Enming Z,MSJ C,chemistry,2,0,8
+87ffd2b9,Kian D,School of Geology,ess,0,1,-4
+87ffd2b9,Ananya V,MSJ C,overall,0,0,0
+87ffd2b9,Ananya V,MSJ C,ess,0,0,0
+87ffd2b9,Enming Z,MSJ C,physics,1,0,4
+87ffd2b9,Arjun G.,MSJ C,math,1,1,0
+87ffd2b9,Enming Z,MSJ C,ess,1,0,4
+87ffd2b9,Kian D,School of Geology,chemistry,1,0,4
+87ffd2b9,Rohan G,School of Geology,ess,2,0,8
+87ffd2b9,Kian D,School of Geology,other,1,0,4
+93801c58,matthew w,Middleton,overall,0,2,-8
+93801c58,matthew w,Middleton,physics,0,1,-4
+93801c58,Rish B.,Shallow Walk A,overall,1,0,4
+93801c58,Rish B.,Shallow Walk A,physics,1,0,4
+93801c58,Ryan K,Shallow Walk A,overall,13,0,52
+93801c58,Ryan K,Shallow Walk A,math,2,0,8
+93801c58,Nimit A,Shallow Walk A,overall,3,1,8
+93801c58,Nimit A,Shallow Walk A,biology,2,0,8
+93801c58,Ryan K,Shallow Walk A,chemistry,4,0,16
+93801c58,Nimit A,Shallow Walk A,ess,1,1,0
+93801c58,matthew w,Middleton,ess,0,1,-4
+93801c58,Ryan K,Shallow Walk A,physics,2,0,8
+93801c58,Riyan N,Shallow Walk A,overall,2,0,8
+93801c58,Riyan N,Shallow Walk A,math,2,0,8
+93801c58,Ryan K,Shallow Walk A,biology,2,0,8
+93801c58,Aditya B,Middleton,overall,1,0,4
+93801c58,Aditya B,Middleton,physics,1,0,4
+93801c58,Ryan K,Shallow Walk A,ess,2,0,8
+93801c58,Ryan K,Shallow Walk A,other,1,0,4
+94731c86,Travis D,Punahou,overall,8,0,32
+94731c86,Travis D,Punahou,physics,2,0,8
+94731c86,Travis D,Punahou,math,2,0,8
+94731c86,Luke Itomura,Punahou,overall,3,1,8
+94731c86,Luke Itomura,Punahou,biology,3,1,8
+94731c86,Travis D,Punahou,chemistry,2,0,8
+94731c86,Travis D,Punahou,ess,2,0,8
+94731c86,ZhiyuZhao BISV,BISV HS B,overall,1,0,4
+94731c86,ZhiyuZhao BISV,BISV HS B,ess,0,0,0
+94731c86,ZhiyuZhao BISV,BISV HS B,physics,1,0,4
+94731c86,Alex Zhan,BISV HS B,overall,0,1,-4
+94731c86,Alex Zhan,BISV HS B,math,0,1,-4
+94731c86,Nicholas Black,Punahou,overall,1,0,4
+94731c86,Nicholas Black,Punahou,math,1,0,4
+94731c86,Ty Dutoit,Punahou,overall,0,1,-4
+94731c86,Ty Dutoit,Punahou,chemistry,0,1,-4
+94731c86,Eric G,BISV HS B,overall,3,0,12
+94731c86,Eric G,BISV HS B,chemistry,1,0,4
+94731c86,Eric G,BISV HS B,physics,1,0,4
+94731c86,Eric G,BISV HS B,math,0,0,0
+94731c86,ZhiyuZhao BISV,BISV HS B,chemistry,0,0,0
+94731c86,Eric G,BISV HS B,ess,1,0,4
+94731c86,Timo Ye,BISV HS B,overall,1,0,4
+94731c86,Timo Ye,BISV HS B,other,1,0,4
+99b06de3,Timothy C,University,overall,6,1,20
+99b06de3,Timothy C,University,physics,3,0,12
+99b06de3,Timothy C,University,math,2,1,4
+99b06de3,Stephanie Y,University,overall,3,0,12
+99b06de3,Stephanie Y,University,biology,3,0,12
+99b06de3,Brandon,Jordan,overall,1,0,4
+99b06de3,Brandon,Jordan,chemistry,1,0,4
+99b06de3,Timothy C,University,ess,1,0,4
+99b06de3,Carl L,University,overall,5,0,20
+99b06de3,Carl L,University,physics,1,0,4
+99b06de3,William Chen,Jordan,overall,0,1,-4
+99b06de3,William Chen,Jordan,math,0,1,-4
+99b06de3,Carl L,University,chemistry,3,0,12
+99b06de3,Priya K,University,overall,1,0,4
+99b06de3,Priya K,University,ess,1,0,4
+99b06de3,Carl L,University,math,1,0,4
+99b06de3,Avish B,Jordan,overall,1,1,0
+99b06de3,Avish B,Jordan,ess,0,1,-4
+99b06de3,Max T,Jordan,overall,1,0,4
+99b06de3,Max T,Jordan,biology,1,0,4
+99b06de3,Brandon,Jordan,ess,0,0,0
+99b06de3,Avish B,Jordan,other,1,0,4
+a1e0d1b9,Kensuke O,North Hollywood,overall,4,1,12
+a1e0d1b9,Kensuke O,North Hollywood,physics,1,0,4
+a1e0d1b9,Eddie A,Law Abiding Citizens,overall,9,1,32
+a1e0d1b9,Eddie A,Law Abiding Citizens,math,1,1,0
+a1e0d1b9,Jake R,North Hollywood,overall,2,1,4
+a1e0d1b9,Jake R,North Hollywood,biology,2,1,4
+a1e0d1b9,Eddie A,Law Abiding Citizens,chemistry,4,0,16
+a1e0d1b9,Edward H,Law Abiding Citizens,overall,2,2,0
+a1e0d1b9,Edward H,Law Abiding Citizens,ess,0,1,-4
+a1e0d1b9,Kensuke O,North Hollywood,ess,3,0,12
+a1e0d1b9,Charles H,North Hollywood,overall,1,0,4
+a1e0d1b9,Charles H,North Hollywood,physics,1,0,4
+a1e0d1b9,Minghao G,North Hollywood,overall,2,0,8
+a1e0d1b9,Minghao G,North Hollywood,math,2,0,8
+a1e0d1b9,Edward H,Law Abiding Citizens,biology,2,1,4
+a1e0d1b9,Kensuke O,North Hollywood,chemistry,0,1,-4
+a1e0d1b9,Eddie A,Law Abiding Citizens,physics,2,0,8
+a1e0d1b9,Eddie A,Law Abiding Citizens,ess,1,0,4
+a1e0d1b9,Eddie A,Law Abiding Citizens,other,1,0,4
+acd57251,Annie L,CCA B,overall,3,0,12
+acd57251,Annie L,CCA B,physics,3,0,12
+acd57251,Euan L,CCA B,overall,1,0,4
+acd57251,Euan L,CCA B,math,1,0,4
+acd57251,Shannon H,Arcadia A,overall,3,0,12
+acd57251,Shannon H,Arcadia A,biology,3,0,12
+acd57251,Ethan Wang,Arcadia A,overall,6,0,24
+acd57251,Ethan Wang,Arcadia A,chemistry,4,0,16
+acd57251,Annie L,CCA B,ess,0,0,0
+acd57251,Annie L,CCA B,math,0,0,0
+acd57251,Brandon Z,Arcadia A,overall,2,0,8
+acd57251,Brandon Z,Arcadia A,math,1,0,4
+acd57251,Jamie W,Arcadia A,overall,1,0,4
+acd57251,Jamie W,Arcadia A,ess,1,0,4
+acd57251,Brandon Z,Arcadia A,ess,1,0,4
+acd57251,Ethan Wang,Arcadia A,physics,1,0,4
+acd57251,Ethan Wang,Arcadia A,ess,0,0,0
+acd57251,Ethan Wang,Arcadia A,other,1,0,4
+afcb2561,Shirley V,SSP Warriors,overall,3,4,-4
+afcb2561,Shirley V,SSP Warriors,physics,1,0,4
+afcb2561,Parv S,Foothill,overall,8,0,32
+afcb2561,Parv S,Foothill,math,2,0,8
+afcb2561,Parv S,Foothill,biology,3,0,12
+afcb2561,Shirley V,SSP Warriors,chemistry,1,3,-8
+afcb2561,Shirley V,SSP Warriors,ess,0,1,-4
+afcb2561,Abhee S,Foothill,overall,2,2,0
+afcb2561,Abhee S,Foothill,ess,0,0,0
+afcb2561,Parv S,Foothill,physics,1,0,4
+afcb2561,Abhee S,Foothill,math,1,1,0
+afcb2561,Sneha,SSP Warriors,overall,1,0,4
+afcb2561,Sneha,SSP Warriors,math,1,0,4
+afcb2561,Abhee S,Foothill,chemistry,1,0,4
+afcb2561,Parv S,Foothill,ess,1,0,4
+afcb2561,Shashank V,Foothill,overall,3,0,12
+afcb2561,Shashank V,Foothill,physics,2,0,8
+afcb2561,Shashank V,Foothill,ess,1,0,4
+afcb2561,Abhee S,Foothill,biology,0,1,-4
+afcb2561,Shirley V,SSP Warriors,biology,1,0,4
+afcb2561,Parv S,Foothill,other,1,0,4
+d329e439,Samy E,Chattahoochee A,overall,6,1,20
+d329e439,Samy E,Chattahoochee A,physics,1,0,4
+d329e439,Samy E,Chattahoochee A,math,3,1,8
+d329e439,Oliver Y,Enloe,overall,3,1,8
+d329e439,Oliver Y,Enloe,biology,2,1,4
+d329e439,Aarnav P,Chattahoochee A,overall,4,1,12
+d329e439,Aarnav P,Chattahoochee A,chemistry,1,1,0
+d329e439,Vishruth K,Enloe,overall,4,3,4
+d329e439,Vishruth K,Enloe,chemistry,2,2,0
+d329e439,Vishruth K,Enloe,ess,0,1,-4
+d329e439,Samy E,Chattahoochee A,ess,0,0,0
+d329e439,Vishruth K,Enloe,physics,2,0,8
+d329e439,Oliver Y,Enloe,math,1,0,4
+d329e439,Samy E,Chattahoochee A,chemistry,1,0,4
+d329e439,Matthew D,Enloe,overall,2,0,8
+d329e439,Matthew D,Enloe,ess,2,0,8
+d329e439,Samy E,Chattahoochee A,biology,1,0,4
+d329e439,Aarnav P,Chattahoochee A,physics,1,0,4
+d329e439,Vishruth K,Enloe,math,0,0,0
+d329e439,Aarnav P,Chattahoochee A,biology,1,0,4
+d329e439,Ryan Y,Enloe,overall,0,0,0
+d329e439,Ryan Y,Enloe,ess,0,0,0
+d329e439,Aarnav P,Chattahoochee A,other,1,0,4
+dd9e11e2,Paxton Lin,Arcadia B,overall,4,0,16
+dd9e11e2,Paxton Lin,Arcadia B,physics,2,0,8
+dd9e11e2,Abhishek C,Doral Academy,overall,6,0,24
+dd9e11e2,Abhishek C,Doral Academy,math,3,0,12
+dd9e11e2,Kevin W,Arcadia B,overall,6,1,20
+dd9e11e2,Kevin W,Arcadia B,biology,2,0,8
+dd9e11e2,Neil H,Doral Academy,overall,3,1,8
+dd9e11e2,Neil H,Doral Academy,chemistry,1,0,4
+dd9e11e2,Kevin W,Arcadia B,ess,1,1,0
+dd9e11e2,Shalina Liu,Doral Academy,overall,0,0,0
+dd9e11e2,Shalina Liu,Doral Academy,ess,0,0,0
+dd9e11e2,Abhishek C,Doral Academy,physics,1,0,4
+dd9e11e2,Santiago S,Doral Academy,overall,0,1,-4
+dd9e11e2,Santiago S,Doral Academy,math,0,1,-4
+dd9e11e2,Kevin W,Arcadia B,math,1,0,4
+dd9e11e2,Neil H,Doral Academy,biology,2,1,4
+dd9e11e2,Kevin W,Arcadia B,chemistry,1,0,4
+dd9e11e2,Abhishek C,Doral Academy,ess,2,0,8
+dd9e11e2,Paxton Lin,Arcadia B,chemistry,2,0,8
+dd9e11e2,Kevin W,Arcadia B,physics,1,0,4
+e09fe00f,Owen M,CCA A,overall,10,1,36
+e09fe00f,Owen M,CCA A,physics,2,1,4
+e09fe00f,marianne,Benjamin Franklin,overall,3,0,12
+e09fe00f,marianne,Benjamin Franklin,physics,1,0,4
+e09fe00f,Owen M,CCA A,math,2,0,8
+e09fe00f,Ronald Z,Benjamin Franklin,overall,1,1,0
+e09fe00f,Ronald Z,Benjamin Franklin,biology,1,0,4
+e09fe00f,Ronald Z,Benjamin Franklin,chemistry,0,0,0
+e09fe00f,Owen M,CCA A,chemistry,4,0,16
+e09fe00f,marianne,Benjamin Franklin,ess,0,0,0
+e09fe00f,Owen M,CCA A,ess,1,0,4
+e09fe00f,Alex D,CCA A,overall,4,1,12
+e09fe00f,Alex D,CCA A,biology,1,1,0
+e09fe00f,Alex D,CCA A,ess,2,0,8
+e09fe00f,Ronald Z,Benjamin Franklin,math,0,0,0
+e09fe00f,Ronald Z,Benjamin Franklin,ess,0,1,-4
+e09fe00f,Alex D,CCA A,physics,1,0,4
+e09fe00f,Alex D,CCA A,math,0,0,0
+e09fe00f,marianne,Benjamin Franklin,math,1,0,4
+e09fe00f,marianne,Benjamin Franklin,biology,1,0,4
+e09fe00f,marianne,Benjamin Franklin,chemistry,0,0,0
+e09fe00f,Owen M,CCA A,other,1,0,4
+e165b8e0,Sohil,Lynbroke,overall,11,1,40
+e165b8e0,Sohil,Lynbroke,physics,4,0,16
+e165b8e0,Sohil,Lynbroke,math,3,0,12
+e165b8e0,Angelina Y,Re2rement Home,overall,5,0,20
+e165b8e0,Angelina Y,Re2rement Home,biology,4,0,16
+e165b8e0,Sohil,Lynbroke,chemistry,3,0,12
+e165b8e0,Sohil,Lynbroke,ess,1,0,4
+e165b8e0,Angelina Y,Re2rement Home,ess,0,0,0
+e165b8e0,daniel l,Re2rement Home,overall,4,3,4
+e165b8e0,daniel l,Re2rement Home,math,1,1,0
+e165b8e0,daniel l,Re2rement Home,chemistry,0,1,-4
+e165b8e0,daniel l,Re2rement Home,ess,2,1,4
+e165b8e0,Angelina Y,Re2rement Home,chemistry,1,0,4
+e165b8e0,Sohil,Lynbroke,biology,0,1,-4
+e165b8e0,daniel l,Re2rement Home,other,1,0,4
+16744da2,Samuel W,Montgomery Blair,overall,6,0,24
+16744da2,Samuel W,Montgomery Blair,physics,1,0,4
+16744da2,Chris W,Montgomery Blair,overall,3,1,8
+16744da2,Chris W,Montgomery Blair,math,0,1,-4
+16744da2,Abhishek C,Doral Academy,overall,4,0,16
+16744da2,Abhishek C,Doral Academy,math,4,0,16
+16744da2,Neil H,Doral Academy,overall,1,1,0
+16744da2,Neil H,Doral Academy,biology,1,1,0
+16744da2,Samuel W,Montgomery Blair,biology,2,0,8
+16744da2,Sam E,Montgomery Blair,overall,4,1,12
+16744da2,Sam E,Montgomery Blair,chemistry,2,0,8
+16744da2,Sam E,Montgomery Blair,ess,1,0,4
+16744da2,Chris W,Montgomery Blair,physics,3,0,12
+16744da2,Santiago S,Doral Academy,overall,1,0,4
+16744da2,Santiago S,Doral Academy,chemistry,1,0,4
+16744da2,Samuel W,Montgomery Blair,ess,2,0,8
+16744da2,Samuel W,Montgomery Blair,chemistry,1,0,4
+16744da2,Henry L,Montgomery Blair,overall,1,0,4
+16744da2,Henry L,Montgomery Blair,ess,1,0,4
+16744da2,Sam E,Montgomery Blair,math,0,1,-4
+16744da2,Sam E,Montgomery Blair,biology,1,0,4
+16744da2,Sam E,Montgomery Blair,other,0,0,0
+16744da2,Shalina Liu,Doral Academy,overall,1,0,4
+16744da2,Shalina Liu,Doral Academy,other,1,0,4
+22c2b0f0,Charles H,North Hollywood,overall,4,2,8
+22c2b0f0,Charles H,North Hollywood,physics,1,1,0
+22c2b0f0,Dennis J,WWPS C,overall,6,0,24
+22c2b0f0,Dennis J,WWPS C,physics,3,0,12
+22c2b0f0,Dennis J,WWPS C,math,0,0,0
+22c2b0f0,Minghao G,North Hollywood,overall,4,0,16
+22c2b0f0,Minghao G,North Hollywood,math,4,0,16
+22c2b0f0,Jake R,North Hollywood,overall,3,0,12
+22c2b0f0,Jake R,North Hollywood,biology,3,0,12
+22c2b0f0,Charles H,North Hollywood,chemistry,2,0,8
+22c2b0f0,Iris G,WWPS C,overall,0,0,0
+22c2b0f0,Iris G,WWPS C,chemistry,0,0,0
+22c2b0f0,Kensuke O,North Hollywood,overall,3,1,8
+22c2b0f0,Kensuke O,North Hollywood,ess,2,0,8
+22c2b0f0,Kensuke O,North Hollywood,chemistry,1,0,4
+22c2b0f0,Charles H,North Hollywood,ess,1,0,4
+22c2b0f0,Kensuke O,North Hollywood,physics,0,1,-4
+22c2b0f0,Charles H,North Hollywood,biology,0,1,-4
+22c2b0f0,Dennis J,WWPS C,biology,1,0,4
+22c2b0f0,Dennis J,WWPS C,ess,1,0,4
+22c2b0f0,Kensuke O,North Hollywood,other,0,0,0
+22c2b0f0,Dennis J,WWPS C,other,1,0,4
+3b5e2939,caleb w,Wheaton,overall,3,2,4
+3b5e2939,caleb w,Wheaton,physics,1,1,0
+3b5e2939,Owen M,CCA A,overall,6,0,24
+3b5e2939,Owen M,CCA A,physics,3,0,12
+3b5e2939,Alex W,Wheaton,overall,5,1,16
+3b5e2939,Alex W,Wheaton,math,0,0,0
+3b5e2939,Owen M,CCA A,math,2,0,8
+3b5e2939,Andrew Z,Wheaton,overall,1,1,0
+3b5e2939,Andrew Z,Wheaton,biology,0,1,-4
+3b5e2939,Alex W,Wheaton,chemistry,2,0,8
+3b5e2939,Alex W,Wheaton,ess,2,0,8
+3b5e2939,ethan p,Wheaton,overall,0,1,-4
+3b5e2939,ethan p,Wheaton,biology,0,1,-4
+3b5e2939,Alex W,Wheaton,physics,0,0,0
+3b5e2939,caleb w,Wheaton,math,2,0,8
+3b5e2939,Alex W,Wheaton,biology,1,0,4
+3b5e2939,Owen M,CCA A,chemistry,1,0,4
+3b5e2939,Andrew Z,Wheaton,ess,1,0,4
+3b5e2939,Alex D,CCA A,overall,2,0,8
+3b5e2939,Alex D,CCA A,biology,1,0,4
+3b5e2939,caleb w,Wheaton,chemistry,0,1,-4
+3b5e2939,Alex W,Wheaton,other,0,1,-4
+3b5e2939,Alex D,CCA A,other,1,0,4
+502ceba2,Roshan A,MSJ A,overall,4,5,-4
+502ceba2,Roshan A,MSJ A,physics,1,2,-4
+502ceba2,Monish S,WWPS A,overall,6,1,20
+502ceba2,Monish S,WWPS A,physics,2,1,4
+502ceba2,Monish S,WWPS A,math,2,0,8
+502ceba2,Arjun D,WWPS A,overall,5,0,20
+502ceba2,Arjun D,WWPS A,biology,3,0,12
+502ceba2,Advaith M,MSJ A,overall,4,1,12
+502ceba2,Advaith M,MSJ A,chemistry,1,0,4
+502ceba2,Advaith M,MSJ A,ess,1,0,4
+502ceba2,Roshan A,MSJ A,chemistry,1,2,-4
+502ceba2,Roshan A,MSJ A,ess,1,1,0
+502ceba2,Arjun D,WWPS A,ess,2,0,8
+502ceba2,Advaith M,MSJ A,physics,1,0,4
+502ceba2,Advaith M,MSJ A,math,1,0,4
+502ceba2,Monish S,WWPS A,chemistry,1,0,4
+502ceba2,Roshan A,MSJ A,math,1,0,4
+502ceba2,Monish S,WWPS A,biology,1,0,4
+502ceba2,Advaith M,MSJ A,other,0,1,-4
+502ceba2,Monish S,WWPS A,other,0,0,0
+50ab872d,Shannon I,School of Biology,overall,8,1,28
+50ab872d,Shannon I,School of Biology,physics,3,1,8
+50ab872d,Arjun G.,MSJ C,overall,3,0,12
+50ab872d,Arjun G.,MSJ C,physics,1,0,4
+50ab872d,Arjun G.,MSJ C,math,2,0,8
+50ab872d,Lucas L,School of Biology,overall,1,2,-4
+50ab872d,Lucas L,School of Biology,biology,1,0,4
+50ab872d,Shannon I,School of Biology,chemistry,4,0,16
+50ab872d,Lucas L,School of Biology,ess,0,1,-4
+50ab872d,Benjamin W.,MSJ C,overall,2,0,8
+50ab872d,Benjamin W.,MSJ C,ess,1,0,4
+50ab872d,Eshan B,MSJ C,overall,0,0,0
+50ab872d,Eshan B,MSJ C,physics,0,0,0
+50ab872d,Lucas L,School of Biology,math,0,1,-4
+50ab872d,Shannon I,School of Biology,ess,1,0,4
+50ab872d,Enming Z,MSJ C,overall,2,0,8
+50ab872d,Enming Z,MSJ C,physics,0,0,0
+50ab872d,Nevin J,School of Biology,overall,1,0,4
+50ab872d,Nevin J,School of Biology,biology,1,0,4
+50ab872d,Eshan B,MSJ C,ess,0,0,0
+50ab872d,Alvin P,MSJ C,overall,1,0,4
+50ab872d,Alvin P,MSJ C,math,1,0,4
+50ab872d,Benjamin W.,MSJ C,biology,1,0,4
+50ab872d,Enming Z,MSJ C,chemistry,0,0,0
+50ab872d,Enming Z,MSJ C,ess,1,0,4
+50ab872d,Enming Z,MSJ C,other,1,0,4
+53c94e44,Austin Z,Arcadia B,overall,2,0,8
+53c94e44,Austin Z,Arcadia B,physics,2,0,8
+53c94e44,Kevin W,Arcadia B,overall,10,0,40
+53c94e44,Kevin W,Arcadia B,math,3,0,12
+53c94e44,Paxton Lin,Arcadia B,overall,4,0,16
+53c94e44,Paxton Lin,Arcadia B,biology,2,0,8
+53c94e44,Kevin W,Arcadia B,chemistry,2,0,8
+53c94e44,Paxton Lin,Arcadia B,ess,1,0,4
+53c94e44,Kevin W,Arcadia B,physics,2,0,8
+53c94e44,Kevin W,Arcadia B,biology,2,0,8
+53c94e44,Paxton Lin,Arcadia B,chemistry,1,0,4
+53c94e44,Kevin W,Arcadia B,ess,1,0,4
+53c94e44,Charith N,Collierville HS A,overall,3,2,4
+53c94e44,Charith N,Collierville HS A,physics,0,2,-8
+53c94e44,Santhosh V,Collierville HS A,overall,0,1,-4
+53c94e44,Santhosh V,Collierville HS A,ess,0,1,-4
+53c94e44,Jacob L,Collierville HS A,overall,0,0,0
+53c94e44,Jacob L,Collierville HS A,math,0,0,0
+53c94e44,Charith N,Collierville HS A,chemistry,1,0,4
+53c94e44,Charith N,Collierville HS A,ess,1,0,4
+53c94e44,Charith N,Collierville HS A,other,1,0,4
+5531249f,Tiger,Royal Hogs,overall,0,1,-4
+5531249f,Tiger,Royal Hogs,physics,0,1,-4
+5531249f,Avish B,Jordan,overall,2,0,8
+5531249f,Avish B,Jordan,physics,1,0,4
+5531249f,William Chen,Jordan,overall,1,0,4
+5531249f,William Chen,Jordan,math,1,0,4
+5531249f,Achuth V,Royal Hogs,overall,3,1,8
+5531249f,Achuth V,Royal Hogs,biology,2,1,4
+5531249f,Max T,Jordan,overall,1,0,4
+5531249f,Max T,Jordan,biology,1,0,4
+5531249f,bluewater16,Royal Hogs,overall,5,1,16
+5531249f,bluewater16,Royal Hogs,chemistry,1,1,0
+5531249f,Brandon,Jordan,overall,1,0,4
+5531249f,Brandon,Jordan,chemistry,0,0,0
+5531249f,sumin,Royal Hogs,overall,6,0,24
+5531249f,sumin,Royal Hogs,ess,3,0,12
+5531249f,bluewater16,Royal Hogs,math,3,0,12
+5531249f,sumin,Royal Hogs,biology,1,0,4
+5531249f,Achuth V,Royal Hogs,ess,1,0,4
+5531249f,bluewater16,Royal Hogs,physics,1,0,4
+5531249f,sumin,Royal Hogs,chemistry,2,0,8
+5531249f,Brandon,Jordan,physics,1,0,4
+5531249f,sumin,Royal Hogs,other,0,0,0
+5531249f,Avish B,Jordan,other,1,0,4
+56f38de9,Eric G,BISV HS B,overall,0,1,-4
+56f38de9,Eric G,BISV HS B,physics,0,1,-4
+56f38de9,akhil,ASFA,overall,12,3,36
+56f38de9,akhil,ASFA,physics,3,1,8
+56f38de9,Raymond,ASFA,overall,4,0,16
+56f38de9,Raymond,ASFA,math,2,0,8
+56f38de9,akhil,ASFA,biology,3,0,12
+56f38de9,akhil,ASFA,chemistry,2,0,8
+56f38de9,Eric G,BISV HS B,chemistry,0,0,0
+56f38de9,akhil,ASFA,ess,4,0,16
+56f38de9,Lucas Q,BISV HS B,overall,3,0,12
+56f38de9,Lucas Q,BISV HS B,math,2,0,8
+56f38de9,Raymond,ASFA,biology,1,0,4
+56f38de9,Raymond,ASFA,chemistry,1,0,4
+56f38de9,Lucas Q,BISV HS B,physics,1,0,4
+56f38de9,akhil,ASFA,math,0,1,-4
+56f38de9,akhil,ASFA,other,0,1,-4
+56f38de9,Lucas Q,BISV HS B,other,0,0,0
+6125c52c,Leo Y,North Allegheny,overall,5,2,12
+6125c52c,Leo Y,North Allegheny,physics,1,1,0
+6125c52c,Annie L,CCA B,overall,1,0,4
+6125c52c,Annie L,CCA B,physics,1,0,4
+6125c52c,Jason L,North Allegheny,overall,5,0,20
+6125c52c,Jason L,North Allegheny,math,2,0,8
+6125c52c,Kaartic M,North Allegheny,overall,3,0,12
+6125c52c,Kaartic M,North Allegheny,biology,3,0,12
+6125c52c,Leo Y,North Allegheny,chemistry,2,0,8
+6125c52c,Andrew F,North Allegheny,overall,5,0,20
+6125c52c,Andrew F,North Allegheny,ess,3,0,12
+6125c52c,Jason L,North Allegheny,physics,2,0,8
+6125c52c,Andrew F,North Allegheny,chemistry,1,0,4
+6125c52c,Leo Y,North Allegheny,ess,1,0,4
+6125c52c,Andrew F,North Allegheny,math,1,0,4
+6125c52c,Leo Y,North Allegheny,biology,1,0,4
+6125c52c,Leo Y,North Allegheny,math,0,1,-4
+6125c52c,Jason L,North Allegheny,chemistry,1,0,4
+6125c52c,Andrew F,North Allegheny,other,0,0,0
+6125c52c,Annie L,CCA B,other,0,0,0
+74cb5227,Parv S,Foothill,overall,0,2,-8
+74cb5227,Parv S,Foothill,physics,0,1,-4
+74cb5227,Praneel A,MAAOC,overall,12,0,48
+74cb5227,Praneel A,MAAOC,physics,4,0,16
+74cb5227,Abhee S,Foothill,overall,1,3,-8
+74cb5227,Abhee S,Foothill,math,1,0,4
+74cb5227,Shashank V,Foothill,overall,1,1,0
+74cb5227,Shashank V,Foothill,biology,1,0,4
+74cb5227,Abhinav KSK,MAAOC,overall,2,0,8
+74cb5227,Abhinav KSK,MAAOC,chemistry,2,0,8
+74cb5227,Shashank V,Foothill,ess,0,1,-4
+74cb5227,Arman A,MAAOC,overall,3,0,12
+74cb5227,Arman A,MAAOC,ess,2,0,8
+74cb5227,Praneel A,MAAOC,math,3,0,12
+74cb5227,Arman A,MAAOC,biology,1,0,4
+74cb5227,Praneel A,MAAOC,biology,1,0,4
+74cb5227,Praneel A,MAAOC,chemistry,2,0,8
+74cb5227,Praneel A,MAAOC,ess,2,0,8
+74cb5227,Abhee S,Foothill,physics,0,1,-4
+74cb5227,Abhee S,Foothill,biology,0,1,-4
+74cb5227,Kevin F,MAAOC,overall,2,0,8
+74cb5227,Kevin F,MAAOC,biology,1,0,4
+74cb5227,Parv S,Foothill,ess,0,1,-4
+74cb5227,Abhee S,Foothill,other,0,1,-4
+74cb5227,Kevin F,MAAOC,other,1,0,4
+7c536ef3,connor z,Clang! Cloom! Clash!,overall,2,1,4
+7c536ef3,connor z,Clang! Cloom! Clash!,physics,0,1,-4
+7c536ef3,Tahmeed S,Collierville HS B,overall,2,0,8
+7c536ef3,Tahmeed S,Collierville HS B,physics,0,0,0
+7c536ef3,Vishnu M,Clang! Cloom! Clash!,overall,5,1,16
+7c536ef3,Vishnu M,Clang! Cloom! Clash!,math,3,0,12
+7c536ef3,suzuko o,Clang! Cloom! Clash!,overall,7,3,16
+7c536ef3,suzuko o,Clang! Cloom! Clash!,biology,2,2,0
+7c536ef3,suzuko o,Clang! Cloom! Clash!,other,0,1,-4
+7c536ef3,Tahmeed S,Collierville HS B,other,1,0,4
+7c536ef3,suzuko o,Clang! Cloom! Clash!,ess,2,0,8
+7c536ef3,Connor Chang,Clang! Cloom! Clash!,overall,1,0,4
+7c536ef3,Connor Chang,Clang! Cloom! Clash!,physics,1,0,4
+7c536ef3,suzuko o,Clang! Cloom! Clash!,math,1,0,4
+7c536ef3,Vishnu M,Clang! Cloom! Clash!,chemistry,1,0,4
+7c536ef3,Vishnu M,Clang! Cloom! Clash!,physics,1,0,4
+7c536ef3,Tahmeed S,Collierville HS B,biology,1,0,4
+7c536ef3,suzuko o,Clang! Cloom! Clash!,chemistry,1,0,4
+7c536ef3,connor z,Clang! Cloom! Clash!,ess,1,0,4
+7c536ef3,suzuko o,Clang! Cloom! Clash!,physics,1,0,4
+7c536ef3,connor z,Clang! Cloom! Clash!,chemistry,1,0,4
+7c536ef3,Tahmeed S,Collierville HS B,chemistry,0,0,0
+7c536ef3,Vishnu M,Clang! Cloom! Clash!,ess,0,1,-4
+807b92a0,Caroline H,Chattahoochee B,overall,2,1,4
+807b92a0,Caroline H,Chattahoochee B,physics,0,1,-4
+807b92a0,Sohil,Lynbroke,overall,16,0,64
+807b92a0,Sohil,Lynbroke,physics,4,0,16
+807b92a0,Sohil,Lynbroke,math,4,0,16
+807b92a0,Caroline H,Chattahoochee B,biology,0,0,0
+807b92a0,Sohil,Lynbroke,chemistry,4,0,16
+807b92a0,Caroline H,Chattahoochee B,ess,2,0,8
+807b92a0,Sohil,Lynbroke,ess,2,0,8
+807b92a0,Sohil,Lynbroke,biology,2,0,8
+807b92a0,Sohil,Lynbroke,other,0,0,0
+807b92a0,Caroline H,Chattahoochee B,other,0,0,0
+8209527d,Matthew D,Enloe,overall,3,1,8
+8209527d,Matthew D,Enloe,physics,2,1,4
+8209527d,Alex D,Middleton,overall,5,0,20
+8209527d,Alex D,Middleton,physics,1,0,4
+8209527d,matthew w,Middleton,overall,2,0,8
+8209527d,matthew w,Middleton,math,0,0,0
+8209527d,Oliver Y,Enloe,overall,2,1,4
+8209527d,Oliver Y,Enloe,biology,2,1,4
+8209527d,matthew w,Middleton,biology,1,0,4
+8209527d,Vishruth K,Enloe,overall,6,1,20
+8209527d,Vishruth K,Enloe,chemistry,4,0,16
+8209527d,Alex D,Middleton,ess,2,0,8
+8209527d,Aditya B,Middleton,overall,0,1,-4
+8209527d,Aditya B,Middleton,physics,0,1,-4
+8209527d,Vishruth K,Enloe,math,1,0,4
+8209527d,Vishruth K,Enloe,ess,0,1,-4
+8209527d,matthew w,Middleton,ess,1,0,4
+8209527d,Matthew D,Enloe,math,1,0,4
+8209527d,Alex D,Middleton,biology,1,0,4
+8209527d,Vishruth K,Enloe,physics,1,0,4
+8209527d,Alex D,Middleton,math,1,0,4
+8209527d,Alex D,Middleton,other,0,0,0
+8209527d,Vishruth K,Enloe,other,0,0,0
+8a59d8e6,Ronald Z,Benjamin Franklin,overall,3,1,8
+8a59d8e6,Ronald Z,Benjamin Franklin,physics,0,1,-4
+8a59d8e6,daniel l,Re2rement Home,overall,6,0,24
+8a59d8e6,daniel l,Re2rement Home,physics,2,0,8
+8a59d8e6,daniel l,Re2rement Home,math,2,0,8
+8a59d8e6,Angelina Y,Re2rement Home,overall,7,0,28
+8a59d8e6,Angelina Y,Re2rement Home,biology,2,0,8
+8a59d8e6,Angelina Y,Re2rement Home,chemistry,2,0,8
+8a59d8e6,Angelina Y,Re2rement Home,ess,3,0,12
+8a59d8e6,Ronald Z,Benjamin Franklin,chemistry,1,0,4
+8a59d8e6,marianne,Benjamin Franklin,overall,0,1,-4
+8a59d8e6,marianne,Benjamin Franklin,ess,0,1,-4
+8a59d8e6,Ronald Z,Benjamin Franklin,biology,1,0,4
+8a59d8e6,marianne,Benjamin Franklin,physics,0,0,0
+8a59d8e6,Ronald Z,Benjamin Franklin,math,1,0,4
+8a59d8e6,daniel l,Re2rement Home,chemistry,1,0,4
+8a59d8e6,daniel l,Re2rement Home,ess,1,0,4
+8a59d8e6,Angelina Y,Re2rement Home,other,0,0,0
+8a59d8e6,Andrew B,Benjamin Franklin,overall,0,0,0
+8a59d8e6,Andrew B,Benjamin Franklin,other,0,0,0
+91775ade,Shaun I,VMATHs,overall,7,2,20
+91775ade,Shaun I,VMATHs,physics,1,1,0
+91775ade,Andrew W,Palo Alto,overall,7,0,28
+91775ade,Andrew W,Palo Alto,physics,2,0,8
+91775ade,Varun G,VMATHs,overall,2,0,8
+91775ade,Varun G,VMATHs,math,2,0,8
+91775ade,Andrew W,Palo Alto,biology,2,0,8
+91775ade,Andrew W,Palo Alto,chemistry,1,0,4
+91775ade,Kevin P,Palo Alto,overall,3,1,8
+91775ade,Kevin P,Palo Alto,ess,2,1,4
+91775ade,Shaun I,VMATHs,ess,2,1,4
+91775ade,marty h,VMATHs,overall,1,0,4
+91775ade,marty h,VMATHs,physics,1,0,4
+91775ade,Andrew W,Palo Alto,math,2,0,8
+91775ade,Shaun I,VMATHs,biology,2,0,8
+91775ade,Kevin P,Palo Alto,chemistry,1,0,4
+91775ade,Shaun I,VMATHs,chemistry,2,0,8
+91775ade,Jacob G,Palo Alto,overall,0,1,-4
+91775ade,Jacob G,Palo Alto,chemistry,0,1,-4
+91775ade,Shaun I,VMATHs,other,0,0,0
+91775ade,Kevin P,Palo Alto,other,0,0,0
+98440b96,Bryce T,SGVG,overall,4,3,4
+98440b96,Bryce T,SGVG,physics,1,1,0
+98440b96,Sneha,SSP Warriors,overall,1,0,4
+98440b96,Sneha,SSP Warriors,physics,1,0,4
+98440b96,Darius S,SGVG,overall,4,0,16
+98440b96,Darius S,SGVG,math,3,0,12
+98440b96,Judy T,SGVG,overall,2,0,8
+98440b96,Judy T,SGVG,biology,2,0,8
+98440b96,Shirley V,SSP Warriors,overall,2,1,4
+98440b96,Shirley V,SSP Warriors,chemistry,1,1,0
+98440b96,Tianhan H,SGVG,overall,2,0,8
+98440b96,Tianhan H,SGVG,chemistry,1,0,4
+98440b96,Bryce T,SGVG,ess,2,1,4
+98440b96,Shirley V,SSP Warriors,math,0,0,0
+98440b96,Tianhan H,SGVG,math,1,0,4
+98440b96,Sneha,SSP Warriors,ess,0,0,0
+98440b96,Shirley V,SSP Warriors,physics,0,0,0
+98440b96,Sneha,SSP Warriors,math,0,0,0
+98440b96,Bryce T,SGVG,biology,0,1,-4
+98440b96,Shirley V,SSP Warriors,biology,1,0,4
+98440b96,Bryce T,SGVG,chemistry,1,0,4
+98440b96,Darius S,SGVG,ess,1,0,4
+98440b96,Tianhan H,SGVG,physics,0,0,0
+98440b96,Shirley V,SSP Warriors,other,0,0,0
+98440b96,Darius S,SGVG,other,0,0,0
+a037900f,Ethan Wang,Arcadia A,overall,3,1,8
+a037900f,Ethan Wang,Arcadia A,physics,0,1,-4
+a037900f,Rohan G,School of Geology,overall,7,2,20
+a037900f,Rohan G,School of Geology,physics,3,0,12
+a037900f,Rohan G,School of Geology,math,2,1,4
+a037900f,Kian D,School of Geology,overall,6,2,16
+a037900f,Kian D,School of Geology,biology,3,0,12
+a037900f,Kian D,School of Geology,chemistry,3,0,12
+a037900f,Rohan G,School of Geology,ess,2,1,4
+a037900f,Brandon Z,Arcadia A,overall,0,0,0
+a037900f,Brandon Z,Arcadia A,math,0,0,0
+a037900f,Kian D,School of Geology,ess,0,1,-4
+a037900f,Ethan Wang,Arcadia A,ess,1,0,4
+a037900f,Ethan Wang,Arcadia A,biology,1,0,4
+a037900f,Ethan Wang,Arcadia A,chemistry,1,0,4
+a037900f,Brandon Z,Arcadia A,ess,0,0,0
+a037900f,Kian D,School of Geology,physics,0,1,-4
+a037900f,Jamie W,Arcadia A,overall,0,1,-4
+a037900f,Jamie W,Arcadia A,math,0,1,-4
+a037900f,Kian D,School of Geology,other,0,0,0
+a037900f,Ethan Wang,Arcadia A,other,0,0,0
+b6c4ecfc,Ethan Z,School of Chemistry,overall,12,2,40
+b6c4ecfc,Ethan Z,School of Chemistry,physics,3,1,8
+b6c4ecfc,Keene K,School of Chemistry,overall,2,0,8
+b6c4ecfc,Keene K,School of Chemistry,math,1,0,4
+b6c4ecfc,Keene K,School of Chemistry,chemistry,1,0,4
+b6c4ecfc,Ethan Z,School of Chemistry,ess,2,1,4
+b6c4ecfc,Daniel Y,Round Rock,overall,1,2,-4
+b6c4ecfc,Daniel Y,Round Rock,physics,0,0,0
+b6c4ecfc,Ethan Z,School of Chemistry,math,3,0,12
+b6c4ecfc,Ethan Z,School of Chemistry,biology,1,0,4
+b6c4ecfc,Haru G,Round Rock,overall,1,0,4
+b6c4ecfc,Haru G,Round Rock,ess,0,0,0
+b6c4ecfc,Daniel Y,Round Rock,math,0,0,0
+b6c4ecfc,Daniel Y,Round Rock,biology,1,0,4
+b6c4ecfc,Ethan Z,School of Chemistry,chemistry,2,0,8
+b6c4ecfc,Daniel Y,Round Rock,ess,0,1,-4
+b6c4ecfc,Haru G,Round Rock,biology,1,0,4
+b6c4ecfc,Daniel Y,Round Rock,chemistry,0,1,-4
+b6c4ecfc,Ethan Z,School of Chemistry,other,1,0,4
+b87fea5b,Jason L,WWPN,overall,2,0,8
+b87fea5b,Jason L,WWPN,physics,2,0,8
+b87fea5b,Easton W,WWPN,overall,5,0,20
+b87fea5b,Easton W,WWPN,math,1,0,4
+b87fea5b,Easton W,WWPN,biology,2,0,8
+b87fea5b,Easton W,WWPN,chemistry,1,0,4
+b87fea5b,Aayan Ghosh,WWPS B,overall,1,0,4
+b87fea5b,Aayan Ghosh,WWPS B,chemistry,1,0,4
+b87fea5b,Aldric B,WWPN,overall,9,0,36
+b87fea5b,Aldric B,WWPN,ess,4,0,16
+b87fea5b,Aldric B,WWPN,math,2,0,8
+b87fea5b,Aldric B,WWPN,biology,1,0,4
+b87fea5b,Aldric B,WWPN,chemistry,2,0,8
+b87fea5b,Easton W,WWPN,physics,1,0,4
+b87fea5b,Aayan Ghosh,WWPS B,physics,0,0,0
+b87fea5b,Aayan Ghosh,WWPS B,math,0,0,0
+b87fea5b,Aayush K.,WWPN,overall,1,0,4
+b87fea5b,Aayush K.,WWPN,biology,1,0,4
+b87fea5b,Aayan Ghosh,WWPS B,other,0,0,0
+b87fea5b,Easton W,WWPN,other,0,0,0
+bad3c722,Ryan K,Shallow Walk A,overall,10,1,36
+bad3c722,Ryan K,Shallow Walk A,physics,2,0,8
+bad3c722,Riyan N,Shallow Walk A,overall,1,1,0
+bad3c722,Riyan N,Shallow Walk A,math,0,1,-4
+bad3c722,Naman S,BISV HS A,overall,2,0,8
+bad3c722,Naman S,BISV HS A,math,2,0,8
+bad3c722,Larry Z,BISV HS A,overall,2,1,4
+bad3c722,Larry Z,BISV HS A,biology,1,1,0
+bad3c722,Ryan K,Shallow Walk A,biology,2,0,8
+bad3c722,Ryan K,Shallow Walk A,chemistry,4,0,16
+bad3c722,Ryan K,Shallow Walk A,ess,1,1,0
+bad3c722,Ryan K,Shallow Walk A,math,1,0,4
+bad3c722,Larry Z,BISV HS A,ess,1,0,4
+bad3c722,Riyan N,Shallow Walk A,physics,1,0,4
+bad3c722,Zanda Z,BISV HS A,overall,1,0,4
+bad3c722,Zanda Z,BISV HS A,physics,1,0,4
+bad3c722,Liam T,BISV HS A,overall,1,0,4
+bad3c722,Liam T,BISV HS A,ess,1,0,4
+bad3c722,Rish B.,Shallow Walk A,overall,1,0,4
+bad3c722,Rish B.,Shallow Walk A,math,1,0,4
+bad3c722,Nimit A,Shallow Walk A,overall,0,0,0
+bad3c722,Nimit A,Shallow Walk A,other,0,0,0
+bad3c722,Naman S,BISV HS A,other,0,0,0
+c12699df,Eddie A,Law Abiding Citizens,overall,10,3,28
+c12699df,Eddie A,Law Abiding Citizens,physics,1,2,-4
+c12699df,Rutvik A,MSJ B,overall,5,1,16
+c12699df,Rutvik A,MSJ B,physics,3,0,12
+c12699df,Rutvik A,MSJ B,math,2,0,8
+c12699df,Eddie A,Law Abiding Citizens,math,2,1,4
+c12699df,Anish A,MSJ B,overall,0,1,-4
+c12699df,Anish A,MSJ B,biology,0,1,-4
+c12699df,Edward H,Law Abiding Citizens,overall,4,1,12
+c12699df,Edward H,Law Abiding Citizens,biology,2,0,8
+c12699df,Eddie A,Law Abiding Citizens,chemistry,4,0,16
+c12699df,Ishaan K,MSJ B,overall,1,2,-4
+c12699df,Ishaan K,MSJ B,ess,1,2,-4
+c12699df,Edward H,Law Abiding Citizens,ess,2,0,8
+c12699df,Edward H,Law Abiding Citizens,physics,0,1,-4
+c12699df,Eddie A,Law Abiding Citizens,biology,2,0,8
+c12699df,Eddie A,Law Abiding Citizens,ess,1,0,4
+c12699df,Rutvik A,MSJ B,other,0,1,-4
+c12699df,Edward H,Law Abiding Citizens,other,0,0,0
+c42979a2,Likhith M,Gargy Bomy,overall,5,1,16
+c42979a2,Likhith M,Gargy Bomy,physics,1,1,0
+c42979a2,Chris Z,Chattahoochee A,overall,1,0,4
+c42979a2,Chris Z,Chattahoochee A,physics,0,0,0
+c42979a2,Likhith M,Gargy Bomy,math,4,0,16
+c42979a2,Abhinav A,Gargy Bomy,overall,7,3,16
+c42979a2,Abhinav A,Gargy Bomy,biology,2,1,4
+c42979a2,Abhinav A,Gargy Bomy,chemistry,2,1,4
+c42979a2,Abhinav A,Gargy Bomy,ess,2,1,4
+c42979a2,Samy E,Chattahoochee A,overall,1,1,0
+c42979a2,Samy E,Chattahoochee A,ess,1,0,4
+c42979a2,Abhinav A,Gargy Bomy,physics,1,0,4
+c42979a2,Samy E,Chattahoochee A,biology,0,1,-4
+c42979a2,Chris Z,Chattahoochee A,chemistry,1,0,4
+c42979a2,Samy E,Chattahoochee A,physics,0,0,0
+c42979a2,Aarnav P,Chattahoochee A,overall,2,0,8
+c42979a2,Aarnav P,Chattahoochee A,chemistry,1,0,4
+c42979a2,Aarnav P,Chattahoochee A,other,1,0,4
+e5d4cab9,Timothy C,University,overall,10,2,32
+e5d4cab9,Timothy C,University,physics,3,1,8
+e5d4cab9,Travis D,Punahou,overall,2,1,4
+e5d4cab9,Travis D,Punahou,physics,1,0,4
+e5d4cab9,Timothy C,University,math,4,0,16
+e5d4cab9,Stephanie Y,University,overall,1,0,4
+e5d4cab9,Stephanie Y,University,biology,1,0,4
+e5d4cab9,Travis D,Punahou,chemistry,1,0,4
+e5d4cab9,Priya K,University,overall,3,0,12
+e5d4cab9,Priya K,University,ess,3,0,12
+e5d4cab9,Luke Itomura,Punahou,overall,2,0,8
+e5d4cab9,Luke Itomura,Punahou,biology,1,0,4
+e5d4cab9,Carl L,University,overall,1,0,4
+e5d4cab9,Carl L,University,chemistry,1,0,4
+e5d4cab9,Luke Itomura,Punahou,ess,1,0,4
+e5d4cab9,Timothy C,University,biology,1,1,0
+e5d4cab9,Timothy C,University,chemistry,2,0,8
+e5d4cab9,Travis D,Punahou,other,0,1,-4
+e5d4cab9,Timothy C,University,other,0,0,0
+03401cba,Rohan G,School of Geology,overall,7,4,12
+03401cba,Rohan G,School of Geology,physics,3,1,8
+03401cba,Rohan G,School of Geology,math,3,1,8
+03401cba,Andrew F,North Allegheny,overall,1,1,0
+03401cba,Andrew F,North Allegheny,math,1,0,4
+03401cba,Kian D,School of Geology,overall,7,0,28
+03401cba,Kian D,School of Geology,biology,3,0,12
+03401cba,Rohan G,School of Geology,chemistry,0,1,-4
+03401cba,Leo Y,North Allegheny,overall,2,0,8
+03401cba,Leo Y,North Allegheny,chemistry,0,0,0
+03401cba,Leo Y,North Allegheny,ess,2,0,8
+03401cba,Kian D,School of Geology,chemistry,3,0,12
+03401cba,Jason L,North Allegheny,overall,1,0,4
+03401cba,Jason L,North Allegheny,physics,1,0,4
+03401cba,Rohan G,School of Geology,ess,1,0,4
+03401cba,Kaartic M,North Allegheny,overall,2,0,8
+03401cba,Kaartic M,North Allegheny,biology,1,0,4
+03401cba,Andrew F,North Allegheny,ess,0,1,-4
+03401cba,Kian D,School of Geology,ess,1,0,4
+03401cba,Rohan G,School of Geology,other,0,1,-4
+03401cba,Kaartic M,North Allegheny,other,1,0,4
+0a2f9c1c,akhil,ASFA,overall,14,3,44
+0a2f9c1c,akhil,ASFA,physics,3,0,12
+0a2f9c1c,Raymond,ASFA,overall,1,2,-4
+0a2f9c1c,Raymond,ASFA,math,0,2,-8
+0a2f9c1c,William Chen,Jordan,overall,1,1,0
+0a2f9c1c,William Chen,Jordan,math,1,1,0
+0a2f9c1c,akhil,ASFA,biology,4,0,16
+0a2f9c1c,akhil,ASFA,chemistry,1,2,-4
+0a2f9c1c,Brandon,Jordan,overall,0,0,0
+0a2f9c1c,Brandon,Jordan,chemistry,0,0,0
+0a2f9c1c,akhil,ASFA,ess,4,0,16
+0a2f9c1c,Avish B,Jordan,overall,1,1,0
+0a2f9c1c,Avish B,Jordan,physics,1,0,4
+0a2f9c1c,akhil,ASFA,math,2,0,8
+0a2f9c1c,Avish B,Jordan,chemistry,0,1,-4
+0a2f9c1c,Raymond,ASFA,chemistry,1,0,4
+0a2f9c1c,Max T,Jordan,overall,0,1,-4
+0a2f9c1c,Max T,Jordan,biology,0,1,-4
+0a2f9c1c,akhil,ASFA,other,0,1,-4
+0a2f9c1c,Avish B,Jordan,other,0,0,0
+0e9acdba,Praneel A,MAAOC,overall,8,1,28
+0e9acdba,Praneel A,MAAOC,physics,2,1,4
+0e9acdba,Monish S,WWPS A,overall,5,2,12
+0e9acdba,Monish S,WWPS A,math,3,1,8
+0e9acdba,Arjun D,WWPS A,overall,2,0,8
+0e9acdba,Arjun D,WWPS A,biology,1,0,4
+0e9acdba,Abhinav KSK,MAAOC,overall,0,1,-4
+0e9acdba,Abhinav KSK,MAAOC,chemistry,0,1,-4
+0e9acdba,Arjun D,WWPS A,chemistry,1,0,4
+0e9acdba,Praneel A,MAAOC,ess,2,0,8
+0e9acdba,Monish S,WWPS A,physics,2,1,4
+0e9acdba,Arman A,MAAOC,overall,4,0,16
+0e9acdba,Arman A,MAAOC,biology,3,0,12
+0e9acdba,Praneel A,MAAOC,chemistry,3,0,12
+0e9acdba,Kevin F,MAAOC,overall,2,0,8
+0e9acdba,Kevin F,MAAOC,ess,1,0,4
+0e9acdba,Praneel A,MAAOC,math,1,0,4
+0e9acdba,Arman A,MAAOC,ess,1,0,4
+0e9acdba,Kevin F,MAAOC,other,1,0,4
+2439cc86,Lucas L,School of Biology,overall,6,0,24
+2439cc86,Lucas L,School of Biology,physics,4,0,16
+2439cc86,Euan L,CCA B,overall,1,1,0
+2439cc86,Euan L,CCA B,math,1,1,0
+2439cc86,Shannon I,School of Biology,overall,7,0,28
+2439cc86,Shannon I,School of Biology,math,1,0,4
+2439cc86,Annie L,CCA B,overall,1,0,4
+2439cc86,Annie L,CCA B,biology,0,0,0
+2439cc86,Shannon I,School of Biology,biology,0,0,0
+2439cc86,Nevin J,School of Biology,overall,2,1,4
+2439cc86,Nevin J,School of Biology,chemistry,0,1,-4
+2439cc86,Annie L,CCA B,chemistry,1,0,4
+2439cc86,Shannon I,School of Biology,ess,3,0,12
+2439cc86,Lucas L,School of Biology,math,2,0,8
+2439cc86,Nevin J,School of Biology,biology,2,0,8
+2439cc86,Nina L,CCA B,overall,0,0,0
+2439cc86,Nina L,CCA B,biology,0,0,0
+2439cc86,Shannon I,School of Biology,chemistry,2,0,8
+2439cc86,Nevin J,School of Biology,ess,0,0,0
+2439cc86,Annie L,CCA B,ess,0,0,0
+2439cc86,Shannon I,School of Biology,other,1,0,4
+3c3b23ef,Ethan Wang,Arcadia A,overall,10,2,32
+3c3b23ef,Ethan Wang,Arcadia A,physics,1,1,0
+3c3b23ef,Arjun G.,MSJ C,overall,3,0,12
+3c3b23ef,Arjun G.,MSJ C,math,1,0,4
+3c3b23ef,Ananya V,MSJ C,overall,4,0,16
+3c3b23ef,Ananya V,MSJ C,biology,3,0,12
+3c3b23ef,Enming Z,MSJ C,overall,1,1,0
+3c3b23ef,Enming Z,MSJ C,chemistry,0,1,-4
+3c3b23ef,Ethan Wang,Arcadia A,chemistry,4,0,16
+3c3b23ef,Enming Z,MSJ C,ess,1,0,4
+3c3b23ef,Arjun G.,MSJ C,physics,2,0,8
+3c3b23ef,Ethan Wang,Arcadia A,math,2,0,8
+3c3b23ef,Ethan Wang,Arcadia A,biology,1,1,0
+3c3b23ef,Ananya V,MSJ C,ess,1,0,4
+3c3b23ef,Eshan B,MSJ C,overall,1,0,4
+3c3b23ef,Eshan B,MSJ C,physics,1,0,4
+3c3b23ef,Ethan Wang,Arcadia A,ess,1,0,4
+3c3b23ef,Ethan Wang,Arcadia A,other,1,0,4
+4c210a92,daniel l,Re2rement Home,overall,8,2,24
+4c210a92,daniel l,Re2rement Home,physics,3,1,8
+4c210a92,Caroline H,Chattahoochee B,overall,5,0,20
+4c210a92,Caroline H,Chattahoochee B,physics,0,0,0
+4c210a92,Caroline H,Chattahoochee B,math,3,0,12
+4c210a92,Angelina Y,Re2rement Home,overall,5,1,16
+4c210a92,Angelina Y,Re2rement Home,biology,4,0,16
+4c210a92,daniel l,Re2rement Home,chemistry,2,1,4
+4c210a92,Caroline H,Chattahoochee B,chemistry,2,0,8
+4c210a92,daniel l,Re2rement Home,ess,1,0,4
+4c210a92,Caroline H,Chattahoochee B,ess,0,0,0
+4c210a92,Angelina Y,Re2rement Home,ess,1,1,0
+4c210a92,daniel l,Re2rement Home,math,1,0,4
+4c210a92,Shawn Phan,Chattahoochee B,overall,0,0,0
+4c210a92,Shawn Phan,Chattahoochee B,ess,0,0,0
+4c210a92,daniel l,Re2rement Home,other,1,0,4
+5d0bbc70,Owen M,CCA A,overall,4,0,16
+5d0bbc70,Owen M,CCA A,physics,3,0,12
+5d0bbc70,Sohil,Lynbroke,overall,12,2,40
+5d0bbc70,Sohil,Lynbroke,math,4,0,16
+5d0bbc70,Sohil,Lynbroke,biology,2,1,4
+5d0bbc70,Sohil,Lynbroke,chemistry,2,1,4
+5d0bbc70,Owen M,CCA A,chemistry,1,0,4
+5d0bbc70,Sohil,Lynbroke,ess,3,0,12
+5d0bbc70,Alex D,CCA A,overall,2,1,4
+5d0bbc70,Alex D,CCA A,biology,0,1,-4
+5d0bbc70,Alex D,CCA A,physics,1,0,4
+5d0bbc70,Alex D,CCA A,ess,1,0,4
+5d0bbc70,Owen M,CCA A,biology,0,0,0
+5d0bbc70,Sohil,Lynbroke,other,1,0,4
+5f58a18c,Advaith M,MSJ A,overall,6,2,16
+5f58a18c,Advaith M,MSJ A,physics,2,0,8
+5f58a18c,Advaith M,MSJ A,math,2,2,0
+5f58a18c,Shirley V,SSP Warriors,overall,1,1,0
+5f58a18c,Shirley V,SSP Warriors,math,1,0,4
+5f58a18c,Shirley V,SSP Warriors,biology,0,0,0
+5f58a18c,Roshan A,MSJ A,overall,6,3,12
+5f58a18c,Roshan A,MSJ A,biology,0,1,-4
+5f58a18c,Roshan A,MSJ A,chemistry,0,2,-8
+5f58a18c,Shirley V,SSP Warriors,chemistry,0,0,0
+5f58a18c,Roshan A,MSJ A,ess,4,0,16
+5f58a18c,Roshan A,MSJ A,physics,2,0,8
+5f58a18c,Advaith M,MSJ A,biology,1,0,4
+5f58a18c,Advaith M,MSJ A,chemistry,1,0,4
+5f58a18c,Shirley V,SSP Warriors,other,0,1,-4
+5f58a18c,Advaith M,MSJ A,other,0,0,0
+6a118698,Chris W,Montgomery Blair,overall,4,0,16
+6a118698,Chris W,Montgomery Blair,physics,2,0,8
+6a118698,Varun G,VMATHs,overall,0,1,-4
+6a118698,Varun G,VMATHs,math,0,1,-4
+6a118698,Sam E,Montgomery Blair,overall,4,2,8
+6a118698,Sam E,Montgomery Blair,math,2,0,8
+6a118698,uddip k,VMATHs,overall,2,1,4
+6a118698,uddip k,VMATHs,biology,1,0,4
+6a118698,Sam E,Montgomery Blair,chemistry,2,2,0
+6a118698,Shaun I,VMATHs,overall,3,2,4
+6a118698,Shaun I,VMATHs,chemistry,1,0,4
+6a118698,Shaun I,VMATHs,ess,0,2,-8
+6a118698,Chris W,Montgomery Blair,math,2,0,8
+6a118698,Samuel W,Montgomery Blair,overall,3,2,4
+6a118698,Samuel W,Montgomery Blair,biology,2,1,4
+6a118698,Henry L,Montgomery Blair,overall,1,0,4
+6a118698,Henry L,Montgomery Blair,ess,1,0,4
+6a118698,Shaun I,VMATHs,physics,1,0,4
+6a118698,Shaun I,VMATHs,biology,1,0,4
+6a118698,Samuel W,Montgomery Blair,ess,1,0,4
+6a118698,marty h,VMATHs,overall,1,0,4
+6a118698,marty h,VMATHs,physics,1,0,4
+6a118698,uddip k,VMATHs,ess,0,1,-4
+6a118698,Samuel W,Montgomery Blair,other,0,1,-4
+6a118698,uddip k,VMATHs,other,1,0,4
+7470417c,Charith N,Collierville HS A,overall,3,1,8
+7470417c,Charith N,Collierville HS A,physics,1,0,4
+7470417c,Abhishek C,Doral Academy,overall,9,1,32
+7470417c,Abhishek C,Doral Academy,math,2,1,4
+7470417c,Charith N,Collierville HS A,math,1,1,0
+7470417c,Neil H,Doral Academy,overall,3,2,4
+7470417c,Neil H,Doral Academy,biology,3,1,8
+7470417c,Jacob L,Collierville HS A,overall,1,0,4
+7470417c,Jacob L,Collierville HS A,chemistry,1,0,4
+7470417c,Santiago S,Doral Academy,overall,1,0,4
+7470417c,Santiago S,Doral Academy,chemistry,1,0,4
+7470417c,Abhishek C,Doral Academy,ess,2,0,8
+7470417c,Abhishek C,Doral Academy,physics,3,0,12
+7470417c,Charith N,Collierville HS A,ess,1,0,4
+7470417c,Neil H,Doral Academy,chemistry,0,1,-4
+7470417c,Santhosh V,Collierville HS A,overall,1,0,4
+7470417c,Santhosh V,Collierville HS A,chemistry,1,0,4
+7470417c,Ishan A,Collierville HS A,overall,0,0,0
+7470417c,Ishan A,Collierville HS A,biology,0,0,0
+7470417c,Abhishek C,Doral Academy,chemistry,1,0,4
+7470417c,Shalina Liu,Doral Academy,overall,1,0,4
+7470417c,Shalina Liu,Doral Academy,ess,1,0,4
+7470417c,Santhosh V,Collierville HS A,other,0,0,0
+7470417c,Abhishek C,Doral Academy,other,1,0,4
+866896b4,Charles H,North Hollywood,overall,3,2,4
+866896b4,Charles H,North Hollywood,physics,2,0,8
+866896b4,Minghao G,North Hollywood,overall,2,1,4
+866896b4,Minghao G,North Hollywood,math,1,1,0
+866896b4,Frank,Lakeside,overall,1,0,4
+866896b4,Frank,Lakeside,math,0,0,0
+866896b4,Jake R,North Hollywood,overall,2,0,8
+866896b4,Jake R,North Hollywood,biology,2,0,8
+866896b4,Charles H,North Hollywood,chemistry,1,1,0
+866896b4,William W,Lakeside,overall,6,0,24
+866896b4,William W,Lakeside,chemistry,3,0,12
+866896b4,Kensuke O,North Hollywood,overall,3,1,8
+866896b4,Kensuke O,North Hollywood,ess,2,1,4
+866896b4,Frank,Lakeside,physics,1,0,4
+866896b4,Kensuke O,North Hollywood,math,1,0,4
+866896b4,William W,Lakeside,biology,1,0,4
+866896b4,Sona K,Lakeside,overall,1,0,4
+866896b4,Sona K,Lakeside,physics,1,0,4
+866896b4,Minghao G,North Hollywood,biology,1,0,4
+866896b4,Charles H,North Hollywood,math,0,1,-4
+866896b4,William W,Lakeside,math,1,0,4
+866896b4,Sarah N,Lakeside,overall,1,0,4
+866896b4,Sarah N,Lakeside,ess,1,0,4
+866896b4,William W,Lakeside,other,1,0,4
+8f4f93e3,Andrew W,Palo Alto,overall,4,1,12
+8f4f93e3,Andrew W,Palo Alto,physics,3,0,12
+8f4f93e3,Paxton Lin,Arcadia B,overall,6,1,20
+8f4f93e3,Paxton Lin,Arcadia B,math,2,0,8
+8f4f93e3,Kevin W,Arcadia B,overall,3,0,12
+8f4f93e3,Kevin W,Arcadia B,biology,1,0,4
+8f4f93e3,Andrew W,Palo Alto,chemistry,0,1,-4
+8f4f93e3,Paxton Lin,Arcadia B,chemistry,2,1,4
+8f4f93e3,Kevin P,Palo Alto,overall,4,0,16
+8f4f93e3,Kevin P,Palo Alto,ess,3,0,12
+8f4f93e3,Paxton Lin,Arcadia B,physics,1,0,4
+8f4f93e3,Jacob G,Palo Alto,overall,2,0,8
+8f4f93e3,Jacob G,Palo Alto,biology,1,0,4
+8f4f93e3,Jacob G,Palo Alto,chemistry,1,0,4
+8f4f93e3,Kevin W,Arcadia B,math,1,0,4
+8f4f93e3,Kaylee Z,Palo Alto,overall,1,0,4
+8f4f93e3,Kaylee Z,Palo Alto,biology,1,0,4
+8f4f93e3,Andrew W,Palo Alto,math,1,0,4
+8f4f93e3,Austin Z,Arcadia B,overall,0,1,-4
+8f4f93e3,Austin Z,Arcadia B,biology,0,1,-4
+8f4f93e3,Kevin P,Palo Alto,chemistry,1,0,4
+8f4f93e3,Kevin W,Arcadia B,ess,1,0,4
+8f4f93e3,Paxton Lin,Arcadia B,other,1,0,4
+9ff603f7,Bryce T,SGVG,overall,4,2,8
+9ff603f7,Bryce T,SGVG,physics,2,0,8
+9ff603f7,Tianhan H,SGVG,overall,1,1,0
+9ff603f7,Tianhan H,SGVG,math,0,1,-4
+9ff603f7,Abhee S,Foothill,overall,3,3,0
+9ff603f7,Abhee S,Foothill,math,3,1,8
+9ff603f7,Judy T,SGVG,overall,3,0,12
+9ff603f7,Judy T,SGVG,biology,3,0,12
+9ff603f7,Tianhan H,SGVG,chemistry,1,0,4
+9ff603f7,Shashank V,Foothill,overall,1,2,-4
+9ff603f7,Shashank V,Foothill,chemistry,1,0,4
+9ff603f7,Shashank V,Foothill,ess,0,1,-4
+9ff603f7,Bryce T,SGVG,ess,2,1,4
+9ff603f7,Parv S,Foothill,overall,2,1,4
+9ff603f7,Parv S,Foothill,physics,1,0,4
+9ff603f7,Abhee S,Foothill,biology,0,1,-4
+9ff603f7,Abhee S,Foothill,physics,0,1,-4
+9ff603f7,Parv S,Foothill,biology,1,0,4
+9ff603f7,Abhee S,Foothill,chemistry,0,0,0
+9ff603f7,Parv S,Foothill,ess,0,1,-4
+9ff603f7,Shashank V,Foothill,physics,0,1,-4
+9ff603f7,Bryce T,SGVG,other,0,1,-4
+9ff603f7,Abhee S,Foothill,other,0,0,0
+a0387691,Ryan K,Shallow Walk A,overall,10,1,36
+a0387691,Ryan K,Shallow Walk A,physics,3,0,12
+a0387691,Samy E,Chattahoochee A,overall,2,1,4
+a0387691,Samy E,Chattahoochee A,math,0,1,-4
+a0387691,Riyan N,Shallow Walk A,overall,2,0,8
+a0387691,Riyan N,Shallow Walk A,math,2,0,8
+a0387691,Ryan K,Shallow Walk A,biology,2,0,8
+a0387691,Ryan K,Shallow Walk A,chemistry,1,0,4
+a0387691,Samy E,Chattahoochee A,chemistry,0,0,0
+a0387691,Ryan K,Shallow Walk A,ess,1,1,0
+a0387691,Aarnav P,Chattahoochee A,overall,2,0,8
+a0387691,Aarnav P,Chattahoochee A,ess,0,0,0
+a0387691,Nimit A,Shallow Walk A,overall,1,1,0
+a0387691,Nimit A,Shallow Walk A,biology,1,0,4
+a0387691,Samy E,Chattahoochee A,biology,1,0,4
+a0387691,Samy E,Chattahoochee A,ess,1,0,4
+a0387691,Ryan K,Shallow Walk A,math,2,0,8
+a0387691,Aarnav P,Chattahoochee A,chemistry,2,0,8
+a0387691,Rish B.,Shallow Walk A,overall,1,0,4
+a0387691,Rish B.,Shallow Walk A,physics,1,0,4
+a0387691,Nimit A,Shallow Walk A,ess,0,1,-4
+a0387691,Samy E,Chattahoochee A,other,0,0,0
+a0387691,Ryan K,Shallow Walk A,other,1,0,4
+a51105de,caleb w,Wheaton,overall,5,1,16
+a51105de,caleb w,Wheaton,physics,3,0,12
+a51105de,caleb w,Wheaton,math,0,1,-4
+a51105de,marianne,Benjamin Franklin,overall,4,0,16
+a51105de,marianne,Benjamin Franklin,math,3,0,12
+a51105de,Andrew Z,Wheaton,overall,2,0,8
+a51105de,Andrew Z,Wheaton,biology,1,0,4
+a51105de,marianne,Benjamin Franklin,biology,1,0,4
+a51105de,Alex W,Wheaton,overall,6,0,24
+a51105de,Alex W,Wheaton,chemistry,2,0,8
+a51105de,Ronald Z,Benjamin Franklin,overall,0,0,0
+a51105de,Ronald Z,Benjamin Franklin,chemistry,0,0,0
+a51105de,caleb w,Wheaton,ess,2,0,8
+a51105de,Alex W,Wheaton,math,1,0,4
+a51105de,ethan p,Wheaton,overall,1,1,0
+a51105de,ethan p,Wheaton,chemistry,1,0,4
+a51105de,Alex W,Wheaton,ess,1,0,4
+a51105de,Alex W,Wheaton,physics,1,0,4
+a51105de,ethan p,Wheaton,biology,0,1,-4
+a51105de,Andrew Z,Wheaton,ess,1,0,4
+a51105de,Alex W,Wheaton,other,1,0,4
+b2ccf793,Liam T,BISV HS A,overall,5,0,20
+b2ccf793,Liam T,BISV HS A,physics,3,0,12
+b2ccf793,Aditya B,Middleton,overall,2,0,8
+b2ccf793,Aditya B,Middleton,math,1,0,4
+b2ccf793,Larry Z,BISV HS A,overall,4,0,16
+b2ccf793,Larry Z,BISV HS A,biology,4,0,16
+b2ccf793,Naman S,BISV HS A,overall,0,0,0
+b2ccf793,Naman S,BISV HS A,chemistry,0,0,0
+b2ccf793,matthew w,Middleton,overall,2,2,0
+b2ccf793,matthew w,Middleton,chemistry,0,0,0
+b2ccf793,matthew w,Middleton,ess,2,1,4
+b2ccf793,Alex D,Middleton,overall,2,0,8
+b2ccf793,Alex D,Middleton,physics,1,0,4
+b2ccf793,Naman S,BISV HS A,math,0,0,0
+b2ccf793,Alex D,Middleton,math,1,0,4
+b2ccf793,Liam T,BISV HS A,chemistry,1,0,4
+b2ccf793,Aaron C,BISV HS A,overall,1,0,4
+b2ccf793,Aaron C,BISV HS A,ess,1,0,4
+b2ccf793,ArthurW middletong,Middleton,overall,0,1,-4
+b2ccf793,ArthurW middletong,Middleton,physics,0,1,-4
+b2ccf793,Liam T,BISV HS A,math,1,0,4
+b2ccf793,Aditya B,Middleton,chemistry,1,0,4
+b2ccf793,matthew w,Middleton,other,0,1,-4
+b2ccf793,Liam T,BISV HS A,other,0,0,0
+b6720e1d,Aayan Ghosh,WWPS B,overall,2,1,4
+b6720e1d,Aayan Ghosh,WWPS B,physics,0,1,-4
+b6720e1d,Ethan Z,School of Chemistry,overall,6,1,20
+b6720e1d,Ethan Z,School of Chemistry,physics,1,1,0
+b6720e1d,Haru G,School of Chemistry,overall,5,0,20
+b6720e1d,Haru G,School of Chemistry,math,2,0,8
+b6720e1d,Haru G,School of Chemistry,biology,3,0,12
+b6720e1d,Keene K,School of Chemistry,overall,2,0,8
+b6720e1d,Keene K,School of Chemistry,chemistry,2,0,8
+b6720e1d,Aayan Ghosh,WWPS B,chemistry,0,0,0
+b6720e1d,Ethan Z,School of Chemistry,ess,3,0,12
+b6720e1d,Daniel Y,School of Chemistry,overall,2,1,4
+b6720e1d,Daniel Y,School of Chemistry,physics,1,1,0
+b6720e1d,Aayan Ghosh,WWPS B,math,1,0,4
+b6720e1d,Aayan Ghosh,WWPS B,biology,1,0,4
+b6720e1d,Niharika G,WWPS B,overall,0,0,0
+b6720e1d,Niharika G,WWPS B,physics,0,0,0
+b6720e1d,Ethan Z,School of Chemistry,math,1,0,4
+b6720e1d,Daniel Y,School of Chemistry,ess,1,0,4
+b6720e1d,Ethan Z,School of Chemistry,other,1,0,4
+bf2f5458,Tiger,Royal Hogs,overall,1,2,-4
+bf2f5458,Tiger,Royal Hogs,physics,1,0,4
+bf2f5458,Travis D,Punahou,overall,9,0,36
+bf2f5458,Travis D,Punahou,math,3,0,12
+bf2f5458,Achuth V,Royal Hogs,overall,4,0,16
+bf2f5458,Achuth V,Royal Hogs,biology,4,0,16
+bf2f5458,sumin,Royal Hogs,overall,1,1,0
+bf2f5458,sumin,Royal Hogs,chemistry,0,1,-4
+bf2f5458,Travis D,Punahou,chemistry,2,0,8
+bf2f5458,Travis D,Punahou,ess,3,0,12
+bf2f5458,Travis D,Punahou,physics,1,0,4
+bf2f5458,bluewater16,Royal Hogs,overall,2,0,8
+bf2f5458,bluewater16,Royal Hogs,math,1,0,4
+bf2f5458,sumin,Royal Hogs,physics,1,0,4
+bf2f5458,Tiger,Royal Hogs,math,0,1,-4
+bf2f5458,bluewater16,Royal Hogs,chemistry,1,0,4
+bf2f5458,Ty Dutoit,Punahou,overall,0,0,0
+bf2f5458,Ty Dutoit,Punahou,physics,0,0,0
+bf2f5458,sumin,Royal Hogs,ess,0,0,0
+bf2f5458,Luke Itomura,Punahou,overall,0,1,-4
+bf2f5458,Luke Itomura,Punahou,other,0,1,-4
+bf2f5458,Tiger,Royal Hogs,other,0,1,-4
+dd409b42,suzuko o,Clang! Cloom! Clash!,overall,7,2,20
+dd409b42,suzuko o,Clang! Cloom! Clash!,physics,3,0,12
+dd409b42,Aldric B,WWPN,overall,7,0,28
+dd409b42,Aldric B,WWPN,math,1,0,4
+dd409b42,suzuko o,Clang! Cloom! Clash!,biology,2,1,4
+dd409b42,Aayush K.,WWPN,overall,1,0,4
+dd409b42,Aayush K.,WWPN,biology,1,0,4
+dd409b42,suzuko o,Clang! Cloom! Clash!,chemistry,0,1,-4
+dd409b42,Aldric B,WWPN,chemistry,1,0,4
+dd409b42,Vishnu M,Clang! Cloom! Clash!,overall,4,2,8
+dd409b42,Vishnu M,Clang! Cloom! Clash!,ess,0,1,-4
+dd409b42,Aldric B,WWPN,ess,3,0,12
+dd409b42,suzuko o,Clang! Cloom! Clash!,math,2,0,8
+dd409b42,Aldric B,WWPN,biology,1,0,4
+dd409b42,Vishnu M,Clang! Cloom! Clash!,chemistry,2,1,4
+dd409b42,Connor Chang,Clang! Cloom! Clash!,overall,1,1,0
+dd409b42,Connor Chang,Clang! Cloom! Clash!,physics,0,1,-4
+dd409b42,Aldric B,WWPN,physics,1,0,4
+dd409b42,Vishnu M,Clang! Cloom! Clash!,math,1,0,4
+dd409b42,Connor Chang,Clang! Cloom! Clash!,ess,1,0,4
+dd409b42,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
+df6f0457,Dennis J,WWPS C,overall,5,0,20
+df6f0457,Dennis J,WWPS C,physics,2,0,8
+df6f0457,Rutvik A,MSJ B,overall,4,1,12
+df6f0457,Rutvik A,MSJ B,math,2,1,4
+df6f0457,Dennis J,WWPS C,math,1,0,4
+df6f0457,Anish A,MSJ B,overall,6,2,16
+df6f0457,Anish A,MSJ B,biology,2,0,8
+df6f0457,Anish A,MSJ B,chemistry,2,2,0
+df6f0457,Dennis J,WWPS C,chemistry,1,0,4
+df6f0457,Ishaan K,MSJ B,overall,3,1,8
+df6f0457,Ishaan K,MSJ B,ess,3,1,8
+df6f0457,Dennis J,WWPS C,ess,0,0,0
+df6f0457,Dennis J,WWPS C,biology,1,0,4
+df6f0457,Rutvik A,MSJ B,physics,2,0,8
+df6f0457,Anish A,MSJ B,math,1,0,4
+df6f0457,Iris G,WWPS C,overall,1,0,4
+df6f0457,Iris G,WWPS C,biology,1,0,4
+df6f0457,Dennis J,WWPS C,other,0,0,0
+df6f0457,Anish A,MSJ B,other,1,0,4
+edc20df4,Lucas Q,BISV HS B,overall,2,4,-8
+edc20df4,Lucas Q,BISV HS B,physics,1,2,-4
+edc20df4,Timothy C,University,overall,11,0,44
+edc20df4,Timothy C,University,math,4,0,16
+edc20df4,Priya K,University,overall,3,1,8
+edc20df4,Priya K,University,biology,1,0,4
+edc20df4,Lucas Q,BISV HS B,chemistry,1,2,-4
+edc20df4,Timothy C,University,chemistry,2,0,8
+edc20df4,Priya K,University,ess,2,1,4
+edc20df4,Lucas Q,BISV HS B,ess,0,0,0
+edc20df4,Alex Zhan,BISV HS B,overall,1,0,4
+edc20df4,Alex Zhan,BISV HS B,physics,1,0,4
+edc20df4,Stephanie Y,University,overall,2,0,8
+edc20df4,Stephanie Y,University,biology,2,0,8
+edc20df4,Timothy C,University,physics,2,0,8
+edc20df4,Timothy C,University,biology,1,0,4
+edc20df4,Carl L,University,overall,1,0,4
+edc20df4,Carl L,University,chemistry,1,0,4
+edc20df4,Timothy C,University,ess,1,0,4
+edc20df4,Timothy C,University,other,1,0,4
+fbf566ce,Matthew D,Enloe,overall,5,0,20
+fbf566ce,Matthew D,Enloe,physics,4,0,16
+fbf566ce,Likhith M,Gargy Bomy,overall,3,1,8
+fbf566ce,Likhith M,Gargy Bomy,math,3,1,8
+fbf566ce,Matthew D,Enloe,math,1,0,4
+fbf566ce,Abhinav A,Gargy Bomy,overall,7,2,20
+fbf566ce,Abhinav A,Gargy Bomy,biology,3,0,12
+fbf566ce,Oliver Y,Enloe,overall,2,0,8
+fbf566ce,Oliver Y,Enloe,biology,1,0,4
+fbf566ce,Abhinav A,Gargy Bomy,chemistry,2,1,4
+fbf566ce,Vishruth K,Enloe,overall,1,1,0
+fbf566ce,Vishruth K,Enloe,chemistry,1,1,0
+fbf566ce,Abhinav A,Gargy Bomy,ess,2,0,8
+fbf566ce,Ryan Y,Enloe,overall,2,0,8
+fbf566ce,Ryan Y,Enloe,ess,2,0,8
+fbf566ce,Abhinav A,Gargy Bomy,other,0,1,-4
+fbf566ce,Oliver Y,Enloe,other,1,0,4
+1d9caa21,Rutvik A,MSJ B,overall,4,0,16
+1d9caa21,Rutvik A,MSJ B,physics,2,0,8
+1d9caa21,Minghao G,North Hollywood,overall,1,0,4
+1d9caa21,Minghao G,North Hollywood,math,1,0,4
+1d9caa21,Jake R,North Hollywood,overall,3,0,12
+1d9caa21,Jake R,North Hollywood,biology,3,0,12
+1d9caa21,Anish A,MSJ B,overall,4,1,12
+1d9caa21,Anish A,MSJ B,chemistry,3,0,12
+1d9caa21,Kensuke O,North Hollywood,overall,2,0,8
+1d9caa21,Kensuke O,North Hollywood,ess,2,0,8
+1d9caa21,Ishaan K,MSJ B,overall,2,2,0
+1d9caa21,Ishaan K,MSJ B,math,1,0,4
+1d9caa21,Anish A,MSJ B,biology,1,1,0
+1d9caa21,Ishaan K,MSJ B,chemistry,0,1,-4
+1d9caa21,Charles H,North Hollywood,overall,2,1,4
+1d9caa21,Charles H,North Hollywood,chemistry,0,0,0
+1d9caa21,Ishaan K,MSJ B,ess,1,0,4
+1d9caa21,Charles H,North Hollywood,physics,1,1,0
+1d9caa21,Ishaan K,MSJ B,physics,0,1,-4
+1d9caa21,Rutvik A,MSJ B,math,1,0,4
+1d9caa21,Rutvik A,MSJ B,ess,1,0,4
+1d9caa21,Charles H,North Hollywood,math,1,0,4
+1d9caa21,Ishaan K,MSJ B,other,0,0,0
+1d9caa21,Charles H,North Hollywood,other,0,0,0
+23bb7be7,Aayan Ghosh,WWPS B,overall,4,0,16
+23bb7be7,Aayan Ghosh,WWPS B,math,1,0,4
+23bb7be7,Aayan Ghosh,WWPS B,biology,2,0,8
+23bb7be7,Niharika G,WWPS B,overall,0,0,0
+23bb7be7,Niharika G,WWPS B,physics,0,0,0
+23bb7be7,Aayan Ghosh,WWPS B,chemistry,0,0,0
+23bb7be7,Aayan Ghosh,WWPS B,ess,1,0,4
+23bb7be7,Aayan Ghosh,WWPS B,physics,0,0,0
+23bb7be7,Niharika G,WWPS B,ess,0,0,0
+24647dc0,Kevin F,MAAOC,overall,3,0,12
+24647dc0,Kevin F,MAAOC,physics,1,0,4
+24647dc0,Bryce T,SGVG,overall,4,2,8
+24647dc0,Bryce T,SGVG,physics,0,2,-8
+24647dc0,Praneel A,MAAOC,overall,6,1,20
+24647dc0,Praneel A,MAAOC,math,1,0,4
+24647dc0,Arman A,MAAOC,overall,1,0,4
+24647dc0,Arman A,MAAOC,biology,1,0,4
+24647dc0,Praneel A,MAAOC,chemistry,1,0,4
+24647dc0,Bryce T,SGVG,ess,2,0,8
+24647dc0,Praneel A,MAAOC,physics,2,0,8
+24647dc0,Tianhan H,SGVG,overall,0,1,-4
+24647dc0,Tianhan H,SGVG,math,0,1,-4
+24647dc0,Kevin F,MAAOC,math,1,0,4
+24647dc0,Abhinav KSK,MAAOC,overall,5,1,16
+24647dc0,Abhinav KSK,MAAOC,biology,2,0,8
+24647dc0,Abhinav KSK,MAAOC,chemistry,2,1,4
+24647dc0,Kevin F,MAAOC,ess,1,0,4
+24647dc0,Abhinav KSK,MAAOC,math,1,0,4
+24647dc0,Praneel A,MAAOC,ess,1,0,4
+24647dc0,Bryce T,SGVG,math,1,0,4
+24647dc0,Praneel A,MAAOC,biology,1,0,4
+24647dc0,Tianhan H,SGVG,chemistry,0,0,0
+24647dc0,Praneel A,MAAOC,other,0,1,-4
+24647dc0,Bryce T,SGVG,other,1,0,4
+3137f5a6,Eshan B,MSJ C,overall,1,1,0
+3137f5a6,Eshan B,MSJ C,physics,0,1,-4
+3137f5a6,Enming Z,MSJ C,overall,0,1,-4
+3137f5a6,Enming Z,MSJ C,math,0,1,-4
+3137f5a6,Annie L,CCA B,overall,4,0,16
+3137f5a6,Annie L,CCA B,math,1,0,4
+3137f5a6,Annie L,CCA B,biology,1,0,4
+3137f5a6,Enming Z,MSJ C,chemistry,0,0,0
+3137f5a6,Eshan B,MSJ C,ess,0,0,0
+3137f5a6,Arjun G.,MSJ C,overall,3,0,12
+3137f5a6,Arjun G.,MSJ C,physics,1,0,4
+3137f5a6,Arjun G.,MSJ C,math,2,0,8
+3137f5a6,Ananya V,MSJ C,overall,3,1,8
+3137f5a6,Ananya V,MSJ C,biology,1,1,0
+3137f5a6,Annie L,CCA B,chemistry,1,0,4
+3137f5a6,Annie L,CCA B,ess,0,0,0
+3137f5a6,Annie L,CCA B,physics,1,0,4
+3137f5a6,Ananya V,MSJ C,chemistry,2,0,8
+3137f5a6,Alvin P,MSJ C,overall,1,0,4
+3137f5a6,Alvin P,MSJ C,ess,1,0,4
+3137f5a6,Eshan B,MSJ C,biology,1,0,4
+3137f5a6,Eshan B,MSJ C,other,0,0,0
+3137f5a6,Annie L,CCA B,other,0,0,0
+416ccd6b,Charith N,Collierville HS A,overall,0,0,0
+416ccd6b,Charith N,Collierville HS A,physics,0,0,0
+416ccd6b,Andrew W,Palo Alto,overall,7,0,28
+416ccd6b,Andrew W,Palo Alto,physics,3,0,12
+416ccd6b,Andrew W,Palo Alto,math,2,0,8
+416ccd6b,Santhosh V,Collierville HS A,overall,1,1,0
+416ccd6b,Santhosh V,Collierville HS A,biology,1,1,0
+416ccd6b,Kevin P,Palo Alto,overall,7,1,24
+416ccd6b,Kevin P,Palo Alto,chemistry,4,0,16
+416ccd6b,Kevin P,Palo Alto,ess,2,0,8
+416ccd6b,Jacob L,Collierville HS A,overall,2,0,8
+416ccd6b,Jacob L,Collierville HS A,ess,0,0,0
+416ccd6b,Kevin P,Palo Alto,biology,1,0,4
+416ccd6b,Kevin P,Palo Alto,math,0,1,-4
+416ccd6b,Jacob L,Collierville HS A,math,1,0,4
+416ccd6b,Jacob L,Collierville HS A,biology,1,0,4
+416ccd6b,Jacob L,Collierville HS A,chemistry,0,0,0
+416ccd6b,Charith N,Collierville HS A,math,0,0,0
+416ccd6b,Jacob G,Palo Alto,overall,0,0,0
+416ccd6b,Jacob G,Palo Alto,biology,0,0,0
+416ccd6b,Andrew W,Palo Alto,ess,1,0,4
+416ccd6b,Charith N,Collierville HS A,other,0,0,0
+416ccd6b,Andrew W,Palo Alto,other,1,0,4
+49901b72,Dennis J,WWPS C,overall,7,0,28
+49901b72,Dennis J,WWPS C,physics,1,0,4
+49901b72,Dennis J,WWPS C,math,3,0,12
+49901b72,Iris G,WWPS C,overall,3,0,12
+49901b72,Iris G,WWPS C,biology,3,0,12
+49901b72,Dennis J,WWPS C,chemistry,1,0,4
+49901b72,Dennis J,WWPS C,ess,1,0,4
+49901b72,Dennis J,WWPS C,biology,1,0,4
+49901b72,Medha T,WWPS C,overall,0,0,0
+49901b72,Medha T,WWPS C,chemistry,0,0,0
+49901b72,Dennis J,WWPS C,other,0,0,0
+725c28f2,Naman S,BISV HS A,overall,1,0,4
+725c28f2,Naman S,BISV HS A,physics,0,0,0
+725c28f2,Matthew D,Enloe,overall,2,0,8
+725c28f2,Matthew D,Enloe,physics,1,0,4
+725c28f2,Vishruth K,Enloe,overall,5,1,16
+725c28f2,Vishruth K,Enloe,math,2,0,8
+725c28f2,Larry Z,BISV HS A,overall,2,0,8
+725c28f2,Larry Z,BISV HS A,biology,2,0,8
+725c28f2,Vishruth K,Enloe,chemistry,2,1,4
+725c28f2,Vishruth K,Enloe,ess,1,0,4
+725c28f2,Larry Z,BISV HS A,ess,0,0,0
+725c28f2,Matthew D,Enloe,math,1,0,4
+725c28f2,Naman S,BISV HS A,chemistry,1,0,4
+725c28f2,Ryan Y,Enloe,overall,0,0,0
+725c28f2,Ryan Y,Enloe,ess,0,0,0
+725c28f2,Liam T,BISV HS A,overall,0,1,-4
+725c28f2,Liam T,BISV HS A,ess,0,0,0
+725c28f2,Vishruth K,Enloe,physics,0,0,0
+725c28f2,Liam T,BISV HS A,physics,0,1,-4
+725c28f2,Oliver Y,Enloe,overall,2,1,4
+725c28f2,Oliver Y,Enloe,math,1,0,4
+725c28f2,Oliver Y,Enloe,biology,1,1,0
+725c28f2,Liam T,BISV HS A,chemistry,0,0,0
+725c28f2,Aaron C,BISV HS A,overall,1,0,4
+725c28f2,Aaron C,BISV HS A,ess,1,0,4
+725c28f2,Zanda Z,BISV HS A,overall,0,0,0
+725c28f2,Zanda Z,BISV HS A,other,0,0,0
+725c28f2,Oliver Y,Enloe,other,0,0,0
+7a0b5afc,Jason L,WWPN,overall,2,0,8
+7a0b5afc,Jason L,WWPN,physics,2,0,8
+7a0b5afc,Aldric B,WWPN,overall,9,1,32
+7a0b5afc,Aldric B,WWPN,math,1,1,0
+7a0b5afc,Tahmeed S,Collierville HS B,overall,1,2,-4
+7a0b5afc,Tahmeed S,Collierville HS B,math,1,0,4
+7a0b5afc,Tahmeed S,Collierville HS B,biology,0,1,-4
+7a0b5afc,Aayush K.,WWPN,overall,5,0,20
+7a0b5afc,Aayush K.,WWPN,biology,4,0,16
+7a0b5afc,Aldric B,WWPN,chemistry,4,0,16
+7a0b5afc,Aldric B,WWPN,ess,4,0,16
+7a0b5afc,Tahmeed S,Collierville HS B,physics,0,0,0
+7a0b5afc,Aayush K.,WWPN,math,1,0,4
+7a0b5afc,Tahmeed S,Collierville HS B,chemistry,0,1,-4
+7a0b5afc,Aldric B,WWPN,other,0,0,0
+7a0b5afc,Tahmeed S,Collierville HS B,other,0,0,0
+7bdafc2b,Caroline H,Chattahoochee B,overall,2,0,8
+7bdafc2b,Caroline H,Chattahoochee B,physics,0,0,0
+7bdafc2b,marianne,Benjamin Franklin,overall,5,0,20
+7bdafc2b,marianne,Benjamin Franklin,physics,0,0,0
+7bdafc2b,marianne,Benjamin Franklin,math,3,0,12
+7bdafc2b,marianne,Benjamin Franklin,biology,2,0,8
+7bdafc2b,Caroline H,Chattahoochee B,chemistry,0,0,0
+7bdafc2b,Ronald Z,Benjamin Franklin,overall,3,0,12
+7bdafc2b,Ronald Z,Benjamin Franklin,chemistry,0,0,0
+7bdafc2b,Gina K,Chattahoochee B,overall,0,1,-4
+7bdafc2b,Gina K,Chattahoochee B,ess,0,0,0
+7bdafc2b,Andrew B,Benjamin Franklin,overall,0,0,0
+7bdafc2b,Andrew B,Benjamin Franklin,ess,0,0,0
+7bdafc2b,afstoecker,Benjamin Franklin,overall,1,0,4
+7bdafc2b,afstoecker,Benjamin Franklin,physics,0,0,0
+7bdafc2b,Ronald Z,Benjamin Franklin,biology,1,0,4
+7bdafc2b,marianne,Benjamin Franklin,ess,0,0,0
+7bdafc2b,Caroline H,Chattahoochee B,ess,0,0,0
+7bdafc2b,Caroline H,Chattahoochee B,math,1,0,4
+7bdafc2b,afstoecker,Benjamin Franklin,chemistry,1,0,4
+7bdafc2b,Ronald Z,Benjamin Franklin,ess,1,0,4
+7bdafc2b,Ronald Z,Benjamin Franklin,physics,1,0,4
+7bdafc2b,Gina K,Chattahoochee B,biology,0,1,-4
+7bdafc2b,afstoecker,Benjamin Franklin,ess,0,0,0
+7bdafc2b,marianne,Benjamin Franklin,other,0,0,0
+7bdafc2b,Caroline H,Chattahoochee B,other,1,0,4
+8f029834,Lucas Q,BISV HS B,overall,9,2,28
+8f029834,Lucas Q,BISV HS B,physics,2,0,8
+8f029834,sumin,Royal Hogs,overall,5,0,20
+8f029834,sumin,Royal Hogs,math,1,0,4
+8f029834,Lucas Q,BISV HS B,biology,1,0,4
+8f029834,sumin,Royal Hogs,chemistry,3,0,12
+8f029834,Lucas Q,BISV HS B,ess,3,0,12
+8f029834,Alex Zhan,BISV HS B,overall,0,0,0
+8f029834,Alex Zhan,BISV HS B,physics,0,0,0
+8f029834,Tiger,Royal Hogs,overall,1,1,0
+8f029834,Tiger,Royal Hogs,physics,1,0,4
+8f029834,Tiger,Royal Hogs,math,0,1,-4
+8f029834,Lucas Q,BISV HS B,math,1,1,0
+8f029834,Achuth V,Royal Hogs,overall,2,1,4
+8f029834,Achuth V,Royal Hogs,biology,2,1,4
+8f029834,Lucas Q,BISV HS B,chemistry,1,1,0
+8f029834,sumin,Royal Hogs,ess,1,0,4
+8f029834,ZhiyuZhao BISV,BISV HS B,overall,1,0,4
+8f029834,ZhiyuZhao BISV,BISV HS B,biology,1,0,4
+8f029834,Lucas Q,BISV HS B,other,1,0,4
+9340799c,akhil,ASFA,overall,11,3,32
+9340799c,akhil,ASFA,physics,3,1,8
+9340799c,akhil,ASFA,math,1,0,4
+9340799c,Stephanie Y,University,overall,0,1,-4
+9340799c,Stephanie Y,University,biology,0,1,-4
+9340799c,Raymond,ASFA,overall,2,2,0
+9340799c,Raymond,ASFA,biology,1,0,4
+9340799c,akhil,ASFA,chemistry,2,0,8
+9340799c,akhil,ASFA,ess,2,2,0
+9340799c,Raymond,ASFA,math,0,1,-4
+9340799c,Timothy C,University,overall,2,2,0
+9340799c,Timothy C,University,math,1,1,0
+9340799c,akhil,ASFA,biology,3,0,12
+9340799c,Timothy C,University,physics,1,0,4
+9340799c,Carl L,University,overall,0,1,-4
+9340799c,Carl L,University,chemistry,0,1,-4
+9340799c,Raymond,ASFA,chemistry,1,1,0
+9340799c,Timothy C,University,ess,0,0,0
+9340799c,Timothy C,University,biology,0,1,-4
+9340799c,Priya K,University,overall,1,0,4
+9340799c,Priya K,University,ess,1,0,4
+9340799c,Timothy C,University,other,0,0,0
+9340799c,Raymond,ASFA,other,0,0,0
+a84addf7,Alex D,Middleton,overall,4,0,16
+a84addf7,Alex D,Middleton,physics,2,0,8
+a84addf7,Chris Z,Chattahoochee A,overall,1,1,0
+a84addf7,Chris Z,Chattahoochee A,physics,1,0,4
+a84addf7,Aarnav P,Chattahoochee A,overall,3,0,12
+a84addf7,Aarnav P,Chattahoochee A,math,1,0,4
+a84addf7,matthew w,Middleton,overall,1,1,0
+a84addf7,matthew w,Middleton,biology,1,1,0
+a84addf7,Aarnav P,Chattahoochee A,biology,2,0,8
+a84addf7,Samy E,Chattahoochee A,overall,2,1,4
+a84addf7,Samy E,Chattahoochee A,chemistry,2,0,8
+a84addf7,matthew w,Middleton,ess,0,0,0
+a84addf7,Samy E,Chattahoochee A,ess,0,0,0
+a84addf7,Aditya B,Middleton,overall,0,1,-4
+a84addf7,Aditya B,Middleton,math,0,1,-4
+a84addf7,Samy E,Chattahoochee A,math,0,1,-4
+a84addf7,Alex D,Middleton,chemistry,1,0,4
+a84addf7,Alex L,Middleton,overall,3,1,8
+a84addf7,Alex L,Middleton,math,1,0,4
+a84addf7,Chris Z,Chattahoochee A,chemistry,0,1,-4
+a84addf7,matthew w,Middleton,chemistry,0,0,0
+a84addf7,Alex L,Middleton,ess,1,1,0
+a84addf7,Samy E,Chattahoochee A,physics,0,0,0
+a84addf7,Alex L,Middleton,biology,1,0,4
+a84addf7,Samy E,Chattahoochee A,other,0,0,0
+a84addf7,Alex D,Middleton,other,1,0,4
+a9f014d8,caleb w,Wheaton,overall,4,1,12
+a9f014d8,caleb w,Wheaton,physics,3,0,12
+a9f014d8,Sohil,Lynbroke,overall,9,4,20
+a9f014d8,Sohil,Lynbroke,math,4,0,16
+a9f014d8,Andrew Z,Wheaton,overall,1,0,4
+a9f014d8,Andrew Z,Wheaton,biology,1,0,4
+a9f014d8,Sohil,Lynbroke,chemistry,1,1,0
+a9f014d8,Sohil,Lynbroke,ess,1,1,0
+a9f014d8,Alex W,Wheaton,overall,4,1,12
+a9f014d8,Alex W,Wheaton,ess,0,0,0
+a9f014d8,Sohil,Lynbroke,physics,1,1,0
+a9f014d8,Alex W,Wheaton,biology,2,1,4
+a9f014d8,caleb w,Wheaton,chemistry,0,1,-4
+a9f014d8,Sohil,Lynbroke,biology,1,1,0
+a9f014d8,Alex W,Wheaton,chemistry,2,0,8
+a9f014d8,caleb w,Wheaton,ess,1,0,4
+a9f014d8,Sohil,Lynbroke,other,1,0,4
+b41d7eed,Eddie A,Law Abiding Citizens,overall,8,2,24
+b41d7eed,Eddie A,Law Abiding Citizens,physics,2,0,8
+b41d7eed,Sona K,Lakeside,overall,2,0,8
+b41d7eed,Sona K,Lakeside,physics,0,0,0
+b41d7eed,Eddie A,Law Abiding Citizens,math,3,0,12
+b41d7eed,Edward H,Law Abiding Citizens,overall,4,3,4
+b41d7eed,Edward H,Law Abiding Citizens,biology,1,2,-4
+b41d7eed,Sona K,Lakeside,biology,2,0,8
+b41d7eed,William W,Lakeside,overall,4,0,16
+b41d7eed,William W,Lakeside,chemistry,3,0,12
+b41d7eed,Edward H,Law Abiding Citizens,ess,3,0,12
+b41d7eed,Eddie A,Law Abiding Citizens,ess,1,0,4
+b41d7eed,Eddie A,Law Abiding Citizens,chemistry,1,1,0
+b41d7eed,Edward H,Law Abiding Citizens,physics,0,1,-4
+b41d7eed,Frank,Lakeside,overall,0,0,0
+b41d7eed,Frank,Lakeside,math,0,0,0
+b41d7eed,Eddie A,Law Abiding Citizens,biology,0,1,-4
+b41d7eed,William W,Lakeside,biology,1,0,4
+b41d7eed,Eddie A,Law Abiding Citizens,other,1,0,4
+b80b65f4,Chris W,Montgomery Blair,overall,4,0,16
+b80b65f4,Chris W,Montgomery Blair,physics,3,0,12
+b80b65f4,Austin Z,Arcadia B,overall,1,0,4
+b80b65f4,Austin Z,Arcadia B,physics,1,0,4
+b80b65f4,Chris W,Montgomery Blair,math,1,0,4
+b80b65f4,Samuel W,Montgomery Blair,overall,2,2,0
+b80b65f4,Samuel W,Montgomery Blair,biology,1,2,-4
+b80b65f4,Paxton Lin,Arcadia B,overall,2,0,8
+b80b65f4,Paxton Lin,Arcadia B,biology,1,0,4
+b80b65f4,Paxton Lin,Arcadia B,chemistry,1,0,4
+b80b65f4,Paxton Lin,Arcadia B,ess,0,0,0
+b80b65f4,Henry L,Montgomery Blair,overall,1,0,4
+b80b65f4,Henry L,Montgomery Blair,ess,1,0,4
+b80b65f4,Kevin W,Arcadia B,overall,5,0,20
+b80b65f4,Kevin W,Arcadia B,math,1,0,4
+b80b65f4,Sam E,Montgomery Blair,overall,4,0,16
+b80b65f4,Sam E,Montgomery Blair,biology,1,0,4
+b80b65f4,Kevin W,Arcadia B,chemistry,2,0,8
+b80b65f4,Samuel W,Montgomery Blair,ess,1,0,4
+b80b65f4,Kevin W,Arcadia B,ess,0,0,0
+b80b65f4,Sam E,Montgomery Blair,math,2,0,8
+b80b65f4,Sam E,Montgomery Blair,chemistry,1,0,4
+b80b65f4,Kevin W,Arcadia B,biology,1,0,4
+b80b65f4,Sam E,Montgomery Blair,other,0,0,0
+b80b65f4,Kevin W,Arcadia B,other,1,0,4
+bf6ecb62,Jason L,North Allegheny,overall,2,0,8
+bf6ecb62,Jason L,North Allegheny,physics,1,0,4
+bf6ecb62,Ethan Wang,Arcadia A,overall,7,2,20
+bf6ecb62,Ethan Wang,Arcadia A,physics,1,0,4
+bf6ecb62,Jason L,North Allegheny,math,1,0,4
+bf6ecb62,Ethan Wang,Arcadia A,biology,1,1,0
+bf6ecb62,Kaartic M,North Allegheny,overall,2,0,8
+bf6ecb62,Kaartic M,North Allegheny,biology,2,0,8
+bf6ecb62,Ethan Wang,Arcadia A,chemistry,2,1,4
+bf6ecb62,Andrew F,North Allegheny,overall,4,0,16
+bf6ecb62,Andrew F,North Allegheny,ess,2,0,8
+bf6ecb62,Ethan Wang,Arcadia A,math,2,0,8
+bf6ecb62,Leo Y,North Allegheny,overall,3,1,8
+bf6ecb62,Leo Y,North Allegheny,biology,1,0,4
+bf6ecb62,Leo Y,North Allegheny,ess,0,1,-4
+bf6ecb62,Ethan Wang,Arcadia A,ess,1,0,4
+bf6ecb62,Andrew F,North Allegheny,physics,1,0,4
+bf6ecb62,Andrew F,North Allegheny,math,1,0,4
+bf6ecb62,Leo Y,North Allegheny,chemistry,2,0,8
+bf6ecb62,Jason L,North Allegheny,other,0,0,0
+bf6ecb62,Ethan Wang,Arcadia A,other,0,0,0
+c0fad11c,Monish S,WWPS A,overall,5,4,4
+c0fad11c,Monish S,WWPS A,physics,1,1,0
+c0fad11c,Shirley V,SSP Warriors,overall,1,1,0
+c0fad11c,Shirley V,SSP Warriors,physics,0,0,0
+c0fad11c,Monish S,WWPS A,math,3,0,12
+c0fad11c,Arjun D,WWPS A,overall,3,0,12
+c0fad11c,Arjun D,WWPS A,biology,3,0,12
+c0fad11c,Akhil M,WWPS A,overall,3,1,8
+c0fad11c,Akhil M,WWPS A,chemistry,2,1,4
+c0fad11c,Arjun D,WWPS A,ess,0,0,0
+c0fad11c,allison,SSP Warriors,overall,0,0,0
+c0fad11c,allison,SSP Warriors,ess,0,0,0
+c0fad11c,Sneha,SSP Warriors,overall,3,0,12
+c0fad11c,Sneha,SSP Warriors,chemistry,2,0,8
+c0fad11c,Monish S,WWPS A,ess,1,1,0
+c0fad11c,Shirley V,SSP Warriors,ess,0,0,0
+c0fad11c,Shirley V,SSP Warriors,biology,1,0,4
+c0fad11c,Monish S,WWPS A,chemistry,0,1,-4
+c0fad11c,Shirley V,SSP Warriors,math,0,0,0
+c0fad11c,Shirley V,SSP Warriors,chemistry,0,1,-4
+c0fad11c,Akhil M,WWPS A,ess,1,0,4
+c0fad11c,Monish S,WWPS A,other,0,1,-4
+c0fad11c,Sneha,SSP Warriors,other,1,0,4
+cc109f27,Daniel Y,School of Chemistry,overall,2,1,4
+cc109f27,Daniel Y,School of Chemistry,physics,0,1,-4
+cc109f27,Connor Chang,Clang! Cloom! Clash!,overall,2,1,4
+cc109f27,Connor Chang,Clang! Cloom! Clash!,physics,1,0,4
+cc109f27,Vishnu M,Clang! Cloom! Clash!,overall,4,1,12
+cc109f27,Vishnu M,Clang! Cloom! Clash!,math,1,0,4
+cc109f27,Haru G,School of Chemistry,overall,1,1,0
+cc109f27,Haru G,School of Chemistry,biology,1,1,0
+cc109f27,suzuko o,Clang! Cloom! Clash!,overall,8,1,28
+cc109f27,suzuko o,Clang! Cloom! Clash!,biology,3,0,12
+cc109f27,Vishnu M,Clang! Cloom! Clash!,chemistry,2,1,4
+cc109f27,Vishnu M,Clang! Cloom! Clash!,ess,1,0,4
+cc109f27,suzuko o,Clang! Cloom! Clash!,physics,2,0,8
+cc109f27,suzuko o,Clang! Cloom! Clash!,math,1,1,0
+cc109f27,Daniel Y,School of Chemistry,math,1,0,4
+cc109f27,Daniel Y,School of Chemistry,chemistry,1,0,4
+cc109f27,Connor Chang,Clang! Cloom! Clash!,ess,1,0,4
+cc109f27,Haru G,School of Chemistry,physics,0,0,0
+cc109f27,Connor Chang,Clang! Cloom! Clash!,biology,0,1,-4
+cc109f27,suzuko o,Clang! Cloom! Clash!,chemistry,1,0,4
+cc109f27,Ethan Z,School of Chemistry,overall,2,0,8
+cc109f27,Ethan Z,School of Chemistry,ess,2,0,8
+cc109f27,Vishnu M,Clang! Cloom! Clash!,physics,0,0,0
+cc109f27,Daniel Y,School of Chemistry,other,0,0,0
+cc109f27,suzuko o,Clang! Cloom! Clash!,other,1,0,4
+d2debd35,marty h,VMATHs,overall,3,0,12
+d2debd35,marty h,VMATHs,physics,2,0,8
+d2debd35,Abhishek C,Doral Academy,overall,4,1,12
+d2debd35,Abhishek C,Doral Academy,physics,1,0,4
+d2debd35,Abhishek C,Doral Academy,math,2,1,4
+d2debd35,Varun G,VMATHs,overall,1,0,4
+d2debd35,Varun G,VMATHs,math,1,0,4
+d2debd35,Neil H,Doral Academy,overall,1,1,0
+d2debd35,Neil H,Doral Academy,biology,1,1,0
+d2debd35,Santiago S,Doral Academy,overall,3,0,12
+d2debd35,Santiago S,Doral Academy,chemistry,3,0,12
+d2debd35,Shaun I,VMATHs,overall,2,1,4
+d2debd35,Shaun I,VMATHs,ess,1,0,4
+d2debd35,Shalina Liu,Doral Academy,overall,1,0,4
+d2debd35,Shalina Liu,Doral Academy,ess,1,0,4
+d2debd35,uddip k,VMATHs,overall,2,0,8
+d2debd35,uddip k,VMATHs,biology,2,0,8
+d2debd35,Shaun I,VMATHs,chemistry,0,1,-4
+d2debd35,Abhishek C,Doral Academy,ess,0,0,0
+d2debd35,marty h,VMATHs,math,1,0,4
+d2debd35,Shaun I,VMATHs,biology,1,0,4
+d2debd35,Abhishek C,Doral Academy,other,1,0,4
+d73d6fd7,Travis D,Punahou,overall,8,2,24
+d73d6fd7,Travis D,Punahou,physics,1,0,4
+d73d6fd7,Brandon,Jordan,overall,2,0,8
+d73d6fd7,Brandon,Jordan,physics,1,0,4
+d73d6fd7,Travis D,Punahou,math,2,1,4
+d73d6fd7,Brandon,Jordan,math,1,0,4
+d73d6fd7,Max T,Jordan,overall,3,0,12
+d73d6fd7,Max T,Jordan,biology,3,0,12
+d73d6fd7,Travis D,Punahou,chemistry,2,1,4
+d73d6fd7,Travis D,Punahou,ess,2,0,8
+d73d6fd7,Avish B,Jordan,overall,1,0,4
+d73d6fd7,Avish B,Jordan,ess,0,0,0
+d73d6fd7,William Chen,Jordan,overall,1,1,0
+d73d6fd7,William Chen,Jordan,math,1,1,0
+d73d6fd7,Luke Itomura,Punahou,overall,1,1,0
+d73d6fd7,Luke Itomura,Punahou,biology,1,1,0
+d73d6fd7,Max T,Jordan,ess,0,0,0
+d73d6fd7,Avish B,Jordan,physics,0,0,0
+d73d6fd7,Avish B,Jordan,chemistry,1,0,4
+d73d6fd7,Ty Dutoit,Punahou,overall,1,0,4
+d73d6fd7,Ty Dutoit,Punahou,physics,1,0,4
+d73d6fd7,Brandon,Jordan,chemistry,0,0,0
+d73d6fd7,Travis D,Punahou,other,1,0,4
+e390003e,Likhith M,Gargy Bomy,overall,1,3,-8
+e390003e,Likhith M,Gargy Bomy,physics,1,2,-4
+e390003e,Ryan K,Shallow Walk A,overall,7,3,16
+e390003e,Ryan K,Shallow Walk A,physics,1,1,0
+e390003e,Riyan N,Shallow Walk A,overall,3,2,4
+e390003e,Riyan N,Shallow Walk A,math,2,0,8
+e390003e,Abhinav A,Gargy Bomy,overall,4,2,8
+e390003e,Abhinav A,Gargy Bomy,biology,3,0,12
+e390003e,Ryan K,Shallow Walk A,chemistry,4,0,16
+e390003e,Abhinav A,Gargy Bomy,ess,1,0,4
+e390003e,Likhith M,Gargy Bomy,math,0,1,-4
+e390003e,Abhinav A,Gargy Bomy,chemistry,0,2,-8
+e390003e,Ryan K,Shallow Walk A,ess,1,0,4
+e390003e,Riyan N,Shallow Walk A,physics,1,1,0
+e390003e,Ryan K,Shallow Walk A,math,1,0,4
+e390003e,Ryan K,Shallow Walk A,biology,0,2,-8
+e390003e,Nimit A,Shallow Walk A,overall,1,0,4
+e390003e,Nimit A,Shallow Walk A,ess,1,0,4
+e390003e,Riyan N,Shallow Walk A,other,0,1,-4
+e390003e,Likhith M,Gargy Bomy,other,0,0,0
+ead1ae44,Kian D,School of Geology,overall,7,1,24
+ead1ae44,Kian D,School of Geology,physics,1,0,4
+ead1ae44,Lucas L,School of Biology,overall,1,1,0
+ead1ae44,Lucas L,School of Biology,math,0,1,-4
+ead1ae44,Rohan G,School of Geology,overall,5,4,4
+ead1ae44,Rohan G,School of Geology,math,1,1,0
+ead1ae44,Shannon I,School of Biology,overall,4,1,12
+ead1ae44,Shannon I,School of Biology,biology,2,1,4
+ead1ae44,Kian D,School of Geology,biology,2,0,8
+ead1ae44,Kian D,School of Geology,chemistry,2,1,4
+ead1ae44,Shannon I,School of Biology,chemistry,1,0,4
+ead1ae44,Kian D,School of Geology,ess,2,0,8
+ead1ae44,Rohan G,School of Geology,physics,2,1,4
+ead1ae44,Nevin J,School of Biology,overall,0,1,-4
+ead1ae44,Nevin J,School of Biology,math,0,1,-4
+ead1ae44,Rohan G,School of Geology,ess,0,2,-8
+ead1ae44,Shannon I,School of Biology,ess,0,0,0
+ead1ae44,Shannon I,School of Biology,math,1,0,4
+ead1ae44,Lucas L,School of Biology,physics,1,0,4
+ead1ae44,Kian D,School of Geology,math,0,0,0
+ead1ae44,Rohan G,School of Geology,chemistry,1,0,4
+ead1ae44,Rohan G,School of Geology,other,1,0,4
+f69e6526,Roshan A,MSJ A,overall,7,3,16
+f69e6526,Roshan A,MSJ A,physics,1,2,-4
+f69e6526,Advaith M,MSJ A,overall,3,2,4
+f69e6526,Advaith M,MSJ A,math,1,1,0
+f69e6526,Parv S,Foothill,overall,6,3,12
+f69e6526,Parv S,Foothill,biology,1,1,0
+f69e6526,Advaith M,MSJ A,biology,1,1,0
+f69e6526,Roshan A,MSJ A,chemistry,2,0,8
+f69e6526,Roshan A,MSJ A,ess,3,1,8
+f69e6526,Parv S,Foothill,physics,1,0,4
+f69e6526,Shashank V,Foothill,overall,1,0,4
+f69e6526,Shashank V,Foothill,math,1,0,4
+f69e6526,Roshan A,MSJ A,biology,1,0,4
+f69e6526,Parv S,Foothill,chemistry,1,2,-4
+f69e6526,Advaith M,MSJ A,chemistry,1,0,4
+f69e6526,Shashank V,Foothill,physics,0,0,0
+f69e6526,Parv S,Foothill,math,1,0,4
+f69e6526,Arun D,Foothill,overall,1,0,4
+f69e6526,Arun D,Foothill,biology,1,0,4
+f69e6526,Parv S,Foothill,ess,1,0,4
+f69e6526,Advaith M,MSJ A,other,0,0,0
+f69e6526,Parv S,Foothill,other,1,0,4
+f92a9fc4,Owen M,CCA A,overall,1,1,0
+f92a9fc4,Owen M,CCA A,physics,1,0,4
+f92a9fc4,daniel l,Re2rement Home,overall,8,2,24
+f92a9fc4,daniel l,Re2rement Home,physics,1,1,0
+f92a9fc4,daniel l,Re2rement Home,math,2,1,4
+f92a9fc4,Ashley L,CCA A,overall,2,0,8
+f92a9fc4,Ashley L,CCA A,math,1,0,4
+f92a9fc4,Alex D,CCA A,overall,2,1,4
+f92a9fc4,Alex D,CCA A,biology,1,1,0
+f92a9fc4,Angelina Y,Re2rement Home,overall,4,1,12
+f92a9fc4,Angelina Y,Re2rement Home,biology,2,0,8
+f92a9fc4,daniel l,Re2rement Home,chemistry,2,0,8
+f92a9fc4,Angelina Y,Re2rement Home,ess,0,1,-4
+f92a9fc4,Alex D,CCA A,ess,1,0,4
+f92a9fc4,Owen M,CCA A,math,0,1,-4
+f92a9fc4,daniel l,Re2rement Home,ess,1,0,4
+f92a9fc4,Angelina Y,Re2rement Home,chemistry,2,0,8
+f92a9fc4,daniel l,Re2rement Home,biology,1,0,4
+f92a9fc4,Ashley L,CCA A,ess,1,0,4
+f92a9fc4,daniel l,Re2rement Home,other,1,0,4
+3fdfcecb,Haiyue M,CCA A,overall,5,0,20
+3fdfcecb,Haiyue M,CCA A,physics,1,0,4
+3fdfcecb,Abhishek C,Doral Academy,overall,3,0,12
+3fdfcecb,Abhishek C,Doral Academy,math,1,0,4
+3fdfcecb,Owen M,CCA A,overall,3,0,12
+3fdfcecb,Owen M,CCA A,math,1,0,4
+3fdfcecb,Neil H,Doral Academy,overall,2,0,8
+3fdfcecb,Neil H,Doral Academy,biology,2,0,8
+3fdfcecb,Alex D,CCA A,overall,0,0,0
+3fdfcecb,Alex D,CCA A,biology,0,0,0
+3fdfcecb,Haiyue M,CCA A,chemistry,2,0,8
+3fdfcecb,Shalina Liu,Doral Academy,overall,1,0,4
+3fdfcecb,Shalina Liu,Doral Academy,ess,1,0,4
+3fdfcecb,Owen M,CCA A,physics,2,0,8
+3fdfcecb,Haiyue M,CCA A,biology,1,0,4
+3fdfcecb,Neil H,Doral Academy,ess,0,0,0
+3fdfcecb,Abhishek C,Doral Academy,physics,0,0,0
+3fdfcecb,Haiyue M,CCA A,math,0,0,0
+3fdfcecb,Santiago S,Doral Academy,overall,2,0,8
+3fdfcecb,Santiago S,Doral Academy,chemistry,2,0,8
+3fdfcecb,Abhishek C,Doral Academy,ess,1,0,4
+3fdfcecb,Neil H,Doral Academy,physics,0,0,0
+3fdfcecb,Haiyue M,CCA A,ess,1,0,4
+3fdfcecb,Abhishek C,Doral Academy,other,1,0,4
+5cb4a878,Rish B.,Shallow Walk A,overall,1,0,4
+5cb4a878,Rish B.,Shallow Walk A,physics,1,0,4
+5cb4a878,Ryan K,Shallow Walk A,overall,7,0,28
+5cb4a878,Ryan K,Shallow Walk A,math,2,0,8
+5cb4a878,Nimit A,Shallow Walk A,overall,0,1,-4
+5cb4a878,Nimit A,Shallow Walk A,biology,0,1,-4
+5cb4a878,Kaylee Z,Palo Alto,overall,1,0,4
+5cb4a878,Kaylee Z,Palo Alto,biology,1,0,4
+5cb4a878,Ryan K,Shallow Walk A,chemistry,2,0,8
+5cb4a878,Ryan K,Shallow Walk A,ess,1,0,4
+5cb4a878,Andrew W,Palo Alto,overall,2,0,8
+5cb4a878,Andrew W,Palo Alto,physics,1,0,4
+5cb4a878,Ryan K,Shallow Walk A,biology,2,0,8
+5cb4a878,Andrew W,Palo Alto,chemistry,0,0,0
+5cb4a878,Nimit A,Shallow Walk A,ess,0,0,0
+5cb4a878,Kevin P,Palo Alto,overall,3,0,12
+5cb4a878,Kevin P,Palo Alto,ess,2,0,8
+5cb4a878,Riyan N,Shallow Walk A,overall,3,0,12
+5cb4a878,Riyan N,Shallow Walk A,physics,1,0,4
+5cb4a878,Riyan N,Shallow Walk A,math,1,0,4
+5cb4a878,Andrew W,Palo Alto,math,1,0,4
+5cb4a878,Kevin P,Palo Alto,chemistry,1,0,4
+5cb4a878,Andrew W,Palo Alto,other,0,0,0
+5cb4a878,Riyan N,Shallow Walk A,other,1,0,4
+62493098,Alex W,Wheaton,overall,8,0,32
+62493098,Alex W,Wheaton,physics,1,0,4
+62493098,Alex Zhan,BISV HS B,overall,4,0,16
+62493098,Alex Zhan,BISV HS B,math,3,0,12
+62493098,Alex W,Wheaton,math,0,0,0
+62493098,Alex W,Wheaton,biology,1,0,4
+62493098,Alex W,Wheaton,chemistry,3,0,12
+62493098,Andrew Z,Wheaton,overall,2,0,8
+62493098,Andrew Z,Wheaton,ess,1,0,4
+62493098,Andrew Z,Wheaton,physics,1,0,4
+62493098,ethan p,Wheaton,overall,1,0,4
+62493098,ethan p,Wheaton,biology,1,0,4
+62493098,Andrew Z,Wheaton,chemistry,0,0,0
+62493098,Alex Zhan,BISV HS B,chemistry,1,0,4
+62493098,Alex W,Wheaton,ess,3,0,12
+62493098,caleb w,Wheaton,overall,1,0,4
+62493098,caleb w,Wheaton,physics,1,0,4
+62493098,ZhiyuZhao BISV,BISV HS B,overall,0,0,0
+62493098,ZhiyuZhao BISV,BISV HS B,physics,0,0,0
+62493098,ZhiyuZhao BISV,BISV HS B,biology,0,0,0
+62493098,Timo Ye,BISV HS B,overall,1,0,4
+62493098,Timo Ye,BISV HS B,other,1,0,4
+671c2c31,Lucas Q,BISV HS A,overall,7,2,20
+671c2c31,Lucas Q,BISV HS A,physics,2,1,4
+671c2c31,Henry Z,Arcadia B,overall,1,0,4
+671c2c31,Henry Z,Arcadia B,physics,1,0,4
+671c2c31,Lucas Q,BISV HS A,math,0,0,0
+671c2c31,Kevin W,Arcadia B,overall,3,1,8
+671c2c31,Kevin W,Arcadia B,math,2,0,8
+671c2c31,Larry Z,BISV HS A,overall,4,0,16
+671c2c31,Larry Z,BISV HS A,biology,4,0,16
+671c2c31,Lucas Q,BISV HS A,chemistry,3,0,12
+671c2c31,Lucas Q,BISV HS A,ess,2,1,4
+671c2c31,Paxton Lin,Arcadia B,overall,2,1,4
+671c2c31,Paxton Lin,Arcadia B,chemistry,1,0,4
+671c2c31,Austin Z,Arcadia B,overall,0,0,0
+671c2c31,Austin Z,Arcadia B,ess,0,0,0
+671c2c31,Paxton Lin,Arcadia B,physics,0,1,-4
+671c2c31,Kevin W,Arcadia B,biology,0,1,-4
+671c2c31,Kevin W,Arcadia B,ess,1,0,4
+671c2c31,Zanda Z,BISV HS A,overall,0,1,-4
+671c2c31,Zanda Z,BISV HS A,other,0,1,-4
+671c2c31,Paxton Lin,Arcadia B,other,1,0,4
+6964cc1a,suzuko o,Clang! Cloom! Clash!,overall,7,0,28
+6964cc1a,suzuko o,Clang! Cloom! Clash!,physics,2,0,8
+6964cc1a,Monish S,WWPS A,overall,3,3,0
+6964cc1a,Monish S,WWPS A,math,1,2,-4
+6964cc1a,Vishnu M,Clang! Cloom! Clash!,overall,5,0,20
+6964cc1a,Vishnu M,Clang! Cloom! Clash!,math,2,0,8
+6964cc1a,Arjun D,WWPS A,overall,1,1,0
+6964cc1a,Arjun D,WWPS A,biology,1,1,0
+6964cc1a,suzuko o,Clang! Cloom! Clash!,chemistry,1,0,4
+6964cc1a,suzuko o,Clang! Cloom! Clash!,ess,1,0,4
+6964cc1a,suzuko o,Clang! Cloom! Clash!,biology,3,0,12
+6964cc1a,connor z,Clang! Cloom! Clash!,overall,3,0,12
+6964cc1a,connor z,Clang! Cloom! Clash!,chemistry,2,0,8
+6964cc1a,Vishnu M,Clang! Cloom! Clash!,ess,1,0,4
+6964cc1a,Monish S,WWPS A,physics,1,0,4
+6964cc1a,Monish S,WWPS A,ess,1,1,0
+6964cc1a,connor z,Clang! Cloom! Clash!,physics,0,0,0
+6964cc1a,Vishnu M,Clang! Cloom! Clash!,chemistry,1,0,4
+6964cc1a,connor z,Clang! Cloom! Clash!,ess,1,0,4
+6964cc1a,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
+7a191579,Roshan A,MSJ A,overall,5,2,12
+7a191579,Roshan A,MSJ A,physics,1,2,-4
+7a191579,uddip k,VMATHs,overall,1,1,0
+7a191579,uddip k,VMATHs,physics,0,0,0
+7a191579,Advaith M,MSJ A,overall,3,2,4
+7a191579,Advaith M,MSJ A,math,2,1,4
+7a191579,Varun G,VMATHs,overall,2,0,8
+7a191579,Varun G,VMATHs,math,2,0,8
+7a191579,theenash s,MSJ A,overall,4,0,16
+7a191579,theenash s,MSJ A,biology,3,0,12
+7a191579,theenash s,MSJ A,chemistry,1,0,4
+7a191579,Roshan A,MSJ A,ess,3,0,12
+7a191579,Advaith M,MSJ A,physics,0,1,-4
+7a191579,marty h,VMATHs,overall,1,0,4
+7a191579,marty h,VMATHs,physics,1,0,4
+7a191579,Shaun I,VMATHs,overall,3,1,8
+7a191579,Shaun I,VMATHs,biology,1,0,4
+7a191579,Shaun I,VMATHs,chemistry,1,1,0
+7a191579,Advaith M,MSJ A,chemistry,1,0,4
+7a191579,Shaun I,VMATHs,physics,0,0,0
+7a191579,uddip k,VMATHs,biology,0,1,-4
+7a191579,Roshan A,MSJ A,chemistry,1,0,4
+7a191579,uddip k,VMATHs,ess,1,0,4
+7a191579,Shaun I,VMATHs,other,1,0,4
+87ee6fb5,Daniel Y,School of Chemistry,overall,2,1,4
+87ee6fb5,Daniel Y,School of Chemistry,physics,2,0,8
+87ee6fb5,Sola M,School of Chemistry,overall,3,1,8
+87ee6fb5,Sola M,School of Chemistry,math,1,0,4
+87ee6fb5,Haru G,School of Chemistry,overall,3,0,12
+87ee6fb5,Haru G,School of Chemistry,biology,3,0,12
+87ee6fb5,Dennis J,WWPS C,overall,7,1,24
+87ee6fb5,Dennis J,WWPS C,chemistry,2,0,8
+87ee6fb5,Sola M,School of Chemistry,ess,2,0,8
+87ee6fb5,Dennis J,WWPS C,physics,1,1,0
+87ee6fb5,Dennis J,WWPS C,math,3,0,12
+87ee6fb5,Daniel Y,School of Chemistry,chemistry,0,1,-4
+87ee6fb5,Daniel Y,School of Chemistry,ess,0,0,0
+87ee6fb5,Dennis J,WWPS C,ess,0,0,0
+87ee6fb5,Dennis J,WWPS C,biology,0,0,0
+87ee6fb5,Min Shin,School of Chemistry,overall,1,1,0
+87ee6fb5,Min Shin,School of Chemistry,chemistry,1,0,4
+87ee6fb5,Min Shin,School of Chemistry,physics,0,1,-4
+87ee6fb5,Sola M,School of Chemistry,other,0,1,-4
+87ee6fb5,Dennis J,WWPS C,other,1,0,4
+8f456612,Ethan Wang,Arcadia A,overall,9,1,32
+8f456612,Ethan Wang,Arcadia A,physics,2,0,8
+8f456612,Ethan Wang,Arcadia A,math,3,1,8
+8f456612,Likhith M,Gargy Bomy,overall,1,1,0
+8f456612,Likhith M,Gargy Bomy,math,1,1,0
+8f456612,Shannon H,Arcadia A,overall,2,0,8
+8f456612,Shannon H,Arcadia A,biology,2,0,8
+8f456612,Ethan Wang,Arcadia A,chemistry,3,0,12
+8f456612,Abhinav A,Gargy Bomy,overall,4,4,0
+8f456612,Abhinav A,Gargy Bomy,ess,2,1,4
+8f456612,Abhinav A,Gargy Bomy,physics,0,1,-4
+8f456612,Abhinav A,Gargy Bomy,biology,2,1,4
+8f456612,Abhinav A,Gargy Bomy,chemistry,0,0,0
+8f456612,Ethan Wang,Arcadia A,ess,0,0,0
+8f456612,Likhith M,Gargy Bomy,physics,0,0,0
+8f456612,Jamie W,Arcadia A,overall,0,0,0
+8f456612,Jamie W,Arcadia A,ess,0,0,0
+8f456612,Abhinav A,Gargy Bomy,other,0,1,-4
+8f456612,Ethan Wang,Arcadia A,other,1,0,4
+a379afe1,Eonathan H,Law Abiding Citizens,overall,6,1,20
+a379afe1,Eonathan H,Law Abiding Citizens,physics,2,0,8
+a379afe1,Minghao G,North Hollywood,overall,1,1,0
+a379afe1,Minghao G,North Hollywood,math,1,1,0
+a379afe1,Eddie A,Law Abiding Citizens,overall,4,0,16
+a379afe1,Eddie A,Law Abiding Citizens,math,1,0,4
+a379afe1,Eonathan H,Law Abiding Citizens,biology,1,0,4
+a379afe1,Eddie A,Law Abiding Citizens,chemistry,3,0,12
+a379afe1,Eonathan H,Law Abiding Citizens,ess,2,0,8
+a379afe1,Kensuke O,North Hollywood,overall,3,0,12
+a379afe1,Kensuke O,North Hollywood,physics,1,0,4
+a379afe1,Eonathan H,Law Abiding Citizens,math,1,1,0
+a379afe1,Edward H,Law Abiding Citizens,overall,2,0,8
+a379afe1,Edward H,Law Abiding Citizens,biology,1,0,4
+a379afe1,Charles H,North Hollywood,overall,0,1,-4
+a379afe1,Charles H,North Hollywood,chemistry,0,1,-4
+a379afe1,Kensuke O,North Hollywood,ess,2,0,8
+a379afe1,Jake R,North Hollywood,overall,2,0,8
+a379afe1,Jake R,North Hollywood,biology,2,0,8
+a379afe1,Edward H,Law Abiding Citizens,chemistry,1,0,4
+a379afe1,Charles H,North Hollywood,physics,0,0,0
+a379afe1,Eonathan H,Law Abiding Citizens,other,0,0,0
+b04953c7,Sohil,Lynbroke,overall,7,1,24
+b04953c7,Sohil,Lynbroke,physics,3,0,12
+b04953c7,bluewater16,Royal Hogs,overall,3,2,4
+b04953c7,bluewater16,Royal Hogs,math,0,2,-8
+b04953c7,Sohil,Lynbroke,math,4,0,16
+b04953c7,Sohil,Lynbroke,biology,0,0,0
+b04953c7,Achuth V,Royal Hogs,overall,3,0,12
+b04953c7,Achuth V,Royal Hogs,biology,3,0,12
+b04953c7,sumin,Royal Hogs,overall,6,0,24
+b04953c7,sumin,Royal Hogs,chemistry,2,0,8
+b04953c7,sumin,Royal Hogs,ess,4,0,16
+b04953c7,Sohil,Lynbroke,chemistry,0,1,-4
+b04953c7,Tiger,Royal Hogs,overall,1,0,4
+b04953c7,Tiger,Royal Hogs,chemistry,1,0,4
+b04953c7,bluewater16,Royal Hogs,physics,1,0,4
+b04953c7,bluewater16,Royal Hogs,chemistry,1,0,4
+b04953c7,Sohil,Lynbroke,other,0,0,0
+b04953c7,bluewater16,Royal Hogs,other,1,0,4
+b57d983a,Rohan G,School of Geology,overall,6,1,20
+b57d983a,Rohan G,School of Geology,physics,0,1,-4
+b57d983a,Angelina Y,Re2rement Home,overall,7,0,28
+b57d983a,Angelina Y,Re2rement Home,physics,1,0,4
+b57d983a,Rohan G,School of Geology,math,4,0,16
+b57d983a,Kian D,School of Geology,overall,6,3,12
+b57d983a,Kian D,School of Geology,biology,1,2,-4
+b57d983a,Rohan G,School of Geology,chemistry,1,0,4
+b57d983a,Kian D,School of Geology,ess,1,0,4
+b57d983a,Kian D,School of Geology,physics,2,1,4
+b57d983a,Angelina Y,Re2rement Home,biology,3,0,12
+b57d983a,Kian D,School of Geology,chemistry,2,0,8
+b57d983a,Angelina Y,Re2rement Home,ess,2,0,8
+b57d983a,daniel l,Re2rement Home,overall,2,0,8
+b57d983a,daniel l,Re2rement Home,physics,1,0,4
+b57d983a,Angelina Y,Re2rement Home,chemistry,1,0,4
+b57d983a,Rohan G,School of Geology,ess,1,0,4
+b57d983a,daniel l,Re2rement Home,other,1,0,4
+b834e417,akhil,ASFA,overall,8,1,28
+b834e417,akhil,ASFA,physics,2,1,4
+b834e417,Sam E,Montgomery Blair,overall,1,1,0
+b834e417,Sam E,Montgomery Blair,physics,1,0,4
+b834e417,Samuel W,Montgomery Blair,overall,3,3,0
+b834e417,Samuel W,Montgomery Blair,math,0,1,-4
+b834e417,Raymond,ASFA,overall,0,0,0
+b834e417,Raymond,ASFA,math,0,0,0
+b834e417,Samuel W,Montgomery Blair,biology,2,2,0
+b834e417,akhil,ASFA,biology,1,0,4
+b834e417,akhil,ASFA,chemistry,3,0,12
+b834e417,akhil,ASFA,ess,2,0,8
+b834e417,Chris W,Montgomery Blair,overall,4,0,16
+b834e417,Chris W,Montgomery Blair,math,3,0,12
+b834e417,Chris W,Montgomery Blair,physics,1,0,4
+b834e417,Sam E,Montgomery Blair,chemistry,0,1,-4
+b834e417,Samuel W,Montgomery Blair,ess,1,0,4
+b834e417,Henry L,Montgomery Blair,overall,1,0,4
+b834e417,Henry L,Montgomery Blair,ess,1,0,4
+b834e417,akhil,ASFA,other,0,0,0
+b834e417,Chris W,Montgomery Blair,other,0,0,0
+cadfc39e,Lucas L,School of Biology,overall,2,3,-4
+cadfc39e,Lucas L,School of Biology,physics,2,1,4
+cadfc39e,Oliver Y,Enloe,overall,1,1,0
+cadfc39e,Oliver Y,Enloe,biology,1,1,0
+cadfc39e,Nevin J,School of Biology,overall,0,0,0
+cadfc39e,Nevin J,School of Biology,biology,0,0,0
+cadfc39e,Vishruth K,Enloe,overall,3,1,8
+cadfc39e,Vishruth K,Enloe,chemistry,1,1,0
+cadfc39e,Shannon I,School of Biology,overall,2,0,8
+cadfc39e,Shannon I,School of Biology,chemistry,2,0,8
+cadfc39e,Ryan Y,Enloe,overall,3,0,12
+cadfc39e,Ryan Y,Enloe,ess,2,0,8
+cadfc39e,Lucas L,School of Biology,ess,0,1,-4
+cadfc39e,Ryan Y,Enloe,math,1,0,4
+cadfc39e,Lucas L,School of Biology,chemistry,0,0,0
+cadfc39e,Vishruth K,Enloe,physics,1,0,4
+cadfc39e,Oliver Y,Enloe,math,0,0,0
+cadfc39e,Matthew D,Enloe,overall,1,0,4
+cadfc39e,Matthew D,Enloe,physics,0,0,0
+cadfc39e,Matthew D,Enloe,math,1,0,4
+cadfc39e,Lucas L,School of Biology,other,0,1,-4
+cadfc39e,Vishruth K,Enloe,other,1,0,4
+e4d5a171,Aldric B,WWPN,overall,4,1,12
+e4d5a171,Aldric B,WWPN,physics,2,1,4
+e4d5a171,Easton W,WWPN,overall,4,1,12
+e4d5a171,Easton W,WWPN,math,2,0,8
+e4d5a171,Aayush K.,WWPN,overall,1,1,0
+e4d5a171,Aayush K.,WWPN,biology,1,1,0
+e4d5a171,Kaartic M,North Allegheny,overall,1,0,4
+e4d5a171,Kaartic M,North Allegheny,biology,1,0,4
+e4d5a171,Jason L,WWPN,overall,1,0,4
+e4d5a171,Jason L,WWPN,chemistry,1,0,4
+e4d5a171,Aldric B,WWPN,ess,1,0,4
+e4d5a171,Jason L,North Allegheny,overall,2,0,8
+e4d5a171,Jason L,North Allegheny,math,1,0,4
+e4d5a171,Leo Y,North Allegheny,overall,2,0,8
+e4d5a171,Leo Y,North Allegheny,biology,1,0,4
+e4d5a171,Leo Y,North Allegheny,chemistry,1,0,4
+e4d5a171,Andrew F,North Allegheny,overall,3,0,12
+e4d5a171,Andrew F,North Allegheny,ess,1,0,4
+e4d5a171,Jason L,North Allegheny,physics,1,0,4
+e4d5a171,Andrew F,North Allegheny,math,1,0,4
+e4d5a171,Aldric B,WWPN,chemistry,1,0,4
+e4d5a171,Easton W,WWPN,ess,2,0,8
+e4d5a171,Andrew F,North Allegheny,physics,0,0,0
+e4d5a171,Andrew F,North Allegheny,chemistry,1,0,4
+e4d5a171,Easton W,WWPN,other,0,1,-4
+e4d5a171,Jason L,North Allegheny,other,0,0,0
+f2ae342a,Rutvik A,MSJ B,overall,5,0,20
+f2ae342a,Rutvik A,MSJ B,physics,4,0,16
+f2ae342a,Kevin F,MAAOC,overall,0,1,-4
+f2ae342a,Kevin F,MAAOC,math,0,1,-4
+f2ae342a,Rutvik A,MSJ B,math,1,0,4
+f2ae342a,Anish A,MSJ B,overall,6,0,24
+f2ae342a,Anish A,MSJ B,biology,4,0,16
+f2ae342a,Praneel A,MAAOC,overall,4,4,0
+f2ae342a,Praneel A,MAAOC,chemistry,2,1,4
+f2ae342a,Anish A,MSJ B,chemistry,1,0,4
+f2ae342a,Arman A,MAAOC,overall,1,1,0
+f2ae342a,Arman A,MAAOC,ess,1,0,4
+f2ae342a,Ishaan K,MSJ B,overall,3,0,12
+f2ae342a,Ishaan K,MSJ B,math,1,0,4
+f2ae342a,Arman A,MAAOC,biology,0,1,-4
+f2ae342a,Abhinav KSK,MAAOC,overall,1,0,4
+f2ae342a,Abhinav KSK,MAAOC,chemistry,1,0,4
+f2ae342a,Ishaan K,MSJ B,ess,2,0,8
+f2ae342a,Abhinav KSK,MAAOC,math,0,0,0
+f2ae342a,Praneel A,MAAOC,ess,1,1,0
+f2ae342a,Praneel A,MAAOC,physics,0,1,-4
+f2ae342a,Praneel A,MAAOC,math,1,0,4
+f2ae342a,Praneel A,MAAOC,biology,0,1,-4
+f2ae342a,Praneel A,MAAOC,other,0,0,0
+f2ae342a,Anish A,MSJ B,other,1,0,4
+fc2c8f5b,Bryce T,SGVG,overall,4,1,12
+fc2c8f5b,Bryce T,SGVG,physics,1,1,0
+fc2c8f5b,Timothy C,University,overall,5,2,12
+fc2c8f5b,Timothy C,University,physics,2,1,4
+fc2c8f5b,Carl L,University,overall,2,1,4
+fc2c8f5b,Carl L,University,math,1,1,0
+fc2c8f5b,Stephanie Y,University,overall,3,0,12
+fc2c8f5b,Stephanie Y,University,biology,3,0,12
+fc2c8f5b,Judy T,SGVG,overall,0,0,0
+fc2c8f5b,Judy T,SGVG,biology,0,0,0
+fc2c8f5b,Timothy C,University,chemistry,1,1,0
+fc2c8f5b,Bryce T,SGVG,ess,3,0,12
+fc2c8f5b,Carl L,University,chemistry,1,0,4
+fc2c8f5b,Priya K,University,overall,0,0,0
+fc2c8f5b,Priya K,University,ess,0,0,0
+fc2c8f5b,Timothy C,University,math,1,0,4
+fc2c8f5b,Darius S,SGVG,overall,0,0,0
+fc2c8f5b,Darius S,SGVG,math,0,0,0
+fc2c8f5b,Tianhan H,SGVG,overall,1,0,4
+fc2c8f5b,Tianhan H,SGVG,chemistry,1,0,4
+fc2c8f5b,Timothy C,University,ess,1,0,4
+fc2c8f5b,Carl L,University,physics,0,0,0
+fc2c8f5b,Bryce T,SGVG,other,0,0,0
+fc2c8f5b,Carl L,University,other,0,0,0
+294d838c,Sohil,Lynbroke,overall,10,1,36
+294d838c,Sohil,Lynbroke,physics,2,1,4
+294d838c,Sohil,Lynbroke,math,4,0,16
+294d838c,Sohil,Lynbroke,biology,1,0,4
+294d838c,Ethan Wang,Arcadia A,overall,4,2,8
+294d838c,Ethan Wang,Arcadia A,chemistry,1,2,-4
+294d838c,Sohil,Lynbroke,ess,2,0,8
+294d838c,Ethan Wang,Arcadia A,physics,0,0,0
+294d838c,Ethan Wang,Arcadia A,biology,2,0,8
+294d838c,Sohil,Lynbroke,chemistry,1,0,4
+294d838c,Ethan Wang,Arcadia A,ess,0,0,0
+294d838c,Shannon H,Arcadia A,overall,0,0,0
+294d838c,Shannon H,Arcadia A,biology,0,0,0
+294d838c,Shannon H,Arcadia A,ess,0,0,0
+294d838c,Sohil,Lynbroke,other,0,0,0
+294d838c,Ethan Wang,Arcadia A,other,1,0,4
+3898e504,daniel l,Re2rement Home,overall,2,0,8
+3898e504,daniel l,Re2rement Home,physics,2,0,8
+3898e504,Timothy C,University,overall,1,4,-12
+3898e504,Timothy C,University,math,1,2,-4
+3898e504,Stephanie Y,University,overall,3,1,8
+3898e504,Stephanie Y,University,biology,3,1,8
+3898e504,Angelina Y,Re2rement Home,overall,6,1,20
+3898e504,Angelina Y,Re2rement Home,biology,1,1,0
+3898e504,Carl L,University,overall,2,2,0
+3898e504,Carl L,University,chemistry,0,2,-8
+3898e504,Angelina Y,Re2rement Home,chemistry,2,0,8
+3898e504,Angelina Y,Re2rement Home,ess,1,0,4
+3898e504,daniel l,Re2rement Home,math,0,0,0
+3898e504,daniel l,Re2rement Home,chemistry,0,0,0
+3898e504,Priya K,University,overall,3,0,12
+3898e504,Priya K,University,ess,3,0,12
+3898e504,Timothy C,University,physics,0,2,-8
+3898e504,Angelina Y,Re2rement Home,physics,2,0,8
+3898e504,Carl L,University,math,1,0,4
+3898e504,Angelina Y,Re2rement Home,other,0,0,0
+3898e504,Carl L,University,other,1,0,4
+5fc82915,Aaron C,BISV HS A,overall,1,0,4
+5fc82915,Aaron C,BISV HS A,physics,1,0,4
+5fc82915,Chris W,Montgomery Blair,overall,3,2,4
+5fc82915,Chris W,Montgomery Blair,math,1,1,0
+5fc82915,Larry Z,BISV HS A,overall,3,1,8
+5fc82915,Larry Z,BISV HS A,biology,3,1,8
+5fc82915,Samuel W,Montgomery Blair,overall,1,1,0
+5fc82915,Samuel W,Montgomery Blair,biology,1,0,4
+5fc82915,Lucas Q,BISV HS A,overall,6,3,12
+5fc82915,Lucas Q,BISV HS A,chemistry,2,1,4
+5fc82915,Aaron C,BISV HS A,ess,0,0,0
+5fc82915,Henry L,Montgomery Blair,overall,3,0,12
+5fc82915,Henry L,Montgomery Blair,ess,3,0,12
+5fc82915,Lucas Q,BISV HS A,physics,1,2,-4
+5fc82915,Chris W,Montgomery Blair,physics,2,1,4
+5fc82915,Lucas Q,BISV HS A,math,2,0,8
+5fc82915,Sam E,Montgomery Blair,overall,1,1,0
+5fc82915,Sam E,Montgomery Blair,chemistry,1,1,0
+5fc82915,Lucas Q,BISV HS A,ess,1,0,4
+5fc82915,Samuel W,Montgomery Blair,other,0,1,-4
+5fc82915,Larry Z,BISV HS A,other,0,0,0
+7528f607,Monish S,WWPS A,overall,2,1,4
+7528f607,Monish S,WWPS A,physics,1,1,0
+7528f607,Monish S,WWPS A,math,1,0,4
+7528f607,Arjun D,WWPS A,overall,4,1,12
+7528f607,Arjun D,WWPS A,biology,3,1,8
+7528f607,Akhil M,WWPS A,overall,1,1,0
+7528f607,Akhil M,WWPS A,chemistry,1,1,0
+7528f607,Daniel Y,School of Chemistry,overall,3,1,8
+7528f607,Daniel Y,School of Chemistry,ess,2,0,8
+7528f607,Ethan Z,School of Chemistry,overall,3,0,12
+7528f607,Ethan Z,School of Chemistry,physics,1,0,4
+7528f607,Dennis J,WWPS A,overall,0,1,-4
+7528f607,Dennis J,WWPS A,math,0,1,-4
+7528f607,Sola M,School of Chemistry,overall,6,0,24
+7528f607,Sola M,School of Chemistry,math,2,0,8
+7528f607,Ethan Z,School of Chemistry,chemistry,1,0,4
+7528f607,Ethan Z,School of Chemistry,ess,1,0,4
+7528f607,Sola M,School of Chemistry,physics,1,0,4
+7528f607,Daniel Y,School of Chemistry,math,0,1,-4
+7528f607,Sola M,School of Chemistry,chemistry,1,0,4
+7528f607,Sola M,School of Chemistry,ess,1,0,4
+7528f607,Daniel Y,School of Chemistry,physics,1,0,4
+7528f607,Sola M,School of Chemistry,biology,1,0,4
+7528f607,Monish S,WWPS A,ess,0,0,0
+7528f607,Daniel Y,School of Chemistry,other,0,0,0
+7528f607,Arjun D,WWPS A,other,1,0,4
+8108e9b5,Charles H,North Hollywood,overall,2,1,4
+8108e9b5,Charles H,North Hollywood,physics,2,0,8
+8108e9b5,Minghao G,North Hollywood,overall,3,0,12
+8108e9b5,Minghao G,North Hollywood,math,3,0,12
+8108e9b5,Jake R,North Hollywood,overall,1,2,-4
+8108e9b5,Jake R,North Hollywood,biology,1,2,-4
+8108e9b5,Oliver Y,Enloe,overall,2,1,4
+8108e9b5,Oliver Y,Enloe,biology,2,0,8
+8108e9b5,Vishruth K,Enloe,overall,0,2,-8
+8108e9b5,Vishruth K,Enloe,chemistry,0,2,-8
+8108e9b5,Jake R,North Hollywood,chemistry,0,0,0
+8108e9b5,Kensuke O,North Hollywood,overall,3,3,0
+8108e9b5,Kensuke O,North Hollywood,ess,3,1,8
+8108e9b5,Matthew D,Enloe,overall,2,0,8
+8108e9b5,Matthew D,Enloe,physics,1,0,4
+8108e9b5,Charles H,North Hollywood,math,0,1,-4
+8108e9b5,Matthew D,Enloe,math,1,0,4
+8108e9b5,Kensuke O,North Hollywood,chemistry,0,1,-4
+8108e9b5,Oliver Y,Enloe,chemistry,0,1,-4
+8108e9b5,Charles H,North Hollywood,chemistry,0,0,0
+8108e9b5,Kensuke O,North Hollywood,physics,0,1,-4
+8108e9b5,Ryan Y,Enloe,overall,1,0,4
+8108e9b5,Ryan Y,Enloe,ess,1,0,4
+8108e9b5,Vishruth K,Enloe,other,0,0,0
+8108e9b5,Jake R,North Hollywood,other,0,0,0
+b4173173,Advaith M,MSJ A,overall,4,2,8
+b4173173,Advaith M,MSJ A,physics,1,1,0
+b4173173,Advaith M,MSJ A,math,3,0,12
+b4173173,theenash s,MSJ A,overall,3,2,4
+b4173173,theenash s,MSJ A,biology,2,1,4
+b4173173,Kevin P,Palo Alto,overall,5,0,20
+b4173173,Kevin P,Palo Alto,chemistry,2,0,8
+b4173173,Roshan A,MSJ A,overall,4,1,12
+b4173173,Roshan A,MSJ A,ess,2,1,4
+b4173173,Kevin P,Palo Alto,ess,2,0,8
+b4173173,Roshan A,MSJ A,physics,2,0,8
+b4173173,Andrew W,Palo Alto,overall,1,2,-4
+b4173173,Andrew W,Palo Alto,math,1,1,0
+b4173173,Kevin P,Palo Alto,biology,1,0,4
+b4173173,theenash s,MSJ A,chemistry,1,1,0
+b4173173,Jacob G,Palo Alto,overall,1,0,4
+b4173173,Jacob G,Palo Alto,physics,1,0,4
+b4173173,Kaylee Z,Palo Alto,overall,1,0,4
+b4173173,Kaylee Z,Palo Alto,biology,1,0,4
+b4173173,Andrew W,Palo Alto,chemistry,0,1,-4
+b4173173,Advaith M,MSJ A,other,0,1,-4
+b4173173,Kevin P,Palo Alto,other,0,0,0
+def54a82,Andrew F,North Allegheny,overall,5,1,16
+def54a82,Andrew F,North Allegheny,physics,4,0,16
+def54a82,Abhishek C,Doral Academy,overall,3,2,4
+def54a82,Abhishek C,Doral Academy,math,3,0,12
+def54a82,Neil H,Doral Academy,overall,2,1,4
+def54a82,Neil H,Doral Academy,biology,2,1,4
+def54a82,Kaartic M,North Allegheny,overall,3,0,12
+def54a82,Kaartic M,North Allegheny,biology,2,0,8
+def54a82,Santiago S,Doral Academy,overall,1,0,4
+def54a82,Santiago S,Doral Academy,chemistry,1,0,4
+def54a82,Leo Y,North Allegheny,overall,0,1,-4
+def54a82,Leo Y,North Allegheny,chemistry,0,1,-4
+def54a82,Andrew F,North Allegheny,ess,0,1,-4
+def54a82,Shalina Liu,Doral Academy,overall,2,0,8
+def54a82,Shalina Liu,Doral Academy,ess,2,0,8
+def54a82,Jason L,North Allegheny,overall,0,0,0
+def54a82,Jason L,North Allegheny,math,0,0,0
+def54a82,Abhishek C,Doral Academy,ess,0,0,0
+def54a82,Abhishek C,Doral Academy,physics,0,2,-8
+def54a82,Leo Y,North Allegheny,biology,0,0,0
+def54a82,Kaartic M,North Allegheny,chemistry,1,0,4
+def54a82,Neil H,Doral Academy,chemistry,0,0,0
+def54a82,Abhishek C,Doral Academy,other,0,0,0
+def54a82,Kaartic M,North Allegheny,other,0,0,0
+def54a82,Andrew F,North Allegheny,math,1,0,4
+def54a82,Leo Y,North Allegheny,ess,0,0,0
+f3eb8e2e,Andrew Z,Wheaton,overall,1,1,0
+f3eb8e2e,Andrew Z,Wheaton,physics,1,0,4
+f3eb8e2e,caleb w,Wheaton,overall,2,0,8
+f3eb8e2e,caleb w,Wheaton,math,1,0,4
+f3eb8e2e,ethan p,Wheaton,overall,0,1,-4
+f3eb8e2e,ethan p,Wheaton,biology,0,1,-4
+f3eb8e2e,Arman A,MAAOC,overall,2,0,8
+f3eb8e2e,Arman A,MAAOC,biology,2,0,8
+f3eb8e2e,Abhinav KSK,MAAOC,overall,2,2,0
+f3eb8e2e,Abhinav KSK,MAAOC,chemistry,1,2,-4
+f3eb8e2e,Alex W,Wheaton,overall,3,0,12
+f3eb8e2e,Alex W,Wheaton,chemistry,1,0,4
+f3eb8e2e,Kevin F,MAAOC,overall,3,1,8
+f3eb8e2e,Kevin F,MAAOC,ess,2,1,4
+f3eb8e2e,caleb w,Wheaton,physics,1,0,4
+f3eb8e2e,Praneel A,MAAOC,overall,0,4,-16
+f3eb8e2e,Praneel A,MAAOC,math,0,1,-4
+f3eb8e2e,Abhinav KSK,MAAOC,biology,1,0,4
+f3eb8e2e,Alex W,Wheaton,ess,0,0,0
+f3eb8e2e,Praneel A,MAAOC,physics,0,2,-8
+f3eb8e2e,Alex W,Wheaton,math,1,0,4
+f3eb8e2e,Praneel A,MAAOC,ess,0,1,-4
+f3eb8e2e,Alex W,Wheaton,physics,0,0,0
+f3eb8e2e,Kevin F,MAAOC,math,1,0,4
+f3eb8e2e,Andrew Z,Wheaton,biology,0,1,-4
+f3eb8e2e,Alex W,Wheaton,other,1,0,4
+19948679,Eddie A,Law Abiding Citizens,overall,5,0,20
+19948679,Eddie A,Law Abiding Citizens,physics,1,0,4
+19948679,Ishaan K,MSJ B,overall,3,2,4
+19948679,Ishaan K,MSJ B,math,1,0,4
+19948679,Edward H,Law Abiding Citizens,overall,5,1,16
+19948679,Edward H,Law Abiding Citizens,biology,3,0,12
+19948679,Anish A,MSJ B,overall,1,3,-8
+19948679,Anish A,MSJ B,chemistry,1,2,-4
+19948679,Eonathan H,Law Abiding Citizens,overall,3,0,12
+19948679,Eonathan H,Law Abiding Citizens,chemistry,1,0,4
+19948679,Ishaan K,MSJ B,ess,2,2,0
+19948679,Rutvik A,MSJ B,overall,2,0,8
+19948679,Rutvik A,MSJ B,physics,2,0,8
+19948679,Eddie A,Law Abiding Citizens,math,2,0,8
+19948679,Eddie A,Law Abiding Citizens,chemistry,2,0,8
+19948679,Edward H,Law Abiding Citizens,physics,0,1,-4
+19948679,Eonathan H,Law Abiding Citizens,math,1,0,4
+19948679,Edward H,Law Abiding Citizens,ess,1,0,4
+19948679,Anish A,MSJ B,biology,0,1,-4
+19948679,Eonathan H,Law Abiding Citizens,ess,1,0,4
+19948679,Edward H,Law Abiding Citizens,other,1,0,4
+4db99f79,Charles H,North Hollywood,overall,5,0,20
+4db99f79,Charles H,North Hollywood,physics,3,0,12
+4db99f79,Charles H,North Hollywood,math,1,0,4
+4db99f79,Andrew Z,Wheaton,overall,1,1,0
+4db99f79,Andrew Z,Wheaton,math,0,0,0
+4db99f79,Jake R,North Hollywood,overall,1,1,0
+4db99f79,Jake R,North Hollywood,biology,1,1,0
+4db99f79,Charles H,North Hollywood,chemistry,1,0,4
+4db99f79,caleb w,Wheaton,overall,1,0,4
+4db99f79,caleb w,Wheaton,chemistry,0,0,0
+4db99f79,Andrew Z,Wheaton,ess,1,0,4
+4db99f79,caleb w,Wheaton,math,1,0,4
+4db99f79,ethan p,Wheaton,overall,1,0,4
+4db99f79,ethan p,Wheaton,biology,1,0,4
+4db99f79,Alex W,Wheaton,overall,2,1,4
+4db99f79,Alex W,Wheaton,chemistry,1,1,0
+4db99f79,Jake R,North Hollywood,chemistry,0,0,0
+4db99f79,Kensuke O,North Hollywood,overall,4,1,12
+4db99f79,Kensuke O,North Hollywood,ess,3,0,12
+4db99f79,Kensuke O,North Hollywood,biology,0,1,-4
+4db99f79,Kensuke O,North Hollywood,physics,1,0,4
+4db99f79,Andrew Z,Wheaton,biology,0,1,-4
+4db99f79,Alex W,Wheaton,other,1,0,4
+7149eaf4,Roshan A,MSJ A,overall,7,1,24
+7149eaf4,Roshan A,MSJ A,physics,3,0,12
+7149eaf4,Roshan A,MSJ A,math,1,0,4
+7149eaf4,theenash s,MSJ A,overall,4,2,8
+7149eaf4,theenash s,MSJ A,biology,2,1,4
+7149eaf4,Larry Z,BISV HS A,overall,2,0,8
+7149eaf4,Larry Z,BISV HS A,biology,2,0,8
+7149eaf4,theenash s,MSJ A,chemistry,2,0,8
+7149eaf4,Roshan A,MSJ A,ess,3,1,8
+7149eaf4,Advaith M,MSJ A,overall,2,0,8
+7149eaf4,Advaith M,MSJ A,physics,1,0,4
+7149eaf4,Lucas Q,BISV HS A,overall,3,3,0
+7149eaf4,Lucas Q,BISV HS A,math,2,0,8
+7149eaf4,Lucas Q,BISV HS A,chemistry,1,2,-4
+7149eaf4,Aaron C,BISV HS A,overall,1,0,4
+7149eaf4,Aaron C,BISV HS A,ess,1,0,4
+7149eaf4,Advaith M,MSJ A,math,1,0,4
+7149eaf4,Lucas Q,BISV HS A,ess,0,1,-4
+7149eaf4,theenash s,MSJ A,other,0,1,-4
+7149eaf4,Lucas Q,BISV HS A,other,0,0,0
+71f5ab78,daniel l,Re2rement Home,overall,4,1,12
+71f5ab78,daniel l,Re2rement Home,physics,1,0,4
+71f5ab78,Sohil,Lynbroke,overall,7,1,24
+71f5ab78,Sohil,Lynbroke,math,3,1,8
+71f5ab78,Angelina Y,Re2rement Home,overall,7,0,28
+71f5ab78,Angelina Y,Re2rement Home,biology,4,0,16
+71f5ab78,evan,Lynbroke,overall,2,0,8
+71f5ab78,evan,Lynbroke,chemistry,2,0,8
+71f5ab78,Angelina Y,Re2rement Home,ess,1,0,4
+71f5ab78,Sohil,Lynbroke,physics,3,0,12
+71f5ab78,Sohil,Lynbroke,ess,1,0,4
+71f5ab78,daniel l,Re2rement Home,math,1,0,4
+71f5ab78,khio,Lynbroke,overall,0,1,-4
+71f5ab78,khio,Lynbroke,biology,0,1,-4
+71f5ab78,daniel l,Re2rement Home,chemistry,1,0,4
+71f5ab78,daniel l,Re2rement Home,ess,1,1,0
+71f5ab78,Angelina Y,Re2rement Home,chemistry,1,0,4
+71f5ab78,Angelina Y,Re2rement Home,other,1,0,4
+b718dda4,Rohan G,School of Geology,overall,7,3,16
+b718dda4,Rohan G,School of Geology,physics,2,2,0
+b718dda4,Tiger,Royal Hogs,overall,1,0,4
+b718dda4,Tiger,Royal Hogs,physics,1,0,4
+b718dda4,Rohan G,School of Geology,math,3,0,12
+b718dda4,Kian D,School of Geology,overall,6,2,16
+b718dda4,Kian D,School of Geology,biology,2,0,8
+b718dda4,Kian D,School of Geology,chemistry,2,2,0
+b718dda4,Rohan G,School of Geology,ess,2,0,8
+b718dda4,bluewater16,Royal Hogs,overall,1,1,0
+b718dda4,bluewater16,Royal Hogs,math,0,1,-4
+b718dda4,Rohan G,School of Geology,biology,0,1,-4
+b718dda4,Achuth V,Royal Hogs,overall,2,1,4
+b718dda4,Achuth V,Royal Hogs,biology,2,1,4
+b718dda4,bluewater16,Royal Hogs,chemistry,1,0,4
+b718dda4,sumin,Royal Hogs,overall,3,1,8
+b718dda4,sumin,Royal Hogs,ess,1,1,0
+b718dda4,Kian D,School of Geology,ess,1,0,4
+b718dda4,Kian D,School of Geology,math,1,0,4
+b718dda4,Rohan G,School of Geology,other,0,0,0
+b718dda4,sumin,Royal Hogs,other,1,0,4
+b718dda4,sumin,Royal Hogs,physics,1,0,4
+d6d115a7,Daniel Y,School of Chemistry,overall,2,1,4
+d6d115a7,Daniel Y,School of Chemistry,physics,2,1,4
+d6d115a7,Sola M,School of Chemistry,overall,7,0,28
+d6d115a7,Sola M,School of Chemistry,math,2,0,8
+d6d115a7,Leo Y,North Allegheny,overall,3,1,8
+d6d115a7,Leo Y,North Allegheny,biology,1,0,4
+d6d115a7,Daniel Y,School of Chemistry,chemistry,0,0,0
+d6d115a7,Leo Y,North Allegheny,chemistry,0,0,0
+d6d115a7,Leo Y,North Allegheny,ess,1,1,0
+d6d115a7,Sola M,School of Chemistry,ess,2,0,8
+d6d115a7,Kaartic M,North Allegheny,overall,1,1,0
+d6d115a7,Kaartic M,North Allegheny,biology,1,1,0
+d6d115a7,Keene K,School of Chemistry,overall,0,0,0
+d6d115a7,Keene K,School of Chemistry,chemistry,0,0,0
+d6d115a7,Andrew F,North Allegheny,overall,4,0,16
+d6d115a7,Andrew F,North Allegheny,chemistry,1,0,4
+d6d115a7,Andrew F,North Allegheny,ess,0,0,0
+d6d115a7,Leo Y,North Allegheny,physics,1,0,4
+d6d115a7,Jason L,North Allegheny,overall,1,0,4
+d6d115a7,Jason L,North Allegheny,math,1,0,4
+d6d115a7,Sola M,School of Chemistry,biology,2,0,8
+d6d115a7,Andrew F,North Allegheny,physics,1,0,4
+d6d115a7,Andrew F,North Allegheny,math,1,0,4
+d6d115a7,Sola M,School of Chemistry,chemistry,1,0,4
+d6d115a7,Sola M,School of Chemistry,other,0,0,0
+d6d115a7,Andrew F,North Allegheny,other,1,0,4
+d7221a83,Riyan N,Shallow Walk A,overall,0,1,-4
+d7221a83,Riyan N,Shallow Walk A,physics,0,1,-4
+d7221a83,akhil,ASFA,overall,11,4,28
+d7221a83,akhil,ASFA,physics,3,0,12
+d7221a83,akhil,ASFA,math,1,1,0
+d7221a83,Ryan K,Shallow Walk A,overall,5,1,16
+d7221a83,Ryan K,Shallow Walk A,math,2,0,8
+d7221a83,akhil,ASFA,biology,1,2,-4
+d7221a83,akhil,ASFA,chemistry,3,1,8
+d7221a83,Ryan K,Shallow Walk A,ess,1,0,4
+d7221a83,Ryan K,Shallow Walk A,physics,1,0,4
+d7221a83,Ryan K,Shallow Walk A,biology,1,1,0
+d7221a83,Ryan K,Shallow Walk A,chemistry,0,0,0
+d7221a83,akhil,ASFA,ess,2,0,8
+d7221a83,Rish B.,Shallow Walk A,overall,0,1,-4
+d7221a83,Rish B.,Shallow Walk A,physics,0,1,-4
+d7221a83,Raymond,ASFA,overall,0,1,-4
+d7221a83,Raymond,ASFA,math,0,1,-4
+d7221a83,Nimit A,Shallow Walk A,overall,0,0,0
+d7221a83,Nimit A,Shallow Walk A,ess,0,0,0
+d7221a83,akhil,ASFA,other,1,0,4
+edf4908d,suzuko o,Clang! Cloom! Clash!,overall,7,2,20
+edf4908d,suzuko o,Clang! Cloom! Clash!,physics,2,1,4
+edf4908d,Aldric B,WWPN,overall,4,0,16
+edf4908d,Aldric B,WWPN,physics,1,0,4
+edf4908d,Vishnu M,Clang! Cloom! Clash!,overall,4,1,12
+edf4908d,Vishnu M,Clang! Cloom! Clash!,math,2,1,4
+edf4908d,Easton W,WWPN,overall,2,1,4
+edf4908d,Easton W,WWPN,math,1,0,4
+edf4908d,Aayush K.,WWPN,overall,0,1,-4
+edf4908d,Aayush K.,WWPN,biology,0,1,-4
+edf4908d,suzuko o,Clang! Cloom! Clash!,biology,4,0,16
+edf4908d,Aldric B,WWPN,chemistry,1,0,4
+edf4908d,Aldric B,WWPN,ess,2,0,8
+edf4908d,Easton W,WWPN,chemistry,1,1,0
+edf4908d,connor z,Clang! Cloom! Clash!,overall,2,0,8
+edf4908d,connor z,Clang! Cloom! Clash!,chemistry,1,0,4
+edf4908d,Connor Chang,Clang! Cloom! Clash!,overall,1,1,0
+edf4908d,Connor Chang,Clang! Cloom! Clash!,ess,1,1,0
+edf4908d,Vishnu M,Clang! Cloom! Clash!,chemistry,1,0,4
+edf4908d,suzuko o,Clang! Cloom! Clash!,ess,0,1,-4
+edf4908d,connor z,Clang! Cloom! Clash!,physics,1,0,4
+edf4908d,suzuko o,Clang! Cloom! Clash!,math,1,0,4
+edf4908d,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
+108ff934,Daniel Y,School of Chemistry,overall,4,1,12
+108ff934,Daniel Y,School of Chemistry,physics,3,1,8
+108ff934,Sola M,School of Chemistry,overall,6,0,24
+108ff934,Sola M,School of Chemistry,math,3,0,12
+108ff934,Min Shin,School of Chemistry,overall,1,0,4
+108ff934,Min Shin,School of Chemistry,biology,0,0,0
+108ff934,Achuth V,Royal Hogs,overall,1,0,4
+108ff934,Achuth V,Royal Hogs,biology,1,0,4
+108ff934,bluewater16,Royal Hogs,overall,1,0,4
+108ff934,bluewater16,Royal Hogs,chemistry,1,0,4
+108ff934,Min Shin,School of Chemistry,chemistry,1,0,4
+108ff934,sumin,Royal Hogs,overall,1,0,4
+108ff934,sumin,Royal Hogs,ess,1,0,4
+108ff934,Sola M,School of Chemistry,ess,2,0,8
+108ff934,bluewater16,Royal Hogs,physics,0,0,0
+108ff934,Daniel Y,School of Chemistry,biology,0,0,0
+108ff934,Tiger,Royal Hogs,overall,1,0,4
+108ff934,Tiger,Royal Hogs,math,1,0,4
+108ff934,Sola M,School of Chemistry,biology,1,0,4
+108ff934,Daniel Y,School of Chemistry,ess,0,0,0
+108ff934,Daniel Y,School of Chemistry,other,1,0,4
+3a8e3382,Sohil,Lynbroke,overall,5,2,12
+3a8e3382,Sohil,Lynbroke,physics,0,2,-8
+3a8e3382,Ishaan K,MSJ B,overall,2,3,-4
+3a8e3382,Ishaan K,MSJ B,physics,0,0,0
+3a8e3382,Sohil,Lynbroke,math,2,0,8
+3a8e3382,Anish A,MSJ B,overall,4,2,8
+3a8e3382,Anish A,MSJ B,biology,2,0,8
+3a8e3382,khio,Lynbroke,overall,0,1,-4
+3a8e3382,khio,Lynbroke,biology,0,1,-4
+3a8e3382,Anish A,MSJ B,chemistry,2,1,4
+3a8e3382,Ishaan K,MSJ B,ess,1,3,-8
+3a8e3382,Sohil,Lynbroke,ess,3,0,12
+3a8e3382,Rutvik A,MSJ B,overall,3,0,12
+3a8e3382,Rutvik A,MSJ B,physics,2,0,8
+3a8e3382,Anish A,MSJ B,math,0,1,-4
+3a8e3382,Rutvik A,MSJ B,math,1,0,4
+3a8e3382,evan,Lynbroke,overall,1,0,4
+3a8e3382,evan,Lynbroke,chemistry,1,0,4
+3a8e3382,Ishaan K,MSJ B,math,0,0,0
+3a8e3382,Sohil,Lynbroke,other,0,0,0
+3a8e3382,Ishaan K,MSJ B,other,1,0,4
+4b33c630,Charles H,North Hollywood,overall,4,0,16
+4b33c630,Charles H,North Hollywood,physics,2,0,8
+4b33c630,Aldric B,WWPN,overall,4,0,16
+4b33c630,Aldric B,WWPN,physics,0,0,0
+4b33c630,Charles H,North Hollywood,math,1,0,4
+4b33c630,Easton W,WWPN,overall,2,0,8
+4b33c630,Easton W,WWPN,math,0,0,0
+4b33c630,Jake R,North Hollywood,overall,3,1,8
+4b33c630,Jake R,North Hollywood,biology,3,1,8
+4b33c630,Aayush K.,WWPN,overall,1,1,0
+4b33c630,Aayush K.,WWPN,biology,1,1,0
+4b33c630,Charles H,North Hollywood,chemistry,0,0,0
+4b33c630,Aldric B,WWPN,ess,3,0,12
+4b33c630,Aldric B,WWPN,math,1,0,4
+4b33c630,Easton W,WWPN,chemistry,2,0,8
+4b33c630,Kensuke O,North Hollywood,overall,1,2,-4
+4b33c630,Kensuke O,North Hollywood,ess,1,2,-4
+4b33c630,Jason L,WWPN,overall,0,1,-4
+4b33c630,Jason L,WWPN,physics,0,1,-4
+4b33c630,Kensuke O,North Hollywood,physics,0,0,0
+4b33c630,Aldric B,WWPN,other,0,0,0
+4b33c630,Charles H,North Hollywood,other,1,0,4
+53c210ea,Roshan A,MSJ A,overall,4,2,8
+53c210ea,Roshan A,MSJ A,physics,1,1,0
+53c210ea,Ryan K,Shallow Walk A,overall,2,2,0
+53c210ea,Ryan K,Shallow Walk A,math,1,1,0
+53c210ea,Advaith M,MSJ A,overall,1,2,-4
+53c210ea,Advaith M,MSJ A,math,1,0,4
+53c210ea,theenash s,MSJ A,overall,4,1,12
+53c210ea,theenash s,MSJ A,biology,2,1,4
+53c210ea,Nimit A,Shallow Walk A,overall,1,0,4
+53c210ea,Nimit A,Shallow Walk A,biology,0,0,0
+53c210ea,theenash s,MSJ A,chemistry,2,0,8
+53c210ea,Ryan K,Shallow Walk A,chemistry,1,0,4
+53c210ea,Roshan A,MSJ A,ess,3,1,8
+53c210ea,Rish B.,Shallow Walk A,overall,1,0,4
+53c210ea,Rish B.,Shallow Walk A,physics,1,0,4
+53c210ea,Advaith M,MSJ A,physics,0,1,-4
+53c210ea,Ryan K,Shallow Walk A,biology,0,1,-4
+53c210ea,Riyan N,Shallow Walk A,overall,0,0,0
+53c210ea,Riyan N,Shallow Walk A,math,0,0,0
+53c210ea,Nimit A,Shallow Walk A,ess,1,0,4
+53c210ea,Advaith M,MSJ A,other,0,1,-4
+53c210ea,Rish B.,Shallow Walk A,other,0,0,0
+0feef357,Roshan A,MSJ A,overall,6,1,20
+0feef357,Roshan A,MSJ A,physics,3,0,12
+0feef357,Roshan A,MSJ A,math,1,0,4
+0feef357,theenash s,MSJ A,overall,6,1,20
+0feef357,theenash s,MSJ A,biology,3,0,12
+0feef357,theenash s,MSJ A,chemistry,3,1,8
+0feef357,Sola M,School of Chemistry,overall,5,0,20
+0feef357,Sola M,School of Chemistry,ess,2,0,8
+0feef357,Daniel Y,School of Chemistry,overall,1,3,-8
+0feef357,Daniel Y,School of Chemistry,physics,1,1,0
+0feef357,Sola M,School of Chemistry,math,2,0,8
+0feef357,Daniel Y,School of Chemistry,biology,0,1,-4
+0feef357,Roshan A,MSJ A,ess,1,1,0
+0feef357,Advaith M,MSJ A,overall,1,1,0
+0feef357,Advaith M,MSJ A,math,1,1,0
+0feef357,Daniel Y,School of Chemistry,chemistry,0,1,-4
+0feef357,Daniel Y,School of Chemistry,ess,0,0,0
+0feef357,Sola M,School of Chemistry,biology,1,0,4
+0feef357,Keene K,School of Chemistry,overall,1,0,4
+0feef357,Keene K,School of Chemistry,chemistry,1,0,4
+0feef357,Roshan A,MSJ A,other,1,0,4
+76e11c69,akhil,ASFA,overall,5,2,12
+76e11c69,akhil,ASFA,physics,2,0,8
+76e11c69,suzuko o,Clang! Cloom! Clash!,overall,5,1,16
+76e11c69,suzuko o,Clang! Cloom! Clash!,math,2,0,8
+76e11c69,suzuko o,Clang! Cloom! Clash!,biology,2,0,8
+76e11c69,Vishnu M,Clang! Cloom! Clash!,overall,4,0,16
+76e11c69,Vishnu M,Clang! Cloom! Clash!,chemistry,2,0,8
+76e11c69,Connor Chang,Clang! Cloom! Clash!,overall,2,0,8
+76e11c69,Connor Chang,Clang! Cloom! Clash!,ess,2,0,8
+76e11c69,suzuko o,Clang! Cloom! Clash!,physics,1,1,0
+76e11c69,akhil,ASFA,chemistry,1,0,4
+76e11c69,akhil,ASFA,ess,0,0,0
+76e11c69,akhil,ASFA,math,1,0,4
+76e11c69,akhil,ASFA,biology,1,1,0
+76e11c69,Vishnu M,Clang! Cloom! Clash!,math,1,0,4
+76e11c69,Raymond,ASFA,overall,1,0,4
+76e11c69,Raymond,ASFA,chemistry,1,0,4
+76e11c69,akhil,ASFA,other,0,1,-4
+76e11c69,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
+a3d0bb5d,Rutvik A,MSJ B,overall,3,0,12
+a3d0bb5d,Rutvik A,MSJ B,physics,2,0,8
+a3d0bb5d,Jake R,North Hollywood,overall,2,2,0
+a3d0bb5d,Jake R,North Hollywood,math,1,0,4
+a3d0bb5d,Anish A,MSJ B,overall,4,0,16
+a3d0bb5d,Anish A,MSJ B,biology,2,0,8
+a3d0bb5d,Anish A,MSJ B,chemistry,2,0,8
+a3d0bb5d,Ishaan K,MSJ B,overall,3,1,8
+a3d0bb5d,Ishaan K,MSJ B,ess,1,1,0
+a3d0bb5d,Kensuke O,North Hollywood,overall,2,0,8
+a3d0bb5d,Kensuke O,North Hollywood,ess,2,0,8
+a3d0bb5d,Charles H,North Hollywood,overall,1,1,0
+a3d0bb5d,Charles H,North Hollywood,physics,0,1,-4
+a3d0bb5d,Ishaan K,MSJ B,math,1,0,4
+a3d0bb5d,Jake R,North Hollywood,biology,0,2,-8
+a3d0bb5d,Jake R,North Hollywood,chemistry,1,0,4
+a3d0bb5d,Charles H,North Hollywood,math,0,0,0
+a3d0bb5d,Rutvik A,MSJ B,math,1,0,4
+a3d0bb5d,Charles H,North Hollywood,chemistry,1,0,4
+a3d0bb5d,Ishaan K,MSJ B,other,1,0,4
+e7dcb755,Eddie A,Law Abiding Citizens,overall,2,1,4
+e7dcb755,Eddie A,Law Abiding Citizens,physics,1,1,0
+e7dcb755,Eunyi,Law Abiding Citizens,overall,1,1,0
+e7dcb755,Eunyi,Law Abiding Citizens,math,1,0,4
+e7dcb755,Edward H,Law Abiding Citizens,overall,3,2,4
+e7dcb755,Edward H,Law Abiding Citizens,biology,3,0,12
+e7dcb755,Edward H,Law Abiding Citizens,chemistry,0,1,-4
+e7dcb755,Kian D,School of Geology,overall,6,0,24
+e7dcb755,Kian D,School of Geology,chemistry,2,0,8
+e7dcb755,Edward H,Law Abiding Citizens,ess,0,1,-4
+e7dcb755,Rohan G,School of Geology,overall,5,1,16
+e7dcb755,Rohan G,School of Geology,ess,2,0,8
+e7dcb755,Kian D,School of Geology,physics,2,0,8
+e7dcb755,Eonathan H,Law Abiding Citizens,overall,2,0,8
+e7dcb755,Eonathan H,Law Abiding Citizens,math,1,0,4
+e7dcb755,Kian D,School of Geology,biology,1,0,4
+e7dcb755,Eunyi,Law Abiding Citizens,chemistry,0,1,-4
+e7dcb755,Eonathan H,Law Abiding Citizens,ess,1,0,4
+e7dcb755,Eonathan H,Law Abiding Citizens,physics,0,0,0
+e7dcb755,Rohan G,School of Geology,math,1,1,0
+e7dcb755,Kian D,School of Geology,ess,1,0,4
+e7dcb755,Eddie A,Law Abiding Citizens,math,1,0,4
+e7dcb755,Rohan G,School of Geology,chemistry,1,0,4
+e7dcb755,Rohan G,School of Geology,other,1,0,4
+18575558,Roshan A,MSJ A,overall,3,2,4
+18575558,Roshan A,MSJ A,physics,1,1,0
+18575558,Eddie A,Law Abiding Citizens,overall,2,0,8
+18575558,Eddie A,Law Abiding Citizens,physics,1,0,4
+18575558,Advaith M,MSJ A,overall,2,2,0
+18575558,Advaith M,MSJ A,math,1,1,0
+18575558,Edward H,Law Abiding Citizens,overall,4,2,8
+18575558,Edward H,Law Abiding Citizens,biology,2,2,0
+18575558,Edward H,Law Abiding Citizens,chemistry,2,0,8
+18575558,Roshan A,MSJ A,ess,2,1,4
+18575558,Eonathan H,Law Abiding Citizens,overall,5,0,20
+18575558,Eonathan H,Law Abiding Citizens,math,3,0,12
+18575558,theenash s,MSJ A,overall,2,2,0
+18575558,theenash s,MSJ A,biology,1,1,0
+18575558,theenash s,MSJ A,chemistry,1,1,0
+18575558,Eddie A,Law Abiding Citizens,chemistry,1,0,4
+18575558,Advaith M,MSJ A,physics,1,1,0
+18575558,Eonathan H,Law Abiding Citizens,physics,1,0,4
+18575558,Edward H,Law Abiding Citizens,ess,0,0,0
+18575558,Roshan A,MSJ A,other,0,0,0
+18575558,Eonathan H,Law Abiding Citizens,other,1,0,4
+cc49955b,Rutvik A,MSJ B,overall,1,1,0
+cc49955b,Rutvik A,MSJ B,physics,1,0,4
+cc49955b,Rutvik A,MSJ B,math,0,1,-4
+cc49955b,akhil,ASFA,overall,6,2,16
+cc49955b,akhil,ASFA,math,3,0,12
+cc49955b,Anish A,MSJ B,overall,2,2,0
+cc49955b,Anish A,MSJ B,chemistry,2,0,8
+cc49955b,akhil,ASFA,ess,0,1,-4
+cc49955b,Ishaan K,MSJ B,overall,3,0,12
+cc49955b,Ishaan K,MSJ B,ess,2,0,8
+cc49955b,akhil,ASFA,physics,1,0,4
+cc49955b,Anish A,MSJ B,biology,0,2,-8
+cc49955b,akhil,ASFA,biology,1,0,4
+cc49955b,akhil,ASFA,chemistry,1,0,4
+cc49955b,Ishaan K,MSJ B,math,0,0,0
+cc49955b,Raymond,ASFA,overall,0,0,0
+cc49955b,Raymond,ASFA,math,0,0,0
+cc49955b,Ishaan K,MSJ B,physics,1,0,4
+cc49955b,Advik S,ASFA,overall,1,0,4
+cc49955b,Advik S,ASFA,biology,1,0,4
+cc49955b,akhil,ASFA,other,0,1,-4
+cc49955b,Ishaan K,MSJ B,other,0,0,0
+2af2260e,Eonathan H,Law Abiding Citizens,overall,5,1,16
+2af2260e,Eonathan H,Law Abiding Citizens,physics,1,1,0
+2af2260e,Eonathan H,Law Abiding Citizens,math,2,0,8
+2af2260e,Advik S,ASFA,overall,2,0,8
+2af2260e,Advik S,ASFA,math,1,0,4
+2af2260e,Eonathan H,Law Abiding Citizens,biology,1,0,4
+2af2260e,Edward H,Law Abiding Citizens,overall,1,1,0
+2af2260e,Edward H,Law Abiding Citizens,chemistry,1,0,4
+2af2260e,Eonathan H,Law Abiding Citizens,ess,1,0,4
+2af2260e,akhil,ASFA,overall,5,2,12
+2af2260e,akhil,ASFA,ess,2,0,8
+2af2260e,akhil,ASFA,physics,1,1,0
+2af2260e,Edward H,Law Abiding Citizens,biology,0,1,-4
+2af2260e,Advik S,ASFA,biology,1,0,4
+2af2260e,Eddie A,Law Abiding Citizens,overall,1,0,4
+2af2260e,Eddie A,Law Abiding Citizens,chemistry,1,0,4
+2af2260e,Eelena Y,Law Abiding Citizens,overall,2,0,8
+2af2260e,Eelena Y,Law Abiding Citizens,biology,2,0,8
+2af2260e,akhil,ASFA,chemistry,1,1,0
+2af2260e,Edward H,Law Abiding Citizens,other,0,0,0
+2af2260e,akhil,ASFA,other,1,0,4
+fa1627cc,Vishnu M,Clang! Cloom! Clash!,overall,3,1,8
+fa1627cc,Vishnu M,Clang! Cloom! Clash!,physics,1,0,4
+fa1627cc,Vishnu M,Clang! Cloom! Clash!,math,0,1,-4
+fa1627cc,Rohan G,School of Geology,overall,5,1,16
+fa1627cc,Rohan G,School of Geology,math,3,0,12
+fa1627cc,suzuko o,Clang! Cloom! Clash!,overall,2,2,0
+fa1627cc,suzuko o,Clang! Cloom! Clash!,biology,1,0,4
+fa1627cc,Vishnu M,Clang! Cloom! Clash!,chemistry,1,0,4
+fa1627cc,Kian D,School of Geology,overall,4,1,12
+fa1627cc,Kian D,School of Geology,ess,0,0,0
+fa1627cc,Connor Chang,Clang! Cloom! Clash!,overall,1,0,4
+fa1627cc,Connor Chang,Clang! Cloom! Clash!,ess,1,0,4
+fa1627cc,Rohan G,School of Geology,physics,1,1,0
+fa1627cc,Kian D,School of Geology,biology,2,0,8
+fa1627cc,Kian D,School of Geology,chemistry,1,1,0
+fa1627cc,connor z,Clang! Cloom! Clash!,overall,1,0,4
+fa1627cc,connor z,Clang! Cloom! Clash!,chemistry,1,0,4
+fa1627cc,Rohan G,School of Geology,chemistry,1,0,4
+fa1627cc,Vishnu M,Clang! Cloom! Clash!,ess,1,0,4
+fa1627cc,suzuko o,Clang! Cloom! Clash!,physics,0,1,-4
+fa1627cc,suzuko o,Clang! Cloom! Clash!,math,0,1,-4
+fa1627cc,suzuko o,Clang! Cloom! Clash!,ess,1,0,4
+fa1627cc,Kian D,School of Geology,other,1,0,4
+b16a9bbd,connor z,Clang! Cloom! Clash!,overall,3,0,12
+b16a9bbd,connor z,Clang! Cloom! Clash!,physics,1,0,4
+b16a9bbd,Eonathan H,Law Abiding Citizens,overall,5,1,16
+b16a9bbd,Eonathan H,Law Abiding Citizens,math,1,1,0
+b16a9bbd,suzuko o,Clang! Cloom! Clash!,overall,3,1,8
+b16a9bbd,suzuko o,Clang! Cloom! Clash!,math,1,0,4
+b16a9bbd,suzuko o,Clang! Cloom! Clash!,biology,1,1,0
+b16a9bbd,Eonathan H,Law Abiding Citizens,biology,1,0,4
+b16a9bbd,Vishnu M,Clang! Cloom! Clash!,overall,0,1,-4
+b16a9bbd,Vishnu M,Clang! Cloom! Clash!,chemistry,0,1,-4
+b16a9bbd,Eddie A,Law Abiding Citizens,overall,1,0,4
+b16a9bbd,Eddie A,Law Abiding Citizens,chemistry,1,0,4
+b16a9bbd,Eonathan H,Law Abiding Citizens,ess,1,0,4
+b16a9bbd,suzuko o,Clang! Cloom! Clash!,physics,0,0,0
+b16a9bbd,Eunyi,Law Abiding Citizens,overall,0,1,-4
+b16a9bbd,Eunyi,Law Abiding Citizens,physics,0,0,0
+b16a9bbd,Vishnu M,Clang! Cloom! Clash!,math,0,0,0
+b16a9bbd,connor z,Clang! Cloom! Clash!,chemistry,2,0,8
+b16a9bbd,Connor Chang,Clang! Cloom! Clash!,overall,0,0,0
+b16a9bbd,Connor Chang,Clang! Cloom! Clash!,ess,0,0,0
+b16a9bbd,Eunyi,Law Abiding Citizens,ess,0,0,0
+b16a9bbd,Eonathan H,Law Abiding Citizens,physics,1,0,4
+b16a9bbd,Vishnu M,Clang! Cloom! Clash!,physics,0,0,0
+b16a9bbd,suzuko o,Clang! Cloom! Clash!,ess,1,0,4
+b16a9bbd,Eunyi,Law Abiding Citizens,chemistry,0,1,-4
+b16a9bbd,Eonathan H,Law Abiding Citizens,other,1,0,4
+cd05b4c8,Rohan G,School of Geology,overall,2,4,-8
+cd05b4c8,Rohan G,School of Geology,physics,1,1,0
+cd05b4c8,Eunyi,Law Abiding Citizens,overall,0,0,0
+cd05b4c8,Eunyi,Law Abiding Citizens,physics,0,0,0
+cd05b4c8,Rohan G,School of Geology,math,0,2,-8
+cd05b4c8,Eonathan H,Law Abiding Citizens,overall,2,0,8
+cd05b4c8,Eonathan H,Law Abiding Citizens,math,1,0,4
+cd05b4c8,Eonathan H,Law Abiding Citizens,biology,0,0,0
+cd05b4c8,Kian D,School of Geology,overall,1,2,-4
+cd05b4c8,Kian D,School of Geology,biology,1,2,-4
+cd05b4c8,Eddie A,Law Abiding Citizens,overall,3,0,12
+cd05b4c8,Eddie A,Law Abiding Citizens,chemistry,1,0,4
+cd05b4c8,Kian D,School of Geology,physics,0,0,0
+cd05b4c8,Eonathan H,Law Abiding Citizens,physics,0,0,0
+cd05b4c8,Edward H,Law Abiding Citizens,overall,0,0,0
+cd05b4c8,Edward H,Law Abiding Citizens,biology,0,0,0
+cd05b4c8,Rohan G,School of Geology,ess,1,0,4
+cd05b4c8,Eddie A,Law Abiding Citizens,physics,0,0,0
+cd05b4c8,Kian D,School of Geology,chemistry,0,0,0
+cd05b4c8,Eonathan H,Law Abiding Citizens,ess,1,0,4
+cd05b4c8,Eddie A,Law Abiding Citizens,biology,1,0,4
+cd05b4c8,Rohan G,School of Geology,chemistry,0,0,0
+cd05b4c8,Rohan G,School of Geology,other,0,1,-4
+cd05b4c8,Eddie A,Law Abiding Citizens,other,1,0,4
+ebe5ecdb,Edward H,Law Abiding Citizens,overall,2,1,4
+ebe5ecdb,Edward H,Law Abiding Citizens,physics,0,1,-4
+ebe5ecdb,Rohan G,School of Geology,overall,3,2,4
+ebe5ecdb,Rohan G,School of Geology,math,1,1,0
+ebe5ecdb,Eonathan H,Law Abiding Citizens,overall,1,0,4
+ebe5ecdb,Eonathan H,Law Abiding Citizens,math,0,0,0
+ebe5ecdb,Edward H,Law Abiding Citizens,biology,1,0,4
+ebe5ecdb,Edward H,Law Abiding Citizens,chemistry,1,0,4
+ebe5ecdb,Kian D,School of Geology,overall,1,0,4
+ebe5ecdb,Kian D,School of Geology,ess,0,0,0
+ebe5ecdb,Eunyi,Law Abiding Citizens,overall,1,0,4
+ebe5ecdb,Eunyi,Law Abiding Citizens,ess,1,0,4
+ebe5ecdb,Rohan G,School of Geology,physics,0,1,-4
+ebe5ecdb,Eonathan H,Law Abiding Citizens,physics,0,0,0
+ebe5ecdb,Eonathan H,Law Abiding Citizens,biology,0,0,0
+ebe5ecdb,Kian D,School of Geology,biology,1,0,4
+ebe5ecdb,Eddie A,Law Abiding Citizens,overall,0,0,0
+ebe5ecdb,Eddie A,Law Abiding Citizens,chemistry,0,0,0
+ebe5ecdb,Eonathan H,Law Abiding Citizens,ess,0,0,0
+ebe5ecdb,Rohan G,School of Geology,ess,2,0,8
+ebe5ecdb,Eunyi,Law Abiding Citizens,chemistry,0,0,0
+ebe5ecdb,Kian D,School of Geology,chemistry,0,0,0
+ebe5ecdb,Eonathan H,Law Abiding Citizens,chemistry,1,0,4
+ebe5ecdb,Rohan G,School of Geology,other,0,0,0
+ebe5ecdb,Eddie A,Law Abiding Citizens,other,0,0,0

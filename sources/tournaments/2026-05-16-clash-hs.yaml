@@ -13,21 +13,40 @@ level: standard
 subject_only: null
 question_set: null
 sources:
+- kind: isobowl
+  role: results+stats
+  slug: clash
+  url: https://isobowl.com/premier/tournaments/clash
 - kind: gsheet
-  role: results
+  role: crosscheck
   sheet_id: 1GQqvdoboDMYjumBZN7ZrpmSbqKkllVvX2BFI_KrOtIU
   url: https://docs.google.com/spreadsheets/d/1GQqvdoboDMYjumBZN7ZrpmSbqKkllVvX2BFI_KrOtIU/edit?gid=144854460#gid=144854460
   file: results.xlsx
-parser: g7_misc:parse_clash
+parser: g1_isobowl:parse
 parser_options:
-  aliases:
-    Arcardia A: Arcadia A
-    Re2remenet Home: Re2rement Home
-    MAAOOC: MAAOC
-    Gargy Bony: Gargy Bomy
-    Palo Alto A: Palo Alto
-    Chattahoochee: Chattahoochee A
-  champion: Law Abiding Citizens
+  team_names:
+    Canyon Crest Academy A: CCA A
+    Canyon Crest Academy B: CCA B
+    VMATHS: VMATHs
+  extra_games:
+  - team1: Lakeside
+    team2: WWPS C
+    score1: 76
+    score2: 106
+    stage: rr
+    round: Round Robin 2
+    seq: 2
+    note: not on ISOBowl; from the results spreadsheet
+  - team1: Shallow Walk B
+    team2: Law Abiding Citizens
+    score1: 0
+    score2: 202
+    stage: rr
+    round: Round Robin 4
+    seq: 4
+    note: not on ISOBowl; from the results spreadsheet
 status: parsed
-notes: 'HS division only (MS tabs ignored): 48 teams in 8 pools (rounds from RR Schedule) plus a 47-game DE/SE bracket (Law
-  Abiding Citizens beat School of Geology in both finals). The source has no player stats.'
+notes: 'ISOBowl API: every game with per-question logs -> per-player per-subject stats. Previously parsed from the results
+  spreadsheet (g7_misc:parse_clash), now kept only as a cross-check. Two pool games missing from ISOBowl (Lakeside-WWPS C,
+  Shallow Walk B-Law Abiding Citizens) are taken from the spreadsheet. Where the two disagree on a score, the ISOBowl per-question
+  log is used.'

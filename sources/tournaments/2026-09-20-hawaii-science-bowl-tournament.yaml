@@ -13,18 +13,20 @@ level: standard
 subject_only: null
 question_set: null
 sources:
+- kind: isobowl
+  role: results+stats
+  slug: hawaii-science-bowl-tournament
+  url: https://isobowl.com/premier/tournaments/hawaii-science-bowl-tournament
 - kind: gsheet
-  role: results
+  role: crosscheck
   sheet_id: 1_qihojtDeHvx4BxIDk-cHwFIpYJxhkNmhFhZt-0H5eE
   url: https://docs.google.com/spreadsheets/d/1_qihojtDeHvx4BxIDk-cHwFIpYJxhkNmhFhZt-0H5eE/edit?gid=0#gid=0
   file: results.xlsx
-parser: g5_hawaii:parse
+parser: g1_isobowl:parse
 parser_options:
-  roster_tab: RR Bracket
-  bracket_tab: DE Bracket
-  final_columns: 1
-  rr_rounds: 5
-status: partial
-notes: Online. Only the double-elimination bracket has results (28 games through the losers' final; one game marked VOID skipped;
-  the final TMSA vs MSJ B has no result). The round-robin grid was never filled in; all 33 registered teams are listed, 17
-  of them without any recorded game (listed on purpose so every team appears). No stats.
+  team_names:
+    Tompkins A: Obra D. Tompkins A
+status: parsed
+notes: 'ISOBowl API: every game with per-question logs -> per-player per-subject stats. Previously parsed from the results
+  spreadsheet (g5_hawaii:parse), now kept only as a cross-check. ISOBowl adds the scores the spreadsheet bracket lacked; where
+  the two disagree on a score, the per-question log is used.'

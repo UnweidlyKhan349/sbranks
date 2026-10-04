@@ -1,0 +1,25 @@
+id: 2026-04-25-mitosisphere-bio-bowl
+name: Mitosisphere Bio Bowl
+date: '2026-04-25'
+end_date: null
+season: 2025-26
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+question_set: null
+subject_only: biology
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: mitosisphere-bio-bowl-2026-2026-04-25
+  url: https://isobowl.com/premier/tournaments/mitosisphere-bio-bowl-2026-2026-04-25
+parser: g1_isobowl:parse
+parser_options:
+  subject_override: biology
+status: partial
+notes: Biology-only. ISOBowl has only 8 of the games (with per-question logs); 18 teams registered, several without a recorded
+  game.

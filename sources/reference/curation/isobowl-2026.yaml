@@ -1,0 +1,49 @@
+# ISOBowl events added 2026-10 (National Chemistry Bowl 2026, Mitosisphere Bio Bowl 2026, SMH 2026):
+# online pickup teams with made-up names
+schools: []
+composite:
+  - {name: "29", school: null}
+  - {name: "Activation Energy", school: null}
+  - {name: "Auraphilic", school: null}
+  - {name: "Br2 Br2 Patapimine", school: null}
+  - {name: "Buckminsterfullerene", school: null}
+  - {name: "Bun-son Burners 😭", school: null}
+  - {name: "CARBON-NITROGEN", school: null}
+  - {name: "DASONI Drinkers", school: null}
+  - {name: "DDDingyding", school: null}
+  - {name: "Germanium Gooners", school: null}
+  - {name: "Helium Hydride", school: null}
+  - {name: "Lanthanide Larpers", school: null}
+  - {name: "Mangoturtle", school: null}
+  - {name: "Minnesota Organic Frameworks", school: null}
+  - {name: "Nonpolar Bears", school: null}
+  - {name: "Onyx", school: null}
+  - {name: "SN2", school: null}
+  - {name: "Skibidi 67ers", school: null}
+  - {name: "TBCS", school: null}
+  - {name: "Tungsten Tungsten Tungsten Sahur", school: null}
+  - {name: "Walter White", school: null}
+  - {name: "Yin and Yang", school: null}
+  - {name: "alpha and beta", school: null}
+  - {name: "cauliflower", school: null}
+  - {name: "concrete slab", school: null}
+  - {name: "i lovity radioactivity", school: null}
+  - {name: "schrodingle berries", school: null}
+  - {name: "Bilateria", school: null}
+  - {name: "Caudate", school: null}
+  - {name: "Cortisol Spikers", school: null}
+  - {name: "Epistasis", school: null}
+  - {name: "Gangalicious Ganglions", school: null}
+  - {name: "Kazakhstani Krushers", school: null}
+  - {name: "Larpers", school: null}
+  - {name: "The Quorum", school: null}
+  - {name: "Washed", school: null}
+  - {name: "Zygoats", school: null}
+  - {name: "parathyroid glands", school: null}
+  - {name: "warders method", school: null}
+  - {name: "Winners", school: null}
+  - {name: Majestic Millburn, school: null}
+overrides: []
+unknown:
+  - {base: BASIS Arizona Valley, why: 'Mitosisphere Bio Bowl 2026, no games or players; no BASIS campus by that name'}
+  - {base: TMSA, why: 'online events 2026 (TMSA / TMSA Apex share players); acronym not identified'}

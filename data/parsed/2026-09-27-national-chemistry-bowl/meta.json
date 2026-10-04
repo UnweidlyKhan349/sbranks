@@ -1,0 +1,23 @@
+{
+  "tournament_id": "2026-09-27-national-chemistry-bowl",
+  "counts": {
+    "teams": 32,
+    "games": 102,
+    "games_with_scores": 102,
+    "player_stat_rows": 114,
+    "players": 57,
+    "team_game_subject_rows": 202,
+    "player_game_stat_rows": 688
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [],
+  "parser": "g1_isobowl:parse"
+}

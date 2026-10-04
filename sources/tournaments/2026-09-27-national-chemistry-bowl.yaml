@@ -1,0 +1,25 @@
+id: 2026-09-27-national-chemistry-bowl
+name: National Chemistry Bowl
+date: '2026-09-27'
+end_date: null
+season: 2026-27
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+question_set: null
+subject_only: chemistry
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: national-chemistry-bowl
+  url: https://isobowl.com/premier/tournaments/national-chemistry-bowl
+parser: g1_isobowl:parse
+parser_options:
+  subject_override: chemistry
+status: parsed
+notes: 'ISOBowl API: games with per-question logs -> per-player per-subject stats. Early correct buzzes scored 6 (powers)
+  in the games; player stats count them as standard +4 tossups.'

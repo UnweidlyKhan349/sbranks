@@ -1,0 +1,23 @@
+{
+  "tournament_id": "2026-10-04-smh-2026",
+  "counts": {
+    "teams": 43,
+    "games": 94,
+    "games_with_scores": 94,
+    "player_stat_rows": 1332,
+    "players": 167,
+    "team_game_subject_rows": 1316,
+    "player_game_stat_rows": 2100
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [],
+  "parser": "g1_isobowl:parse"
+}

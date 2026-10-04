@@ -90,14 +90,18 @@ def _clean_round(name: str) -> str:
 
 
 def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = None,
-          name_overrides: dict[str, str] | None = None, stage_map: dict[str, str] | None = None) -> None:
+          name_overrides: dict[str, str] | None = None, stage_map: dict[str, str] | None = None,
+          team_names: dict[str, str] | None = None, extra_games: list[dict[str, Any]] | None = None) -> None:
+    """``team_names`` renames ISOBowl team names (e.g. to the spelling used by other sources);
+    ``extra_games`` adds games missing from ISOBowl (taken from another source), as dicts with
+    team1, team2, score1, score2, stage, round, seq and a note naming the source."""
     d = t.raw_dir / "isobowl"
     tour = json.loads((d / "tournament.json").read_text())["tournament"]
     logs = {lg["gameId"]: lg["scorelog"] for lg in json.loads((d / "scorelogs.json").read_text())["logs"]}
 
-    team_name = {tm["id"]: tm["name"] for tm in tour["teams"]}
+    team_name = {tm["id"]: (team_names or {}).get(tm["name"].strip(), tm["name"].strip()) for tm in tour["teams"]}
     for tm in tour["teams"]:
-        w.team(tm["name"])
+        w.team(team_name[tm["id"]])
     rounds = {r["id"]: r for r in tour["rounds"]}
     stage_of = {"pool": "rr", "playoff": "playoff", "consolation": "consolation"}
     stage_of.update(stage_map or {})
@@ -152,7 +156,9 @@ def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = Non
                                                 if s["role"] == "bonus"), 10) for q in log}
         for q in log:
             subj = _subject(q["subject"], t, subject_override)
-            heard = {(uid, side) for side in ("a", "b") for uid in q["activePlayers"].get(side, [])}
+            # older logs have no per-question active lists: everyone in the game's lineup heard it
+            active = q.get("activePlayers") or {"a": g.get("userIdsA") or [], "b": g.get("userIdsB") or []}
+            heard = {(uid, side) for side in ("a", "b") for uid in active.get(side) or []}
             # a player who buzzed without being listed as active evidently heard it too
             heard |= {(a["userId"], a["teamId"]) for r in q["results"] if r["playedAs"] == "tossup"
                       for a in r["attempts"]}
@@ -170,7 +176,9 @@ def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = Non
                 for a in r["attempts"]:
                     team = side_team[a["teamId"]]
                     out = a["outcome"]
-                    k = {"correct": "correct", "incorrect": "zeros",
+                    # interruptCorrect = early correct buzz (newer logs); some events score it as a
+                    # 6-point power, but player stats keep the standard +4 so events stay comparable
+                    k = {"correct": "correct", "interruptCorrect": "correct", "incorrect": "zeros",
                          "interruptIncorrect": "negs"}.get(out)
                     if k is None:
                         w.warn(f"game {gid}: unknown outcome {out!r}")
@@ -192,6 +200,11 @@ def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = Non
         for (uid, team, subj), v in pgs.items():
             w.player_game_stat(gid, pname(uid), team, subj, correct=v.get("correct", 0),
                                negs=v.get("negs", 0))
+
+    for i, eg in enumerate(extra_games or []):
+        w.game(eg["team1"], eg["team2"], eg.get("score1"), eg.get("score2"), stage=eg.get("stage", "rr"),
+               round=eg.get("round", ""), seq=eg.get("seq", 0), forfeit=bool(eg.get("forfeit")),
+               game_id=f"extra{i + 1}", notes=eg.get("note", ""))
 
     # Two accounts with the same chosen name on one team are merged (same person
     # re-joining under a new account); the stats page lists them separately.

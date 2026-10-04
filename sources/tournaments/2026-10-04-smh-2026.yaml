@@ -1,0 +1,23 @@
+id: 2026-10-04-smh-2026
+name: SMH 2026
+date: '2026-10-04'
+end_date: null
+season: 2026-27
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+question_set: null
+subject_only: null
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: smh-2026
+  url: https://isobowl.com/premier/tournaments/smh-2026
+parser: g1_isobowl:parse
+parser_options: {}
+status: partial
+notes: 'ISOBowl API: in progress when fetched (2026-10-04); games so far with per-question logs. Re-fetch for the final results.'
