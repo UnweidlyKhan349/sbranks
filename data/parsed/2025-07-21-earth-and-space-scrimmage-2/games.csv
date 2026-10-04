@@ -1,0 +1,151 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Sumin Y,Malachi N,46,38,1,0,group Bornite
+g2,rr,RR2,2,Sumin Y,William T,32,38,2,0,group Bornite
+g3,rr,RR3,3,Sumin Y,Connor Z,52,30,1,0,group Bornite
+g4,rr,RR4,4,Sumin Y,Sarabhesh S,36,32,1,0,group Bornite
+g5,rr,RR5,5,Sumin Y,Ayden L,40,52,2,0,group Bornite
+g6,rr,RR3,3,Malachi N,William T,42,16,1,0,group Bornite
+g7,rr,RR4,4,Malachi N,Connor Z,64,52,1,0,group Bornite
+g8,rr,RR5,5,Malachi N,Sarabhesh S,50,24,1,0,group Bornite
+g9,rr,RR2,2,Malachi N,Ayden L,40,28,1,0,group Bornite
+g10,rr,RR5,5,William T,Connor Z,54,48,1,0,group Bornite
+g11,rr,RR1,1,William T,Sarabhesh S,16,16,T,0,group Bornite
+g12,rr,RR4,4,William T,Ayden L,52,24,1,0,group Bornite
+g13,rr,RR2,2,Connor Z,Sarabhesh S,66,44,1,0,group Bornite
+g14,rr,RR1,1,Connor Z,Ayden L,68,36,1,0,group Bornite
+g15,rr,RR3,3,Sarabhesh S,Ayden L,24,18,1,0,group Bornite
+g16,rr,RR1,1,Bryce T,Suzuko O,66,48,1,0,group Cinnabar
+g17,rr,RR2,2,Bryce T,Ishaan K,28,64,2,0,group Cinnabar
+g18,rr,RR3,3,Bryce T,Camille P,36,42,2,0,group Cinnabar
+g19,rr,RR4,4,Bryce T,Kevin L,44,28,1,0,group Cinnabar
+g20,rr,RR5,5,Bryce T,Aryan D,30,28,1,0,group Cinnabar
+g21,rr,RR3,3,Suzuko O,Ishaan K,78,24,1,0,group Cinnabar
+g22,rr,RR4,4,Suzuko O,Camille P,70,24,1,0,group Cinnabar
+g23,rr,RR5,5,Suzuko O,Kevin L,62,24,1,0,group Cinnabar
+g24,rr,RR2,2,Suzuko O,Aryan D,68,14,1,0,group Cinnabar
+g25,rr,RR5,5,Ishaan K,Camille P,38,54,2,0,group Cinnabar
+g26,rr,RR1,1,Ishaan K,Kevin L,52,24,1,0,group Cinnabar
+g27,rr,RR4,4,Ishaan K,Aryan D,48,32,1,0,group Cinnabar
+g28,rr,RR2,2,Camille P,Kevin L,62,14,1,0,group Cinnabar
+g29,rr,RR1,1,Camille P,Aryan D,46,20,1,0,group Cinnabar
+g30,rr,RR3,3,Kevin L,Aryan D,8,8,T,0,group Cinnabar
+g31,rr,RR1,1,Abhiram C,Mary P,34,22,1,0,group Galena
+g32,rr,RR2,2,Abhiram C,Isaiah S,18,44,2,0,group Galena
+g33,rr,RR3,3,Abhiram C,Joel Y,12,54,2,0,group Galena
+g34,rr,RR4,4,Abhiram C,Ryan E,24,50,2,0,group Galena
+g35,rr,RR5,5,Abhiram C,Luyao Y,42,36,1,0,group Galena
+g36,rr,RR3,3,Mary P,Isaiah S,14,40,2,0,group Galena
+g37,rr,RR4,4,Mary P,Joel Y,30,46,2,0,group Galena
+g38,rr,RR5,5,Mary P,Ryan E,18,56,2,0,group Galena
+g39,rr,RR2,2,Mary P,Luyao Y,30,38,2,0,group Galena
+g40,rr,RR5,5,Isaiah S,Joel Y,30,36,2,0,group Galena
+g41,rr,RR1,1,Isaiah S,Ryan E,34,56,2,0,group Galena
+g42,rr,RR4,4,Isaiah S,Luyao Y,44,42,1,0,group Galena
+g43,rr,RR2,2,Joel Y,Ryan E,18,64,2,0,group Galena
+g44,rr,RR1,1,Joel Y,Luyao Y,68,32,1,0,group Galena
+g45,rr,RR3,3,Ryan E,Luyao Y,68,14,1,0,group Galena
+g46,rr,RR1,1,Ian C,Travis D,56,20,1,0,group Marcasite
+g47,rr,RR2,2,Ian C,Daniel L,52,26,1,0,group Marcasite
+g48,rr,RR3,3,Ian C,Roshan A,64,60,1,0,group Marcasite
+g49,rr,RR4,4,Ian C,Michael M,,,1,1,group Marcasite; sheet marks Ian C W with scores 0-0; treated as forfeit
+g50,rr,RR5,5,Ian C,Darius S,46,20,1,0,group Marcasite
+g51,rr,RR3,3,Travis D,Daniel L,56,8,1,0,group Marcasite
+g52,rr,RR4,4,Travis D,Roshan A,54,58,2,0,group Marcasite
+g53,rr,RR5,5,Travis D,Michael M,,,1,1,group Marcasite; sheet marks Travis D W with scores 0-0; treated as forfeit
+g54,rr,RR2,2,Travis D,Darius S,50,26,1,0,group Marcasite
+g55,rr,RR5,5,Daniel L,Roshan A,-26,26,2,0,group Marcasite
+g56,rr,RR1,1,Daniel L,Michael M,,,1,1,group Marcasite; sheet marks Daniel L W with scores 22-26; treated as forfeit
+g57,rr,RR4,4,Daniel L,Darius S,34,48,2,0,group Marcasite
+g58,rr,RR2,2,Roshan A,Michael M,98,16,1,0,group Marcasite
+g59,rr,RR1,1,Roshan A,Darius S,82,32,1,0,group Marcasite
+g60,rr,RR3,3,Michael M,Darius S,,,2,1,group Marcasite; sheet marks Michael M L with scores 0-0; treated as forfeit
+g61,rr,RR1,1,Tiger W,Shubam V,66,22,1,0,group Pyrite
+g62,rr,RR2,2,Tiger W,Alexander D,42,18,1,0,group Pyrite
+g63,rr,RR3,3,Tiger W,Yale Z,32,58,2,0,group Pyrite
+g64,rr,RR4,4,Tiger W,Kaiwen Y,44,60,2,0,group Pyrite
+g65,rr,RR5,5,Tiger W,Varyan J,32,52,2,0,group Pyrite
+g66,rr,RR3,3,Shubam V,Alexander D,38,24,1,0,group Pyrite
+g67,rr,RR4,4,Shubam V,Yale Z,28,66,2,0,group Pyrite
+g68,rr,RR5,5,Shubam V,Kaiwen Y,36,74,2,0,group Pyrite
+g69,rr,RR2,2,Shubam V,Varyan J,30,48,2,0,group Pyrite
+g70,rr,RR5,5,Alexander D,Yale Z,16,62,2,0,group Pyrite
+g71,rr,RR1,1,Alexander D,Kaiwen Y,10,78,2,0,group Pyrite
+g72,rr,RR4,4,Alexander D,Varyan J,28,54,2,0,group Pyrite
+g73,rr,RR2,2,Yale Z,Kaiwen Y,52,50,1,0,group Pyrite
+g74,rr,RR1,1,Yale Z,Varyan J,76,40,1,0,group Pyrite
+g75,rr,RR3,3,Kaiwen Y,Varyan J,36,46,2,0,group Pyrite
+g76,rr,RR1,1,Sohil R,McNair S,46,22,1,0,group Realgar
+g77,rr,RR2,2,Sohil R,Rishabh V,28,78,2,0,group Realgar
+g78,rr,RR3,3,Sohil R,Akshay A,36,16,1,0,group Realgar
+g79,rr,RR4,4,Sohil R,Alex L,14,56,2,0,group Realgar
+g80,rr,RR5,5,Sohil R,Ayden H,36,28,1,0,group Realgar
+g81,rr,RR3,3,McNair S,Rishabh V,30,76,2,0,group Realgar
+g82,rr,RR4,4,McNair S,Akshay A,26,46,2,0,group Realgar
+g83,rr,RR5,5,McNair S,Alex L,-52,36,2,0,group Realgar
+g84,rr,RR2,2,McNair S,Ayden H,,,2,1,group Realgar; sheet marks McNair S L with scores 0-0; treated as forfeit
+g85,rr,RR5,5,Rishabh V,Akshay A,90,16,1,0,group Realgar
+g86,rr,RR1,1,Rishabh V,Alex L,44,62,2,0,group Realgar
+g87,rr,RR4,4,Rishabh V,Ayden H,84,12,1,0,group Realgar
+g88,rr,RR2,2,Akshay A,Alex L,14,50,2,0,group Realgar
+g89,rr,RR1,1,Akshay A,Ayden H,32,28,1,0,group Realgar
+g90,rr,RR3,3,Alex L,Ayden H,54,12,1,0,group Realgar
+g91,rr,RR1,1,Sreejit M,Isaac L,24,36,2,0,group Sphalerite
+g92,rr,RR2,2,Sreejit M,Praneel A,16,56,2,0,group Sphalerite
+g93,rr,RR3,3,Sreejit M,Parthiv S,16,14,1,0,group Sphalerite
+g94,rr,RR4,4,Sreejit M,Kensuke O,16,60,2,0,group Sphalerite
+g95,rr,RR5,5,Sreejit M,Alex Z,32,46,2,0,group Sphalerite
+g96,rr,RR3,3,Isaac L,Praneel A,20,48,2,0,group Sphalerite
+g97,rr,RR4,4,Isaac L,Parthiv S,22,26,2,0,group Sphalerite
+g98,rr,RR5,5,Isaac L,Kensuke O,14,78,2,0,group Sphalerite
+g99,rr,RR2,2,Isaac L,Alex Z,22,56,2,0,group Sphalerite
+g100,rr,RR5,5,Praneel A,Parthiv S,38,20,1,0,group Sphalerite
+g101,rr,RR1,1,Praneel A,Kensuke O,40,54,2,0,group Sphalerite
+g102,rr,RR4,4,Praneel A,Alex Z,64,18,1,0,group Sphalerite
+g103,rr,RR2,2,Parthiv S,Kensuke O,22,68,2,0,group Sphalerite
+g104,rr,RR1,1,Parthiv S,Alex Z,14,52,2,0,group Sphalerite
+g105,rr,RR3,3,Kensuke O,Alex Z,76,14,1,0,group Sphalerite
+g106,rr,RR1,1,Akhil B,Abhiraam G,82,28,1,0,group Stibnite
+g107,rr,RR2,2,Akhil B,Ashley L,46,20,1,0,group Stibnite
+g108,rr,RR3,3,Akhil B,Rohan G,50,46,1,0,group Stibnite
+g109,rr,RR4,4,Akhil B,Edward J,88,30,1,0,group Stibnite
+g110,rr,RR5,5,Akhil B,Edlyn W,44,36,1,0,group Stibnite
+g111,rr,RR3,3,Abhiraam G,Ashley L,36,12,1,0,group Stibnite
+g112,rr,RR4,4,Abhiraam G,Rohan G,48,54,2,0,group Stibnite
+g113,rr,RR5,5,Abhiraam G,Edward J,40,28,1,0,group Stibnite
+g114,rr,RR2,2,Abhiraam G,Edlyn W,22,50,2,0,group Stibnite
+g115,rr,RR5,5,Ashley L,Rohan G,20,30,2,0,group Stibnite
+g116,rr,RR1,1,Ashley L,Edward J,8,20,2,0,group Stibnite
+g117,rr,RR4,4,Ashley L,Edlyn W,8,44,2,0,group Stibnite
+g118,rr,RR2,2,Rohan G,Edward J,42,36,1,0,group Stibnite
+g119,rr,RR1,1,Rohan G,Edlyn W,40,22,1,0,group Stibnite
+g120,rr,RR3,3,Edward J,Edlyn W,10,38,2,0,group Stibnite
+g121,playoff,DE 1,6,Suzuko O,Sumin Y,98,38,1,0,game 1
+g122,playoff,DE 1,6,Malachi N,Rishabh V,30,116,2,0,game 2
+g123,playoff,DE 1,6,Yale Z,Camille P,78,66,1,0,game 3
+g124,playoff,DE 1,6,Ryan E,Joel Y,120,42,1,0,game 4
+g125,playoff,DE 1,6,Kensuke O,Ishaan K,38,68,2,0,game 5
+g126,playoff,DE 1,6,Ian C,Praneel A,38,96,2,0,game 6
+g127,playoff,DE 1,6,Alex L,Varyan J,68,66,1,0,game 7
+g128,playoff,DE 1,6,Akhil B,William T,70,64,1,0,game 8
+g129,playoff,DE 2,7,Suzuko O,Rishabh V,60,106,2,0,game 9
+g130,playoff,DE 2,7,Yale Z,Ryan E,82,70,1,0,game 10
+g131,playoff,DE 2,7,Ishaan K,Praneel A,58,32,1,0,game 11
+g132,playoff,DE 2,7,Alex L,Akhil B,32,110,2,0,game 12
+g133,playoff,DE 2,7,Sumin Y,Malachi N,38,54,2,0,game 13
+g134,playoff,DE 2,7,Camille P,Joel Y,20,64,2,0,game 14
+g135,playoff,DE 2,7,Kensuke O,Ian C,84,40,1,0,game 15
+g136,playoff,DE 2,7,Varyan J,William T,68,18,1,0,game 16
+g137,playoff,DE 3,8,Alex L,Malachi N,52,42,1,0,game 17
+g138,playoff,DE 3,8,Praneel A,Joel Y,52,44,1,0,game 18
+g139,playoff,DE 3,8,Ryan E,Kensuke O,48,36,1,0,game 19
+g140,playoff,DE 3,8,Suzuko O,Varyan J,54,58,2,0,game 20
+g141,playoff,DE 4,9,Rishabh V,Yale Z,36,60,2,0,game 21
+g142,playoff,DE 4,9,Ishaan K,Akhil B,44,54,2,0,game 22
+g143,playoff,DE 4,9,Alex L,Praneel A,38,32,1,0,game 23
+g144,playoff,DE 4,9,Ryan E,Varyan J,92,42,1,0,game 24
+g145,playoff,DE 5,10,Rishabh V,Alex L,38,78,2,0,game 25
+g146,playoff,DE 5,10,Ishaan K,Ryan E,14,42,2,0,game 26
+g147,playoff,DE 6,11,Yale Z,Akhil B,28,58,2,0,game 27
+g148,playoff,DE 6,11,Alex L,Ryan E,8,62,2,0,game 28
+g149,playoff,DE 7,12,Yale Z,Ryan E,20,60,2,0,game 29
+g150,playoff,DE 8,13,Akhil B,Ryan E,44,40,1,0,game 30

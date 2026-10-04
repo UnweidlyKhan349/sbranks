@@ -1,0 +1,38 @@
+{
+  "tournament_id": "2025-04-24-nsb-national-finals",
+  "counts": {
+    "teams": 67,
+    "games": 310,
+    "games_with_scores": 0,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": false,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "no city/state found for 'Iolani School",
+    "no city/state found for American Fork High School",
+    "no city/state found for Madisonville North Hopkins High School",
+    "no city/state found for Canyon Crest Academy",
+    "no city/state found for Saint John's School",
+    "no city/state found for Fayetteville High School East",
+    "no city/state found for Lakeside School",
+    "no city/state found for Troy High School",
+    "no city/state found for Baton Rouge Magnet High School",
+    "no city/state found for James Clemens High School",
+    "no city/state found for Oklahoma School of Science and Math",
+    "no city/state found for Ward Melville Senior High School",
+    "no city/state found for American Heritage Schools, Palm Beach",
+    "no city/state found for Lakeside High School"
+  ],
+  "parser": "g8_nsb:parse"
+}

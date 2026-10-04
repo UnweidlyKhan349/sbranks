@@ -1,0 +1,48 @@
+id: 2025-04-24-nsb-national-finals
+name: NSB National Finals
+date: '2025-04-24'
+end_date: '2025-04-28'
+season: 2024-25
+location: Washington, DC
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: nationals
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2025/scores/2025-HS-Round-Robin.pdf
+  file: round_robin.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2025-Competition/Competition-Results
+- kind: manual
+  role: results
+  file: rr_transcribed.yaml
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2025/scores/2025-HS-Round-Robin.pdf
+  note: hand transcription of the round-robin grids; the PDF is a screenshot with no text layer
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2025/scores/2025-High-School-No-Loss-Bracket.pdf
+  file: de_no_loss.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2025-Competition/Competition-Results
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2025/scores/2025-High-School-One-Loss-Bracket.pdf
+  file: de_one_loss.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2025-Competition/Competition-Results
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/wdts/nsb/News-Media/2025-Press-Releases-of-Regional-Winners
+  file: regional_winners.html
+parser: g8_nsb:parse
+parser_options:
+  rr: rr_transcribed.yaml
+  de:
+  - de_no_loss.pdf
+  - de_one_loss.pdf
+  champion: Montgomery Blair High School
+status: todo
+notes: ''

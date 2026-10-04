@@ -1,0 +1,69 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1,rr,,1,Hopkinton 1,Greenwich 3,,,1,0,Group A
+rr2,rr,,1,Hopkinton 1,BASIS 2,,,2,0,Group A
+rr3,rr,,1,Hopkinton 1,West Windsor 3,,,2,0,Group A
+rr4,rr,,1,Hopkinton 1,EHS 1,,,2,0,Group A
+rr5,rr,,1,Greenwich 3,BASIS 2,,,2,0,Group A
+rr6,rr,,1,Greenwich 3,West Windsor 3,,,2,0,Group A
+rr7,rr,,1,Greenwich 3,EHS 1,,,2,0,Group A
+rr8,rr,,1,BASIS 2,West Windsor 3,,,1,0,Group A
+rr9,rr,,1,BASIS 2,EHS 1,,,2,0,Group A
+rr10,rr,,1,West Windsor 3,EHS 1,,,2,0,Group A
+rr11,rr,,1,Greenwich 1,Shenendehowa,,,1,0,Group B
+rr12,rr,,1,Greenwich 1,University,,,2,0,Group B
+rr13,rr,,1,Greenwich 1,Nashua 3,,,1,0,Group B
+rr14,rr,,1,Greenwich 1,BASIS 3,,,1,0,Group B
+rr15,rr,,1,Shenendehowa,University,,,2,0,Group B
+rr16,rr,,1,Shenendehowa,Nashua 3,,,1,0,Group B
+rr17,rr,,1,Shenendehowa,BASIS 3,,,1,0,Group B
+rr18,rr,,1,University,Nashua 3,,,1,0,Group B
+rr19,rr,,1,University,BASIS 3,,,1,0,Group B
+rr20,rr,,1,Nashua 3,BASIS 3,,,1,0,Group B
+rr21,rr,,1,Greenwich 2,John P. Stevens,,,2,0,Group C
+rr22,rr,,1,Greenwich 2,Hopkinton 2,,,1,0,Group C
+rr23,rr,,1,Greenwich 2,Davidson Academy,,,2,0,Group C
+rr24,rr,,1,Greenwich 2,Lexington 2,,,2,0,Group C
+rr25,rr,,1,John P. Stevens,Hopkinton 2,,,1,0,Group C
+rr26,rr,,1,John P. Stevens,Davidson Academy,,,2,0,Group C
+rr27,rr,,1,John P. Stevens,Lexington 2,,,2,0,Group C
+rr28,rr,,1,Hopkinton 2,Davidson Academy,,,2,0,Group C
+rr29,rr,,1,Hopkinton 2,Lexington 2,,,2,0,Group C
+rr30,rr,,1,Davidson Academy,Lexington 2,,,1,0,Group C
+rr31,rr,,1,West Windsor 2,Nashua 1,,,1,0,Group D
+rr32,rr,,1,West Windsor 2,Lexington 1,,,2,0,Group D
+rr33,rr,,1,West Windsor 2,Centennial,,,2,0,Group D
+rr34,rr,,1,West Windsor 2,EHS 2,,,1,0,Group D
+rr35,rr,,1,Nashua 1,Lexington 1,,,2,0,Group D
+rr36,rr,,1,Nashua 1,Centennial,,,2,0,Group D
+rr37,rr,,1,Nashua 1,EHS 2,,,2,0,Group D
+rr38,rr,,1,Lexington 1,Centennial,,,1,0,Group D
+rr39,rr,,1,Lexington 1,EHS 2,,,1,0,Group D
+rr40,rr,,1,Centennial,EHS 2,,,1,0,Group D
+rr41,rr,,1,Westminster,Nashua 2,,,1,0,Group E
+rr42,rr,,1,Westminster,West Windsor 1,,,1,0,Group E
+rr43,rr,,1,Westminster,BASIS 1,,,1,0,Group E
+rr44,rr,,1,Westminster,Hunter College,,,1,0,Group E
+rr45,rr,,1,Westminster,Sharon,,,1,0,Group E
+rr46,rr,,1,Nashua 2,West Windsor 1,,,2,0,Group E
+rr47,rr,,1,Nashua 2,BASIS 1,,,2,0,Group E
+rr48,rr,,1,Nashua 2,Hunter College,,,2,0,Group E
+rr49,rr,,1,Nashua 2,Sharon,,,1,0,Group E
+rr50,rr,,1,West Windsor 1,BASIS 1,,,1,0,Group E
+rr51,rr,,1,West Windsor 1,Hunter College,,,1,0,Group E
+rr52,rr,,1,West Windsor 1,Sharon,,,1,0,Group E
+rr53,rr,,1,BASIS 1,Hunter College,,,2,0,Group E
+rr54,rr,,1,BASIS 1,Sharon,,,1,0,Group E
+rr55,rr,,1,Hunter College,Sharon,,,1,0,Group E
+1CD,playoff,DE Round 1,11,Davidson Academy,Lexington 1,,,1,0,
+2AB,playoff,DE Round 1,11,BASIS 2,Greenwich 1,,,1,0,
+2CD,playoff,DE Round 1,11,Lexington 2,Centennial,,,2,0,
+1AB,playoff,DE Round 1,11,EHS 1,University,,,1,0,
+S2,playoff,DE Round 2,12,BASIS 2,West Windsor 1,,,2,0,
+S3,playoff,DE Round 2,12,Centennial,University,,,2,0,
+S1,playoff,DE Round 2,12,EHS 1,Westminster,,,1,0,
+F2,playoff,DE Round 3,13,Lexington 1,Westminster,,,1,0,
+S23,playoff,DE Round 3,13,West Windsor 1,University,,,1,0,
+F1,playoff,DE Round 3,13,EHS 1,Davidson Academy,,,1,0,
+L1,playoff,DE Round 4,14,West Windsor 1,Lexington 1,,,2,0,
+L2,playoff,DE Round 5,15,Lexington 1,Davidson Academy,,,2,0,
+Final,playoff,DE Round 6,16,EHS 1,Davidson Academy,,,1,0,

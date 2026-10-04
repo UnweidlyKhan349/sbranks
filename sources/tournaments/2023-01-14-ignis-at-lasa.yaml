@@ -11,7 +11,7 @@ exclude_reason: null
 kind: invitational
 level: standard
 subject_only: null
-question_set: null
+question_set: ignis-2023
 sources:
 - kind: url
   role: results
@@ -31,7 +31,13 @@ sources:
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSHP9lK_EuQpGLlb0e-FxUTxHmu_ovgjsjzkkCLSxQihiOpwmzXJeKrOwiA0OQ9ZTlgu05jOFXVtSgi/pub?output=xlsx
   file: stats_sheet.xlsx
   note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_ignis:parse_inperson
+parser_options:
+  rr_tab: Main
+  schools:
+    Seven Lakes A: Seven Lakes High School
+    Seven Lakes B: Seven Lakes High School
+    LASA: Liberal Arts and Science Academy
+status: parsed
+notes: Ignis set (X-Risk -> 'other', no Energy). 4-team triple round robin (18 games) + final, per-game subject points, player
+  totals per category (first names only) and per-game player buzzes. Team PPG/bonus totals match the source.

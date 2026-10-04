@@ -23,7 +23,35 @@ sources:
   sheet_id: 1NYlGOcz1qOP_P77S5JIwDpf4ZDawbcpoGG61TWocrlQ
   url: https://docs.google.com/spreadsheets/d/1NYlGOcz1qOP_P77S5JIwDpf4ZDawbcpoGG61TWocrlQ/edit#gid=346318044
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_dasoni:parse_2022
+parser_options:
+  division: Competitive
+  aliases:
+    MSJ A: Mission San Jose A
+    MSJ B: Mission San Jose B
+    Lakside A: Lakeside A
+    Punahou: Punahou A
+    Los Alamos: Los Alamos A
+  one_loss_seeds:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  round_labels:
+    '0': DE1
+    '2': DE2
+    '4': DE3
+    '6': DE4
+    '8': DE5
+    '10': DE6
+    '12': Finals 1
+    '15': Finals 2
+status: partial
+notes: 'Competitive division of the shared DASONI 2022 results sheet: 42 round-robin games (7 pools, pairings matched to per-round
+  W/L/score) and 23 double-elimination games including the bracket reset (Dulles A won Finals 1, Mission San Jose A won Finals
+  2; one 50-50 tie, Dulles A advanced). Player stats not extracted (first names only, no team column, team tabs do not reconcile
+  with player rows).'

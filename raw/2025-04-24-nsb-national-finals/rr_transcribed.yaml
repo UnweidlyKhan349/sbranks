@@ -1,0 +1,82 @@
+# Hand transcription of round_robin.pdf
+# (https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2025/scores/2025-HS-Round-Robin.pdf),
+# a screenshot of the "High School Academic Competition - Round Robin Tournament" page with no text layer.
+# Each row: team number, team name as printed, the grid row (x = the blank diagonal cell; 2 = win over the team in
+# that column, 1 = tie, 0 = loss), Total Points, the place badge printed next to the total (1st-4th, blank otherwise)
+# and the DTC Ranking. The parser checks every row sum against Total Points and every pair of cells for 2/0 or 1/1.
+divisions:
+  Ames:
+  - [1, Pullman High School, x 0 0 0 0 2 2 2 0, 6, null, 7]
+  - [2, BASIS Chandler (HS), 2 x 2 0 2 2 2 2 0, 12, 4, 3]
+  - [3, Blue Valley North High School, 2 0 x 0 0 2 2 2 0, 8, null, 4]
+  - [4, "'Iolani School (HS)", 2 2 2 x 0 2 2 2 0, 12, 3, 2]
+  - [5, The Frazer School (HS), 2 0 2 2 x 2 2 2 0, 12, 2, 1]
+  - [6, Fusion Academy Cupertino (HS), 0 0 0 0 0 x 0 2 0, 2, null, 5]
+  - [7, American Fork High School, 0 0 0 0 0 2 x 2 0, 4, null, 9]
+  - [8, Maine School of Science & Mathematics (HS), 0 0 0 0 0 0 0 x 0, 0, null, 8]
+  - [9, Mission San Jose High School, 2 2 2 2 2 2 2 2 x, 16, 1, 6]
+  Brookhaven:
+  - [1, Madisonville North Hopkins High School, x 0 0 0 0 0 0 0 0, 0, null, 6]
+  - [2, Pleasant Valley High School, 2 x 2 2 0 0 0 0 2, 8, null, 4]
+  - [3, Brighton High School, 2 0 x 0 0 0 0 0 2, 4, null, 8]
+  - [4, La Cueva High School, 2 0 2 x 0 2 0 0 2, 8, null, 3]
+  - [5, Brookfield Central High School, 2 2 2 2 x 2 2 2 2, 16, 1, 7]
+  - [6, Ladue Horton Watkins High School, 2 2 2 0 0 x 0 0 2, 8, 4, 2]
+  - [7, Canyon Crest Academy (HS), 2 2 2 2 0 2 x 0 2, 12, 3, 1]
+  - [8, Niskayuna High School, 2 2 2 2 0 2 2 x 2, 14, 2, 5]
+  - [9, St. Croix Educational Complex High School, 2 0 0 0 0 0 0 0 x, 2, null, 9]
+  Fermi:
+  - [1, University High School, x 2 2 2 0 2 2 2, 12, 2, 2]
+  - [2, Stockdale High School, 0 x 2 2 0 2 2 2, 10, 3, 6]
+  - [3, Saint John's School (HS), 0 0 x 0 0 0 0 0, 0, null, 8]
+  - [4, Hunter College High School, 0 0 2 x 0 2 2 2, 8, 4, 4]
+  - [5, Montgomery Blair High School, 2 2 2 2 x 2 2 2, 14, 1, 1]
+  - [6, Fayetteville High School East, 0 0 2 0 0 x 0 2, 4, null, 3]
+  - [7, Brookings High School, 0 0 2 0 0 2 x 2, 6, null, 5]
+  - [8, Billings West High School, 0 0 2 0 0 0 0 x, 2, null, 7]
+  Lawrence Berkeley:
+  - [1, Ray High School, x 0 0 0 0 2 0 0, 2, null, 2]
+  - [2, Whitney Young Magnet High School, 2 x 2 2 0 2 0 0, 8, 4, 4]
+  - [3, Bismarck High School, 2 0 x 2 0 0 0 0, 4, null, 8]
+  - [4, Connections Homeschool Program (HS), 2 0 0 x 0 0 0 0, 2, null, 7]
+  - [5, West Windsor-Plainsboro High School North, 2 2 2 2 x 2 0 2, 12, 3, 6]
+  - [6, New Mexico Military Institute (HS), 0 0 2 2 0 x 0 0, 4, null, 3]
+  - [7, North Hollywood Senior High School, 2 2 2 2 2 2 x 0, 12, 1, 1]
+  - [8, Carmel High School, 2 2 2 2 0 2 2 x, 12, 2, 5]
+  Princeton Plasma:
+  - [1, Ravenwood High School, x 2 0 0 0 2 2 0 2, 8, 4, 7]
+  - [2, Valley High School, 0 x 0 0 0 0 0 0 0, 0, null, 9]
+  - [3, Clements High School, 2 2 x 2 0 2 2 0 2, 12, 3, 1]
+  - [4, Twin Falls High School, 2 2 0 x 0 0 0 0 2, 6, null, 8]
+  - [5, Wayzata High School, 2 2 2 2 x 2 2 0 2, 14, 2, 4]
+  - [6, Catlin Gabel School (HS), 0 2 0 2 0 x 0 0 0, 4, null, 6]
+  - [7, Centerville High School, 0 2 0 2 0 2 x 0 0, 6, null, 5]
+  - [8, Lakeside School (HS), 2 2 2 2 2 2 2 x 2, 16, 1, 2]
+  - [9, Troy High School, 0 2 0 0 0 2 2 0 x, 6, null, 3]
+  Renewable Energy:
+  - [1, Stargate Charter School (HS), x 0 0 0 0 0 0 0, 0, null, 6]
+  - [2, University Preparatory School (HS), 2 x 0 0 2 0 2 0, 6, null, 4]
+  - [3, Enloe High School, 2 2 x 2 2 2 0 2, 12, 1, 1]
+  - [4, Farmington High School, 2 2 0 x 2 2 2 2, 12, 2, 5]
+  - [5, Baton Rouge Magnet High School, 2 0 0 0 x 0 0 2, 4, null, 2]
+  - [6, James Clemens High School, 2 2 0 0 2 x 2 2, 10, 3, 7]
+  - [7, North Allegheny High School, 2 0 2 0 2 0 x 2, 8, 4, 3]
+  - [8, Mississippi School for Math and Science (HS), 2 2 0 0 0 0 0 x, 4, null, 8]
+  Savannah River:
+  - [1, Amarillo High School, x 2 2 2 2 2 2 0, 12, 2, 6]
+  - [2, Lincoln East High School, 0 x 2 0 0 0 2 0, 4, null, 4]
+  - [3, Oklahoma School of Science and Math (HS), 0 0 x 0 0 0 2 0, 2, null, 7]
+  - [4, Naperville North High School, 0 2 2 x 0 0 2 0, 6, null, 2]
+  - [5, The Westminster Schools (HS), 0 2 2 2 x 0 2 0, 8, 4, 1]
+  - [6, Ward Melville Senior High School, 0 2 2 2 2 x 2 0, 10, 3, 3]
+  - [7, Transmountain Early College High School, 0 0 0 0 0 0 x 0, 0, null, 8]
+  - [8, Davidson Academy (HS), 2 2 2 2 2 2 2 x, 14, 1, 5]
+  SLAC:
+  - [1, Lexington High School, x 2 2 2 2 2 2 2, 14, 1, 1]
+  - [2, "American Heritage Schools, Palm Beach (HS)", 0 x 0 2 2 2 2 0, 8, 4, 2]
+  - [3, Thomas Jefferson High School for Science and Technology, 0 2 x 2 2 2 0 1, 9, 2, 3]
+  - [4, Morgantown High School, 0 0 0 x 2 0 0 2, 4, null, 6]
+  - [5, Kelly Walsh High School, 0 0 0 0 x 0 0 0, 0, null, 8]
+  - [6, Lakeside High School, 0 0 0 2 2 x 0 0, 4, null, 4]
+  - [7, BASIS San Antonio - Shavano Campus (HS), 0 0 2 2 2 2 x 0, 8, null, 5]
+  - [8, Centennial High School, 0 2 1 0 2 2 2 x, 9, 3, 7]

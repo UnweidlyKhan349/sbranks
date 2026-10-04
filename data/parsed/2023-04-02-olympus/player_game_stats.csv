@@ -1,0 +1,3057 @@
+game_id,player,team,subject,correct,negs,points
+g1,Viraj Negandhi,Dulles,overall,8,0,32
+g1,Viraj Negandhi,Dulles,other,2,0,8
+g1,Viraj Negandhi,Dulles,chemistry,4,0,16
+g1,Viraj Negandhi,Dulles,biology,1,0,4
+g1,Viraj Negandhi,Dulles,physics,1,0,4
+g1,Shlok Parija,Dulles,overall,2,1,4
+g1,Shlok Parija,Dulles,math,1,0,4
+g1,Shlok Parija,Dulles,ess,1,1,0
+g1,Michael,Collierville,overall,2,0,8
+g1,Michael,Collierville,ess,1,0,4
+g1,Michael,Collierville,physics,1,0,4
+g1,Jeeval Rambiya,Collierville,overall,2,0,8
+g1,Jeeval Rambiya,Collierville,other,1,0,4
+g1,Jeeval Rambiya,Collierville,physics,1,0,4
+g1,Rushil Shah,Dulles,overall,2,0,8
+g1,Rushil Shah,Dulles,math,2,0,8
+g1,Davis,Collierville,overall,1,0,4
+g1,Davis,Collierville,ess,1,0,4
+g1,Krish Prajapati,Collierville,overall,3,0,12
+g1,Krish Prajapati,Collierville,biology,3,0,12
+g1,Harris Chen,Collierville,overall,1,0,4
+g1,Harris Chen,Collierville,math,1,0,4
+g2,KHOI LE,Wayzata,overall,3,0,12
+g2,KHOI LE,Wayzata,other,1,0,4
+g2,KHOI LE,Wayzata,biology,2,0,8
+g2,Eric Chen,Wayzata,overall,3,0,12
+g2,Eric Chen,Wayzata,math,1,0,4
+g2,Eric Chen,Wayzata,ess,1,0,4
+g2,Eric Chen,Wayzata,physics,1,0,4
+g2,SAMARTH RAM,Wayzata,overall,1,2,-4
+g2,SAMARTH RAM,Wayzata,chemistry,1,0,4
+g2,SAMARTH RAM,Wayzata,ess,0,2,-8
+g2,Rishabh V,Interlake A,overall,3,0,12
+g2,Rishabh V,Interlake A,other,1,0,4
+g2,Rishabh V,Interlake A,ess,2,0,8
+g2,owen fei,Interlake A,overall,3,0,12
+g2,owen fei,Interlake A,other,1,0,4
+g2,owen fei,Interlake A,chemistry,2,0,8
+g2,Julian C,Interlake A,overall,1,0,4
+g2,Julian C,Interlake A,ess,1,0,4
+g2,Aneesh Swaminathan,Wayzata,overall,4,0,16
+g2,Aneesh Swaminathan,Wayzata,other,1,0,4
+g2,Aneesh Swaminathan,Wayzata,chemistry,1,0,4
+g2,Aneesh Swaminathan,Wayzata,biology,1,0,4
+g2,Aneesh Swaminathan,Wayzata,physics,1,0,4
+g2,Daniel L,Interlake A,overall,1,0,4
+g2,Daniel L,Interlake A,physics,1,0,4
+g2,Cindy Liu,Interlake A,overall,1,1,0
+g2,Cindy Liu,Interlake A,biology,1,1,0
+g3,Thaddeus Stefanski-Hall,Venice,overall,3,0,12
+g3,Thaddeus Stefanski-Hall,Venice,other,2,0,8
+g3,Thaddeus Stefanski-Hall,Venice,ess,1,0,4
+g3,Annie Guo,RMHS,overall,1,0,4
+g3,Annie Guo,RMHS,math,1,0,4
+g3,Joseph Chen,RMHS,overall,8,1,28
+g3,Joseph Chen,RMHS,other,2,0,8
+g3,Joseph Chen,RMHS,chemistry,0,1,-4
+g3,Joseph Chen,RMHS,ess,1,0,4
+g3,Joseph Chen,RMHS,biology,3,0,12
+g3,Joseph Chen,RMHS,physics,2,0,8
+g3,Lidia P.,Venice,overall,2,0,8
+g3,Lidia P.,Venice,chemistry,1,0,4
+g3,Lidia P.,Venice,biology,1,0,4
+g3,Fateh Aliyev,Venice,overall,2,0,8
+g3,Fateh Aliyev,Venice,chemistry,1,0,4
+g3,Fateh Aliyev,Venice,physics,1,0,4
+g3,michael warsono,Venice,overall,3,0,12
+g3,michael warsono,Venice,math,1,0,4
+g3,michael warsono,Venice,chemistry,1,0,4
+g3,michael warsono,Venice,ess,1,0,4
+g3,Vincent T,RMHS,overall,0,0,0
+g4,Darrien Liang,Interlake B,overall,4,0,16
+g4,Darrien Liang,Interlake B,other,2,0,8
+g4,Darrien Liang,Interlake B,ess,1,0,4
+g4,Darrien Liang,Interlake B,biology,1,0,4
+g4,Tristan Kay,Interlake B,overall,4,0,16
+g4,Tristan Kay,Interlake B,other,1,0,4
+g4,Tristan Kay,Interlake B,math,2,0,8
+g4,Tristan Kay,Interlake B,physics,1,0,4
+g4,Shiv Mehrotra,Interlake B,overall,4,0,16
+g4,Shiv Mehrotra,Interlake B,chemistry,3,0,12
+g4,Shiv Mehrotra,Interlake B,physics,1,0,4
+g4,Grace C,Interlake B,overall,4,0,16
+g4,Grace C,Interlake B,other,1,0,4
+g4,Grace C,Interlake B,biology,3,0,12
+g4,Austin Xu,Canyon Crest,overall,0,0,0
+g4,Nihal J.,Interlake B,overall,0,0,0
+g4,Flora Jiang,Canyon Crest,overall,3,1,8
+g4,Flora Jiang,Canyon Crest,chemistry,1,0,4
+g4,Flora Jiang,Canyon Crest,ess,1,1,0
+g4,Flora Jiang,Canyon Crest,physics,1,0,4
+g4,Alex Backues,Canyon Crest,overall,0,0,0
+g5,Mason Yu,Westminster,overall,9,2,28
+g5,Mason Yu,Westminster,other,2,0,8
+g5,Mason Yu,Westminster,math,1,0,4
+g5,Mason Yu,Westminster,chemistry,2,1,4
+g5,Mason Yu,Westminster,ess,1,1,0
+g5,Mason Yu,Westminster,biology,3,0,12
+g5,Andrew Tang,Naperville North,overall,5,0,20
+g5,Andrew Tang,Naperville North,other,1,0,4
+g5,Andrew Tang,Naperville North,ess,2,0,8
+g5,Andrew Tang,Naperville North,biology,1,0,4
+g5,Andrew Tang,Naperville North,physics,1,0,4
+g5,Kai Liu,Naperville North,overall,2,0,8
+g5,Kai Liu,Naperville North,math,1,0,4
+g5,Kai Liu,Naperville North,ess,1,0,4
+g5,Chris Chen,Westminster,overall,3,1,8
+g5,Chris Chen,Westminster,math,1,0,4
+g5,Chris Chen,Westminster,physics,2,1,4
+g5,Luke Guan,Westminster,overall,1,0,4
+g5,Luke Guan,Westminster,chemistry,1,0,4
+g6,Alex Franks,NoHo,overall,5,2,12
+g6,Alex Franks,NoHo,other,3,0,12
+g6,Alex Franks,NoHo,ess,2,1,4
+g6,Alex Franks,NoHo,physics,0,1,-4
+g6,boheng cao,NoHo,overall,6,0,24
+g6,boheng cao,NoHo,math,3,0,12
+g6,boheng cao,NoHo,physics,3,0,12
+g6,Michael Xiang,Seven Lakes,overall,0,0,0
+g6,Adeline Sun,NoHo,overall,1,0,4
+g6,Adeline Sun,NoHo,chemistry,1,0,4
+g6,Phoenix Wu,Seven Lakes,overall,2,2,0
+g6,Phoenix Wu,Seven Lakes,chemistry,2,1,4
+g6,Phoenix Wu,Seven Lakes,biology,0,1,-4
+g6,Richard Zhu,NoHo,overall,4,0,16
+g6,Richard Zhu,NoHo,other,1,0,4
+g6,Richard Zhu,NoHo,biology,3,0,12
+g6,Vishal Surya,Seven Lakes,overall,2,0,8
+g6,Vishal Surya,Seven Lakes,math,1,0,4
+g6,Vishal Surya,Seven Lakes,biology,1,0,4
+g6,Andy Teng,Seven Lakes,overall,3,0,12
+g6,Andy Teng,Seven Lakes,ess,2,0,8
+g6,Andy Teng,Seven Lakes,physics,1,0,4
+g7,Aaron Lin,Ladue,overall,2,0,8
+g7,Aaron Lin,Ladue,math,1,0,4
+g7,Aaron Lin,Ladue,chemistry,1,0,4
+g7,David Zhou,Lexington A,overall,1,1,0
+g7,David Zhou,Lexington A,other,1,0,4
+g7,David Zhou,Lexington A,ess,0,1,-4
+g7,Evin Liang,Lexington A,overall,5,0,20
+g7,Evin Liang,Lexington A,other,1,0,4
+g7,Evin Liang,Lexington A,math,1,0,4
+g7,Evin Liang,Lexington A,ess,1,0,4
+g7,Evin Liang,Lexington A,biology,1,0,4
+g7,Evin Liang,Lexington A,physics,1,0,4
+g7,Abheek Dhawan,Ladue,overall,2,0,8
+g7,Abheek Dhawan,Ladue,ess,2,0,8
+g7,Rohan Suri,Ladue,overall,4,0,16
+g7,Rohan Suri,Ladue,chemistry,2,0,8
+g7,Rohan Suri,Ladue,ess,1,0,4
+g7,Rohan Suri,Ladue,biology,1,0,4
+g7,Anuprabha Dandapat,Lexington A,overall,3,0,12
+g7,Anuprabha Dandapat,Lexington A,other,1,0,4
+g7,Anuprabha Dandapat,Lexington A,physics,2,0,8
+g7,Shreyas Ekanathan,Lexington A,overall,2,0,8
+g7,Shreyas Ekanathan,Lexington A,other,1,0,4
+g7,Shreyas Ekanathan,Lexington A,math,1,0,4
+g7,Aditya Jain,Ladue,overall,2,0,8
+g7,Aditya Jain,Ladue,biology,1,0,4
+g7,Aditya Jain,Ladue,physics,1,0,4
+g7,Yuvan Chali,Ladue,overall,2,0,8
+g7,Yuvan Chali,Ladue,chemistry,1,0,4
+g7,Yuvan Chali,Ladue,biology,1,0,4
+g8,Harry Jin,Middleton,overall,8,0,32
+g8,Harry Jin,Middleton,other,2,0,8
+g8,Harry Jin,Middleton,math,3,0,12
+g8,Harry Jin,Middleton,chemistry,2,0,8
+g8,Harry Jin,Middleton,ess,1,0,4
+g8,Mihir Kulkarni,Niskayuna,overall,2,0,8
+g8,Mihir Kulkarni,Niskayuna,chemistry,1,0,4
+g8,Mihir Kulkarni,Niskayuna,physics,1,0,4
+g8,Owen Weisenberger,Middleton,overall,3,0,12
+g8,Owen Weisenberger,Middleton,other,1,0,4
+g8,Owen Weisenberger,Middleton,biology,2,0,8
+g8,Rayticulum,Middleton,overall,2,1,4
+g8,Rayticulum,Middleton,other,1,0,4
+g8,Rayticulum,Middleton,ess,1,0,4
+g8,Rayticulum,Middleton,biology,0,1,-4
+g8,Iris Liu,Niskayuna,overall,1,0,4
+g8,Iris Liu,Niskayuna,biology,1,0,4
+g8,Oscar,Niskayuna,overall,1,0,4
+g8,Oscar,Niskayuna,physics,1,0,4
+g8,Arjun R,Niskayuna,overall,2,0,8
+g8,Arjun R,Niskayuna,math,1,0,4
+g8,Arjun R,Niskayuna,biology,1,0,4
+g9,Sahas Goli,MSJ,overall,2,0,8
+g9,Sahas Goli,MSJ,other,2,0,8
+g9,Samuel Zhou,MSJ,overall,12,0,48
+g9,Samuel Zhou,MSJ,other,1,0,4
+g9,Samuel Zhou,MSJ,math,4,0,16
+g9,Samuel Zhou,MSJ,ess,2,0,8
+g9,Samuel Zhou,MSJ,biology,1,0,4
+g9,Samuel Zhou,MSJ,physics,4,0,16
+g9,Gokulanath Mahesh Kumar,MSJ,overall,4,0,16
+g9,Gokulanath Mahesh Kumar,MSJ,chemistry,2,0,8
+g9,Gokulanath Mahesh Kumar,MSJ,biology,2,0,8
+g9,Jerry Yuan,MSJ,overall,1,0,4
+g9,Jerry Yuan,MSJ,ess,1,0,4
+g9,Annie Xu,MSJ,overall,3,0,12
+g9,Annie Xu,MSJ,other,1,0,4
+g9,Annie Xu,MSJ,chemistry,2,0,8
+g10,Emmanuel Zheng,Buchholz A,overall,1,0,4
+g10,Emmanuel Zheng,Buchholz A,other,1,0,4
+g10,Andrey Nikitin,Buchholz A,overall,7,1,24
+g10,Andrey Nikitin,Buchholz A,other,1,0,4
+g10,Andrey Nikitin,Buchholz A,math,1,0,4
+g10,Andrey Nikitin,Buchholz A,ess,1,1,0
+g10,Andrey Nikitin,Buchholz A,biology,3,0,12
+g10,Andrey Nikitin,Buchholz A,physics,1,0,4
+g10,Gugan Thuduppathy,Blair C,overall,3,1,8
+g10,Gugan Thuduppathy,Blair C,other,2,0,8
+g10,Gugan Thuduppathy,Blair C,chemistry,0,1,-4
+g10,Gugan Thuduppathy,Blair C,physics,1,0,4
+g10,Evan Zhang,Blair C,overall,4,0,16
+g10,Evan Zhang,Blair C,math,1,0,4
+g10,Evan Zhang,Blair C,ess,2,0,8
+g10,Evan Zhang,Blair C,biology,1,0,4
+g10,Nicholas Dang,Buchholz A,overall,3,0,12
+g10,Nicholas Dang,Buchholz A,chemistry,3,0,12
+g10,Ahan Mishra,Buchholz A,overall,2,0,8
+g10,Ahan Mishra,Buchholz A,math,2,0,8
+g11,Aashray Chegu,Tesla STEM,overall,2,1,4
+g11,Aashray Chegu,Tesla STEM,other,2,0,8
+g11,Aashray Chegu,Tesla STEM,ess,0,1,-4
+g11,Jake Wang,Cupertino,overall,6,0,24
+g11,Jake Wang,Cupertino,other,1,0,4
+g11,Jake Wang,Cupertino,math,2,0,8
+g11,Jake Wang,Cupertino,chemistry,1,0,4
+g11,Jake Wang,Cupertino,ess,1,0,4
+g11,Jake Wang,Cupertino,physics,1,0,4
+g11,Aaditya Karnataki,Cupertino,overall,5,0,20
+g11,Aaditya Karnataki,Cupertino,ess,1,0,4
+g11,Aaditya Karnataki,Cupertino,biology,3,0,12
+g11,Aaditya Karnataki,Cupertino,physics,1,0,4
+g11,Evan Kim,Tesla STEM,overall,3,0,12
+g11,Evan Kim,Tesla STEM,math,2,0,8
+g11,Evan Kim,Tesla STEM,physics,1,0,4
+g11,Sami Khan,Tesla STEM,overall,2,0,8
+g11,Sami Khan,Tesla STEM,chemistry,1,0,4
+g11,Sami Khan,Tesla STEM,physics,1,0,4
+g11,Sebi Kumar,Tesla STEM,overall,2,0,8
+g11,Sebi Kumar,Tesla STEM,other,1,0,4
+g11,Sebi Kumar,Tesla STEM,chemistry,1,0,4
+g11,Aditi Gargeshwari,Cupertino,overall,2,0,8
+g11,Aditi Gargeshwari,Cupertino,chemistry,1,0,4
+g11,Aditi Gargeshwari,Cupertino,biology,1,0,4
+g12,Emmy B,Davidson,overall,5,2,12
+g12,Emmy B,Davidson,other,1,0,4
+g12,Emmy B,Davidson,chemistry,1,1,0
+g12,Emmy B,Davidson,ess,2,1,4
+g12,Emmy B,Davidson,physics,1,0,4
+g12,Ethan C,Davidson,overall,3,0,12
+g12,Ethan C,Davidson,math,2,0,8
+g12,Ethan C,Davidson,physics,1,0,4
+g12,Vikas Sarvasya,NCSSM B,overall,2,0,8
+g12,Vikas Sarvasya,NCSSM B,math,1,0,4
+g12,Vikas Sarvasya,NCSSM B,chemistry,1,0,4
+g12,Akshansh Chauhan,Davidson,overall,4,0,16
+g12,Akshansh Chauhan,Davidson,other,1,0,4
+g12,Akshansh Chauhan,Davidson,chemistry,1,0,4
+g12,Akshansh Chauhan,Davidson,biology,1,0,4
+g12,Akshansh Chauhan,Davidson,physics,1,0,4
+g12,Edward Zhang,NCSSM B,overall,3,0,12
+g12,Edward Zhang,NCSSM B,math,1,0,4
+g12,Edward Zhang,NCSSM B,ess,1,0,4
+g12,Edward Zhang,NCSSM B,physics,1,0,4
+g12,Yajur,Davidson,overall,3,0,12
+g12,Yajur,Davidson,biology,3,0,12
+g12,Madhav Karthikeyan,NCSSM B,overall,2,1,4
+g12,Madhav Karthikeyan,NCSSM B,other,2,0,8
+g12,Madhav Karthikeyan,NCSSM B,biology,0,1,-4
+g13,Caleb Zhao,Blair A,overall,12,2,40
+g13,Caleb Zhao,Blair A,other,3,0,12
+g13,Caleb Zhao,Blair A,chemistry,3,1,8
+g13,Caleb Zhao,Blair A,ess,2,1,4
+g13,Caleb Zhao,Blair A,biology,4,0,16
+g13,Stephen Chen,Blair A,overall,6,1,20
+g13,Stephen Chen,Blair A,other,1,0,4
+g13,Stephen Chen,Blair A,math,2,0,8
+g13,Stephen Chen,Blair A,physics,3,1,8
+g13,Michael Wei,Buchholz B,overall,3,0,12
+g13,Michael Wei,Buchholz B,math,1,0,4
+g13,Michael Wei,Buchholz B,ess,1,0,4
+g13,Michael Wei,Buchholz B,physics,1,0,4
+g13,Abhinav Pothuri,Buchholz B,overall,2,1,4
+g13,Abhinav Pothuri,Buchholz B,math,1,0,4
+g13,Abhinav Pothuri,Buchholz B,ess,1,0,4
+g13,Abhinav Pothuri,Buchholz B,physics,0,1,-4
+g14,Wendy Cao,University,overall,2,0,8
+g14,Wendy Cao,University,other,1,0,4
+g14,Wendy Cao,University,ess,1,0,4
+g14,Yufei Chen,University,overall,9,0,36
+g14,Yufei Chen,University,math,3,0,12
+g14,Yufei Chen,University,chemistry,3,0,12
+g14,Yufei Chen,University,ess,1,0,4
+g14,Yufei Chen,University,biology,1,0,4
+g14,Yufei Chen,University,physics,1,0,4
+g14,Harsh Ambardekar,Green Hope,overall,4,0,16
+g14,Harsh Ambardekar,Green Hope,chemistry,1,0,4
+g14,Harsh Ambardekar,Green Hope,biology,1,0,4
+g14,Harsh Ambardekar,Green Hope,physics,2,0,8
+g14,Erik,Green Hope,overall,1,1,0
+g14,Erik,Green Hope,biology,1,0,4
+g14,Erik,Green Hope,physics,0,1,-4
+g14,Alex Patton,Green Hope,overall,3,0,12
+g14,Alex Patton,Green Hope,other,2,0,8
+g14,Alex Patton,Green Hope,ess,1,0,4
+g14,Feodor Yevtushenko,University,overall,2,1,4
+g14,Feodor Yevtushenko,University,other,1,0,4
+g14,Feodor Yevtushenko,University,math,1,0,4
+g14,Feodor Yevtushenko,University,chemistry,0,1,-4
+g15,samuel wang,Lynbrook,overall,3,1,8
+g15,samuel wang,Lynbrook,other,1,0,4
+g15,samuel wang,Lynbrook,ess,2,1,4
+g15,Sohil Rathi,Lynbrook,overall,2,1,4
+g15,Sohil Rathi,Lynbrook,math,1,0,4
+g15,Sohil Rathi,Lynbrook,chemistry,1,0,4
+g15,Sohil Rathi,Lynbrook,physics,0,1,-4
+g15,Aditya Bose-Bandyopadhyay,Pullman,overall,3,0,12
+g15,Aditya Bose-Bandyopadhyay,Pullman,math,2,0,8
+g15,Aditya Bose-Bandyopadhyay,Pullman,chemistry,1,0,4
+g15,David Lee,Lynbrook,overall,6,0,24
+g15,David Lee,Lynbrook,other,1,0,4
+g15,David Lee,Lynbrook,math,1,0,4
+g15,David Lee,Lynbrook,chemistry,1,0,4
+g15,David Lee,Lynbrook,biology,1,0,4
+g15,David Lee,Lynbrook,physics,2,0,8
+g15,antone jung,Lynbrook,overall,4,0,16
+g15,antone jung,Lynbrook,other,1,0,4
+g15,antone jung,Lynbrook,biology,3,0,12
+g15,William Miller,Pullman,overall,0,1,-4
+g15,William Miller,Pullman,biology,0,1,-4
+g15,Mir Park,Pullman,overall,1,0,4
+g15,Mir Park,Pullman,physics,1,0,4
+g15,Jasper Premo,Pullman,overall,3,0,12
+g15,Jasper Premo,Pullman,other,1,0,4
+g15,Jasper Premo,Pullman,chemistry,1,0,4
+g15,Jasper Premo,Pullman,ess,1,0,4
+g16,Elias Mrug,ASFA,overall,10,0,40
+g16,Elias Mrug,ASFA,other,1,0,4
+g16,Elias Mrug,ASFA,math,2,0,8
+g16,Elias Mrug,ASFA,chemistry,2,0,8
+g16,Elias Mrug,ASFA,ess,4,0,16
+g16,Elias Mrug,ASFA,physics,1,0,4
+g16,Jonathan Fan,Blair B,overall,6,0,24
+g16,Jonathan Fan,Blair B,other,1,0,4
+g16,Jonathan Fan,Blair B,chemistry,2,0,8
+g16,Jonathan Fan,Blair B,biology,3,0,12
+g16,Rishi Yellamraju,ASFA,overall,1,0,4
+g16,Rishi Yellamraju,ASFA,other,1,0,4
+g16,Daniel,ASFA,overall,2,0,8
+g16,Daniel,ASFA,math,1,0,4
+g16,Daniel,ASFA,biology,1,0,4
+g16,Dexter Gard,ASFA,overall,1,0,4
+g16,Dexter Gard,ASFA,other,1,0,4
+g17,Joshua Wang,Brookfield,overall,10,0,40
+g17,Joshua Wang,Brookfield,other,2,0,8
+g17,Joshua Wang,Brookfield,math,1,0,4
+g17,Joshua Wang,Brookfield,chemistry,1,0,4
+g17,Joshua Wang,Brookfield,ess,1,0,4
+g17,Joshua Wang,Brookfield,biology,2,0,8
+g17,Joshua Wang,Brookfield,physics,3,0,12
+g17,Jason Dong,Troy,overall,2,0,8
+g17,Jason Dong,Troy,other,1,0,4
+g17,Jason Dong,Troy,chemistry,1,0,4
+g17,Gordon Wong,Troy,overall,0,0,0
+g17,Chris John,Troy,overall,1,0,4
+g17,Chris John,Troy,other,1,0,4
+g17,Kartik Ramachandrula,Brookfield,overall,5,0,20
+g17,Kartik Ramachandrula,Brookfield,math,3,0,12
+g17,Kartik Ramachandrula,Brookfield,ess,1,0,4
+g17,Kartik Ramachandrula,Brookfield,physics,1,0,4
+g17,Melinda Ji,Troy,overall,3,0,12
+g17,Melinda Ji,Troy,chemistry,1,0,4
+g17,Melinda Ji,Troy,biology,2,0,8
+g17,Aditya Peddi,Troy,overall,3,0,12
+g17,Aditya Peddi,Troy,chemistry,1,0,4
+g17,Aditya Peddi,Troy,ess,2,0,8
+g18,Rohit Hari,Enloe A,overall,4,1,12
+g18,Rohit Hari,Enloe A,other,1,0,4
+g18,Rohit Hari,Enloe A,chemistry,1,0,4
+g18,Rohit Hari,Enloe A,ess,2,1,4
+g18,Brian Zhang,Enloe A,overall,3,0,12
+g18,Brian Zhang,Enloe A,other,1,0,4
+g18,Brian Zhang,Enloe A,math,2,0,8
+g18,Rishabh Bedidha,Enloe A,overall,1,0,4
+g18,Rishabh Bedidha,Enloe A,biology,1,0,4
+g18,Sarthak,Mira Loma,overall,5,0,20
+g18,Sarthak,Mira Loma,math,1,0,4
+g18,Sarthak,Mira Loma,biology,1,0,4
+g18,Sarthak,Mira Loma,physics,3,0,12
+g18,Colin Hanes,Enloe A,overall,3,0,12
+g18,Colin Hanes,Enloe A,other,1,0,4
+g18,Colin Hanes,Enloe A,ess,1,0,4
+g18,Colin Hanes,Enloe A,physics,1,0,4
+g18,Nipun D,Mira Loma,overall,6,1,20
+g18,Nipun D,Mira Loma,other,1,0,4
+g18,Nipun D,Mira Loma,math,1,0,4
+g18,Nipun D,Mira Loma,chemistry,2,1,4
+g18,Nipun D,Mira Loma,biology,2,0,8
+g18,Shohom Chakraborty,Mira Loma,overall,0,0,0
+g19,Kaiwen,Enloe B,overall,3,2,4
+g19,Kaiwen,Enloe B,other,1,1,0
+g19,Kaiwen,Enloe B,chemistry,2,1,4
+g19,Anurag Sodhi,Centennial,overall,12,1,44
+g19,Anurag Sodhi,Centennial,other,2,0,8
+g19,Anurag Sodhi,Centennial,math,2,0,8
+g19,Anurag Sodhi,Centennial,chemistry,2,0,8
+g19,Anurag Sodhi,Centennial,ess,1,0,4
+g19,Anurag Sodhi,Centennial,biology,2,1,4
+g19,Anurag Sodhi,Centennial,physics,3,0,12
+g19,Ryan Chang,Centennial,overall,0,1,-4
+g19,Ryan Chang,Centennial,ess,0,1,-4
+g19,Vedang Singhal,Enloe B,overall,4,0,16
+g19,Vedang Singhal,Enloe B,other,1,0,4
+g19,Vedang Singhal,Enloe B,ess,3,0,12
+g19,Jerry Cao-Xue,Enloe B,overall,2,0,8
+g19,Jerry Cao-Xue,Enloe B,biology,2,0,8
+g19,Sukrith Velmineti,Enloe B,overall,1,0,4
+g19,Sukrith Velmineti,Enloe B,math,1,0,4
+g19,Ryan,Centennial,overall,1,0,4
+g19,Ryan,Centennial,math,1,0,4
+g20,Aldric Benalan,WWPN,overall,3,2,4
+g20,Aldric Benalan,WWPN,other,2,0,8
+g20,Aldric Benalan,WWPN,chemistry,0,1,-4
+g20,Aldric Benalan,WWPN,ess,0,1,-4
+g20,Aldric Benalan,WWPN,physics,1,0,4
+g20,Allison Eto,Iolani,overall,6,0,24
+g20,Allison Eto,Iolani,other,1,0,4
+g20,Allison Eto,Iolani,math,1,0,4
+g20,Allison Eto,Iolani,chemistry,1,0,4
+g20,Allison Eto,Iolani,ess,1,0,4
+g20,Allison Eto,Iolani,physics,2,0,8
+g20,Shreyash,WWPN,overall,0,0,0
+g20,arjun avineni,WWPN,overall,0,0,0
+g20,Ryan Eto,Iolani,overall,6,0,24
+g20,Ryan Eto,Iolani,chemistry,2,0,8
+g20,Ryan Eto,Iolani,ess,3,0,12
+g20,Ryan Eto,Iolani,biology,1,0,4
+g20,Krutharth,WWPN,overall,4,0,16
+g20,Krutharth,WWPN,other,1,0,4
+g20,Krutharth,WWPN,biology,3,0,12
+g20,Keisuke Kwong,Iolani,overall,2,0,8
+g20,Keisuke Kwong,Iolani,math,2,0,8
+g20,Rithik Gumpu,WWPN,overall,1,0,4
+g20,Rithik Gumpu,WWPN,math,1,0,4
+g21,Vishnu Mangipudi,Lakeside,overall,15,0,60
+g21,Vishnu Mangipudi,Lakeside,other,2,0,8
+g21,Vishnu Mangipudi,Lakeside,math,4,0,16
+g21,Vishnu Mangipudi,Lakeside,chemistry,3,0,12
+g21,Vishnu Mangipudi,Lakeside,ess,3,0,12
+g21,Vishnu Mangipudi,Lakeside,biology,2,0,8
+g21,Vishnu Mangipudi,Lakeside,physics,1,0,4
+g21,Josh Shi,PRISMS,overall,5,2,12
+g21,Josh Shi,PRISMS,other,2,0,8
+g21,Josh Shi,PRISMS,ess,1,2,-4
+g21,Josh Shi,PRISMS,biology,1,0,4
+g21,Josh Shi,PRISMS,physics,1,0,4
+g21,Felicity Ni,PRISMS,overall,1,0,4
+g21,Felicity Ni,PRISMS,chemistry,1,0,4
+g21,Rohan Dhillon,Lakeside,overall,2,0,8
+g21,Rohan Dhillon,Lakeside,biology,1,0,4
+g21,Rohan Dhillon,Lakeside,physics,1,0,4
+g22,Sanshray Singh,AHS Broward,overall,4,0,16
+g22,Sanshray Singh,AHS Broward,other,2,0,8
+g22,Sanshray Singh,AHS Broward,biology,2,0,8
+g22,Sharvaa Selvan,AHS Broward,overall,7,0,28
+g22,Sharvaa Selvan,AHS Broward,math,3,0,12
+g22,Sharvaa Selvan,AHS Broward,chemistry,2,0,8
+g22,Sharvaa Selvan,AHS Broward,ess,1,0,4
+g22,Sharvaa Selvan,AHS Broward,physics,1,0,4
+g22,Om Lad,JP Stevens,overall,1,0,4
+g22,Om Lad,JP Stevens,chemistry,1,0,4
+g22,Anagh Sheth,JP Stevens,overall,2,0,8
+g22,Anagh Sheth,JP Stevens,other,1,0,4
+g22,Anagh Sheth,JP Stevens,ess,1,0,4
+g22,Rithvik Marri,AHS Broward,overall,2,0,8
+g22,Rithvik Marri,AHS Broward,biology,2,0,8
+g22,Alan Wu,AHS Broward,overall,4,0,16
+g22,Alan Wu,AHS Broward,ess,1,0,4
+g22,Alan Wu,AHS Broward,physics,3,0,12
+g23,Daniel Jung,Lexington B,overall,9,1,32
+g23,Daniel Jung,Lexington B,other,3,0,12
+g23,Daniel Jung,Lexington B,chemistry,1,0,4
+g23,Daniel Jung,Lexington B,ess,3,1,8
+g23,Daniel Jung,Lexington B,biology,1,0,4
+g23,Daniel Jung,Lexington B,physics,1,0,4
+g23,Jerry Xu,Lexington B,overall,2,2,0
+g23,Jerry Xu,Lexington B,math,2,0,8
+g23,Jerry Xu,Lexington B,biology,0,1,-4
+g23,Jerry Xu,Lexington B,physics,0,1,-4
+g23,Anthony Yang,Shen,overall,1,0,4
+g23,Anthony Yang,Shen,math,1,0,4
+g23,Tanmay Gupta,Lexington B,overall,3,0,12
+g23,Tanmay Gupta,Lexington B,chemistry,2,0,8
+g23,Tanmay Gupta,Lexington B,physics,1,0,4
+g23,Tony Liu,Shen,overall,4,0,16
+g23,Tony Liu,Shen,math,1,0,4
+g23,Tony Liu,Shen,chemistry,1,0,4
+g23,Tony Liu,Shen,biology,2,0,8
+g23,Aditya Jha,Shen,overall,0,1,-4
+g23,Aditya Jha,Shen,chemistry,0,1,-4
+g23,Edward,Shen,overall,0,0,0
+g23,Andrew Hwang,Shen,overall,1,1,0
+g23,Andrew Hwang,Shen,physics,1,1,0
+g23,William Jung,Lexington B,overall,2,0,8
+g23,William Jung,Lexington B,other,1,0,4
+g23,William Jung,Lexington B,biology,1,0,4
+g24,Connor Z,NoHo B,overall,7,1,24
+g24,Connor Z,NoHo B,other,2,1,4
+g24,Connor Z,NoHo B,math,1,0,4
+g24,Connor Z,NoHo B,chemistry,1,0,4
+g24,Connor Z,NoHo B,ess,2,0,8
+g24,Connor Z,NoHo B,biology,1,0,4
+g24,Eli Park,NCSSM A,overall,1,0,4
+g24,Eli Park,NCSSM A,math,1,0,4
+g24,Avanesh Vijayakumar,NCSSM A,overall,5,2,12
+g24,Avanesh Vijayakumar,NCSSM A,chemistry,3,1,8
+g24,Avanesh Vijayakumar,NCSSM A,biology,2,1,4
+g24,Nikhil Sampath,NCSSM A,overall,1,0,4
+g24,Nikhil Sampath,NCSSM A,ess,1,0,4
+g24,Aditya Vatsavai,NCSSM A,overall,4,0,16
+g24,Aditya Vatsavai,NCSSM A,physics,4,0,16
+g24,Bo Chi,NCSSM A,overall,3,0,12
+g24,Bo Chi,NCSSM A,other,2,0,8
+g24,Bo Chi,NCSSM A,biology,1,0,4
+g24,Danny Kim,NoHo B,overall,0,1,-4
+g24,Danny Kim,NoHo B,ess,0,1,-4
+g25,Davis,Collierville,overall,2,0,8
+g25,Davis,Collierville,other,2,0,8
+g25,Eric Chen,Wayzata,overall,3,0,12
+g25,Eric Chen,Wayzata,math,2,0,8
+g25,Eric Chen,Wayzata,physics,1,0,4
+g25,Krish Prajapati,Collierville,overall,1,0,4
+g25,Krish Prajapati,Collierville,other,1,0,4
+g25,SAMARTH RAM,Wayzata,overall,1,0,4
+g25,SAMARTH RAM,Wayzata,chemistry,1,0,4
+g25,KHOI LE,Wayzata,overall,1,1,0
+g25,KHOI LE,Wayzata,other,0,1,-4
+g25,KHOI LE,Wayzata,ess,1,0,4
+g25,Aneesh Swaminathan,Wayzata,overall,7,0,28
+g25,Aneesh Swaminathan,Wayzata,other,1,0,4
+g25,Aneesh Swaminathan,Wayzata,chemistry,1,0,4
+g25,Aneesh Swaminathan,Wayzata,biology,4,0,16
+g25,Aneesh Swaminathan,Wayzata,physics,1,0,4
+g25,Michael,Collierville,overall,1,0,4
+g25,Michael,Collierville,ess,1,0,4
+g25,Harris Chen,Collierville,overall,1,0,4
+g25,Harris Chen,Collierville,chemistry,1,0,4
+g26,Rushil Shah,Dulles,overall,6,0,24
+g26,Rushil Shah,Dulles,other,1,0,4
+g26,Rushil Shah,Dulles,math,2,0,8
+g26,Rushil Shah,Dulles,physics,3,0,12
+g26,Lidia P.,Venice,overall,4,0,16
+g26,Lidia P.,Venice,chemistry,1,0,4
+g26,Lidia P.,Venice,biology,3,0,12
+g26,Shlok Parija,Dulles,overall,1,0,4
+g26,Shlok Parija,Dulles,ess,1,0,4
+g26,justin,Dulles,overall,2,1,4
+g26,justin,Dulles,other,1,0,4
+g26,justin,Dulles,ess,0,1,-4
+g26,justin,Dulles,biology,1,0,4
+g26,michael warsono,Venice,overall,1,0,4
+g26,michael warsono,Venice,other,1,0,4
+g26,Viraj Negandhi,Dulles,overall,6,0,24
+g26,Viraj Negandhi,Dulles,math,2,0,8
+g26,Viraj Negandhi,Dulles,chemistry,3,0,12
+g26,Viraj Negandhi,Dulles,physics,1,0,4
+g26,Thaddeus Stefanski-Hall,Venice,overall,2,0,8
+g26,Thaddeus Stefanski-Hall,Venice,other,1,0,4
+g26,Thaddeus Stefanski-Hall,Venice,ess,1,0,4
+g26,Fateh Aliyev,Venice,overall,0,0,0
+g27,owen fei,Interlake A,overall,3,1,8
+g27,owen fei,Interlake A,other,1,0,4
+g27,owen fei,Interlake A,chemistry,1,1,0
+g27,owen fei,Interlake A,physics,1,0,4
+g27,Julian C,Interlake A,overall,1,0,4
+g27,Julian C,Interlake A,math,1,0,4
+g27,Annie Guo,RMHS,overall,2,0,8
+g27,Annie Guo,RMHS,math,2,0,8
+g27,Rishabh V,Interlake A,overall,5,0,20
+g27,Rishabh V,Interlake A,other,2,0,8
+g27,Rishabh V,Interlake A,ess,3,0,12
+g27,Cindy Liu,Interlake A,overall,2,1,4
+g27,Cindy Liu,Interlake A,other,0,1,-4
+g27,Cindy Liu,Interlake A,biology,2,0,8
+g27,Joseph Chen,RMHS,overall,6,1,20
+g27,Joseph Chen,RMHS,other,1,0,4
+g27,Joseph Chen,RMHS,chemistry,2,0,8
+g27,Joseph Chen,RMHS,biology,2,1,4
+g27,Joseph Chen,RMHS,physics,1,0,4
+g27,Daniel L,Interlake A,overall,1,0,4
+g27,Daniel L,Interlake A,math,1,0,4
+g28,Alex Backues,Canyon Crest,overall,3,0,12
+g28,Alex Backues,Canyon Crest,other,1,0,4
+g28,Alex Backues,Canyon Crest,math,2,0,8
+g28,Albert Tang,Westminster,overall,3,1,8
+g28,Albert Tang,Westminster,chemistry,3,1,8
+g28,Austin Xu,Canyon Crest,overall,0,1,-4
+g28,Austin Xu,Canyon Crest,math,0,1,-4
+g28,Chris Chen,Westminster,overall,3,2,4
+g28,Chris Chen,Westminster,math,1,1,0
+g28,Chris Chen,Westminster,physics,2,1,4
+g28,Mason Yu,Westminster,overall,7,1,24
+g28,Mason Yu,Westminster,other,3,0,12
+g28,Mason Yu,Westminster,ess,2,0,8
+g28,Mason Yu,Westminster,biology,2,1,4
+g28,Flora Jiang,Canyon Crest,overall,5,0,20
+g28,Flora Jiang,Canyon Crest,ess,2,0,8
+g28,Flora Jiang,Canyon Crest,biology,2,0,8
+g28,Flora Jiang,Canyon Crest,physics,1,0,4
+g29,Aidan Lai,Seven Lakes,overall,1,1,0
+g29,Aidan Lai,Seven Lakes,other,1,1,0
+g29,Tristan Kay,Interlake B,overall,4,0,16
+g29,Tristan Kay,Interlake B,math,3,0,12
+g29,Tristan Kay,Interlake B,physics,1,0,4
+g29,Shiv Mehrotra,Interlake B,overall,1,1,0
+g29,Shiv Mehrotra,Interlake B,chemistry,1,0,4
+g29,Shiv Mehrotra,Interlake B,physics,0,1,-4
+g29,Phoenix Wu,Seven Lakes,overall,4,1,12
+g29,Phoenix Wu,Seven Lakes,chemistry,2,0,8
+g29,Phoenix Wu,Seven Lakes,physics,2,1,4
+g29,Darrien Liang,Interlake B,overall,3,2,4
+g29,Darrien Liang,Interlake B,other,2,0,8
+g29,Darrien Liang,Interlake B,math,0,1,-4
+g29,Darrien Liang,Interlake B,ess,1,1,0
+g29,Vishal Surya,Seven Lakes,overall,1,1,0
+g29,Vishal Surya,Seven Lakes,other,1,0,4
+g29,Vishal Surya,Seven Lakes,biology,0,1,-4
+g29,Grace C,Interlake B,overall,3,0,12
+g29,Grace C,Interlake B,biology,3,0,12
+g29,Michael Xiang,Seven Lakes,overall,1,0,4
+g29,Michael Xiang,Seven Lakes,math,1,0,4
+g29,Andy Teng,Seven Lakes,overall,1,0,4
+g29,Andy Teng,Seven Lakes,ess,1,0,4
+g30,boheng cao,NoHo,overall,8,0,32
+g30,boheng cao,NoHo,other,3,0,12
+g30,boheng cao,NoHo,math,2,0,8
+g30,boheng cao,NoHo,chemistry,2,0,8
+g30,boheng cao,NoHo,physics,1,0,4
+g30,Alex Franks,NoHo,overall,5,0,20
+g30,Alex Franks,NoHo,other,1,0,4
+g30,Alex Franks,NoHo,chemistry,1,0,4
+g30,Alex Franks,NoHo,ess,3,0,12
+g30,Richard Zhu,NoHo,overall,4,0,16
+g30,Richard Zhu,NoHo,biology,2,0,8
+g30,Richard Zhu,NoHo,physics,2,0,8
+g30,Kai Liu,Naperville North,overall,3,0,12
+g30,Kai Liu,Naperville North,math,1,0,4
+g30,Kai Liu,Naperville North,chemistry,1,0,4
+g30,Kai Liu,Naperville North,physics,1,0,4
+g30,Dingjia Shen,Naperville North,overall,0,0,0
+g30,Andrew Tang,Naperville North,overall,1,0,4
+g30,Andrew Tang,Naperville North,math,1,0,4
+g31,Oscar,Niskayuna,overall,1,0,4
+g31,Oscar,Niskayuna,other,1,0,4
+g31,Aaron Lin,Ladue,overall,4,0,16
+g31,Aaron Lin,Ladue,math,3,0,12
+g31,Aaron Lin,Ladue,physics,1,0,4
+g31,Yuvan Chali,Ladue,overall,2,0,8
+g31,Yuvan Chali,Ladue,other,1,0,4
+g31,Yuvan Chali,Ladue,chemistry,1,0,4
+g31,Aditya Jain,Ladue,overall,3,1,8
+g31,Aditya Jain,Ladue,other,0,1,-4
+g31,Aditya Jain,Ladue,ess,1,0,4
+g31,Aditya Jain,Ladue,biology,1,0,4
+g31,Aditya Jain,Ladue,physics,1,0,4
+g31,Mihir Kulkarni,Niskayuna,overall,7,0,28
+g31,Mihir Kulkarni,Niskayuna,other,2,0,8
+g31,Mihir Kulkarni,Niskayuna,math,1,0,4
+g31,Mihir Kulkarni,Niskayuna,ess,1,0,4
+g31,Mihir Kulkarni,Niskayuna,biology,3,0,12
+g31,Rohan Suri,Ladue,overall,2,0,8
+g31,Rohan Suri,Ladue,chemistry,2,0,8
+g31,Abheek Dhawan,Ladue,overall,0,0,0
+g32,Evin Liang,Lexington A,overall,8,0,32
+g32,Evin Liang,Lexington A,other,1,0,4
+g32,Evin Liang,Lexington A,math,4,0,16
+g32,Evin Liang,Lexington A,physics,3,0,12
+g32,Anuprabha Dandapat,Lexington A,overall,4,0,16
+g32,Anuprabha Dandapat,Lexington A,chemistry,3,0,12
+g32,Anuprabha Dandapat,Lexington A,biology,1,0,4
+g32,David Zhou,Lexington A,overall,0,0,0
+g32,Shreyas Ekanathan,Lexington A,overall,2,0,8
+g32,Shreyas Ekanathan,Lexington A,other,1,0,4
+g32,Shreyas Ekanathan,Lexington A,ess,1,0,4
+g33,Samuel Zhou,MSJ,overall,7,0,28
+g33,Samuel Zhou,MSJ,other,1,0,4
+g33,Samuel Zhou,MSJ,math,3,0,12
+g33,Samuel Zhou,MSJ,physics,3,0,12
+g33,Sahas Goli,MSJ,overall,2,0,8
+g33,Sahas Goli,MSJ,chemistry,1,0,4
+g33,Sahas Goli,MSJ,biology,1,0,4
+g33,Jerry Yuan,MSJ,overall,2,1,4
+g33,Jerry Yuan,MSJ,other,1,0,4
+g33,Jerry Yuan,MSJ,ess,1,1,0
+g33,Owen Weisenberger,Middleton,overall,3,1,8
+g33,Owen Weisenberger,Middleton,biology,3,1,8
+g33,Harry Jin,Middleton,overall,3,0,12
+g33,Harry Jin,Middleton,other,1,0,4
+g33,Harry Jin,Middleton,math,1,0,4
+g33,Harry Jin,Middleton,chemistry,1,0,4
+g33,Gokulanath Mahesh Kumar,MSJ,overall,2,0,8
+g33,Gokulanath Mahesh Kumar,MSJ,other,1,0,4
+g33,Gokulanath Mahesh Kumar,MSJ,chemistry,1,0,4
+g33,Rayticulum,Middleton,overall,2,0,8
+g33,Rayticulum,Middleton,ess,1,0,4
+g33,Rayticulum,Middleton,physics,1,0,4
+g33,Annie Xu,MSJ,overall,1,0,4
+g33,Annie Xu,MSJ,chemistry,1,0,4
+g34,Kian Dhawan,Blair C,overall,2,0,8
+g34,Kian Dhawan,Blair C,other,2,0,8
+g34,Evan Zhang,Blair C,overall,1,0,4
+g34,Evan Zhang,Blair C,math,1,0,4
+g34,Evan Kim,Tesla STEM,overall,6,0,24
+g34,Evan Kim,Tesla STEM,math,2,0,8
+g34,Evan Kim,Tesla STEM,physics,4,0,16
+g34,Sami Khan,Tesla STEM,overall,2,0,8
+g34,Sami Khan,Tesla STEM,math,1,0,4
+g34,Sami Khan,Tesla STEM,chemistry,1,0,4
+g34,Aashray Chegu,Tesla STEM,overall,3,1,8
+g34,Aashray Chegu,Tesla STEM,other,1,0,4
+g34,Aashray Chegu,Tesla STEM,ess,2,1,4
+g34,Gugan Thuduppathy,Blair C,overall,2,0,8
+g34,Gugan Thuduppathy,Blair C,other,1,0,4
+g34,Gugan Thuduppathy,Blair C,ess,1,0,4
+g34,Chaewoon Kyoung,Blair C,overall,0,0,0
+g34,Sebi Kumar,Tesla STEM,overall,2,0,8
+g34,Sebi Kumar,Tesla STEM,chemistry,2,0,8
+g35,Andrey Nikitin,Buchholz A,overall,7,0,28
+g35,Andrey Nikitin,Buchholz A,other,2,0,8
+g35,Andrey Nikitin,Buchholz A,chemistry,1,0,4
+g35,Andrey Nikitin,Buchholz A,biology,4,0,16
+g35,Ahan Mishra,Buchholz A,overall,6,1,20
+g35,Ahan Mishra,Buchholz A,other,1,0,4
+g35,Ahan Mishra,Buchholz A,math,3,0,12
+g35,Ahan Mishra,Buchholz A,physics,2,1,4
+g35,Emmanuel Zheng,Buchholz A,overall,2,0,8
+g35,Emmanuel Zheng,Buchholz A,other,1,0,4
+g35,Emmanuel Zheng,Buchholz A,ess,1,0,4
+g35,Edward Zhang,NCSSM B,overall,2,0,8
+g35,Edward Zhang,NCSSM B,physics,2,0,8
+g35,Madhav Karthikeyan,NCSSM B,overall,1,3,-8
+g35,Madhav Karthikeyan,NCSSM B,other,0,2,-8
+g35,Madhav Karthikeyan,NCSSM B,ess,1,0,4
+g35,Madhav Karthikeyan,NCSSM B,biology,0,1,-4
+g35,Nicholas Dang,Buchholz A,overall,2,0,8
+g35,Nicholas Dang,Buchholz A,chemistry,2,0,8
+g35,Vikas Sarvasya,NCSSM B,overall,1,0,4
+g35,Vikas Sarvasya,NCSSM B,math,1,0,4
+g36,Akshansh Chauhan,Davidson,overall,2,0,8
+g36,Akshansh Chauhan,Davidson,other,2,0,8
+g36,Jake Wang,Cupertino,overall,2,0,8
+g36,Jake Wang,Cupertino,math,2,0,8
+g36,Ethan C,Davidson,overall,2,0,8
+g36,Ethan C,Davidson,physics,2,0,8
+g36,Yajur,Davidson,overall,3,1,8
+g36,Yajur,Davidson,chemistry,2,1,4
+g36,Yajur,Davidson,biology,1,0,4
+g36,Emmy B,Davidson,overall,5,0,20
+g36,Emmy B,Davidson,other,1,0,4
+g36,Emmy B,Davidson,chemistry,1,0,4
+g36,Emmy B,Davidson,ess,2,0,8
+g36,Emmy B,Davidson,physics,1,0,4
+g36,Aaditya Karnataki,Cupertino,overall,6,0,24
+g36,Aaditya Karnataki,Cupertino,other,1,0,4
+g36,Aaditya Karnataki,Cupertino,chemistry,1,0,4
+g36,Aaditya Karnataki,Cupertino,ess,1,0,4
+g36,Aaditya Karnataki,Cupertino,biology,3,0,12
+g36,Aditi Gargeshwari,Cupertino,overall,1,0,4
+g36,Aditi Gargeshwari,Cupertino,math,1,0,4
+g37,Justin Chen,Blair A,overall,5,1,16
+g37,Justin Chen,Blair A,other,1,0,4
+g37,Justin Chen,Blair A,math,1,0,4
+g37,Justin Chen,Blair A,ess,1,1,0
+g37,Justin Chen,Blair A,physics,2,0,8
+g37,Stephen Chen,Blair A,overall,1,0,4
+g37,Stephen Chen,Blair A,math,1,0,4
+g37,Caleb Zhao,Blair A,overall,5,1,16
+g37,Caleb Zhao,Blair A,other,0,1,-4
+g37,Caleb Zhao,Blair A,chemistry,3,0,12
+g37,Caleb Zhao,Blair A,biology,2,0,8
+g37,Yufei Chen,University,overall,9,0,36
+g37,Yufei Chen,University,other,2,0,8
+g37,Yufei Chen,University,math,1,0,4
+g37,Yufei Chen,University,chemistry,1,0,4
+g37,Yufei Chen,University,ess,2,0,8
+g37,Yufei Chen,University,biology,2,0,8
+g37,Yufei Chen,University,physics,1,0,4
+g37,Julianne Wu,University,overall,1,0,4
+g37,Julianne Wu,University,other,1,0,4
+g37,Feodor Yevtushenko,University,overall,2,0,8
+g37,Feodor Yevtushenko,University,math,1,0,4
+g37,Feodor Yevtushenko,University,physics,1,0,4
+g37,Wendy Cao,University,overall,1,0,4
+g37,Wendy Cao,University,ess,1,0,4
+g38,Abhinav Pothuri,Buchholz B,overall,3,1,8
+g38,Abhinav Pothuri,Buchholz B,other,1,0,4
+g38,Abhinav Pothuri,Buchholz B,math,1,1,0
+g38,Abhinav Pothuri,Buchholz B,physics,1,0,4
+g38,Jasper Premo,Pullman,overall,2,0,8
+g38,Jasper Premo,Pullman,other,1,0,4
+g38,Jasper Premo,Pullman,ess,1,0,4
+g38,Aditya Bose-Bandyopadhyay,Pullman,overall,4,0,16
+g38,Aditya Bose-Bandyopadhyay,Pullman,math,2,0,8
+g38,Aditya Bose-Bandyopadhyay,Pullman,chemistry,1,0,4
+g38,Aditya Bose-Bandyopadhyay,Pullman,physics,1,0,4
+g38,Rishi Gadikota,Buchholz B,overall,1,0,4
+g38,Rishi Gadikota,Buchholz B,chemistry,1,0,4
+g38,Michael Wei,Buchholz B,overall,5,0,20
+g38,Michael Wei,Buchholz B,math,1,0,4
+g38,Michael Wei,Buchholz B,ess,3,0,12
+g38,Michael Wei,Buchholz B,physics,1,0,4
+g38,Laurie Wang,Buchholz B,overall,4,0,16
+g38,Laurie Wang,Buchholz B,other,1,0,4
+g38,Laurie Wang,Buchholz B,biology,3,0,12
+g38,William Miller,Pullman,overall,1,1,0
+g38,William Miller,Pullman,other,1,1,0
+g38,Mir Park,Pullman,overall,0,0,0
+g39,David Lee,Lynbrook,overall,3,0,12
+g39,David Lee,Lynbrook,other,1,0,4
+g39,David Lee,Lynbrook,math,1,0,4
+g39,David Lee,Lynbrook,chemistry,1,0,4
+g39,Erik,Green Hope,overall,3,0,12
+g39,Erik,Green Hope,other,1,0,4
+g39,Erik,Green Hope,chemistry,1,0,4
+g39,Erik,Green Hope,biology,1,0,4
+g39,Harsh Ambardekar,Green Hope,overall,4,0,16
+g39,Harsh Ambardekar,Green Hope,ess,2,0,8
+g39,Harsh Ambardekar,Green Hope,physics,2,0,8
+g39,Pranjal Chatterjee,Lynbrook,overall,2,0,8
+g39,Pranjal Chatterjee,Lynbrook,physics,2,0,8
+g39,Sohil Rathi,Lynbrook,overall,4,0,16
+g39,Sohil Rathi,Lynbrook,math,3,0,12
+g39,Sohil Rathi,Lynbrook,biology,1,0,4
+g39,antone jung,Lynbrook,overall,2,0,8
+g39,antone jung,Lynbrook,other,1,0,4
+g39,antone jung,Lynbrook,biology,1,0,4
+g39,samuel wang,Lynbrook,overall,2,0,8
+g39,samuel wang,Lynbrook,other,1,0,4
+g39,samuel wang,Lynbrook,ess,1,0,4
+g39,Varun Kute,Green Hope,overall,0,1,-4
+g39,Varun Kute,Green Hope,other,0,1,-4
+g39,Alex Patton,Green Hope,overall,1,0,4
+g39,Alex Patton,Green Hope,chemistry,1,0,4
+g40,Elias Mrug,ASFA,overall,7,0,28
+g40,Elias Mrug,ASFA,other,1,0,4
+g40,Elias Mrug,ASFA,math,3,0,12
+g40,Elias Mrug,ASFA,chemistry,2,0,8
+g40,Elias Mrug,ASFA,ess,1,0,4
+g40,Rishi Yellamraju,ASFA,overall,1,0,4
+g40,Rishi Yellamraju,ASFA,math,1,0,4
+g40,Jason Dong,Troy,overall,0,2,-8
+g40,Jason Dong,Troy,math,0,1,-4
+g40,Jason Dong,Troy,biology,0,1,-4
+g40,Melinda Ji,Troy,overall,4,1,12
+g40,Melinda Ji,Troy,other,0,1,-4
+g40,Melinda Ji,Troy,chemistry,1,0,4
+g40,Melinda Ji,Troy,biology,3,0,12
+g40,Daniel,ASFA,overall,3,0,12
+g40,Daniel,ASFA,other,1,0,4
+g40,Daniel,ASFA,biology,1,0,4
+g40,Daniel,ASFA,physics,1,0,4
+g40,Aditya Peddi,Troy,overall,3,0,12
+g40,Aditya Peddi,Troy,other,2,0,8
+g40,Aditya Peddi,Troy,physics,1,0,4
+g40,Chris John,Troy,overall,1,0,4
+g40,Chris John,Troy,ess,1,0,4
+g41,Aditya Sivakumar,Mira Loma,overall,10,0,40
+g41,Aditya Sivakumar,Mira Loma,other,4,0,16
+g41,Aditya Sivakumar,Mira Loma,chemistry,2,0,8
+g41,Aditya Sivakumar,Mira Loma,biology,4,0,16
+g41,Nipun D,Mira Loma,overall,5,0,20
+g41,Nipun D,Mira Loma,math,3,0,12
+g41,Nipun D,Mira Loma,chemistry,2,0,8
+g41,Shohom Chakraborty,Mira Loma,overall,2,0,8
+g41,Shohom Chakraborty,Mira Loma,physics,2,0,8
+g41,Sarthak,Mira Loma,overall,3,0,12
+g41,Sarthak,Mira Loma,math,1,0,4
+g41,Sarthak,Mira Loma,physics,2,0,8
+g42,Colin Hanes,Enloe A,overall,4,1,12
+g42,Colin Hanes,Enloe A,other,1,0,4
+g42,Colin Hanes,Enloe A,chemistry,1,1,0
+g42,Colin Hanes,Enloe A,physics,2,0,8
+g42,Joshua Wang,Brookfield,overall,5,0,20
+g42,Joshua Wang,Brookfield,other,1,0,4
+g42,Joshua Wang,Brookfield,math,1,0,4
+g42,Joshua Wang,Brookfield,chemistry,1,0,4
+g42,Joshua Wang,Brookfield,biology,1,0,4
+g42,Joshua Wang,Brookfield,physics,1,0,4
+g42,Rohit Hari,Enloe A,overall,5,1,16
+g42,Rohit Hari,Enloe A,other,1,0,4
+g42,Rohit Hari,Enloe A,chemistry,1,0,4
+g42,Rohit Hari,Enloe A,ess,3,1,8
+g42,Rishabh Bedidha,Enloe A,overall,3,1,8
+g42,Rishabh Bedidha,Enloe A,other,0,1,-4
+g42,Rishabh Bedidha,Enloe A,biology,3,0,12
+g42,Brian Zhang,Enloe A,overall,1,1,0
+g42,Brian Zhang,Enloe A,other,1,0,4
+g42,Brian Zhang,Enloe A,math,0,1,-4
+g42,Kartik Ramachandrula,Brookfield,overall,4,0,16
+g42,Kartik Ramachandrula,Brookfield,math,3,0,12
+g42,Kartik Ramachandrula,Brookfield,physics,1,0,4
+g43,Anurag Sodhi,Centennial,overall,11,1,40
+g43,Anurag Sodhi,Centennial,other,2,0,8
+g43,Anurag Sodhi,Centennial,math,1,0,4
+g43,Anurag Sodhi,Centennial,chemistry,3,0,12
+g43,Anurag Sodhi,Centennial,ess,0,1,-4
+g43,Anurag Sodhi,Centennial,biology,2,0,8
+g43,Anurag Sodhi,Centennial,physics,3,0,12
+g43,Rithik Gumpu,WWPN,overall,2,0,8
+g43,Rithik Gumpu,WWPN,math,2,0,8
+g43,Shreyash,WWPN,overall,1,0,4
+g43,Shreyash,WWPN,math,1,0,4
+g43,Krutharth,WWPN,overall,1,1,0
+g43,Krutharth,WWPN,biology,1,1,0
+g43,Ryan,Centennial,overall,1,0,4
+g43,Ryan,Centennial,other,1,0,4
+g43,Aldric Benalan,WWPN,overall,3,0,12
+g43,Aldric Benalan,WWPN,other,1,0,4
+g43,Aldric Benalan,WWPN,ess,1,0,4
+g43,Aldric Benalan,WWPN,physics,1,0,4
+g43,arjun avineni,WWPN,overall,0,0,0
+g43,Ryan Chang,Centennial,overall,0,0,0
+g44,Kaiwen,Enloe B,overall,8,0,32
+g44,Kaiwen,Enloe B,other,3,0,12
+g44,Kaiwen,Enloe B,chemistry,1,0,4
+g44,Kaiwen,Enloe B,ess,1,0,4
+g44,Kaiwen,Enloe B,physics,3,0,12
+g44,Cedric Xiao,PRISMS,overall,1,0,4
+g44,Cedric Xiao,PRISMS,math,1,0,4
+g44,Vedang Singhal,Enloe B,overall,2,0,8
+g44,Vedang Singhal,Enloe B,other,1,0,4
+g44,Vedang Singhal,Enloe B,ess,1,0,4
+g44,Jerry Cao-Xue,Enloe B,overall,2,1,4
+g44,Jerry Cao-Xue,Enloe B,biology,2,1,4
+g44,Felicity Ni,PRISMS,overall,2,0,8
+g44,Felicity Ni,PRISMS,chemistry,2,0,8
+g44,Angelina,Enloe B,overall,2,0,8
+g44,Angelina,Enloe B,ess,2,0,8
+g44,Josh Shi,PRISMS,overall,1,1,0
+g44,Josh Shi,PRISMS,ess,0,1,-4
+g44,Josh Shi,PRISMS,physics,1,0,4
+g44,Sukrith Velmineti,Enloe B,overall,2,0,8
+g44,Sukrith Velmineti,Enloe B,math,2,0,8
+g45,Vishnu Mangipudi,Lakeside,overall,10,0,40
+g45,Vishnu Mangipudi,Lakeside,other,2,0,8
+g45,Vishnu Mangipudi,Lakeside,math,2,0,8
+g45,Vishnu Mangipudi,Lakeside,chemistry,2,0,8
+g45,Vishnu Mangipudi,Lakeside,ess,3,0,12
+g45,Vishnu Mangipudi,Lakeside,biology,1,0,4
+g45,Ryan Eto,Iolani,overall,6,0,24
+g45,Ryan Eto,Iolani,other,1,0,4
+g45,Ryan Eto,Iolani,math,1,0,4
+g45,Ryan Eto,Iolani,chemistry,1,0,4
+g45,Ryan Eto,Iolani,physics,3,0,12
+g45,Rohan Dhillon,Lakeside,overall,3,1,8
+g45,Rohan Dhillon,Lakeside,other,1,0,4
+g45,Rohan Dhillon,Lakeside,math,1,0,4
+g45,Rohan Dhillon,Lakeside,biology,1,0,4
+g45,Rohan Dhillon,Lakeside,physics,0,1,-4
+g45,Justin Lu,Iolani,overall,0,0,0
+g45,Allison Eto,Iolani,overall,1,0,4
+g45,Allison Eto,Iolani,physics,1,0,4
+g46,Jack Finneran,AHS Broward,overall,5,0,20
+g46,Jack Finneran,AHS Broward,other,2,0,8
+g46,Jack Finneran,AHS Broward,math,1,0,4
+g46,Jack Finneran,AHS Broward,ess,1,0,4
+g46,Jack Finneran,AHS Broward,physics,1,0,4
+g46,Tony Liu,Shen,overall,2,1,4
+g46,Tony Liu,Shen,other,1,0,4
+g46,Tony Liu,Shen,biology,1,1,0
+g46,Sharvaa Selvan,AHS Broward,overall,5,0,20
+g46,Sharvaa Selvan,AHS Broward,math,2,0,8
+g46,Sharvaa Selvan,AHS Broward,chemistry,1,0,4
+g46,Sharvaa Selvan,AHS Broward,ess,1,0,4
+g46,Sharvaa Selvan,AHS Broward,physics,1,0,4
+g46,Edward,Shen,overall,2,1,4
+g46,Edward,Shen,chemistry,1,0,4
+g46,Edward,Shen,ess,0,1,-4
+g46,Edward,Shen,biology,1,0,4
+g46,Anthony Yang,Shen,overall,2,1,4
+g46,Anthony Yang,Shen,math,1,1,0
+g46,Anthony Yang,Shen,physics,1,0,4
+g46,Sanshray Singh,AHS Broward,overall,2,0,8
+g46,Sanshray Singh,AHS Broward,other,1,0,4
+g46,Sanshray Singh,AHS Broward,ess,1,0,4
+g46,Aditya Jha,Shen,overall,1,0,4
+g46,Aditya Jha,Shen,chemistry,1,0,4
+g46,Rithvik Marri,AHS Broward,overall,2,0,8
+g46,Rithvik Marri,AHS Broward,biology,2,0,8
+g46,Andrew Hwang,Shen,overall,0,0,0
+g46,Alan Wu,AHS Broward,overall,1,0,4
+g46,Alan Wu,AHS Broward,physics,1,0,4
+g47,Connor Z,NoHo B,overall,11,0,44
+g47,Connor Z,NoHo B,other,2,0,8
+g47,Connor Z,NoHo B,math,1,0,4
+g47,Connor Z,NoHo B,chemistry,4,0,16
+g47,Connor Z,NoHo B,ess,2,0,8
+g47,Connor Z,NoHo B,biology,1,0,4
+g47,Connor Z,NoHo B,physics,1,0,4
+g47,Aryan Ahire,JP Stevens,overall,1,0,4
+g47,Aryan Ahire,JP Stevens,math,1,0,4
+g47,Penelope Swain,NoHo B,overall,1,0,4
+g47,Penelope Swain,NoHo B,ess,1,0,4
+g47,Danny Kim,NoHo B,overall,1,0,4
+g47,Danny Kim,NoHo B,biology,1,0,4
+g47,Pranesh Kirubakar,JP Stevens,overall,0,0,0
+g47,Om Lad,JP Stevens,overall,0,1,-4
+g47,Om Lad,JP Stevens,other,0,1,-4
+g47,Anagh Sheth,JP Stevens,overall,1,0,4
+g47,Anagh Sheth,JP Stevens,biology,1,0,4
+g47,RISHABH GARG,NoHo B,overall,0,1,-4
+g47,RISHABH GARG,NoHo B,other,0,1,-4
+g48,Eli Park,NCSSM A,overall,4,0,16
+g48,Eli Park,NCSSM A,other,1,0,4
+g48,Eli Park,NCSSM A,math,2,0,8
+g48,Eli Park,NCSSM A,physics,1,0,4
+g48,William Jung,Lexington B,overall,2,1,4
+g48,William Jung,Lexington B,other,1,0,4
+g48,William Jung,Lexington B,chemistry,1,1,0
+g48,Daniel Jung,Lexington B,overall,3,1,8
+g48,Daniel Jung,Lexington B,other,1,0,4
+g48,Daniel Jung,Lexington B,ess,1,1,0
+g48,Daniel Jung,Lexington B,biology,1,0,4
+g48,Jerry Xu,Lexington B,overall,2,1,4
+g48,Jerry Xu,Lexington B,math,2,0,8
+g48,Jerry Xu,Lexington B,biology,0,1,-4
+g48,Avanesh Vijayakumar,NCSSM A,overall,3,1,8
+g48,Avanesh Vijayakumar,NCSSM A,chemistry,2,0,8
+g48,Avanesh Vijayakumar,NCSSM A,biology,1,1,0
+g48,Tanmay Gupta,Lexington B,overall,2,0,8
+g48,Tanmay Gupta,Lexington B,physics,2,0,8
+g48,Bo Chi,NCSSM A,overall,1,1,0
+g48,Bo Chi,NCSSM A,other,0,1,-4
+g48,Bo Chi,NCSSM A,chemistry,1,0,4
+g48,Aditya Vatsavai,NCSSM A,overall,1,0,4
+g48,Aditya Vatsavai,NCSSM A,physics,1,0,4
+g49,Fateh Aliyev,Venice,overall,4,0,16
+g49,Fateh Aliyev,Venice,other,1,0,4
+g49,Fateh Aliyev,Venice,math,2,0,8
+g49,Fateh Aliyev,Venice,physics,1,0,4
+g49,Lidia P.,Venice,overall,4,0,16
+g49,Lidia P.,Venice,math,1,0,4
+g49,Lidia P.,Venice,biology,3,0,12
+g49,Davis,Collierville,overall,1,1,0
+g49,Davis,Collierville,chemistry,1,0,4
+g49,Davis,Collierville,physics,0,1,-4
+g49,michael warsono,Venice,overall,2,0,8
+g49,michael warsono,Venice,chemistry,1,0,4
+g49,michael warsono,Venice,ess,1,0,4
+g49,Michael,Collierville,overall,2,0,8
+g49,Michael,Collierville,ess,1,0,4
+g49,Michael,Collierville,physics,1,0,4
+g49,Thaddeus Stefanski-Hall,Venice,overall,5,1,16
+g49,Thaddeus Stefanski-Hall,Venice,other,3,0,12
+g49,Thaddeus Stefanski-Hall,Venice,ess,2,1,4
+g49,Harris Chen,Collierville,overall,1,0,4
+g49,Harris Chen,Collierville,chemistry,1,0,4
+g49,Krish Prajapati,Collierville,overall,0,0,0
+g49,Jeeval Rambiya,Collierville,overall,0,0,0
+g50,justin,Dulles,overall,4,1,12
+g50,justin,Dulles,other,2,1,4
+g50,justin,Dulles,biology,2,0,8
+g50,Daniel L,Interlake A,overall,2,2,0
+g50,Daniel L,Interlake A,math,2,0,8
+g50,Daniel L,Interlake A,physics,0,2,-8
+g50,Viraj Negandhi,Dulles,overall,6,0,24
+g50,Viraj Negandhi,Dulles,chemistry,3,0,12
+g50,Viraj Negandhi,Dulles,ess,1,0,4
+g50,Viraj Negandhi,Dulles,physics,2,0,8
+g50,Rishabh V,Interlake A,overall,3,1,8
+g50,Rishabh V,Interlake A,other,1,0,4
+g50,Rishabh V,Interlake A,ess,2,1,4
+g50,Cindy Liu,Interlake A,overall,3,1,8
+g50,Cindy Liu,Interlake A,other,1,0,4
+g50,Cindy Liu,Interlake A,biology,2,1,4
+g50,Rushil Shah,Dulles,overall,4,0,16
+g50,Rushil Shah,Dulles,math,1,0,4
+g50,Rushil Shah,Dulles,ess,1,0,4
+g50,Rushil Shah,Dulles,physics,2,0,8
+g50,Julian C,Interlake A,overall,1,0,4
+g50,Julian C,Interlake A,chemistry,1,0,4
+g50,owen fei,Interlake A,overall,1,0,4
+g50,owen fei,Interlake A,math,1,0,4
+g51,Vincent T,RMHS,overall,2,1,4
+g51,Vincent T,RMHS,other,1,0,4
+g51,Vincent T,RMHS,physics,1,1,0
+g51,Annie Guo,RMHS,overall,3,0,12
+g51,Annie Guo,RMHS,math,3,0,12
+g51,Eric Chen,Wayzata,overall,3,0,12
+g51,Eric Chen,Wayzata,math,1,0,4
+g51,Eric Chen,Wayzata,ess,1,0,4
+g51,Eric Chen,Wayzata,physics,1,0,4
+g51,Joseph Chen,RMHS,overall,1,3,-8
+g51,Joseph Chen,RMHS,other,0,1,-4
+g51,Joseph Chen,RMHS,chemistry,1,1,0
+g51,Joseph Chen,RMHS,biology,0,1,-4
+g51,Aneesh Swaminathan,Wayzata,overall,6,0,24
+g51,Aneesh Swaminathan,Wayzata,chemistry,2,0,8
+g51,Aneesh Swaminathan,Wayzata,biology,4,0,16
+g51,SAMARTH RAM,Wayzata,overall,1,0,4
+g51,SAMARTH RAM,Wayzata,physics,1,0,4
+g51,KHOI LE,Wayzata,overall,1,0,4
+g51,KHOI LE,Wayzata,other,1,0,4
+g52,Austin Xu,Canyon Crest,overall,1,0,4
+g52,Austin Xu,Canyon Crest,other,1,0,4
+g52,Vishal Surya,Seven Lakes,overall,3,1,8
+g52,Vishal Surya,Seven Lakes,other,0,1,-4
+g52,Vishal Surya,Seven Lakes,biology,3,0,12
+g52,Aidan Lai,Seven Lakes,overall,1,0,4
+g52,Aidan Lai,Seven Lakes,math,1,0,4
+g52,Alex Backues,Canyon Crest,overall,2,0,8
+g52,Alex Backues,Canyon Crest,math,1,0,4
+g52,Alex Backues,Canyon Crest,chemistry,1,0,4
+g52,Phoenix Wu,Seven Lakes,overall,4,2,8
+g52,Phoenix Wu,Seven Lakes,math,1,1,0
+g52,Phoenix Wu,Seven Lakes,chemistry,2,1,4
+g52,Phoenix Wu,Seven Lakes,physics,1,0,4
+g52,Flora Jiang,Canyon Crest,overall,6,1,20
+g52,Flora Jiang,Canyon Crest,other,2,0,8
+g52,Flora Jiang,Canyon Crest,ess,3,1,8
+g52,Flora Jiang,Canyon Crest,physics,1,0,4
+g52,Andy Teng,Seven Lakes,overall,0,0,0
+g52,Michael Xiang,Seven Lakes,overall,0,0,0
+g53,Tristan Kay,Interlake B,overall,5,0,20
+g53,Tristan Kay,Interlake B,other,1,0,4
+g53,Tristan Kay,Interlake B,math,3,0,12
+g53,Tristan Kay,Interlake B,chemistry,1,0,4
+g53,Shiv Mehrotra,Interlake B,overall,2,0,8
+g53,Shiv Mehrotra,Interlake B,chemistry,1,0,4
+g53,Shiv Mehrotra,Interlake B,physics,1,0,4
+g53,Kai Liu,Naperville North,overall,3,0,12
+g53,Kai Liu,Naperville North,chemistry,1,0,4
+g53,Kai Liu,Naperville North,physics,2,0,8
+g53,Dingjia Shen,Naperville North,overall,3,0,12
+g53,Dingjia Shen,Naperville North,ess,3,0,12
+g53,Grace C,Interlake B,overall,4,0,16
+g53,Grace C,Interlake B,other,1,0,4
+g53,Grace C,Interlake B,biology,3,0,12
+g53,Darrien Liang,Interlake B,overall,1,0,4
+g53,Darrien Liang,Interlake B,other,1,0,4
+g53,Claire Chen,Naperville North,overall,0,0,0
+g53,Andrew Tang,Naperville North,overall,1,1,0
+g53,Andrew Tang,Naperville North,math,1,0,4
+g53,Andrew Tang,Naperville North,physics,0,1,-4
+g54,boheng cao,NoHo,overall,7,0,28
+g54,boheng cao,NoHo,other,1,0,4
+g54,boheng cao,NoHo,math,4,0,16
+g54,boheng cao,NoHo,biology,1,0,4
+g54,boheng cao,NoHo,physics,1,0,4
+g54,Alex Franks,NoHo,overall,6,0,24
+g54,Alex Franks,NoHo,other,2,0,8
+g54,Alex Franks,NoHo,ess,3,0,12
+g54,Alex Franks,NoHo,physics,1,0,4
+g54,Mason Yu,Westminster,overall,5,0,20
+g54,Mason Yu,Westminster,other,1,0,4
+g54,Mason Yu,Westminster,chemistry,1,0,4
+g54,Mason Yu,Westminster,ess,1,0,4
+g54,Mason Yu,Westminster,biology,1,0,4
+g54,Mason Yu,Westminster,physics,1,0,4
+g54,Albert Tang,Westminster,overall,3,0,12
+g54,Albert Tang,Westminster,chemistry,3,0,12
+g54,Richard Zhu,NoHo,overall,2,0,8
+g54,Richard Zhu,NoHo,biology,2,0,8
+g55,Aaron Lin,Ladue,overall,5,0,20
+g55,Aaron Lin,Ladue,other,1,0,4
+g55,Aaron Lin,Ladue,math,4,0,16
+g55,Rohan Suri,Ladue,overall,7,0,28
+g55,Rohan Suri,Ladue,other,1,0,4
+g55,Rohan Suri,Ladue,chemistry,3,0,12
+g55,Rohan Suri,Ladue,biology,2,0,8
+g55,Rohan Suri,Ladue,physics,1,0,4
+g55,Yuvan Chali,Ladue,overall,2,0,8
+g55,Yuvan Chali,Ladue,other,1,0,4
+g55,Yuvan Chali,Ladue,ess,1,0,4
+g55,Aditya Jain,Ladue,overall,2,0,8
+g55,Aditya Jain,Ladue,other,1,0,4
+g55,Aditya Jain,Ladue,physics,1,0,4
+g55,Abheek Dhawan,Ladue,overall,2,0,8
+g55,Abheek Dhawan,Ladue,ess,1,0,4
+g55,Abheek Dhawan,Ladue,physics,1,0,4
+g56,Owen Weisenberger,Middleton,overall,6,0,24
+g56,Owen Weisenberger,Middleton,other,2,0,8
+g56,Owen Weisenberger,Middleton,biology,4,0,16
+g56,Evin Liang,Lexington A,overall,3,0,12
+g56,Evin Liang,Lexington A,math,1,0,4
+g56,Evin Liang,Lexington A,physics,2,0,8
+g56,Harry Jin,Middleton,overall,6,0,24
+g56,Harry Jin,Middleton,other,2,0,8
+g56,Harry Jin,Middleton,math,1,0,4
+g56,Harry Jin,Middleton,chemistry,3,0,12
+g56,David Zhou,Lexington A,overall,4,1,12
+g56,David Zhou,Lexington A,other,0,1,-4
+g56,David Zhou,Lexington A,ess,3,0,12
+g56,David Zhou,Lexington A,physics,1,0,4
+g56,Rayticulum,Middleton,overall,2,1,4
+g56,Rayticulum,Middleton,ess,1,0,4
+g56,Rayticulum,Middleton,physics,1,1,0
+g56,Shreyas Ekanathan,Lexington A,overall,1,0,4
+g56,Shreyas Ekanathan,Lexington A,math,1,0,4
+g56,Anuprabha Dandapat,Lexington A,overall,1,0,4
+g56,Anuprabha Dandapat,Lexington A,chemistry,1,0,4
+g57,Mihir Kulkarni,Niskayuna,overall,3,0,12
+g57,Mihir Kulkarni,Niskayuna,other,2,0,8
+g57,Mihir Kulkarni,Niskayuna,biology,1,0,4
+g57,Samuel Zhou,MSJ,overall,5,0,20
+g57,Samuel Zhou,MSJ,other,1,0,4
+g57,Samuel Zhou,MSJ,math,3,0,12
+g57,Samuel Zhou,MSJ,physics,1,0,4
+g57,Gokulanath Mahesh Kumar,MSJ,overall,3,0,12
+g57,Gokulanath Mahesh Kumar,MSJ,chemistry,1,0,4
+g57,Gokulanath Mahesh Kumar,MSJ,ess,1,0,4
+g57,Gokulanath Mahesh Kumar,MSJ,biology,1,0,4
+g57,Jerry Yuan,MSJ,overall,3,0,12
+g57,Jerry Yuan,MSJ,ess,2,0,8
+g57,Jerry Yuan,MSJ,physics,1,0,4
+g57,Sahas Goli,MSJ,overall,2,1,4
+g57,Sahas Goli,MSJ,other,1,1,0
+g57,Sahas Goli,MSJ,chemistry,1,0,4
+g57,Annie Xu,MSJ,overall,3,0,12
+g57,Annie Xu,MSJ,math,1,0,4
+g57,Annie Xu,MSJ,chemistry,2,0,8
+g57,Arjun R,Niskayuna,overall,1,0,4
+g57,Arjun R,Niskayuna,physics,1,0,4
+g57,Alex P,Niskayuna,overall,0,1,-4
+g57,Alex P,Niskayuna,chemistry,0,1,-4
+g57,Oscar,Niskayuna,overall,0,0,0
+g58,Edward Zhang,NCSSM B,overall,4,0,16
+g58,Edward Zhang,NCSSM B,other,1,0,4
+g58,Edward Zhang,NCSSM B,chemistry,1,0,4
+g58,Edward Zhang,NCSSM B,ess,1,0,4
+g58,Edward Zhang,NCSSM B,physics,1,0,4
+g58,Vikas Sarvasya,NCSSM B,overall,1,0,4
+g58,Vikas Sarvasya,NCSSM B,math,1,0,4
+g58,Evan Zhang,Blair C,overall,4,0,16
+g58,Evan Zhang,Blair C,other,1,0,4
+g58,Evan Zhang,Blair C,math,2,0,8
+g58,Evan Zhang,Blair C,ess,1,0,4
+g58,Madhav Karthikeyan,NCSSM B,overall,2,1,4
+g58,Madhav Karthikeyan,NCSSM B,biology,2,1,4
+g58,Gugan Thuduppathy,Blair C,overall,3,0,12
+g58,Gugan Thuduppathy,Blair C,other,1,0,4
+g58,Gugan Thuduppathy,Blair C,chemistry,1,0,4
+g58,Gugan Thuduppathy,Blair C,physics,1,0,4
+g58,Arnav Meduri,NCSSM B,overall,1,0,4
+g58,Arnav Meduri,NCSSM B,biology,1,0,4
+g58,Kian Dhawan,Blair C,overall,1,0,4
+g58,Kian Dhawan,Blair C,biology,1,0,4
+g59,Aaditya Karnataki,Cupertino,overall,7,0,28
+g59,Aaditya Karnataki,Cupertino,other,3,0,12
+g59,Aaditya Karnataki,Cupertino,chemistry,2,0,8
+g59,Aaditya Karnataki,Cupertino,biology,2,0,8
+g59,Aditi Gargeshwari,Cupertino,overall,1,0,4
+g59,Aditi Gargeshwari,Cupertino,math,1,0,4
+g59,Andrey Nikitin,Buchholz A,overall,7,2,20
+g59,Andrey Nikitin,Buchholz A,other,1,1,0
+g59,Andrey Nikitin,Buchholz A,chemistry,0,1,-4
+g59,Andrey Nikitin,Buchholz A,ess,3,0,12
+g59,Andrey Nikitin,Buchholz A,biology,3,0,12
+g59,Jake Wang,Cupertino,overall,4,0,16
+g59,Jake Wang,Cupertino,math,2,0,8
+g59,Jake Wang,Cupertino,physics,2,0,8
+g59,Nicholas Dang,Buchholz A,overall,2,1,4
+g59,Nicholas Dang,Buchholz A,other,0,1,-4
+g59,Nicholas Dang,Buchholz A,chemistry,2,0,8
+g59,Emmanuel Zheng,Buchholz A,overall,1,0,4
+g59,Emmanuel Zheng,Buchholz A,ess,1,0,4
+g59,Ahan Mishra,Buchholz A,overall,1,0,4
+g59,Ahan Mishra,Buchholz A,physics,1,0,4
+g60,Sami Khan,Tesla STEM,overall,5,0,20
+g60,Sami Khan,Tesla STEM,other,2,0,8
+g60,Sami Khan,Tesla STEM,chemistry,1,0,4
+g60,Sami Khan,Tesla STEM,biology,1,0,4
+g60,Sami Khan,Tesla STEM,physics,1,0,4
+g60,Evan Kim,Tesla STEM,overall,4,0,16
+g60,Evan Kim,Tesla STEM,math,2,0,8
+g60,Evan Kim,Tesla STEM,biology,1,0,4
+g60,Evan Kim,Tesla STEM,physics,1,0,4
+g60,Emmy B,Davidson,overall,6,1,20
+g60,Emmy B,Davidson,other,0,1,-4
+g60,Emmy B,Davidson,ess,3,0,12
+g60,Emmy B,Davidson,biology,1,0,4
+g60,Emmy B,Davidson,physics,2,0,8
+g60,Yajur,Davidson,overall,2,1,4
+g60,Yajur,Davidson,other,1,0,4
+g60,Yajur,Davidson,biology,1,1,0
+g60,Akshansh Chauhan,Davidson,overall,0,1,-4
+g60,Akshansh Chauhan,Davidson,other,0,1,-4
+g60,Ethan C,Davidson,overall,1,0,4
+g60,Ethan C,Davidson,math,1,0,4
+g60,Sebi Kumar,Tesla STEM,overall,3,0,12
+g60,Sebi Kumar,Tesla STEM,chemistry,3,0,12
+g60,Aashray Chegu,Tesla STEM,overall,2,0,8
+g60,Aashray Chegu,Tesla STEM,other,1,0,4
+g60,Aashray Chegu,Tesla STEM,ess,1,0,4
+g61,Justin Chen,Blair A,overall,6,0,24
+g61,Justin Chen,Blair A,other,2,0,8
+g61,Justin Chen,Blair A,math,1,0,4
+g61,Justin Chen,Blair A,ess,2,0,8
+g61,Justin Chen,Blair A,physics,1,0,4
+g61,William Miller,Pullman,overall,0,1,-4
+g61,William Miller,Pullman,other,0,1,-4
+g61,Aditya Bose-Bandyopadhyay,Pullman,overall,3,0,12
+g61,Aditya Bose-Bandyopadhyay,Pullman,math,2,0,8
+g61,Aditya Bose-Bandyopadhyay,Pullman,physics,1,0,4
+g61,Caleb Zhao,Blair A,overall,12,2,40
+g61,Caleb Zhao,Blair A,other,2,0,8
+g61,Caleb Zhao,Blair A,math,1,0,4
+g61,Caleb Zhao,Blair A,chemistry,4,0,16
+g61,Caleb Zhao,Blair A,ess,0,1,-4
+g61,Caleb Zhao,Blair A,biology,4,0,16
+g61,Caleb Zhao,Blair A,physics,1,1,0
+g61,Mir Park,Pullman,overall,1,0,4
+g61,Mir Park,Pullman,ess,1,0,4
+g61,Jasper Premo,Pullman,overall,0,0,0
+g62,Abhinav Pothuri,Buchholz B,overall,2,1,4
+g62,Abhinav Pothuri,Buchholz B,other,1,1,0
+g62,Abhinav Pothuri,Buchholz B,math,1,0,4
+g62,Harsh Ambardekar,Green Hope,overall,8,0,32
+g62,Harsh Ambardekar,Green Hope,chemistry,3,0,12
+g62,Harsh Ambardekar,Green Hope,ess,3,0,12
+g62,Harsh Ambardekar,Green Hope,physics,2,0,8
+g62,Michael Wei,Buchholz B,overall,1,1,0
+g62,Michael Wei,Buchholz B,math,1,0,4
+g62,Michael Wei,Buchholz B,physics,0,1,-4
+g62,Alex Patton,Green Hope,overall,3,1,8
+g62,Alex Patton,Green Hope,chemistry,1,0,4
+g62,Alex Patton,Green Hope,ess,1,0,4
+g62,Alex Patton,Green Hope,physics,1,1,0
+g62,Erik,Green Hope,overall,1,1,0
+g62,Erik,Green Hope,biology,1,1,0
+g62,Varun Kute,Green Hope,overall,1,0,4
+g62,Varun Kute,Green Hope,other,1,0,4
+g62,Laurie Wang,Buchholz B,overall,3,0,12
+g62,Laurie Wang,Buchholz B,biology,3,0,12
+g62,Vijay Hans,Buchholz B,overall,1,0,4
+g62,Vijay Hans,Buchholz B,math,1,0,4
+g63,David Lee,Lynbrook,overall,3,0,12
+g63,David Lee,Lynbrook,math,1,0,4
+g63,David Lee,Lynbrook,chemistry,1,0,4
+g63,David Lee,Lynbrook,biology,1,0,4
+g63,Yufei Chen,University,overall,9,0,36
+g63,Yufei Chen,University,other,1,0,4
+g63,Yufei Chen,University,math,1,0,4
+g63,Yufei Chen,University,chemistry,1,0,4
+g63,Yufei Chen,University,ess,2,0,8
+g63,Yufei Chen,University,biology,3,0,12
+g63,Yufei Chen,University,physics,1,0,4
+g63,samuel wang,Lynbrook,overall,1,2,-4
+g63,samuel wang,Lynbrook,other,1,1,0
+g63,samuel wang,Lynbrook,ess,0,1,-4
+g63,Wendy Cao,University,overall,2,0,8
+g63,Wendy Cao,University,ess,2,0,8
+g63,Feodor Yevtushenko,University,overall,3,0,12
+g63,Feodor Yevtushenko,University,math,1,0,4
+g63,Feodor Yevtushenko,University,physics,2,0,8
+g63,Sohil Rathi,Lynbrook,overall,2,0,8
+g63,Sohil Rathi,Lynbrook,math,1,0,4
+g63,Sohil Rathi,Lynbrook,chemistry,1,0,4
+g63,Nathan Ouyang,University,overall,1,0,4
+g63,Nathan Ouyang,University,chemistry,1,0,4
+g63,antone jung,Lynbrook,overall,0,1,-4
+g63,antone jung,Lynbrook,biology,0,1,-4
+g63,Pranjal Chatterjee,Lynbrook,overall,1,0,4
+g63,Pranjal Chatterjee,Lynbrook,physics,1,0,4
+g64,Daniel,ASFA,overall,0,1,-4
+g64,Daniel,ASFA,other,0,1,-4
+g64,Aditya Sivakumar,Mira Loma,overall,12,1,44
+g64,Aditya Sivakumar,Mira Loma,other,2,0,8
+g64,Aditya Sivakumar,Mira Loma,math,1,0,4
+g64,Aditya Sivakumar,Mira Loma,chemistry,1,0,4
+g64,Aditya Sivakumar,Mira Loma,ess,2,0,8
+g64,Aditya Sivakumar,Mira Loma,biology,4,0,16
+g64,Aditya Sivakumar,Mira Loma,physics,2,1,4
+g64,Elias Mrug,ASFA,overall,4,2,8
+g64,Elias Mrug,ASFA,math,2,0,8
+g64,Elias Mrug,ASFA,chemistry,2,0,8
+g64,Elias Mrug,ASFA,ess,0,1,-4
+g64,Elias Mrug,ASFA,biology,0,1,-4
+g64,Dexter Gard,ASFA,overall,1,0,4
+g64,Dexter Gard,ASFA,other,1,0,4
+g64,Rishi Yellamraju,ASFA,overall,1,0,4
+g64,Rishi Yellamraju,ASFA,math,1,0,4
+g64,Nipun D,Mira Loma,overall,1,0,4
+g64,Nipun D,Mira Loma,chemistry,1,0,4
+g64,Shohom Chakraborty,Mira Loma,overall,0,0,0
+g65,Joshua Wang,Brookfield,overall,14,0,56
+g65,Joshua Wang,Brookfield,other,2,0,8
+g65,Joshua Wang,Brookfield,math,1,0,4
+g65,Joshua Wang,Brookfield,chemistry,3,0,12
+g65,Joshua Wang,Brookfield,ess,3,0,12
+g65,Joshua Wang,Brookfield,biology,2,0,8
+g65,Joshua Wang,Brookfield,physics,3,0,12
+g65,Kartik Ramachandrula,Brookfield,overall,2,0,8
+g65,Kartik Ramachandrula,Brookfield,math,2,0,8
+g65,Vaidehi Ramachandrula,Brookfield,overall,1,0,4
+g65,Vaidehi Ramachandrula,Brookfield,other,1,0,4
+g66,Brian Zhang,Enloe A,overall,2,0,8
+g66,Brian Zhang,Enloe A,other,1,0,4
+g66,Brian Zhang,Enloe A,ess,1,0,4
+g66,Colin Hanes,Enloe A,overall,9,0,36
+g66,Colin Hanes,Enloe A,other,1,0,4
+g66,Colin Hanes,Enloe A,math,3,0,12
+g66,Colin Hanes,Enloe A,chemistry,2,0,8
+g66,Colin Hanes,Enloe A,physics,3,0,12
+g66,Chris John,Troy,overall,0,1,-4
+g66,Chris John,Troy,chemistry,0,1,-4
+g66,Melinda Ji,Troy,overall,3,0,12
+g66,Melinda Ji,Troy,ess,1,0,4
+g66,Melinda Ji,Troy,biology,2,0,8
+g66,Rishabh Bedidha,Enloe A,overall,2,1,4
+g66,Rishabh Bedidha,Enloe A,other,1,0,4
+g66,Rishabh Bedidha,Enloe A,biology,1,1,0
+g66,Jason Dong,Troy,overall,0,2,-8
+g66,Jason Dong,Troy,math,0,1,-4
+g66,Jason Dong,Troy,physics,0,1,-4
+g66,Nikhil Vemuri,Enloe A,overall,2,0,8
+g66,Nikhil Vemuri,Enloe A,chemistry,2,0,8
+g66,Rohit Hari,Enloe A,overall,2,1,4
+g66,Rohit Hari,Enloe A,other,0,1,-4
+g66,Rohit Hari,Enloe A,ess,2,0,8
+g66,Aditya Peddi,Troy,overall,0,0,0
+g67,Anurag Sodhi,Centennial,overall,11,0,44
+g67,Anurag Sodhi,Centennial,other,1,0,4
+g67,Anurag Sodhi,Centennial,math,2,0,8
+g67,Anurag Sodhi,Centennial,chemistry,4,0,16
+g67,Anurag Sodhi,Centennial,biology,3,0,12
+g67,Anurag Sodhi,Centennial,physics,1,0,4
+g67,Emily (CHS),Centennial,overall,0,0,0
+g67,Josh Shi,PRISMS,overall,2,1,4
+g67,Josh Shi,PRISMS,other,1,0,4
+g67,Josh Shi,PRISMS,ess,1,1,0
+g67,Felicity Ni,PRISMS,overall,2,0,8
+g67,Felicity Ni,PRISMS,math,1,0,4
+g67,Felicity Ni,PRISMS,physics,1,0,4
+g67,Cedric Xiao,PRISMS,overall,2,0,8
+g67,Cedric Xiao,PRISMS,ess,2,0,8
+g67,Ryan Chang,Centennial,overall,1,1,0
+g67,Ryan Chang,Centennial,other,1,0,4
+g67,Ryan Chang,Centennial,ess,0,1,-4
+g68,Kaiwen,Enloe B,overall,7,0,28
+g68,Kaiwen,Enloe B,other,1,0,4
+g68,Kaiwen,Enloe B,math,1,0,4
+g68,Kaiwen,Enloe B,chemistry,2,0,8
+g68,Kaiwen,Enloe B,physics,3,0,12
+g68,Ryan Eto,Iolani,overall,3,0,12
+g68,Ryan Eto,Iolani,ess,2,0,8
+g68,Ryan Eto,Iolani,biology,1,0,4
+g68,Justin Lu,Iolani,overall,1,1,0
+g68,Justin Lu,Iolani,math,1,0,4
+g68,Justin Lu,Iolani,biology,0,1,-4
+g68,Vedang Singhal,Enloe B,overall,4,0,16
+g68,Vedang Singhal,Enloe B,other,2,0,8
+g68,Vedang Singhal,Enloe B,biology,2,0,8
+g68,Sukrith Velmineti,Enloe B,overall,1,0,4
+g68,Sukrith Velmineti,Enloe B,ess,1,0,4
+g68,Allison Eto,Iolani,overall,2,0,8
+g68,Allison Eto,Iolani,math,1,0,4
+g68,Allison Eto,Iolani,ess,1,0,4
+g68,Jerry Cao-Xue,Enloe B,overall,3,0,12
+g68,Jerry Cao-Xue,Enloe B,other,1,0,4
+g68,Jerry Cao-Xue,Enloe B,biology,1,0,4
+g68,Jerry Cao-Xue,Enloe B,physics,1,0,4
+g69,Shreyash,WWPN,overall,3,0,12
+g69,Shreyash,WWPN,other,1,0,4
+g69,Shreyash,WWPN,math,1,0,4
+g69,Shreyash,WWPN,ess,1,0,4
+g69,Vishnu Mangipudi,Lakeside,overall,5,1,16
+g69,Vishnu Mangipudi,Lakeside,other,1,1,0
+g69,Vishnu Mangipudi,Lakeside,math,1,0,4
+g69,Vishnu Mangipudi,Lakeside,chemistry,1,0,4
+g69,Vishnu Mangipudi,Lakeside,ess,2,0,8
+g69,Aldric Benalan,WWPN,overall,5,1,16
+g69,Aldric Benalan,WWPN,other,1,0,4
+g69,Aldric Benalan,WWPN,chemistry,2,0,8
+g69,Aldric Benalan,WWPN,ess,1,0,4
+g69,Aldric Benalan,WWPN,physics,1,1,0
+g69,Krutharth,WWPN,overall,4,0,16
+g69,Krutharth,WWPN,biology,4,0,16
+g69,Rohan Dhillon,Lakeside,overall,2,0,8
+g69,Rohan Dhillon,Lakeside,math,1,0,4
+g69,Rohan Dhillon,Lakeside,physics,1,0,4
+g69,Michael Yang,Lakeside,overall,1,0,4
+g69,Michael Yang,Lakeside,math,1,0,4
+g69,Rithik Gumpu,WWPN,overall,0,0,0
+g69,arjun avineni,WWPN,overall,1,0,4
+g69,arjun avineni,WWPN,chemistry,1,0,4
+g70,RISHABH GARG,NoHo B,overall,4,0,16
+g70,RISHABH GARG,NoHo B,other,1,0,4
+g70,RISHABH GARG,NoHo B,ess,1,0,4
+g70,RISHABH GARG,NoHo B,biology,1,0,4
+g70,RISHABH GARG,NoHo B,physics,1,0,4
+g70,Rithvik Marri,AHS Broward,overall,2,0,8
+g70,Rithvik Marri,AHS Broward,math,1,0,4
+g70,Rithvik Marri,AHS Broward,biology,1,0,4
+g70,Connor Z,NoHo B,overall,5,1,16
+g70,Connor Z,NoHo B,chemistry,4,0,16
+g70,Connor Z,NoHo B,ess,0,1,-4
+g70,Connor Z,NoHo B,physics,1,0,4
+g70,Jack Finneran,AHS Broward,overall,3,0,12
+g70,Jack Finneran,AHS Broward,other,2,0,8
+g70,Jack Finneran,AHS Broward,math,1,0,4
+g70,Sharvaa Selvan,AHS Broward,overall,2,0,8
+g70,Sharvaa Selvan,AHS Broward,math,2,0,8
+g70,Sanshray Singh,AHS Broward,overall,1,0,4
+g70,Sanshray Singh,AHS Broward,biology,1,0,4
+g70,Danny Kim,NoHo B,overall,1,0,4
+g70,Danny Kim,NoHo B,biology,1,0,4
+g70,Alan Wu,AHS Broward,overall,0,0,0
+g71,Anagh Sheth,JP Stevens,overall,2,0,8
+g71,Anagh Sheth,JP Stevens,other,1,0,4
+g71,Anagh Sheth,JP Stevens,math,1,0,4
+g71,Jerry Xu,Lexington B,overall,3,0,12
+g71,Jerry Xu,Lexington B,math,1,0,4
+g71,Jerry Xu,Lexington B,biology,1,0,4
+g71,Jerry Xu,Lexington B,physics,1,0,4
+g71,Om Lad,JP Stevens,overall,1,1,0
+g71,Om Lad,JP Stevens,biology,1,1,0
+g71,Daniel Jung,Lexington B,overall,6,1,20
+g71,Daniel Jung,Lexington B,other,1,0,4
+g71,Daniel Jung,Lexington B,chemistry,1,1,0
+g71,Daniel Jung,Lexington B,ess,3,0,12
+g71,Daniel Jung,Lexington B,physics,1,0,4
+g71,Tanmay Gupta,Lexington B,overall,5,0,20
+g71,Tanmay Gupta,Lexington B,other,1,0,4
+g71,Tanmay Gupta,Lexington B,math,1,0,4
+g71,Tanmay Gupta,Lexington B,chemistry,1,0,4
+g71,Tanmay Gupta,Lexington B,physics,2,0,8
+g71,Pranesh Kirubakar,JP Stevens,overall,0,0,0
+g71,William Jung,Lexington B,overall,0,1,-4
+g71,William Jung,Lexington B,other,0,1,-4
+g71,Aryan Ahire,JP Stevens,overall,0,0,0
+g72,Bo Chi,NCSSM A,overall,2,0,8
+g72,Bo Chi,NCSSM A,other,2,0,8
+g72,Eli Park,NCSSM A,overall,1,0,4
+g72,Eli Park,NCSSM A,math,1,0,4
+g72,Aditya Jha,Shen,overall,2,0,8
+g72,Aditya Jha,Shen,chemistry,2,0,8
+g72,Edward,Shen,overall,5,0,20
+g72,Edward,Shen,other,1,0,4
+g72,Edward,Shen,ess,2,0,8
+g72,Edward,Shen,biology,1,0,4
+g72,Edward,Shen,physics,1,0,4
+g72,Anthony Yang,Shen,overall,1,0,4
+g72,Anthony Yang,Shen,physics,1,0,4
+g72,Tony Liu,Shen,overall,1,0,4
+g72,Tony Liu,Shen,math,1,0,4
+g72,Avanesh Vijayakumar,NCSSM A,overall,5,0,20
+g72,Avanesh Vijayakumar,NCSSM A,chemistry,2,0,8
+g72,Avanesh Vijayakumar,NCSSM A,biology,3,0,12
+g72,Andrew Hwang,Shen,overall,0,0,0
+g72,Nikhil Sampath,NCSSM A,overall,2,0,8
+g72,Nikhil Sampath,NCSSM A,math,1,0,4
+g72,Nikhil Sampath,NCSSM A,ess,1,0,4
+g72,Aditya Vatsavai,NCSSM A,overall,1,0,4
+g72,Aditya Vatsavai,NCSSM A,physics,1,0,4
+g73,Harris Chen,Collierville,overall,1,0,4
+g73,Harris Chen,Collierville,other,1,0,4
+g73,Joseph Chen,RMHS,overall,7,1,24
+g73,Joseph Chen,RMHS,other,0,1,-4
+g73,Joseph Chen,RMHS,chemistry,2,0,8
+g73,Joseph Chen,RMHS,ess,1,0,4
+g73,Joseph Chen,RMHS,biology,3,0,12
+g73,Joseph Chen,RMHS,physics,1,0,4
+g73,Annie Guo,RMHS,overall,2,0,8
+g73,Annie Guo,RMHS,math,2,0,8
+g73,Michael,Collierville,overall,5,0,20
+g73,Michael,Collierville,other,1,0,4
+g73,Michael,Collierville,math,1,0,4
+g73,Michael,Collierville,ess,3,0,12
+g73,Davis,Collierville,overall,2,0,8
+g73,Davis,Collierville,physics,2,0,8
+g73,Jeeval Rambiya,Collierville,overall,0,0,0
+g73,Krish Prajapati,Collierville,overall,2,1,4
+g73,Krish Prajapati,Collierville,math,0,1,-4
+g73,Krish Prajapati,Collierville,chemistry,1,0,4
+g73,Krish Prajapati,Collierville,biology,1,0,4
+g73,Vincent T,RMHS,overall,1,0,4
+g73,Vincent T,RMHS,other,1,0,4
+g74,Aneesh Swaminathan,Wayzata,overall,3,1,8
+g74,Aneesh Swaminathan,Wayzata,other,1,0,4
+g74,Aneesh Swaminathan,Wayzata,biology,2,0,8
+g74,Aneesh Swaminathan,Wayzata,physics,0,1,-4
+g74,Eric Chen,Wayzata,overall,6,1,20
+g74,Eric Chen,Wayzata,other,1,0,4
+g74,Eric Chen,Wayzata,math,3,0,12
+g74,Eric Chen,Wayzata,chemistry,1,0,4
+g74,Eric Chen,Wayzata,ess,1,1,0
+g74,Viraj Negandhi,Dulles,overall,7,1,24
+g74,Viraj Negandhi,Dulles,other,1,1,0
+g74,Viraj Negandhi,Dulles,chemistry,3,0,12
+g74,Viraj Negandhi,Dulles,ess,1,0,4
+g74,Viraj Negandhi,Dulles,physics,2,0,8
+g74,justin,Dulles,overall,0,2,-8
+g74,justin,Dulles,biology,0,2,-8
+g74,Rushil Shah,Dulles,overall,3,0,12
+g74,Rushil Shah,Dulles,ess,1,0,4
+g74,Rushil Shah,Dulles,physics,2,0,8
+g74,SAMARTH RAM,Wayzata,overall,2,1,4
+g74,SAMARTH RAM,Wayzata,ess,1,0,4
+g74,SAMARTH RAM,Wayzata,biology,1,1,0
+g74,Shlok Parija,Dulles,overall,0,1,-4
+g74,Shlok Parija,Dulles,math,0,1,-4
+g75,owen fei,Interlake A,overall,5,0,20
+g75,owen fei,Interlake A,other,1,0,4
+g75,owen fei,Interlake A,math,1,0,4
+g75,owen fei,Interlake A,chemistry,3,0,12
+g75,Daniel L,Interlake A,overall,7,0,28
+g75,Daniel L,Interlake A,other,1,0,4
+g75,Daniel L,Interlake A,math,2,0,8
+g75,Daniel L,Interlake A,physics,4,0,16
+g75,Rishabh V,Interlake A,overall,1,2,-4
+g75,Rishabh V,Interlake A,other,1,0,4
+g75,Rishabh V,Interlake A,math,0,1,-4
+g75,Rishabh V,Interlake A,ess,0,1,-4
+g75,Thaddeus Stefanski-Hall,Venice,overall,3,0,12
+g75,Thaddeus Stefanski-Hall,Venice,ess,3,0,12
+g75,Lidia P.,Venice,overall,2,0,8
+g75,Lidia P.,Venice,biology,2,0,8
+g75,Fateh Aliyev,Venice,overall,0,1,-4
+g75,Fateh Aliyev,Venice,chemistry,0,1,-4
+g75,Cindy Liu,Interlake A,overall,2,0,8
+g75,Cindy Liu,Interlake A,biology,2,0,8
+g75,michael warsono,Venice,overall,1,0,4
+g75,michael warsono,Venice,chemistry,1,0,4
+g76,Flora Jiang,Canyon Crest,overall,1,0,4
+g76,Flora Jiang,Canyon Crest,other,1,0,4
+g76,boheng cao,NoHo,overall,4,0,16
+g76,boheng cao,NoHo,math,2,0,8
+g76,boheng cao,NoHo,physics,2,0,8
+g76,Adeline Sun,NoHo,overall,3,0,12
+g76,Adeline Sun,NoHo,chemistry,3,0,12
+g76,Alex Franks,NoHo,overall,6,1,20
+g76,Alex Franks,NoHo,other,1,0,4
+g76,Alex Franks,NoHo,ess,4,0,16
+g76,Alex Franks,NoHo,biology,0,1,-4
+g76,Alex Franks,NoHo,physics,1,0,4
+g76,Richard Zhu,NoHo,overall,2,0,8
+g76,Richard Zhu,NoHo,biology,2,0,8
+g76,Austin Xu,Canyon Crest,overall,4,0,16
+g76,Austin Xu,Canyon Crest,other,1,0,4
+g76,Austin Xu,Canyon Crest,math,1,0,4
+g76,Austin Xu,Canyon Crest,chemistry,1,0,4
+g76,Austin Xu,Canyon Crest,biology,1,0,4
+g76,Alex Backues,Canyon Crest,overall,0,0,0
+g77,Shiv Mehrotra,Interlake B,overall,4,1,12
+g77,Shiv Mehrotra,Interlake B,other,0,1,-4
+g77,Shiv Mehrotra,Interlake B,chemistry,1,0,4
+g77,Shiv Mehrotra,Interlake B,ess,2,0,8
+g77,Shiv Mehrotra,Interlake B,physics,1,0,4
+g77,Albert Tang,Westminster,overall,4,0,16
+g77,Albert Tang,Westminster,math,1,0,4
+g77,Albert Tang,Westminster,chemistry,3,0,12
+g77,Tristan Kay,Interlake B,overall,2,0,8
+g77,Tristan Kay,Interlake B,math,1,0,4
+g77,Tristan Kay,Interlake B,physics,1,0,4
+g77,Mason Yu,Westminster,overall,6,3,12
+g77,Mason Yu,Westminster,other,1,0,4
+g77,Mason Yu,Westminster,math,0,1,-4
+g77,Mason Yu,Westminster,ess,1,1,0
+g77,Mason Yu,Westminster,biology,3,1,8
+g77,Mason Yu,Westminster,physics,1,0,4
+g77,Chris Chen,Westminster,overall,0,2,-8
+g77,Chris Chen,Westminster,chemistry,0,1,-4
+g77,Chris Chen,Westminster,physics,0,1,-4
+g77,Darrien Liang,Interlake B,overall,1,0,4
+g77,Darrien Liang,Interlake B,ess,1,0,4
+g77,Grace C,Interlake B,overall,0,0,0
+g77,Luke Guan,Westminster,overall,2,0,8
+g77,Luke Guan,Westminster,other,2,0,8
+g77,Nihal J.,Interlake B,overall,1,0,4
+g77,Nihal J.,Interlake B,math,1,0,4
+g78,Phoenix Wu,Seven Lakes,overall,6,1,20
+g78,Phoenix Wu,Seven Lakes,other,2,0,8
+g78,Phoenix Wu,Seven Lakes,math,1,0,4
+g78,Phoenix Wu,Seven Lakes,chemistry,3,0,12
+g78,Phoenix Wu,Seven Lakes,physics,0,1,-4
+g78,Jeffery Tong,Naperville North,overall,1,0,4
+g78,Jeffery Tong,Naperville North,math,1,0,4
+g78,Michael Xiang,Seven Lakes,overall,0,0,0
+g78,Andrew Tang,Naperville North,overall,4,0,16
+g78,Andrew Tang,Naperville North,chemistry,1,0,4
+g78,Andrew Tang,Naperville North,ess,1,0,4
+g78,Andrew Tang,Naperville North,biology,1,0,4
+g78,Andrew Tang,Naperville North,physics,1,0,4
+g78,Vishal Surya,Seven Lakes,overall,3,0,12
+g78,Vishal Surya,Seven Lakes,biology,3,0,12
+g78,Kai Liu,Naperville North,overall,5,0,20
+g78,Kai Liu,Naperville North,math,1,0,4
+g78,Kai Liu,Naperville North,ess,1,0,4
+g78,Kai Liu,Naperville North,physics,3,0,12
+g78,Andy Teng,Seven Lakes,overall,0,0,0
+g78,Dingjia Shen,Naperville North,overall,1,0,4
+g78,Dingjia Shen,Naperville North,ess,1,0,4
+g79,Yuvan Chali,Ladue,overall,2,0,8
+g79,Yuvan Chali,Ladue,other,1,0,4
+g79,Yuvan Chali,Ladue,ess,1,0,4
+g79,Aditya Jain,Ladue,overall,3,0,12
+g79,Aditya Jain,Ladue,math,3,0,12
+g79,Rohan Suri,Ladue,overall,2,0,8
+g79,Rohan Suri,Ladue,chemistry,2,0,8
+g79,Sahas Goli,MSJ,overall,3,1,8
+g79,Sahas Goli,MSJ,other,1,0,4
+g79,Sahas Goli,MSJ,ess,2,1,4
+g79,Jerry Yuan,MSJ,overall,2,0,8
+g79,Jerry Yuan,MSJ,ess,1,0,4
+g79,Jerry Yuan,MSJ,physics,1,0,4
+g79,Samuel Zhou,MSJ,overall,4,3,4
+g79,Samuel Zhou,MSJ,other,1,0,4
+g79,Samuel Zhou,MSJ,math,0,2,-8
+g79,Samuel Zhou,MSJ,chemistry,0,1,-4
+g79,Samuel Zhou,MSJ,physics,3,0,12
+g79,Abheek Dhawan,Ladue,overall,1,0,4
+g79,Abheek Dhawan,Ladue,other,1,0,4
+g79,Gokulanath Mahesh Kumar,MSJ,overall,3,0,12
+g79,Gokulanath Mahesh Kumar,MSJ,biology,3,0,12
+g79,Annie Xu,MSJ,overall,1,0,4
+g79,Annie Xu,MSJ,chemistry,1,0,4
+g80,Mihir Kulkarni,Niskayuna,overall,4,0,16
+g80,Mihir Kulkarni,Niskayuna,other,1,0,4
+g80,Mihir Kulkarni,Niskayuna,math,1,0,4
+g80,Mihir Kulkarni,Niskayuna,biology,2,0,8
+g80,Evin Liang,Lexington A,overall,8,2,24
+g80,Evin Liang,Lexington A,other,2,0,8
+g80,Evin Liang,Lexington A,math,1,0,4
+g80,Evin Liang,Lexington A,chemistry,0,1,-4
+g80,Evin Liang,Lexington A,ess,1,0,4
+g80,Evin Liang,Lexington A,biology,1,0,4
+g80,Evin Liang,Lexington A,physics,3,1,8
+g80,Arjun R,Niskayuna,overall,1,0,4
+g80,Arjun R,Niskayuna,chemistry,1,0,4
+g80,David Zhou,Lexington A,overall,1,1,0
+g80,David Zhou,Lexington A,ess,1,1,0
+g80,Shreyas Ekanathan,Lexington A,overall,3,1,8
+g80,Shreyas Ekanathan,Lexington A,math,1,1,0
+g80,Shreyas Ekanathan,Lexington A,ess,1,0,4
+g80,Shreyas Ekanathan,Lexington A,biology,1,0,4
+g80,Anuprabha Dandapat,Lexington A,overall,2,0,8
+g80,Anuprabha Dandapat,Lexington A,chemistry,2,0,8
+g81,Harry Jin,Middleton,overall,7,0,28
+g81,Harry Jin,Middleton,other,1,0,4
+g81,Harry Jin,Middleton,math,1,0,4
+g81,Harry Jin,Middleton,chemistry,2,0,8
+g81,Harry Jin,Middleton,ess,1,0,4
+g81,Harry Jin,Middleton,biology,1,0,4
+g81,Harry Jin,Middleton,physics,1,0,4
+g81,Owen Weisenberger,Middleton,overall,2,0,8
+g81,Owen Weisenberger,Middleton,chemistry,1,0,4
+g81,Owen Weisenberger,Middleton,ess,1,0,4
+g81,Rayticulum,Middleton,overall,8,0,32
+g81,Rayticulum,Middleton,other,2,0,8
+g81,Rayticulum,Middleton,math,2,0,8
+g81,Rayticulum,Middleton,ess,1,0,4
+g81,Rayticulum,Middleton,biology,2,0,8
+g81,Rayticulum,Middleton,physics,1,0,4
+g82,Akshansh Chauhan,Davidson,overall,5,1,16
+g82,Akshansh Chauhan,Davidson,other,3,0,12
+g82,Akshansh Chauhan,Davidson,chemistry,0,1,-4
+g82,Akshansh Chauhan,Davidson,ess,1,0,4
+g82,Akshansh Chauhan,Davidson,biology,1,0,4
+g82,Ethan C,Davidson,overall,2,1,4
+g82,Ethan C,Davidson,math,1,1,0
+g82,Ethan C,Davidson,physics,1,0,4
+g82,Gugan Thuduppathy,Blair C,overall,6,0,24
+g82,Gugan Thuduppathy,Blair C,math,1,0,4
+g82,Gugan Thuduppathy,Blair C,chemistry,2,0,8
+g82,Gugan Thuduppathy,Blair C,physics,3,0,12
+g82,Emmy B,Davidson,overall,4,1,12
+g82,Emmy B,Davidson,other,1,0,4
+g82,Emmy B,Davidson,ess,3,0,12
+g82,Emmy B,Davidson,physics,0,1,-4
+g82,Ricky Ye,Blair C,overall,1,0,4
+g82,Ricky Ye,Blair C,math,1,0,4
+g82,Kian Dhawan,Blair C,overall,0,0,0
+g82,Yajur,Davidson,overall,1,2,-4
+g82,Yajur,Davidson,chemistry,1,0,4
+g82,Yajur,Davidson,biology,0,2,-8
+g82,Evan Zhang,Blair C,overall,0,1,-4
+g82,Evan Zhang,Blair C,ess,0,1,-4
+g83,Sami Khan,Tesla STEM,overall,5,1,16
+g83,Sami Khan,Tesla STEM,other,1,0,4
+g83,Sami Khan,Tesla STEM,math,1,0,4
+g83,Sami Khan,Tesla STEM,chemistry,1,0,4
+g83,Sami Khan,Tesla STEM,biology,0,1,-4
+g83,Sami Khan,Tesla STEM,physics,2,0,8
+g83,Evan Kim,Tesla STEM,overall,2,0,8
+g83,Evan Kim,Tesla STEM,math,1,0,4
+g83,Evan Kim,Tesla STEM,physics,1,0,4
+g83,Nicholas Dang,Buchholz A,overall,2,0,8
+g83,Nicholas Dang,Buchholz A,math,1,0,4
+g83,Nicholas Dang,Buchholz A,chemistry,1,0,4
+g83,Aashray Chegu,Tesla STEM,overall,3,0,12
+g83,Aashray Chegu,Tesla STEM,other,1,0,4
+g83,Aashray Chegu,Tesla STEM,ess,2,0,8
+g83,Andrey Nikitin,Buchholz A,overall,7,1,24
+g83,Andrey Nikitin,Buchholz A,math,1,0,4
+g83,Andrey Nikitin,Buchholz A,ess,2,0,8
+g83,Andrey Nikitin,Buchholz A,biology,3,1,8
+g83,Andrey Nikitin,Buchholz A,physics,1,0,4
+g83,Emmanuel Zheng,Buchholz A,overall,1,0,4
+g83,Emmanuel Zheng,Buchholz A,other,1,0,4
+g83,Ahan Mishra,Buchholz A,overall,1,1,0
+g83,Ahan Mishra,Buchholz A,chemistry,1,0,4
+g83,Ahan Mishra,Buchholz A,physics,0,1,-4
+g83,Sebi Kumar,Tesla STEM,overall,1,0,4
+g83,Sebi Kumar,Tesla STEM,other,1,0,4
+g84,Jake Wang,Cupertino,overall,8,0,32
+g84,Jake Wang,Cupertino,other,2,0,8
+g84,Jake Wang,Cupertino,math,1,0,4
+g84,Jake Wang,Cupertino,chemistry,1,0,4
+g84,Jake Wang,Cupertino,ess,1,0,4
+g84,Jake Wang,Cupertino,physics,3,0,12
+g84,Aaditya Karnataki,Cupertino,overall,6,1,20
+g84,Aaditya Karnataki,Cupertino,other,1,0,4
+g84,Aaditya Karnataki,Cupertino,chemistry,2,0,8
+g84,Aaditya Karnataki,Cupertino,ess,1,1,0
+g84,Aaditya Karnataki,Cupertino,biology,2,0,8
+g84,rom,Cupertino,overall,1,0,4
+g84,rom,Cupertino,ess,1,0,4
+g84,Edward Zhang,NCSSM B,overall,2,2,0
+g84,Edward Zhang,NCSSM B,math,1,0,4
+g84,Edward Zhang,NCSSM B,ess,0,1,-4
+g84,Edward Zhang,NCSSM B,physics,1,1,0
+g84,Madhav Karthikeyan,NCSSM B,overall,0,0,0
+g84,Aditi Gargeshwari,Cupertino,overall,2,0,8
+g84,Aditi Gargeshwari,Cupertino,math,1,0,4
+g84,Aditi Gargeshwari,Cupertino,biology,1,0,4
+g84,Vikas Sarvasya,NCSSM B,overall,0,1,-4
+g84,Vikas Sarvasya,NCSSM B,math,0,1,-4
+g84,Arnav Meduri,NCSSM B,overall,0,0,0
+g85,Caleb Zhao,Blair A,overall,8,2,24
+g85,Caleb Zhao,Blair A,other,1,0,4
+g85,Caleb Zhao,Blair A,chemistry,3,0,12
+g85,Caleb Zhao,Blair A,ess,1,0,4
+g85,Caleb Zhao,Blair A,biology,3,1,8
+g85,Caleb Zhao,Blair A,physics,0,1,-4
+g85,David Lee,Lynbrook,overall,2,1,4
+g85,David Lee,Lynbrook,math,1,0,4
+g85,David Lee,Lynbrook,chemistry,1,1,0
+g85,samuel wang,Lynbrook,overall,3,0,12
+g85,samuel wang,Lynbrook,other,1,0,4
+g85,samuel wang,Lynbrook,ess,1,0,4
+g85,samuel wang,Lynbrook,biology,1,0,4
+g85,Stephen Chen,Blair A,overall,4,1,12
+g85,Stephen Chen,Blair A,math,2,0,8
+g85,Stephen Chen,Blair A,ess,1,0,4
+g85,Stephen Chen,Blair A,physics,1,1,0
+g85,Pranjal Chatterjee,Lynbrook,overall,2,0,8
+g85,Pranjal Chatterjee,Lynbrook,physics,2,0,8
+g85,Sohil Rathi,Lynbrook,overall,1,1,0
+g85,Sohil Rathi,Lynbrook,math,0,1,-4
+g85,Sohil Rathi,Lynbrook,physics,1,0,4
+g85,Justin Chen,Blair A,overall,2,0,8
+g85,Justin Chen,Blair A,other,1,0,4
+g85,Justin Chen,Blair A,ess,1,0,4
+g86,Yufei Chen,University,overall,10,2,32
+g86,Yufei Chen,University,other,2,0,8
+g86,Yufei Chen,University,chemistry,2,0,8
+g86,Yufei Chen,University,ess,1,1,0
+g86,Yufei Chen,University,biology,4,0,16
+g86,Yufei Chen,University,physics,1,1,0
+g86,Feodor Yevtushenko,University,overall,5,0,20
+g86,Feodor Yevtushenko,University,math,2,0,8
+g86,Feodor Yevtushenko,University,chemistry,1,0,4
+g86,Feodor Yevtushenko,University,physics,2,0,8
+g86,Abhinav Pothuri,Buchholz B,overall,2,3,-4
+g86,Abhinav Pothuri,Buchholz B,math,1,1,0
+g86,Abhinav Pothuri,Buchholz B,chemistry,0,1,-4
+g86,Abhinav Pothuri,Buchholz B,ess,0,1,-4
+g86,Abhinav Pothuri,Buchholz B,physics,1,0,4
+g86,Michael Wei,Buchholz B,overall,1,0,4
+g86,Michael Wei,Buchholz B,other,1,0,4
+g86,Laurie Wang,Buchholz B,overall,0,0,0
+g86,Nathan Ouyang,University,overall,2,0,8
+g86,Nathan Ouyang,University,math,1,0,4
+g86,Nathan Ouyang,University,chemistry,1,0,4
+g86,Wendy Cao,University,overall,1,0,4
+g86,Wendy Cao,University,ess,1,0,4
+g86,Vijay Hans,Buchholz B,overall,1,0,4
+g86,Vijay Hans,Buchholz B,ess,1,0,4
+g87,Aditya Bose-Bandyopadhyay,Pullman,overall,3,1,8
+g87,Aditya Bose-Bandyopadhyay,Pullman,other,1,0,4
+g87,Aditya Bose-Bandyopadhyay,Pullman,math,1,1,0
+g87,Aditya Bose-Bandyopadhyay,Pullman,chemistry,1,0,4
+g87,Alex Patton,Green Hope,overall,5,0,20
+g87,Alex Patton,Green Hope,other,1,0,4
+g87,Alex Patton,Green Hope,chemistry,2,0,8
+g87,Alex Patton,Green Hope,ess,1,0,4
+g87,Alex Patton,Green Hope,physics,1,0,4
+g87,Mir Park,Pullman,overall,3,0,12
+g87,Mir Park,Pullman,ess,1,0,4
+g87,Mir Park,Pullman,biology,2,0,8
+g87,Harsh Ambardekar,Green Hope,overall,4,1,12
+g87,Harsh Ambardekar,Green Hope,ess,2,0,8
+g87,Harsh Ambardekar,Green Hope,physics,2,1,4
+g87,Leo Yang,Green Hope,overall,1,0,4
+g87,Leo Yang,Green Hope,math,1,0,4
+g87,Erik,Green Hope,overall,2,0,8
+g87,Erik,Green Hope,biology,2,0,8
+g87,William Miller,Pullman,overall,1,0,4
+g87,William Miller,Pullman,other,1,0,4
+g87,Jasper Premo,Pullman,overall,1,0,4
+g87,Jasper Premo,Pullman,other,1,0,4
+g88,Elias Mrug,ASFA,overall,8,0,32
+g88,Elias Mrug,ASFA,other,1,0,4
+g88,Elias Mrug,ASFA,math,2,0,8
+g88,Elias Mrug,ASFA,chemistry,2,0,8
+g88,Elias Mrug,ASFA,ess,2,0,8
+g88,Elias Mrug,ASFA,biology,1,0,4
+g88,Colin Hanes,Enloe A,overall,5,2,12
+g88,Colin Hanes,Enloe A,other,1,0,4
+g88,Colin Hanes,Enloe A,chemistry,1,1,0
+g88,Colin Hanes,Enloe A,physics,3,1,8
+g88,Rishabh Bedidha,Enloe A,overall,4,0,16
+g88,Rishabh Bedidha,Enloe A,math,1,0,4
+g88,Rishabh Bedidha,Enloe A,biology,3,0,12
+g88,Rohit Hari,Enloe A,overall,2,1,4
+g88,Rohit Hari,Enloe A,other,1,0,4
+g88,Rohit Hari,Enloe A,ess,1,1,0
+g88,Brian Zhang,Enloe A,overall,0,1,-4
+g88,Brian Zhang,Enloe A,ess,0,1,-4
+g88,Dexter Gard,ASFA,overall,1,0,4
+g88,Dexter Gard,ASFA,other,1,0,4
+g88,Nikhil Vemuri,Enloe A,overall,1,0,4
+g88,Nikhil Vemuri,Enloe A,chemistry,1,0,4
+g89,Aditya Peddi,Troy,overall,1,0,4
+g89,Aditya Peddi,Troy,math,1,0,4
+g89,Melinda Ji,Troy,overall,6,1,20
+g89,Melinda Ji,Troy,chemistry,2,0,8
+g89,Melinda Ji,Troy,ess,1,0,4
+g89,Melinda Ji,Troy,biology,3,1,8
+g89,Chris John,Troy,overall,4,1,12
+g89,Chris John,Troy,other,2,0,8
+g89,Chris John,Troy,ess,1,0,4
+g89,Chris John,Troy,physics,1,1,0
+g89,Jason Dong,Troy,overall,2,0,8
+g89,Jason Dong,Troy,math,1,0,4
+g89,Jason Dong,Troy,chemistry,1,0,4
+g89,Gordon Wong,Troy,overall,0,0,0
+g90,Aditya Sivakumar,Mira Loma,overall,8,3,20
+g90,Aditya Sivakumar,Mira Loma,other,1,0,4
+g90,Aditya Sivakumar,Mira Loma,math,2,0,8
+g90,Aditya Sivakumar,Mira Loma,ess,1,1,0
+g90,Aditya Sivakumar,Mira Loma,biology,3,1,8
+g90,Aditya Sivakumar,Mira Loma,physics,1,1,0
+g90,Joshua Wang,Brookfield,overall,8,0,32
+g90,Joshua Wang,Brookfield,other,2,0,8
+g90,Joshua Wang,Brookfield,math,1,0,4
+g90,Joshua Wang,Brookfield,chemistry,1,0,4
+g90,Joshua Wang,Brookfield,ess,2,0,8
+g90,Joshua Wang,Brookfield,biology,1,0,4
+g90,Joshua Wang,Brookfield,physics,1,0,4
+g90,Nipun D,Mira Loma,overall,3,1,8
+g90,Nipun D,Mira Loma,chemistry,2,1,4
+g90,Nipun D,Mira Loma,ess,1,0,4
+g90,Kartik Ramachandrula,Brookfield,overall,2,0,8
+g90,Kartik Ramachandrula,Brookfield,physics,2,0,8
+g91,Anurag Sodhi,Centennial,overall,11,2,36
+g91,Anurag Sodhi,Centennial,other,2,0,8
+g91,Anurag Sodhi,Centennial,math,2,0,8
+g91,Anurag Sodhi,Centennial,chemistry,3,0,12
+g91,Anurag Sodhi,Centennial,ess,1,0,4
+g91,Anurag Sodhi,Centennial,biology,1,1,0
+g91,Anurag Sodhi,Centennial,physics,2,1,4
+g91,Vishnu Mangipudi,Lakeside,overall,8,0,32
+g91,Vishnu Mangipudi,Lakeside,other,1,0,4
+g91,Vishnu Mangipudi,Lakeside,math,1,0,4
+g91,Vishnu Mangipudi,Lakeside,ess,2,0,8
+g91,Vishnu Mangipudi,Lakeside,biology,2,0,8
+g91,Vishnu Mangipudi,Lakeside,physics,2,0,8
+g91,Emily (CHS),Centennial,overall,0,0,0
+g91,Ryan Chang,Centennial,overall,1,0,4
+g91,Ryan Chang,Centennial,ess,1,0,4
+g91,Arif V,Centennial,overall,0,0,0
+g91,Michael Yang,Lakeside,overall,0,1,-4
+g91,Michael Yang,Lakeside,math,0,1,-4
+g92,Shreyash,WWPN,overall,2,0,8
+g92,Shreyash,WWPN,other,2,0,8
+g92,Sukrith Velmineti,Enloe B,overall,3,0,12
+g92,Sukrith Velmineti,Enloe B,math,3,0,12
+g92,Kaiwen,Enloe B,overall,9,2,28
+g92,Kaiwen,Enloe B,other,1,0,4
+g92,Kaiwen,Enloe B,chemistry,3,1,8
+g92,Kaiwen,Enloe B,ess,2,0,8
+g92,Kaiwen,Enloe B,physics,3,1,8
+g92,Krutharth,WWPN,overall,2,0,8
+g92,Krutharth,WWPN,biology,2,0,8
+g92,Jerry Cao-Xue,Enloe B,overall,0,0,0
+g92,Rithik Gumpu,WWPN,overall,0,1,-4
+g92,Rithik Gumpu,WWPN,math,0,1,-4
+g92,Aldric Benalan,WWPN,overall,1,0,4
+g92,Aldric Benalan,WWPN,ess,1,0,4
+g92,arjun avineni,WWPN,overall,0,0,0
+g92,Vedang Singhal,Enloe B,overall,1,0,4
+g92,Vedang Singhal,Enloe B,biology,1,0,4
+g92,Angelina,Enloe B,overall,1,0,4
+g92,Angelina,Enloe B,ess,1,0,4
+g93,Ryan Eto,Iolani,overall,10,0,40
+g93,Ryan Eto,Iolani,other,3,0,12
+g93,Ryan Eto,Iolani,math,1,0,4
+g93,Ryan Eto,Iolani,chemistry,3,0,12
+g93,Ryan Eto,Iolani,ess,1,0,4
+g93,Ryan Eto,Iolani,biology,1,0,4
+g93,Ryan Eto,Iolani,physics,1,0,4
+g93,Cedric Xiao,PRISMS,overall,2,0,8
+g93,Cedric Xiao,PRISMS,math,1,0,4
+g93,Cedric Xiao,PRISMS,physics,1,0,4
+g93,Josh Shi,PRISMS,overall,3,0,12
+g93,Josh Shi,PRISMS,math,1,0,4
+g93,Josh Shi,PRISMS,ess,1,0,4
+g93,Josh Shi,PRISMS,physics,1,0,4
+g93,Allison Eto,Iolani,overall,3,0,12
+g93,Allison Eto,Iolani,chemistry,1,0,4
+g93,Allison Eto,Iolani,ess,2,0,8
+g93,Felicity Ni,PRISMS,overall,0,0,0
+g94,Bo Chi,NCSSM A,overall,4,1,12
+g94,Bo Chi,NCSSM A,other,2,0,8
+g94,Bo Chi,NCSSM A,chemistry,2,0,8
+g94,Bo Chi,NCSSM A,ess,0,1,-4
+g94,Nikhil Sampath,NCSSM A,overall,2,0,8
+g94,Nikhil Sampath,NCSSM A,math,2,0,8
+g94,Avanesh Vijayakumar,NCSSM A,overall,4,0,16
+g94,Avanesh Vijayakumar,NCSSM A,other,1,0,4
+g94,Avanesh Vijayakumar,NCSSM A,chemistry,1,0,4
+g94,Avanesh Vijayakumar,NCSSM A,ess,1,0,4
+g94,Avanesh Vijayakumar,NCSSM A,biology,1,0,4
+g94,Jack Finneran,AHS Broward,overall,3,0,12
+g94,Jack Finneran,AHS Broward,math,1,0,4
+g94,Jack Finneran,AHS Broward,ess,2,0,8
+g94,Rithvik Marri,AHS Broward,overall,1,0,4
+g94,Rithvik Marri,AHS Broward,biology,1,0,4
+g94,Aditya Vatsavai,NCSSM A,overall,2,1,4
+g94,Aditya Vatsavai,NCSSM A,physics,2,1,4
+g94,Alan Wu,AHS Broward,overall,2,0,8
+g94,Alan Wu,AHS Broward,physics,2,0,8
+g94,Sharvaa Selvan,AHS Broward,overall,0,0,0
+g95,Edward,Shen,overall,13,0,52
+g95,Edward,Shen,other,2,0,8
+g95,Edward,Shen,chemistry,3,0,12
+g95,Edward,Shen,ess,3,0,12
+g95,Edward,Shen,biology,4,0,16
+g95,Edward,Shen,physics,1,0,4
+g95,Tony Liu,Shen,overall,1,0,4
+g95,Tony Liu,Shen,math,1,0,4
+g95,Anthony Yang,Shen,overall,1,0,4
+g95,Anthony Yang,Shen,math,1,0,4
+g95,Aditya Jha,Shen,overall,1,1,0
+g95,Aditya Jha,Shen,chemistry,1,0,4
+g95,Aditya Jha,Shen,physics,0,1,-4
+g95,Anagh Sheth,JP Stevens,overall,5,0,20
+g95,Anagh Sheth,JP Stevens,other,1,0,4
+g95,Anagh Sheth,JP Stevens,math,1,0,4
+g95,Anagh Sheth,JP Stevens,ess,1,0,4
+g95,Anagh Sheth,JP Stevens,physics,2,0,8
+g95,Aryan Ahire,JP Stevens,overall,1,0,4
+g95,Aryan Ahire,JP Stevens,other,1,0,4
+g95,Andrew Hwang,Shen,overall,0,0,0
+g96,Connor Z,NoHo B,overall,7,1,24
+g96,Connor Z,NoHo B,other,2,0,8
+g96,Connor Z,NoHo B,chemistry,2,0,8
+g96,Connor Z,NoHo B,ess,1,1,0
+g96,Connor Z,NoHo B,physics,2,0,8
+g96,Jerry Xu,Lexington B,overall,2,1,4
+g96,Jerry Xu,Lexington B,math,2,0,8
+g96,Jerry Xu,Lexington B,biology,0,1,-4
+g96,Daniel Jung,Lexington B,overall,3,0,12
+g96,Daniel Jung,Lexington B,chemistry,1,0,4
+g96,Daniel Jung,Lexington B,ess,2,0,8
+g96,William Jung,Lexington B,overall,1,0,4
+g96,William Jung,Lexington B,physics,1,0,4
+g96,Tanmay Gupta,Lexington B,overall,2,0,8
+g96,Tanmay Gupta,Lexington B,math,1,0,4
+g96,Tanmay Gupta,Lexington B,physics,1,0,4
+g96,RISHABH GARG,NoHo B,overall,0,0,0
+g96,Penelope Swain,NoHo B,overall,0,0,0
+g96,Kira Tang,Lexington B,overall,1,0,4
+g96,Kira Tang,Lexington B,other,1,0,4
+g97,Davis,Collierville,overall,0,1,-4
+g97,Davis,Collierville,other,0,1,-4
+g97,Daniel L,Interlake A,overall,3,1,8
+g97,Daniel L,Interlake A,math,1,0,4
+g97,Daniel L,Interlake A,physics,2,1,4
+g97,Krish Prajapati,Collierville,overall,0,1,-4
+g97,Krish Prajapati,Collierville,chemistry,0,1,-4
+g97,owen fei,Interlake A,overall,3,0,12
+g97,owen fei,Interlake A,chemistry,1,0,4
+g97,owen fei,Interlake A,ess,1,0,4
+g97,owen fei,Interlake A,physics,1,0,4
+g97,Michael,Collierville,overall,3,0,12
+g97,Michael,Collierville,other,1,0,4
+g97,Michael,Collierville,math,1,0,4
+g97,Michael,Collierville,ess,1,0,4
+g97,Cindy Liu,Interlake A,overall,2,0,8
+g97,Cindy Liu,Interlake A,biology,2,0,8
+g97,Harris Chen,Collierville,overall,0,0,0
+g97,Rishabh V,Interlake A,overall,2,1,4
+g97,Rishabh V,Interlake A,other,1,1,0
+g97,Rishabh V,Interlake A,ess,1,0,4
+g98,Viraj Negandhi,Dulles,overall,8,0,32
+g98,Viraj Negandhi,Dulles,other,1,0,4
+g98,Viraj Negandhi,Dulles,math,2,0,8
+g98,Viraj Negandhi,Dulles,chemistry,3,0,12
+g98,Viraj Negandhi,Dulles,biology,1,0,4
+g98,Viraj Negandhi,Dulles,physics,1,0,4
+g98,Shlok Parija,Dulles,overall,2,0,8
+g98,Shlok Parija,Dulles,other,1,0,4
+g98,Shlok Parija,Dulles,physics,1,0,4
+g98,Annie Guo,RMHS,overall,1,0,4
+g98,Annie Guo,RMHS,math,1,0,4
+g98,Joseph Chen,RMHS,overall,3,2,4
+g98,Joseph Chen,RMHS,other,1,0,4
+g98,Joseph Chen,RMHS,chemistry,0,1,-4
+g98,Joseph Chen,RMHS,ess,2,0,8
+g98,Joseph Chen,RMHS,biology,0,1,-4
+g98,justin,Dulles,overall,0,0,0
+g98,Vincent T,RMHS,overall,0,0,0
+g98,Rushil Shah,Dulles,overall,4,0,16
+g98,Rushil Shah,Dulles,math,1,0,4
+g98,Rushil Shah,Dulles,ess,1,0,4
+g98,Rushil Shah,Dulles,physics,2,0,8
+g99,michael warsono,Venice,overall,4,0,16
+g99,michael warsono,Venice,other,2,0,8
+g99,michael warsono,Venice,math,1,0,4
+g99,michael warsono,Venice,ess,1,0,4
+g99,Fateh Aliyev,Venice,overall,3,0,12
+g99,Fateh Aliyev,Venice,math,1,0,4
+g99,Fateh Aliyev,Venice,physics,2,0,8
+g99,Eric Chen,Wayzata,overall,2,1,4
+g99,Eric Chen,Wayzata,other,1,1,0
+g99,Eric Chen,Wayzata,math,1,0,4
+g99,Lidia P.,Venice,overall,3,1,8
+g99,Lidia P.,Venice,chemistry,2,0,8
+g99,Lidia P.,Venice,biology,1,1,0
+g99,Aneesh Swaminathan,Wayzata,overall,3,2,4
+g99,Aneesh Swaminathan,Wayzata,chemistry,0,1,-4
+g99,Aneesh Swaminathan,Wayzata,ess,1,0,4
+g99,Aneesh Swaminathan,Wayzata,biology,2,0,8
+g99,Aneesh Swaminathan,Wayzata,physics,0,1,-4
+g99,Thaddeus Stefanski-Hall,Venice,overall,3,0,12
+g99,Thaddeus Stefanski-Hall,Venice,ess,2,0,8
+g99,Thaddeus Stefanski-Hall,Venice,physics,1,0,4
+g99,KHOI LE,Wayzata,overall,0,0,0
+g99,SAMARTH RAM,Wayzata,overall,0,1,-4
+g99,SAMARTH RAM,Wayzata,biology,0,1,-4
+g100,Alex Xu,Canyon Crest,overall,1,0,4
+g100,Alex Xu,Canyon Crest,biology,1,0,4
+g100,Andrew Tang,Naperville North,overall,3,0,12
+g100,Andrew Tang,Naperville North,chemistry,2,0,8
+g100,Andrew Tang,Naperville North,physics,1,0,4
+g100,Kai Liu,Naperville North,overall,4,0,16
+g100,Kai Liu,Naperville North,other,2,0,8
+g100,Kai Liu,Naperville North,math,1,0,4
+g100,Kai Liu,Naperville North,physics,1,0,4
+g100,Flora Jiang,Canyon Crest,overall,4,0,16
+g100,Flora Jiang,Canyon Crest,ess,3,0,12
+g100,Flora Jiang,Canyon Crest,physics,1,0,4
+g100,Austin Xu,Canyon Crest,overall,0,0,0
+g100,Claire Chen,Naperville North,overall,0,0,0
+g100,Jeffery Tong,Naperville North,overall,1,0,4
+g100,Jeffery Tong,Naperville North,math,1,0,4
+g100,Dingjia Shen,Naperville North,overall,1,0,4
+g100,Dingjia Shen,Naperville North,physics,1,0,4
+g101,boheng cao,NoHo,overall,3,0,12
+g101,boheng cao,NoHo,other,1,0,4
+g101,boheng cao,NoHo,math,1,0,4
+g101,boheng cao,NoHo,physics,1,0,4
+g101,Tristan Kay,Interlake B,overall,2,0,8
+g101,Tristan Kay,Interlake B,math,2,0,8
+g101,Shiv Mehrotra,Interlake B,overall,3,1,8
+g101,Shiv Mehrotra,Interlake B,other,1,0,4
+g101,Shiv Mehrotra,Interlake B,chemistry,1,1,0
+g101,Shiv Mehrotra,Interlake B,physics,1,0,4
+g101,Adeline Sun,NoHo,overall,1,1,0
+g101,Adeline Sun,NoHo,other,1,0,4
+g101,Adeline Sun,NoHo,chemistry,0,1,-4
+g101,Darrien Liang,Interlake B,overall,2,0,8
+g101,Darrien Liang,Interlake B,other,1,0,4
+g101,Darrien Liang,Interlake B,ess,1,0,4
+g101,Grace C,Interlake B,overall,1,1,0
+g101,Grace C,Interlake B,biology,1,1,0
+g101,Richard Zhu,NoHo,overall,1,1,0
+g101,Richard Zhu,NoHo,biology,0,1,-4
+g101,Richard Zhu,NoHo,physics,1,0,4
+g101,Alex Franks,NoHo,overall,3,1,8
+g101,Alex Franks,NoHo,chemistry,2,0,8
+g101,Alex Franks,NoHo,ess,1,1,0
+g102,Phoenix Wu,Seven Lakes,overall,7,1,24
+g102,Phoenix Wu,Seven Lakes,other,3,0,12
+g102,Phoenix Wu,Seven Lakes,chemistry,2,1,4
+g102,Phoenix Wu,Seven Lakes,ess,1,0,4
+g102,Phoenix Wu,Seven Lakes,physics,1,0,4
+g102,Mason Yu,Westminster,overall,5,1,16
+g102,Mason Yu,Westminster,other,1,0,4
+g102,Mason Yu,Westminster,ess,1,0,4
+g102,Mason Yu,Westminster,biology,1,1,0
+g102,Mason Yu,Westminster,physics,2,0,8
+g102,Albert Tang,Westminster,overall,2,1,4
+g102,Albert Tang,Westminster,chemistry,2,1,4
+g102,Vishal Surya,Seven Lakes,overall,3,1,8
+g102,Vishal Surya,Seven Lakes,biology,3,1,8
+g102,Michael Xiang,Seven Lakes,overall,1,0,4
+g102,Michael Xiang,Seven Lakes,math,1,0,4
+g102,Chris Chen,Westminster,overall,2,0,8
+g102,Chris Chen,Westminster,math,1,0,4
+g102,Chris Chen,Westminster,physics,1,0,4
+g102,Andy Teng,Seven Lakes,overall,1,0,4
+g102,Andy Teng,Seven Lakes,ess,1,0,4
+g103,Yuvan Chali,Ladue,overall,2,0,8
+g103,Yuvan Chali,Ladue,other,2,0,8
+g103,Aditya Jain,Ladue,overall,3,0,12
+g103,Aditya Jain,Ladue,other,1,0,4
+g103,Aditya Jain,Ladue,math,1,0,4
+g103,Aditya Jain,Ladue,biology,1,0,4
+g103,Rayticulum,Middleton,overall,4,1,12
+g103,Rayticulum,Middleton,ess,2,0,8
+g103,Rayticulum,Middleton,physics,2,1,4
+g103,Harry Jin,Middleton,overall,6,0,24
+g103,Harry Jin,Middleton,other,1,0,4
+g103,Harry Jin,Middleton,chemistry,3,0,12
+g103,Harry Jin,Middleton,ess,2,0,8
+g103,Rohan Suri,Ladue,overall,1,0,4
+g103,Rohan Suri,Ladue,physics,1,0,4
+g103,Owen Weisenberger,Middleton,overall,1,0,4
+g103,Owen Weisenberger,Middleton,biology,1,0,4
+g103,Abheek Dhawan,Ladue,overall,1,0,4
+g103,Abheek Dhawan,Ladue,physics,1,0,4
+g104,Evin Liang,Lexington A,overall,8,1,28
+g104,Evin Liang,Lexington A,other,2,0,8
+g104,Evin Liang,Lexington A,math,2,0,8
+g104,Evin Liang,Lexington A,ess,0,1,-4
+g104,Evin Liang,Lexington A,physics,4,0,16
+g104,Shreyas Ekanathan,Lexington A,overall,0,1,-4
+g104,Shreyas Ekanathan,Lexington A,math,0,1,-4
+g104,Samuel Zhou,MSJ,overall,3,2,4
+g104,Samuel Zhou,MSJ,math,2,1,4
+g104,Samuel Zhou,MSJ,ess,1,0,4
+g104,Samuel Zhou,MSJ,physics,0,1,-4
+g104,Annie Xu,MSJ,overall,1,1,0
+g104,Annie Xu,MSJ,chemistry,1,1,0
+g104,David Zhou,Lexington A,overall,1,0,4
+g104,David Zhou,Lexington A,ess,1,0,4
+g104,Gokulanath Mahesh Kumar,MSJ,overall,4,0,16
+g104,Gokulanath Mahesh Kumar,MSJ,biology,4,0,16
+g104,Sahas Goli,MSJ,overall,2,1,4
+g104,Sahas Goli,MSJ,other,2,0,8
+g104,Sahas Goli,MSJ,ess,0,1,-4
+g104,Anuprabha Dandapat,Lexington A,overall,1,1,0
+g104,Anuprabha Dandapat,Lexington A,chemistry,1,1,0
+g104,Jerry Yuan,MSJ,overall,0,0,0
+g105,Mihir Kulkarni,Niskayuna,overall,5,0,20
+g105,Mihir Kulkarni,Niskayuna,other,1,0,4
+g105,Mihir Kulkarni,Niskayuna,math,2,0,8
+g105,Mihir Kulkarni,Niskayuna,chemistry,1,0,4
+g105,Mihir Kulkarni,Niskayuna,biology,1,0,4
+g105,Alex P,Niskayuna,overall,2,0,8
+g105,Alex P,Niskayuna,ess,2,0,8
+g105,Oscar,Niskayuna,overall,0,1,-4
+g105,Oscar,Niskayuna,other,0,1,-4
+g105,Arjun R,Niskayuna,overall,1,0,4
+g105,Arjun R,Niskayuna,physics,1,0,4
+g106,Jake Wang,Cupertino,overall,4,2,8
+g106,Jake Wang,Cupertino,other,1,1,0
+g106,Jake Wang,Cupertino,ess,1,1,0
+g106,Jake Wang,Cupertino,physics,2,0,8
+g106,Evan Zhang,Blair C,overall,1,0,4
+g106,Evan Zhang,Blair C,math,1,0,4
+g106,Aaditya Karnataki,Cupertino,overall,2,0,8
+g106,Aaditya Karnataki,Cupertino,chemistry,1,0,4
+g106,Aaditya Karnataki,Cupertino,biology,1,0,4
+g106,Kian Dhawan,Blair C,overall,0,1,-4
+g106,Kian Dhawan,Blair C,biology,0,1,-4
+g106,Aditi Gargeshwari,Cupertino,overall,0,0,0
+g106,Chaewoon Kyoung,Blair C,overall,1,0,4
+g106,Chaewoon Kyoung,Blair C,math,1,0,4
+g106,rom,Cupertino,overall,0,0,0
+g106,Gugan Thuduppathy,Blair C,overall,4,0,16
+g106,Gugan Thuduppathy,Blair C,chemistry,3,0,12
+g106,Gugan Thuduppathy,Blair C,physics,1,0,4
+g107,Nicholas Dang,Buchholz A,overall,2,0,8
+g107,Nicholas Dang,Buchholz A,other,1,0,4
+g107,Nicholas Dang,Buchholz A,chemistry,1,0,4
+g107,Emmy B,Davidson,overall,4,0,16
+g107,Emmy B,Davidson,other,1,0,4
+g107,Emmy B,Davidson,chemistry,2,0,8
+g107,Emmy B,Davidson,ess,1,0,4
+g107,Andrey Nikitin,Buchholz A,overall,2,4,-8
+g107,Andrey Nikitin,Buchholz A,chemistry,1,0,4
+g107,Andrey Nikitin,Buchholz A,ess,1,0,4
+g107,Andrey Nikitin,Buchholz A,biology,0,3,-12
+g107,Andrey Nikitin,Buchholz A,physics,0,1,-4
+g107,Yajur,Davidson,overall,1,1,0
+g107,Yajur,Davidson,chemistry,0,1,-4
+g107,Yajur,Davidson,biology,1,0,4
+g107,Akshansh Chauhan,Davidson,overall,4,0,16
+g107,Akshansh Chauhan,Davidson,other,2,0,8
+g107,Akshansh Chauhan,Davidson,physics,2,0,8
+g107,Ahan Mishra,Buchholz A,overall,1,1,0
+g107,Ahan Mishra,Buchholz A,other,0,1,-4
+g107,Ahan Mishra,Buchholz A,physics,1,0,4
+g107,Ethan C,Davidson,overall,1,0,4
+g107,Ethan C,Davidson,math,1,0,4
+g107,Emmanuel Zheng,Buchholz A,overall,1,0,4
+g107,Emmanuel Zheng,Buchholz A,ess,1,0,4
+g108,Edward Zhang,NCSSM B,overall,3,1,8
+g108,Edward Zhang,NCSSM B,math,1,0,4
+g108,Edward Zhang,NCSSM B,biology,0,1,-4
+g108,Edward Zhang,NCSSM B,physics,2,0,8
+g108,Sebi Kumar,Tesla STEM,overall,2,0,8
+g108,Sebi Kumar,Tesla STEM,chemistry,2,0,8
+g108,Vikas Sarvasya,NCSSM B,overall,2,0,8
+g108,Vikas Sarvasya,NCSSM B,other,1,0,4
+g108,Vikas Sarvasya,NCSSM B,math,1,0,4
+g108,Evan Kim,Tesla STEM,overall,1,0,4
+g108,Evan Kim,Tesla STEM,math,1,0,4
+g108,Madhav Karthikeyan,NCSSM B,overall,3,1,8
+g108,Madhav Karthikeyan,NCSSM B,chemistry,1,0,4
+g108,Madhav Karthikeyan,NCSSM B,ess,1,0,4
+g108,Madhav Karthikeyan,NCSSM B,biology,1,1,0
+g108,Aashray Chegu,Tesla STEM,overall,4,1,12
+g108,Aashray Chegu,Tesla STEM,other,2,1,4
+g108,Aashray Chegu,Tesla STEM,ess,2,0,8
+g108,Tejas P,Tesla STEM,overall,0,0,0
+g108,Sami Khan,Tesla STEM,overall,2,0,8
+g108,Sami Khan,Tesla STEM,physics,2,0,8
+g109,Caleb Zhao,Blair A,overall,6,3,12
+g109,Caleb Zhao,Blair A,other,1,0,4
+g109,Caleb Zhao,Blair A,chemistry,2,1,4
+g109,Caleb Zhao,Blair A,ess,1,0,4
+g109,Caleb Zhao,Blair A,biology,1,2,-4
+g109,Caleb Zhao,Blair A,physics,1,0,4
+g109,Alex Patton,Green Hope,overall,2,0,8
+g109,Alex Patton,Green Hope,other,1,0,4
+g109,Alex Patton,Green Hope,chemistry,1,0,4
+g109,Justin Chen,Blair A,overall,4,0,16
+g109,Justin Chen,Blair A,other,1,0,4
+g109,Justin Chen,Blair A,math,1,0,4
+g109,Justin Chen,Blair A,ess,1,0,4
+g109,Justin Chen,Blair A,physics,1,0,4
+g109,Varun Kute,Green Hope,overall,1,0,4
+g109,Varun Kute,Green Hope,math,1,0,4
+g109,Leo Yang,Green Hope,overall,1,0,4
+g109,Leo Yang,Green Hope,math,1,0,4
+g109,Harsh Ambardekar,Green Hope,overall,1,0,4
+g109,Harsh Ambardekar,Green Hope,ess,1,0,4
+g109,Erik,Green Hope,overall,0,0,0
+g109,Stephen Chen,Blair A,overall,3,0,12
+g109,Stephen Chen,Blair A,other,1,0,4
+g109,Stephen Chen,Blair A,physics,2,0,8
+g110,Michael Wei,Buchholz B,overall,4,1,12
+g110,Michael Wei,Buchholz B,other,1,0,4
+g110,Michael Wei,Buchholz B,math,1,0,4
+g110,Michael Wei,Buchholz B,chemistry,2,0,8
+g110,Michael Wei,Buchholz B,biology,0,1,-4
+g110,David Lee,Lynbrook,overall,2,1,4
+g110,David Lee,Lynbrook,other,0,1,-4
+g110,David Lee,Lynbrook,math,1,0,4
+g110,David Lee,Lynbrook,ess,1,0,4
+g110,samuel wang,Lynbrook,overall,4,0,16
+g110,samuel wang,Lynbrook,other,1,0,4
+g110,samuel wang,Lynbrook,ess,3,0,12
+g110,antone jung,Lynbrook,overall,1,0,4
+g110,antone jung,Lynbrook,biology,1,0,4
+g110,Pranjal Chatterjee,Lynbrook,overall,1,0,4
+g110,Pranjal Chatterjee,Lynbrook,physics,1,0,4
+g110,Abhinav Pothuri,Buchholz B,overall,2,0,8
+g110,Abhinav Pothuri,Buchholz B,other,1,0,4
+g110,Abhinav Pothuri,Buchholz B,chemistry,1,0,4
+g110,Sohil Rathi,Lynbrook,overall,3,2,4
+g110,Sohil Rathi,Lynbrook,other,1,0,4
+g110,Sohil Rathi,Lynbrook,math,0,1,-4
+g110,Sohil Rathi,Lynbrook,biology,0,1,-4
+g110,Sohil Rathi,Lynbrook,physics,2,0,8
+g110,Vijay Hans,Buchholz B,overall,0,0,0
+g110,Laurie Wang,Buchholz B,overall,0,0,0
+g111,Yufei Chen,University,overall,11,4,28
+g111,Yufei Chen,University,other,2,0,8
+g111,Yufei Chen,University,math,1,0,4
+g111,Yufei Chen,University,chemistry,1,0,4
+g111,Yufei Chen,University,ess,3,1,8
+g111,Yufei Chen,University,biology,1,3,-8
+g111,Yufei Chen,University,physics,3,0,12
+g111,Feodor Yevtushenko,University,overall,2,0,8
+g111,Feodor Yevtushenko,University,math,1,0,4
+g111,Feodor Yevtushenko,University,chemistry,1,0,4
+g111,Mir Park,Pullman,overall,0,1,-4
+g111,Mir Park,Pullman,other,0,1,-4
+g111,Aditya Bose-Bandyopadhyay,Pullman,overall,2,0,8
+g111,Aditya Bose-Bandyopadhyay,Pullman,math,1,0,4
+g111,Aditya Bose-Bandyopadhyay,Pullman,physics,1,0,4
+g111,Nathan Ouyang,University,overall,4,0,16
+g111,Nathan Ouyang,University,other,2,0,8
+g111,Nathan Ouyang,University,chemistry,2,0,8
+g111,Jasper Premo,Pullman,overall,0,1,-4
+g111,Jasper Premo,Pullman,physics,0,1,-4
+g111,William Miller,Pullman,overall,0,1,-4
+g111,William Miller,Pullman,other,0,1,-4
+g112,Joshua Wang,Brookfield,overall,10,0,40
+g112,Joshua Wang,Brookfield,other,2,0,8
+g112,Joshua Wang,Brookfield,math,1,0,4
+g112,Joshua Wang,Brookfield,chemistry,1,0,4
+g112,Joshua Wang,Brookfield,ess,1,0,4
+g112,Joshua Wang,Brookfield,biology,1,0,4
+g112,Joshua Wang,Brookfield,physics,4,0,16
+g112,Elias Mrug,ASFA,overall,5,1,16
+g112,Elias Mrug,ASFA,other,1,0,4
+g112,Elias Mrug,ASFA,math,1,1,0
+g112,Elias Mrug,ASFA,chemistry,2,0,8
+g112,Elias Mrug,ASFA,ess,1,0,4
+g112,Kartik Ramachandrula,Brookfield,overall,2,0,8
+g112,Kartik Ramachandrula,Brookfield,math,2,0,8
+g112,Daniel,ASFA,overall,0,0,0
+g112,Rishi Yellamraju,ASFA,overall,0,0,0
+g112,Dexter Gard,ASFA,overall,1,0,4
+g112,Dexter Gard,ASFA,other,1,0,4
+g112,Vaidehi Ramachandrula,Brookfield,overall,0,0,0
+g113,Brian Zhang,Enloe A,overall,3,2,4
+g113,Brian Zhang,Enloe A,other,1,1,0
+g113,Brian Zhang,Enloe A,ess,1,1,0
+g113,Brian Zhang,Enloe A,physics,1,0,4
+g113,Colin Hanes,Enloe A,overall,6,1,20
+g113,Colin Hanes,Enloe A,other,0,1,-4
+g113,Colin Hanes,Enloe A,chemistry,3,0,12
+g113,Colin Hanes,Enloe A,physics,3,0,12
+g113,Rishabh Bedidha,Enloe A,overall,2,0,8
+g113,Rishabh Bedidha,Enloe A,biology,2,0,8
+g113,Rohit Hari,Enloe A,overall,2,0,8
+g113,Rohit Hari,Enloe A,other,1,0,4
+g113,Rohit Hari,Enloe A,ess,1,0,4
+g114,Aditya Sivakumar,Mira Loma,overall,9,2,28
+g114,Aditya Sivakumar,Mira Loma,other,1,0,4
+g114,Aditya Sivakumar,Mira Loma,math,1,1,0
+g114,Aditya Sivakumar,Mira Loma,chemistry,1,0,4
+g114,Aditya Sivakumar,Mira Loma,ess,2,0,8
+g114,Aditya Sivakumar,Mira Loma,biology,3,0,12
+g114,Aditya Sivakumar,Mira Loma,physics,1,1,0
+g114,Aditya Peddi,Troy,overall,1,0,4
+g114,Aditya Peddi,Troy,other,1,0,4
+g114,Melinda Ji,Troy,overall,2,3,-4
+g114,Melinda Ji,Troy,math,1,0,4
+g114,Melinda Ji,Troy,chemistry,0,1,-4
+g114,Melinda Ji,Troy,ess,1,0,4
+g114,Melinda Ji,Troy,biology,0,2,-8
+g114,Sarthak,Mira Loma,overall,2,0,8
+g114,Sarthak,Mira Loma,chemistry,1,0,4
+g114,Sarthak,Mira Loma,physics,1,0,4
+g114,Jason Dong,Troy,overall,0,2,-8
+g114,Jason Dong,Troy,chemistry,0,1,-4
+g114,Jason Dong,Troy,physics,0,1,-4
+g114,Nipun D,Mira Loma,overall,2,0,8
+g114,Nipun D,Mira Loma,chemistry,2,0,8
+g114,Chris John,Troy,overall,3,0,12
+g114,Chris John,Troy,other,1,0,4
+g114,Chris John,Troy,ess,1,0,4
+g114,Chris John,Troy,physics,1,0,4
+g115,Anurag Sodhi,Centennial,overall,13,1,48
+g115,Anurag Sodhi,Centennial,other,3,0,12
+g115,Anurag Sodhi,Centennial,math,2,0,8
+g115,Anurag Sodhi,Centennial,chemistry,3,0,12
+g115,Anurag Sodhi,Centennial,ess,1,0,4
+g115,Anurag Sodhi,Centennial,biology,2,1,4
+g115,Anurag Sodhi,Centennial,physics,2,0,8
+g115,Ryan Eto,Iolani,overall,1,0,4
+g115,Ryan Eto,Iolani,ess,1,0,4
+g115,Allison Eto,Iolani,overall,2,0,8
+g115,Allison Eto,Iolani,ess,1,0,4
+g115,Allison Eto,Iolani,physics,1,0,4
+g115,Ryan Chang,Centennial,overall,1,0,4
+g115,Ryan Chang,Centennial,ess,1,0,4
+g116,Kaiwen,Enloe B,overall,7,2,20
+g116,Kaiwen,Enloe B,other,2,2,0
+g116,Kaiwen,Enloe B,chemistry,3,0,12
+g116,Kaiwen,Enloe B,physics,2,0,8
+g116,Vishnu Mangipudi,Lakeside,overall,5,1,16
+g116,Vishnu Mangipudi,Lakeside,other,1,1,0
+g116,Vishnu Mangipudi,Lakeside,chemistry,1,0,4
+g116,Vishnu Mangipudi,Lakeside,ess,1,0,4
+g116,Vishnu Mangipudi,Lakeside,physics,2,0,8
+g116,Michael Yang,Lakeside,overall,2,0,8
+g116,Michael Yang,Lakeside,other,1,0,4
+g116,Michael Yang,Lakeside,math,1,0,4
+g116,Vedang Singhal,Enloe B,overall,3,1,8
+g116,Vedang Singhal,Enloe B,ess,2,0,8
+g116,Vedang Singhal,Enloe B,biology,1,1,0
+g116,Sukrith Velmineti,Enloe B,overall,2,0,8
+g116,Sukrith Velmineti,Enloe B,math,1,0,4
+g116,Sukrith Velmineti,Enloe B,ess,1,0,4
+g116,Rohan Dhillon,Lakeside,overall,0,1,-4
+g116,Rohan Dhillon,Lakeside,ess,0,1,-4
+g116,Jerry Cao-Xue,Enloe B,overall,1,0,4
+g116,Jerry Cao-Xue,Enloe B,biology,1,0,4
+g117,Josh Shi,PRISMS,overall,2,0,8
+g117,Josh Shi,PRISMS,other,1,0,4
+g117,Josh Shi,PRISMS,ess,1,0,4
+g117,Aldric Benalan,WWPN,overall,8,0,32
+g117,Aldric Benalan,WWPN,other,2,0,8
+g117,Aldric Benalan,WWPN,ess,3,0,12
+g117,Aldric Benalan,WWPN,physics,3,0,12
+g117,Cedric Xiao,PRISMS,overall,3,0,12
+g117,Cedric Xiao,PRISMS,math,2,0,8
+g117,Cedric Xiao,PRISMS,chemistry,1,0,4
+g117,Shreyash,WWPN,overall,1,1,0
+g117,Shreyash,WWPN,other,1,0,4
+g117,Shreyash,WWPN,math,0,1,-4
+g117,Krutharth,WWPN,overall,4,0,16
+g117,Krutharth,WWPN,biology,4,0,16
+g117,Rithik Gumpu,WWPN,overall,1,0,4
+g117,Rithik Gumpu,WWPN,math,1,0,4
+g117,arjun avineni,WWPN,overall,0,0,0
+g117,Felicity Ni,PRISMS,overall,2,0,8
+g117,Felicity Ni,PRISMS,math,1,0,4
+g117,Felicity Ni,PRISMS,chemistry,1,0,4
+g118,William Jung,Lexington B,overall,3,1,8
+g118,William Jung,Lexington B,other,1,0,4
+g118,William Jung,Lexington B,chemistry,2,1,4
+g118,Jack Finneran,AHS Broward,overall,1,1,0
+g118,Jack Finneran,AHS Broward,chemistry,0,1,-4
+g118,Jack Finneran,AHS Broward,ess,1,0,4
+g118,Daniel Jung,Lexington B,overall,3,0,12
+g118,Daniel Jung,Lexington B,other,1,0,4
+g118,Daniel Jung,Lexington B,ess,2,0,8
+g118,Sanshray Singh,AHS Broward,overall,0,0,0
+g118,Jerry Xu,Lexington B,overall,0,0,0
+g118,Alan Wu,AHS Broward,overall,1,0,4
+g118,Alan Wu,AHS Broward,other,1,0,4
+g118,Tanmay Gupta,Lexington B,overall,4,0,16
+g118,Tanmay Gupta,Lexington B,other,1,0,4
+g118,Tanmay Gupta,Lexington B,physics,3,0,12
+g118,Rithvik Marri,AHS Broward,overall,2,0,8
+g118,Rithvik Marri,AHS Broward,math,1,0,4
+g118,Rithvik Marri,AHS Broward,biology,1,0,4
+g118,Sharvaa Selvan,AHS Broward,overall,0,0,0
+g119,Bo Chi,NCSSM A,overall,2,0,8
+g119,Bo Chi,NCSSM A,chemistry,1,0,4
+g119,Bo Chi,NCSSM A,biology,1,0,4
+g119,Anagh Sheth,JP Stevens,overall,3,0,12
+g119,Anagh Sheth,JP Stevens,other,1,0,4
+g119,Anagh Sheth,JP Stevens,biology,1,0,4
+g119,Anagh Sheth,JP Stevens,physics,1,0,4
+g119,Eli Park,NCSSM A,overall,3,0,12
+g119,Eli Park,NCSSM A,math,3,0,12
+g119,Om Lad,JP Stevens,overall,1,0,4
+g119,Om Lad,JP Stevens,chemistry,1,0,4
+g119,Nikhil Sampath,NCSSM A,overall,1,0,4
+g119,Nikhil Sampath,NCSSM A,ess,1,0,4
+g119,Aditya Vatsavai,NCSSM A,overall,3,0,12
+g119,Aditya Vatsavai,NCSSM A,ess,1,0,4
+g119,Aditya Vatsavai,NCSSM A,physics,2,0,8
+g119,Avanesh Vijayakumar,NCSSM A,overall,1,0,4
+g119,Avanesh Vijayakumar,NCSSM A,other,1,0,4
+g119,Aryan Ahire,JP Stevens,overall,0,0,0
+g120,Connor Z,NoHo B,overall,5,1,16
+g120,Connor Z,NoHo B,math,2,0,8
+g120,Connor Z,NoHo B,chemistry,1,1,0
+g120,Connor Z,NoHo B,physics,2,0,8
+g120,Aditya Jha,Shen,overall,0,0,0
+g120,RISHABH GARG,NoHo B,overall,2,0,8
+g120,RISHABH GARG,NoHo B,math,1,0,4
+g120,RISHABH GARG,NoHo B,biology,1,0,4
+g120,Anthony Yang,Shen,overall,0,0,0
+g120,Edward,Shen,overall,10,0,40
+g120,Edward,Shen,math,1,0,4
+g120,Edward,Shen,chemistry,1,0,4
+g120,Edward,Shen,ess,3,0,12
+g120,Edward,Shen,biology,3,0,12
+g120,Edward,Shen,physics,2,0,8
+g120,Danny Kim,NoHo B,overall,1,0,4
+g120,Danny Kim,NoHo B,other,1,0,4
+g121,Yufei Chen,University,overall,7,1,24
+g121,Yufei Chen,University,other,2,0,8
+g121,Yufei Chen,University,math,1,0,4
+g121,Yufei Chen,University,chemistry,2,1,4
+g121,Yufei Chen,University,biology,2,0,8
+g121,Eli Park,NCSSM A,overall,1,0,4
+g121,Eli Park,NCSSM A,math,1,0,4
+g121,Wendy Cao,University,overall,3,0,12
+g121,Wendy Cao,University,other,1,0,4
+g121,Wendy Cao,University,ess,2,0,8
+g121,Aditya Vatsavai,NCSSM A,overall,1,0,4
+g121,Aditya Vatsavai,NCSSM A,physics,1,0,4
+g121,Feodor Yevtushenko,University,overall,1,0,4
+g121,Feodor Yevtushenko,University,math,1,0,4
+g121,Bo Chi,NCSSM A,overall,0,1,-4
+g121,Bo Chi,NCSSM A,other,0,1,-4
+g121,Avanesh Vijayakumar,NCSSM A,overall,1,1,0
+g121,Avanesh Vijayakumar,NCSSM A,ess,1,0,4
+g121,Avanesh Vijayakumar,NCSSM A,biology,0,1,-4
+g121,Nikhil Sampath,NCSSM A,overall,0,1,-4
+g121,Nikhil Sampath,NCSSM A,ess,0,1,-4
+g121,Nathan Ouyang,University,overall,1,0,4
+g121,Nathan Ouyang,University,chemistry,1,0,4
+g122,Anurag Sodhi,Centennial,overall,9,1,32
+g122,Anurag Sodhi,Centennial,other,1,0,4
+g122,Anurag Sodhi,Centennial,math,3,0,12
+g122,Anurag Sodhi,Centennial,chemistry,3,0,12
+g122,Anurag Sodhi,Centennial,ess,1,1,0
+g122,Anurag Sodhi,Centennial,biology,1,0,4
+g122,Sahas Goli,MSJ,overall,2,0,8
+g122,Sahas Goli,MSJ,other,1,0,4
+g122,Sahas Goli,MSJ,ess,1,0,4
+g122,Arif V,Centennial,overall,0,0,0
+g122,Samuel Zhou,MSJ,overall,2,0,8
+g122,Samuel Zhou,MSJ,math,1,0,4
+g122,Samuel Zhou,MSJ,physics,1,0,4
+g122,Gokulanath Mahesh Kumar,MSJ,overall,0,1,-4
+g122,Gokulanath Mahesh Kumar,MSJ,biology,0,1,-4
+g122,Jerry Yuan,MSJ,overall,2,0,8
+g122,Jerry Yuan,MSJ,other,1,0,4
+g122,Jerry Yuan,MSJ,ess,1,0,4
+g123,boheng cao,NoHo,overall,2,0,8
+g123,boheng cao,NoHo,chemistry,1,0,4
+g123,boheng cao,NoHo,physics,1,0,4
+g123,Aashray Chegu,Tesla STEM,overall,0,0,0
+g123,Sami Khan,Tesla STEM,overall,1,0,4
+g123,Sami Khan,Tesla STEM,math,1,0,4
+g123,Alex Franks,NoHo,overall,6,0,24
+g123,Alex Franks,NoHo,other,3,0,12
+g123,Alex Franks,NoHo,ess,3,0,12
+g123,Richard Zhu,NoHo,overall,3,0,12
+g123,Richard Zhu,NoHo,biology,3,0,12
+g123,Evan Kim,Tesla STEM,overall,1,0,4
+g123,Evan Kim,Tesla STEM,math,1,0,4
+g123,Adeline Sun,NoHo,overall,1,1,0
+g123,Adeline Sun,NoHo,chemistry,1,1,0
+g123,Sebi Kumar,Tesla STEM,overall,1,0,4
+g123,Sebi Kumar,Tesla STEM,chemistry,1,0,4
+g124,justin,Dulles,overall,2,0,8
+g124,justin,Dulles,biology,2,0,8
+g124,Aditya Sivakumar,Mira Loma,overall,5,2,12
+g124,Aditya Sivakumar,Mira Loma,other,1,0,4
+g124,Aditya Sivakumar,Mira Loma,math,1,0,4
+g124,Aditya Sivakumar,Mira Loma,chemistry,1,0,4
+g124,Aditya Sivakumar,Mira Loma,biology,0,2,-8
+g124,Aditya Sivakumar,Mira Loma,physics,2,0,8
+g124,Viraj Negandhi,Dulles,overall,6,1,20
+g124,Viraj Negandhi,Dulles,other,1,0,4
+g124,Viraj Negandhi,Dulles,chemistry,2,1,4
+g124,Viraj Negandhi,Dulles,ess,2,0,8
+g124,Viraj Negandhi,Dulles,physics,1,0,4
+g124,Nipun D,Mira Loma,overall,1,2,-4
+g124,Nipun D,Mira Loma,other,0,1,-4
+g124,Nipun D,Mira Loma,chemistry,1,1,0
+g124,Shlok Parija,Dulles,overall,1,0,4
+g124,Shlok Parija,Dulles,ess,1,0,4
+g124,Sarthak,Mira Loma,overall,0,0,0
+g124,Rushil Shah,Dulles,overall,0,0,0
+g124,Harish Premkumar,Mira Loma,overall,1,0,4
+g124,Harish Premkumar,Mira Loma,math,1,0,4
+g125,Caleb Zhao,Blair A,overall,3,1,8
+g125,Caleb Zhao,Blair A,other,2,0,8
+g125,Caleb Zhao,Blair A,biology,0,1,-4
+g125,Caleb Zhao,Blair A,physics,1,0,4
+g125,Jerry Xu,Lexington B,overall,3,0,12
+g125,Jerry Xu,Lexington B,math,1,0,4
+g125,Jerry Xu,Lexington B,biology,2,0,8
+g125,Tanmay Gupta,Lexington B,overall,1,0,4
+g125,Tanmay Gupta,Lexington B,ess,1,0,4
+g125,Justin Chen,Blair A,overall,4,0,16
+g125,Justin Chen,Blair A,other,1,0,4
+g125,Justin Chen,Blair A,math,1,0,4
+g125,Justin Chen,Blair A,ess,1,0,4
+g125,Justin Chen,Blair A,physics,1,0,4
+g125,Stephen Chen,Blair A,overall,2,0,8
+g125,Stephen Chen,Blair A,other,1,0,4
+g125,Stephen Chen,Blair A,math,1,0,4
+g125,Daniel Jung,Lexington B,overall,4,1,12
+g125,Daniel Jung,Lexington B,other,0,1,-4
+g125,Daniel Jung,Lexington B,chemistry,2,0,8
+g125,Daniel Jung,Lexington B,ess,2,0,8
+g126,Evin Liang,Lexington A,overall,5,0,20
+g126,Evin Liang,Lexington A,other,1,0,4
+g126,Evin Liang,Lexington A,math,2,0,8
+g126,Evin Liang,Lexington A,ess,1,0,4
+g126,Evin Liang,Lexington A,physics,1,0,4
+g126,Tristan Kay,Interlake B,overall,1,0,4
+g126,Tristan Kay,Interlake B,math,1,0,4
+g126,Anuprabha Dandapat,Lexington A,overall,2,0,8
+g126,Anuprabha Dandapat,Lexington A,chemistry,2,0,8
+g126,David Zhou,Lexington A,overall,5,1,16
+g126,David Zhou,Lexington A,other,2,1,4
+g126,David Zhou,Lexington A,ess,3,0,12
+g126,Damon Gurvich,Lexington A,overall,1,1,0
+g126,Damon Gurvich,Lexington A,biology,1,1,0
+g126,Darrien Liang,Interlake B,overall,1,0,4
+g126,Darrien Liang,Interlake B,other,1,0,4
+g126,Shiv Mehrotra,Interlake B,overall,1,0,4
+g126,Shiv Mehrotra,Interlake B,chemistry,1,0,4
+g126,Grace C,Interlake B,overall,2,0,8
+g126,Grace C,Interlake B,biology,2,0,8
+g127,Kaiwen,Enloe B,overall,7,0,28
+g127,Kaiwen,Enloe B,other,3,0,12
+g127,Kaiwen,Enloe B,math,1,0,4
+g127,Kaiwen,Enloe B,chemistry,1,0,4
+g127,Kaiwen,Enloe B,ess,1,0,4
+g127,Kaiwen,Enloe B,physics,1,0,4
+g127,owen fei,Interlake A,overall,3,1,8
+g127,owen fei,Interlake A,other,0,1,-4
+g127,owen fei,Interlake A,chemistry,3,0,12
+g127,Vedang Singhal,Enloe B,overall,3,0,12
+g127,Vedang Singhal,Enloe B,ess,2,0,8
+g127,Vedang Singhal,Enloe B,biology,1,0,4
+g127,Jerry Cao-Xue,Enloe B,overall,0,0,0
+g127,Cindy Liu,Interlake A,overall,1,0,4
+g127,Cindy Liu,Interlake A,biology,1,0,4
+g127,Daniel L,Interlake A,overall,0,0,0
+g127,Sukrith Velmineti,Enloe B,overall,2,0,8
+g127,Sukrith Velmineti,Enloe B,math,1,0,4
+g127,Sukrith Velmineti,Enloe B,ess,1,0,4
+g127,Rishabh V,Interlake A,overall,1,0,4
+g127,Rishabh V,Interlake A,other,1,0,4
+g128,Joshua Wang,Brookfield,overall,6,0,24
+g128,Joshua Wang,Brookfield,other,2,0,8
+g128,Joshua Wang,Brookfield,math,1,0,4
+g128,Joshua Wang,Brookfield,ess,2,0,8
+g128,Joshua Wang,Brookfield,biology,1,0,4
+g128,Ethan C,Davidson,overall,2,0,8
+g128,Ethan C,Davidson,math,1,0,4
+g128,Ethan C,Davidson,physics,1,0,4
+g128,Emmy B,Davidson,overall,4,0,16
+g128,Emmy B,Davidson,other,2,0,8
+g128,Emmy B,Davidson,chemistry,1,0,4
+g128,Emmy B,Davidson,ess,1,0,4
+g128,Yajur,Davidson,overall,4,0,16
+g128,Yajur,Davidson,chemistry,2,0,8
+g128,Yajur,Davidson,biology,2,0,8
+g128,Akshansh Chauhan,Davidson,overall,0,0,0
+g128,Kartik Ramachandrula,Brookfield,overall,2,0,8
+g128,Kartik Ramachandrula,Brookfield,math,2,0,8
+g128,Vaidehi Ramachandrula,Brookfield,overall,0,0,0
+g129,Caleb Zhao,Blair A,overall,7,1,24
+g129,Caleb Zhao,Blair A,other,2,0,8
+g129,Caleb Zhao,Blair A,chemistry,2,1,4
+g129,Caleb Zhao,Blair A,ess,1,0,4
+g129,Caleb Zhao,Blair A,biology,2,0,8
+g129,Justin Chen,Blair A,overall,4,0,16
+g129,Justin Chen,Blair A,math,1,0,4
+g129,Justin Chen,Blair A,chemistry,1,0,4
+g129,Justin Chen,Blair A,ess,1,0,4
+g129,Justin Chen,Blair A,physics,1,0,4
+g129,Stephen Chen,Blair A,overall,1,0,4
+g129,Stephen Chen,Blair A,physics,1,0,4
+g129,Nikhil Sampath,NCSSM A,overall,0,1,-4
+g129,Nikhil Sampath,NCSSM A,other,0,1,-4
+g129,Avanesh Vijayakumar,NCSSM A,overall,1,0,4
+g129,Avanesh Vijayakumar,NCSSM A,biology,1,0,4
+g129,Eli Park,NCSSM A,overall,1,0,4
+g129,Eli Park,NCSSM A,math,1,0,4
+g129,Bo Chi,NCSSM A,overall,1,0,4
+g129,Bo Chi,NCSSM A,chemistry,1,0,4
+g129,Aditya Vatsavai,NCSSM A,overall,1,0,4
+g129,Aditya Vatsavai,NCSSM A,ess,1,0,4
+g130,Evin Liang,Lexington A,overall,1,0,4
+g130,Evin Liang,Lexington A,other,1,0,4
+g130,Samuel Zhou,MSJ,overall,5,2,12
+g130,Samuel Zhou,MSJ,other,1,0,4
+g130,Samuel Zhou,MSJ,math,2,0,8
+g130,Samuel Zhou,MSJ,chemistry,2,0,8
+g130,Samuel Zhou,MSJ,ess,0,1,-4
+g130,Samuel Zhou,MSJ,physics,0,1,-4
+g130,Anuprabha Dandapat,Lexington A,overall,1,0,4
+g130,Anuprabha Dandapat,Lexington A,chemistry,1,0,4
+g130,Jerry Yuan,MSJ,overall,0,1,-4
+g130,Jerry Yuan,MSJ,ess,0,1,-4
+g130,David Zhou,Lexington A,overall,2,1,4
+g130,David Zhou,Lexington A,other,0,1,-4
+g130,David Zhou,Lexington A,ess,2,0,8
+g130,Damon Gurvich,Lexington A,overall,5,0,20
+g130,Damon Gurvich,Lexington A,other,1,0,4
+g130,Damon Gurvich,Lexington A,biology,3,0,12
+g130,Damon Gurvich,Lexington A,physics,1,0,4
+g130,Sahas Goli,MSJ,overall,1,0,4
+g130,Sahas Goli,MSJ,physics,1,0,4
+g130,Gokulanath Mahesh Kumar,MSJ,overall,0,0,0
+g130,Shreyas Ekanathan,Lexington A,overall,2,0,8
+g130,Shreyas Ekanathan,Lexington A,math,1,0,4
+g130,Shreyas Ekanathan,Lexington A,physics,1,0,4
+g131,Kaiwen,Enloe B,overall,2,0,8
+g131,Kaiwen,Enloe B,other,2,0,8
+g131,Evan Kim,Tesla STEM,overall,4,1,12
+g131,Evan Kim,Tesla STEM,math,2,0,8
+g131,Evan Kim,Tesla STEM,chemistry,0,1,-4
+g131,Evan Kim,Tesla STEM,physics,2,0,8
+g131,Sebi Kumar,Tesla STEM,overall,2,0,8
+g131,Sebi Kumar,Tesla STEM,chemistry,2,0,8
+g131,Vedang Singhal,Enloe B,overall,1,0,4
+g131,Vedang Singhal,Enloe B,ess,1,0,4
+g131,Aashray Chegu,Tesla STEM,overall,2,0,8
+g131,Aashray Chegu,Tesla STEM,other,1,0,4
+g131,Aashray Chegu,Tesla STEM,ess,1,0,4
+g131,Jerry Cao-Xue,Enloe B,overall,2,1,4
+g131,Jerry Cao-Xue,Enloe B,biology,2,1,4
+g131,Sukrith Velmineti,Enloe B,overall,1,0,4
+g131,Sukrith Velmineti,Enloe B,math,1,0,4
+g131,Tejas P,Tesla STEM,overall,0,0,0
+g131,Sami Khan,Tesla STEM,overall,1,0,4
+g131,Sami Khan,Tesla STEM,chemistry,1,0,4
+g132,Aditya Sivakumar,Mira Loma,overall,7,2,20
+g132,Aditya Sivakumar,Mira Loma,other,2,0,8
+g132,Aditya Sivakumar,Mira Loma,math,1,0,4
+g132,Aditya Sivakumar,Mira Loma,chemistry,1,0,4
+g132,Aditya Sivakumar,Mira Loma,ess,0,1,-4
+g132,Aditya Sivakumar,Mira Loma,biology,3,0,12
+g132,Aditya Sivakumar,Mira Loma,physics,0,1,-4
+g132,Joshua Wang,Brookfield,overall,8,2,24
+g132,Joshua Wang,Brookfield,other,1,0,4
+g132,Joshua Wang,Brookfield,math,3,0,12
+g132,Joshua Wang,Brookfield,chemistry,0,2,-8
+g132,Joshua Wang,Brookfield,ess,2,0,8
+g132,Joshua Wang,Brookfield,physics,2,0,8
+g132,Shohom Chakraborty,Mira Loma,overall,1,0,4
+g132,Shohom Chakraborty,Mira Loma,physics,1,0,4
+g132,Sarthak,Mira Loma,overall,2,0,8
+g132,Sarthak,Mira Loma,chemistry,1,0,4
+g132,Sarthak,Mira Loma,physics,1,0,4
+g132,Nipun D,Mira Loma,overall,0,0,0
+g133,Anurag Sodhi,Centennial,overall,9,1,32
+g133,Anurag Sodhi,Centennial,other,2,0,8
+g133,Anurag Sodhi,Centennial,math,2,0,8
+g133,Anurag Sodhi,Centennial,chemistry,2,0,8
+g133,Anurag Sodhi,Centennial,ess,1,0,4
+g133,Anurag Sodhi,Centennial,biology,0,1,-4
+g133,Anurag Sodhi,Centennial,physics,2,0,8
+g133,Yufei Chen,University,overall,4,1,12
+g133,Yufei Chen,University,other,1,0,4
+g133,Yufei Chen,University,chemistry,1,0,4
+g133,Yufei Chen,University,ess,0,1,-4
+g133,Yufei Chen,University,biology,2,0,8
+g133,Ryan,Centennial,overall,0,0,0
+g133,Feodor Yevtushenko,University,overall,2,1,4
+g133,Feodor Yevtushenko,University,math,1,0,4
+g133,Feodor Yevtushenko,University,physics,1,1,0
+g133,Nathan Ouyang,University,overall,2,0,8
+g133,Nathan Ouyang,University,other,1,0,4
+g133,Nathan Ouyang,University,chemistry,1,0,4
+g133,Ryan Chang,Centennial,overall,2,0,8
+g133,Ryan Chang,Centennial,ess,2,0,8
+g133,Wendy Cao,University,overall,1,0,4
+g133,Wendy Cao,University,ess,1,0,4
+g133,Julianne Wu,University,overall,1,0,4
+g133,Julianne Wu,University,biology,1,0,4
+g134,justin,Dulles,overall,0,2,-8
+g134,justin,Dulles,biology,0,2,-8
+g134,boheng cao,NoHo,overall,3,1,8
+g134,boheng cao,NoHo,other,0,1,-4
+g134,boheng cao,NoHo,math,1,0,4
+g134,boheng cao,NoHo,physics,2,0,8
+g134,Anant,Dulles,overall,2,0,8
+g134,Anant,Dulles,chemistry,1,0,4
+g134,Anant,Dulles,physics,1,0,4
+g134,Adeline Sun,NoHo,overall,1,0,4
+g134,Adeline Sun,NoHo,chemistry,1,0,4
+g134,Viraj Negandhi,Dulles,overall,4,1,12
+g134,Viraj Negandhi,Dulles,other,1,0,4
+g134,Viraj Negandhi,Dulles,math,1,0,4
+g134,Viraj Negandhi,Dulles,chemistry,1,0,4
+g134,Viraj Negandhi,Dulles,ess,0,1,-4
+g134,Viraj Negandhi,Dulles,biology,1,0,4
+g134,Alex Franks,NoHo,overall,4,0,16
+g134,Alex Franks,NoHo,ess,4,0,16
+g134,Rushil Shah,Dulles,overall,1,0,4
+g134,Rushil Shah,Dulles,math,1,0,4
+g134,Richard Zhu,NoHo,overall,3,0,12
+g134,Richard Zhu,NoHo,other,1,0,4
+g134,Richard Zhu,NoHo,chemistry,1,0,4
+g134,Richard Zhu,NoHo,biology,1,0,4
+g134,Daniel Hong,NoHo,overall,1,0,4
+g134,Daniel Hong,NoHo,other,1,0,4
+g135,Stephen Chen,Blair A,overall,1,2,-4
+g135,Stephen Chen,Blair A,math,1,1,0
+g135,Stephen Chen,Blair A,ess,0,1,-4
+g135,Samuel Zhou,MSJ,overall,0,2,-8
+g135,Samuel Zhou,MSJ,other,0,1,-4
+g135,Samuel Zhou,MSJ,math,0,1,-4
+g135,Caleb Zhao,Blair A,overall,8,1,28
+g135,Caleb Zhao,Blair A,other,1,0,4
+g135,Caleb Zhao,Blair A,chemistry,3,0,12
+g135,Caleb Zhao,Blair A,ess,1,0,4
+g135,Caleb Zhao,Blair A,biology,2,1,4
+g135,Caleb Zhao,Blair A,physics,1,0,4
+g135,Jerry Yuan,MSJ,overall,0,0,0
+g135,Justin Chen,Blair A,overall,1,1,0
+g135,Justin Chen,Blair A,other,0,1,-4
+g135,Justin Chen,Blair A,ess,1,0,4
+g135,Gokulanath Mahesh Kumar,MSJ,overall,1,1,0
+g135,Gokulanath Mahesh Kumar,MSJ,other,1,0,4
+g135,Gokulanath Mahesh Kumar,MSJ,biology,0,1,-4
+g135,Sahas Goli,MSJ,overall,2,0,8
+g135,Sahas Goli,MSJ,other,1,0,4
+g135,Sahas Goli,MSJ,ess,1,0,4
+g136,Aditya Sivakumar,Mira Loma,overall,6,3,12
+g136,Aditya Sivakumar,Mira Loma,other,1,0,4
+g136,Aditya Sivakumar,Mira Loma,chemistry,0,1,-4
+g136,Aditya Sivakumar,Mira Loma,ess,1,0,4
+g136,Aditya Sivakumar,Mira Loma,biology,3,1,8
+g136,Aditya Sivakumar,Mira Loma,physics,1,1,0
+g136,Sami Khan,Tesla STEM,overall,2,0,8
+g136,Sami Khan,Tesla STEM,physics,2,0,8
+g136,Harish Premkumar,Mira Loma,overall,0,0,0
+g136,Sebi Kumar,Tesla STEM,overall,2,0,8
+g136,Sebi Kumar,Tesla STEM,chemistry,2,0,8
+g136,Nipun D,Mira Loma,overall,2,0,8
+g136,Nipun D,Mira Loma,chemistry,1,0,4
+g136,Nipun D,Mira Loma,ess,1,0,4
+g136,Shohom Chakraborty,Mira Loma,overall,1,0,4
+g136,Shohom Chakraborty,Mira Loma,ess,1,0,4
+g136,Evan Kim,Tesla STEM,overall,2,1,4
+g136,Evan Kim,Tesla STEM,math,1,1,0
+g136,Evan Kim,Tesla STEM,ess,1,0,4
+g136,Tejas P,Tesla STEM,overall,1,0,4
+g136,Tejas P,Tesla STEM,biology,1,0,4
+g136,Sarthak,Mira Loma,overall,1,0,4
+g136,Sarthak,Mira Loma,math,1,0,4
+g136,Aashray Chegu,Tesla STEM,overall,1,0,4
+g136,Aashray Chegu,Tesla STEM,other,1,0,4
+g137,Stephen Chen,Blair A,overall,3,0,12
+g137,Stephen Chen,Blair A,other,1,0,4
+g137,Stephen Chen,Blair A,math,1,0,4
+g137,Stephen Chen,Blair A,physics,1,0,4
+g137,Anant,Dulles,overall,3,0,12
+g137,Anant,Dulles,math,1,0,4
+g137,Anant,Dulles,chemistry,2,0,8
+g137,Justin Chen,Blair A,overall,2,1,4
+g137,Justin Chen,Blair A,math,1,0,4
+g137,Justin Chen,Blair A,ess,1,1,0
+g137,Caleb Zhao,Blair A,overall,4,0,16
+g137,Caleb Zhao,Blair A,other,1,0,4
+g137,Caleb Zhao,Blair A,chemistry,1,0,4
+g137,Caleb Zhao,Blair A,biology,2,0,8
+g137,Viraj Negandhi,Dulles,overall,3,1,8
+g137,Viraj Negandhi,Dulles,chemistry,0,1,-4
+g137,Viraj Negandhi,Dulles,ess,1,0,4
+g137,Viraj Negandhi,Dulles,biology,1,0,4
+g137,Viraj Negandhi,Dulles,physics,1,0,4
+g137,Shlok Parija,Dulles,overall,0,0,0
+g137,Rushil Shah,Dulles,overall,1,0,4
+g137,Rushil Shah,Dulles,ess,1,0,4
+g137,justin,Dulles,overall,0,0,0
+g138,Aditya Sivakumar,Mira Loma,overall,6,2,16
+g138,Aditya Sivakumar,Mira Loma,other,2,0,8
+g138,Aditya Sivakumar,Mira Loma,chemistry,3,0,12
+g138,Aditya Sivakumar,Mira Loma,biology,1,1,0
+g138,Aditya Sivakumar,Mira Loma,physics,0,1,-4
+g138,Feodor Yevtushenko,University,overall,3,1,8
+g138,Feodor Yevtushenko,University,math,2,0,8
+g138,Feodor Yevtushenko,University,physics,1,1,0
+g138,Wendy Cao,University,overall,0,0,0
+g138,Nipun D,Mira Loma,overall,1,0,4
+g138,Nipun D,Mira Loma,chemistry,1,0,4
+g138,Yufei Chen,University,overall,3,0,12
+g138,Yufei Chen,University,ess,1,0,4
+g138,Yufei Chen,University,biology,2,0,8
+g138,Shohom Chakraborty,Mira Loma,overall,0,0,0
+g138,Harish Premkumar,Mira Loma,overall,1,0,4
+g138,Harish Premkumar,Mira Loma,math,1,0,4
+g138,Sarthak,Mira Loma,overall,2,0,8
+g138,Sarthak,Mira Loma,physics,2,0,8
+g139,Anurag Sodhi,Centennial,overall,6,3,12
+g139,Anurag Sodhi,Centennial,other,1,1,0
+g139,Anurag Sodhi,Centennial,math,1,0,4
+g139,Anurag Sodhi,Centennial,chemistry,3,1,8
+g139,Anurag Sodhi,Centennial,ess,1,0,4
+g139,Anurag Sodhi,Centennial,physics,0,1,-4
+g139,Daniel Hong,NoHo,overall,1,0,4
+g139,Daniel Hong,NoHo,other,1,0,4
+g139,boheng cao,NoHo,overall,4,0,16
+g139,boheng cao,NoHo,math,2,0,8
+g139,boheng cao,NoHo,chemistry,1,0,4
+g139,boheng cao,NoHo,physics,1,0,4
+g139,Alex Franks,NoHo,overall,4,0,16
+g139,Alex Franks,NoHo,other,1,0,4
+g139,Alex Franks,NoHo,ess,1,0,4
+g139,Alex Franks,NoHo,physics,2,0,8
+g139,Emily (CHS),Centennial,overall,1,0,4
+g139,Emily (CHS),Centennial,biology,1,0,4
+g139,Ryan Chang,Centennial,overall,1,0,4
+g139,Ryan Chang,Centennial,ess,1,0,4
+g139,Richard Zhu,NoHo,overall,3,0,12
+g139,Richard Zhu,NoHo,other,1,0,4
+g139,Richard Zhu,NoHo,biology,2,0,8
+g140,Shlok Parija,Dulles,overall,3,0,12
+g140,Shlok Parija,Dulles,other,1,0,4
+g140,Shlok Parija,Dulles,ess,2,0,8
+g140,Aditya Sivakumar,Mira Loma,overall,5,2,12
+g140,Aditya Sivakumar,Mira Loma,other,0,1,-4
+g140,Aditya Sivakumar,Mira Loma,ess,1,0,4
+g140,Aditya Sivakumar,Mira Loma,biology,3,0,12
+g140,Aditya Sivakumar,Mira Loma,physics,1,1,0
+g140,Anant,Dulles,overall,1,2,-4
+g140,Anant,Dulles,other,0,1,-4
+g140,Anant,Dulles,chemistry,1,1,0
+g140,Harish Premkumar,Mira Loma,overall,1,0,4
+g140,Harish Premkumar,Mira Loma,math,1,0,4
+g140,Shohom Chakraborty,Mira Loma,overall,1,0,4
+g140,Shohom Chakraborty,Mira Loma,chemistry,1,0,4
+g140,Viraj Negandhi,Dulles,overall,2,1,4
+g140,Viraj Negandhi,Dulles,ess,1,0,4
+g140,Viraj Negandhi,Dulles,biology,0,1,-4
+g140,Viraj Negandhi,Dulles,physics,1,0,4
+g140,justin,Dulles,overall,1,0,4
+g140,justin,Dulles,other,1,0,4
+g140,Rushil Shah,Dulles,overall,1,0,4
+g140,Rushil Shah,Dulles,math,1,0,4
+g140,Sarthak,Mira Loma,overall,1,0,4
+g140,Sarthak,Mira Loma,physics,1,0,4
+g140,Nipun D,Mira Loma,overall,2,1,4
+g140,Nipun D,Mira Loma,chemistry,2,1,4
+g141,Aditya Sivakumar,Mira Loma,overall,7,3,16
+g141,Aditya Sivakumar,Mira Loma,other,1,0,4
+g141,Aditya Sivakumar,Mira Loma,math,0,1,-4
+g141,Aditya Sivakumar,Mira Loma,chemistry,1,1,0
+g141,Aditya Sivakumar,Mira Loma,ess,0,1,-4
+g141,Aditya Sivakumar,Mira Loma,biology,4,0,16
+g141,Aditya Sivakumar,Mira Loma,physics,1,0,4
+g141,Anurag Sodhi,Centennial,overall,7,0,28
+g141,Anurag Sodhi,Centennial,other,2,0,8
+g141,Anurag Sodhi,Centennial,math,2,0,8
+g141,Anurag Sodhi,Centennial,chemistry,2,0,8
+g141,Anurag Sodhi,Centennial,ess,1,0,4
+g141,Ryan Chang,Centennial,overall,1,0,4
+g141,Ryan Chang,Centennial,ess,1,0,4
+g141,Shohom Chakraborty,Mira Loma,overall,1,0,4
+g141,Shohom Chakraborty,Mira Loma,physics,1,0,4
+g141,Ryan,Centennial,overall,0,0,0
+g141,Sarthak,Mira Loma,overall,0,0,0
+g142,Richard Zhu,NoHo,overall,5,0,20
+g142,Richard Zhu,NoHo,other,2,0,8
+g142,Richard Zhu,NoHo,biology,3,0,12
+g142,Anurag Sodhi,Centennial,overall,7,0,28
+g142,Anurag Sodhi,Centennial,math,3,0,12
+g142,Anurag Sodhi,Centennial,chemistry,1,0,4
+g142,Anurag Sodhi,Centennial,ess,1,0,4
+g142,Anurag Sodhi,Centennial,physics,2,0,8
+g142,boheng cao,NoHo,overall,0,1,-4
+g142,boheng cao,NoHo,math,0,1,-4
+g142,Daniel Hong,NoHo,overall,1,0,4
+g142,Daniel Hong,NoHo,physics,1,0,4
+g142,Adeline Sun,NoHo,overall,1,0,4
+g142,Adeline Sun,NoHo,chemistry,1,0,4
+g142,Alex Franks,NoHo,overall,0,1,-4
+g142,Alex Franks,NoHo,biology,0,1,-4
+g142,Emily (CHS),Centennial,overall,1,0,4
+g142,Emily (CHS),Centennial,biology,1,0,4
+g143,Anurag Sodhi,Centennial,overall,5,1,16
+g143,Anurag Sodhi,Centennial,other,1,0,4
+g143,Anurag Sodhi,Centennial,chemistry,3,0,12
+g143,Anurag Sodhi,Centennial,ess,1,0,4
+g143,Anurag Sodhi,Centennial,biology,0,1,-4
+g143,boheng cao,NoHo,overall,4,0,16
+g143,boheng cao,NoHo,other,2,0,8
+g143,boheng cao,NoHo,physics,2,0,8
+g143,Adeline Sun,NoHo,overall,0,0,0
+g143,Alex Franks,NoHo,overall,1,0,4
+g143,Alex Franks,NoHo,ess,1,0,4
+g143,Richard Zhu,NoHo,overall,4,0,16
+g143,Richard Zhu,NoHo,biology,4,0,16
+g143,Ryan,Centennial,overall,0,0,0

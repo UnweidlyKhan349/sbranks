@@ -18,7 +18,19 @@ sources:
   sheet_id: 1Y2WXg1sz352rgIYu0G0usonCp1bqYcg7xVJI8tCoS6I
   url: https://docs.google.com/spreadsheets/d/1Y2WXg1sz352rgIYu0G0usonCp1bqYcg7xVJI8tCoS6I/edit#gid=1920854332
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_dasoni:parse_2023_competitive
+parser_options:
+  de_games:
+  - DE1|A3|A5|D4
+  - DE1|A11|A13|D12
+  - DE1|A20|A22|D21
+  - DE1|A28|A30|D29
+  - DE2|D4|D12|F8
+  - DE2|D21|D25|F23
+  - DE2|D29|D33|F31
+  - DE3|F23|F31|I27
+status: partial
+notes: 'Results only. 18 round-robin games reconstructed by matching each team''s per-round W/L/score to its scheduled time
+  slots in the pairings tab (every game consistent); 6 wins against no opponent ("-"/NS) and the no-show teams NCSSM B, Crestview
+  and AHS Broward (all 0s) are not recorded; WWPN and Fossil Ridge appear in the pool lists but have no results. The DE tab
+  shows only who advanced: 8 games written as winner-only; the last loser''s-bracket game and the final have no result.'

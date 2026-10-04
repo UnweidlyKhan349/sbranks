@@ -18,10 +18,33 @@ sources:
   url: https://www.niskyscibowl.com/niskayuna-tournaments/nwi-2024/results
   file: results.html
 - kind: url
+  role: results
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTf5kXt5P2NZcHvt2qgC6cAekFaoze9MLUfV6C2UH-IBq1v3uX3mEl10LW2cg60LZB2mCoHu_9xhrtB/pub?output=xlsx
+  file: results_sheet.xlsx
+  note: published sheet embedded in the results page
+- kind: url
   role: stats
   url: https://www.niskyscibowl.com/niskayuna-tournaments/nwi-2024/statistics
   file: stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+- kind: url
+  role: stats
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSyN_ukNQVqwrkBMI3lHf_0uyQAPUUb4C3Ax7u7HDFxcAMKLGNCL8C-gS_FigFHficOiRU_Pv9HOnzF/pub?output=xlsx
+  file: stats_sheet.xlsx
+  note: published stats sheet embedded in the statistics page; returns 401 (no longer public) as of 2026-10
+parser: g1_nisky:parse
+parser_options:
+  team_hints:
+    North Hollywood:
+      school: North Hollywood High School
+      state: CA
+    Clements:
+      school: William P. Clements HS
+      state: TX
+    Lynbrook A:
+      school: Lynbrook HS
+      state: CA
+status: partial
+notes: 'Results from the published Google Sheet embedded in the results page: 48 RR games (8 pools of 4; rounds from the sheet''s
+  matchup order) and the 15-game single-elimination bracket (North Hollywood d. Clements 72-70 in the final), all with scores;
+  W/T/L columns cross-checked. Player statistics missing: the published stats sheet now returns 401 (no longer public) and
+  the Wayback Machine is not reachable from here.'

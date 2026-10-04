@@ -1,0 +1,23 @@
+{
+  "tournament_id": "2024-01-06-iolani-invitational",
+  "counts": {
+    "teams": 8,
+    "games": 17,
+    "games_with_scores": 16,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [],
+  "parser": "g5_hawaii:parse"
+}

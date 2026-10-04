@@ -23,7 +23,12 @@ sources:
   sheet_id: 1CS95zegBp8UHso-0L06A9KrJiypmHiM91DSPa1JnQQ0
   url: https://docs.google.com/spreadsheets/d/1CS95zegBp8UHso-0L06A9KrJiypmHiM91DSPa1JnQQ0/edit?gid=368021216#gid=368021216
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_misc:parse_nwi2
+parser_options:
+  aliases:
+    Palo Alto: Palo Alto A
+    WWPS: West Windsor Plainsboro South
+status: partial
+notes: 30 teams in 8 pools (RR Scores grids, rounds from the Rooms tab) plus 20 scored DE games; DE6 (Lynbrook vs Lexington)
+  and the final have no scores or result in the sheet. Rosters with full names and full school names come from the Teams tab.
+  The stats sheet is private (HTTP 401, no Wayback copy), so there are no player stats.

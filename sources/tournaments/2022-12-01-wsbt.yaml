@@ -13,15 +13,36 @@ level: standard
 subject_only: null
 question_set: null
 sources:
-- kind: challonge
+- kind: url
   role: results
-  url: https://challonge.com/i5ow6xt2
+  url: https://challonge.com/i5ow6xt2/module
+  file: challonge_module.html
+  note: Challonge embed page for https://challonge.com/i5ow6xt2 (main page is behind a Cloudflare check); contains the TournamentStore
+    JSON with all matches
 - kind: gsheet
   role: stats
   sheet_id: 1ifyTIilwRWDD7Xku94-ooUKpzIJJoNAOoGxGkI0DS_k
   url: https://docs.google.com/spreadsheets/d/1ifyTIilwRWDD7Xku94-ooUKpzIJJoNAOoGxGkI0DS_k/edit#gid=454044142
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g3_online:parse_wsbt
+parser_options:
+  team_map:
+    Lex1: Lexington 1
+    Lex2: Lexington 2
+    Jp1: JP Stevens 1
+    Centennial High School: Centennial
+    Prisms: PRISMS
+    Lynbroke B: Lynbrook B
+    Lynbroke C: Lynbrook C
+    Lex3: Lexington 3
+    Jp2: JP Stevens 2
+    Jp3: JP Stevens 3
+    Jp4: JP Stevens 4
+    "Los Ni\xEF\xBF\xBDOs": "Los Ni\xF1os"
+  forfeit_matches:
+    26: Stuyvesant 1 scored 0 after advancing on two 0-0 forfeits; treated as forfeit
+status: partial
+notes: 'Playoffs: 46-game 32-team double elimination from Challonge (embed page JSON; 0-0 matches and Stuyvesant 1''s 0-62
+  treated as forfeits; one 80-80 tiebreak kept as a win without scores). RR results are unavailable; RR player stats (scope
+  rr) with teams inferred by exact sums (293 of 315 placed). RR stats use team nicknames; only obvious ones are mapped to
+  bracket names (Lex/Jp/Lynbroke abbreviations expanded; the source''s garbled ''Los Niï¿½Os'' written as Los Niños).'

@@ -1,0 +1,50 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+RR1-Almandine-1,rr,RR1,1,Pullman,Wayzata,76,118,2,0,"Almandine Division, room Almandine-1"
+RR1-Almandine-2,rr,RR1,1,Alabama School of Fine Arts,Naperville North A,194,40,1,0,"Almandine Division, room Almandine-2"
+RR1-Beryl-3,rr,RR1,1,Naperville North B,Westview,102,92,1,0,"Beryl Division, room Beryl-3"
+RR1-Beryl-4,rr,RR1,1,Collierville A,Hunter College,72,144,2,0,"Beryl Division, room Beryl-4"
+RR1-Citrine-5,rr,RR1,1,Clovis North,North Allegheny,82,136,2,0,"Citrine Division, room Citrine-5"
+RR1-Diamond-7,rr,RR1,1,Huron,Collierville B,242,46,1,0,"Diamond Division, room Diamond-7"
+RR1-Diamond-8,rr,RR1,1,Shen,Mountain View A,124,142,2,0,"Diamond Division, room Diamond-8"
+RR2-Almandine-1,rr,RR2,2,Pullman,Alabama School of Fine Arts,102,152,2,0,"Almandine Division, room Almandine-1"
+RR2-Almandine-2,rr,RR2,2,Wayzata,Naperville North A,72,170,2,0,"Almandine Division, room Almandine-2"
+RR2-Beryl-3,rr,RR2,2,Naperville North B,Collierville A,44,198,2,0,"Beryl Division, room Beryl-3"
+RR2-Beryl-4,rr,RR2,2,Westview,Hunter College,90,136,2,0,"Beryl Division, room Beryl-4"
+RR2-Citrine-5,rr,RR2,2,Clovis North,Langley,156,100,1,0,"Citrine Division, room Citrine-5"
+RR2-Diamond-7,rr,RR2,2,Huron,Shen,88,154,2,0,"Diamond Division, room Diamond-7"
+RR2-Diamond-8,rr,RR2,2,Collierville B,Mountain View A,80,116,2,0,"Diamond Division, room Diamond-8"
+RR3-Almandine-1,rr,RR3,3,Pullman,Naperville North A,90,138,2,0,"Almandine Division, room Almandine-1"
+RR3-Almandine-2,rr,RR3,3,Wayzata,Alabama School of Fine Arts,40,132,2,0,"Almandine Division, room Almandine-2"
+RR3-Beryl-3,rr,RR3,3,Naperville North B,Hunter College,48,130,2,0,"Beryl Division, room Beryl-3"
+RR3-Beryl-4,rr,RR3,3,Westview,Collierville A,92,70,1,0,"Beryl Division, room Beryl-4"
+RR3-Citrine-5,rr,RR3,3,North Allegheny,Langley,96,94,1,0,"Citrine Division, room Citrine-5"
+RR3-Diamond-7,rr,RR3,3,Huron,Mountain View A,120,142,2,0,"Diamond Division, room Diamond-7"
+RR3-Diamond-8,rr,RR3,3,Collierville B,Shen,74,132,2,0,"Diamond Division, room Diamond-8"
+de-A13,playoff,DE1,4,Naperville North B,Shen,,,2,0,
+de-A17,playoff,DE1,4,North Allegheny,Wayzata,,,2,0,
+de-A21,playoff,DE1,4,Mountain View A,Pullman,,,1,0,
+de-A25,playoff,DE1,4,Clovis North,Westview,,,1,0,
+de-A29,playoff,DE1,4,Hunter College,Collierville B,,,1,0,
+de-A33,playoff,DE1,4,Naperville North A,Collierville A,,,1,0,
+de-A9,playoff,DE1,4,Langley,Huron,,,2,0,
+de-C15,playoff,DE2,5,Shen,Wayzata,,,1,0,
+de-C23,playoff,DE2,5,Mountain View A,Clovis North,,,1,0,
+de-C31,playoff,DE2,5,Hunter College,Naperville North A,,,2,0,
+de-C46,playoff,DE2,5,Naperville North B,North Allegheny,,,1,0,
+de-C52,playoff,DE2,5,Pullman,Westview,,,2,0,
+de-C58,playoff,DE2,5,Collierville B,Collierville A,,,2,0,
+de-C7,playoff,DE2,5,Alabama School of Fine Arts,Huron,,,1,0,
+de-F38,playoff,DE3,6,Clovis North,Langley,,,1,0,
+de-F44,playoff,DE3,6,Hunter College,Naperville North B,,,2,0,
+de-F50,playoff,DE3,6,Huron,Westview,,,1,0,
+de-F56,playoff,DE3,6,Wayzata,Collierville A,,,2,0,
+de-H11,playoff,DE4,7,Alabama School of Fine Arts,Shen,,,2,0,
+de-H27,playoff,DE4,7,Mountain View A,Naperville North A,,,1,0,
+de-H42,playoff,DE4,7,Clovis North,Naperville North B,,,1,0,
+de-H54,playoff,DE4,7,Huron,Collierville A,,,1,0,
+de-J39,playoff,DE5,8,Alabama School of Fine Arts,Clovis North,,,2,0,
+de-J51,playoff,DE5,8,Naperville North A,Huron,,,2,0,
+de-L19,playoff,DE6,9,Shen,Mountain View A,,,1,0,
+de-L45,playoff,DE6,9,Clovis North,Huron,,,2,0,
+de-N39,playoff,DE7,10,Mountain View A,Huron,,,2,0,
+de-P21,playoff,Finals 1,11,Shen,Huron,,,1,0,

@@ -1,0 +1,58 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,1,1,Amity B,Joel Barlow,78,124,2,0,Group A; opponent inferred from per-round results/scores
+g2,rr,1,1,Farmington A,Glastonbury A,156,136,1,0,Group A; opponent inferred from per-round results/scores
+g3,rr,2,2,Amity B,Glastonbury A,50,122,2,0,Group A; opponent inferred from per-round results/scores
+g4,rr,2,2,Farmington A,Joel Barlow,102,42,1,0,Group A; opponent inferred from per-round results/scores
+g5,rr,3,3,Amity B,Farmington A,58,156,2,0,Group A; opponent inferred from per-round results/scores
+g6,rr,3,3,Glastonbury A,Joel Barlow,96,102,2,0,Group A; opponent inferred from per-round results/scores
+g7,rr,1,1,Cheshire A,Greenwich A,60,104,2,0,Group B; opponent inferred from per-round results/scores
+g8,rr,1,1,Fairchild Wheeler,Kingswood Oxford,40,58,2,0,Group B; opponent inferred from per-round results/scores
+g9,rr,2,2,Cheshire A,Fairchild Wheeler,30,52,2,0,Group B; opponent inferred from per-round results/scores
+g10,rr,2,2,Greenwich A,Kingswood Oxford,148,8,1,0,Group B; opponent inferred from per-round results/scores
+g11,rr,3,3,Cheshire A,Kingswood Oxford,80,48,1,0,Group B; opponent inferred from per-round results/scores
+g12,rr,3,3,Fairchild Wheeler,Greenwich A,24,118,2,0,Group B; opponent inferred from per-round results/scores
+g13,rr,,1,Amity A,Fairfield Warde,,,1,0,Group C; opponent inferred from per-round results/scores; round (and so score) ambiguous between rounds 1/2
+g14,rr,,1,Farmington B,Hopkins,,,2,0,Group C; opponent inferred from per-round results/scores; round (and so score) ambiguous between rounds 1/2
+g15,rr,,1,Amity A,Farmington B,,,1,0,Group C; opponent inferred from per-round results/scores; round (and so score) ambiguous between rounds 1/2
+g16,rr,,1,Fairfield Warde,Hopkins,,,2,0,Group C; opponent inferred from per-round results/scores; round (and so score) ambiguous between rounds 1/2
+g17,rr,3,3,Amity A,Hopkins,162,60,1,0,Group C; opponent inferred from per-round results/scores
+g18,rr,3,3,Fairfield Warde,Farmington B,72,56,1,0,Group C; opponent inferred from per-round results/scores
+g19,rr,1,1,Glastonbury B,Staples,114,96,1,0,Group D; opponent inferred from per-round results/scores
+g20,rr,1,1,New Canaan,Woodstock,94,68,1,0,Group D; opponent inferred from per-round results/scores
+g21,rr,2,2,Glastonbury B,Woodstock,48,26,1,0,Group D; opponent inferred from per-round results/scores
+g22,rr,2,2,New Canaan,Staples,44,118,2,0,Group D; opponent inferred from per-round results/scores
+g23,rr,3,3,Glastonbury B,New Canaan,40,74,2,0,Group D; opponent inferred from per-round results/scores
+g24,rr,3,3,Staples,Woodstock,110,18,1,0,Group D; opponent inferred from per-round results/scores
+g25,rr,1,1,Cheshire B,University,68,96,2,0,Group E; opponent inferred from per-round results/scores
+g26,rr,1,1,Newtown,South Windsor,220,34,1,0,Group E; opponent inferred from per-round results/scores
+g27,rr,2,2,Cheshire B,South Windsor,16,38,2,0,Group E; opponent inferred from per-round results/scores
+g28,rr,2,2,Newtown,University,152,56,1,0,Group E; opponent inferred from per-round results/scores
+g29,rr,3,3,Cheshire B,Newtown,12,200,2,0,Group E; opponent inferred from per-round results/scores
+g30,rr,3,3,South Windsor,University,86,76,1,0,Group E; opponent inferred from per-round results/scores
+g31,playoff,DE R1,4,Newtown,Joel Barlow,114,84,1,0,
+g32,playoff,DE R1,4,Glastonbury A,Greenwich A,48,80,2,0,
+g33,playoff,DE R1,4,Farmington A,Hopkins,142,50,1,0,
+g34,playoff,DE R1,4,Amity A,Staples,144,64,1,0,
+g35,consolation,Wildcard R1,4,Glastonbury B,Fairchild Wheeler,38,18,1,0,
+g36,consolation,Wildcard R1,4,Cheshire A,Fairfield Warde,16,114,2,0,
+g37,consolation,Wildcard R1,4,Woodstock,Greenwich B,0,180,2,0,
+g38,consolation,Wildcard R1,4,Shenendehowa,Cheshire B,176,50,1,0,
+g39,consolation,Wildcard R1,4,South Windsor,Farmington B,66,44,1,0,
+g40,consolation,Wildcard R1,4,Amity B,Kingswood Oxford,54,66,2,0,
+g41,playoff,DE R2,5,Newtown,Greenwich A,120,82,1,0,
+g42,playoff,DE R2,5,Farmington A,Amity A,64,158,2,0,
+g43,playoff,DE R2,5,Joel Barlow,Glastonbury A,52,98,2,0,
+g44,playoff,DE R2,5,Hopkins,Staples,80,126,2,0,
+g45,consolation,Wildcard R2,5,University,Glastonbury B,80,38,1,0,
+g46,consolation,Wildcard R2,5,Fairfield Warde,Greenwich B,8,210,2,0,
+g47,consolation,Wildcard R2,5,Shenendehowa,South Windsor,164,56,1,0,
+g48,consolation,Wildcard R2,5,Kingswood Oxford,New Canaan,66,56,1,0,
+g49,playoff,DE R3,6,Greenwich A,Glastonbury A,84,56,1,0,
+g50,playoff,DE R3,6,Farmington A,Staples,116,58,1,0,
+g51,consolation,Wildcard R3,6,University,Greenwich B,54,102,2,0,
+g52,consolation,Wildcard R3,6,Shenendehowa,Kingswood Oxford,192,44,1,0,
+g53,playoff,DE R4,7,Newtown,Amity A,82,96,2,0,
+g54,playoff,DE R4,7,Greenwich A,Farmington A,36,76,2,0,
+g55,consolation,Wildcard final,7,Greenwich B,Shenendehowa,68,108,2,0,
+g56,playoff,DE R5,8,Newtown,Farmington A,86,62,1,0,
+g57,playoff,DE R6,9,Amity A,Newtown,100,54,1,0,

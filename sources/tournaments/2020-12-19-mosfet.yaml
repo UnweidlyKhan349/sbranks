@@ -23,7 +23,47 @@ sources:
   sheet_id: 1-fQz5SvS-mNoT14iFWTt32KGLV8rTiIQ_3xpivtLYR0
   url: https://docs.google.com/spreadsheets/d/1-fQz5SvS-mNoT14iFWTt32KGLV8rTiIQ_3xpivtLYR0/edit#gid=1695194000
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g3_online:parse_mosfet2020
+parser_options:
+  team_map:
+    Kj Henry Math And Science A: KJ A
+    Laces: LACES A
+    Wwphss: Pirates A
+    Shaker High School: Shaker A
+    Dulles A: Dulles A
+    Martin Luther King: MLK A
+    Fossil Ridge Hs: Fossil Ridge A
+    Tesla Stem High School: Tesla Stem A
+    Middletong B: Middleton B
+    Westview: Westview A
+    Laces B: LACES B
+    Lynbrook A: Lynbrook A
+    Churchill A: Churchill A
+    Walton: Walton A
+    The Westminster Schools: Westminster A
+    Island Trees High School: Island Trees A
+    Shenendehowa High School: Shenendehowa A
+    Westview B: Westview B
+    Ward Melville A: Ward Melville A
+    Kromrey Ms: Kromrey MS A
+    Hopkins School: Hopkins A
+    Centennial High School: Centennial A
+    Van Nuys High School: Van Nuys A
+    Ames Octopi: Ames A
+    Beckman High School: Beckman A
+    Quail Valley Middle School: Quail Valley MS
+    Livingston B: Livingston B
+    Los Alamos High School: Los Alamos A
+    Kj Henry Math/Sci B: KJ B
+    Wwphss B: WWPHSS B
+    Timberline: Timberline A
+    Livingston: Livingston A
+    Westminster B: Westminster B
+    Newtown High School: Newtown A
+    Middletong: Middleton A
+    Los Alamos High School B: Los Alamos B
+status: partial
+notes: 'Day-2 divisional round robins (6 divisions of 6): 87 games, win/loss only (the grids have no scores); 3 Challenger
+  games have no recorded result and day-1 games are not in the sheet. Player stats (5 GP, scope rr) come from the template
+  workbook, whose player tabs have no team column: teams were inferred by exact matching of per-subject 4/-4/0 totals to the
+  team tabs (137 of 171 players placed; 9 interchangeable and 25 zero-buzz players skipped).'

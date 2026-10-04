@@ -18,7 +18,27 @@ sources:
   sheet_id: 1tem24933jmXH49IKZrI75hSv8A-pe00_4JwRFZoEUCg
   url: https://docs.google.com/spreadsheets/d/1tem24933jmXH49IKZrI75hSv8A-pe00_4JwRFZoEUCg/edit#gid=882335030
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mit:parse
+parser_options:
+  brackets:
+  - tab: Double Elimination
+    anchor: ^\d+\s*[–-]\s*\d+$
+    pcols:
+    - -1
+    skip:
+    - ^L\(DE \d+\)$
+    - ' - \d(st|nd)$'
+    - ^In double
+    - 'PLACE:'
+    - Teams? Remaining
+    - P\.M\.
+    - CHAMPION
+    score: anchor
+    winner: right
+    header_row: 0
+  aliases:
+    J.P. Stevens: John P. Stevens
+status: parsed
+notes: Results only (no stats published). The 8 division round-robin grids give win/tie/loss codes with no scores or round
+  numbers. The 16-team double-elimination bracket gives every game's score; the Duflo division's 'TB score' tiebreak is not
+  recorded as a game.

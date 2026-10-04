@@ -23,7 +23,23 @@ sources:
   sheet_id: 1Jins3W1_5A7y5KHk_uIJPvqwVinduU0W9UJJX71yZgA
   url: https://docs.google.com/spreadsheets/d/1Jins3W1_5A7y5KHk_uIJPvqwVinduU0W9UJJX71yZgA/edit#gid=1180759868
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g3_online:parse_dbhsst2021
+parser_options:
+  team_map:
+    Winston Churchill Ms B: Winston Churchill Middle School B
+    Van Nuys High School B-Team: Van Nuys High School B
+    Stuyvesant: Stuyvesant High School
+    Whitney High School: Whitney HS
+    Pleasanton Middle A: Pleasanton Middle School
+    Acadia Middle School: Acadia MS
+    Centennial High School: Centennial HS
+    Kj Academy: KJ Henry Math and Science Academy
+    Pleasanton Middle B: Pleasanton Middle School B
+    Quail Valley Middle School: Quail Valley MS
+    Van Nuys High School A-Team: Van Nuys High School A
+    South County Middle School: South County MS
+    Ladue Middle School: Ladue MS
+status: partial
+notes: 'Round robin (3 mixed HS/MS divisions of 6): 45 games, opponents matched by mirrored scores (Ladue MS no-show -> forfeits;
+  Stuyvesant-Whitney 56-56 kept as a win without scores). Elimination results are not in the sheet. Player stats (scope all,
+  includes elim games; ''life'' = biology, ''physical'' = other) with teams inferred by exact sums (77 of 84 placed).'

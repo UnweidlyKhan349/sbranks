@@ -22,7 +22,223 @@ sources:
   role: stats
   url: https://prometheus.science/s/ESBOT-Stats.xlsx
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_esbot:parse_esbot22
+parser_options:
+  aliases:
+    Montessouri: Montessori
+    Monterssouri: Montessori
+    Brookfeild: Brookfield A
+    Middleton 1: Middleton Team 1
+    Lexington: Lexington 1
+    Odle: Odle Middle School
+    Dulles: Dulles A
+    Iolani: Iolani School
+  notes:
+    Odle Middle School: middle-school team entered in the high-school field
+    Community Middle School: middle-school team entered in the high-school field
+  de_games:
+  - round: DE WB Round 6
+    seq: 6
+    a:
+    - 3
+    - 2
+    - 3
+    b:
+    - 6
+    - 2
+    - 3
+  - round: DE WB Round 6
+    seq: 6
+    a:
+    - 9
+    - 2
+    - 3
+    b:
+    - 12
+    - 2
+    - 3
+  - round: DE WB Round 6
+    seq: 6
+    a:
+    - 15
+    - 2
+    - 3
+    b:
+    - 18
+    - 2
+    - 3
+  - round: DE WB Round 6
+    seq: 6
+    a:
+    - 21
+    - 2
+    - 3
+    b:
+    - 24
+    - 2
+    - 3
+  - round: DE LB Round 7
+    seq: 7
+    a:
+    - 27
+    - 4
+    - 5
+    b:
+    - 30
+    - 4
+    - 5
+  - round: DE LB Round 7
+    seq: 7
+    a:
+    - 33
+    - 4
+    - 5
+    b:
+    - 36
+    - 4
+    - 5
+  - round: DE LB Round 7
+    seq: 7
+    a:
+    - 39
+    - 4
+    - 5
+    b:
+    - 42
+    - 4
+    - 5
+  - round: DE LB Round 7
+    seq: 7
+    a:
+    - 45
+    - 4
+    - 5
+    b:
+    - 48
+    - 4
+    - 5
+  - round: DE WB Round 8
+    seq: 8
+    a:
+    - 5
+    - 6
+    - 7
+    b:
+    - 11
+    - 6
+    - 7
+    winner: b
+    stats_game: 2o22dk15i1
+  - round: DE WB Round 8
+    seq: 8
+    a:
+    - 17
+    - 6
+    - 7
+    b:
+    - 23
+    - 6
+    - 7
+  - round: DE LB Round 8
+    seq: 8
+    a:
+    - 29
+    - 6
+    - 7
+    b:
+    - 35
+    - 6
+    - 7
+    winner: b
+    forfeit: true
+    note: 'JP Stevens B forfeited (bracket: "Forifiet" / "Default Win")'
+  - round: DE LB Round 8
+    seq: 8
+    a:
+    - 41
+    - 6
+    - 7
+    b:
+    - 47
+    - 6
+    - 7
+  - round: DE LB Round 9
+    seq: 9
+    a:
+    - 27
+    - 8
+    - 9
+    b:
+    - 32
+    - 8
+    - 9
+  - round: DE LB Round 9
+    seq: 9
+    a:
+    - 39
+    - 8
+    - 9
+    b:
+    - 44
+    - 8
+    - 9
+  - round: DE WB Round 10
+    seq: 10
+    a:
+    - 9
+    - 10
+    - 11
+    b:
+    - 20
+    - 10
+    - 11
+  - round: DE LB Round 10
+    seq: 10
+    a:
+    - 30
+    - 10
+    - 11
+    b:
+    - 42
+    - 10
+    - 11
+  - round: DE LB Round 11
+    seq: 11
+    a:
+    - 26
+    - 12
+    - 13
+    b:
+    - 36
+    - 12
+    - 13
+    winner: a
+  - round: DE Final
+    seq: 12
+    a:
+    - 15
+    - 14
+    - 15
+    b:
+    - 31
+    - 14
+    - 15
+  stats_aliases:
+    Mon: Montessori
+    Middleton 1: Middleton Team 1
+    Middleton: Middleton Team 1
+    BRHS A: BRHS Team A
+    BRHS B: BRHS Team B
+    BRHS: BRHS Team A
+    Community MS: Community Middle School
+    Langley: VenLangLoma
+    Sanjay+Vish: Mount Ellis
+    Brookfield: Brookfield A
+    Ioliani School: Iolani School
+status: partial
+notes: '38 round-robin games (5 divisions) and 18 double-elimination games (one WB game''s score from the stats sheet, one
+  LB game without a score, one forfeit). The stats xlsx has per-game rows of player handles with per-category correct/incorrect
+  counts and bonus-inclusive scores but no team or penalty columns: per-game team tossups by category and per-game player
+  correct counts were recovered (players split between the two teams by exact sums, or by names already on a roster), but
+  no player totals with points could be written. The ''Seeding Round'' table could not be read as games. Odle and Community
+  are middle-school teams.'

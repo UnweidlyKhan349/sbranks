@@ -1,0 +1,216 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Peter B,Jason Y,74,12,1,0,group Almandine
+g2,rr,RR2,2,Peter B,Akhil B,52,38,1,0,group Almandine
+g3,rr,RR3,3,Peter B,Edwin H,54,24,1,0,group Almandine
+g4,rr,RR4,4,Peter B,Praneel A,54,30,1,0,group Almandine
+g5,rr,RR5,5,Peter B,Shreehan P,26,24,1,0,group Almandine
+g6,rr,RR6,6,Peter B,Shubam V,30,10,1,0,group Almandine
+g7,rr,RR7,7,Peter B,Azim F,50,-12,1,0,group Almandine
+g8,rr,RR3,3,Jason Y,Akhil B,18,60,2,0,group Almandine
+g9,rr,RR4,4,Jason Y,Edwin H,42,22,1,0,group Almandine
+g10,rr,RR5,5,Jason Y,Praneel A,38,40,2,0,group Almandine
+g11,rr,RR6,6,Jason Y,Shreehan P,48,16,1,0,group Almandine
+g12,rr,RR7,7,Jason Y,Shubam V,42,18,1,0,group Almandine
+g13,rr,RR2,2,Jason Y,Azim F,32,22,1,0,group Almandine
+g14,rr,RR5,5,Akhil B,Edwin H,42,18,1,0,group Almandine
+g15,rr,RR6,6,Akhil B,Praneel A,30,48,2,0,group Almandine
+g16,rr,RR7,7,Akhil B,Shreehan P,18,28,2,0,group Almandine
+g17,rr,RR1,1,Akhil B,Shubam V,68,20,1,0,group Almandine
+g18,rr,RR4,4,Akhil B,Azim F,60,2,1,0,group Almandine
+g19,rr,RR7,7,Edwin H,Praneel A,22,34,2,0,group Almandine
+g20,rr,RR1,1,Edwin H,Shreehan P,12,30,2,0,group Almandine
+g21,rr,RR2,2,Edwin H,Shubam V,28,40,2,0,group Almandine
+g22,rr,RR6,6,Edwin H,Azim F,30,2,1,0,group Almandine
+g23,rr,RR2,2,Praneel A,Shreehan P,34,6,1,0,group Almandine
+g24,rr,RR3,3,Praneel A,Shubam V,40,20,1,0,group Almandine
+g25,rr,RR1,1,Praneel A,Azim F,62,18,1,0,group Almandine
+g26,rr,RR4,4,Shreehan P,Shubam V,12,12,T,0,group Almandine
+g27,rr,RR3,3,Shreehan P,Azim F,16,12,1,0,group Almandine
+g28,rr,RR5,5,Shubam V,Azim F,18,18,T,0,group Almandine
+g29,rr,RR1,1,Alex Z,Kevin F,46,32,1,0,group Andradite
+g30,rr,RR2,2,Alex Z,Kensuke O,16,40,2,0,group Andradite
+g31,rr,RR3,3,Alex Z,Ishaan K,26,50,2,0,group Andradite
+g32,rr,RR4,4,Alex Z,Birdie L,42,48,2,0,group Andradite
+g33,rr,RR5,5,Alex Z,Shashank V,44,14,1,0,group Andradite
+g34,rr,RR6,6,Alex Z,Adam N,14,12,1,0,group Andradite
+g35,rr,RR7,7,Alex Z,Nimit A,44,2,1,0,group Andradite
+g36,rr,RR3,3,Kevin F,Kensuke O,34,36,2,0,group Andradite
+g37,rr,RR4,4,Kevin F,Ishaan K,14,46,2,0,group Andradite
+g38,rr,RR5,5,Kevin F,Birdie L,58,10,1,0,group Andradite
+g39,rr,RR6,6,Kevin F,Shashank V,22,34,2,0,group Andradite
+g40,rr,RR7,7,Kevin F,Adam N,48,-8,1,0,group Andradite
+g41,rr,RR2,2,Kevin F,Nimit A,50,20,1,0,group Andradite
+g42,rr,RR5,5,Kensuke O,Ishaan K,24,34,2,0,group Andradite
+g43,rr,RR6,6,Kensuke O,Birdie L,70,-6,1,0,group Andradite
+g44,rr,RR7,7,Kensuke O,Shashank V,30,2,1,0,group Andradite
+g45,rr,RR1,1,Kensuke O,Adam N,70,10,1,0,group Andradite
+g46,rr,RR4,4,Kensuke O,Nimit A,44,24,1,0,group Andradite
+g47,rr,RR7,7,Ishaan K,Birdie L,50,2,1,0,group Andradite
+g48,rr,RR1,1,Ishaan K,Shashank V,64,14,1,0,group Andradite
+g49,rr,RR2,2,Ishaan K,Adam N,4,8,2,0,group Andradite
+g50,rr,RR6,6,Ishaan K,Nimit A,98,-6,1,0,group Andradite
+g51,rr,RR2,2,Birdie L,Shashank V,18,20,2,0,group Andradite
+g52,rr,RR3,3,Birdie L,Adam N,42,12,1,0,group Andradite
+g53,rr,RR1,1,Birdie L,Nimit A,34,28,1,0,group Andradite
+g54,rr,RR4,4,Shashank V,Adam N,20,30,2,0,group Andradite
+g55,rr,RR3,3,Shashank V,Nimit A,24,20,1,0,group Andradite
+g56,rr,RR5,5,Adam N,Nimit A,20,20,T,0,group Andradite
+g57,rr,RR1,1,Ziang Z,Shaleen B,68,20,1,0,group Pyrope
+g58,rr,RR2,2,Ziang Z,Advai S,56,20,1,0,group Pyrope
+g59,rr,RR3,3,Ziang Z,Varyan J,28,28,T,0,group Pyrope
+g60,rr,RR4,4,Ziang Z,Mary P,66,30,1,0,group Pyrope
+g61,rr,RR5,5,Ziang Z,Daniel Y,68,-4,1,0,group Pyrope
+g62,rr,RR6,6,Ziang Z,Arnav H,66,10,1,0,group Pyrope
+g63,rr,RR7,7,Ziang Z,Akshay R,50,-12,1,0,group Pyrope
+g64,rr,RR3,3,Shaleen B,Advai S,20,30,2,0,group Pyrope
+g65,rr,RR4,4,Shaleen B,Varyan J,24,52,2,0,group Pyrope
+g66,rr,RR5,5,Shaleen B,Mary P,36,14,1,0,group Pyrope
+g67,rr,RR6,6,Shaleen B,Daniel Y,10,24,2,0,group Pyrope
+g68,rr,RR7,7,Shaleen B,Arnav H,28,38,2,0,group Pyrope
+g69,rr,RR2,2,Shaleen B,Akshay R,12,44,2,0,group Pyrope
+g70,rr,RR5,5,Advai S,Varyan J,6,52,2,0,group Pyrope
+g71,rr,RR6,6,Advai S,Mary P,36,30,1,0,group Pyrope
+g72,rr,RR7,7,Advai S,Daniel Y,48,6,1,0,group Pyrope
+g73,rr,RR1,1,Advai S,Arnav H,78,6,1,0,group Pyrope
+g74,rr,RR4,4,Advai S,Akshay R,12,50,2,0,group Pyrope
+g75,rr,RR7,7,Varyan J,Mary P,14,22,2,0,group Pyrope
+g76,rr,RR1,1,Varyan J,Daniel Y,44,18,1,0,group Pyrope
+g77,rr,RR2,2,Varyan J,Arnav H,38,28,1,0,group Pyrope
+g78,rr,RR6,6,Varyan J,Akshay R,36,10,1,0,group Pyrope
+g79,rr,RR2,2,Mary P,Daniel Y,32,20,1,0,group Pyrope
+g80,rr,RR3,3,Mary P,Arnav H,36,2,1,0,group Pyrope
+g81,rr,RR1,1,Mary P,Akshay R,16,38,2,0,group Pyrope
+g82,rr,RR4,4,Daniel Y,Arnav H,-12,44,2,0,group Pyrope
+g83,rr,RR3,3,Daniel Y,Akshay R,6,20,2,0,group Pyrope
+g84,rr,RR5,5,Arnav H,Akshay R,34,26,1,0,group Pyrope
+g85,rr,RR1,1,Bryce T,Jack G,54,20,1,0,group Grossular
+g86,rr,RR2,2,Bryce T,Shreyas E,36,28,1,0,group Grossular
+g87,rr,RR3,3,Bryce T,Baljeet C,84,8,1,0,group Grossular
+g88,rr,RR4,4,Bryce T,Alex L,40,8,1,0,group Grossular
+g89,rr,RR5,5,Bryce T,Sudhanva B,44,4,1,0,group Grossular
+g90,rr,RR6,6,Bryce T,Luyao Y,2,14,2,0,group Grossular
+g91,rr,RR7,7,Bryce T,Andrew F,24,32,2,0,group Grossular
+g92,rr,RR3,3,Jack G,Shreyas E,4,58,2,0,group Grossular
+g93,rr,RR4,4,Jack G,Baljeet C,38,42,2,0,group Grossular
+g94,rr,RR5,5,Jack G,Alex L,12,46,2,0,group Grossular
+g95,rr,RR6,6,Jack G,Sudhanva B,48,14,1,0,group Grossular
+g96,rr,RR7,7,Jack G,Luyao Y,20,26,2,0,group Grossular
+g97,rr,RR2,2,Jack G,Andrew F,26,40,2,0,group Grossular
+g98,rr,RR5,5,Shreyas E,Baljeet C,34,16,1,0,group Grossular
+g99,rr,RR6,6,Shreyas E,Alex L,2,42,2,0,group Grossular
+g100,rr,RR7,7,Shreyas E,Sudhanva B,52,0,1,0,group Grossular
+g101,rr,RR1,1,Shreyas E,Luyao Y,56,18,1,0,group Grossular
+g102,rr,RR4,4,Shreyas E,Andrew F,48,24,1,0,group Grossular
+g103,rr,RR7,7,Baljeet C,Alex L,16,66,2,0,group Grossular
+g104,rr,RR1,1,Baljeet C,Sudhanva B,50,16,1,0,group Grossular
+g105,rr,RR2,2,Baljeet C,Luyao Y,26,44,2,0,group Grossular
+g106,rr,RR6,6,Baljeet C,Andrew F,30,36,2,0,group Grossular
+g107,rr,RR2,2,Alex L,Sudhanva B,58,4,1,0,group Grossular
+g108,rr,RR3,3,Alex L,Luyao Y,72,12,1,0,group Grossular
+g109,rr,RR1,1,Alex L,Andrew F,66,-4,1,0,group Grossular
+g110,rr,RR4,4,Sudhanva B,Luyao Y,18,38,2,0,group Grossular
+g111,rr,RR3,3,Sudhanva B,Andrew F,26,28,2,0,group Grossular
+g112,rr,RR5,5,Luyao Y,Andrew F,12,50,2,0,group Grossular
+g113,rr,RR1,1,Aastik B,Camille P,32,40,2,0,group Spessartine
+g114,rr,RR2,2,Aastik B,Suzuko O,8,64,2,0,group Spessartine
+g115,rr,RR3,3,Aastik B,Travis D,22,56,2,0,group Spessartine
+g116,rr,RR4,4,Aastik B,Isaiah S,24,46,2,0,group Spessartine
+g117,rr,RR5,5,Aastik B,Taran J,24,12,1,0,group Spessartine
+g118,rr,RR6,6,Aastik B,Kian D,8,38,2,0,group Spessartine
+g119,rr,RR7,7,Aastik B,Abhiraam G,36,48,2,0,group Spessartine
+g120,rr,RR3,3,Camille P,Suzuko O,42,32,1,0,group Spessartine
+g121,rr,RR4,4,Camille P,Travis D,40,38,1,0,group Spessartine
+g122,rr,RR5,5,Camille P,Isaiah S,38,36,1,0,group Spessartine
+g123,rr,RR6,6,Camille P,Taran J,46,12,1,0,group Spessartine
+g124,rr,RR7,7,Camille P,Kian D,60,14,1,0,group Spessartine
+g125,rr,RR2,2,Camille P,Abhiraam G,48,26,1,0,group Spessartine
+g126,rr,RR5,5,Suzuko O,Travis D,30,20,1,0,group Spessartine
+g127,rr,RR6,6,Suzuko O,Isaiah S,66,16,1,0,group Spessartine
+g128,rr,RR7,7,Suzuko O,Taran J,36,12,1,0,group Spessartine
+g129,rr,RR1,1,Suzuko O,Kian D,38,30,1,0,group Spessartine
+g130,rr,RR4,4,Suzuko O,Abhiraam G,52,18,1,0,group Spessartine
+g131,rr,RR7,7,Travis D,Isaiah S,44,24,1,0,group Spessartine
+g132,rr,RR1,1,Travis D,Taran J,66,12,1,0,group Spessartine
+g133,rr,RR2,2,Travis D,Kian D,48,14,1,0,group Spessartine
+g134,rr,RR6,6,Travis D,Abhiraam G,10,38,2,0,group Spessartine
+g135,rr,RR2,2,Isaiah S,Taran J,46,12,1,0,group Spessartine
+g136,rr,RR3,3,Isaiah S,Kian D,36,38,2,0,group Spessartine
+g137,rr,RR1,1,Isaiah S,Abhiraam G,54,40,1,0,group Spessartine
+g138,rr,RR4,4,Taran J,Kian D,10,32,2,0,group Spessartine
+g139,rr,RR3,3,Taran J,Abhiraam G,16,32,2,0,group Spessartine
+g140,rr,RR5,5,Kian D,Abhiraam G,18,32,2,0,group Spessartine
+g141,rr,RR1,1,Henry L,Ian C,20,28,2,0,group Uvarovite
+g142,rr,RR2,2,Henry L,Ryan E,46,40,1,0,group Uvarovite
+g143,rr,RR3,3,Henry L,Rohan B,14,70,2,0,group Uvarovite
+g144,rr,RR4,4,Henry L,Joey L,24,42,2,0,group Uvarovite
+g145,rr,RR5,5,Henry L,Gautam G,22,22,T,0,group Uvarovite
+g146,rr,RR6,6,Henry L,Darius S,16,50,2,0,group Uvarovite
+g147,rr,RR7,7,Henry L,Daniel J,62,10,1,0,group Uvarovite
+g148,rr,RR3,3,Ian C,Ryan E,18,48,2,0,group Uvarovite
+g149,rr,RR4,4,Ian C,Rohan B,28,62,2,0,group Uvarovite
+g150,rr,RR5,5,Ian C,Joey L,28,0,1,0,group Uvarovite
+g151,rr,RR6,6,Ian C,Gautam G,28,28,T,0,group Uvarovite
+g152,rr,RR7,7,Ian C,Darius S,34,18,1,0,group Uvarovite
+g153,rr,RR2,2,Ian C,Daniel J,40,16,1,0,group Uvarovite
+g154,rr,RR5,5,Ryan E,Rohan B,42,44,2,0,group Uvarovite
+g155,rr,RR6,6,Ryan E,Joey L,40,30,1,0,group Uvarovite
+g156,rr,RR7,7,Ryan E,Gautam G,58,0,1,0,group Uvarovite
+g157,rr,RR1,1,Ryan E,Darius S,42,54,2,0,group Uvarovite
+g158,rr,RR4,4,Ryan E,Daniel J,34,30,1,0,group Uvarovite
+g159,rr,RR7,7,Rohan B,Joey L,52,24,1,0,group Uvarovite
+g160,rr,RR1,1,Rohan B,Gautam G,80,8,1,0,group Uvarovite
+g161,rr,RR2,2,Rohan B,Darius S,58,8,1,0,group Uvarovite
+g162,rr,RR6,6,Rohan B,Daniel J,42,10,1,0,group Uvarovite
+g163,rr,RR2,2,Joey L,Gautam G,56,4,1,0,group Uvarovite
+g164,rr,RR3,3,Joey L,Darius S,26,34,2,0,group Uvarovite
+g165,rr,RR1,1,Joey L,Daniel J,50,22,1,0,group Uvarovite
+g166,rr,RR4,4,Gautam G,Darius S,8,44,2,0,group Uvarovite
+g167,rr,RR3,3,Gautam G,Daniel J,28,30,2,0,group Uvarovite
+g168,rr,RR5,5,Darius S,Daniel J,30,34,2,0,group Uvarovite
+g169,playoff,DE 1,8,Darius S,Advai S,0,72,2,0,game 1
+g170,playoff,DE 1,8,Bryce T,Baljeet C,4,56,2,0,game 2
+g171,playoff,DE 1,8,Akshay R,Ian C,22,78,2,0,game 3
+g172,playoff,DE 1,8,Akhil B,Jason Y,92,46,1,0,game 4
+g173,playoff,DE 1,8,Kevin F,Travis D,66,74,2,0,game 5
+g174,playoff,DE 1,8,Varyan J,Luyao Y,126,-8,1,0,game 6
+g175,playoff,DE 1,8,Henry L,Praneel A,40,96,2,0,game 7
+g176,playoff,DE 1,8,Alex Z,Abhiraam G,0,36,2,0,game 8
+g177,playoff,DE 2,9,Rohan B,Advai S,90,44,1,0,game 9
+g178,playoff,DE 2,9,Kensuke O,Baljeet C,128,32,1,0,game 10
+g179,playoff,DE 2,9,Peter B,Ian C,130,32,1,0,game 11
+g180,playoff,DE 2,9,Camille P,Akhil B,6,56,2,0,game 12
+g181,playoff,DE 2,9,Alex L,Travis D,58,58,T,0,game 13; Travis D won the tiebreaker
+g182,playoff,DE 2,9,Ishaan K,Varyan J,44,70,2,0,game 14
+g183,playoff,DE 2,9,Suzuko O,Praneel A,80,14,1,0,game 15
+g184,playoff,DE 2,9,Ziang Z,Abhiraam G,104,-36,1,0,game 16
+g185,playoff,DE 3,10,Darius S,Abhiraam G,72,0,1,0,game 17
+g186,playoff,DE 3,10,Bryce T,Praneel A,26,94,2,0,game 18
+g187,playoff,DE 3,10,Akshay R,Ishaan K,40,62,2,0,game 19
+g188,playoff,DE 3,10,Jason Y,Alex L,38,76,2,0,game 20
+g189,playoff,DE 3,10,Kevin F,Camille P,44,62,2,0,game 21
+g190,playoff,DE 3,10,Luyao Y,Ian C,56,42,1,0,game 22
+g191,playoff,DE 3,10,Henry L,Baljeet C,36,38,2,0,game 23
+g192,playoff,DE 3,10,Alex Z,Advai S,96,46,1,0,game 24
+g193,playoff,DE 4,11,Rohan B,Kensuke O,38,82,2,0,game 25
+g194,playoff,DE 4,11,Peter B,Akhil B,76,46,1,0,game 26
+g195,playoff,DE 4,11,Travis D,Varyan J,4,70,2,0,game 27
+g196,playoff,DE 4,11,Suzuko O,Ziang Z,66,90,2,0,game 28
+g197,playoff,DE 4,11,Darius S,Praneel A,18,12,1,0,game 29
+g198,playoff,DE 4,11,Ishaan K,Alex L,58,42,1,0,game 30
+g199,playoff,DE 4,11,Camille P,Luyao Y,78,42,1,0,game 31
+g200,playoff,DE 4,11,Baljeet C,Alex Z,18,50,2,0,game 32
+g201,playoff,DE 5,12,Rohan B,Darius S,90,2,1,0,game 33
+g202,playoff,DE 5,12,Akhil B,Ishaan K,34,14,1,0,game 34
+g203,playoff,DE 5,12,Travis D,Camille P,16,90,2,0,game 35
+g204,playoff,DE 5,12,Suzuko O,Alex Z,4,0,1,1,game 36; 4-0: treated as forfeit
+g205,playoff,DE 6,13,Kensuke O,Peter B,42,12,1,0,game 37
+g206,playoff,DE 6,13,Varyan J,Ziang Z,16,54,2,0,game 38
+g207,playoff,DE 6,13,Rohan B,Akhil B,62,58,1,0,game 39
+g208,playoff,DE 6,13,Camille P,Suzuko O,22,82,2,0,game 40
+g209,playoff,DE 7,14,Varyan J,Rohan B,8,40,2,0,game 41
+g210,playoff,DE 7,14,Peter B,Suzuko O,68,0,1,0,game 42
+g211,playoff,DE 8,15,Kensuke O,Ziang Z,36,30,1,0,game 43
+g212,playoff,DE 8,15,Rohan B,Peter B,4,0,1,1,game 44; 4-0: treated as forfeit
+g213,playoff,DE 9,16,Ziang Z,Rohan B,14,42,2,0,game 45
+g214,playoff,DE 10,17,Kensuke O,Rohan B,16,24,2,0,game 46
+g215,playoff,DE 11,18,Rohan B,Kensuke O,10,2,1,0,game 47

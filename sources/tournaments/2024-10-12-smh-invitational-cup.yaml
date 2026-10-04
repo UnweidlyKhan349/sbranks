@@ -18,7 +18,27 @@ sources:
   sheet_id: 14uDPD3AN8kEmY-b__RD-All9Wd921LdlNSPE7Xm7E7w
   url: https://docs.google.com/spreadsheets/d/14uDPD3AN8kEmY-b__RD-All9Wd921LdlNSPE7Xm7E7w/edit?gid=0#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_smh:parse_cup
+parser_options:
+  one_loss_seeds:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  bracket_skip:
+  - U12
+  bracket_extra:
+  - FINALS BO3 game 2|P11|R11|P21|R21
+  bracket_notes:
+    P11: best-of-3 final, game 1 (scores as recorded)
+    P11X: best-of-3 final, game 2 (scores as recorded)
+status: parsed
+notes: 120 round-robin games from the 8 group score grids (rounds from the seed-pair schedule; championship points match the
+  DE Seeding tab) and 23 double-elimination games including a best-of-3 final (two games with unusually low scores, kept as
+  recorded). RR player stats (overall + 5 subjects, no energy) from code-tagged rows; a few Arcadia/Amador Valley/Madison
+  West rows carry non-integer source values (points kept, no correct/neg counts); placeholder ("mysterious ... player") and
+  random-ID names skipped.

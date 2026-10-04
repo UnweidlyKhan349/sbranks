@@ -1,0 +1,23 @@
+{
+  "tournament_id": "2023-01-14-ignis-at-foothill",
+  "counts": {
+    "teams": 9,
+    "games": 38,
+    "games_with_scores": 38,
+    "player_stat_rows": 245,
+    "players": 35,
+    "team_game_subject_rows": 456,
+    "player_game_stat_rows": 728
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [],
+  "parser": "g2_ignis:parse_inperson"
+}

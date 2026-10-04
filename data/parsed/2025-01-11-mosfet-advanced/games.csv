@@ -1,0 +1,92 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,Round 1,1,Collierville A,MSMS B,150,78,1,0,Anfield
+g2,rr,Round 2,2,Collierville A,Shen B,146,52,1,0,Anfield
+g3,rr,Round 3,3,Collierville A,Naperville North A,110,184,2,0,Anfield
+g4,rr,Round 3,3,MSMS B,Shen B,78,72,1,0,Anfield
+g5,rr,Round 2,2,MSMS B,Naperville North A,88,152,2,0,Anfield
+g6,rr,Round 1,1,Shen B,Naperville North A,26,222,2,0,Anfield
+g7,rr,Round 1,1,Collierville B,California B,94,36,1,0,Bernabéu
+g8,rr,Round 2,2,Collierville B,Clovis North,62,142,2,0,Bernabéu
+g9,rr,Round 3,3,Collierville B,Centennial,24,182,2,0,Bernabéu
+g10,rr,Round 3,3,California B,Clovis North,4,254,2,0,Bernabéu
+g11,rr,Round 2,2,California B,Centennial,48,180,2,0,Bernabéu
+g12,rr,Round 1,1,Clovis North,Centennial,174,96,1,0,Bernabéu
+g13,rr,Round 1,1,Collierville C,Granada Hills A,22,174,2,0,Camp Nou
+g14,rr,Round 2,2,Collierville C,Poolesville,26,136,2,0,Camp Nou
+g15,rr,Round 3,3,Collierville C,Whitney Young B,18,122,2,0,Camp Nou
+g16,rr,Round 3,3,Granada Hills A,Poolesville,96,174,2,0,Camp Nou
+g17,rr,Round 2,2,Granada Hills A,Whitney Young B,92,78,1,0,Camp Nou
+g18,rr,Round 1,1,Poolesville,Whitney Young B,198,72,1,0,Camp Nou
+g19,rr,Round 1,1,California A,Whitney Young A,136,112,1,0,Deepdale
+g20,rr,Round 2,2,California A,Naperville North B,94,100,2,0,Deepdale
+g21,rr,Round 3,3,California A,Westview,40,164,2,0,Deepdale
+g22,rr,Round 3,3,Whitney Young A,Naperville North B,170,60,1,0,Deepdale
+g23,rr,Round 2,2,Whitney Young A,Westview,106,112,2,0,Deepdale
+g24,rr,Round 1,1,Naperville North B,Westview,92,168,2,0,Deepdale
+g25,rr,Round 1,1,Mountain View,Timberline B,102,62,1,0,Elland Road
+g26,rr,Round 2,2,Mountain View,Temple City,104,142,2,0,Elland Road
+g27,rr,Round 3,3,Mountain View,MSMS A,80,148,2,0,Elland Road
+g28,rr,Round 3,3,Timberline B,Temple City,62,140,2,0,Elland Road
+g29,rr,Round 2,2,Timberline B,MSMS A,46,132,2,0,Elland Road
+g30,rr,Round 1,1,Temple City,MSMS A,152,78,1,0,Elland Road
+g31,rr,Round 1,1,Timberline A,Granada Hills B,114,58,1,0,Fratton Park
+g32,rr,Round 2,2,Timberline A,Shen A,130,82,1,0,Fratton Park
+g33,rr,Round 3,3,Timberline A,Stevenson,124,42,1,0,Fratton Park
+g34,rr,Round 3,3,Granada Hills B,Shen A,94,136,2,0,Fratton Park
+g35,rr,Round 2,2,Granada Hills B,Stevenson,40,26,1,0,Fratton Park
+g36,rr,Round 1,1,Shen A,Stevenson,118,12,1,0,Fratton Park
+g37,rr,Round 6,6,Clovis North,Naperville North A,114,126,2,0,Accra
+g38,rr,Round 5,5,Clovis North,Poolesville,106,164,2,0,Accra
+g39,rr,Round 4,4,Clovis North,Centennial,146,124,1,0,Accra
+g40,rr,Round 4,4,Naperville North A,Poolesville,152,118,1,0,Accra
+g41,rr,Round 5,5,Naperville North A,Centennial,116,132,2,0,Accra
+g42,rr,Round 6,6,Poolesville,Centennial,122,76,1,0,Accra
+g43,rr,Round 6,6,Westview,Temple City,72,60,1,0,Bamako
+g44,rr,Round 5,5,Westview,Timberline A,142,54,1,0,Bamako
+g45,rr,Round 4,4,Westview,Collierville A,112,76,1,0,Bamako
+g46,rr,Round 4,4,Temple City,Timberline A,104,72,1,0,Bamako
+g47,rr,Round 5,5,Temple City,Collierville A,110,84,1,0,Bamako
+g48,rr,Round 6,6,Timberline A,Collierville A,60,90,2,0,Bamako
+g49,rr,Round 6,6,Whitney Young A,Granada Hills A,86,108,2,0,Cairo
+g50,rr,Round 5,5,Whitney Young A,Mountain View,88,80,1,0,Cairo
+g51,rr,Round 4,4,Whitney Young A,Whitney Young B,126,30,1,0,Cairo
+g52,rr,Round 4,4,Granada Hills A,Mountain View,108,84,1,0,Cairo
+g53,rr,Round 5,5,Granada Hills A,Whitney Young B,160,18,1,0,Cairo
+g54,rr,Round 6,6,Mountain View,Whitney Young B,62,56,1,0,Cairo
+g55,rr,Round 6,6,California A,MSMS B,74,48,1,0,Dakar
+g56,rr,Round 5,5,California A,MSMS A,58,108,2,0,Dakar
+g57,rr,Round 4,4,California A,Shen A,74,116,2,0,Dakar
+g58,rr,Round 4,4,MSMS B,MSMS A,14,150,2,0,Dakar
+g59,rr,Round 5,5,MSMS B,Shen A,30,108,2,0,Dakar
+g60,rr,Round 6,6,MSMS A,Shen A,84,60,1,0,Dakar
+g61,rr,Round 6,6,Granada Hills B,Collierville B,58,108,2,0,Edinburgh
+g62,rr,Round 4,4,Granada Hills B,Timberline B,74,66,1,0,Edinburgh
+g63,rr,Round 5,5,Collierville B,Timberline B,32,56,2,0,Edinburgh
+g64,rr,Round 6,6,Shen B,California B,74,38,1,0,Freetown
+g65,rr,Round 5,5,Shen B,Stevenson,60,26,1,0,Freetown
+g66,rr,Round 4,4,Shen B,Collierville C,52,18,1,0,Freetown
+g67,rr,Round 4,4,California B,Stevenson,44,24,1,0,Freetown
+g68,rr,Round 5,5,California B,Collierville C,40,60,2,0,Freetown
+g69,rr,Round 6,6,Stevenson,Collierville C,4,76,2,0,Freetown
+de-B11,playoff,Play-in,7,Granada Hills A,Stevenson,100,12,1,0,
+de-B15,playoff,Play-in,7,California A,Granada Hills B,,,1,0,
+de-B19,playoff,Play-in,7,Whitney Young A,California B,122,12,1,0,
+de-B23,playoff,Play-in,7,Whitney Young B,Shen B,74,18,1,0,
+de-B31,playoff,Play-in,7,Mountain View,Collierville C,58,48,1,0,
+de-B35,playoff,Play-in,7,Shen A,Timberline B,18,46,2,0,
+de-B7,playoff,Play-in,7,MSMS B,Collierville B,24,70,2,0,
+de-E10,playoff,Round of 16,8,Timberline A,Granada Hills A,66,76,2,0,
+de-E14,playoff,Round of 16,8,Temple City,California A,54,24,1,0,
+de-E18,playoff,Round of 16,8,Clovis North,Whitney Young A,70,130,2,0,
+de-E22,playoff,Round of 16,8,Westview,Whitney Young B,94,62,1,0,
+de-E26,playoff,Round of 16,8,Centennial,MSMS A,74,78,2,0,
+de-E30,playoff,Round of 16,8,Poolesville,Mountain View,108,48,1,0,
+de-E34,playoff,Round of 16,8,Collierville A,Timberline B,88,26,1,0,
+de-E6,playoff,Round of 16,8,Naperville North A,Collierville B,128,30,1,0,
+de-G16,playoff,Quarterfinals,9,Temple City,Whitney Young A,66,108,2,0,
+de-G24,playoff,Quarterfinals,9,Westview,MSMS A,30,94,2,0,
+de-G32,playoff,Quarterfinals,9,Poolesville,Collierville A,150,62,1,0,
+de-G8,playoff,Quarterfinals,9,Naperville North A,Granada Hills A,108,62,1,0,
+de-J12,playoff,Semifinals,10,Naperville North A,Whitney Young A,68,50,1,0,
+de-J28,playoff,Semifinals,10,MSMS A,Poolesville,50,74,2,0,
+de-M20,playoff,Finals,11,Naperville North A,Poolesville,88,50,1,0,

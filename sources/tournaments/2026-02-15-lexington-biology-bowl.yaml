@@ -19,11 +19,18 @@ sources:
   url: https://docs.google.com/spreadsheets/d/18BvkcyUEkPLajn8dczuzORqjfC3TRTQNho2YZMBCEdk/edit?gid=1432902636#gid=1432902636
   file: results.xlsx
 - kind: drive_file
-  role: stats
+  role: question-analytics
   file_id: 1bZ5DyPQbe4Eje9xSCrlHcHthtLIsmWrs
   url: https://drive.google.com/file/d/1bZ5DyPQbe4Eje9xSCrlHcHthtLIsmWrs/view?usp=sharing
-  file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+  file: stats.pdf
+  note: Linked as the stats file, but it is a 6-page PDF report on question writing (drafted/used questions per author and
+    discipline), not player statistics.
+parser: g7_misc:parse_lexington_bio
+parser_options:
+  no_show:
+  - BioBattalion
+  - Olympiad Farmers
+status: partial
+notes: Biology-only. 18 teams in 3 pools (per-round results plus the schedule) plus the 14-game DE; BioBattalion and Olympiad
+  Farmers did not show up, so their games are forfeits and their game against each other is skipped. The DE reset game shows
+  'T' for both teams and is not recorded. The linked 'stats' file is a PDF of question-writing analytics, not player stats.

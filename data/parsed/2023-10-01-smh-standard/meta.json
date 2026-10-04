@@ -1,0 +1,27 @@
+{
+  "tournament_id": "2023-10-01-smh-standard",
+  "counts": {
+    "teams": 23,
+    "games": 49,
+    "games_with_scores": 22,
+    "player_stat_rows": 534,
+    "players": 89,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "group delicate: Brookfield A has 4 scheduled games but 3 games played",
+    "group delicate: TJHSST A has 4 scheduled games but 3 games played",
+    "round-robin per-game scores are not in the source (standings only); 27 of 55 results deduced from the standings"
+  ],
+  "parser": "g4_smh:parse_2023"
+}

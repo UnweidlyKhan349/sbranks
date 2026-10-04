@@ -18,7 +18,9 @@ sources:
   sheet_id: 1otqLivwW_M2hrAj27_qQf_EcRVOi8vEPupUi0s12PW8
   url: https://docs.google.com/spreadsheets/d/1otqLivwW_M2hrAj27_qQf_EcRVOi8vEPupUi0s12PW8/edit#gid=882335030
   file: results.xlsx
-parser: null
+parser: g3_online:parse_mit2020
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 80 round-robin games (8 divisions of 5) as win/loss only - the RR grids hold 2/0 win points, no scores - plus 22 double-elimination
+  games with scores. One DE score ('88 - 32', Whitney vs Eastside) is listed winner-first; the sheet's per-round average-score
+  table confirms Eastside scored 88. No player statistics in the source.

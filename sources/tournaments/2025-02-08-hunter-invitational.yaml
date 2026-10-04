@@ -23,7 +23,12 @@ sources:
   sheet_id: 1L1I1l4Si0IoQ0fq6zxJL8CNPU0zUGgLqUg_g-tw7I_c
   url: https://docs.google.com/spreadsheets/d/1L1I1l4Si0IoQ0fq6zxJL8CNPU0zUGgLqUg_g-tw7I_c/edit?gid=2131085596#gid=2131085596
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_bsb:parse_hunter_2025
+parser_options:
+  forfeit_codes:
+  - D6
+status: parsed
+notes: 23 teams in 4 pools (pool C had 5) plus the 8-team DE (interlake 2 beat SUN in both finals). RR Indiv Stats give games
+  and total/per-subject tossup points only (no corrects, negs or TUH; no energy), and players are listed by lowercase first
+  name (a few with an initial). JETS JESTERS (D6) forfeited all RR games (0-60 in the grid, stored as forfeits); school hints
+  come from the roster tab.

@@ -1,0 +1,26 @@
+{
+  "tournament_id": "2023-06-01-nsba2",
+  "counts": {
+    "teams": 12,
+    "games": 0,
+    "games_with_scores": 0,
+    "player_stat_rows": 399,
+    "players": 57,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": false,
+    "scores": false,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "2 players fit several teams and were skipped: Checkmate#4071 (Ben/Okeh City Okehios), Grrhehehehaw#1685 (Ben/Okeh City Okehios)",
+    "2 players with no buzzes could not be placed on a team: Draoethar#2910, Arp06#7233"
+  ],
+  "parser": "g3_stats_template:parse_stats_only"
+}

@@ -18,7 +18,33 @@ sources:
   sheet_id: 1YRrvZtGYVtUUy_EDXbgzBeXS75BwncpPeJ5GXRmurp8
   url: https://docs.google.com/spreadsheets/d/1YRrvZtGYVtUUy_EDXbgzBeXS75BwncpPeJ5GXRmurp8/edit?gid=0#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_dast:parse
+parser_options:
+  aliases:
+    Misson San Jose: Mission San Jose
+    Amdor Valley A: Amador Valley A
+  bracket:
+    tab: Bracket
+    anchor: ^Game \d+$
+    gid_re: ^Game (\d+)$
+    score: row
+    winner: right
+    winner_high: true
+    header_row: 0
+    seq_base: 3
+    skip:
+    - Channel$
+    - ^[LW]\d+$
+    - ^\[\d+\]$
+    - ^To W\d+
+    - Bracket
+    - ^Champion$
+    - ' and '
+    ignore:
+    - '31'
+    round_num: ^DE ?(\d+)
+    round_fmt: DE{n}
+status: parsed
+notes: Results only. RR (five 4-team groups) plus the full double-elimination bracket with scores (Games 1 and 2 have winners
+  only). The bracket's score strings are not consistently ordered, so the bracket winner gets the higher score. Lynbrook and
+  North Hollywood were declared co-champions after Game 30, and Game 31 was not played.

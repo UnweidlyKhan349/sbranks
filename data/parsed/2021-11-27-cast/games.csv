@@ -1,0 +1,51 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,,1,SCDS,Enloe 1,28,132,2,0,division Don't Ask Me
+g2,rr,,1,SCDS,Beckman 2,50,44,1,0,division Don't Ask Me
+g3,rr,,1,SCDS,Ed W Clark 1,30,44,2,0,division Don't Ask Me
+g4,rr,,1,Enloe 1,Beckman 2,88,40,1,0,division Don't Ask Me
+g5,rr,,1,Enloe 1,Ed W Clark 1,98,8,1,0,division Don't Ask Me
+g6,rr,,1,Beckman 2,Ed W Clark 1,30,26,1,0,division Don't Ask Me
+g7,rr,,1,Foothill,Stevens Creek,78,36,1,0,division I Don't Know
+g8,rr,,1,Foothill,Sharon 2,80,4,1,0,division I Don't Know
+g9,rr,,1,Foothill,Choate Zebrafish,102,70,1,0,division I Don't Know
+g10,rr,,1,Foothill,Bethlehem,64,38,1,0,division I Don't Know
+g11,rr,,1,Stevens Creek,Sharon 2,96,12,1,0,division I Don't Know
+g12,rr,,1,Stevens Creek,Choate Zebrafish,88,62,1,0,division I Don't Know
+g13,rr,,1,Stevens Creek,Bethlehem,90,50,1,0,division I Don't Know
+g14,rr,,1,Sharon 2,Choate Zebrafish,4,118,2,0,division I Don't Know
+g15,rr,,1,Sharon 2,Bethlehem,12,82,2,0,division I Don't Know
+g16,rr,,1,Choate Zebrafish,Bethlehem,68,54,1,0,division I Don't Know
+g17,rr,,1,Hwite Bread 1,Sharon 1,104,4,1,0,division No Clue
+g18,rr,,1,Hwite Bread 1,Enloe 2,94,48,1,0,division No Clue
+g19,rr,,1,Hwite Bread 1,Staples,126,40,1,0,division No Clue
+g20,rr,,1,Hwite Bread 1,Phoenix,66,82,2,0,division No Clue
+g21,rr,,1,Sharon 1,Enloe 2,18,94,2,0,division No Clue
+g22,rr,,1,Sharon 1,Staples,20,42,2,0,division No Clue
+g23,rr,,1,Sharon 1,Phoenix,8,128,2,0,division No Clue
+g24,rr,,1,Enloe 2,Staples,70,36,1,0,division No Clue
+g25,rr,,1,Enloe 2,Phoenix,26,104,2,0,division No Clue
+g26,rr,,1,Staples,Phoenix,14,128,2,0,division No Clue
+g27,rr,,1,Van Nuys,Beckman 1,20,44,2,0,division What?
+g28,rr,,1,Van Nuys,Ed W Clark 2,40,30,1,0,division What?
+g29,rr,,1,Van Nuys,Whitney,48,146,2,0,division What?
+g30,rr,,1,Van Nuys,Hwite Bread 2,22,98,2,0,division What?
+g31,rr,,1,Beckman 1,Ed W Clark 2,72,28,1,0,division What?
+g32,rr,,1,Beckman 1,Whitney,26,82,2,0,division What?
+g33,rr,,1,Beckman 1,Hwite Bread 2,18,94,2,0,division What?
+g34,rr,,1,Ed W Clark 2,Whitney,26,90,2,0,division What?
+g35,rr,,1,Ed W Clark 2,Hwite Bread 2,12,56,2,0,division What?
+g36,rr,,1,Whitney,Hwite Bread 2,78,50,1,0,division What?
+g37,playoff,Octofinals,2,Phoenix,Van Nuys,126,22,1,0,
+g38,playoff,Octofinals,2,Choate Zebrafish,Enloe 2,54,68,2,0,
+g39,playoff,Octofinals,2,Foothill,Ed W Clark 1,44,34,1,0,
+g40,playoff,Octofinals,2,Hwite Bread 1,SCDS,22,24,2,0,
+g41,playoff,Octofinals,2,Enloe 1,Staples,58,30,1,0,
+g42,playoff,Octofinals,2,Hwite Bread 2,Beckman 1,34,18,1,0,
+g43,playoff,Octofinals,2,Whitney,Bethlehem,8,38,2,0,
+g44,playoff,Octofinals,2,Stevens Creek,Beckman 2,52,16,1,0,
+g45,playoff,Quarterfinals,3,Phoenix,Enloe 2,96,32,1,0,
+g46,playoff,Quarterfinals,3,Foothill,SCDS,32,18,1,0,
+g47,playoff,Quarterfinals,3,Enloe 1,Hwite Bread 2,14,56,2,0,
+g48,playoff,Quarterfinals,3,Bethlehem,Stevens Creek,30,70,2,0,
+g49,playoff,Semifinals,4,Phoenix,Foothill,,,1,0,winner from the Round of 2 tab; score not reported
+g50,playoff,Semifinals,4,Hwite Bread 2,Stevens Creek,,,2,0,winner from the Round of 2 tab; score not reported

@@ -18,7 +18,8 @@ sources:
   sheet_id: 14VnXjYArei_2LLBstH4Vamdy8DSnEOqb
   url: https://docs.google.com/spreadsheets/d/14VnXjYArei_2LLBstH4Vamdy8DSnEOqb/edit?gid=185593515#gid=185593515
   file: stats.xlsx
-parser: null
+parser: g3_stats_template:parse_stats_only
 parser_options: {}
-status: todo
-notes: ''
+status: partial
+notes: Online draft league; only the stats workbook exists (no game results). 57 of 61 players placed on teams by exact sums
+  against the team tabs (2 interchangeable, 2 zero-buzz skipped); 'compsci' mapped to other. Player names are Discord handles.

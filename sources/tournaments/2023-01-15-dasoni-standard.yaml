@@ -23,7 +23,17 @@ sources:
   sheet_id: 1Dm_VZxUWOhHjB6vjmz5t622ALK9ZYkkhqvwJIejEIww
   url: https://docs.google.com/spreadsheets/d/1Dm_VZxUWOhHjB6vjmz5t622ALK9ZYkkhqvwJIejEIww/edit#gid=346318044
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_dasoni:parse_2023_standard
+parser_options:
+  round_labels:
+    '0': DE1
+    '2': DE2
+    '4': DE3
+    '6': DE4
+    '8': DE5
+    '10': DE6
+status: partial
+notes: 48 round-robin games from the RR Results tab (3 rounds; every team's standings points match) and 17 double-elimination
+  games; the DE final (Interlake vs Enloe B) shows neither score nor winner and is not recorded. Player stats not extracted
+  (first names only, no team column, team tabs do not reconcile with player rows). The RR Pairings tab is an outdated 4-round
+  draft and is ignored.

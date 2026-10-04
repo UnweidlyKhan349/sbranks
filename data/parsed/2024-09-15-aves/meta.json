@@ -1,0 +1,27 @@
+{
+  "tournament_id": "2024-09-15-aves",
+  "counts": {
+    "teams": 42,
+    "games": 127,
+    "games_with_scores": 127,
+    "player_stat_rows": 1152,
+    "players": 192,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "Individual PPG: player 'JasonY' matches 2 roster entries [('Jason Y', 'Ward Melville Senior High 1'), ('Jason Y', 'Canyon Crest Academy 1')]; skipped",
+    "Individual PPG: player 'JasonY' matches 2 roster entries [('Jason Y', 'Ward Melville Senior High 1'), ('Jason Y', 'Canyon Crest Academy 1')]; skipped",
+    "Individual PPG: player 'ClarkB' matches 0 roster entries []; skipped"
+  ],
+  "parser": "g4_livescoresheet:parse_aves"
+}

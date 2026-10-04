@@ -1,0 +1,101 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,1,1,North Hollywood,Dulles B,178,12,1,0,division Amino
+g2,rr,1,1,Crestview Middle,Buchholz A,32,130,2,0,division Amino
+g3,rr,1,1,Lexington 2,Niskayuna A,76,24,1,0,division Amino
+g4,rr,1,1,MSJ C,South Hollywood,34,44,2,0,division Bijection
+g5,rr,1,1,Westminster,Shen,142,22,1,0,division Bijection
+g6,rr,1,1,Dulles A,CCA 1,192,22,1,0,division Bijection
+g7,rr,1,1,Hwite Bread A,Sodium Hypobromite,136,24,1,0,division Cesium
+g8,rr,1,1,Foothill,MSJ B,92,60,1,0,division Cesium
+g9,rr,1,1,Niskayuna B,Knights,32,72,2,0,division Dielectric
+g10,rr,1,1,MSJ A,Hwite Bread B,102,56,1,0,division Dielectric
+g11,rr,1,1,Pullman A,CCA 2,62,12,1,0,division Electron
+g12,rr,1,1,Lexington 1,University,14,150,2,0,division Electron
+g13,rr,1,1,Lakeside,Centennial,68,162,2,0,division Fluorite
+g14,rr,1,1,SSM-GH,Amador Valley 2,132,16,1,0,division Fluorite
+g15,rr,2,2,North Hollywood,Crestview Middle,122,8,1,0,division Amino
+g16,rr,2,2,Dulles B,Lexington 2,42,22,1,0,division Amino
+g17,rr,2,2,Buchholz A,Niskayuna A,92,12,1,0,division Amino
+g18,rr,2,2,MSJ C,Westminster,36,110,2,0,division Bijection
+g19,rr,2,2,South Hollywood,Dulles A,48,100,2,0,division Bijection
+g20,rr,2,2,Shen,CCA 1,72,76,2,0,division Bijection
+g21,rr,2,2,Hwite Bread A,Foothill,98,74,1,0,division Cesium
+g22,rr,2,2,Sodium Hypobromite,Iolani B,112,26,1,0,division Cesium
+g23,rr,2,2,Niskayuna B,MSJ A,30,60,2,0,division Dielectric
+g24,rr,2,2,Knights,Amador Valley 1,92,38,1,0,division Dielectric
+g25,rr,2,2,Pullman A,Lexington 1,12,72,2,0,division Electron
+g26,rr,2,2,CCA 2,Iolani A,24,82,2,0,division Electron
+g27,rr,2,2,Lakeside,SSM-GH,52,62,2,0,division Fluorite
+g28,rr,2,2,Centennial,Saratoga,106,74,1,0,division Fluorite
+g29,rr,3,3,North Hollywood,Buchholz A,168,88,1,0,division Amino
+g30,rr,3,3,Dulles B,Niskayuna A,28,72,2,0,division Amino
+g31,rr,3,3,Crestview Middle,Lexington 2,44,46,2,0,division Amino
+g32,rr,3,3,MSJ C,Shen,30,88,2,0,division Bijection
+g33,rr,3,3,South Hollywood,CCA 1,122,46,1,0,division Bijection
+g34,rr,3,3,Westminster,Dulles A,94,108,2,0,division Bijection
+g35,rr,3,3,Hwite Bread A,MSJ B,190,0,1,0,division Cesium
+g36,rr,3,3,Foothill,Iolani B,118,22,1,0,division Cesium
+g37,rr,3,3,Niskayuna B,Hwite Bread B,70,80,2,0,division Dielectric
+g38,rr,3,3,MSJ A,Amador Valley 1,124,40,1,0,division Dielectric
+g39,rr,3,3,Pullman A,University,10,208,2,0,division Electron
+g40,rr,3,3,Lexington 1,Iolani A,102,44,1,0,division Electron
+g41,rr,3,3,Lakeside,Amador Valley 2,106,28,1,0,division Fluorite
+g42,rr,3,3,SSM-GH,Saratoga,60,58,1,0,division Fluorite
+g43,rr,4,4,North Hollywood,Lexington 2,106,22,1,0,division Amino
+g44,rr,4,4,Dulles B,Buchholz A,8,154,2,0,division Amino
+g45,rr,4,4,Crestview Middle,Niskayuna A,54,38,1,0,division Amino
+g46,rr,4,4,MSJ C,Dulles A,32,68,2,0,division Bijection
+g47,rr,4,4,South Hollywood,Shen,74,54,1,0,division Bijection
+g48,rr,4,4,Westminster,CCA 1,106,26,1,0,division Bijection
+g49,rr,4,4,Hwite Bread A,Iolani B,110,4,1,0,division Cesium
+g50,rr,4,4,Sodium Hypobromite,MSJ B,80,22,1,0,division Cesium
+g51,rr,4,4,Niskayuna B,Amador Valley 1,20,34,2,0,division Dielectric
+g52,rr,4,4,Knights,Hwite Bread B,86,72,1,0,division Dielectric
+g53,rr,4,4,Pullman A,Iolani A,64,26,1,0,division Electron
+g54,rr,4,4,CCA 2,University,22,110,2,0,division Electron
+g55,rr,4,4,Lakeside,Saratoga,50,104,2,0,division Fluorite
+g56,rr,4,4,Centennial,Amador Valley 2,132,8,1,0,division Fluorite
+g57,rr,5,5,North Hollywood,Niskayuna A,124,0,1,0,division Amino
+g58,rr,5,5,Dulles B,Crestview Middle,18,44,2,0,division Amino
+g59,rr,5,5,Buchholz A,Lexington 2,106,-4,1,0,division Amino
+g60,rr,5,5,MSJ C,CCA 1,40,40,T,0,division Bijection
+g61,rr,5,5,South Hollywood,Westminster,52,68,2,0,division Bijection
+g62,rr,5,5,Shen,Dulles A,54,88,2,0,division Bijection
+g63,rr,5,5,Sodium Hypobromite,Foothill,58,40,1,0,division Cesium
+g64,rr,5,5,MSJ B,Iolani B,74,4,1,0,division Cesium
+g65,rr,5,5,Knights,MSJ A,74,98,2,0,division Dielectric
+g66,rr,5,5,Hwite Bread B,Amador Valley 1,28,60,2,0,division Dielectric
+g67,rr,5,5,CCA 2,Lexington 1,34,54,2,0,division Electron
+g68,rr,5,5,University,Iolani A,156,50.6,1,0,division Electron; score 50.6 as written in the source (not a whole number)
+g69,rr,5,5,Centennial,SSM-GH,106,76,1,0,division Fluorite
+g70,rr,5,5,Amador Valley 2,Saratoga,26,94,2,0,division Fluorite
+g71,playoff,DE WB Round 1,6,North Hollywood,Saratoga,94,54,1,0,
+g72,playoff,DE WB Round 1,6,Sodium Hypobromite,Knights,88,82,1,0,
+g73,playoff,DE WB Round 1,6,Dulles A,Foothill,76,42,1,0,
+g74,playoff,DE WB Round 1,6,University,SSM-GH,112,18,1,0,
+g75,playoff,DE WB Round 1,6,Hwite Bread A,South Hollywood,72,60,1,0,
+g76,playoff,DE WB Round 1,6,Buchholz A,Westminster,86,60,1,0,
+g77,playoff,DE WB Round 1,6,MSJ A,Amador Valley 1,82,40,1,0,
+g78,playoff,DE WB Round 1,6,Centennial,Lexington 1,104,42,1,0,
+g79,playoff,DE LB Round 1,7,Saratoga,Knights,20,70,2,0,
+g80,playoff,DE LB Round 1,7,Foothill,SSM-GH,72,32,1,0,
+g81,playoff,DE LB Round 1,7,South Hollywood,Westminster,60,70,2,0,
+g82,playoff,DE LB Round 1,7,Amador Valley 1,Lexington 1,44,24,1,0,
+g83,playoff,DE WB Round 2,7,North Hollywood,Sodium Hypobromite,,,1,0,winner from the bracket; score not reported
+g84,playoff,DE WB Round 2,7,Dulles A,University,72,96,2,0,
+g85,playoff,DE WB Round 2,7,Hwite Bread A,Buchholz A,74,32,1,0,
+g86,playoff,DE WB Round 2,7,MSJ A,Centennial,42,102,2,0,
+g87,playoff,DE LB Round 2,8,MSJ A,Knights,42,76,2,0,
+g88,playoff,DE LB Round 2,8,Buchholz A,Foothill,118,4,1,0,
+g89,playoff,DE LB Round 2,8,Dulles A,Westminster,144,22,1,0,
+g90,playoff,DE LB Round 2,8,Sodium Hypobromite,Amador Valley 1,26,34,2,0,
+g91,playoff,DE WB Round 3,8,North Hollywood,University,124,24,1,0,
+g92,playoff,DE WB Round 3,8,Hwite Bread A,Centennial,58,30,1,0,
+g93,playoff,DE LB Round 3,9,Knights,Buchholz A,58,62,2,0,"54-54 after regulation, tiebreaker 4-8 (score includes the tiebreaker)"
+g94,playoff,DE LB Round 3,9,Dulles A,Amador Valley 1,70,28,1,0,
+g95,playoff,DE LB Round 4,10,University,Buchholz A,66,36,1,0,
+g96,playoff,DE LB Round 4,10,Centennial,Dulles A,72,78,2,0,
+g97,playoff,DE WB Final,10,North Hollywood,Hwite Bread A,26,18,1,0,
+g98,playoff,DE LB Round 5,11,University,Dulles A,54,56,2,0,
+g99,playoff,DE LB Final,12,Hwite Bread A,Dulles A,78,10,1,0,
+g100,playoff,DE Grand Final,13,North Hollywood,Hwite Bread A,34,14,1,0,

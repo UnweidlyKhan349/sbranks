@@ -1,0 +1,221 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+383,rr,RR1,1,Ward Melville 2,Cupertino 1,104,36,1,0,pool Avadavats
+393,rr,RR1,1,Davidson Academy,Temple City,158,24,1,0,pool Avadavats
+396,rr,RR1,1,CCA 1,West Windsor-Plainsboro North,88,112,2,0,pool Avadavats
+398,rr,RR1,1,VMATHs,Clovis North High,68,130,2,0,pool Bellbirds
+408,rr,RR1,1,Lakeside 1,Troy 1,182,18,1,0,pool Bellbirds
+411,rr,RR1,1,Research Triangle,Blair 2,54,124,2,0,pool Bellbirds
+413,rr,RR1,1,Mission San Jose 2,Wayzata,96,82,1,0,pool Condors
+423,rr,RR1,1,Hunter College 1,IMSA 1,148,20,1,0,pool Condors
+426,rr,RR1,1,Collierville 1,Camas,128,18,1,0,pool Condors
+428,rr,RR1,1,Arcadia 1,MSJ 3,68,98,2,0,pool Dovekies
+438,rr,RR1,1,James Clemens,John P. Stevens,140,8,1,0,pool Dovekies
+441,rr,RR1,1,Westview 1,Ladue,4,178,2,0,pool Dovekies
+443,rr,RR1,1,North Hollywood 1,Palo Alto 1,98,112,2,0,pool Egrets
+453,rr,RR1,1,Princeton,BRMHS 2,86,68,1,0,pool Egrets
+456,rr,RR1,1,BASIS Independent Fremont,Cupertino 2,124,22,1,0,pool Egrets
+468,rr,RR1,1,Harvard Westlake 1,WWPS 1,64,120,2,0,pool Frigatebirds
+471,rr,RR1,1,North Hollywood 2,Jericho 2,174,4,1,0,pool Frigatebirds
+473,rr,RR1,1,Ward Melville 1,OCSA,198,32,1,0,pool Godwits
+483,rr,RR1,1,Blair 3,Whitney Young 1,46,64,2,0,pool Godwits
+486,rr,RR1,1,AHB 1,BISV 2,94,60,1,0,pool Godwits
+488,rr,RR1,1,University 2,School of Astronomy,32,152,2,0,pool Hornbills
+498,rr,RR1,1,The Frazer School 1,State College Area 1,204,18,1,0,pool Hornbills
+501,rr,RR1,1,Eastlake,Lynbrook 1,56,126,2,0,pool Hornbills
+503,rr,RR1,1,Collierville 2,Punahou,46,108,2,0,pool Ibises
+513,rr,RR1,1,Thomas Jefferson 1,Arcadia 2,148,40,1,0,pool Ibises
+516,rr,RR1,1,BRMHS 1,BISV 1,92,118,2,0,pool Ibises
+518,rr,RR1,1,Minnesota Institute of Timberwolves,College Park,178,12,1,0,pool Jacanas
+528,rr,RR1,1,Iolani School 1,WWPS 2,50,88,2,0,pool Jacanas
+531,rr,RR1,1,ASFA 1,Bridgeland,204,6,1,0,pool Jacanas
+533,rr,RR1,1,Harvard Westlake 2,Jericho 1,18,142,2,0,pool Kites
+543,rr,RR1,1,Mission San Jose 1,Academies of Loudoun,198,4,1,0,pool Kites
+546,rr,RR1,1,CCA 2,Whitney Young 2,64,54,1,0,pool Kites
+548,rr,RR1,1,Blair 1,Lexington,142,70,1,0,pool Lapwings
+558,rr,RR1,1,BUMSJK,Throrthwood Tottenham,38,116,2,0,pool Lapwings
+561,rr,RR1,1,State College Area 2,IMSA 2,0,76,2,1,pool Lapwings; State College Area 2 had no players on the scoresheet and scored 0; treated as forfeit
+384,rr,RR2,2,Ward Melville 2,Davidson Academy,4,126,2,0,pool Avadavats
+391,rr,RR2,2,Cupertino 1,West Windsor-Plainsboro North,8,166,2,0,pool Avadavats
+395,rr,RR2,2,CCA 1,Temple City,60,114,2,0,pool Avadavats
+399,rr,RR2,2,VMATHs,Lakeside 1,80,40,1,0,pool Bellbirds
+406,rr,RR2,2,Clovis North High,Blair 2,64,70,2,0,pool Bellbirds
+410,rr,RR2,2,Research Triangle,Troy 1,18,94,2,0,pool Bellbirds
+414,rr,RR2,2,Mission San Jose 2,Hunter College 1,122,102,1,0,pool Condors
+421,rr,RR2,2,Wayzata,Camas,134,46,1,0,pool Condors
+425,rr,RR2,2,Collierville 1,IMSA 1,64,56,1,0,pool Condors
+429,rr,RR2,2,Arcadia 1,James Clemens,78,116,2,0,pool Dovekies
+436,rr,RR2,2,MSJ 3,Ladue,90,14,1,0,pool Dovekies
+440,rr,RR2,2,Westview 1,John P. Stevens,54,10,1,0,pool Dovekies
+444,rr,RR2,2,North Hollywood 1,Princeton,122,26,1,0,pool Egrets
+451,rr,RR2,2,Palo Alto 1,Cupertino 2,164,0,1,0,pool Egrets
+455,rr,RR2,2,BASIS Independent Fremont,BRMHS 2,34,82,2,0,pool Egrets
+466,rr,RR2,2,University 1,Jericho 2,76,36,1,0,pool Frigatebirds
+470,rr,RR2,2,North Hollywood 2,WWPS 1,70,88,2,0,pool Frigatebirds
+474,rr,RR2,2,Ward Melville 1,Blair 3,132,36,1,0,pool Godwits
+481,rr,RR2,2,OCSA,BISV 2,116,56,1,0,pool Godwits
+485,rr,RR2,2,AHB 1,Whitney Young 1,96,8,1,0,pool Godwits
+489,rr,RR2,2,University 2,The Frazer School 1,14,168,2,0,pool Hornbills
+496,rr,RR2,2,School of Astronomy,Lynbrook 1,110,22,1,0,pool Hornbills
+500,rr,RR2,2,Eastlake,State College Area 1,82,58,1,0,pool Hornbills
+504,rr,RR2,2,Collierville 2,Thomas Jefferson 1,22,116,2,0,pool Ibises
+511,rr,RR2,2,Punahou,BISV 1,78,118,2,0,pool Ibises
+515,rr,RR2,2,BRMHS 1,Arcadia 2,102,32,1,0,pool Ibises
+519,rr,RR2,2,Minnesota Institute of Timberwolves,Iolani School 1,134,14,1,0,pool Jacanas
+526,rr,RR2,2,College Park,Bridgeland,82,64,1,0,pool Jacanas
+530,rr,RR2,2,ASFA 1,WWPS 2,152,26,1,0,pool Jacanas
+534,rr,RR2,2,Harvard Westlake 2,Mission San Jose 1,0,190,2,0,pool Kites
+541,rr,RR2,2,Jericho 1,Whitney Young 2,92,18,1,0,pool Kites
+545,rr,RR2,2,CCA 2,Academies of Loudoun,74,16,1,0,pool Kites
+549,rr,RR2,2,Blair 1,BUMSJK,146,14,1,0,pool Lapwings
+556,rr,RR2,2,Lexington,IMSA 2,72,-8,1,0,pool Lapwings
+560,rr,RR2,2,State College Area 2,Throrthwood Tottenham,0,156,2,1,pool Lapwings; State College Area 2 had no players on the scoresheet and scored 0; treated as forfeit
+385,rr,RR3,3,Ward Melville 2,CCA 1,64,78,2,0,pool Avadavats
+388,rr,RR3,3,Cupertino 1,Davidson Academy,28,150,2,0,pool Avadavats
+397,rr,RR3,3,Temple City,West Windsor-Plainsboro North,92,68,1,0,pool Avadavats
+400,rr,RR3,3,VMATHs,Research Triangle,84,78,1,0,pool Bellbirds
+403,rr,RR3,3,Clovis North High,Lakeside 1,54,138,2,0,pool Bellbirds
+412,rr,RR3,3,Troy 1,Blair 2,26,110,2,0,pool Bellbirds
+415,rr,RR3,3,Mission San Jose 2,Collierville 1,64,58,1,0,pool Condors
+418,rr,RR3,3,Wayzata,Hunter College 1,114,84,1,0,pool Condors
+427,rr,RR3,3,IMSA 1,Camas,6,90,2,0,pool Condors
+430,rr,RR3,3,Arcadia 1,Westview 1,118,30,1,0,pool Dovekies
+433,rr,RR3,3,MSJ 3,James Clemens,54,72,2,0,pool Dovekies
+442,rr,RR3,3,John P. Stevens,Ladue,8,160,2,0,pool Dovekies
+445,rr,RR3,3,North Hollywood 1,BASIS Independent Fremont,170,18,1,0,pool Egrets
+448,rr,RR3,3,Palo Alto 1,Princeton,146,30,1,0,pool Egrets
+457,rr,RR3,3,BRMHS 2,Cupertino 2,78,36,1,0,pool Egrets
+463,rr,RR3,3,University 1,Harvard Westlake 1,64,44,1,0,pool Frigatebirds
+472,rr,RR3,3,WWPS 1,Jericho 2,160,12,1,0,pool Frigatebirds
+475,rr,RR3,3,Ward Melville 1,AHB 1,140,32,1,0,pool Godwits
+478,rr,RR3,3,OCSA,Blair 3,102,30,1,0,pool Godwits
+487,rr,RR3,3,Whitney Young 1,BISV 2,60,72,2,0,pool Godwits
+490,rr,RR3,3,University 2,Eastlake,36,90,2,0,pool Hornbills
+493,rr,RR3,3,School of Astronomy,The Frazer School 1,46,102,2,0,pool Hornbills
+502,rr,RR3,3,State College Area 1,Lynbrook 1,50,46,1,0,pool Hornbills
+505,rr,RR3,3,Collierville 2,BRMHS 1,34,72,2,0,pool Ibises
+508,rr,RR3,3,Punahou,Thomas Jefferson 1,88,76,1,0,pool Ibises
+517,rr,RR3,3,Arcadia 2,BISV 1,40,108,2,0,pool Ibises
+520,rr,RR3,3,Minnesota Institute of Timberwolves,ASFA 1,120,72,1,0,pool Jacanas
+523,rr,RR3,3,College Park,Iolani School 1,48,54,2,0,pool Jacanas
+532,rr,RR3,3,WWPS 2,Bridgeland,130,42,1,0,pool Jacanas
+535,rr,RR3,3,Harvard Westlake 2,CCA 2,38,46,2,0,pool Kites
+538,rr,RR3,3,Jericho 1,Mission San Jose 1,58,114,2,0,pool Kites
+547,rr,RR3,3,Academies of Loudoun,Whitney Young 2,54,36,1,0,pool Kites
+550,rr,RR3,3,Blair 1,State College Area 2,226,0,1,1,pool Lapwings; State College Area 2 had no players on the scoresheet and scored 0; treated as forfeit
+553,rr,RR3,3,Lexington,BUMSJK,88,36,1,0,pool Lapwings
+562,rr,RR3,3,Throrthwood Tottenham,IMSA 2,196,18,1,0,pool Lapwings
+386,rr,RR4,4,Ward Melville 2,Temple City,28,38,2,0,pool Avadavats
+389,rr,RR4,4,Cupertino 1,CCA 1,6,54,2,0,pool Avadavats
+394,rr,RR4,4,Davidson Academy,West Windsor-Plainsboro North,70,102,2,0,pool Avadavats
+401,rr,RR4,4,VMATHs,Troy 1,92,18,1,0,pool Bellbirds
+404,rr,RR4,4,Clovis North High,Research Triangle,56,36,1,0,pool Bellbirds
+409,rr,RR4,4,Lakeside 1,Blair 2,72,60,1,0,pool Bellbirds
+416,rr,RR4,4,Mission San Jose 2,IMSA 1,78,56,1,0,pool Condors
+419,rr,RR4,4,Wayzata,Collierville 1,88,18,1,0,pool Condors
+424,rr,RR4,4,Hunter College 1,Camas,138,10,1,0,pool Condors
+431,rr,RR4,4,Arcadia 1,John P. Stevens,86,4,1,0,pool Dovekies
+434,rr,RR4,4,MSJ 3,Westview 1,68,40,1,0,pool Dovekies
+439,rr,RR4,4,James Clemens,Ladue,82,90,2,0,pool Dovekies
+446,rr,RR4,4,North Hollywood 1,BRMHS 2,98,0,1,0,pool Egrets
+449,rr,RR4,4,Palo Alto 1,BASIS Independent Fremont,94,36,1,0,pool Egrets
+454,rr,RR4,4,Princeton,Cupertino 2,58,32,1,0,pool Egrets
+464,rr,RR4,4,University 1,North Hollywood 2,26,70,2,0,pool Frigatebirds
+469,rr,RR4,4,Harvard Westlake 1,Jericho 2,36,8,1,0,pool Frigatebirds
+476,rr,RR4,4,Ward Melville 1,Whitney Young 1,76,54,1,0,pool Godwits
+479,rr,RR4,4,OCSA,AHB 1,44,42,1,0,pool Godwits
+484,rr,RR4,4,Blair 3,BISV 2,26,48,2,0,pool Godwits
+491,rr,RR4,4,University 2,State College Area 1,94,46,1,0,pool Hornbills
+494,rr,RR4,4,School of Astronomy,Eastlake,52,26,1,0,pool Hornbills
+499,rr,RR4,4,The Frazer School 1,Lynbrook 1,102,64,1,0,pool Hornbills
+506,rr,RR4,4,Collierville 2,Arcadia 2,30,62,2,0,pool Ibises
+509,rr,RR4,4,Punahou,BRMHS 1,116,36,1,0,pool Ibises
+514,rr,RR4,4,Thomas Jefferson 1,BISV 1,74,96,2,0,pool Ibises
+521,rr,RR4,4,Minnesota Institute of Timberwolves,WWPS 2,142,10,1,0,pool Jacanas
+524,rr,RR4,4,College Park,ASFA 1,8,158,2,0,pool Jacanas
+529,rr,RR4,4,Iolani School 1,Bridgeland,50,92,2,0,pool Jacanas
+536,rr,RR4,4,Harvard Westlake 2,Academies of Loudoun,44,12,1,0,pool Kites
+539,rr,RR4,4,Jericho 1,CCA 2,92,26,1,0,pool Kites
+544,rr,RR4,4,Mission San Jose 1,Whitney Young 2,182,0,1,0,pool Kites
+551,rr,RR4,4,Blair 1,Throrthwood Tottenham,76,72,1,0,pool Lapwings
+554,rr,RR4,4,Lexington,State College Area 2,32,0,1,1,pool Lapwings; State College Area 2 had no players on the scoresheet and scored 0; treated as forfeit
+559,rr,RR4,4,BUMSJK,IMSA 2,16,12,1,0,pool Lapwings
+387,rr,RR5,5,Ward Melville 2,West Windsor-Plainsboro North,4,66,2,0,pool Avadavats
+390,rr,RR5,5,Cupertino 1,Temple City,22,62,2,0,pool Avadavats
+392,rr,RR5,5,Davidson Academy,CCA 1,96,28,1,0,pool Avadavats
+402,rr,RR5,5,VMATHs,Blair 2,72,78,2,0,pool Bellbirds
+405,rr,RR5,5,Clovis North High,Troy 1,90,36,1,0,pool Bellbirds
+407,rr,RR5,5,Lakeside 1,Research Triangle,96,54,1,0,pool Bellbirds
+417,rr,RR5,5,Mission San Jose 2,Camas,44,16,1,0,pool Condors
+420,rr,RR5,5,Wayzata,IMSA 1,62,8,1,0,pool Condors
+422,rr,RR5,5,Hunter College 1,Collierville 1,98,30,1,0,pool Condors
+432,rr,RR5,5,Arcadia 1,Ladue,22,116,2,0,pool Dovekies
+435,rr,RR5,5,MSJ 3,John P. Stevens,8,0,1,0,pool Dovekies
+437,rr,RR5,5,James Clemens,Westview 1,106,12,1,0,pool Dovekies
+447,rr,RR5,5,North Hollywood 1,Cupertino 2,156,4,1,0,pool Egrets
+450,rr,RR5,5,Palo Alto 1,BRMHS 2,106,8,1,0,pool Egrets
+452,rr,RR5,5,Princeton,BASIS Independent Fremont,34,-4,1,0,pool Egrets
+465,rr,RR5,5,University 1,WWPS 1,82,14,1,0,pool Frigatebirds
+467,rr,RR5,5,Harvard Westlake 1,North Hollywood 2,14,80,2,0,pool Frigatebirds
+477,rr,RR5,5,Ward Melville 1,BISV 2,102,0,1,0,pool Godwits
+480,rr,RR5,5,OCSA,Whitney Young 1,68,36,1,0,pool Godwits
+482,rr,RR5,5,Blair 3,AHB 1,4,54,2,0,pool Godwits
+492,rr,RR5,5,University 2,Lynbrook 1,40,16,1,0,pool Hornbills
+495,rr,RR5,5,School of Astronomy,State College Area 1,32,28,1,0,pool Hornbills
+497,rr,RR5,5,The Frazer School 1,Eastlake,184,12,1,0,pool Hornbills
+507,rr,RR5,5,Collierville 2,BISV 1,26,62,2,0,pool Ibises
+510,rr,RR5,5,Punahou,Arcadia 2,34,16,1,0,pool Ibises
+512,rr,RR5,5,Thomas Jefferson 1,BRMHS 1,62,36,1,0,pool Ibises
+522,rr,RR5,5,Minnesota Institute of Timberwolves,Bridgeland,110,56,1,0,pool Jacanas
+525,rr,RR5,5,College Park,WWPS 2,38,6,1,0,pool Jacanas
+527,rr,RR5,5,Iolani School 1,ASFA 1,36,76,2,0,pool Jacanas
+537,rr,RR5,5,Harvard Westlake 2,Whitney Young 2,22,30,2,0,pool Kites
+540,rr,RR5,5,Jericho 1,Academies of Loudoun,58,4,1,0,pool Kites
+542,rr,RR5,5,Mission San Jose 1,CCA 2,128,18,1,0,pool Kites
+552,rr,RR5,5,Blair 1,IMSA 2,166,-4,1,0,pool Lapwings
+555,rr,RR5,5,Lexington,Throrthwood Tottenham,26,108,2,0,pool Lapwings
+557,rr,RR5,5,BUMSJK,State College Area 2,14,0,1,1,pool Lapwings; State College Area 2 had no players on the scoresheet and scored 0; treated as forfeit
+563,playoff,WB R1,6,Mission San Jose 1,Wayzata,116,72,1,0,
+564,playoff,WB R1,6,ASFA 1,Davidson Academy,70,76,2,0,
+565,playoff,WB R1,6,Ward Melville 1,Lakeside 1,108,56,1,0,
+566,playoff,WB R1,6,Palo Alto 1,Ladue,42,78,2,0,
+567,playoff,WB R1,6,The Frazer School 1,Hunter College 1,88,70,1,0,
+568,playoff,WB R1,6,North Hollywood 1,BISV 1,102,72,1,0,
+569,playoff,WB R1,6,Blair 1,West Windsor-Plainsboro North,168,12,1,0,
+570,playoff,WB R1,6,Throrthwood Tottenham,James Clemens,96,52,1,0,
+571,consolation,SE R1,7,Mission San Jose 2,Arcadia 1,102,44,1,0,
+572,consolation,SE R1,7,School of Astronomy,OCSA,58,54,1,0,
+573,consolation,SE R1,7,Thomas Jefferson 1,Temple City,66,70,2,0,
+574,consolation,SE R1,7,WWPS 1,Clovis North High,0,4,2,1,only 1 tossup recorded (0-4); treated as forfeit
+575,consolation,SE R1,7,North Hollywood 2,AHB 1,126,36,1,0,
+576,consolation,SE R1,7,Punahou,MSJ 3,28,46,2,0,
+577,consolation,SE R1,7,Blair 2,University 1,42,40,1,0,
+578,consolation,SE R1,7,Jericho 1,VMATHs,42,74,2,0,
+579,playoff,WB R2,8,Mission San Jose 1,Davidson Academy,122,50,1,0,
+580,playoff,WB R2,8,Ward Melville 1,Ladue,64,26,1,0,
+581,playoff,WB R2,8,The Frazer School 1,North Hollywood 1,94,28,1,0,
+582,playoff,WB R2,8,Blair 1,Throrthwood Tottenham,80,58,1,0,
+583,playoff,LB R1,9,Hunter College 1,BISV 1,70,40,1,0,
+584,playoff,LB R1,9,West Windsor-Plainsboro North,James Clemens,32,94,2,0,
+585,playoff,LB R1,9,Wayzata,ASFA 1,52,56,2,0,
+586,playoff,LB R1,9,Lakeside 1,Palo Alto 1,100,62,1,0,
+587,consolation,SE R2,10,Mission San Jose 2,School of Astronomy,88,20,1,0,
+588,consolation,SE R2,10,Temple City,Clovis North High,36,68,2,0,
+589,consolation,SE R2,10,Blair 2,VMATHs,36,44,2,0,
+590,consolation,SE R2,10,North Hollywood 2,MSJ 3,92,58,1,0,
+591,playoff,WB R3,11,Mission San Jose 1,Ward Melville 1,124,14,1,0,
+592,playoff,WB R3,11,The Frazer School 1,Blair 1,110,54,1,0,
+593,consolation,SE R3,12,Mission San Jose 2,Clovis North High,40,16,1,0,
+594,consolation,SE R3,12,North Hollywood 2,VMATHs,48,60,2,0,
+595,playoff,LB R2,13,Davidson Academy,Hunter College 1,76,38,1,0,
+596,playoff,LB R2,13,Ladue,James Clemens,84,76,1,0,
+597,playoff,LB R2,13,North Hollywood 1,ASFA 1,68,56,1,0,
+598,playoff,LB R2,13,Throrthwood Tottenham,Lakeside 1,70,104,2,0,
+599,playoff,LB R3,14,Davidson Academy,Ladue,22,22,T,0,only 10 tossups with a buzz recorded (shortened game); tied; bracket advanced Davidson Academy
+600,playoff,LB R3,14,North Hollywood 1,Lakeside 1,80,78,1,0,
+601,consolation,SE R4,15,Mission San Jose 2,VMATHs,76,10,1,0,
+602,playoff,WB R4,16,Mission San Jose 1,The Frazer School 1,0,14,2,1,only 1 tossup recorded (0-14); treated as forfeit
+603,playoff,LB R4,17,Ward Melville 1,North Hollywood 1,36,30,1,0,
+604,playoff,LB R4,17,Blair 1,Davidson Academy,34,22,1,0,
+605,playoff,LB R5,18,Ward Melville 1,Blair 1,32,46,2,0,
+606,playoff,LB R6,19,Mission San Jose 1,Blair 1,10,42,2,0,
+607,playoff,Grand Final,20,The Frazer School 1,Blair 1,14,0,1,1,only 1 tossup recorded (14-0); treated as forfeit

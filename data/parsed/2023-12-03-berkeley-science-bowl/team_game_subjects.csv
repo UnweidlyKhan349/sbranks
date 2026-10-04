@@ -1,0 +1,1081 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+i1,Mission San Jose B,chemistry,8,8,0,2,0
+i1,Mission San Jose B,biology,56,16,40,4,0
+i1,Mission San Jose B,energy,8,8,0,2,1
+i1,Mission San Jose B,physics,0,0,0,0,0
+i1,Mission San Jose B,math,36,16,20,4,0
+i1,Mission San Jose B,ess,18,8,10,2,0
+i1,Palo Alto B,chemistry,0,0,0,0,0
+i1,Palo Alto B,biology,0,0,0,0,0
+i1,Palo Alto B,energy,0,0,0,0,0
+i1,Palo Alto B,physics,14,4,10,1,0
+i1,Palo Alto B,math,0,0,0,0,0
+i1,Palo Alto B,ess,0,0,0,0,0
+i2,Saint Francis,chemistry,32,12,20,3,0
+i2,Saint Francis,biology,22,12,10,3,0
+i2,Saint Francis,energy,32,12,20,3,0
+i2,Saint Francis,physics,14,4,10,1,0
+i2,Saint Francis,math,0,0,0,0,0
+i2,Saint Francis,ess,14,4,10,1,0
+i2,Dougherty Valley A,chemistry,0,0,0,0,0
+i2,Dougherty Valley A,biology,14,4,10,1,0
+i2,Dougherty Valley A,energy,0,0,0,0,0
+i2,Dougherty Valley A,physics,28,8,20,2,0
+i2,Dougherty Valley A,math,36,16,20,4,0
+i2,Dougherty Valley A,ess,4,4,0,1,0
+i3,BASIS Independent B,chemistry,4,4,0,1,0
+i3,BASIS Independent B,biology,14,4,10,1,0
+i3,BASIS Independent B,energy,4,4,0,1,0
+i3,BASIS Independent B,physics,0,0,0,0,0
+i3,BASIS Independent B,math,18,8,10,2,0
+i3,BASIS Independent B,ess,4,4,0,1,0
+i3,Stanford Online,chemistry,18,8,10,2,0
+i3,Stanford Online,biology,32,12,20,3,1
+i3,Stanford Online,energy,0,0,0,0,0
+i3,Stanford Online,physics,18,8,10,2,0
+i3,Stanford Online,math,4,4,0,1,0
+i3,Stanford Online,ess,4,4,0,1,0
+i4,California B,chemistry,4,4,0,1,0
+i4,California B,biology,14,4,10,1,0
+i4,California B,energy,0,0,0,0,0
+i4,California B,physics,0,0,0,0,0
+i4,California B,math,0,0,0,0,0
+i4,California B,ess,4,4,0,1,0
+i4,North Hollywood,chemistry,8,8,0,2,0
+i4,North Hollywood,biology,42,12,30,3,0
+i4,North Hollywood,energy,18,8,10,2,0
+i4,North Hollywood,physics,46,16,30,4,0
+i4,North Hollywood,math,56,16,40,4,0
+i4,North Hollywood,ess,32,12,20,3,1
+i5,Irvington,chemistry,0,0,0,0,0
+i5,Irvington,biology,28,8,20,2,0
+i5,Irvington,energy,4,4,0,1,0
+i5,Irvington,physics,0,0,0,0,0
+i5,Irvington,math,4,4,0,1,0
+i5,Irvington,ess,0,0,0,0,0
+i5,Monta Vista A,chemistry,28,8,20,2,0
+i5,Monta Vista A,biology,28,8,20,2,0
+i5,Monta Vista A,energy,28,8,20,2,0
+i5,Monta Vista A,physics,18,8,10,2,0
+i5,Monta Vista A,math,18,8,10,2,0
+i5,Monta Vista A,ess,42,12,30,3,0
+i6,Amador Valley A,chemistry,28,8,20,2,2
+i6,Amador Valley A,biology,56,16,40,4,0
+i6,Amador Valley A,energy,18,8,10,2,0
+i6,Amador Valley A,physics,14,4,10,1,2
+i6,Amador Valley A,math,42,12,30,3,1
+i6,Amador Valley A,ess,18,8,10,2,2
+i6,Foothill B,chemistry,14,4,10,1,1
+i6,Foothill B,biology,0,0,0,0,0
+i6,Foothill B,energy,0,0,0,0,1
+i6,Foothill B,physics,4,4,0,1,0
+i6,Foothill B,math,14,4,10,1,0
+i6,Foothill B,ess,0,0,0,0,1
+i7,Cupertino B,chemistry,4,4,0,1,0
+i7,Cupertino B,biology,8,8,0,2,0
+i7,Cupertino B,energy,0,0,0,0,0
+i7,Cupertino B,physics,0,0,0,0,0
+i7,Cupertino B,math,4,4,0,1,0
+i7,Cupertino B,ess,0,0,0,0,0
+i7,Lynbrook B,chemistry,14,4,10,1,1
+i7,Lynbrook B,biology,28,8,20,2,0
+i7,Lynbrook B,energy,18,8,10,2,0
+i7,Lynbrook B,physics,14,4,10,1,1
+i7,Lynbrook B,math,42,12,30,3,0
+i7,Lynbrook B,ess,18,8,10,2,0
+i8,Mira Loma A,chemistry,42,12,30,3,0
+i8,Mira Loma A,biology,42,12,30,3,0
+i8,Mira Loma A,energy,32,12,20,3,0
+i8,Mira Loma A,physics,0,0,0,0,1
+i8,Mira Loma A,math,28,8,20,2,1
+i8,Mira Loma A,ess,18,8,10,2,1
+i8,Amador Valley B,chemistry,0,0,0,0,0
+i8,Amador Valley B,biology,4,4,0,1,0
+i8,Amador Valley B,energy,0,0,0,0,0
+i8,Amador Valley B,physics,4,4,0,1,0
+i8,Amador Valley B,math,4,4,0,1,0
+i8,Amador Valley B,ess,8,8,0,2,0
+i9,Archbishop Mitty B,chemistry,0,0,0,0,0
+i9,Archbishop Mitty B,biology,0,0,0,0,0
+i9,Archbishop Mitty B,energy,18,8,10,2,0
+i9,Archbishop Mitty B,physics,0,0,0,0,0
+i9,Archbishop Mitty B,math,8,8,0,2,0
+i9,Archbishop Mitty B,ess,0,0,0,0,0
+i9,Canyon Crest A,chemistry,46,16,30,4,0
+i9,Canyon Crest A,biology,56,16,40,4,0
+i9,Canyon Crest A,energy,4,4,0,1,0
+i9,Canyon Crest A,physics,32,12,20,3,0
+i9,Canyon Crest A,math,28,8,20,2,0
+i9,Canyon Crest A,ess,18,8,10,2,0
+i10,Monta Vista B,chemistry,0,0,0,0,0
+i10,Monta Vista B,biology,4,4,0,1,0
+i10,Monta Vista B,energy,14,4,10,1,0
+i10,Monta Vista B,physics,0,0,0,0,0
+i10,Monta Vista B,math,14,4,10,1,0
+i10,Monta Vista B,ess,18,8,10,2,0
+i10,Canyon Crest B,chemistry,4,4,0,1,0
+i10,Canyon Crest B,biology,22,12,10,3,0
+i10,Canyon Crest B,energy,4,4,0,1,0
+i10,Canyon Crest B,physics,4,4,0,1,0
+i10,Canyon Crest B,math,42,12,30,3,0
+i10,Canyon Crest B,ess,0,0,0,0,1
+i11,Palo Alto A,chemistry,0,0,0,0,0
+i11,Palo Alto A,biology,28,8,20,2,0
+i11,Palo Alto A,energy,14,4,10,1,0
+i11,Palo Alto A,physics,0,0,0,0,1
+i11,Palo Alto A,math,18,8,10,2,0
+i11,Palo Alto A,ess,0,0,0,0,0
+i11,Lynbrook A,chemistry,56,16,40,4,0
+i11,Lynbrook A,biology,28,8,20,2,2
+i11,Lynbrook A,energy,18,8,10,2,0
+i11,Lynbrook A,physics,32,12,20,3,0
+i11,Lynbrook A,math,28,8,20,2,1
+i11,Lynbrook A,ess,46,16,30,4,0
+i12,Arnold O. Beckman A,chemistry,0,0,0,0,0
+i12,Arnold O. Beckman A,biology,14,4,10,1,0
+i12,Arnold O. Beckman A,energy,0,0,0,0,0
+i12,Arnold O. Beckman A,physics,4,4,0,1,0
+i12,Arnold O. Beckman A,math,0,0,0,0,0
+i12,Arnold O. Beckman A,ess,4,4,0,1,0
+i12,BASIS Independent A,chemistry,28,8,20,2,0
+i12,BASIS Independent A,biology,22,12,10,3,0
+i12,BASIS Independent A,energy,8,8,0,2,0
+i12,BASIS Independent A,physics,0,0,0,0,0
+i12,BASIS Independent A,math,46,16,30,4,0
+i12,BASIS Independent A,ess,32,12,20,3,0
+i13,Mission San Jose A,chemistry,42,12,30,3,0
+i13,Mission San Jose A,biology,42,12,30,3,0
+i13,Mission San Jose A,energy,14,4,10,1,0
+i13,Mission San Jose A,physics,18,8,10,2,0
+i13,Mission San Jose A,math,0,0,0,0,0
+i13,Mission San Jose A,ess,28,8,20,2,0
+i13,Saratoga,chemistry,14,4,10,1,1
+i13,Saratoga,biology,14,4,10,1,0
+i13,Saratoga,energy,4,4,0,1,0
+i13,Saratoga,physics,0,0,0,0,0
+i13,Saratoga,math,56,16,40,4,0
+i13,Saratoga,ess,28,8,20,2,1
+i14,California A,chemistry,0,0,0,0,0
+i14,California A,biology,32,12,20,3,0
+i14,California A,energy,0,0,0,0,0
+i14,California A,physics,8,8,0,2,0
+i14,California A,math,14,4,10,1,0
+i14,California A,ess,0,0,0,0,0
+i14,Abraham Lincoln,chemistry,0,0,0,0,0
+i14,Abraham Lincoln,biology,4,4,0,1,0
+i14,Abraham Lincoln,energy,4,4,0,1,0
+i14,Abraham Lincoln,physics,0,0,0,0,0
+i14,Abraham Lincoln,math,0,0,0,0,0
+i14,Abraham Lincoln,ess,0,0,0,0,0
+i15,Archbishop Mitty A,chemistry,0,0,0,0,0
+i15,Archbishop Mitty A,biology,28,8,20,2,2
+i15,Archbishop Mitty A,energy,14,4,10,1,1
+i15,Archbishop Mitty A,physics,0,0,0,0,0
+i15,Archbishop Mitty A,math,0,0,0,0,0
+i15,Archbishop Mitty A,ess,14,4,10,1,0
+i15,Lynbrook C,chemistry,22,12,10,3,0
+i15,Lynbrook C,biology,28,8,20,2,0
+i15,Lynbrook C,energy,4,4,0,1,0
+i15,Lynbrook C,physics,18,8,10,2,0
+i15,Lynbrook C,math,28,8,20,2,0
+i15,Lynbrook C,ess,18,8,10,2,1
+i16,Dougherty Valley B,chemistry,0,0,0,0,0
+i16,Dougherty Valley B,biology,4,4,0,1,1
+i16,Dougherty Valley B,energy,14,4,10,1,0
+i16,Dougherty Valley B,physics,0,0,0,0,0
+i16,Dougherty Valley B,math,4,4,0,1,0
+i16,Dougherty Valley B,ess,18,8,10,2,1
+i16,Foothill A,chemistry,0,0,0,0,0
+i16,Foothill A,biology,42,12,30,3,0
+i16,Foothill A,energy,4,4,0,1,0
+i16,Foothill A,physics,0,0,0,0,0
+i16,Foothill A,math,8,8,0,2,0
+i16,Foothill A,ess,0,0,0,0,1
+i17,Mira Loma B,chemistry,28,8,20,2,0
+i17,Mira Loma B,biology,28,8,20,2,0
+i17,Mira Loma B,energy,4,4,0,1,1
+i17,Mira Loma B,physics,4,4,0,1,0
+i17,Mira Loma B,math,22,12,10,3,0
+i17,Mira Loma B,ess,14,4,10,1,1
+i17,American B,chemistry,0,0,0,0,0
+i17,American B,biology,18,8,10,2,0
+i17,American B,energy,0,0,0,0,0
+i17,American B,physics,0,0,0,0,0
+i17,American B,math,4,4,0,1,1
+i17,American B,ess,14,4,10,1,0
+i18,American A,chemistry,14,4,10,1,0
+i18,American A,biology,18,8,10,2,0
+i18,American A,energy,4,4,0,1,0
+i18,American A,physics,4,4,0,1,0
+i18,American A,math,28,8,20,2,0
+i18,American A,ess,4,4,0,1,0
+i18,Cupertino A,chemistry,42,12,30,3,0
+i18,Cupertino A,biology,28,8,20,2,0
+i18,Cupertino A,energy,28,8,20,2,0
+i18,Cupertino A,physics,0,0,0,0,0
+i18,Cupertino A,math,18,8,10,2,0
+i18,Cupertino A,ess,32,12,20,3,0
+i19,Mission San Jose B,biology,28,8,20,2,1
+i19,Mission San Jose B,energy,14,4,10,1,1
+i19,Mission San Jose B,math,28,8,20,2,0
+i19,Mission San Jose B,physics,28,8,20,2,0
+i19,Mission San Jose B,ess,8,8,0,2,1
+i19,Mission San Jose B,chemistry,18,8,10,2,1
+i19,Dougherty Valley A,biology,0,0,0,0,2
+i19,Dougherty Valley A,energy,14,4,10,1,0
+i19,Dougherty Valley A,math,14,4,10,1,0
+i19,Dougherty Valley A,physics,4,4,0,1,1
+i19,Dougherty Valley A,ess,8,8,0,2,0
+i19,Dougherty Valley A,chemistry,28,8,20,2,0
+i20,BASIS Independent B,biology,14,4,10,1,0
+i20,BASIS Independent B,energy,28,8,20,2,0
+i20,BASIS Independent B,math,0,0,0,0,0
+i20,BASIS Independent B,physics,0,0,0,0,0
+i20,BASIS Independent B,ess,8,8,0,2,0
+i20,BASIS Independent B,chemistry,18,8,10,2,0
+i20,Palo Alto B,biology,18,8,10,2,2
+i20,Palo Alto B,energy,0,0,0,0,0
+i20,Palo Alto B,math,0,0,0,0,0
+i20,Palo Alto B,physics,28,8,20,2,0
+i20,Palo Alto B,ess,14,4,10,1,1
+i20,Palo Alto B,chemistry,4,4,0,1,0
+i21,Saint Francis,biology,18,8,10,2,0
+i21,Saint Francis,energy,28,8,20,2,0
+i21,Saint Francis,math,18,8,10,2,0
+i21,Saint Francis,physics,32,12,20,3,0
+i21,Saint Francis,ess,22,12,10,3,0
+i21,Saint Francis,chemistry,22,12,10,3,0
+i21,Stanford Online,biology,0,0,0,0,0
+i21,Stanford Online,energy,14,4,10,1,0
+i21,Stanford Online,math,4,4,0,1,0
+i21,Stanford Online,physics,0,0,0,0,0
+i21,Stanford Online,ess,0,0,0,0,0
+i21,Stanford Online,chemistry,4,4,0,1,0
+i22,California B,biology,14,4,10,1,1
+i22,California B,energy,14,4,10,1,0
+i22,California B,math,0,0,0,0,0
+i22,California B,physics,0,0,0,0,0
+i22,California B,ess,4,4,0,1,0
+i22,California B,chemistry,0,0,0,0,0
+i22,Monta Vista A,biology,18,8,10,2,1
+i22,Monta Vista A,energy,4,4,0,1,1
+i22,Monta Vista A,math,28,8,20,2,0
+i22,Monta Vista A,physics,42,12,30,3,0
+i22,Monta Vista A,ess,8,8,0,2,0
+i22,Monta Vista A,chemistry,26,16,10,4,0
+i23,Amador Valley A,biology,28,8,20,2,1
+i23,Amador Valley A,energy,14,4,10,1,0
+i23,Amador Valley A,math,28,8,20,2,0
+i23,Amador Valley A,physics,32,12,20,3,0
+i23,Amador Valley A,ess,22,12,10,3,0
+i23,Amador Valley A,chemistry,28,8,20,2,1
+i23,North Hollywood,biology,14,4,10,1,2
+i23,North Hollywood,energy,28,8,20,2,0
+i23,North Hollywood,math,28,8,20,2,1
+i23,North Hollywood,physics,0,0,0,0,0
+i23,North Hollywood,ess,14,4,10,1,0
+i23,North Hollywood,chemistry,4,4,0,1,1
+i24,Irvington,biology,8,8,0,2,1
+i24,Irvington,energy,14,4,10,1,0
+i24,Irvington,math,14,4,10,1,1
+i24,Irvington,physics,0,0,0,0,0
+i24,Irvington,ess,8,8,0,2,0
+i24,Irvington,chemistry,0,0,0,0,0
+i24,Foothill B,biology,4,4,0,1,1
+i24,Foothill B,energy,14,4,10,1,1
+i24,Foothill B,math,4,4,0,1,0
+i24,Foothill B,physics,42,12,30,3,0
+i24,Foothill B,ess,4,4,0,1,0
+i24,Foothill B,chemistry,22,12,10,3,0
+i25,Cupertino B,biology,8,8,0,2,0
+i25,Cupertino B,energy,22,12,10,3,0
+i25,Cupertino B,math,14,4,10,1,0
+i25,Cupertino B,physics,14,4,10,1,0
+i25,Cupertino B,ess,4,4,0,1,0
+i25,Cupertino B,chemistry,0,0,0,0,1
+i25,Amador Valley B,biology,14,4,10,1,0
+i25,Amador Valley B,energy,0,0,0,0,1
+i25,Amador Valley B,math,18,8,10,2,0
+i25,Amador Valley B,physics,4,4,0,1,0
+i25,Amador Valley B,ess,4,4,0,1,1
+i25,Amador Valley B,chemistry,18,8,10,2,0
+i26,Archbishop Mitty B,biology,0,0,0,0,2
+i26,Archbishop Mitty B,energy,28,8,20,2,0
+i26,Archbishop Mitty B,math,18,8,10,2,0
+i26,Archbishop Mitty B,physics,14,4,10,1,0
+i26,Archbishop Mitty B,ess,0,0,0,0,0
+i26,Archbishop Mitty B,chemistry,0,0,0,0,1
+i26,Lynbrook B,biology,36,16,20,4,0
+i26,Lynbrook B,energy,14,4,10,1,0
+i26,Lynbrook B,math,18,8,10,2,0
+i26,Lynbrook B,physics,28,8,20,2,0
+i26,Lynbrook B,ess,46,16,30,4,0
+i26,Lynbrook B,chemistry,26,16,10,4,0
+i27,Mira Loma A,biology,0,0,0,0,1
+i27,Mira Loma A,energy,28,8,20,2,0
+i27,Mira Loma A,math,14,4,10,1,0
+i27,Mira Loma A,physics,28,8,20,2,0
+i27,Mira Loma A,ess,0,0,0,0,0
+i27,Mira Loma A,chemistry,18,8,10,2,0
+i27,Canyon Crest A,biology,32,12,20,3,0
+i27,Canyon Crest A,energy,14,4,10,1,1
+i27,Canyon Crest A,math,14,4,10,1,0
+i27,Canyon Crest A,physics,28,8,20,2,0
+i27,Canyon Crest A,ess,46,16,30,4,0
+i27,Canyon Crest A,chemistry,4,4,0,1,1
+i28,Monta Vista B,biology,0,0,0,0,0
+i28,Monta Vista B,energy,0,0,0,0,0
+i28,Monta Vista B,math,14,4,10,1,0
+i28,Monta Vista B,physics,0,0,0,0,0
+i28,Monta Vista B,ess,4,4,0,1,0
+i28,Monta Vista B,chemistry,0,0,0,0,0
+i28,Lynbrook A,biology,28,8,20,2,0
+i28,Lynbrook A,energy,42,12,30,3,0
+i28,Lynbrook A,math,14,4,10,1,1
+i28,Lynbrook A,physics,42,12,30,3,0
+i28,Lynbrook A,ess,18,8,10,2,2
+i28,Lynbrook A,chemistry,42,12,30,3,0
+i29,Arnold O. Beckman A,biology,4,4,0,1,0
+i29,Arnold O. Beckman A,energy,0,0,0,0,0
+i29,Arnold O. Beckman A,math,14,4,10,1,0
+i29,Arnold O. Beckman A,physics,0,0,0,0,0
+i29,Arnold O. Beckman A,ess,4,4,0,1,0
+i29,Arnold O. Beckman A,chemistry,18,8,10,2,0
+i29,Canyon Crest B,biology,18,8,10,2,0
+i29,Canyon Crest B,energy,32,12,20,3,0
+i29,Canyon Crest B,math,18,8,10,2,0
+i29,Canyon Crest B,physics,18,8,10,2,0
+i29,Canyon Crest B,ess,8,8,0,2,0
+i29,Canyon Crest B,chemistry,8,8,0,2,0
+i30,Palo Alto A,biology,14,4,10,1,0
+i30,Palo Alto A,energy,0,0,0,0,0
+i30,Palo Alto A,math,4,4,0,1,0
+i30,Palo Alto A,physics,18,8,10,2,0
+i30,Palo Alto A,ess,0,0,0,0,0
+i30,Palo Alto A,chemistry,4,4,0,1,0
+i30,BASIS Independent A,biology,0,0,0,0,0
+i30,BASIS Independent A,energy,28,8,20,2,0
+i30,BASIS Independent A,math,22,12,10,3,0
+i30,BASIS Independent A,physics,14,4,10,1,0
+i30,BASIS Independent A,ess,8,8,0,2,1
+i30,BASIS Independent A,chemistry,18,8,10,2,0
+i31,Mission San Jose A,biology,18,8,10,2,1
+i31,Mission San Jose A,energy,28,8,20,2,0
+i31,Mission San Jose A,math,32,12,20,3,0
+i31,Mission San Jose A,physics,42,12,30,3,0
+i31,Mission San Jose A,ess,46,16,30,4,0
+i31,Mission San Jose A,chemistry,46,16,30,4,0
+i31,Abraham Lincoln,biology,0,0,0,0,0
+i31,Abraham Lincoln,energy,4,4,0,1,0
+i31,Abraham Lincoln,math,0,0,0,0,0
+i31,Abraham Lincoln,physics,0,0,0,0,1
+i31,Abraham Lincoln,ess,0,0,0,0,0
+i31,Abraham Lincoln,chemistry,0,0,0,0,0
+i32,Archbishop Mitty A,biology,22,12,10,3,0
+i32,Archbishop Mitty A,energy,0,0,0,0,0
+i32,Archbishop Mitty A,math,0,0,0,0,0
+i32,Archbishop Mitty A,physics,4,4,0,1,0
+i32,Archbishop Mitty A,ess,4,4,0,1,0
+i32,Archbishop Mitty A,chemistry,18,8,10,2,0
+i32,Saratoga,biology,4,4,0,1,2
+i32,Saratoga,energy,42,12,30,3,0
+i32,Saratoga,math,32,12,20,3,0
+i32,Saratoga,physics,4,4,0,1,1
+i32,Saratoga,ess,18,8,10,2,0
+i32,Saratoga,chemistry,18,8,10,2,2
+i33,California A,biology,14,4,10,1,1
+i33,California A,energy,18,8,10,2,0
+i33,California A,math,0,0,0,0,0
+i33,California A,physics,4,4,0,1,0
+i33,California A,ess,0,0,0,0,0
+i33,California A,chemistry,0,0,0,0,0
+i33,Lynbrook C,biology,18,8,10,2,0
+i33,Lynbrook C,energy,14,4,10,1,0
+i33,Lynbrook C,math,42,12,30,3,0
+i33,Lynbrook C,physics,14,4,10,1,0
+i33,Lynbrook C,ess,32,12,20,3,0
+i33,Lynbrook C,chemistry,46,16,30,4,0
+i34,Dougherty Valley B,biology,42,12,30,3,0
+i34,Dougherty Valley B,energy,28,8,20,2,0
+i34,Dougherty Valley B,math,4,4,0,1,0
+i34,Dougherty Valley B,physics,14,4,10,1,0
+i34,Dougherty Valley B,ess,8,8,0,2,0
+i34,Dougherty Valley B,chemistry,4,4,0,1,0
+i34,American B,biology,14,4,10,1,1
+i34,American B,energy,14,4,10,1,0
+i34,American B,math,0,0,0,0,0
+i34,American B,physics,0,0,0,0,0
+i34,American B,ess,4,4,0,1,0
+i34,American B,chemistry,22,12,10,3,0
+i35,American A,biology,14,4,10,1,0
+i35,American A,energy,28,8,20,2,0
+i35,American A,math,22,12,10,3,0
+i35,American A,physics,42,12,30,3,0
+i35,American A,ess,14,4,10,1,0
+i35,American A,chemistry,18,8,10,2,0
+i35,Foothill A,biology,4,4,0,1,0
+i35,Foothill A,energy,14,4,10,1,0
+i35,Foothill A,math,0,0,0,0,0
+i35,Foothill A,physics,0,0,0,0,0
+i35,Foothill A,ess,18,8,10,2,0
+i35,Foothill A,chemistry,4,4,0,1,1
+i36,Mira Loma B,biology,18,8,10,2,0
+i36,Mira Loma B,energy,14,4,10,1,0
+i36,Mira Loma B,math,8,8,0,2,0
+i36,Mira Loma B,physics,0,0,0,0,0
+i36,Mira Loma B,ess,4,4,0,1,0
+i36,Mira Loma B,chemistry,0,0,0,0,1
+i36,Cupertino A,biology,14,4,10,1,0
+i36,Cupertino A,energy,18,8,10,2,0
+i36,Cupertino A,math,0,0,0,0,0
+i36,Cupertino A,physics,42,12,30,3,0
+i36,Cupertino A,ess,18,8,10,2,0
+i36,Cupertino A,chemistry,36,16,20,4,0
+i37,Stanford Online,physics,4,4,0,1,1
+i37,Stanford Online,ess,4,4,0,1,0
+i37,Stanford Online,chemistry,0,0,0,0,1
+i37,Stanford Online,biology,46,16,30,4,0
+i37,Stanford Online,energy,4,4,0,1,0
+i37,Stanford Online,math,14,4,10,1,0
+i37,Dougherty Valley A,physics,28,8,20,2,0
+i37,Dougherty Valley A,ess,4,4,0,1,0
+i37,Dougherty Valley A,chemistry,18,8,10,2,0
+i37,Dougherty Valley A,biology,14,4,10,1,1
+i37,Dougherty Valley A,energy,0,0,0,0,1
+i37,Dougherty Valley A,math,18,8,10,2,1
+i38,Mission San Jose B,physics,0,0,0,0,1
+i38,Mission San Jose B,ess,42,12,30,3,1
+i38,Mission San Jose B,chemistry,4,4,0,1,2
+i38,Mission San Jose B,biology,70,20,50,5,0
+i38,Mission San Jose B,energy,0,0,0,0,1
+i38,Mission San Jose B,math,28,8,20,2,0
+i38,BASIS Independent B,physics,0,0,0,0,0
+i38,BASIS Independent B,ess,4,4,0,1,0
+i38,BASIS Independent B,chemistry,8,8,0,2,0
+i38,BASIS Independent B,biology,0,0,0,0,0
+i38,BASIS Independent B,energy,0,0,0,0,0
+i38,BASIS Independent B,math,0,0,0,0,0
+i39,Saint Francis,physics,0,0,0,0,1
+i39,Saint Francis,ess,8,8,0,2,0
+i39,Saint Francis,chemistry,14,4,10,1,1
+i39,Saint Francis,biology,42,12,30,3,0
+i39,Saint Francis,energy,14,4,10,1,0
+i39,Saint Francis,math,28,8,20,2,0
+i39,Palo Alto B,physics,8,8,0,2,0
+i39,Palo Alto B,ess,0,0,0,0,0
+i39,Palo Alto B,chemistry,4,4,0,1,0
+i39,Palo Alto B,biology,28,8,20,2,0
+i39,Palo Alto B,energy,0,0,0,0,0
+i39,Palo Alto B,math,0,0,0,0,0
+i40,Foothill B,physics,0,0,0,0,0
+i40,Foothill B,ess,18,8,10,2,0
+i40,Foothill B,chemistry,4,4,0,1,0
+i40,Foothill B,biology,18,8,10,2,0
+i40,Foothill B,energy,8,8,0,2,0
+i40,Foothill B,math,18,8,10,2,0
+i40,Monta Vista A,physics,18,8,10,2,1
+i40,Monta Vista A,ess,14,4,10,1,0
+i40,Monta Vista A,chemistry,42,12,30,3,1
+i40,Monta Vista A,biology,32,12,20,3,0
+i40,Monta Vista A,energy,0,0,0,0,0
+i40,Monta Vista A,math,0,0,0,0,0
+i41,California B,physics,4,4,0,1,2
+i41,California B,ess,4,4,0,1,0
+i41,California B,chemistry,18,8,10,2,0
+i41,California B,biology,18,8,10,2,0
+i41,California B,energy,0,0,0,0,0
+i41,California B,math,0,0,0,0,0
+i41,Amador Valley A,physics,14,4,10,1,1
+i41,Amador Valley A,ess,18,8,10,2,1
+i41,Amador Valley A,chemistry,14,4,10,1,3
+i41,Amador Valley A,biology,42,12,30,3,1
+i41,Amador Valley A,energy,14,4,10,1,1
+i41,Amador Valley A,math,14,4,10,1,1
+i42,Irvington,physics,0,0,0,0,0
+i42,Irvington,ess,0,0,0,0,0
+i42,Irvington,chemistry,4,4,0,1,0
+i42,Irvington,biology,4,4,0,1,0
+i42,Irvington,energy,4,4,0,1,0
+i42,Irvington,math,0,0,0,0,0
+i42,North Hollywood,physics,42,12,30,3,0
+i42,North Hollywood,ess,56,16,40,4,0
+i42,North Hollywood,chemistry,18,8,10,2,1
+i42,North Hollywood,biology,46,16,30,4,0
+i42,North Hollywood,energy,14,4,10,1,0
+i42,North Hollywood,math,42,12,30,3,0
+i43,Canyon Crest A,physics,22,12,10,3,0
+i43,Canyon Crest A,ess,56,16,40,4,0
+i43,Canyon Crest A,chemistry,42,12,30,3,0
+i43,Canyon Crest A,biology,46,16,30,4,0
+i43,Canyon Crest A,energy,0,0,0,0,1
+i43,Canyon Crest A,math,22,12,10,3,0
+i43,Amador Valley B,physics,0,0,0,0,0
+i43,Amador Valley B,ess,0,0,0,0,0
+i43,Amador Valley B,chemistry,4,4,0,1,0
+i43,Amador Valley B,biology,14,4,10,1,0
+i43,Amador Valley B,energy,4,4,0,1,0
+i43,Amador Valley B,math,0,0,0,0,1
+i44,Cupertino B,physics,0,0,0,0,1
+i44,Cupertino B,ess,0,0,0,0,0
+i44,Cupertino B,chemistry,8,8,0,2,0
+i44,Cupertino B,biology,28,8,20,2,0
+i44,Cupertino B,energy,0,0,0,0,0
+i44,Cupertino B,math,0,0,0,0,0
+i44,Archbishop Mitty B,physics,14,4,10,1,0
+i44,Archbishop Mitty B,ess,18,8,10,2,0
+i44,Archbishop Mitty B,chemistry,18,8,10,2,0
+i44,Archbishop Mitty B,biology,14,4,10,1,0
+i44,Archbishop Mitty B,energy,4,4,0,1,0
+i44,Archbishop Mitty B,math,18,8,10,2,0
+i45,Mira Loma A,physics,32,12,20,3,0
+i45,Mira Loma A,ess,18,8,10,2,0
+i45,Mira Loma A,chemistry,18,8,10,2,2
+i45,Mira Loma A,biology,32,12,20,3,0
+i45,Mira Loma A,energy,18,8,10,2,0
+i45,Mira Loma A,math,28,8,20,2,0
+i45,Lynbrook B,physics,0,0,0,0,1
+i45,Lynbrook B,ess,14,4,10,1,2
+i45,Lynbrook B,chemistry,14,4,10,1,0
+i45,Lynbrook B,biology,28,8,20,2,1
+i45,Lynbrook B,energy,0,0,0,0,1
+i45,Lynbrook B,math,4,4,0,1,0
+i46,BASIS Independent A,physics,14,4,10,1,0
+i46,BASIS Independent A,ess,14,4,10,1,0
+i46,BASIS Independent A,chemistry,12,12,0,3,0
+i46,BASIS Independent A,biology,14,4,10,1,0
+i46,BASIS Independent A,energy,0,0,0,0,0
+i46,BASIS Independent A,math,4,4,0,1,0
+i46,Lynbrook A,physics,28,8,20,2,0
+i46,Lynbrook A,ess,28,8,20,2,1
+i46,Lynbrook A,chemistry,14,4,10,1,1
+i46,Lynbrook A,biology,42,12,30,3,1
+i46,Lynbrook A,energy,4,4,0,1,0
+i46,Lynbrook A,math,42,12,30,3,0
+i47,Monta Vista B,physics,14,4,10,1,0
+i47,Monta Vista B,ess,18,8,10,2,0
+i47,Monta Vista B,chemistry,0,0,0,0,0
+i47,Monta Vista B,biology,0,0,0,0,0
+i47,Monta Vista B,energy,0,0,0,0,0
+i47,Monta Vista B,math,8,8,0,2,0
+i47,Arnold O. Beckman A,physics,0,0,0,0,0
+i47,Arnold O. Beckman A,ess,0,0,0,0,0
+i47,Arnold O. Beckman A,chemistry,8,8,0,2,0
+i47,Arnold O. Beckman A,biology,56,16,40,4,0
+i47,Arnold O. Beckman A,energy,8,8,0,2,0
+i47,Arnold O. Beckman A,math,0,0,0,0,0
+i48,Palo Alto A,physics,28,8,20,2,0
+i48,Palo Alto A,ess,8,8,0,2,0
+i48,Palo Alto A,chemistry,46,16,30,4,0
+i48,Palo Alto A,biology,28,8,20,2,0
+i48,Palo Alto A,energy,4,4,0,1,0
+i48,Palo Alto A,math,4,4,0,1,1
+i48,Canyon Crest B,physics,4,4,0,1,0
+i48,Canyon Crest B,ess,0,0,0,0,0
+i48,Canyon Crest B,chemistry,0,0,0,0,0
+i48,Canyon Crest B,biology,42,12,30,3,0
+i48,Canyon Crest B,energy,4,4,0,1,0
+i48,Canyon Crest B,math,14,4,10,1,0
+i49,Lynbrook C,physics,14,4,10,1,0
+i49,Lynbrook C,ess,32,12,20,3,0
+i49,Lynbrook C,chemistry,18,8,10,2,0
+i49,Lynbrook C,biology,60,20,40,5,0
+i49,Lynbrook C,energy,8,8,0,2,0
+i49,Lynbrook C,math,28,8,20,2,0
+i49,Abraham Lincoln,physics,4,4,0,1,1
+i49,Abraham Lincoln,ess,0,0,0,0,1
+i49,Abraham Lincoln,chemistry,0,0,0,0,0
+i49,Abraham Lincoln,biology,0,0,0,0,0
+i49,Abraham Lincoln,energy,0,0,0,0,0
+i49,Abraham Lincoln,math,4,4,0,1,0
+i50,Mission San Jose A,physics,22,12,10,3,0
+i50,Mission San Jose A,ess,28,8,20,2,0
+i50,Mission San Jose A,chemistry,56,16,40,4,0
+i50,Mission San Jose A,biology,46,16,30,4,0
+i50,Mission San Jose A,energy,18,8,10,2,0
+i50,Mission San Jose A,math,42,12,30,3,0
+i50,Archbishop Mitty A,physics,0,0,0,0,0
+i50,Archbishop Mitty A,ess,14,4,10,1,0
+i50,Archbishop Mitty A,chemistry,0,0,0,0,0
+i50,Archbishop Mitty A,biology,14,4,10,1,0
+i50,Archbishop Mitty A,energy,0,0,0,0,0
+i50,Archbishop Mitty A,math,0,0,0,0,0
+i51,California A,physics,28,8,20,2,0
+i51,California A,ess,0,0,0,0,0
+i51,California A,chemistry,4,4,0,1,0
+i51,California A,biology,18,8,10,2,0
+i51,California A,energy,4,4,0,1,1
+i51,California A,math,0,0,0,0,0
+i51,Saratoga,physics,14,4,10,1,2
+i51,Saratoga,ess,4,4,0,1,0
+i51,Saratoga,chemistry,14,4,10,1,2
+i51,Saratoga,biology,42,12,30,3,2
+i51,Saratoga,energy,0,0,0,0,1
+i51,Saratoga,math,28,8,20,2,0
+i52,Cupertino A,physics,12,12,0,3,0
+i52,Cupertino A,ess,18,8,10,2,0
+i52,Cupertino A,chemistry,18,8,10,2,1
+i52,Cupertino A,biology,28,8,20,2,0
+i52,Cupertino A,energy,0,0,0,0,0
+i52,Cupertino A,math,18,8,10,2,0
+i52,American B,physics,0,0,0,0,0
+i52,American B,ess,4,4,0,1,0
+i52,American B,chemistry,0,0,0,0,0
+i52,American B,biology,42,12,30,3,0
+i52,American B,energy,0,0,0,0,0
+i52,American B,math,0,0,0,0,0
+i53,Dougherty Valley B,physics,0,0,0,0,0
+i53,Dougherty Valley B,ess,0,0,0,0,0
+i53,Dougherty Valley B,chemistry,0,0,0,0,0
+i53,Dougherty Valley B,biology,28,8,20,2,0
+i53,Dougherty Valley B,energy,0,0,0,0,0
+i53,Dougherty Valley B,math,0,0,0,0,0
+i53,American A,physics,12,12,0,3,0
+i53,American A,ess,22,12,10,3,1
+i53,American A,chemistry,18,8,10,2,0
+i53,American A,biology,18,8,10,2,0
+i53,American A,energy,4,4,0,1,0
+i53,American A,math,28,8,20,2,0
+i54,Mira Loma B,physics,4,4,0,1,0
+i54,Mira Loma B,ess,32,12,20,3,0
+i54,Mira Loma B,chemistry,4,4,0,1,0
+i54,Mira Loma B,biology,4,4,0,1,1
+i54,Mira Loma B,energy,0,0,0,0,0
+i54,Mira Loma B,math,14,4,10,1,0
+i54,Foothill A,physics,0,0,0,0,0
+i54,Foothill A,ess,4,4,0,1,0
+i54,Foothill A,chemistry,18,8,10,2,1
+i54,Foothill A,biology,46,16,30,4,0
+i54,Foothill A,energy,0,0,0,0,0
+i54,Foothill A,math,18,8,10,2,0
+i55,Saint Francis,chemistry,8,8,0,2,0
+i55,Saint Francis,math,18,8,10,2,0
+i55,Saint Francis,biology,4,4,0,1,1
+i55,Saint Francis,energy,14,4,10,1,0
+i55,Saint Francis,physics,12,12,0,3,0
+i55,Saint Francis,ess,18,8,10,2,1
+i55,BASIS Independent B,chemistry,0,0,0,0,0
+i55,BASIS Independent B,math,0,0,0,0,0
+i55,BASIS Independent B,biology,4,4,0,1,0
+i55,BASIS Independent B,energy,4,4,0,1,0
+i55,BASIS Independent B,physics,4,4,0,1,0
+i55,BASIS Independent B,ess,4,4,0,1,0
+i56,Mission San Jose B,chemistry,18,8,10,2,0
+i56,Mission San Jose B,math,14,4,10,1,1
+i56,Mission San Jose B,biology,42,12,30,3,0
+i56,Mission San Jose B,energy,18,8,10,2,1
+i56,Mission San Jose B,physics,0,0,0,0,1
+i56,Mission San Jose B,ess,42,12,30,3,0
+i56,Stanford Online,chemistry,4,4,0,1,0
+i56,Stanford Online,math,14,4,10,1,0
+i56,Stanford Online,biology,4,4,0,1,0
+i56,Stanford Online,energy,14,4,10,1,0
+i56,Stanford Online,physics,4,4,0,1,0
+i56,Stanford Online,ess,0,0,0,0,0
+i57,Dougherty Valley A,chemistry,4,4,0,1,0
+i57,Dougherty Valley A,math,14,4,10,1,1
+i57,Dougherty Valley A,biology,28,8,20,2,0
+i57,Dougherty Valley A,energy,14,4,10,1,0
+i57,Dougherty Valley A,physics,0,0,0,0,1
+i57,Dougherty Valley A,ess,4,4,0,1,0
+i57,Palo Alto B,chemistry,0,0,0,0,0
+i57,Palo Alto B,math,18,8,10,2,0
+i57,Palo Alto B,biology,0,0,0,0,0
+i57,Palo Alto B,energy,4,4,0,1,0
+i57,Palo Alto B,physics,8,8,0,2,0
+i57,Palo Alto B,ess,8,8,0,2,1
+i58,Irvington,chemistry,0,0,0,0,0
+i58,Irvington,math,0,0,0,0,1
+i58,Irvington,biology,0,0,0,0,0
+i58,Irvington,energy,0,0,0,0,0
+i58,Irvington,physics,8,8,0,2,0
+i58,Irvington,ess,0,0,0,0,0
+i58,Amador Valley A,chemistry,4,4,0,1,0
+i58,Amador Valley A,math,22,12,10,3,1
+i58,Amador Valley A,biology,46,16,30,4,0
+i58,Amador Valley A,energy,22,12,10,3,0
+i58,Amador Valley A,physics,18,8,10,2,0
+i58,Amador Valley A,ess,22,12,10,3,1
+i59,California B,chemistry,4,4,0,1,0
+i59,California B,math,0,0,0,0,0
+i59,California B,biology,18,8,10,2,0
+i59,California B,energy,4,4,0,1,0
+i59,California B,physics,0,0,0,0,0
+i59,California B,ess,4,4,0,1,0
+i59,Foothill B,chemistry,8,8,0,2,0
+i59,Foothill B,math,18,8,10,2,1
+i59,Foothill B,biology,14,4,10,1,0
+i59,Foothill B,energy,14,4,10,1,0
+i59,Foothill B,physics,4,4,0,1,0
+i59,Foothill B,ess,4,4,0,1,0
+i60,Monta Vista A,chemistry,4,4,0,1,1
+i60,Monta Vista A,math,0,0,0,0,1
+i60,Monta Vista A,biology,4,4,0,1,0
+i60,Monta Vista A,energy,14,4,10,1,0
+i60,Monta Vista A,physics,18,8,10,2,0
+i60,Monta Vista A,ess,4,4,0,1,0
+i60,North Hollywood,chemistry,14,4,10,1,1
+i60,North Hollywood,math,36,16,20,4,0
+i60,North Hollywood,biology,28,8,20,2,0
+i60,North Hollywood,energy,18,8,10,2,1
+i60,North Hollywood,physics,14,4,10,1,0
+i60,North Hollywood,ess,18,8,10,2,2
+i61,Mira Loma A,chemistry,22,12,10,3,0
+i61,Mira Loma A,math,32,12,20,3,0
+i61,Mira Loma A,biology,22,12,10,3,0
+i61,Mira Loma A,energy,18,8,10,2,0
+i61,Mira Loma A,physics,26,16,10,4,0
+i61,Mira Loma A,ess,26,16,10,4,0
+i61,Archbishop Mitty B,chemistry,0,0,0,0,0
+i61,Archbishop Mitty B,math,4,4,0,1,0
+i61,Archbishop Mitty B,biology,0,0,0,0,0
+i61,Archbishop Mitty B,energy,0,0,0,0,0
+i61,Archbishop Mitty B,physics,0,0,0,0,0
+i61,Archbishop Mitty B,ess,0,0,0,0,0
+i62,Cupertino B,chemistry,0,0,0,0,0
+i62,Cupertino B,math,0,0,0,0,0
+i62,Cupertino B,biology,8,8,0,2,0
+i62,Cupertino B,energy,4,4,0,1,0
+i62,Cupertino B,physics,0,0,0,0,0
+i62,Cupertino B,ess,0,0,0,0,0
+i62,Canyon Crest A,chemistry,46,16,30,4,0
+i62,Canyon Crest A,math,46,16,30,4,0
+i62,Canyon Crest A,biology,4,4,0,1,0
+i62,Canyon Crest A,energy,8,8,0,2,0
+i62,Canyon Crest A,physics,4,4,0,1,0
+i62,Canyon Crest A,ess,46,16,30,4,0
+i63,Amador Valley B,chemistry,4,4,0,1,0
+i63,Amador Valley B,math,14,4,10,1,0
+i63,Amador Valley B,biology,4,4,0,1,0
+i63,Amador Valley B,energy,4,4,0,1,0
+i63,Amador Valley B,physics,0,0,0,0,0
+i63,Amador Valley B,ess,0,0,0,0,0
+i63,Lynbrook B,chemistry,4,4,0,1,0
+i63,Lynbrook B,math,18,8,10,2,1
+i63,Lynbrook B,biology,18,8,10,2,0
+i63,Lynbrook B,energy,4,4,0,1,1
+i63,Lynbrook B,physics,4,4,0,1,0
+i63,Lynbrook B,ess,22,12,10,3,0
+i64,Palo Alto A,chemistry,12,12,0,3,0
+i64,Palo Alto A,math,14,4,10,1,0
+i64,Palo Alto A,biology,4,4,0,1,0
+i64,Palo Alto A,energy,14,4,10,1,0
+i64,Palo Alto A,physics,18,8,10,2,0
+i64,Palo Alto A,ess,18,8,10,2,0
+i64,Arnold O. Beckman A,chemistry,0,0,0,0,0
+i64,Arnold O. Beckman A,math,8,8,0,2,0
+i64,Arnold O. Beckman A,biology,14,4,10,1,1
+i64,Arnold O. Beckman A,energy,4,4,0,1,0
+i64,Arnold O. Beckman A,physics,0,0,0,0,0
+i64,Arnold O. Beckman A,ess,4,4,0,1,0
+i65,Monta Vista B,chemistry,0,0,0,0,0
+i65,Monta Vista B,math,0,0,0,0,1
+i65,Monta Vista B,biology,4,4,0,1,0
+i65,Monta Vista B,energy,0,0,0,0,0
+i65,Monta Vista B,physics,0,0,0,0,0
+i65,Monta Vista B,ess,0,0,0,0,0
+i65,BASIS Independent A,chemistry,8,8,0,2,0
+i65,BASIS Independent A,math,42,12,30,3,0
+i65,BASIS Independent A,biology,18,8,10,2,0
+i65,BASIS Independent A,energy,18,8,10,2,0
+i65,BASIS Independent A,physics,8,8,0,2,0
+i65,BASIS Independent A,ess,8,8,0,2,0
+i66,Lynbrook A,chemistry,18,8,10,2,0
+i66,Lynbrook A,math,14,4,10,1,1
+i66,Lynbrook A,biology,18,8,10,2,0
+i66,Lynbrook A,energy,18,8,10,2,1
+i66,Lynbrook A,physics,22,12,10,3,0
+i66,Lynbrook A,ess,32,12,20,3,0
+i66,Canyon Crest B,chemistry,0,0,0,0,0
+i66,Canyon Crest B,math,28,8,20,2,0
+i66,Canyon Crest B,biology,8,8,0,2,0
+i66,Canyon Crest B,energy,14,4,10,1,1
+i66,Canyon Crest B,physics,0,0,0,0,0
+i66,Canyon Crest B,ess,0,0,0,0,0
+i67,California A,chemistry,0,0,0,0,0
+i67,California A,math,4,4,0,1,0
+i67,California A,biology,18,8,10,2,0
+i67,California A,energy,0,0,0,0,0
+i67,California A,physics,14,4,10,1,0
+i67,California A,ess,0,0,0,0,0
+i67,Archbishop Mitty A,chemistry,14,4,10,1,0
+i67,Archbishop Mitty A,math,4,4,0,1,1
+i67,Archbishop Mitty A,biology,4,4,0,1,1
+i67,Archbishop Mitty A,energy,18,8,10,2,0
+i67,Archbishop Mitty A,physics,4,4,0,1,0
+i67,Archbishop Mitty A,ess,12,12,0,3,0
+i68,Mission San Jose A,chemistry,14,4,10,1,0
+i68,Mission San Jose A,math,14,4,10,1,1
+i68,Mission San Jose A,biology,28,8,20,2,1
+i68,Mission San Jose A,energy,28,8,20,2,0
+i68,Mission San Jose A,physics,14,4,10,1,0
+i68,Mission San Jose A,ess,18,8,10,2,0
+i68,Lynbrook C,chemistry,8,8,0,2,0
+i68,Lynbrook C,math,28,8,20,2,0
+i68,Lynbrook C,biology,18,8,10,2,0
+i68,Lynbrook C,energy,4,4,0,1,0
+i68,Lynbrook C,physics,0,0,0,0,0
+i68,Lynbrook C,ess,4,4,0,1,1
+i69,Abraham Lincoln,chemistry,4,4,0,1,0
+i69,Abraham Lincoln,math,0,0,0,0,0
+i69,Abraham Lincoln,biology,8,8,0,2,0
+i69,Abraham Lincoln,energy,4,4,0,1,0
+i69,Abraham Lincoln,physics,0,0,0,0,0
+i69,Abraham Lincoln,ess,0,0,0,0,0
+i69,Saratoga,chemistry,4,4,0,1,0
+i69,Saratoga,math,18,8,10,2,0
+i69,Saratoga,biology,4,4,0,1,1
+i69,Saratoga,energy,18,8,10,2,0
+i69,Saratoga,physics,8,8,0,2,0
+i69,Saratoga,ess,12,12,0,3,1
+i70,Mira Loma B,chemistry,4,4,0,1,1
+i70,Mira Loma B,math,4,4,0,1,0
+i70,Mira Loma B,biology,4,4,0,1,0
+i70,Mira Loma B,energy,4,4,0,1,0
+i70,Mira Loma B,physics,8,8,0,2,0
+i70,Mira Loma B,ess,32,12,20,3,0
+i70,American A,chemistry,4,4,0,1,0
+i70,American A,math,4,4,0,1,0
+i70,American A,biology,8,8,0,2,0
+i70,American A,energy,4,4,0,1,0
+i70,American A,physics,0,0,0,0,0
+i70,American A,ess,4,4,0,1,0
+i71,Dougherty Valley B,chemistry,0,0,0,0,0
+i71,Dougherty Valley B,math,0,0,0,0,0
+i71,Dougherty Valley B,biology,0,0,0,0,0
+i71,Dougherty Valley B,energy,0,0,0,0,0
+i71,Dougherty Valley B,physics,0,0,0,0,0
+i71,Dougherty Valley B,ess,8,8,0,2,0
+i71,Cupertino A,chemistry,8,8,0,2,0
+i71,Cupertino A,math,32,12,20,3,0
+i71,Cupertino A,biology,42,12,30,3,0
+i71,Cupertino A,energy,22,12,10,3,0
+i71,Cupertino A,physics,32,12,20,3,0
+i71,Cupertino A,ess,18,8,10,2,1
+i72,American B,chemistry,4,4,0,1,0
+i72,American B,math,8,8,0,2,0
+i72,American B,biology,4,4,0,1,0
+i72,American B,energy,4,4,0,1,0
+i72,American B,physics,0,0,0,0,0
+i72,American B,ess,4,4,0,1,1
+i72,Foothill A,chemistry,4,4,0,1,0
+i72,Foothill A,math,0,0,0,0,0
+i72,Foothill A,biology,4,4,0,1,0
+i72,Foothill A,energy,0,0,0,0,0
+i72,Foothill A,physics,4,4,0,1,0
+i72,Foothill A,ess,0,0,0,0,1
+i73,BASIS Independent B,chemistry,8,8,0,2,0
+i73,BASIS Independent B,ess,4,4,0,1,0
+i73,BASIS Independent B,math,0,0,0,0,0
+i73,BASIS Independent B,physics,0,0,0,0,0
+i73,BASIS Independent B,energy,0,0,0,0,0
+i73,BASIS Independent B,biology,4,4,0,1,0
+i73,Dougherty Valley A,chemistry,14,4,10,1,0
+i73,Dougherty Valley A,ess,4,4,0,1,0
+i73,Dougherty Valley A,math,22,12,10,3,0
+i73,Dougherty Valley A,physics,26,16,10,4,0
+i73,Dougherty Valley A,energy,18,8,10,2,0
+i73,Dougherty Valley A,biology,18,8,10,2,0
+i74,Stanford Online,chemistry,22,12,10,3,0
+i74,Stanford Online,ess,14,4,10,1,0
+i74,Stanford Online,math,0,0,0,0,0
+i74,Stanford Online,physics,14,4,10,1,0
+i74,Stanford Online,energy,4,4,0,1,1
+i74,Stanford Online,biology,14,4,10,1,0
+i74,Palo Alto B,chemistry,0,0,0,0,0
+i74,Palo Alto B,ess,32,12,20,3,0
+i74,Palo Alto B,math,0,0,0,0,0
+i74,Palo Alto B,physics,18,8,10,2,0
+i74,Palo Alto B,energy,0,0,0,0,0
+i74,Palo Alto B,biology,8,8,0,2,0
+i75,Mission San Jose B,chemistry,8,8,0,2,0
+i75,Mission San Jose B,ess,14,4,10,1,1
+i75,Mission San Jose B,math,4,4,0,1,0
+i75,Mission San Jose B,physics,0,0,0,0,1
+i75,Mission San Jose B,energy,42,12,30,3,0
+i75,Mission San Jose B,biology,46,16,30,4,0
+i75,Saint Francis,chemistry,28,8,20,2,0
+i75,Saint Francis,ess,18,8,10,2,0
+i75,Saint Francis,math,4,4,0,1,0
+i75,Saint Francis,physics,42,12,30,3,0
+i75,Saint Francis,energy,0,0,0,0,0
+i75,Saint Francis,biology,0,0,0,0,0
+i76,Amador Valley A,chemistry,14,4,10,1,0
+i76,Amador Valley A,ess,42,12,30,3,0
+i76,Amador Valley A,math,26,16,10,4,0
+i76,Amador Valley A,physics,28,8,20,2,0
+i76,Amador Valley A,energy,28,8,20,2,0
+i76,Amador Valley A,biology,16,16,0,4,0
+i76,Monta Vista A,chemistry,18,8,10,2,0
+i76,Monta Vista A,ess,0,0,0,0,0
+i76,Monta Vista A,math,0,0,0,0,0
+i76,Monta Vista A,physics,14,4,10,1,0
+i76,Monta Vista A,energy,14,4,10,1,0
+i76,Monta Vista A,biology,0,0,0,0,0
+i77,Foothill B,chemistry,0,0,0,0,0
+i77,Foothill B,ess,0,0,0,0,1
+i77,Foothill B,math,18,8,10,2,1
+i77,Foothill B,physics,14,4,10,1,0
+i77,Foothill B,energy,0,0,0,0,0
+i77,Foothill B,biology,0,0,0,0,0
+i77,North Hollywood,chemistry,18,8,10,2,0
+i77,North Hollywood,ess,56,16,40,4,0
+i77,North Hollywood,math,8,8,0,2,0
+i77,North Hollywood,physics,28,8,20,2,0
+i77,North Hollywood,energy,42,12,30,3,0
+i77,North Hollywood,biology,36,16,20,4,0
+i78,California B,chemistry,22,12,10,3,0
+i78,California B,ess,8,8,0,2,1
+i78,California B,math,0,0,0,0,0
+i78,California B,physics,4,4,0,1,0
+i78,California B,energy,4,4,0,1,0
+i78,California B,biology,8,8,0,2,0
+i78,Irvington,chemistry,0,0,0,0,0
+i78,Irvington,ess,0,0,0,0,2
+i78,Irvington,math,14,4,10,1,0
+i78,Irvington,physics,0,0,0,0,0
+i78,Irvington,energy,4,4,0,1,0
+i78,Irvington,biology,0,0,0,0,1
+i79,Archbishop Mitty B,chemistry,18,8,10,2,0
+i79,Archbishop Mitty B,ess,4,4,0,1,0
+i79,Archbishop Mitty B,math,12,12,0,3,0
+i79,Archbishop Mitty B,physics,0,0,0,0,0
+i79,Archbishop Mitty B,energy,22,12,10,3,0
+i79,Archbishop Mitty B,biology,18,8,10,2,1
+i79,Amador Valley B,chemistry,0,0,0,0,0
+i79,Amador Valley B,ess,8,8,0,2,0
+i79,Amador Valley B,math,4,4,0,1,0
+i79,Amador Valley B,physics,0,0,0,0,0
+i79,Amador Valley B,energy,0,0,0,0,0
+i79,Amador Valley B,biology,4,4,0,1,1
+i80,Canyon Crest A,chemistry,4,4,0,1,0
+i80,Canyon Crest A,ess,42,12,30,3,1
+i80,Canyon Crest A,math,0,0,0,0,0
+i80,Canyon Crest A,physics,28,8,20,2,0
+i80,Canyon Crest A,energy,32,12,20,3,0
+i80,Canyon Crest A,biology,32,12,20,3,0
+i80,Lynbrook B,chemistry,14,4,10,1,0
+i80,Lynbrook B,ess,0,0,0,0,1
+i80,Lynbrook B,math,26,16,10,4,0
+i80,Lynbrook B,physics,28,8,20,2,0
+i80,Lynbrook B,energy,0,0,0,0,0
+i80,Lynbrook B,biology,4,4,0,1,1
+i81,Cupertino B,chemistry,4,4,0,1,0
+i81,Cupertino B,ess,0,0,0,0,0
+i81,Cupertino B,math,0,0,0,0,0
+i81,Cupertino B,physics,0,0,0,0,0
+i81,Cupertino B,energy,0,0,0,0,0
+i81,Cupertino B,biology,14,4,10,1,0
+i81,Mira Loma A,chemistry,18,8,10,2,0
+i81,Mira Loma A,ess,28,8,20,2,0
+i81,Mira Loma A,math,22,12,10,3,0
+i81,Mira Loma A,physics,28,8,20,2,0
+i81,Mira Loma A,energy,28,8,20,2,0
+i81,Mira Loma A,biology,22,12,10,3,0
+i82,Arnold O. Beckman A,chemistry,0,0,0,0,0
+i82,Arnold O. Beckman A,ess,4,4,0,1,1
+i82,Arnold O. Beckman A,math,0,0,0,0,0
+i82,Arnold O. Beckman A,physics,4,4,0,1,0
+i82,Arnold O. Beckman A,energy,0,0,0,0,0
+i82,Arnold O. Beckman A,biology,0,0,0,0,0
+i82,Lynbrook A,chemistry,14,4,10,1,0
+i82,Lynbrook A,ess,28,8,20,2,1
+i82,Lynbrook A,math,32,12,20,3,0
+i82,Lynbrook A,physics,14,4,10,1,0
+i82,Lynbrook A,energy,32,12,20,3,0
+i82,Lynbrook A,biology,36,16,20,4,0
+i83,BASIS Independent A,chemistry,0,0,0,0,0
+i83,BASIS Independent A,ess,18,8,10,2,0
+i83,BASIS Independent A,math,0,0,0,0,0
+i83,BASIS Independent A,physics,18,8,10,2,0
+i83,BASIS Independent A,energy,0,0,0,0,0
+i83,BASIS Independent A,biology,0,0,0,0,0
+i83,Canyon Crest B,chemistry,14,4,10,1,0
+i83,Canyon Crest B,ess,4,4,0,1,1
+i83,Canyon Crest B,math,18,8,10,2,0
+i83,Canyon Crest B,physics,28,8,20,2,0
+i83,Canyon Crest B,energy,22,12,10,3,0
+i83,Canyon Crest B,biology,18,8,10,2,0
+i84,Monta Vista B,chemistry,0,0,0,0,0
+i84,Monta Vista B,ess,0,0,0,0,1
+i84,Monta Vista B,math,14,4,10,1,0
+i84,Monta Vista B,physics,28,8,20,2,0
+i84,Monta Vista B,energy,4,4,0,1,0
+i84,Monta Vista B,biology,0,0,0,0,0
+i84,Palo Alto A,chemistry,42,12,30,3,0
+i84,Palo Alto A,ess,18,8,10,2,0
+i84,Palo Alto A,math,8,8,0,2,0
+i84,Palo Alto A,physics,14,4,10,1,1
+i84,Palo Alto A,energy,4,4,0,1,0
+i84,Palo Alto A,biology,8,8,0,2,1
+i85,Archbishop Mitty A,chemistry,8,8,0,2,0
+i85,Archbishop Mitty A,ess,0,0,0,0,1
+i85,Archbishop Mitty A,math,0,0,0,0,1
+i85,Archbishop Mitty A,physics,14,4,10,1,0
+i85,Archbishop Mitty A,energy,14,4,10,1,0
+i85,Archbishop Mitty A,biology,18,8,10,2,0
+i85,Abraham Lincoln,chemistry,0,0,0,0,0
+i85,Abraham Lincoln,ess,8,8,0,2,0
+i85,Abraham Lincoln,math,0,0,0,0,0
+i85,Abraham Lincoln,physics,0,0,0,0,1
+i85,Abraham Lincoln,energy,0,0,0,0,0
+i85,Abraham Lincoln,biology,0,0,0,0,0
+i86,Lynbrook C,chemistry,14,4,10,1,0
+i86,Lynbrook C,ess,22,12,10,3,0
+i86,Lynbrook C,math,18,8,10,2,0
+i86,Lynbrook C,physics,14,4,10,1,0
+i86,Lynbrook C,energy,0,0,0,0,0
+i86,Lynbrook C,biology,0,0,0,0,0
+i86,Saratoga,chemistry,18,8,10,2,0
+i86,Saratoga,ess,0,0,0,0,2
+i86,Saratoga,math,4,4,0,1,1
+i86,Saratoga,physics,18,8,10,2,0
+i86,Saratoga,energy,22,12,10,3,0
+i86,Saratoga,biology,16,16,0,4,0
+i87,Mission San Jose A,chemistry,42,12,30,3,0
+i87,Mission San Jose A,ess,28,8,20,2,0
+i87,Mission San Jose A,math,8,8,0,2,0
+i87,Mission San Jose A,physics,42,12,30,3,0
+i87,Mission San Jose A,energy,0,0,0,0,0
+i87,Mission San Jose A,biology,22,12,10,3,0
+i87,California A,chemistry,0,0,0,0,0
+i87,California A,ess,14,4,10,1,0
+i87,California A,math,0,0,0,0,0
+i87,California A,physics,14,4,10,1,0
+i87,California A,energy,8,8,0,2,0
+i87,California A,biology,4,4,0,1,0
+i88,American A,chemistry,4,4,0,1,0
+i88,American A,ess,4,4,0,1,2
+i88,American A,math,12,12,0,3,0
+i88,American A,physics,14,4,10,1,0
+i88,American A,energy,0,0,0,0,0
+i88,American A,biology,18,8,10,2,0
+i88,American B,chemistry,4,4,0,1,0
+i88,American B,ess,4,4,0,1,0
+i88,American B,math,4,4,0,1,0
+i88,American B,physics,0,0,0,0,0
+i88,American B,energy,4,4,0,1,0
+i88,American B,biology,14,4,10,1,0
+i89,Cupertino A,chemistry,14,4,10,1,0
+i89,Cupertino A,ess,18,8,10,2,1
+i89,Cupertino A,math,18,8,10,2,0
+i89,Cupertino A,physics,14,4,10,1,0
+i89,Cupertino A,energy,8,8,0,2,0
+i89,Cupertino A,biology,22,12,10,3,1
+i89,Foothill A,chemistry,8,8,0,2,0
+i89,Foothill A,ess,14,4,10,1,0
+i89,Foothill A,math,4,4,0,1,0
+i89,Foothill A,physics,4,4,0,1,0
+i89,Foothill A,energy,4,4,0,1,0
+i89,Foothill A,biology,0,0,0,0,1
+i90,Dougherty Valley B,chemistry,4,4,0,1,0
+i90,Dougherty Valley B,ess,0,0,0,0,0
+i90,Dougherty Valley B,math,0,0,0,0,0
+i90,Dougherty Valley B,physics,0,0,0,0,0
+i90,Dougherty Valley B,energy,4,4,0,1,0
+i90,Dougherty Valley B,biology,4,4,0,1,0
+i90,Mira Loma B,chemistry,0,0,0,0,0
+i90,Mira Loma B,ess,8,8,0,2,1
+i90,Mira Loma B,math,4,4,0,1,0
+i90,Mira Loma B,physics,4,4,0,1,0
+i90,Mira Loma B,energy,14,4,10,1,0
+i90,Mira Loma B,biology,12,12,0,3,0

@@ -2,7 +2,7 @@ id: 2026-08-29-isobowl-invitational-tournament-rise
 name: ISOBowl Invitational Tournament RISE
 date: '2026-08-29'
 end_date: null
-season: 2025-26
+season: 2026-27
 location: Online
 online: true
 division: HS
@@ -17,9 +17,18 @@ sources:
   role: results+stats
   slug: isobowl-invitational-tournament-rise-division
   url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament-rise-division/standings
+- kind: manual
+  role: crosscheck
+  file: isobowl/stats_page.txt
+  url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament-rise-division/stats
+  note: 'rendered team + individual stats tables (Playwright: pipeline/parsers/tools/g1_render_page.js); used only to cross-check
+    (pipeline/parsers/tools/g1_check_isobowl.py)'
 parser: g1_isobowl:parse
 parser_options:
   name_overrides:
     Duck: Rishabh
-status: todo
-notes: ''
+status: parsed
+notes: 'ISOBowl API (RISE = novice division): all 37 games (5 pool rounds + 7 DE rounds) with per-question logs -> per-player
+  per-subject stats with TUH, team_game_subjects, player_game_stats; computer science -> ''other''. Cross-checked against
+  the isobowl.com stats page: all 13 teams and all 58 individual rows match. Player names: most name-like display name per
+  account (account ''Duck'' shown as ''Rishabh'' via parser_options).'

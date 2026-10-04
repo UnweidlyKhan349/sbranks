@@ -1,0 +1,47 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,playoff,W1,11,Lexington 1,Lynbrook B,110,44,1,0,Challonge match 1
+g2,playoff,W1,11,Lynbrook A,Tesla Stem 1,122,76,1,0,Challonge match 2
+g3,playoff,W1,11,Dulles 1,BASIS 1,112,66,1,0,Challonge match 3
+g4,playoff,W1,11,Westminster,Wayzata,104,48,1,0,Challonge match 4
+g5,playoff,W1,11,Enloe 1,Foothill,152,64,1,0,Challonge match 5
+g6,playoff,W1,11,North Hollywood,Clements 1,178,26,1,0,Challonge match 6
+g7,playoff,W1,11,Mira Loma A,Lexington 2,,,1,1,Challonge match 7; 0-0 (forfeit)
+g8,playoff,W1,11,Centennial,JP Stevens 1,96,58,1,0,Challonge match 8
+g9,playoff,L1,11,Tesla Stem 2,Mira Loma B,20,110,2,0,Challonge match 9
+g10,playoff,L1,11,West Windsor,PRISMS,184,20,1,0,Challonge match 10
+g11,playoff,L1,11,Stuyvesant 1,Clements 2,,,1,1,Challonge match 11; 0-0 (forfeit)
+g12,playoff,L1,11,Dulles 2,Cupertino,62,60,1,0,Challonge match 12
+g13,playoff,L1,11,Highland Park,Enloe 2,20,152,2,0,Challonge match 13
+g14,playoff,L1,11,Iolani,Interlake 2,100,76,1,0,Challonge match 14
+g15,playoff,L1,11,Arcadia C,Interlake 1,92,42,1,0,Challonge match 15
+g16,playoff,L1,11,Canyon Crest Academy 1,Choate,54,58,2,0,Challonge match 16
+g17,playoff,W2,12,Lexington 1,Lynbrook A,82,86,2,0,Challonge match 29
+g18,playoff,W2,12,Dulles 1,Westminster,86,80,1,0,Challonge match 30
+g19,playoff,W2,12,Enloe 1,North Hollywood,118,58,1,0,Challonge match 31
+g20,playoff,W2,12,Mira Loma A,Centennial,66,84,2,0,Challonge match 32
+g21,playoff,L2,12,JP Stevens 1,Mira Loma B,34,100,2,0,Challonge match 17
+g22,playoff,L2,12,Lexington 2,West Windsor,22,118,2,0,Challonge match 18
+g23,playoff,L2,12,Clements 1,Stuyvesant 1,,,2,1,Challonge match 19; 0-0 (forfeit)
+g24,playoff,L2,12,Foothill,Dulles 2,94,14,1,0,Challonge match 20
+g25,playoff,L2,12,Wayzata,Enloe 2,44,104,2,0,Challonge match 21
+g26,playoff,L2,12,BASIS 1,Iolani,74,68,1,0,Challonge match 22
+g27,playoff,L2,12,Tesla Stem 1,Arcadia C,,,2,1,Challonge match 23; 0-0 (forfeit)
+g28,playoff,L2,12,Lynbrook B,Choate,54,58,2,0,Challonge match 24
+g29,playoff,W3,13,Lynbrook A,Dulles 1,38,106,2,0,Challonge match 39
+g30,playoff,W3,13,Enloe 1,Centennial,50,100,2,0,Challonge match 40
+g31,playoff,L3,13,Mira Loma B,West Windsor,76,62,1,0,Challonge match 25
+g32,playoff,L3,13,Stuyvesant 1,Foothill,,,2,1,Challonge match 26; Stuyvesant 1 scored 0 after advancing on two 0-0 forfeits; treated as forfeit
+g33,playoff,L3,13,Enloe 2,BASIS 1,50,32,1,0,Challonge match 27
+g34,playoff,L3,13,Arcadia C,Choate,84,20,1,0,Challonge match 28
+g35,playoff,W4,14,Dulles 1,Centennial,66,70,2,0,Challonge match 44
+g36,playoff,L4,14,Lexington 1,Foothill,106,36,1,0,Challonge match 33
+g37,playoff,L4,14,Westminster,Mira Loma B,,,2,0,Challonge match 34; source score 80-80; winner per source Mira Loma B
+g38,playoff,L4,14,North Hollywood,Arcadia C,62,44,1,0,Challonge match 35
+g39,playoff,L4,14,Mira Loma A,Enloe 2,96,42,1,0,Challonge match 36
+g40,playoff,L5,15,Mira Loma B,Lexington 1,40,70,2,0,Challonge match 37
+g41,playoff,L5,15,Mira Loma A,North Hollywood,80,74,1,0,Challonge match 38
+g42,playoff,L6,16,Lynbrook A,Mira Loma A,50,62,2,0,Challonge match 41
+g43,playoff,L6,16,Enloe 1,Lexington 1,100,98,1,0,Challonge match 42
+g44,playoff,L7,17,Enloe 1,Mira Loma A,52,16,1,0,Challonge match 43
+g45,playoff,L8,18,Dulles 1,Enloe 1,16,52,2,0,Challonge match 45
+g46,playoff,Grand Final,19,Centennial,Enloe 1,76,56,1,0,Challonge match 46

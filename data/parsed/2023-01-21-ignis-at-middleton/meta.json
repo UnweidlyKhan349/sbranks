@@ -1,0 +1,27 @@
+{
+  "tournament_id": "2023-01-21-ignis-at-middleton",
+  "counts": {
+    "teams": 8,
+    "games": 31,
+    "games_with_scores": 31,
+    "player_stat_rows": 252,
+    "players": 36,
+    "team_game_subject_rows": 372,
+    "player_game_stat_rows": 602
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": false,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [
+    "stats-only game (block 8): Middleton B 36.0 - 38.0 Middleton C",
+    "player Sai (Eisenhower B): per-question marks differ from the Stats totals",
+    "player Sai (Middleton C): per-question marks differ from the Stats totals"
+  ],
+  "parser": "g2_ignis:parse_inperson"
+}

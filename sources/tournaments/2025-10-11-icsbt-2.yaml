@@ -23,7 +23,22 @@ sources:
   sheet_id: 13GXSkBNPGoL9oAXxPs6th6zyTP2RaBVSpd0cuVirEKc
   url: https://docs.google.com/spreadsheets/d/13GXSkBNPGoL9oAXxPs6th6zyTP2RaBVSpd0cuVirEKc/edit?usp=sharing
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_livescoresheet:parse_icsbt
+parser_options:
+  bracket_opts:
+    round_labels:
+      '0': DE1
+      '2': DE2
+      '4': DE3
+      '6': DE4
+      '8': DE5
+      '10': DE6
+      '12': Final
+  bracket_forfeits:
+  - M11
+  bracket_notes:
+    M11: final recorded as 16-0 in a column with no scheduled time slot; flagged as not a regular game
+status: parsed
+notes: 90 round-robin games and 22 double-elimination games; the final is listed 16-0 in a column with no scheduled slot and
+  is flagged as not a regular game. RR player stats from the separate workbook (ovr/bio/chem/ess/math/phys/csenergy -> energy),
+  team from the code prefix, rows split by inconsistent team labels summed per player.

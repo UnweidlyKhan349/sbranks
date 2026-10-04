@@ -1,0 +1,40 @@
+{
+  "tournament_id": "2025-05-18-bash",
+  "counts": {
+    "teams": 42,
+    "games": 136,
+    "games_with_scores": 136,
+    "player_stat_rows": 1239,
+    "players": 177,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "kensuke o [North Hollywood] overall rr: counts not exact for gp=5.0 buzzes=25.0 ppg=10.0 npg=0.666667 acc=0.76; kept points/ppg",
+    "kieran t [Hunter B] overall rr: counts not exact for gp=5.0 buzzes=19.0 ppg=8.66667 npg=0.166667 acc=0.737; kept points/ppg",
+    "john w [Andover] overall rr: counts not exact for gp=4.0 buzzes=5.0 ppg=5.33333 npg=0.0 acc=0.8; kept points/ppg",
+    "john w [Andover] biology rr: counts not exact for gp=4.0 buzzes=2.0 ppg=1.33333 npg=0.0 acc=0.5; kept points/ppg",
+    "kieran t [Hunter B] biology rr: counts not exact for gp=5.0 buzzes=1.0 ppg=0.666667 npg=0.0 acc=1.0; kept points/ppg",
+    "kensuke o [North Hollywood] biology rr: counts not exact for gp=5.0 buzzes=4.0 ppg=0.0 npg=0.333333 acc=0.5; kept points/ppg",
+    "kensuke o [North Hollywood] ess rr: counts not exact for gp=5.0 buzzes=15.0 ppg=7.33333 npg=0.166667 acc=0.8; kept points/ppg",
+    "kieran t [Hunter B] ess rr: counts not exact for gp=5.0 buzzes=7.0 ppg=4.66667 npg=0.0 acc=1.0; kept points/ppg",
+    "kieran t [Hunter B] chemistry rr: counts not exact for gp=5.0 buzzes=2.0 ppg=1.33333 npg=0.0 acc=1.0; kept points/ppg",
+    "kensuke o [North Hollywood] chemistry rr: counts not exact for gp=5.0 buzzes=1.0 ppg=0.666667 npg=0.0 acc=1.0; kept points/ppg",
+    "john w [Andover] physics rr: counts not exact for gp=4.0 buzzes=1.0 ppg=1.33333 npg=0.0 acc=1.0; kept points/ppg",
+    "kensuke o [North Hollywood] physics rr: counts not exact for gp=5.0 buzzes=3.0 ppg=0.666667 npg=0.166667 acc=0.667; kept points/ppg",
+    "kieran t [Hunter B] math rr: counts not exact for gp=5.0 buzzes=7.0 ppg=1.33333 npg=0.166667 acc=0.429; kept points/ppg",
+    "kensuke o [North Hollywood] math rr: counts not exact for gp=5.0 buzzes=2.0 ppg=1.33333 npg=0.0 acc=1.0; kept points/ppg",
+    "john w [Andover] energy rr: counts not exact for gp=4.0 buzzes=2.0 ppg=2.66667 npg=0.0 acc=1.0; kept points/ppg",
+    "kieran t [Hunter B] energy rr: counts not exact for gp=5.0 buzzes=1.0 ppg=0.666667 npg=0.0 acc=1.0; kept points/ppg"
+  ],
+  "parser": "g7_bsb:parse_bash_2025"
+}

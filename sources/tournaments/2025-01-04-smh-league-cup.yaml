@@ -18,7 +18,13 @@ sources:
   sheet_id: 1cSCCsbZwmwQKSijVDnrNi52byttdHBoZoVyhhvviaRk
   url: https://docs.google.com/spreadsheets/d/1cSCCsbZwmwQKSijVDnrNi52byttdHBoZoVyhhvviaRk/edit?gid=2142470845#gid=2142470845
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_catstats:parse_league_cup
+parser_options:
+  aliases:
+    MSJ: Mission San Jose
+    Missions San Jose: Mission San Jose
+status: parsed
+notes: 90 league-phase games from the League Scoreboard and 60 playoff-group games from the Playoff Scoring grids (W/T/L match
+  both standings tables; the Team Hub summaries contain three copy errors, noted); Tokay vs Winston Churchill 0-0 flagged
+  as not played. Player stats per phase (league = rr, playoff = playoff) for overall + all 6 subjects; stale leftover rows
+  in three playoff subject tabs are detected and skipped.

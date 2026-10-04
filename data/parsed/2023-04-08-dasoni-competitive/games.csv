@@ -1,0 +1,27 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr-s1-1,rr,slot 1,1,Blair B,Enloe B,30,68,2,0,
+rr-s1-2,rr,slot 1,1,Centennial,Interlake,108,48,1,0,
+rr-s1-4,rr,slot 1,1,Blair C,MSJ A,36,118,2,0,
+rr-s1-5,rr,slot 1,1,Lexington,Middleton,68,116,2,0,
+rr-s1-7,rr,slot 1,1,Dulles,MSJ B,82,4,1,0,
+rr-s2-2,rr,slot 2,2,Iolani,Niskayuna,66,8,1,0,
+rr-s2-3,rr,slot 2,2,Blair C,Centennial,70,62,1,0,
+rr-s2-5,rr,slot 2,2,Interlake,MSJ A,102,58,1,0,
+rr-s2-6,rr,slot 2,2,Dulles,Lakeside A,82,58,1,0,
+rr-s3-2,rr,slot 3,3,Enloe B,Middleton,74,66,1,0,
+rr-s3-3,rr,slot 3,3,Enloe A,Niskayuna,158,4,1,0,
+rr-s3-5,rr,slot 3,3,Lakeside A,MSJ B,104,18,1,0,
+rr-s3-6,rr,slot 3,3,Blair B,Lexington,44,140,2,0,
+rr-s4-1,rr,slot 4,4,Centennial,MSJ A,76,102,2,0,
+rr-s4-2,rr,slot 4,4,Enloe B,Middleton,66,64,1,0,
+rr-s4-4,rr,slot 4,4,Blair C,Interlake,42,70,2,0,
+rr-s4-5,rr,slot 4,4,Enloe A,Iolani,136,26,1,0,
+rr-s4-6,rr,slot 4,4,Blair B,Lexington,38,146,2,0,
+de-A3,playoff,DE1,100,Enloe A,Interlake,,,1,0,winner from the bracket (D4); no score recorded
+de-A11,playoff,DE1,100,Dulles,Enloe B,,,1,0,winner from the bracket (D12); no score recorded
+de-A20,playoff,DE1,100,Lexington,Iolani,,,1,0,winner from the bracket (D21); no score recorded
+de-A28,playoff,DE1,100,Lakeside A,MSJ A,,,2,0,winner from the bracket (D29); no score recorded
+de-D4,playoff,DE2,101,Enloe A,Dulles,,,2,0,winner from the bracket (F8); no score recorded
+de-D21,playoff,DE2,101,Lexington,Enloe B,,,1,0,winner from the bracket (F23); no score recorded
+de-D29,playoff,DE2,101,MSJ A,Interlake,,,1,0,winner from the bracket (F31); no score recorded
+de-F23,playoff,DE3,102,Lexington,MSJ A,,,1,0,winner from the bracket (I27); no score recorded

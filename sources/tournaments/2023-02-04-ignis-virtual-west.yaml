@@ -11,7 +11,7 @@ exclude_reason: null
 kind: invitational
 level: standard
 subject_only: null
-question_set: null
+question_set: ignis-2023
 sources:
 - kind: url
   role: results
@@ -31,7 +31,18 @@ sources:
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTJ2HSdJxZg4kYmy0nEInaylba3V92iucPjmAzhDBKMQlIk3y7JdfE-hlsB0b1CW9vF3_J7X6nI_A/pub?output=xlsx
   file: stats_sheet.xlsx
   note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_ignis:parse_online
+parser_options:
+  schools:
+    NoHo A: North Hollywood High School
+    Tesla STEM A: Tesla STEM High School
+    Enloe A: William G. Enloe High School
+  states:
+    NoHo A: CA
+    Tesla STEM A: WA
+    Enloe A: NC
+status: parsed
+notes: Ignis set (X-Risk -> 'other'). RR division grids + double-elimination bracket (one 114-114 bracket tie; NCSSM A advanced);
+  2 RR forfeits by Tesla STEM B. The Ignis Virtual stats workbook is shared with Virtual East; split by team. Per-question
+  buzz log gives per-game subject points and per-game player buzzes; player totals from the 'Full' tabs with full names from
+  the account list. Australian teams (James Ruse, Baulkham Hills) included as they played.

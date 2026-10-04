@@ -1,0 +1,28 @@
+{
+  "tournament_id": "2024-12-07-berkeley-science-bowl",
+  "counts": {
+    "teams": 48,
+    "games": 151,
+    "games_with_scores": 151,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 1416,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": true,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "game g19 Homestead A: 4*TU+10*B+4*oppPen = 0.0 != score 116.0; subject breakdown skipped",
+    "game g19 Mission San Jose B: 4*TU+10*B+4*oppPen = 0.0 != score 148.0; subject breakdown skipped",
+    "game g33 Arnold O. Beckman A: 4*TU+10*B+4*oppPen = 0.0 != score 68.0; subject breakdown skipped",
+    "game g33 Canyon Crest A: 4*TU+10*B+4*oppPen = 0.0 != score 128.0; subject breakdown skipped"
+  ],
+  "parser": "g5_berkeley_rr:parse"
+}

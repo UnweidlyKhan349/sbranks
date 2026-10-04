@@ -18,7 +18,31 @@ sources:
   sheet_id: 1uyEtR7SsB2L1J65BOAkM-OpfNV52-WKdmcXBE2cXJHI
   url: https://docs.google.com/spreadsheets/d/1uyEtR7SsB2L1J65BOAkM-OpfNV52-WKdmcXBE2cXJHI/edit?gid=529079639#gid=529079639
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mosfet:parse_stages
+parser_options:
+  stage_tabs:
+  - RR Stage 1 Groups + Matches
+  - RR Stage 2 Groups + Matches
+  bracket:
+    tab: Playoff Bracket
+    anchor: ^(Rm|Room) \d+$
+    pcols:
+    - 0
+    - 1
+    score: right
+    winner: later
+    header_row: 0
+    skip:
+    - Champion
+    - Place Winner
+    seq_base: 7
+    round_overrides:
+      K20: Finals
+      K35: 3rd Place
+    extra_rounds:
+      Finals: 11
+      3rd Place: 11
+status: parsed
+notes: Results only. Two RR stages of score matrices (rounds from the per-group pairing tables) plus a 16-team single-elimination
+  playoff with a 3rd-place game, all scored. Evergreen and IMSA B never played and Oak Creek moved groups, so unplayed games
+  are skipped; the sheet's 3-team-group totals are scaled by 1.5, which matches the parsed scores.

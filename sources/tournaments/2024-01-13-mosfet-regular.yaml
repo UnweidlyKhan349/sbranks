@@ -18,7 +18,21 @@ sources:
   sheet_id: 17lOlUAQD6D3PLQ7lxZvJK5lkmUM81HAwXlZUJ_BBYj4
   url: https://docs.google.com/spreadsheets/d/17lOlUAQD6D3PLQ7lxZvJK5lkmUM81HAwXlZUJ_BBYj4/edit#gid=1675433798
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mosfet:parse_2024
+parser_options:
+  bracket:
+    tab: 'Double Elimination Bracket '
+    anchor: ^(Ac|Ba|Ce|Dy)-\d$
+    header_row: 0
+    seq_base: 3
+    round_overrides:
+      P21: Finals 1
+    extra_rounds:
+      Finals 1: 11
+      Finals 2: 12
+    games:
+    - F2 | Finals 2 | P19 | P23 | =Lindbergh A
+status: parsed
+notes: Results only. The RR games combine Round Robin Pairings with the per-round scores in Group Assignments (they all agree).
+  The double-elimination bracket gives winners only. Champion Lindbergh A came from the one-loss side, so the second final
+  (on the schedule but not drawn in the bracket) is recorded as an inferred Lindbergh A win.

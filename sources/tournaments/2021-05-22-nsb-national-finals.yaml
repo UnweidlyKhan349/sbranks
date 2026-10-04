@@ -1,0 +1,32 @@
+id: 2021-05-22-nsb-national-finals
+name: NSB National Finals
+date: '2021-05-22'
+end_date: null
+season: 2020-21
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: nationals
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2021/2021-NSB-DOECAST-for-website.pdf
+  file: finalists.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2021-Competition
+- kind: browser_url
+  role: format
+  url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2021-Competition/NSB-Final-Events
+  file: final_events.html
+- kind: browser_url
+  role: results
+  url: https://www.energy.gov/articles/california-and-massachusetts-schools-win-does-31st-national-science-bowlr
+  file: winners_release.html
+parser: null
+parser_options: {}
+status: todo
+notes: ''

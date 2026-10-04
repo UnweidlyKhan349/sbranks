@@ -41,17 +41,20 @@ characters as long as JS iterates code points with `for...of`.)
   trend: [r, ...],       // last 12 post-tournament ratings (for sparklines)
   subj: { <subject>: {r, se, rank, n} } }   // Elo-scaled subject ratings (n = effective tossups heard)
 ```
-Sorted by `r` descending.
+Sorted by `r` descending (ties in the rounded `r` keep the unrounded order, so `rank` increases).
 
 ## `teams/<shard>.json` — `{ <team id>: detail }`
 ```
 { history: [{tournament_id, date, r, rd, pre, delta}],      // after each rated tournament
   games: [{t, d, seq, st, rd, o, s, os, r, p, ff}],         // t=tournament, o=opponent team id, s/os=scores,
                                                             // r=W/L/T, p=pre-game win probability, st=stage, rd=round
-  tournaments: [{t, d, w, l, t, g, ppg, champ}],
+  tournaments: [{t, d, w, l, tie, g, ppg, champ}],          // t = tournament id, tie = ties
   roster: { <season>: [player ids] },
-  subj_history: { <subject>: [{d, r, se}] } }
+  subj_history: { <subject>: [{d, r, se}] },
+  coverage: { season, players: [{p, gp, n_t, pts: { overall|<subject>: tossup points }}] } | null }
 ```
+`coverage` is the roster x subject matrix for the team's latest season that has per-subject player
+stats (single-subject events excluded); `null` when the team has no subject stats.
 
 ## `schools.json`
 ```
@@ -65,6 +68,7 @@ Sorted by `r` descending.
   n_t, gp, pts, ppg, ptuh,     // tournaments, games, tossup points, points/game, points per tossup heard
   first, last, best,           // best = best subject key
   peak,
+  trend: [r, ...],             // last 12 overall ratings (for sparklines)
   subj: { <subject>: {r, se, rank, n, pts} },
   aliases: [names as spelled in other sources] }
 ```
@@ -81,24 +85,36 @@ was inferred from the team's game count.
 
 ## `tournaments.json` (newest first)
 ```
-{ id, name, date, end, season, location, online, kind, level, subject_only, status, notes,
+{ id, name, date, end, season, location, online, kind, level, subject_only, individual, status, notes,
   n_teams, n_games, n_scored, n_players, strength, champion, rated, coverage, set,
   sources: [{role, kind, url}], no_data? }
 ```
+`individual: true` marks 1v1 events (competitors are people; no team entries, only player stats).
 `strength` = mean pre-tournament rating of the field's top 8 teams. `rated` = games count toward
 the overall team rating (false for single-subject events). `no_data: true` for listed events with
 no obtainable results.
 
+`champion` = winner of the final playoff game (forfeit-flagged games count; third-place and
+consolation games are ignored; a finals series between the same two teams is decided by its last
+game). It is `null` when there is no playoff stage, or when the final evidently is not in the data:
+the last playoff round has games between different pairs of teams, or another playoff team finished
+with fewer playoff losses than the would-be champion (e.g. a double-elimination final with no
+published result).
+
 ## `tournaments/<id>.json`
 Tournament row (above) plus:
 ```
-{ teams: [{tm, raw, w, l, t, g, ppg, papg}],                 // sorted by wins, then ppg
+{ teams: [{tm, raw, w, l, t, g, ppg, papg}],                 // sorted by wins (ties = ½), then fewest losses, then ppg
   games: [{id, st, rd, seq, t1, t2, s1, s2, res, p1, ff, pre1, pre2}],
   players: [{p, tm, s: { overall|<subject>: {gp, tuh, c, n, pts, ppg, gp_est} }}] }
 ```
 
 ## `nationals.json`
 ```
-{ winners: [...sources/reference/nsb_winners.yaml...], finishes: { <year>: [{team, finish, ...}] },
+{ winners: [...sources/reference/nsb_winners.yaml...],   // newest first; + school_id when the champion
+                                                         //   name matches a known school
+  finishes: { <year>: [{team, finish, ..., tm?, school_id?}] },  // team/school ids when the entry resolves
   tournaments: [ids of NSB National Finals tournaments] }
 ```
+The site reads winner rows flexibly: `year`, `champion` (or `winner`/`school`/`team`), and optional
+`state`, `city`, `runner_up`, `third`, `notes`.

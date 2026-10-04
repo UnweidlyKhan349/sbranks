@@ -23,7 +23,14 @@ sources:
   sheet_id: 1vswuJsos3ipg4QTd5vo3CAcySCl8C4Wvd8ovOrTTxIw
   url: https://docs.google.com/spreadsheets/d/1vswuJsos3ipg4QTd5vo3CAcySCl8C4Wvd8ovOrTTxIw/edit#gid=1525171063
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g3_online:parse_wisc2021
+parser_options:
+  team_map:
+    Wwphss: WWPHSS
+    Iolani School: Iolani
+    Ward Melville A: Ward Melville
+    Martin Luther King: MLK
+status: partial
+notes: 'Primary and Secondary playoff brackets (22 games incl. 3rd-place and consolation) with winners only; round-robin results
+  are not in the sheet. RR player stats (scope rr) with teams inferred by exact sums against the team tabs: 75 of 127 players
+  placed (team rows undercount player totals by one team''s worth, so 8 players fit no team and 25 are ambiguous).'

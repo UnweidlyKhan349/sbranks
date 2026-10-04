@@ -23,7 +23,11 @@ sources:
   sheet_id: 1DYRT_mvwp3bbPdx86sfvohcAT5UiCUHl
   url: https://docs.google.com/spreadsheets/d/1DYRT_mvwp3bbPdx86sfvohcAT5UiCUHl/edit#gid=1939856787
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g3_lost_template:parse
+parser_options:
+  rr_tab: RR
+  de_label: ^(Rhydon|Wendy|Odyssey|Goblin) \d$
+status: partial
+notes: Round robin (4 divisions of 5) joined with room assignments (40 games; optional cross-division Eden-room games were
+  not recorded) plus 29 double-elimination games; the final is not recorded. The stats workbook (93 players) has no team column
+  or team tabs, so player stats could not be attached to teams and are not used.

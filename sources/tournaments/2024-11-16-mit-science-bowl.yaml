@@ -18,7 +18,35 @@ sources:
   sheet_id: 1oonofz3IFJvJmZI8KxcC55ufhDYvbH4YVm1C_y90_Qk
   url: https://docs.google.com/spreadsheets/d/1oonofz3IFJvJmZI8KxcC55ufhDYvbH4YVm1C_y90_Qk/edit?gid=1191694692#gid=1191694692
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mit:parse
+parser_options:
+  wildcard_tab: Wildcard
+  wildcard_seq: 11
+  brackets:
+  - tab: Double Elimination
+    anchor: ^[WLF]\d+(\s*:.*)?$
+    gid_re: ^([WLF]\d+)
+    skip:
+    - ^Double Elimination
+    - \d:\d\d
+    - CHAMPIONS
+    - ^R\d$
+    - ^(Round|Time)$
+    header_row: 0
+    round_num: Double Elimination (\d+)
+    round_fmt: DE{n}
+    ignore:
+    - F2
+    winner_cells:
+      F1: R27
+  - tab: Wildcard
+    stage: consolation
+    header_row: -1
+    extra_rounds:
+      Wildcard Final: 15
+    games:
+    - WCF | Wildcard Final | L7 | L11 | N10
+status: parsed
+notes: Results only. Round-robin and wildcard groups X/Y give win/tie/loss codes with no scores; the wildcard groups and wildcard
+  final are stage consolation. The 16-team double-elimination bracket gives winners only (the '26-210' labels are MIT room
+  numbers, not scores); Montgomery Blair won undefeated.

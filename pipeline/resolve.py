@@ -12,7 +12,8 @@ Reference data (hand-curated, in sources/reference/):
 
 ``team_aliases.yaml``  (exceptions the automatic rules get wrong)
     composite:                           # pickup / multi-school / online-only team names
-      - Gargy Bomy
+      - Ultimate Uzbeks
+      - {name: Gargy Bomy, school: west-windsor-plainsboro-high-school-south-nj}  # affiliated
     overrides:                           # raw team name -> explicit mapping
       "BISV A": {school: basis-independent-silicon-valley, letter: A}
       "<tournament_id>::Some Name": {school: ..., letter: B}   # tournament-specific
@@ -103,6 +104,7 @@ class School:
     aliases: list[str] = field(default_factory=list)
     curated: bool = True
     composite: bool = False
+    affiliate: str | None = None        # composite team mostly drawn from this school
 
 
 class Resolver:
@@ -127,8 +129,13 @@ class Resolver:
                         raise ValueError(f"alias {a!r} maps to both {prev} and {sch.id}")
                     self.alias_to_school[k] = sch.id
         ta = _load("team_aliases.yaml") or {}
-        self.composite = {norm_key(x) for x in ta.get("composite") or []}
-        self.composite_raw = {x.strip().lower() for x in ta.get("composite") or []}
+        self.composite_aff: dict[str, str | None] = {}
+        for x in ta.get("composite") or []:
+            name, aff = (x, None) if isinstance(x, str) else (x["name"], x.get("school"))
+            self.composite_aff[name.strip().lower()] = aff
+            self.composite_aff[norm_key(name)] = aff
+        self.composite = set(self.composite_aff)
+        self.composite_raw = set(self.composite_aff)
         self.overrides: dict[str, dict[str, Any]] = {k: v for k, v in (ta.get("overrides") or {}).items()}
         pa = _load("player_aliases.yaml") or {}
         self.player_merge: dict[str, str] = {}
@@ -146,11 +153,12 @@ class Resolver:
         ov = self.overrides.get(f"{tid}::{raw}") or self.overrides.get(raw)
         if ov:
             if ov.get("composite"):
-                sid = self._composite_school(ov.get("name") or raw)
+                sid = self._composite_school(ov.get("name") or raw, ov.get("school"))
                 return sid, "A", True
             return ov["school"], ov.get("letter", "A"), False
-        if raw.strip().lower() in self.composite_raw or norm_key(raw) in self.composite:
-            return self._composite_school(raw), "A", True
+        for k in (raw.strip().lower(), norm_key(raw)):
+            if k in self.composite_aff:
+                return self._composite_school(raw, self.composite_aff[k]), "A", True
         base, letter = split_team_name(raw)
         for candidate in (base, raw, school_hint):
             if not candidate:
@@ -167,10 +175,13 @@ class Resolver:
             self.schools[sid] = School(id=sid, name=base, short=base, state=state_hint, curated=False)
         return sid, (letter or "A"), False
 
-    def _composite_school(self, name: str) -> str:
+    def _composite_school(self, name: str, affiliate: str | None = None) -> str:
         sid = "x-" + slugify(name)
         if sid not in self.schools:
-            self.schools[sid] = School(id=sid, name=name, short=name, curated=False, composite=True)
+            if affiliate and affiliate not in self.schools:
+                raise ValueError(f"composite team {name!r}: unknown affiliated school {affiliate!r}")
+            self.schools[sid] = School(id=sid, name=name, short=name, curated=False, composite=True,
+                                       affiliate=affiliate)
         return sid
 
     # ---- players ------------------------------------------------------------------------
@@ -193,14 +204,30 @@ def build() -> dict[str, Any]:
     entries: list[dict[str, Any]] = []
     player_obs: list[dict[str, Any]] = []   # (tournament, raw player, team id, school, season)
     tinfo = []
+    conflicts: list[dict[str, Any]] = []
 
     for t in tournaments:
         d = load_parsed(t.id)
         team_map: dict[str, str] = {}
+        if t.get("individual"):
+            # 1v1 events: competitors are people, not teams. Keep only their player stats.
+            for r in d["player_stats"]:
+                player_obs.append({"tournament_id": t.id, "season": t.season, "raw": r["player"],
+                                   "team_id": None, "school_id": "x-individual", "composite": True})
+                pstats.append({"tournament_id": t.id, "raw_player": r["player"], "team_id": None,
+                               "scope": r["scope"], "subject": r["subject"],
+                               **{k: num(r[k]) for k in ("gp", "tuh", "correct", "zeros", "negs", "points", "ppg")}})
+            tinfo.append(t)
+            continue
         for tr in d["teams"]:
             sid, letter, comp = R.resolve_team(t.id, tr["team"], tr.get("school", ""), tr.get("state", ""))
             sch = R.schools[sid]
             team_id = sid if comp else f"{sid}-{letter.lower()}"
+            if team_id in team_map.values():
+                # two different raw names resolved to the same team in one tournament: keep them apart
+                clash = next(k for k, v in team_map.items() if v == team_id)
+                conflicts.append({"tournament_id": t.id, "team_id": team_id, "raw": [clash, tr["team"]]})
+                team_id = f"{team_id}--{slugify(tr['team'])}"
             team_map[tr["team"]] = team_id
             if team_id not in teams:
                 teams[team_id] = {"id": team_id, "school_id": sid, "letter": None if comp else letter,
@@ -241,11 +268,18 @@ def build() -> dict[str, Any]:
     for sid in sorted(used_schools):
         s = R.schools[sid]
         schools_out[sid] = {"id": sid, "name": s.name, "short": s.short, "city": s.city,
-                            "state": s.state, "curated": s.curated, "composite": s.composite}
+                            "state": s.state, "curated": s.curated, "composite": s.composite,
+                            "affiliate": s.affiliate}
+        if s.affiliate and s.affiliate not in schools_out:
+            a = R.schools[s.affiliate]
+            schools_out[a.id] = {"id": a.id, "name": a.name, "short": a.short, "city": a.city, "state": a.state,
+                                 "curated": a.curated, "composite": a.composite, "affiliate": None}
     out = {
         "schools": schools_out, "teams": teams, "players": players, "games": games,
         "player_stats": pstats, "team_game_subjects": tgs, "entries": entries,
         "unmatched_team_bases": R.unmatched.most_common(),
+        "tournament_ids": [t.id for t in tinfo],
+        "conflicts": conflicts,
     }
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
     (BUILD_DIR / "resolved.json").write_text(json.dumps(out))
@@ -287,10 +321,16 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
         toks = o["key"].split()
         if len(toks) >= 2 and len(toks[-1]) > 1:
             full_by_school_first[(o["school_id"], toks[0], toks[-1][0])].add(person_of[id(o)])
+    full_by_first: dict[tuple[str, str], set[tuple[str, str | None]]] = defaultdict(set)
+    for (sch, first, initial), people_ in full_by_school_first.items():
+        full_by_first[(first, initial)] |= people_
     for o in obs:
         toks = o["key"].split()
         if len(toks) == 2 and len(toks[-1]) == 1:
             cands = full_by_school_first.get((o["school_id"], toks[0], toks[-1]), set())
+            if not cands and o["composite"]:
+                # pickup / individual events: accept a unique match anywhere
+                cands = full_by_first.get((toks[0], toks[-1]), set())
             if len(cands) == 1:
                 person_of[id(o)] = next(iter(cands))
 
@@ -333,6 +373,8 @@ def main(argv: list[str] | None = None) -> int:
     out = build()
     print(f"{len(out['schools'])} schools, {len(out['teams'])} teams, {len(out['players'])} players, "
           f"{len(out['games'])} games, {len(out['player_stats'])} player stat rows")
+    for c in out["conflicts"]:
+        print("CONFLICT", c)
     if a.report:
         for base, n in out["unmatched_team_bases"]:
             print(f"{n:4d}  {base}")

@@ -1,0 +1,23 @@
+{
+  "tournament_id": "2023-03-26-esbot",
+  "counts": {
+    "teams": 32,
+    "games": 100,
+    "games_with_scores": 99,
+    "player_stat_rows": 692,
+    "players": 140,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [],
+  "parser": "g2_esbot:parse_esbot23"
+}

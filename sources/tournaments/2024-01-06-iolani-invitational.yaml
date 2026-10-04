@@ -13,10 +13,43 @@ level: standard
 subject_only: null
 question_set: null
 sources:
-- kind: drive_folder
+- kind: manual
   role: results
   url: https://drive.google.com/drive/folders/1-piDufZ3ECJNFpzU4pKyZ-uNHBuyI5uN
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+  file: drive_folder.html
+  note: folder listing saved from https://drive.google.com/embeddedfolderview?id=1-piDufZ3ECJNFpzU4pKyZ-uNHBuyI5uN
+- kind: gsheet
+  role: results
+  sheet_id: 1oLot6kETPaxqYDT4NorJDhTc9WVf6xg2eJu-o3dxj3w
+  url: https://docs.google.com/spreadsheets/d/1oLot6kETPaxqYDT4NorJDhTc9WVf6xg2eJu-o3dxj3w/edit
+  file: results.xlsx
+  note: '"2024 ISBI Live Results and Bracket" in the Drive folder'
+- kind: manual
+  role: scoresheets
+  url: https://drive.google.com/file/d/1kxxkllcAZCbKSR4Sto3AXM7IBRplZ-Hy/view
+  note: 'not mirrored: 65 MB PDF of 16 phone-photographed paper scoresheets (no text layer); game scores are in results.xlsx'
+- kind: drive_file
+  role: finals scoreboard photo
+  file_id: 1pu-30cpbf8KvPzkX_oLRZkWtrnDn6ctw
+  url: https://drive.google.com/file/d/1pu-30cpbf8KvPzkX_oLRZkWtrnDn6ctw/view
+  file: finals_scoreboard.jpg
+  note: '"2024 ISBI Finals Scoreboard.jpg": whiteboard running totals of the championship game (Punahou 80, Iolani 30)'
+parser: g5_hawaii:parse
+parser_options:
+  rr_tab: 8 Team Round Robin
+  bracket_tab: 8 Team Playoffs
+  bracket_labels:
+  - QF
+  - SF
+  - Final
+  name_map:
+    Iolani Team Physics: Io Physics
+  unscored_scores:
+    Punahou Beta Pleated Sheets|Io Physics:
+    - 80
+    - 30
+status: parsed
+notes: 'From the Drive folder''s ''2024 ISBI Live Results and Bracket'' sheet: 12 RR games (2 pools of 4; round order not
+  recorded) and 5 playoff games; one quarterfinal (Mililani vs Io Earth) has no score (winner from the bracket) and the final''s
+  80-30 score is read from the folder''s finals scoreboard photo. The folder''s scoresheet PDF is 65 MB of phone photos (not
+  mirrored); no player stats exist.'

@@ -18,7 +18,45 @@ sources:
   sheet_id: 1i1Nf6hZ5y671519OKh8t8PnJ3pDONxgMdWwr9NhkObI
   url: https://docs.google.com/spreadsheets/d/1i1Nf6hZ5y671519OKh8t8PnJ3pDONxgMdWwr9NhkObI/edit?usp=sharing
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mit:parse
+parser_options:
+  wildcard_tab: Wildcard
+  wildcard_seq: 13
+  aliases:
+    OKSSM: OK School of Science and Math
+  label_check: true
+  brackets:
+  - tab: Winners DE Bracket
+    anchor: '^[WF]\d+:'
+    gid_re: ^([WF]\d+)
+    strip: &id001
+    - ^(Winner|One-loss|Loser) [WCF]\d+:\s*
+    - ^[A-Z][a-z]+ (1st|2nd|3rd|4th):\s*
+    - '!$'
+    skip: &id002
+    - ^2025 MIT
+    - ^Watch finals
+    - ^Double Elimination
+    - ' [AP]M$'
+    header_row: 4
+    round_num: Double Elimination (\d+)
+    round_fmt: DE{n}
+    ignore:
+    - F1
+    - F2
+    games:
+    - F1 | DE10 | K39 | K50 | =Seattle Squad
+    - F2 | DE11 | K39 | K50 | N45
+  - tab: Challengers DE Bracket
+    anchor: '^C\d+:'
+    gid_re: ^(C\d+)
+    strip: *id001
+    skip: *id002
+    header_row: 2
+    round_num: Double Elimination (\d+)
+    round_fmt: DE{n}
+status: parsed
+notes: Results only. 8 round-robin and 4 wildcard divisions give win/tie/loss codes with no scores. The starred Venice vs
+  State College Area wildcard game is flagged as a forfeit because the sheet leaves it out of the totals. The Winners and
+  Challengers double-elimination brackets give winners only and are checked against all 94 Winner/Loser/One-loss labels; Final
+  1 (Seattle Schrodinger Squad) is inferred from the existence of Final 2.

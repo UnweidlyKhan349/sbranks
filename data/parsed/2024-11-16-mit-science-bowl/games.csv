@@ -1,0 +1,182 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1,rr,,1,Cape Elizabeth,Falmouth,,,1,0,Group A
+rr2,rr,,1,Cape Elizabeth,PRISMS,,,2,0,Group A
+rr3,rr,,1,Cape Elizabeth,Sci Tech,,,2,0,Group A
+rr4,rr,,1,Cape Elizabeth,Sharon,,,T,0,Group A
+rr5,rr,,1,Cape Elizabeth,Stanford Online,,,2,0,Group A
+rr6,rr,,1,Falmouth,PRISMS,,,2,0,Group A
+rr7,rr,,1,Falmouth,Sci Tech,,,2,0,Group A
+rr8,rr,,1,Falmouth,Sharon,,,2,0,Group A
+rr9,rr,,1,Falmouth,Stanford Online,,,1,0,Group A
+rr10,rr,,1,PRISMS,Sci Tech,,,2,0,Group A
+rr11,rr,,1,PRISMS,Sharon,,,1,0,Group A
+rr12,rr,,1,PRISMS,Stanford Online,,,1,0,Group A
+rr13,rr,,1,Sci Tech,Sharon,,,1,0,Group A
+rr14,rr,,1,Sci Tech,Stanford Online,,,1,0,Group A
+rr15,rr,,1,Sharon,Stanford Online,,,2,0,Group A
+rr16,rr,,1,BASIS Silicon Valley,East Lyme,,,1,0,Group B
+rr17,rr,,1,BASIS Silicon Valley,Nashua High North,,,1,0,Group B
+rr18,rr,,1,BASIS Silicon Valley,Palo Alto,,,2,0,Group B
+rr19,rr,,1,BASIS Silicon Valley,Phillips Andover,,,1,0,Group B
+rr20,rr,,1,BASIS Silicon Valley,Toga,,,2,0,Group B
+rr21,rr,,1,East Lyme,Nashua High North,,,1,0,Group B
+rr22,rr,,1,East Lyme,Palo Alto,,,2,0,Group B
+rr23,rr,,1,East Lyme,Phillips Andover,,,1,0,Group B
+rr24,rr,,1,East Lyme,Toga,,,2,0,Group B
+rr25,rr,,1,Nashua High North,Palo Alto,,,2,0,Group B
+rr26,rr,,1,Nashua High North,Phillips Andover,,,2,0,Group B
+rr27,rr,,1,Nashua High North,Toga,,,2,0,Group B
+rr28,rr,,1,Palo Alto,Phillips Andover,,,1,0,Group B
+rr29,rr,,1,Palo Alto,Toga,,,2,0,Group B
+rr30,rr,,1,Phillips Andover,Toga,,,2,0,Group B
+rr31,rr,,1,ASFA,Commonwealth,,,1,0,Group C
+rr32,rr,,1,ASFA,Irvington,,,1,0,Group C
+rr33,rr,,1,ASFA,Lexington 2,,,T,0,Group C
+rr34,rr,,1,ASFA,Greenwich 2,,,1,0,Group C
+rr35,rr,,1,ASFA,Yarmouth,,,1,0,Group C
+rr36,rr,,1,Commonwealth,Irvington,,,2,0,Group C
+rr37,rr,,1,Commonwealth,Lexington 2,,,2,0,Group C
+rr38,rr,,1,Commonwealth,Greenwich 2,,,2,0,Group C
+rr39,rr,,1,Commonwealth,Yarmouth,,,2,0,Group C
+rr40,rr,,1,Irvington,Lexington 2,,,2,0,Group C
+rr41,rr,,1,Irvington,Greenwich 2,,,1,0,Group C
+rr42,rr,,1,Irvington,Yarmouth,,,1,0,Group C
+rr43,rr,,1,Lexington 2,Greenwich 2,,,1,0,Group C
+rr44,rr,,1,Lexington 2,Yarmouth,,,1,0,Group C
+rr45,rr,,1,Greenwich 2,Yarmouth,,,2,0,Group C
+rr46,rr,,1,Hopkins School,Montgomery Blair,,,2,0,Group D
+rr47,rr,,1,Hopkins School,Nashua High South 1,,,2,0,Group D
+rr48,rr,,1,Hopkins School,Phillips Exeter 2,,,2,0,Group D
+rr49,rr,,1,Hopkins School,Plainsboro,,,2,0,Group D
+rr50,rr,,1,Hopkins School,Woodstock,,,1,0,Group D
+rr51,rr,,1,Montgomery Blair,Nashua High South 1,,,1,0,Group D
+rr52,rr,,1,Montgomery Blair,Phillips Exeter 2,,,1,0,Group D
+rr53,rr,,1,Montgomery Blair,Plainsboro,,,1,0,Group D
+rr54,rr,,1,Montgomery Blair,Woodstock,,,1,0,Group D
+rr55,rr,,1,Nashua High South 1,Phillips Exeter 2,,,2,0,Group D
+rr56,rr,,1,Nashua High South 1,Plainsboro,,,2,0,Group D
+rr57,rr,,1,Nashua High South 1,Woodstock,,,1,0,Group D
+rr58,rr,,1,Phillips Exeter 2,Plainsboro,,,2,0,Group D
+rr59,rr,,1,Phillips Exeter 2,Woodstock,,,1,0,Group D
+rr60,rr,,1,Plainsboro,Woodstock,,,1,0,Group D
+rr61,rr,,1,Concord Academy,Farmington,,,2,0,Group E
+rr62,rr,,1,Concord Academy,Ivy Math Academy,,,2,0,Group E
+rr63,rr,,1,Concord Academy,Johnson,,,2,0,Group E
+rr64,rr,,1,Concord Academy,Mission San Jose,,,2,0,Group E
+rr65,rr,,1,Concord Academy,Shenendehowa,,,2,0,Group E
+rr66,rr,,1,Farmington,Ivy Math Academy,,,1,0,Group E
+rr67,rr,,1,Farmington,Johnson,,,2,0,Group E
+rr68,rr,,1,Farmington,Mission San Jose,,,2,0,Group E
+rr69,rr,,1,Farmington,Shenendehowa,,,1,0,Group E
+rr70,rr,,1,Ivy Math Academy,Johnson,,,2,0,Group E
+rr71,rr,,1,Ivy Math Academy,Mission San Jose,,,2,0,Group E
+rr72,rr,,1,Ivy Math Academy,Shenendehowa,,,2,0,Group E
+rr73,rr,,1,Johnson,Mission San Jose,,,1,0,Group E
+rr74,rr,,1,Johnson,Shenendehowa,,,1,0,Group E
+rr75,rr,,1,Mission San Jose,Shenendehowa,,,1,0,Group E
+rr76,rr,,1,ASD,Gatton Academy,,,2,0,Group F
+rr77,rr,,1,ASD,Greenwich 1,,,1,0,Group F
+rr78,rr,,1,ASD,North Hollywood,,,2,0,Group F
+rr79,rr,,1,ASD,Portsmouth,,,1,0,Group F
+rr80,rr,,1,ASD,Westminster,,,2,0,Group F
+rr81,rr,,1,Gatton Academy,Greenwich 1,,,1,0,Group F
+rr82,rr,,1,Gatton Academy,North Hollywood,,,2,0,Group F
+rr83,rr,,1,Gatton Academy,Portsmouth,,,1,0,Group F
+rr84,rr,,1,Gatton Academy,Westminster,,,2,0,Group F
+rr85,rr,,1,Greenwich 1,North Hollywood,,,2,0,Group F
+rr86,rr,,1,Greenwich 1,Portsmouth,,,1,0,Group F
+rr87,rr,,1,Greenwich 1,Westminster,,,2,0,Group F
+rr88,rr,,1,North Hollywood,Portsmouth,,,1,0,Group F
+rr89,rr,,1,North Hollywood,Westminster,,,1,0,Group F
+rr90,rr,,1,Portsmouth,Westminster,,,2,0,Group F
+rr91,rr,,1,AMSA,Belmont Hill,,,1,0,Group G
+rr92,rr,,1,AMSA,Davidson Academy,,,2,0,Group G
+rr93,rr,,1,AMSA,Nashua High South 2,,,1,0,Group G
+rr94,rr,,1,AMSA,Niskayuna,,,2,0,Group G
+rr95,rr,,1,AMSA,Phillips Exeter 1,,,2,0,Group G
+rr96,rr,,1,Belmont Hill,Davidson Academy,,,2,0,Group G
+rr97,rr,,1,Belmont Hill,Nashua High South 2,,,1,0,Group G
+rr98,rr,,1,Belmont Hill,Niskayuna,,,2,0,Group G
+rr99,rr,,1,Belmont Hill,Phillips Exeter 1,,,2,0,Group G
+rr100,rr,,1,Davidson Academy,Nashua High South 2,,,1,0,Group G
+rr101,rr,,1,Davidson Academy,Niskayuna,,,1,0,Group G
+rr102,rr,,1,Davidson Academy,Phillips Exeter 1,,,1,0,Group G
+rr103,rr,,1,Nashua High South 2,Niskayuna,,,2,0,Group G
+rr104,rr,,1,Nashua High South 2,Phillips Exeter 1,,,2,0,Group G
+rr105,rr,,1,Niskayuna,Phillips Exeter 1,,,2,0,Group G
+rr106,rr,,1,BTA,Cupertino,,,2,0,Group H
+rr107,rr,,1,BTA,Enloe,,,2,0,Group H
+rr108,rr,,1,BTA,Joel Barlow,,,1,0,Group H
+rr109,rr,,1,BTA,Lexington 1,,,2,0,Group H
+rr110,rr,,1,BTA,Natick,,,2,0,Group H
+rr111,rr,,1,Cupertino,Enloe,,,2,0,Group H
+rr112,rr,,1,Cupertino,Joel Barlow,,,1,0,Group H
+rr113,rr,,1,Cupertino,Lexington 1,,,2,0,Group H
+rr114,rr,,1,Cupertino,Natick,,,2,0,Group H
+rr115,rr,,1,Enloe,Joel Barlow,,,1,0,Group H
+rr116,rr,,1,Enloe,Lexington 1,,,2,0,Group H
+rr117,rr,,1,Enloe,Natick,,,1,0,Group H
+rr118,rr,,1,Joel Barlow,Lexington 1,,,2,0,Group H
+rr119,rr,,1,Joel Barlow,Natick,,,2,0,Group H
+rr120,rr,,1,Lexington 1,Natick,,,1,0,Group H
+wc121,consolation,,11,Stanford Online,East Lyme,,,2,0,Group X
+wc122,consolation,,11,Stanford Online,Irvington,,,1,0,Group X
+wc123,consolation,,11,Stanford Online,Natick,,,2,0,Group X
+wc124,consolation,,11,Stanford Online,Yarmouth,,,1,0,Group X
+wc125,consolation,,11,Stanford Online,Shenendehowa,,,1,0,Group X
+wc126,consolation,,11,East Lyme,Irvington,,,1,0,Group X
+wc127,consolation,,11,East Lyme,Natick,,,1,0,Group X
+wc128,consolation,,11,East Lyme,Yarmouth,,,1,0,Group X
+wc129,consolation,,11,East Lyme,Shenendehowa,,,1,0,Group X
+wc130,consolation,,11,Irvington,Natick,,,1,0,Group X
+wc131,consolation,,11,Irvington,Yarmouth,,,1,0,Group X
+wc132,consolation,,11,Irvington,Shenendehowa,,,2,0,Group X
+wc133,consolation,,11,Natick,Yarmouth,,,1,0,Group X
+wc134,consolation,,11,Natick,Shenendehowa,,,1,0,Group X
+wc135,consolation,,11,Yarmouth,Shenendehowa,,,2,0,Group X
+wc136,consolation,,11,Phillips Exeter 2,Farmington,,,2,0,Group Y
+wc137,consolation,,11,Phillips Exeter 2,Niskayuna,,,2,0,Group Y
+wc138,consolation,,11,Phillips Exeter 2,ASD,,,1,0,Group Y
+wc139,consolation,,11,Phillips Exeter 2,AMSA,,,1,0,Group Y
+wc140,consolation,,11,Phillips Exeter 2,Belmont Hill,,,1,0,Group Y
+wc141,consolation,,11,Farmington,Niskayuna,,,1,0,Group Y
+wc142,consolation,,11,Farmington,ASD,,,1,0,Group Y
+wc143,consolation,,11,Farmington,AMSA,,,1,0,Group Y
+wc144,consolation,,11,Farmington,Belmont Hill,,,1,0,Group Y
+wc145,consolation,,11,Niskayuna,ASD,,,1,0,Group Y
+wc146,consolation,,11,Niskayuna,AMSA,,,1,0,Group Y
+wc147,consolation,,11,Niskayuna,Belmont Hill,,,1,0,Group Y
+wc148,consolation,,11,ASD,AMSA,,,1,0,Group Y
+wc149,consolation,,11,ASD,Belmont Hill,,,1,0,Group Y
+wc150,consolation,,11,AMSA,Belmont Hill,,,1,0,Group Y
+W3,playoff,DE1,11,ASFA,Westminster,,,2,0,
+W4,playoff,DE1,11,Montgomery Blair,Mission San Jose,,,1,0,
+W5,playoff,DE1,11,Johnson,Plainsboro,,,1,0,
+W6,playoff,DE1,11,North Hollywood,Lexington 2,,,1,0,
+W7,playoff,DE1,11,Davidson Academy,Palo Alto,,,1,0,
+W8,playoff,DE1,11,Lexington 1,PRISMS,,,1,0,
+W1,playoff,DE1,11,Sci Tech,Enloe,,,2,0,
+W2,playoff,DE1,11,Toga,Phillips Exeter 1,,,1,0,
+W10,playoff,DE2,12,Westminster,Montgomery Blair,,,2,0,
+W11,playoff,DE2,12,Johnson,North Hollywood,,,2,0,
+W12,playoff,DE2,12,Davidson Academy,Lexington 1,,,2,0,
+L1,playoff,DE2,12,Sci Tech,Phillips Exeter 1,,,1,0,
+L2,playoff,DE2,12,ASFA,Mission San Jose,,,2,0,
+L3,playoff,DE2,12,Plainsboro,Lexington 2,,,1,0,
+L4,playoff,DE2,12,Palo Alto,PRISMS,,,1,0,
+W9,playoff,DE2,12,Enloe,Toga,,,1,0,
+L5,playoff,DE3,13,Davidson Academy,Sci Tech,,,1,0,
+L6,playoff,DE3,13,Johnson,Mission San Jose,,,2,0,
+L7,playoff,DE3,13,Westminster,Plainsboro,,,2,0,
+L8,playoff,DE3,13,Toga,Palo Alto,,,2,0,
+W13,playoff,DE4,14,Enloe,Montgomery Blair,,,2,0,
+W14,playoff,DE4,14,North Hollywood,Lexington 1,,,2,0,
+L9,playoff,DE4,14,Davidson Academy,Mission San Jose,,,2,0,
+L10,playoff,DE4,14,Plainsboro,Palo Alto,,,1,0,
+L12,playoff,DE5,15,Enloe,Mission San Jose,,,2,0,
+L13,playoff,DE5,15,North Hollywood,Plainsboro,,,2,0,
+W15,playoff,DE6,16,Montgomery Blair,Lexington 1,,,1,0,
+L14,playoff,DE6,16,Mission San Jose,Plainsboro,,,1,0,
+L15,playoff,DE7,17,Lexington 1,Mission San Jose,,,2,0,
+F1,playoff,DE8,18,Montgomery Blair,Mission San Jose,,,1,0,
+WCF,consolation,Wildcard Final,15,East Lyme,Farmington,,,2,0,

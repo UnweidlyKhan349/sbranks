@@ -1,0 +1,52 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Interlakeside,Mission San Jose,124,82,1,0,pool Cayuga
+g2,rr,RR2,2,Interlakeside,Sharon HS,124,14,1,0,pool Cayuga
+g3,rr,RR3,3,Interlakeside,Science Academy B,120,22,1,0,pool Cayuga
+g4,rr,RR3,3,Mission San Jose,Sharon HS,62,18,1,0,pool Cayuga
+g5,rr,RR2,2,Mission San Jose,Science Academy B,120,24,1,0,pool Cayuga
+g6,rr,RR1,1,Sharon HS,Science Academy B,2,20,2,0,pool Cayuga
+g7,rr,RR1,1,Amador Valley B,Buchholz B,24,60,2,0,pool Seneca
+g8,rr,RR2,2,Amador Valley B,Montgomery Blair HS,54,114,2,0,pool Seneca
+g9,rr,RR3,3,Amador Valley B,Science Academy A,42,54,2,0,pool Seneca
+g10,rr,RR3,3,Buchholz B,Montgomery Blair HS,18,84,2,0,pool Seneca
+g11,rr,RR2,2,Buchholz B,Science Academy A,60,56,1,0,pool Seneca
+g12,rr,RR1,1,Montgomery Blair HS,Science Academy A,144,-12,1,0,pool Seneca
+g13,rr,RR1,1,University HS,Davidson Academy,106,114,2,0,pool Onondaga
+g14,rr,RR2,2,University HS,James S. Rickards HS,130,12,1,0,pool Onondaga
+g15,rr,RR3,3,University HS,Amador Valley A,100,64,1,0,pool Onondaga
+g16,rr,RR3,3,Davidson Academy,James S. Rickards HS,80,28,1,0,pool Onondaga
+g17,rr,RR2,2,Davidson Academy,Amador Valley A,104,62,1,0,pool Onondaga
+g18,rr,RR1,1,James S. Rickards HS,Amador Valley A,44,86,2,0,pool Onondaga
+g19,rr,RR1,1,Buchholz A,Foothill A,94,74,1,0,pool Oneida
+g20,rr,RR2,2,Buchholz A,Poolesville HS,12,200,2,0,pool Oneida
+g21,rr,RR3,3,Buchholz A,Venice HS,76,20,1,0,pool Oneida
+g22,rr,RR3,3,Foothill A,Poolesville HS,44,88,2,0,pool Oneida
+g23,rr,RR2,2,Foothill A,Venice HS,96,44,1,0,pool Oneida
+g24,rr,RR1,1,Poolesville HS,Venice HS,92,34,1,0,pool Oneida
+g25,rr,RR1,1,CBA,Enloe HS,22,52,2,0,pool Mohawk
+g26,rr,RR2,2,CBA,Iolani,30,94,2,0,pool Mohawk
+g27,rr,RR3,3,CBA,Poolesville B,16,62,2,0,pool Mohawk
+g28,rr,RR3,3,Enloe HS,Iolani,40,44,2,0,pool Mohawk
+g29,rr,RR2,2,Enloe HS,Poolesville B,28,28,T,0,pool Mohawk
+g30,rr,RR1,1,Iolani,Poolesville B,76,12,1,0,pool Mohawk
+g31,rr,RR1,1,North Hollywood,Clements HS,90,70,1,0,pool Tuscarora
+g32,rr,RR2,2,North Hollywood,Foothill B,26,30,2,0,pool Tuscarora
+g33,rr,RR3,3,North Hollywood,Arcadia HS,62,30,1,0,pool Tuscarora
+g34,rr,RR3,3,Clements HS,Foothill B,134,16,1,0,pool Tuscarora
+g35,rr,RR2,2,Clements HS,Arcadia HS,140,26,1,0,pool Tuscarora
+g36,rr,RR1,1,Foothill B,Arcadia HS,72,26,1,0,pool Tuscarora
+g37,playoff,R16,4,Interlakeside,Poolesville B,68,30,1,0,
+g38,playoff,R16,4,Enloe HS,Buchholz A,18,116,2,0,
+g39,playoff,R16,4,Poolesville HS,Foothill A,82,28,1,0,
+g40,playoff,R16,4,Iolani,Mission San Jose,32,124,2,0,
+g41,playoff,R16,4,Montgomery Blair HS,Foothill B,92,12,1,0,
+g42,playoff,R16,4,North Hollywood,University HS,96,74,1,0,
+g43,playoff,R16,4,Davidson Academy,Amador Valley A,100,60,1,0,
+g44,playoff,R16,4,Clements HS,Buchholz B,56,36,1,0,
+g45,playoff,QF,5,Interlakeside,Buchholz A,70,30,1,0,
+g46,playoff,QF,5,Poolesville HS,Mission San Jose,88,58,1,0,
+g47,playoff,QF,5,Montgomery Blair HS,North Hollywood,44,30,1,0,
+g48,playoff,QF,5,Davidson Academy,Clements HS,14,76,2,0,
+g49,playoff,SF,6,Interlakeside,Poolesville HS,100,8,1,0,
+g50,playoff,SF,6,Montgomery Blair HS,Clements HS,38,48,2,0,
+g51,playoff,Final,7,Interlakeside,Clements HS,12,42,2,0,

@@ -23,7 +23,17 @@ sources:
   sheet_id: 15wOm5sB49kAma4l-V_XWAb_KFoVi5AuEcRNZ-RNQNfs
   url: https://docs.google.com/spreadsheets/d/15wOm5sB49kAma4l-V_XWAb_KFoVi5AuEcRNZ-RNQNfs/edit?usp=sharing
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_catstats:parse_tjsbt
+parser_options:
+  rename:
+    Misson San Jose B: Mission San Jose B
+  tab_subjects:
+    Sheet33: ESS
+  skip_games:
+    rr-E12: not played (the grid holds both teams average scores); the W/L grid credits School of Biology but the Wins/Losses
+      columns give both teams 3-2, so the result is unknown
+status: parsed
+notes: '69 round-robin games from the group grids (rounds from the schedule): Lakeside vs Iolani B was not played (forfeit,
+  Lakeside credited) and Mission San Jose B vs School of Biology is skipped (unplayed, the W/L grid and standings disagree
+  on the credit); 30 double-elimination games. Catstats player stats per phase (RR = rr, DE = playoff) for overall + 6 subjects
+  (tab Sheet33 is the DE ESS tab).'

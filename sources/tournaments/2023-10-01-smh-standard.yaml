@@ -18,7 +18,19 @@ sources:
   sheet_id: 16tOejcfa7pPQddcUR9hMwpor94hAuatBuUNxbkGfhcE
   url: https://docs.google.com/spreadsheets/d/16tOejcfa7pPQddcUR9hMwpor94hAuatBuUNxbkGfhcE/edit#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_smh:parse_2023
+parser_options:
+  one_loss_seeds:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+status: partial
+notes: '22 double-elimination games with scores (seeds 9-16 start with one loss; the DE8 boss battle vs the MIT placeholder
+  is not a game). The sheet has no round-robin game scores (standings only): 27 of 55 RR results are deduced exactly from
+  the championship points (every consistent outcome set agrees) and written without scores. RR player stats for 89 players
+  (overall + bio/chem/ess/math/phys; no energy tab), counts recovered from pts/negs per 20/4 TUH.'

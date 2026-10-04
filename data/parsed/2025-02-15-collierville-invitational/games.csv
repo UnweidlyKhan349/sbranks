@@ -1,0 +1,32 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,Round 1,1,Farragut 2,Collierville 1,68,40,1,0,Americium
+g2,rr,Round 2,2,Farragut 2,Bob Jones 1,22,106,2,0,Americium
+g3,rr,Round 3,3,Farragut 2,ASFA 1,56,96,2,0,Americium
+g4,rr,Round 3,3,Collierville 1,Bob Jones 1,14,78,2,0,Americium
+g5,rr,Round 2,2,Collierville 1,ASFA 1,30,74,2,0,Americium
+g6,rr,Round 1,1,Bob Jones 1,ASFA 1,46,94,2,0,Americium
+g7,rr,Round 1,1,Farragut 1,James Clemens 1,64,136,2,0,Beryllium
+g8,rr,Round 2,2,Farragut 1,Collierville 2,,,1,1,Beryllium; Collierville 2 withdrew (source shows 174-0)
+g9,rr,Round 3,3,Farragut 1,Houston 1,120,26,1,0,Beryllium
+g10,rr,Round 3,3,James Clemens 1,Collierville 2,,,1,1,Beryllium; Collierville 2 withdrew (source shows 178-0)
+g11,rr,Round 2,2,James Clemens 1,Houston 1,194,-8,1,0,Beryllium
+g12,rr,Round 1,1,Collierville 2,Houston 1,,,2,1,Beryllium; Collierville 2 withdrew (source shows 0-26)
+g13,rr,Round 6,6,James Clemens 1,ASFA 1,70,42,1,0,Alligator
+g14,rr,Round 5,5,James Clemens 1,Farragut 1,134,50,1,0,Alligator
+g15,rr,Round 4,4,James Clemens 1,Bob Jones 1,94,70,1,0,Alligator
+g16,rr,Round 4,4,ASFA 1,Farragut 1,50,106,2,0,Alligator
+g17,rr,Round 5,5,ASFA 1,Bob Jones 1,114,18,1,0,Alligator
+g18,rr,Round 6,6,Farragut 1,Bob Jones 1,46,104,2,0,Alligator
+g19,rr,Round 6,6,Farragut 2,Houston 1,72,22,1,0,Barracuda
+g20,rr,Round 5,5,Farragut 2,Collierville 1,90,36,1,0,Barracuda
+g21,rr,Round 4,4,Farragut 2,Collierville 2,,,1,1,Barracuda; Collierville 2 withdrew (source shows 62-0)
+g22,rr,Round 4,4,Houston 1,Collierville 1,90,22,1,0,Barracuda
+g23,rr,Round 5,5,Houston 1,Collierville 2,,,1,1,Barracuda; Collierville 2 withdrew (source shows 34-0)
+g24,rr,Round 6,6,Collierville 1,Collierville 2,,,1,1,Barracuda; Collierville 2 withdrew (source shows 44-0)
+de-A16,playoff,Quarterfinals,7,Bob Jones 1,Houston 1,62,12,1,0,
+de-A24,playoff,Quarterfinals,7,Farragut 1,Farragut 2,92,42,1,0,
+de-A32,playoff,Quarterfinals,7,ASFA 1,Collierville 1,80,8,1,0,
+de-E12,playoff,Semifinals,8,James Clemens 1,Bob Jones 1,58,40,1,0,
+de-E28,playoff,Semifinals,8,Farragut 1,ASFA 1,40,28,1,0,
+de-H20,playoff,Finals,9,James Clemens 1,Farragut 1,,,1,0,
+de-H39,playoff,3rd Place,9,ASFA 1,Bob Jones 1,70,58,1,0,

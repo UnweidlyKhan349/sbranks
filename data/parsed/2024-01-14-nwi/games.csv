@@ -1,0 +1,64 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Brooklyn Tech A,Canyon Crest Academy,-8,164,2,0,pool Branch
+g2,rr,RR2,2,Brooklyn Tech A,Dulles,50,44,1,0,pool Branch
+g3,rr,RR3,3,Brooklyn Tech A,Jordan,4,118,2,0,pool Branch
+g4,rr,RR3,3,Canyon Crest Academy,Dulles,176,32,1,0,pool Branch
+g5,rr,RR2,2,Canyon Crest Academy,Jordan,98,114,2,0,pool Branch
+g6,rr,RR1,1,Dulles,Jordan,82,54,1,0,pool Branch
+g7,rr,RR1,1,Del Norte,North Hollywood,10,126,2,0,pool Campbell
+g8,rr,RR2,2,Del Norte,St. Mark's,60,82,2,0,pool Campbell
+g9,rr,RR3,3,Del Norte,University A,0,138,2,0,pool Campbell
+g10,rr,RR3,3,North Hollywood,St. Mark's,150,18,1,0,pool Campbell
+g11,rr,RR2,2,North Hollywood,University A,180,32,1,0,pool Campbell
+g12,rr,RR1,1,St. Mark's,University A,28,124,2,0,pool Campbell
+g13,rr,RR1,1,American A,East Brunswick A,-2,62,2,0,pool Goff
+g14,rr,RR2,2,American A,WWPN,36,166,2,0,pool Goff
+g15,rr,RR3,3,American A,University B,42,30,1,0,pool Goff
+g16,rr,RR3,3,East Brunswick A,WWPN,10,108,2,0,pool Goff
+g17,rr,RR2,2,East Brunswick A,University B,40,70,2,0,pool Goff
+g18,rr,RR1,1,WWPN,University B,156,18,1,0,pool Goff
+g19,rr,RR1,1,Cupertino,Enloe,20,40,2,0,pool Hutchinson
+g20,rr,RR2,2,Cupertino,Iolani,4,128,2,0,pool Hutchinson
+g21,rr,RR3,3,Cupertino,TJHSST B,4,68,2,0,pool Hutchinson
+g22,rr,RR3,3,Enloe,Iolani,14,154,2,0,pool Hutchinson
+g23,rr,RR2,2,Enloe,TJHSST B,8,142,2,0,pool Hutchinson
+g24,rr,RR1,1,Iolani,TJHSST B,88,64,1,0,pool Hutchinson
+g25,rr,RR1,1,Amador Valley B,Clovis North,44,88,2,0,pool Jacobs
+g26,rr,RR2,2,Amador Valley B,Green Hope,16,138,2,0,pool Jacobs
+g27,rr,RR3,3,Amador Valley B,Montgomery Blair A,22,56,2,0,pool Jacobs
+g28,rr,RR3,3,Clovis North,Green Hope,82,58,1,0,pool Jacobs
+g29,rr,RR2,2,Clovis North,Montgomery Blair A,92,68,1,0,pool Jacobs
+g30,rr,RR1,1,Green Hope,Montgomery Blair A,120,18,1,0,pool Jacobs
+g31,rr,RR1,1,American B,BASIS McLean,32,36,2,0,pool LaPorta
+g32,rr,RR2,2,American B,Interlake A,0,138,2,0,pool LaPorta
+g33,rr,RR3,3,American B,Amador Valley A,4,96,2,0,pool LaPorta
+g34,rr,RR3,3,BASIS McLean,Interlake A,60,102,2,0,pool LaPorta
+g35,rr,RR2,2,BASIS McLean,Amador Valley A,26,132,2,0,pool LaPorta
+g36,rr,RR1,1,Interlake A,Amador Valley A,74,78,2,0,pool LaPorta
+g37,rr,RR1,1,Buchholz A,Clements,70,72,2,0,pool Reynolds
+g38,rr,RR2,2,Buchholz A,Foothill B,110,4,1,0,pool Reynolds
+g39,rr,RR3,3,Buchholz A,TJHSST A,54,64,2,0,pool Reynolds
+g40,rr,RR3,3,Clements,Foothill B,134,8,1,0,pool Reynolds
+g41,rr,RR2,2,Clements,TJHSST A,148,42,1,0,pool Reynolds
+g42,rr,RR1,1,Foothill B,TJHSST A,22,162,2,0,pool Reynolds
+g43,rr,RR1,1,Lynbrook A,McLean A,142,10,1,0,pool St. Brown
+g44,rr,RR2,2,Lynbrook A,Stuyvesant,126,26,1,0,pool St. Brown
+g45,rr,RR3,3,Lynbrook A,Foothill A,118,8,1,0,pool St. Brown
+g46,rr,RR3,3,McLean A,Stuyvesant,36,30,1,0,pool St. Brown
+g47,rr,RR2,2,McLean A,Foothill A,96,32,1,0,pool St. Brown
+g48,rr,RR1,1,Stuyvesant,Foothill A,42,52,2,0,pool St. Brown
+g49,playoff,R16,4,North Hollywood,University B,136,12,1,0,
+g50,playoff,R16,4,Clovis North,Green Hope,82,68,1,0,
+g51,playoff,R16,4,Lynbrook A,TJHSST B,100,38,1,0,
+g52,playoff,R16,4,Iolani,Jordan,78,54,1,0,
+g53,playoff,R16,4,Canyon Crest Academy,McLean A,82,34,1,0,
+g54,playoff,R16,4,Amador Valley A,Interlake A,58,90,2,0,
+g55,playoff,R16,4,WWPN,TJHSST A,86,78,1,0,
+g56,playoff,R16,4,Clements,University A,84,76,1,0,
+g57,playoff,QF,5,North Hollywood,Clovis North,126,18,1,0,
+g58,playoff,QF,5,Lynbrook A,Iolani,120,-8,1,0,
+g59,playoff,QF,5,Canyon Crest Academy,Interlake A,78,82,2,0,
+g60,playoff,QF,5,WWPN,Clements,28,118,2,0,
+g61,playoff,SF,6,North Hollywood,Lynbrook A,106,-8,1,0,
+g62,playoff,SF,6,Interlake A,Clements,20,54,2,0,
+g63,playoff,Final,7,North Hollywood,Clements,72,70,1,0,

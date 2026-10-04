@@ -1,0 +1,187 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,Swiss 1,1,NoHo 1,Vancomycin,122,56,1,0,Jester Swiss group
+g2,rr,Swiss 1,1,Davidson Academy,Whitney Young,126,86,1,0,Jester Swiss group
+g3,rr,Swiss 1,1,Palo Alto,BISV 2,90,106,2,0,Jester Swiss group
+g4,rr,Swiss 1,1,TJ,Arcadia 1,132,48,1,0,Jester Swiss group
+g5,rr,Swiss 1,1,Galen 1,Clements,160,74,1,0,Jester Swiss group
+g6,rr,Swiss 1,1,Frazer,Princeton,122,66,1,0,Jester Swiss group
+g7,rr,Swiss 1,1,VMATHs,OCSA,82,60,1,0,Jester Swiss group
+g8,rr,Swiss 1,1,WWPS 2,Plano West,74,98,2,0,Jester Swiss group
+g9,rr,Swiss 1,1,Hebron,Chattahoochee,50,110,2,0,Jester Swiss group
+g10,rr,Swiss 1,1,Bridgeland,Seven Lakes,92,78,1,0,Jester Swiss group
+g11,rr,Swiss 1,1,Research Triangle,The Catalysts,76,54,1,0,Jester Swiss group
+g12,rr,Swiss 1,1,Green Hope,Dulles Dolls 1,74,118,2,0,Jester Swiss group
+g13,rr,Swiss 1,1,Camas Papermakers,Clemens HS,14,124,2,0,Jester Swiss group
+g14,rr,Swiss 1,1,Niskayuna,SciTech Dragons,84,74,1,0,Jester Swiss group
+g15,rr,Swiss 1,1,Mira Loma,Ward Melville 1,68,116,2,0,Jester Swiss group
+g16,rr,Swiss 1,1,Amador Valley,Lexington,138,70,1,0,Jester Swiss group
+g17,rr,Swiss 2,2,Frazer,TJ,86,70,1,0,Jester Swiss group
+g18,rr,Swiss 2,2,Amador Valley,NoHo 1,88,130,2,0,Jester Swiss group
+g19,rr,Swiss 2,2,Galen 1,Research Triangle,196,24,1,0,Jester Swiss group
+g20,rr,Swiss 2,2,Chattahoochee,Plano West,94,54,1,0,Jester Swiss group
+g21,rr,Swiss 2,2,Dulles Dolls 1,Ward Melville 1,72,144,2,0,Jester Swiss group
+g22,rr,Swiss 2,2,BISV 2,Davidson Academy,20,136,2,0,Jester Swiss group
+g23,rr,Swiss 2,2,Bridgeland,Niskayuna,58,104,2,0,Jester Swiss group
+g24,rr,Swiss 2,2,Clemens HS,VMATHs,74,78,2,0,Jester Swiss group
+g25,rr,Swiss 2,2,Palo Alto,Vancomycin,114,4,1,0,Jester Swiss group
+g26,rr,Swiss 2,2,Clements,The Catalysts,102,74,1,0,Jester Swiss group
+g27,rr,Swiss 2,2,Hebron,Mira Loma,26,112,2,0,Jester Swiss group
+g28,rr,Swiss 2,2,Seven Lakes,Whitney Young,70,110,2,0,Jester Swiss group
+g29,rr,Swiss 2,2,SciTech Dragons,WWPS 2,112,68,1,0,Jester Swiss group
+g30,rr,Swiss 2,2,Arcadia 1,Green Hope,50,62,2,0,Jester Swiss group
+g31,rr,Swiss 2,2,Camas Papermakers,Princeton,22,88,2,0,Jester Swiss group
+g32,rr,Swiss 2,2,Lexington,OCSA,64,52,1,0,Jester Swiss group
+g33,rr,Swiss 3,3,Frazer,Davidson Academy,64,78,2,0,Jester Swiss group
+g34,rr,Swiss 3,3,VMATHs,Ward Melville 1,84,90,2,0,Jester Swiss group
+g35,rr,Swiss 3,3,NoHo 1,Niskayuna,128,16,1,0,Jester Swiss group
+g36,rr,Swiss 3,3,Chattahoochee,Galen 1,22,124,2,0,Jester Swiss group
+g37,rr,Swiss 3,3,SciTech Dragons,Plano West,68,36,1,0,Jester Swiss group
+g38,rr,Swiss 3,3,Lexington,Research Triangle,46,24,1,0,Jester Swiss group
+g39,rr,Swiss 3,3,Dulles Dolls 1,BISV 2,102,8,1,0,Jester Swiss group
+g40,rr,Swiss 3,3,Green Hope,Clemens HS,6,102,2,0,Jester Swiss group
+g41,rr,Swiss 3,3,Palo Alto,Amador Valley,44,122,2,0,Jester Swiss group
+g42,rr,Swiss 3,3,Whitney Young,Clements,24,110,2,0,Jester Swiss group
+g43,rr,Swiss 3,3,TJ,Mira Loma,80,50,1,0,Jester Swiss group
+g44,rr,Swiss 3,3,Princeton,Bridgeland,30,170,2,0,Jester Swiss group
+g45,rr,Swiss 3,3,Vancomycin,OCSA,32,118,2,0,Jester Swiss group
+g46,rr,Swiss 3,3,The Catalysts,Arcadia 1,14,102,2,0,Jester Swiss group
+g47,rr,Swiss 3,3,WWPS 2,Seven Lakes,38,50,2,0,Jester Swiss group
+g48,rr,Swiss 3,3,Camas Papermakers,Hebron,20,52,2,0,Jester Swiss group
+g49,rr,Swiss 4,4,Galen 1,Ward Melville 1,136,74,1,0,Jester Swiss group
+g50,rr,Swiss 4,4,Davidson Academy,NoHo 1,64,138,2,0,Jester Swiss group
+g51,rr,Swiss 4,4,Niskayuna,Amador Valley,14,144,2,0,Jester Swiss group
+g52,rr,Swiss 4,4,Frazer,VMATHs,120,58,1,0,Jester Swiss group
+g53,rr,Swiss 4,4,Chattahoochee,Dulles Dolls 1,78,96,2,0,Jester Swiss group
+g54,rr,Swiss 4,4,Bridgeland,Clements,70,138,2,0,Jester Swiss group
+g55,rr,Swiss 4,4,Lexington,TJ,50,110,2,0,Jester Swiss group
+g56,rr,Swiss 4,4,Clemens HS,SciTech Dragons,116,36,1,0,Jester Swiss group
+g57,rr,Swiss 4,4,BISV 2,Mira Loma,44,92,2,0,Jester Swiss group
+g58,rr,Swiss 4,4,Whitney Young,Green Hope,90,36,1,0,Jester Swiss group
+g59,rr,Swiss 4,4,Research Triangle,OCSA,26,96,2,0,Jester Swiss group
+g60,rr,Swiss 4,4,Plano West,Princeton,110,52,1,0,Jester Swiss group
+g61,rr,Swiss 4,4,Arcadia 1,Hebron,108,32,1,0,Jester Swiss group
+g62,rr,Swiss 4,4,Palo Alto,Seven Lakes,156,60,1,0,Jester Swiss group
+g63,rr,Swiss 4,4,Vancomycin,Camas Papermakers,42,16,1,0,Jester Swiss group
+g64,rr,Swiss 4,4,The Catalysts,WWPS 2,38,126,2,0,Jester Swiss group
+g65,rr,Swiss 5,5,Galen 1,NoHo 1,36,60,2,0,Jester Swiss group
+g66,rr,Swiss 5,5,Ward Melville 1,Amador Valley,70,36,1,0,Jester Swiss group
+g67,rr,Swiss 5,5,Davidson Academy,TJ,58,48,1,0,Jester Swiss group
+g68,rr,Swiss 5,5,Frazer,Clements,64,56,1,0,Jester Swiss group
+g69,rr,Swiss 5,5,Dulles Dolls 1,Clemens HS,80,12,1,0,Jester Swiss group
+g70,rr,Swiss 5,5,Niskayuna,VMATHs,20,40,2,0,Jester Swiss group
+g71,rr,Swiss 5,5,Chattahoochee,Lexington,68,56,1,0,Jester Swiss group
+g72,rr,Swiss 5,5,Mira Loma,SciTech Dragons,36,44,2,0,Jester Swiss group
+g73,rr,Swiss 5,5,Whitney Young,Bridgeland,14,144,2,0,Jester Swiss group
+g74,rr,Swiss 5,5,OCSA,Palo Alto,82,14,1,0,Jester Swiss group
+g75,rr,Swiss 5,5,Plano West,Arcadia 1,56,68,2,0,Jester Swiss group
+g76,rr,Swiss 5,5,BISV 2,Green Hope,36,28,1,0,Jester Swiss group
+g77,rr,Swiss 5,5,Research Triangle,Vancomycin,4,32,2,0,Jester Swiss group
+g78,rr,Swiss 5,5,Princeton,Seven Lakes,26,60,2,0,Jester Swiss group
+g79,rr,Swiss 5,5,Hebron,WWPS 2,12,70,2,0,Jester Swiss group
+g80,rr,Swiss 5,5,The Catalysts,Camas Papermakers,50,36,1,0,Jester Swiss group
+g81,rr,Swiss 1,1,Blair,Lynbrook,58,120,2,0,Kins Swiss group
+g82,rr,Swiss 1,1,BISV 1,Arcadia 2,74,44,1,0,Kins Swiss group
+g83,rr,Swiss 1,1,ASFA,Ward Melville 2,96,22,1,0,Kins Swiss group
+g84,rr,Swiss 1,1,WWPS 1,The Woodlands,100,18,1,0,Kins Swiss group
+g85,rr,Swiss 1,1,Enloe,Gunn Varsity,58,92,2,0,Kins Swiss group
+g86,rr,Swiss 1,1,University,Dulles Dolls 2,196,36,1,0,Kins Swiss group
+g87,rr,Swiss 1,1,Eastlake,Galen 2,88,140,2,0,Kins Swiss group
+g88,rr,Swiss 1,1,Synthase,Friendswood,40,40,T,0,Kins Swiss group
+g89,rr,Swiss 1,1,State College Area,Phoenix,114,52,1,0,Kins Swiss group
+g90,rr,Swiss 1,1,Timberline,LeBroncos,32,112,2,0,Kins Swiss group
+g91,rr,Swiss 1,1,Lubbock,ENHS,102,28,1,0,Kins Swiss group
+g92,rr,Swiss 1,1,Collierville,Elkins,38,120,2,0,Kins Swiss group
+g93,rr,Swiss 1,1,NoHo 2,Harvard-Westlake,68,100,2,0,Kins Swiss group
+g94,rr,Swiss 1,1,The Outliers,American Heritage Broward,72,70,1,0,Kins Swiss group
+g95,rr,Swiss 1,1,College Park,Naperville North,66,48,1,0,Kins Swiss group
+g96,rr,Swiss 2,2,Lubbock,University,104,112,2,0,Kins Swiss group
+g97,rr,Swiss 2,2,The Outliers,WWPS 1,64,74,2,0,Kins Swiss group
+g98,rr,Swiss 2,2,College Park,ASFA,26,118,2,0,Kins Swiss group
+g99,rr,Swiss 2,2,LeBroncos,Lynbrook,46,102,2,0,Kins Swiss group
+g100,rr,Swiss 2,2,Elkins,Harvard-Westlake,176,16,1,0,Kins Swiss group
+g101,rr,Swiss 2,2,Galen 2,Gunn Varsity,192,70,1,0,Kins Swiss group
+g102,rr,Swiss 2,2,BISV 1,State College Area,32,82,2,0,Kins Swiss group
+g103,rr,Swiss 2,2,Friendswood,Synthase,26,66,2,0,Kins Swiss group
+g104,rr,Swiss 2,2,Arcadia 2,Eastlake,40,122,2,0,Kins Swiss group
+g105,rr,Swiss 2,2,Collierville,Phoenix,144,2,1,0,Kins Swiss group
+g106,rr,Swiss 2,2,Enloe,Naperville North,148,4,1,0,Kins Swiss group
+g107,rr,Swiss 2,2,American Heritage Broward,Blair,50,116,2,0,Kins Swiss group
+g108,rr,Swiss 2,2,ENHS,The Woodlands,90,14,1,0,Kins Swiss group
+g109,rr,Swiss 2,2,NoHo 2,Ward Melville 2,96,28,1,0,Kins Swiss group
+g110,rr,Swiss 2,2,Dulles Dolls 2,Timberline,30,64,2,0,Kins Swiss group
+g111,rr,Swiss 3,3,Lynbrook,ASFA,40,116,2,0,Kins Swiss group
+g112,rr,Swiss 3,3,Elkins,WWPS 1,68,50,1,0,Kins Swiss group
+g113,rr,Swiss 3,3,State College Area,University,32,140,2,0,Kins Swiss group
+g114,rr,Swiss 3,3,Enloe,NoHo 2,26,74,2,0,Kins Swiss group
+g115,rr,Swiss 3,3,Lubbock,Collierville,50,62,2,0,Kins Swiss group
+g116,rr,Swiss 3,3,LeBroncos,The Outliers,70,56,1,0,Kins Swiss group
+g117,rr,Swiss 3,3,College Park,ENHS,66,14,1,0,Kins Swiss group
+g118,rr,Swiss 3,3,BISV 1,Blair,22,106,2,0,Kins Swiss group
+g119,rr,Swiss 3,3,Eastlake,Timberline,98,34,1,0,Kins Swiss group
+g120,rr,Swiss 3,3,Gunn Varsity,Harvard-Westlake,90,22,1,0,Kins Swiss group
+g121,rr,Swiss 3,3,Dulles Dolls 2,Ward Melville 2,22,54,2,0,Kins Swiss group
+g122,rr,Swiss 3,3,The Woodlands,American Heritage Broward,16,86,2,0,Kins Swiss group
+g123,rr,Swiss 3,3,Arcadia 2,Naperville North,48,82,2,0,Kins Swiss group
+g124,rr,Swiss 3,3,Galen 2,Synthase,158,18,1,0,Kins Swiss group
+g125,rr,Swiss 3,3,Friendswood,Phoenix,34,64,2,0,Kins Swiss group
+g126,rr,Swiss 4,4,Galen 2,Elkins,154,66,1,0,Kins Swiss group
+g127,rr,Swiss 4,4,ASFA,University,154,66,1,0,Kins Swiss group
+g128,rr,Swiss 4,4,Lynbrook,College Park,190,14,1,0,Kins Swiss group
+g129,rr,Swiss 4,4,Collierville,Gunn Varsity,76,60,1,0,Kins Swiss group
+g130,rr,Swiss 4,4,State College Area,Blair,6,194,2,0,Kins Swiss group
+g131,rr,Swiss 4,4,Eastlake,LeBroncos,64,144,2,0,Kins Swiss group
+g132,rr,Swiss 4,4,WWPS 1,NoHo 2,118,42,1,0,Kins Swiss group
+g133,rr,Swiss 4,4,Harvard-Westlake,Lubbock,40,136,2,0,Kins Swiss group
+g134,rr,Swiss 4,4,Enloe,The Outliers,150,22,1,0,Kins Swiss group
+g135,rr,Swiss 4,4,Ward Melville 2,Phoenix,40,46,2,0,Kins Swiss group
+g136,rr,Swiss 4,4,BISV 1,Timberline,36,78,2,0,Kins Swiss group
+g137,rr,Swiss 4,4,American Heritage Broward,ENHS,84,30,1,0,Kins Swiss group
+g138,rr,Swiss 4,4,Dulles Dolls 2,Arcadia 2,16,34,2,0,Kins Swiss group
+g139,rr,Swiss 4,4,Synthase,The Woodlands,64,18,1,0,Kins Swiss group
+g140,rr,Swiss 4,4,Naperville North,Friendswood,16,22,2,0,Kins Swiss group
+g141,rr,Swiss 5,5,Galen 2,ASFA,94,90,1,0,Kins Swiss group
+g142,rr,Swiss 5,5,Lynbrook,Elkins,80,52,1,0,Kins Swiss group
+g143,rr,Swiss 5,5,Collierville,Blair,2,128,2,0,Kins Swiss group
+g144,rr,Swiss 5,5,LeBroncos,University,48,34,1,0,Kins Swiss group
+g145,rr,Swiss 5,5,Eastlake,Gunn Varsity,80,12,1,0,Kins Swiss group
+g146,rr,Swiss 5,5,College Park,State College Area,58,4,1,0,Kins Swiss group
+g147,rr,Swiss 5,5,Lubbock,Phoenix,70,30,1,0,Kins Swiss group
+g148,rr,Swiss 5,5,NoHo 2,Timberline,20,72,2,0,Kins Swiss group
+g149,rr,Swiss 5,5,Enloe,American Heritage Broward,86,-2,1,0,Kins Swiss group
+g150,rr,Swiss 5,5,The Outliers,Harvard-Westlake,22,50,2,0,Kins Swiss group
+g151,rr,Swiss 5,5,BISV 1,Ward Melville 2,20,38,2,0,Kins Swiss group
+g152,rr,Swiss 5,5,Naperville North,ENHS,12,10,1,0,Kins Swiss group
+g153,rr,Swiss 5,5,The Woodlands,Dulles Dolls 2,22,32,2,0,Kins Swiss group
+g154,rr,Swiss 5,5,WWPS 1,Synthase,34,26,1,0,Kins Swiss group
+g155,rr,Swiss 5,5,Friendswood,Arcadia 2,0,24,2,0,Kins Swiss group
+de1,playoff,DE1,10,Galen 2,Elkins,130,70,1,0,
+de2,playoff,DE1,10,Dulles Dolls 1,Davidson Academy,110,66,1,0,
+de3,playoff,DE1,10,ASFA,WWPS 1,100,70,1,0,
+de4,playoff,DE1,10,University,Blair,68,158,2,0,
+de5,playoff,DE1,10,Galen 1,Bridgeland,94,112,2,0,
+de6,playoff,DE1,10,Lynbrook,LeBroncos,88,56,1,0,
+de7,playoff,DE1,10,Ward Melville 1,Frazer,134,4,1,0,
+de8,playoff,DE1,10,Amador Valley,NoHo 1,116,130,2,0,
+de9,playoff,DE2,12,Galen 2,Dulles Dolls 1,124,0,1,0,
+de10,playoff,DE2,12,ASFA,Blair,58,42,1,0,
+de11,playoff,DE2,12,Bridgeland,Lynbrook,128,66,1,0,
+de12,playoff,DE2,12,Ward Melville 1,NoHo 1,102,38,1,0,
+de13,playoff,DE2,12,Elkins,Davidson Academy,70,88,2,0,
+de14,playoff,DE2,12,WWPS 1,University,18,72,2,0,
+de15,playoff,DE2,12,Galen 1,LeBroncos,128,4,1,0,
+de16,playoff,DE2,12,Frazer,Amador Valley,34,106,2,0,
+de17,playoff,DE3,14,NoHo 1,Davidson Academy,76,28,1,0,
+de18,playoff,DE3,14,Lynbrook,University,60,102,2,0,
+de19,playoff,DE3,14,Blair,Galen 1,86,64,1,0,
+de20,playoff,DE3,14,Dulles Dolls 1,Amador Valley,20,92,2,0,
+de21,playoff,DE4,16,Galen 2,ASFA,30,114,2,0,
+de22,playoff,DE4,16,Bridgeland,Ward Melville 1,78,114,2,0,
+de23,playoff,DE4,16,NoHo 1,University,76,70,1,0,
+de24,playoff,DE4,16,Blair,Amador Valley,54,82,2,0,
+de25,playoff,DE5,18,Galen 2,NoHo 1,28,66,2,0,
+de26,playoff,DE5,18,Bridgeland,Amador Valley,0,38,2,0,
+de27,playoff,DE6,20,ASFA,Ward Melville 1,32,64,2,0,
+de28,playoff,DE6,20,NoHo 1,Amador Valley,64,74,2,0,
+de29,playoff,DE7,22,ASFA,Amador Valley,40,64,2,0,
+de30,playoff,DE8 (game 1),24,Ward Melville 1,Amador Valley,44,58,2,0,
+de31,playoff,DE8 (game 2),25,Ward Melville 1,Amador Valley,84,-2,1,0,

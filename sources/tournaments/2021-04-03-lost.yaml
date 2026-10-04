@@ -1,7 +1,7 @@
 id: 2021-04-03-lost
 name: LOST
 date: '2021-04-03'
-end_date: null
+end_date: '2021-04-04'
 season: 2020-21
 location: Online
 online: true
@@ -18,7 +18,39 @@ sources:
   sheet_id: 1sx4mikfjYi4NTZIIEvd89_DkqyOmJGB9b0MGM2aSG54
   url: https://docs.google.com/spreadsheets/d/1sx4mikfjYi4NTZIIEvd89_DkqyOmJGB9b0MGM2aSG54/edit#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+- kind: manual
+  role: scoresheets
+  file: scoresheets_de
+  url: https://drive.google.com/drive/folders/1hLEeSoJikgW_Q-KPG3nSJ-1RAhr0Aqwi
+  note: DE/wildcard room scoresheets from the ScoresSheets Drive folder (https://drive.google.com/drive/folders/12Fp5v-n5cp12bpg-pf-Q5G05ICyEJNvM),
+    fetched with pipeline/parsers/tools/g3_fetch_drive_folder.py. Team-level per-question marks only, sparse and partly inconsistent
+    with the results sheet; not used by the parser.
+parser: g3_lost_template:parse
+parser_options:
+  rr_tab: MORNING RR
+  rr_aliases:
+    Lost Alamos: Los Alamos
+    Irrevelant: Irrelevant
+    Lynbrook: Lynbrook B
+  de_aliases:
+    Dulles HS: Dulles A
+    Naperville HS: Naperville
+    Mira Loma A: Mira A
+    Mira Loma: Mira A
+    Mira Loma B: Mira B
+    Lynbrook: Lynbrook A
+    DBHS: Deadbird
+    Deadbird HS: Deadbird
+    Westview HS: Westview
+    Montgomery Blair: Blair
+    Ames HS: Ames
+    Ladue HS: Ladue
+    Interlake HS: Interlake
+    Wayzata HS: Wayzata
+    Redmond HS: Redmond
+status: partial
+notes: Round robin (8 divisions of 5) from the results tab joined with room assignments (78 games; LACES no-show -> forfeits;
+  2 Bridge games unrecorded) plus the 16-team double elimination with scores (30 games). The wildcard bracket has no results
+  (only 3 wildcard-room scoresheets are filled in, and their pairings conflict with the WildCard tab, so they are not used), and
+  the Drive scoresheets hold only team-level per-question marks (no players), so there are no player stats. DE R1 Mira A-Ames
+  is 132-90 per the results tab; its scoresheet notes a 'real score' of 136-90 (same winner).

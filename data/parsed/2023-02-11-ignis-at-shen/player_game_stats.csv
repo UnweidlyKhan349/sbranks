@@ -1,0 +1,613 @@
+game_id,player,team,subject,correct,negs,points
+g1,Kevin,Bethlehem,overall,3,0,12
+g1,Kevin,Bethlehem,other,1,0,4
+g1,Kevin,Bethlehem,chemistry,1,0,4
+g1,Kevin,Bethlehem,biology,1,0,4
+g1,Ian,Bethlehem,overall,5,0,20
+g1,Ian,Bethlehem,math,1,0,4
+g1,Ian,Bethlehem,chemistry,2,0,8
+g1,Ian,Bethlehem,biology,1,0,4
+g1,Ian,Bethlehem,physics,1,0,4
+g1,Liam,BHBL B,overall,5,1,16
+g1,Liam,BHBL B,other,1,0,4
+g1,Liam,BHBL B,math,2,0,8
+g1,Liam,BHBL B,chemistry,0,1,-4
+g1,Liam,BHBL B,biology,1,0,4
+g1,Liam,BHBL B,physics,1,0,4
+g1,Lily,BHBL B,overall,1,0,4
+g1,Lily,BHBL B,physics,1,0,4
+g1,Wyatt,BHBL B,overall,1,0,4
+g1,Wyatt,BHBL B,math,1,0,4
+g2,Faiz,Niskayuna A,overall,4,0,16
+g2,Faiz,Niskayuna A,chemistry,4,0,16
+g2,Arjun,Niskayuna A,overall,4,0,16
+g2,Arjun,Niskayuna A,math,2,0,8
+g2,Arjun,Niskayuna A,ess,1,0,4
+g2,Arjun,Niskayuna A,biology,1,0,4
+g2,Daniel,Niskayuna A,overall,1,0,4
+g2,Daniel,Niskayuna A,biology,1,0,4
+g2,Jamis,Shen C,overall,1,0,4
+g2,Jamis,Shen C,physics,1,0,4
+g2,Ankur,Shen C,overall,2,0,8
+g2,Ankur,Shen C,math,1,0,4
+g2,Ankur,Shen C,physics,1,0,4
+g2,Joseph,Shen C,overall,4,0,16
+g2,Joseph,Shen C,ess,2,0,8
+g2,Joseph,Shen C,physics,2,0,8
+g2,Karl,Shen C,overall,2,0,8
+g2,Karl,Shen C,other,2,0,8
+g4,Chad,BHBL A,overall,2,1,4
+g4,Chad,BHBL A,math,1,0,4
+g4,Chad,BHBL A,chemistry,0,1,-4
+g4,Chad,BHBL A,physics,1,0,4
+g4,Jack,BHBL A,overall,1,0,4
+g4,Jack,BHBL A,other,1,0,4
+g4,Aarush,Niskayuna B,overall,3,0,12
+g4,Aarush,Niskayuna B,ess,1,0,4
+g4,Aarush,Niskayuna B,biology,1,0,4
+g4,Aarush,Niskayuna B,physics,1,0,4
+g4,Alex,Niskayuna B,overall,3,1,8
+g4,Alex,Niskayuna B,other,0,1,-4
+g4,Alex,Niskayuna B,ess,3,0,12
+g4,Cheuk,Niskayuna B,overall,5,0,20
+g4,Cheuk,Niskayuna B,other,1,0,4
+g4,Cheuk,Niskayuna B,math,2,0,8
+g4,Cheuk,Niskayuna B,chemistry,1,0,4
+g4,Cheuk,Niskayuna B,physics,1,0,4
+g4,Iris,Niskayuna B,overall,4,0,16
+g4,Iris,Niskayuna B,other,1,0,4
+g4,Iris,Niskayuna B,chemistry,2,0,8
+g4,Iris,Niskayuna B,biology,1,0,4
+g5,Colin,CBA,overall,1,0,4
+g5,Colin,CBA,math,1,0,4
+g5,Ethan,CBA,overall,2,0,8
+g5,Ethan,CBA,chemistry,1,0,4
+g5,Ethan,CBA,physics,1,0,4
+g5,Hubert,CBA,overall,1,0,4
+g5,Hubert,CBA,physics,1,0,4
+g5,Kagame,CBA,overall,1,0,4
+g5,Kagame,CBA,math,1,0,4
+g5,Aivin,Shen B,overall,5,0,20
+g5,Aivin,Shen B,math,1,0,4
+g5,Aivin,Shen B,chemistry,1,0,4
+g5,Aivin,Shen B,ess,1,0,4
+g5,Aivin,Shen B,biology,1,0,4
+g5,Aivin,Shen B,physics,1,0,4
+g5,Jacob,Shen B,overall,1,0,4
+g5,Jacob,Shen B,physics,1,0,4
+g5,Kevin,Shen B,overall,2,0,8
+g5,Kevin,Shen B,other,1,0,4
+g5,Kevin,Shen B,biology,1,0,4
+g5,Jo,Shen B,overall,2,0,8
+g5,Jo,Shen B,ess,1,0,4
+g5,Jo,Shen B,biology,1,0,4
+g5,Aakaash,Shen B,overall,2,0,8
+g5,Aakaash,Shen B,other,1,0,4
+g5,Aakaash,Shen B,biology,1,0,4
+g6,Brendan,Morris Hills,overall,4,0,16
+g6,Brendan,Morris Hills,other,1,0,4
+g6,Brendan,Morris Hills,math,1,0,4
+g6,Brendan,Morris Hills,chemistry,1,0,4
+g6,Brendan,Morris Hills,physics,1,0,4
+g6,Aditya,Morris Hills,overall,2,0,8
+g6,Aditya,Morris Hills,other,1,0,4
+g6,Aditya,Morris Hills,biology,1,0,4
+g6,Faiz,Niskayuna A,overall,2,0,8
+g6,Faiz,Niskayuna A,chemistry,1,0,4
+g6,Faiz,Niskayuna A,physics,1,0,4
+g6,Arjun,Niskayuna A,overall,2,0,8
+g6,Arjun,Niskayuna A,math,1,0,4
+g6,Arjun,Niskayuna A,biology,1,0,4
+g6,Mihir,Niskayuna A,overall,2,0,8
+g6,Mihir,Niskayuna A,math,1,0,4
+g6,Mihir,Niskayuna A,biology,1,0,4
+g6,Daniel,Niskayuna A,overall,3,0,12
+g6,Daniel,Niskayuna A,other,1,0,4
+g6,Daniel,Niskayuna A,ess,2,0,8
+g7,Liam,BHBL B,overall,3,0,12
+g7,Liam,BHBL B,chemistry,3,0,12
+g7,Nicole,BHBL B,overall,1,0,4
+g7,Nicole,BHBL B,physics,1,0,4
+g7,Wyatt,BHBL B,overall,1,0,4
+g7,Wyatt,BHBL B,math,1,0,4
+g7,Jamis,Shen C,overall,5,0,20
+g7,Jamis,Shen C,other,1,0,4
+g7,Jamis,Shen C,ess,1,0,4
+g7,Jamis,Shen C,biology,2,0,8
+g7,Jamis,Shen C,physics,1,0,4
+g7,Ankur,Shen C,overall,4,0,16
+g7,Ankur,Shen C,math,2,0,8
+g7,Ankur,Shen C,chemistry,1,0,4
+g7,Ankur,Shen C,physics,1,0,4
+g9,Aldric,WWPN,overall,6,2,16
+g9,Aldric,WWPN,other,3,0,12
+g9,Aldric,WWPN,biology,1,2,-4
+g9,Aldric,WWPN,physics,2,0,8
+g9,Rithik,WWPN,overall,4,1,12
+g9,Rithik,WWPN,math,3,1,8
+g9,Rithik,WWPN,chemistry,1,0,4
+g9,Shreyash,WWPN,overall,1,0,4
+g9,Shreyash,WWPN,ess,1,0,4
+g9,Aivin,Shen B,overall,4,0,16
+g9,Aivin,Shen B,other,1,0,4
+g9,Aivin,Shen B,math,1,0,4
+g9,Aivin,Shen B,chemistry,1,0,4
+g9,Aivin,Shen B,ess,1,0,4
+g9,Jacob,Shen B,overall,1,0,4
+g9,Jacob,Shen B,physics,1,0,4
+g9,Kevin,Shen B,overall,2,0,8
+g9,Kevin,Shen B,chemistry,1,0,4
+g9,Kevin,Shen B,biology,1,0,4
+g9,Jo,Shen B,overall,1,0,4
+g9,Jo,Shen B,ess,1,0,4
+g10,Colin,CBA,overall,2,0,8
+g10,Colin,CBA,chemistry,2,0,8
+g10,Kagame,CBA,overall,1,0,4
+g10,Kagame,CBA,math,1,0,4
+g10,Aarush,Niskayuna B,overall,2,0,8
+g10,Aarush,Niskayuna B,math,1,0,4
+g10,Aarush,Niskayuna B,biology,1,0,4
+g10,Alex,Niskayuna B,overall,7,0,28
+g10,Alex,Niskayuna B,other,3,0,12
+g10,Alex,Niskayuna B,ess,4,0,16
+g10,Cheuk,Niskayuna B,overall,1,0,4
+g10,Cheuk,Niskayuna B,physics,1,0,4
+g10,Iris,Niskayuna B,overall,1,0,4
+g10,Iris,Niskayuna B,biology,1,0,4
+g11,Brendan,Morris Hills,overall,9,0,36
+g11,Brendan,Morris Hills,other,2,0,8
+g11,Brendan,Morris Hills,math,3,0,12
+g11,Brendan,Morris Hills,chemistry,1,0,4
+g11,Brendan,Morris Hills,biology,2,0,8
+g11,Brendan,Morris Hills,physics,1,0,4
+g11,Eashan,Morris Hills,overall,2,0,8
+g11,Eashan,Morris Hills,chemistry,1,0,4
+g11,Eashan,Morris Hills,ess,1,0,4
+g11,Aditya,Morris Hills,overall,1,0,4
+g11,Aditya,Morris Hills,biology,1,0,4
+g11,Liam,BHBL B,overall,1,1,0
+g11,Liam,BHBL B,other,0,1,-4
+g11,Liam,BHBL B,ess,1,0,4
+g11,Nicole,BHBL B,overall,1,0,4
+g11,Nicole,BHBL B,chemistry,1,0,4
+g12,Kevin,Bethlehem,overall,6,0,24
+g12,Kevin,Bethlehem,other,1,0,4
+g12,Kevin,Bethlehem,chemistry,1,0,4
+g12,Kevin,Bethlehem,ess,2,0,8
+g12,Kevin,Bethlehem,biology,2,0,8
+g12,Ian,Bethlehem,overall,1,0,4
+g12,Ian,Bethlehem,ess,1,0,4
+g12,Jamis,Shen C,overall,4,0,16
+g12,Jamis,Shen C,other,1,0,4
+g12,Jamis,Shen C,math,2,0,8
+g12,Jamis,Shen C,physics,1,0,4
+g12,Ankur,Shen C,overall,3,0,12
+g12,Ankur,Shen C,math,1,0,4
+g12,Ankur,Shen C,chemistry,1,0,4
+g12,Ankur,Shen C,ess,1,0,4
+g14,Aldric,WWPN,overall,5,2,12
+g14,Aldric,WWPN,other,0,2,-8
+g14,Aldric,WWPN,chemistry,1,0,4
+g14,Aldric,WWPN,ess,2,0,8
+g14,Aldric,WWPN,biology,2,0,8
+g14,Rithik,WWPN,overall,3,1,8
+g14,Rithik,WWPN,math,3,0,12
+g14,Rithik,WWPN,physics,0,1,-4
+g14,Arjun,WWPN,overall,1,0,4
+g14,Arjun,WWPN,physics,1,0,4
+g14,Shreyash,WWPN,overall,1,2,-4
+g14,Shreyash,WWPN,other,0,1,-4
+g14,Shreyash,WWPN,math,1,0,4
+g14,Shreyash,WWPN,ess,0,1,-4
+g14,Aarush,Niskayuna B,overall,1,0,4
+g14,Aarush,Niskayuna B,physics,1,0,4
+g14,Alex,Niskayuna B,overall,1,0,4
+g14,Alex,Niskayuna B,ess,1,0,4
+g14,Iris,Niskayuna B,overall,0,1,-4
+g14,Iris,Niskayuna B,biology,0,1,-4
+g15,Colin,CBA,overall,1,0,4
+g15,Colin,CBA,math,1,0,4
+g15,Ethan,CBA,overall,3,0,12
+g15,Ethan,CBA,other,1,0,4
+g15,Ethan,CBA,math,1,0,4
+g15,Ethan,CBA,physics,1,0,4
+g15,Hubert,CBA,overall,1,0,4
+g15,Hubert,CBA,math,1,0,4
+g15,Kagame,CBA,overall,1,0,4
+g15,Kagame,CBA,physics,1,0,4
+g15,Asif,CBA,overall,1,0,4
+g15,Asif,CBA,biology,1,0,4
+g15,Chad,BHBL A,overall,2,0,8
+g15,Chad,BHBL A,other,1,0,4
+g15,Chad,BHBL A,chemistry,1,0,4
+g15,Madeline,BHBL A,overall,1,0,4
+g15,Madeline,BHBL A,ess,1,0,4
+g16,Brendan,Morris Hills,overall,5,0,20
+g16,Brendan,Morris Hills,other,1,0,4
+g16,Brendan,Morris Hills,math,1,0,4
+g16,Brendan,Morris Hills,ess,2,0,8
+g16,Brendan,Morris Hills,physics,1,0,4
+g16,Eashan,Morris Hills,overall,4,0,16
+g16,Eashan,Morris Hills,chemistry,3,0,12
+g16,Eashan,Morris Hills,physics,1,0,4
+g16,Aditya,Morris Hills,overall,2,0,8
+g16,Aditya,Morris Hills,other,1,0,4
+g16,Aditya,Morris Hills,biology,1,0,4
+g16,Jamis,Shen C,overall,1,0,4
+g16,Jamis,Shen C,other,1,0,4
+g16,Ankur,Shen C,overall,5,0,20
+g16,Ankur,Shen C,other,1,0,4
+g16,Ankur,Shen C,math,1,0,4
+g16,Ankur,Shen C,biology,2,0,8
+g16,Ankur,Shen C,physics,1,0,4
+g16,Joseph,Shen C,overall,1,1,0
+g16,Joseph,Shen C,ess,1,1,0
+g16,Karl,Shen C,overall,1,0,4
+g16,Karl,Shen C,math,1,0,4
+g17,Kevin,Bethlehem,overall,2,0,8
+g17,Kevin,Bethlehem,other,1,0,4
+g17,Kevin,Bethlehem,biology,1,0,4
+g17,Ian,Bethlehem,overall,2,0,8
+g17,Ian,Bethlehem,other,1,0,4
+g17,Ian,Bethlehem,physics,1,0,4
+g17,Faiz,Niskayuna A,overall,2,0,8
+g17,Faiz,Niskayuna A,math,1,0,4
+g17,Faiz,Niskayuna A,chemistry,1,0,4
+g17,Arjun,Niskayuna A,overall,4,0,16
+g17,Arjun,Niskayuna A,math,2,0,8
+g17,Arjun,Niskayuna A,ess,1,0,4
+g17,Arjun,Niskayuna A,physics,1,0,4
+g17,Mihir,Niskayuna A,overall,2,0,8
+g17,Mihir,Niskayuna A,ess,1,0,4
+g17,Mihir,Niskayuna A,biology,1,0,4
+g17,Daniel,Niskayuna A,overall,3,0,12
+g17,Daniel,Niskayuna A,other,2,0,8
+g17,Daniel,Niskayuna A,ess,1,0,4
+g19,Aldric,WWPN,overall,6,3,12
+g19,Aldric,WWPN,other,1,0,4
+g19,Aldric,WWPN,math,0,1,-4
+g19,Aldric,WWPN,ess,2,0,8
+g19,Aldric,WWPN,biology,2,0,8
+g19,Aldric,WWPN,physics,1,2,-4
+g19,Rithik,WWPN,overall,2,1,4
+g19,Rithik,WWPN,other,1,1,0
+g19,Rithik,WWPN,physics,1,0,4
+g19,Arjun,WWPN,overall,2,0,8
+g19,Arjun,WWPN,ess,1,0,4
+g19,Arjun,WWPN,biology,1,0,4
+g19,Shreyash,WWPN,overall,3,1,8
+g19,Shreyash,WWPN,other,1,0,4
+g19,Shreyash,WWPN,math,2,0,8
+g19,Shreyash,WWPN,ess,0,1,-4
+g19,Colin,CBA,overall,1,1,0
+g19,Colin,CBA,chemistry,1,0,4
+g19,Colin,CBA,biology,0,1,-4
+g19,Ethan,CBA,overall,1,0,4
+g19,Ethan,CBA,chemistry,1,0,4
+g19,Kagame,CBA,overall,0,1,-4
+g19,Kagame,CBA,math,0,1,-4
+g20,Aivin,Shen B,overall,2,0,8
+g20,Aivin,Shen B,other,2,0,8
+g20,Jacob,Shen B,overall,2,0,8
+g20,Jacob,Shen B,physics,2,0,8
+g20,Kevin,Shen B,overall,1,0,4
+g20,Kevin,Shen B,other,1,0,4
+g20,Jo,Shen B,overall,3,0,12
+g20,Jo,Shen B,other,1,0,4
+g20,Jo,Shen B,ess,2,0,8
+g20,Chad,BHBL A,overall,3,0,12
+g20,Chad,BHBL A,math,1,0,4
+g20,Chad,BHBL A,chemistry,1,0,4
+g20,Chad,BHBL A,biology,1,0,4
+g20,Madeline,BHBL A,overall,1,0,4
+g20,Madeline,BHBL A,biology,1,0,4
+g20,Myles,BHBL A,overall,2,0,8
+g20,Myles,BHBL A,math,2,0,8
+g20,Jack,BHBL A,overall,1,0,4
+g20,Jack,BHBL A,ess,1,0,4
+g21,Liam,BHBL B,overall,5,1,16
+g21,Liam,BHBL B,math,1,0,4
+g21,Liam,BHBL B,chemistry,2,0,8
+g21,Liam,BHBL B,biology,1,1,0
+g21,Liam,BHBL B,physics,1,0,4
+g21,Lily,BHBL B,overall,1,0,4
+g21,Lily,BHBL B,ess,1,0,4
+g21,Arjun,Niskayuna A,overall,2,0,8
+g21,Arjun,Niskayuna A,other,1,0,4
+g21,Arjun,Niskayuna A,math,1,0,4
+g21,Daniel,Niskayuna A,overall,2,1,4
+g21,Daniel,Niskayuna A,other,1,0,4
+g21,Daniel,Niskayuna A,ess,1,0,4
+g21,Daniel,Niskayuna A,biology,0,1,-4
+g22,Kevin,Bethlehem,overall,5,0,20
+g22,Kevin,Bethlehem,other,1,0,4
+g22,Kevin,Bethlehem,chemistry,1,0,4
+g22,Kevin,Bethlehem,biology,2,0,8
+g22,Kevin,Bethlehem,physics,1,0,4
+g22,Ian,Bethlehem,overall,2,0,8
+g22,Ian,Bethlehem,other,2,0,8
+g22,Brendan,Morris Hills,overall,6,0,24
+g22,Brendan,Morris Hills,math,2,0,8
+g22,Brendan,Morris Hills,chemistry,1,0,4
+g22,Brendan,Morris Hills,ess,2,0,8
+g22,Brendan,Morris Hills,physics,1,0,4
+g22,Eashan,Morris Hills,overall,5,0,20
+g22,Eashan,Morris Hills,math,1,0,4
+g22,Eashan,Morris Hills,chemistry,1,0,4
+g22,Eashan,Morris Hills,ess,1,0,4
+g22,Eashan,Morris Hills,biology,1,0,4
+g22,Eashan,Morris Hills,physics,1,0,4
+g24,Aivin,Shen B,overall,4,0,16
+g24,Aivin,Shen B,other,1,0,4
+g24,Aivin,Shen B,math,1,0,4
+g24,Aivin,Shen B,biology,1,0,4
+g24,Aivin,Shen B,physics,1,0,4
+g24,Jacob,Shen B,overall,3,0,12
+g24,Jacob,Shen B,physics,3,0,12
+g24,Kevin,Shen B,overall,3,0,12
+g24,Kevin,Shen B,other,1,0,4
+g24,Kevin,Shen B,chemistry,1,0,4
+g24,Kevin,Shen B,biology,1,0,4
+g24,Jo,Shen B,overall,1,0,4
+g24,Jo,Shen B,ess,1,0,4
+g24,Aakaash,Shen B,overall,1,0,4
+g24,Aakaash,Shen B,ess,1,0,4
+g24,Aarush,Niskayuna B,overall,1,1,0
+g24,Aarush,Niskayuna B,biology,1,1,0
+g24,Alex,Niskayuna B,overall,2,0,8
+g24,Alex,Niskayuna B,other,1,0,4
+g24,Alex,Niskayuna B,ess,1,0,4
+g24,Cheuk,Niskayuna B,overall,1,0,4
+g24,Cheuk,Niskayuna B,math,1,0,4
+g24,Iris,Niskayuna B,overall,2,0,8
+g24,Iris,Niskayuna B,math,1,0,4
+g24,Iris,Niskayuna B,chemistry,1,0,4
+g25,Aldric,WWPN,overall,10,0,40
+g25,Aldric,WWPN,other,3,0,12
+g25,Aldric,WWPN,chemistry,3,0,12
+g25,Aldric,WWPN,ess,1,0,4
+g25,Aldric,WWPN,biology,2,0,8
+g25,Aldric,WWPN,physics,1,0,4
+g25,Rithik,WWPN,overall,2,0,8
+g25,Rithik,WWPN,math,2,0,8
+g25,Arjun,WWPN,overall,1,0,4
+g25,Arjun,WWPN,chemistry,1,0,4
+g25,Shreyash,WWPN,overall,1,0,4
+g25,Shreyash,WWPN,physics,1,0,4
+g25,Madeline,BHBL A,overall,1,0,4
+g25,Madeline,BHBL A,ess,1,0,4
+g25,Myles,BHBL A,overall,1,0,4
+g25,Myles,BHBL A,math,1,0,4
+g26,Colin,CBA,overall,1,0,4
+g26,Colin,CBA,chemistry,1,0,4
+g26,Ethan,CBA,overall,0,1,-4
+g26,Ethan,CBA,ess,0,1,-4
+g26,Kagame,CBA,overall,1,0,4
+g26,Kagame,CBA,ess,1,0,4
+g26,Faiz,Niskayuna A,overall,1,0,4
+g26,Faiz,Niskayuna A,other,1,0,4
+g26,Arjun,Niskayuna A,overall,1,0,4
+g26,Arjun,Niskayuna A,math,1,0,4
+g26,Mihir,Niskayuna A,overall,4,0,16
+g26,Mihir,Niskayuna A,other,1,0,4
+g26,Mihir,Niskayuna A,math,2,0,8
+g26,Mihir,Niskayuna A,physics,1,0,4
+g26,Daniel,Niskayuna A,overall,1,0,4
+g26,Daniel,Niskayuna A,biology,1,0,4
+g26,Tarun,Niskayuna A,overall,3,0,12
+g26,Tarun,Niskayuna A,chemistry,1,0,4
+g26,Tarun,Niskayuna A,biology,1,0,4
+g26,Tarun,Niskayuna A,physics,1,0,4
+g27,Aivin,Shen B,overall,5,0,20
+g27,Aivin,Shen B,other,1,0,4
+g27,Aivin,Shen B,math,1,0,4
+g27,Aivin,Shen B,chemistry,2,0,8
+g27,Aivin,Shen B,physics,1,0,4
+g27,Jacob,Shen B,overall,3,0,12
+g27,Jacob,Shen B,math,2,0,8
+g27,Jacob,Shen B,physics,1,0,4
+g27,Jamis,Shen C,overall,1,0,4
+g27,Jamis,Shen C,biology,1,0,4
+g28,Kevin,Bethlehem,overall,2,0,8
+g28,Kevin,Bethlehem,other,1,0,4
+g28,Kevin,Bethlehem,biology,1,0,4
+g28,Aldric,WWPN,overall,7,0,28
+g28,Aldric,WWPN,other,1,0,4
+g28,Aldric,WWPN,ess,2,0,8
+g28,Aldric,WWPN,biology,2,0,8
+g28,Aldric,WWPN,physics,2,0,8
+g28,Rithik,WWPN,overall,3,0,12
+g28,Rithik,WWPN,math,3,0,12
+g28,Arjun,WWPN,overall,2,0,8
+g28,Arjun,WWPN,chemistry,2,0,8
+g28,Shreyash,WWPN,overall,2,0,8
+g28,Shreyash,WWPN,ess,2,0,8
+g29,Brendan,Morris Hills,overall,1,0,4
+g29,Brendan,Morris Hills,other,1,0,4
+g29,Eashan,Morris Hills,overall,1,0,4
+g29,Eashan,Morris Hills,physics,1,0,4
+g29,Aarush,Niskayuna B,overall,3,0,12
+g29,Aarush,Niskayuna B,other,1,0,4
+g29,Aarush,Niskayuna B,biology,2,0,8
+g29,Alex,Niskayuna B,overall,1,0,4
+g29,Alex,Niskayuna B,other,1,0,4
+g29,Cheuk,Niskayuna B,overall,1,0,4
+g29,Cheuk,Niskayuna B,math,1,0,4
+g29,Iris,Niskayuna B,overall,2,0,8
+g29,Iris,Niskayuna B,biology,2,0,8
+g30,Aivin,Shen B,overall,4,0,16
+g30,Aivin,Shen B,other,2,0,8
+g30,Aivin,Shen B,math,1,0,4
+g30,Aivin,Shen B,chemistry,1,0,4
+g30,Jo,Shen B,overall,1,1,0
+g30,Jo,Shen B,ess,1,1,0
+g30,Faiz,Niskayuna A,overall,1,0,4
+g30,Faiz,Niskayuna A,chemistry,1,0,4
+g30,Arjun,Niskayuna A,overall,1,0,4
+g30,Arjun,Niskayuna A,other,1,0,4
+g30,Mihir,Niskayuna A,overall,2,0,8
+g30,Mihir,Niskayuna A,math,2,0,8
+g30,Daniel,Niskayuna A,overall,1,0,4
+g30,Daniel,Niskayuna A,other,1,0,4
+g30,Tarun,Niskayuna A,overall,3,0,12
+g30,Tarun,Niskayuna A,ess,1,0,4
+g30,Tarun,Niskayuna A,physics,2,0,8
+g31,Aldric,WWPN,overall,8,0,32
+g31,Aldric,WWPN,other,2,0,8
+g31,Aldric,WWPN,ess,3,0,12
+g31,Aldric,WWPN,biology,2,0,8
+g31,Aldric,WWPN,physics,1,0,4
+g31,Rithik,WWPN,overall,3,0,12
+g31,Rithik,WWPN,math,3,0,12
+g31,Arjun,WWPN,overall,2,0,8
+g31,Arjun,WWPN,other,1,0,4
+g31,Arjun,WWPN,chemistry,1,0,4
+g31,Aarush,Niskayuna B,overall,1,0,4
+g31,Aarush,Niskayuna B,physics,1,0,4
+g31,Cheuk,Niskayuna B,overall,1,0,4
+g31,Cheuk,Niskayuna B,ess,1,0,4
+g32,Colin,CBA,overall,1,0,4
+g32,Colin,CBA,chemistry,1,0,4
+g32,Hubert,CBA,overall,2,0,8
+g32,Hubert,CBA,other,1,0,4
+g32,Hubert,CBA,ess,1,0,4
+g32,Jamis,Shen C,overall,2,0,8
+g32,Jamis,Shen C,chemistry,1,0,4
+g32,Jamis,Shen C,ess,1,0,4
+g32,Joseph,Shen C,overall,1,0,4
+g32,Joseph,Shen C,physics,1,0,4
+g33,Brendan,Morris Hills,overall,4,1,12
+g33,Brendan,Morris Hills,other,1,0,4
+g33,Brendan,Morris Hills,ess,1,0,4
+g33,Brendan,Morris Hills,biology,1,0,4
+g33,Brendan,Morris Hills,physics,1,1,0
+g33,Eashan,Morris Hills,overall,3,0,12
+g33,Eashan,Morris Hills,other,1,0,4
+g33,Eashan,Morris Hills,chemistry,1,0,4
+g33,Eashan,Morris Hills,physics,1,0,4
+g33,Aditya,Morris Hills,overall,1,0,4
+g33,Aditya,Morris Hills,biology,1,0,4
+g33,Ian,Bethlehem,overall,1,0,4
+g33,Ian,Bethlehem,other,1,0,4
+g34,Aivin,Shen B,overall,4,0,16
+g34,Aivin,Shen B,chemistry,1,0,4
+g34,Aivin,Shen B,ess,1,0,4
+g34,Aivin,Shen B,biology,1,0,4
+g34,Aivin,Shen B,physics,1,0,4
+g34,Jacob,Shen B,overall,2,0,8
+g34,Jacob,Shen B,math,2,0,8
+g34,Kevin,Shen B,overall,3,0,12
+g34,Kevin,Shen B,chemistry,1,0,4
+g34,Kevin,Shen B,biology,1,0,4
+g34,Kevin,Shen B,physics,1,0,4
+g34,Jo,Shen B,overall,2,0,8
+g34,Jo,Shen B,chemistry,1,0,4
+g34,Jo,Shen B,ess,1,0,4
+g34,Jamis,Shen C,overall,1,0,4
+g34,Jamis,Shen C,other,1,0,4
+g34,Joseph,Shen C,overall,2,0,8
+g34,Joseph,Shen C,other,1,0,4
+g34,Joseph,Shen C,ess,1,0,4
+g34,Karl,Shen C,overall,0,2,-8
+g34,Karl,Shen C,math,0,1,-4
+g34,Karl,Shen C,ess,0,1,-4
+g35,Brendan,Morris Hills,overall,4,0,16
+g35,Brendan,Morris Hills,ess,1,0,4
+g35,Brendan,Morris Hills,biology,2,0,8
+g35,Brendan,Morris Hills,physics,1,0,4
+g35,Eashan,Morris Hills,overall,1,0,4
+g35,Eashan,Morris Hills,math,1,0,4
+g35,Aditya,Morris Hills,overall,1,0,4
+g35,Aditya,Morris Hills,other,1,0,4
+g35,Aarush,Niskayuna B,overall,6,1,20
+g35,Aarush,Niskayuna B,other,2,0,8
+g35,Aarush,Niskayuna B,math,0,1,-4
+g35,Aarush,Niskayuna B,chemistry,1,0,4
+g35,Aarush,Niskayuna B,biology,1,0,4
+g35,Aarush,Niskayuna B,physics,2,0,8
+g35,Alex,Niskayuna B,overall,1,0,4
+g35,Alex,Niskayuna B,ess,1,0,4
+g36,Aldric,WWPN,overall,5,1,16
+g36,Aldric,WWPN,other,1,0,4
+g36,Aldric,WWPN,ess,1,0,4
+g36,Aldric,WWPN,biology,1,1,0
+g36,Aldric,WWPN,physics,2,0,8
+g36,Rithik,WWPN,overall,1,1,0
+g36,Rithik,WWPN,other,0,1,-4
+g36,Rithik,WWPN,math,1,0,4
+g36,Arjun,WWPN,overall,1,0,4
+g36,Arjun,WWPN,chemistry,1,0,4
+g36,Shreyash,WWPN,overall,2,0,8
+g36,Shreyash,WWPN,math,1,0,4
+g36,Shreyash,WWPN,ess,1,0,4
+g36,Faiz,Niskayuna A,overall,4,0,16
+g36,Faiz,Niskayuna A,other,2,0,8
+g36,Faiz,Niskayuna A,chemistry,2,0,8
+g36,Mihir,Niskayuna A,overall,1,0,4
+g36,Mihir,Niskayuna A,biology,1,0,4
+g36,Daniel,Niskayuna A,overall,1,2,-4
+g36,Daniel,Niskayuna A,ess,1,0,4
+g36,Daniel,Niskayuna A,biology,0,2,-8
+g36,Tarun,Niskayuna A,overall,0,4,-16
+g36,Tarun,Niskayuna A,ess,0,1,-4
+g36,Tarun,Niskayuna A,physics,0,3,-12
+g37,Aivin,Shen B,overall,3,0,12
+g37,Aivin,Shen B,chemistry,2,0,8
+g37,Aivin,Shen B,biology,1,0,4
+g37,Jacob,Shen B,overall,1,0,4
+g37,Jacob,Shen B,math,1,0,4
+g37,Jo,Shen B,overall,1,0,4
+g37,Jo,Shen B,ess,1,0,4
+g37,Aarush,Niskayuna B,overall,6,0,24
+g37,Aarush,Niskayuna B,other,1,0,4
+g37,Aarush,Niskayuna B,math,1,0,4
+g37,Aarush,Niskayuna B,chemistry,1,0,4
+g37,Aarush,Niskayuna B,biology,1,0,4
+g37,Aarush,Niskayuna B,physics,2,0,8
+g37,Cheuk,Niskayuna B,overall,1,0,4
+g37,Cheuk,Niskayuna B,math,1,0,4
+g37,Iris,Niskayuna B,overall,1,0,4
+g37,Iris,Niskayuna B,biology,1,0,4
+g38,Aarush,Niskayuna B,overall,6,0,24
+g38,Aarush,Niskayuna B,other,2,0,8
+g38,Aarush,Niskayuna B,math,1,0,4
+g38,Aarush,Niskayuna B,chemistry,1,0,4
+g38,Aarush,Niskayuna B,ess,1,0,4
+g38,Aarush,Niskayuna B,biology,1,0,4
+g38,Alex,Niskayuna B,overall,2,0,8
+g38,Alex,Niskayuna B,ess,2,0,8
+g38,Iris,Niskayuna B,overall,1,0,4
+g38,Iris,Niskayuna B,other,1,0,4
+g38,Faiz,Niskayuna A,overall,3,0,12
+g38,Faiz,Niskayuna A,math,1,0,4
+g38,Faiz,Niskayuna A,chemistry,1,0,4
+g38,Faiz,Niskayuna A,physics,1,0,4
+g38,Arjun,Niskayuna A,overall,2,0,8
+g38,Arjun,Niskayuna A,chemistry,2,0,8
+g38,Mihir,Niskayuna A,overall,2,0,8
+g38,Mihir,Niskayuna A,math,1,0,4
+g38,Mihir,Niskayuna A,biology,1,0,4
+g38,Tarun,Niskayuna A,overall,0,1,-4
+g38,Tarun,Niskayuna A,ess,0,1,-4
+g39,Aldric,WWPN,overall,7,1,24
+g39,Aldric,WWPN,math,1,0,4
+g39,Aldric,WWPN,chemistry,3,0,12
+g39,Aldric,WWPN,ess,2,0,8
+g39,Aldric,WWPN,biology,0,1,-4
+g39,Aldric,WWPN,physics,1,0,4
+g39,Rithik,WWPN,overall,1,0,4
+g39,Rithik,WWPN,math,1,0,4
+g39,Arjun,WWPN,overall,0,1,-4
+g39,Arjun,WWPN,ess,0,1,-4
+g39,Shreyash,WWPN,overall,2,0,8
+g39,Shreyash,WWPN,other,1,0,4
+g39,Shreyash,WWPN,ess,1,0,4
+g39,Aarush,Niskayuna B,overall,3,0,12
+g39,Aarush,Niskayuna B,math,1,0,4
+g39,Aarush,Niskayuna B,biology,2,0,8
+g39,Alex,Niskayuna B,overall,1,0,4
+g39,Alex,Niskayuna B,ess,1,0,4
+g39,Cheuk,Niskayuna B,overall,1,0,4
+g39,Cheuk,Niskayuna B,other,1,0,4
+g39,Iris,Niskayuna B,overall,1,0,4
+g39,Iris,Niskayuna B,biology,1,0,4

@@ -23,7 +23,14 @@ sources:
   sheet_id: 1VPbkaRjs91KsVgxkqAW0yTlTIjv_5oUhOevPR3eQFX0
   url: https://docs.google.com/spreadsheets/d/1VPbkaRjs91KsVgxkqAW0yTlTIjv_5oUhOevPR3eQFX0/edit?usp=sharing
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_misc:parse_chembowl
+parser_options:
+  aliases:
+    H&M: Honeypots and Mosquitos
+    Cherry Bomb: Cherry Bombs
+  de_labels:
+    '0': DE 1
+status: partial
+notes: Chemistry-only. 24 teams in 4 pools plus a 13-game DE bracket in which most games have no scores (winners taken from
+  the bracket lines); the final (Caudates vs Annor Azgha) has no result. The stats workbook lists 46 players without their
+  teams (power/correct/penalty format), so player stats cannot be attributed and are not included.

@@ -1,0 +1,311 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+RR-ames-1-2,rr,Ames,1,Lynbrook High School,Marquette Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-3,rr,Ames,1,Lynbrook High School,Lexington High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-4,rr,Ames,1,Lynbrook High School,Thomas Jefferson High School for Science and Technology,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-5,rr,Ames,1,Lynbrook High School,University High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-6,rr,Ames,1,Lynbrook High School,Baton Rouge Magnet High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-7,rr,Ames,1,Lynbrook High School,Middleton High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-8,rr,Ames,1,Lynbrook High School,Lindbergh Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-1-9,rr,Ames,1,Lynbrook High School,Davidson Academy,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-3,rr,Ames,1,Marquette Senior High School,Lexington High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-4,rr,Ames,1,Marquette Senior High School,Thomas Jefferson High School for Science and Technology,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-5,rr,Ames,1,Marquette Senior High School,University High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-6,rr,Ames,1,Marquette Senior High School,Baton Rouge Magnet High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-7,rr,Ames,1,Marquette Senior High School,Middleton High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-8,rr,Ames,1,Marquette Senior High School,Lindbergh Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-2-9,rr,Ames,1,Marquette Senior High School,Davidson Academy,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-3-4,rr,Ames,1,Lexington High School,Thomas Jefferson High School for Science and Technology,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-3-5,rr,Ames,1,Lexington High School,University High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-3-6,rr,Ames,1,Lexington High School,Baton Rouge Magnet High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-3-7,rr,Ames,1,Lexington High School,Middleton High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-3-8,rr,Ames,1,Lexington High School,Lindbergh Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-3-9,rr,Ames,1,Lexington High School,Davidson Academy,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-4-5,rr,Ames,1,Thomas Jefferson High School for Science and Technology,University High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-4-6,rr,Ames,1,Thomas Jefferson High School for Science and Technology,Baton Rouge Magnet High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-4-7,rr,Ames,1,Thomas Jefferson High School for Science and Technology,Middleton High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-4-8,rr,Ames,1,Thomas Jefferson High School for Science and Technology,Lindbergh Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-4-9,rr,Ames,1,Thomas Jefferson High School for Science and Technology,Davidson Academy,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-5-6,rr,Ames,1,University High School,Baton Rouge Magnet High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-5-7,rr,Ames,1,University High School,Middleton High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-5-8,rr,Ames,1,University High School,Lindbergh Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-5-9,rr,Ames,1,University High School,Davidson Academy,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-6-7,rr,Ames,1,Baton Rouge Magnet High School,Middleton High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-6-8,rr,Ames,1,Baton Rouge Magnet High School,Lindbergh Senior High School,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-6-9,rr,Ames,1,Baton Rouge Magnet High School,Davidson Academy,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-7-8,rr,Ames,1,Middleton High School,Lindbergh Senior High School,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-7-9,rr,Ames,1,Middleton High School,Davidson Academy,,,1,0,Ames division; 2/1/0 grid (no scores)
+RR-ames-8-9,rr,Ames,1,Lindbergh Senior High School,Davidson Academy,,,2,0,Ames division; 2/1/0 grid (no scores)
+RR-brookhaven-1-2,rr,Brookhaven,1,Brookings High School,'Iolani School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-3,rr,Brookhaven,1,Brookings High School,Niskayuna High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-4,rr,Brookhaven,1,Brookings High School,Transmountain Early College High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-5,rr,Brookhaven,1,Brookings High School,Pullman High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-6,rr,Brookhaven,1,Brookings High School,Billings Central Catholic High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-7,rr,Brookhaven,1,Brookings High School,Whitney Young Magnet High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-8,rr,Brookhaven,1,Brookings High School,Colegio Católico Notre Dame,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-1-9,rr,Brookhaven,1,Brookings High School,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-3,rr,Brookhaven,1,'Iolani School,Niskayuna High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-4,rr,Brookhaven,1,'Iolani School,Transmountain Early College High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-5,rr,Brookhaven,1,'Iolani School,Pullman High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-6,rr,Brookhaven,1,'Iolani School,Billings Central Catholic High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-7,rr,Brookhaven,1,'Iolani School,Whitney Young Magnet High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-8,rr,Brookhaven,1,'Iolani School,Colegio Católico Notre Dame,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-2-9,rr,Brookhaven,1,'Iolani School,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-3-4,rr,Brookhaven,1,Niskayuna High School,Transmountain Early College High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-3-5,rr,Brookhaven,1,Niskayuna High School,Pullman High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-3-6,rr,Brookhaven,1,Niskayuna High School,Billings Central Catholic High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-3-7,rr,Brookhaven,1,Niskayuna High School,Whitney Young Magnet High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-3-8,rr,Brookhaven,1,Niskayuna High School,Colegio Católico Notre Dame,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-3-9,rr,Brookhaven,1,Niskayuna High School,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-4-5,rr,Brookhaven,1,Transmountain Early College High School,Pullman High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-4-6,rr,Brookhaven,1,Transmountain Early College High School,Billings Central Catholic High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-4-7,rr,Brookhaven,1,Transmountain Early College High School,Whitney Young Magnet High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-4-8,rr,Brookhaven,1,Transmountain Early College High School,Colegio Católico Notre Dame,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-4-9,rr,Brookhaven,1,Transmountain Early College High School,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-5-6,rr,Brookhaven,1,Pullman High School,Billings Central Catholic High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-5-7,rr,Brookhaven,1,Pullman High School,Whitney Young Magnet High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-5-8,rr,Brookhaven,1,Pullman High School,Colegio Católico Notre Dame,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-5-9,rr,Brookhaven,1,Pullman High School,Mission San Jose High School,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-6-7,rr,Brookhaven,1,Billings Central Catholic High School,Whitney Young Magnet High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-6-8,rr,Brookhaven,1,Billings Central Catholic High School,Colegio Católico Notre Dame,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-6-9,rr,Brookhaven,1,Billings Central Catholic High School,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-7-8,rr,Brookhaven,1,Whitney Young Magnet High School,Colegio Católico Notre Dame,,,1,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-7-9,rr,Brookhaven,1,Whitney Young Magnet High School,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-brookhaven-8-9,rr,Brookhaven,1,Colegio Católico Notre Dame,Mission San Jose High School,,,2,0,Brookhaven division; 2/1/0 grid (no scores)
+RR-fermi-1-2,rr,Fermi,1,Buchholz High School,New Mexico Military Institute,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-1-3,rr,Fermi,1,Buchholz High School,Bismarck High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-1-4,rr,Fermi,1,Buchholz High School,St. Croix Educational Complex High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-1-5,rr,Fermi,1,Buchholz High School,Lakeside High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-1-6,rr,Fermi,1,Buchholz High School,Twin Falls High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-1-7,rr,Fermi,1,Buchholz High School,Kelly Walsh High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-1-8,rr,Fermi,1,Buchholz High School,Lincoln East High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-2-3,rr,Fermi,1,New Mexico Military Institute,Bismarck High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-2-4,rr,Fermi,1,New Mexico Military Institute,St. Croix Educational Complex High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-2-5,rr,Fermi,1,New Mexico Military Institute,Lakeside High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-2-6,rr,Fermi,1,New Mexico Military Institute,Twin Falls High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-2-7,rr,Fermi,1,New Mexico Military Institute,Kelly Walsh High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-2-8,rr,Fermi,1,New Mexico Military Institute,Lincoln East High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-3-4,rr,Fermi,1,Bismarck High School,St. Croix Educational Complex High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-3-5,rr,Fermi,1,Bismarck High School,Lakeside High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-3-6,rr,Fermi,1,Bismarck High School,Twin Falls High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-3-7,rr,Fermi,1,Bismarck High School,Kelly Walsh High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-3-8,rr,Fermi,1,Bismarck High School,Lincoln East High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-4-5,rr,Fermi,1,St. Croix Educational Complex High School,Lakeside High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-4-6,rr,Fermi,1,St. Croix Educational Complex High School,Twin Falls High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-4-7,rr,Fermi,1,St. Croix Educational Complex High School,Kelly Walsh High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-4-8,rr,Fermi,1,St. Croix Educational Complex High School,Lincoln East High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-5-6,rr,Fermi,1,Lakeside High School,Twin Falls High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-5-7,rr,Fermi,1,Lakeside High School,Kelly Walsh High School,,,1,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-5-8,rr,Fermi,1,Lakeside High School,Lincoln East High School,,,T,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-6-7,rr,Fermi,1,Twin Falls High School,Kelly Walsh High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-6-8,rr,Fermi,1,Twin Falls High School,Lincoln East High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-fermi-7-8,rr,Fermi,1,Kelly Walsh High School,Lincoln East High School,,,2,0,Fermi division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-2,rr,Lawrence Berkeley,1,Olathe North High School,Montgomery Blair High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-3,rr,Lawrence Berkeley,1,Olathe North High School,Mississippi School for Mathematics and Science,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-4,rr,Lawrence Berkeley,1,Olathe North High School,Morgantown High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-5,rr,Lawrence Berkeley,1,Olathe North High School,North Carolina School of Science and Mathematics,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-6,rr,Lawrence Berkeley,1,Olathe North High School,Huron High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-7,rr,Lawrence Berkeley,1,Olathe North High School,Timpview High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-1-8,rr,Lawrence Berkeley,1,Olathe North High School,Fossil Ridge High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-2-3,rr,Lawrence Berkeley,1,Montgomery Blair High School,Mississippi School for Mathematics and Science,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-2-4,rr,Lawrence Berkeley,1,Montgomery Blair High School,Morgantown High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-2-5,rr,Lawrence Berkeley,1,Montgomery Blair High School,North Carolina School of Science and Mathematics,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-2-6,rr,Lawrence Berkeley,1,Montgomery Blair High School,Huron High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-2-7,rr,Lawrence Berkeley,1,Montgomery Blair High School,Timpview High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-2-8,rr,Lawrence Berkeley,1,Montgomery Blair High School,Fossil Ridge High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-3-4,rr,Lawrence Berkeley,1,Mississippi School for Mathematics and Science,Morgantown High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-3-5,rr,Lawrence Berkeley,1,Mississippi School for Mathematics and Science,North Carolina School of Science and Mathematics,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-3-6,rr,Lawrence Berkeley,1,Mississippi School for Mathematics and Science,Huron High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-3-7,rr,Lawrence Berkeley,1,Mississippi School for Mathematics and Science,Timpview High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-3-8,rr,Lawrence Berkeley,1,Mississippi School for Mathematics and Science,Fossil Ridge High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-4-5,rr,Lawrence Berkeley,1,Morgantown High School,North Carolina School of Science and Mathematics,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-4-6,rr,Lawrence Berkeley,1,Morgantown High School,Huron High School,,,T,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-4-7,rr,Lawrence Berkeley,1,Morgantown High School,Timpview High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-4-8,rr,Lawrence Berkeley,1,Morgantown High School,Fossil Ridge High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-5-6,rr,Lawrence Berkeley,1,North Carolina School of Science and Mathematics,Huron High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-5-7,rr,Lawrence Berkeley,1,North Carolina School of Science and Mathematics,Timpview High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-5-8,rr,Lawrence Berkeley,1,North Carolina School of Science and Mathematics,Fossil Ridge High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-6-7,rr,Lawrence Berkeley,1,Huron High School,Timpview High School,,,1,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-6-8,rr,Lawrence Berkeley,1,Huron High School,Fossil Ridge High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-lawrence-berkeley-7-8,rr,Lawrence Berkeley,1,Timpview High School,Fossil Ridge High School,,,2,0,Lawrence Berkeley division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-2,rr,Princeton Plasma,1,Hunter College High School,North Allegheny High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-3,rr,Princeton Plasma,1,Hunter College High School,South Texas ISD Science Academy,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-4,rr,Princeton Plasma,1,Hunter College High School,Lubbock High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-5,rr,Princeton Plasma,1,Hunter College High School,NSU University School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-6,rr,Princeton Plasma,1,Hunter College High School,North Hollywood High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-7,rr,Princeton Plasma,1,Hunter College High School,West Windsor-Plainsboro High School North,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-8,rr,Princeton Plasma,1,Hunter College High School,Mason High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-1-9,rr,Princeton Plasma,1,Hunter College High School,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-3,rr,Princeton Plasma,1,North Allegheny High School,South Texas ISD Science Academy,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-4,rr,Princeton Plasma,1,North Allegheny High School,Lubbock High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-5,rr,Princeton Plasma,1,North Allegheny High School,NSU University School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-6,rr,Princeton Plasma,1,North Allegheny High School,North Hollywood High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-7,rr,Princeton Plasma,1,North Allegheny High School,West Windsor-Plainsboro High School North,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-8,rr,Princeton Plasma,1,North Allegheny High School,Mason High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-2-9,rr,Princeton Plasma,1,North Allegheny High School,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-3-4,rr,Princeton Plasma,1,South Texas ISD Science Academy,Lubbock High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-3-5,rr,Princeton Plasma,1,South Texas ISD Science Academy,NSU University School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-3-6,rr,Princeton Plasma,1,South Texas ISD Science Academy,North Hollywood High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-3-7,rr,Princeton Plasma,1,South Texas ISD Science Academy,West Windsor-Plainsboro High School North,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-3-8,rr,Princeton Plasma,1,South Texas ISD Science Academy,Mason High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-3-9,rr,Princeton Plasma,1,South Texas ISD Science Academy,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-4-5,rr,Princeton Plasma,1,Lubbock High School,NSU University School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-4-6,rr,Princeton Plasma,1,Lubbock High School,North Hollywood High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-4-7,rr,Princeton Plasma,1,Lubbock High School,West Windsor-Plainsboro High School North,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-4-8,rr,Princeton Plasma,1,Lubbock High School,Mason High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-4-9,rr,Princeton Plasma,1,Lubbock High School,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-5-6,rr,Princeton Plasma,1,NSU University School,North Hollywood High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-5-7,rr,Princeton Plasma,1,NSU University School,West Windsor-Plainsboro High School North,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-5-8,rr,Princeton Plasma,1,NSU University School,Mason High School,,,2,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-5-9,rr,Princeton Plasma,1,NSU University School,Los Alamos High School,,,T,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-6-7,rr,Princeton Plasma,1,North Hollywood High School,West Windsor-Plainsboro High School North,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-6-8,rr,Princeton Plasma,1,North Hollywood High School,Mason High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-6-9,rr,Princeton Plasma,1,North Hollywood High School,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-7-8,rr,Princeton Plasma,1,West Windsor-Plainsboro High School North,Mason High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-7-9,rr,Princeton Plasma,1,West Windsor-Plainsboro High School North,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-princeton-plasma-8-9,rr,Princeton Plasma,1,Mason High School,Los Alamos High School,,,1,0,Princeton Plasma division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-2,rr,Renewable Energy,1,Carmel High School,Centennial High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-3,rr,Renewable Energy,1,Carmel High School,Cedar Falls High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-4,rr,Renewable Energy,1,Carmel High School,Central High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-5,rr,Renewable Energy,1,Carmel High School,Alabama School of Fine Arts,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-6,rr,Renewable Energy,1,Carmel High School,Westminster,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-7,rr,Renewable Energy,1,Carmel High School,Wayzata High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-1-8,rr,Renewable Energy,1,Carmel High School,Mira Loma High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-2-3,rr,Renewable Energy,1,Centennial High School,Cedar Falls High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-2-4,rr,Renewable Energy,1,Centennial High School,Central High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-2-5,rr,Renewable Energy,1,Centennial High School,Alabama School of Fine Arts,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-2-6,rr,Renewable Energy,1,Centennial High School,Westminster,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-2-7,rr,Renewable Energy,1,Centennial High School,Wayzata High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-2-8,rr,Renewable Energy,1,Centennial High School,Mira Loma High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-3-4,rr,Renewable Energy,1,Cedar Falls High School,Central High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-3-5,rr,Renewable Energy,1,Cedar Falls High School,Alabama School of Fine Arts,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-3-6,rr,Renewable Energy,1,Cedar Falls High School,Westminster,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-3-7,rr,Renewable Energy,1,Cedar Falls High School,Wayzata High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-3-8,rr,Renewable Energy,1,Cedar Falls High School,Mira Loma High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-4-5,rr,Renewable Energy,1,Central High School,Alabama School of Fine Arts,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-4-6,rr,Renewable Energy,1,Central High School,Westminster,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-4-7,rr,Renewable Energy,1,Central High School,Wayzata High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-4-8,rr,Renewable Energy,1,Central High School,Mira Loma High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-5-6,rr,Renewable Energy,1,Alabama School of Fine Arts,Westminster,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-5-7,rr,Renewable Energy,1,Alabama School of Fine Arts,Wayzata High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-5-8,rr,Renewable Energy,1,Alabama School of Fine Arts,Mira Loma High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-6-7,rr,Renewable Energy,1,Westminster,Wayzata High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-6-8,rr,Renewable Energy,1,Westminster,Mira Loma High School,,,2,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-renewable-energy-7-8,rr,Renewable Energy,1,Wayzata High School,Mira Loma High School,,,1,0,Renewable Energy division; 2/1/0 grid (no scores)
+RR-savannah-river-1-2,rr,Savannah River,1,Yarmouth High School,Calloway County High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-1-3,rr,Savannah River,1,Yarmouth High School,Mountain View High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-1-4,rr,Savannah River,1,Yarmouth High School,BASIS San Antonio - Shavano Campus,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-1-5,rr,Savannah River,1,Yarmouth High School,Naperville North High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-1-6,rr,Savannah River,1,Yarmouth High School,Claremore High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-1-7,rr,Savannah River,1,Yarmouth High School,Farragut High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-1-8,rr,Savannah River,1,Yarmouth High School,Lakeside School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-2-3,rr,Savannah River,1,Calloway County High School,Mountain View High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-2-4,rr,Savannah River,1,Calloway County High School,BASIS San Antonio - Shavano Campus,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-2-5,rr,Savannah River,1,Calloway County High School,Naperville North High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-2-6,rr,Savannah River,1,Calloway County High School,Claremore High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-2-7,rr,Savannah River,1,Calloway County High School,Farragut High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-2-8,rr,Savannah River,1,Calloway County High School,Lakeside School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-3-4,rr,Savannah River,1,Mountain View High School,BASIS San Antonio - Shavano Campus,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-3-5,rr,Savannah River,1,Mountain View High School,Naperville North High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-3-6,rr,Savannah River,1,Mountain View High School,Claremore High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-3-7,rr,Savannah River,1,Mountain View High School,Farragut High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-3-8,rr,Savannah River,1,Mountain View High School,Lakeside School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-4-5,rr,Savannah River,1,BASIS San Antonio - Shavano Campus,Naperville North High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-4-6,rr,Savannah River,1,BASIS San Antonio - Shavano Campus,Claremore High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-4-7,rr,Savannah River,1,BASIS San Antonio - Shavano Campus,Farragut High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-4-8,rr,Savannah River,1,BASIS San Antonio - Shavano Campus,Lakeside School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-5-6,rr,Savannah River,1,Naperville North High School,Claremore High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-5-7,rr,Savannah River,1,Naperville North High School,Farragut High School,,,1,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-5-8,rr,Savannah River,1,Naperville North High School,Lakeside School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-6-7,rr,Savannah River,1,Claremore High School,Farragut High School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-6-8,rr,Savannah River,1,Claremore High School,Lakeside School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-savannah-river-7-8,rr,Savannah River,1,Farragut High School,Lakeside School,,,2,0,Savannah River division; 2/1/0 grid (no scores)
+RR-slac-1-2,rr,SLAC,1,Clovis North High School,East Lyme High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-1-3,rr,SLAC,1,Clovis North High School,Mat-Su Career and Technical High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-1-4,rr,SLAC,1,Clovis North High School,University Preparatory School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-1-5,rr,SLAC,1,Clovis North High School,Clements High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-1-6,rr,SLAC,1,Clovis North High School,BASIS Chandler,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-1-7,rr,SLAC,1,Clovis North High School,Valley High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-1-8,rr,SLAC,1,Clovis North High School,Ward Melville High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-2-3,rr,SLAC,1,East Lyme High School,Mat-Su Career and Technical High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-2-4,rr,SLAC,1,East Lyme High School,University Preparatory School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-2-5,rr,SLAC,1,East Lyme High School,Clements High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-2-6,rr,SLAC,1,East Lyme High School,BASIS Chandler,,,T,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-2-7,rr,SLAC,1,East Lyme High School,Valley High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-2-8,rr,SLAC,1,East Lyme High School,Ward Melville High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-3-4,rr,SLAC,1,Mat-Su Career and Technical High School,University Preparatory School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-3-5,rr,SLAC,1,Mat-Su Career and Technical High School,Clements High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-3-6,rr,SLAC,1,Mat-Su Career and Technical High School,BASIS Chandler,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-3-7,rr,SLAC,1,Mat-Su Career and Technical High School,Valley High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-3-8,rr,SLAC,1,Mat-Su Career and Technical High School,Ward Melville High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-4-5,rr,SLAC,1,University Preparatory School,Clements High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-4-6,rr,SLAC,1,University Preparatory School,BASIS Chandler,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-4-7,rr,SLAC,1,University Preparatory School,Valley High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-4-8,rr,SLAC,1,University Preparatory School,Ward Melville High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-5-6,rr,SLAC,1,Clements High School,BASIS Chandler,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-5-7,rr,SLAC,1,Clements High School,Valley High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-5-8,rr,SLAC,1,Clements High School,Ward Melville High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-6-7,rr,SLAC,1,BASIS Chandler,Valley High School,,,1,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-6-8,rr,SLAC,1,BASIS Chandler,Ward Melville High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+RR-slac-7-8,rr,SLAC,1,Valley High School,Ward Melville High School,,,2,0,SLAC division; 2/1/0 grid (no scores)
+GM-1,playoff,DE1,11,Lexington High School,East Lyme High School,,,1,0,no-loss bracket; Ames-1st vs SLAC-4th
+GM-2,playoff,DE1,11,West Windsor-Plainsboro High School North,Fossil Ridge High School,,,2,0,no-loss bracket; Princeton Plasma-2nd vs Lawrence Berkeley-3rd
+GM-3,playoff,DE1,11,Pullman High School,Mountain View High School,,,1,0,no-loss bracket; Brookhaven-1st vs Savannah River-4th
+GM-4,playoff,DE1,11,Mira Loma High School,Lakeside High School,,,1,0,no-loss bracket; Renewable Energy-2nd vs Fermi-3rd
+GM-5,playoff,DE1,11,Buchholz High School,Carmel High School,,,2,0,no-loss bracket; Fermi-1st vs Renewable Energy-4th
+GM-6,playoff,DE1,11,Lakeside School,'Iolani School,,,1,0,no-loss bracket; Savannah River-2nd vs Brookhaven-3rd
+GM-7,playoff,DE1,11,North Carolina School of Science and Mathematics,North Allegheny High School,,,1,0,no-loss bracket; Lawrence Berkeley-1st vs Princeton Plasma-4th
+GM-8,playoff,DE1,11,Ward Melville High School,University High School,,,2,0,no-loss bracket; SLAC-2nd vs Ames-3rd
+GM-9,playoff,DE1,11,North Hollywood High School,Morgantown High School,,,1,0,no-loss bracket; Princeton Plasma-1st vs Lawrence Berkeley-4th
+GM-10,playoff,DE1,11,Middleton High School,Clovis North High School,,,1,0,no-loss bracket; Ames-2nd vs SLAC-3rd
+GM-11,playoff,DE1,11,Wayzata High School,Twin Falls High School,,,2,0,no-loss bracket; Renewable Energy-1st vs Fermi-4th
+GM-12,playoff,DE1,11,Mission San Jose High School,Naperville North High School,,,1,0,no-loss bracket; Brookhaven-2nd vs Savannah River-3rd
+GM-13,playoff,DE1,11,BASIS San Antonio - Shavano Campus,Niskayuna High School,,,1,0,no-loss bracket; Savannah River-1st vs Brookhaven-4th
+GM-14,playoff,DE1,11,Lincoln East High School,Alabama School of Fine Arts,,,1,0,no-loss bracket; Fermi-2nd vs Renewable Energy-3rd
+GM-15,playoff,DE1,11,Clements High School,Lynbrook High School,,,1,0,no-loss bracket; SLAC-1st vs Ames-4th
+GM-16,playoff,DE1,11,Montgomery Blair High School,Hunter College High School,,,1,0,no-loss bracket; Lawrence Berkeley-2nd vs Princeton Plasma-3rd
+GM-17,playoff,DE2,12,Lexington High School,Fossil Ridge High School,,,1,0,no-loss bracket; Winner GM-1 vs Winner GM-2
+GM-18,playoff,DE2,12,Pullman High School,Mira Loma High School,,,2,0,no-loss bracket; Winner GM-3 vs Winner GM-4
+GM-19,playoff,DE2,12,Carmel High School,Lakeside School,,,2,0,no-loss bracket; Winner GM-5 vs Winner GM-6
+GM-20,playoff,DE2,12,North Carolina School of Science and Mathematics,University High School,,,2,0,no-loss bracket; Winner GM-7 vs Winner GM-8
+GM-21,playoff,DE2,12,North Hollywood High School,Middleton High School,,,1,0,no-loss bracket; Winner GM-9 vs Winner GM-10
+GM-22,playoff,DE2,12,Twin Falls High School,Mission San Jose High School,,,2,0,no-loss bracket; Winner GM-11 vs Winner GM-12
+GM-23,playoff,DE2,12,BASIS San Antonio - Shavano Campus,Lincoln East High School,,,1,0,no-loss bracket; Winner GM-13 vs Winner GM-14
+GM-24,playoff,DE2,12,Clements High School,Montgomery Blair High School,,,1,0,no-loss bracket; Winner GM-15 vs Winner GM-16
+GM-A,playoff,DE2,12,East Lyme High School,West Windsor-Plainsboro High School North,,,1,0,one-loss bracket; One-Loss from GM-1 vs One-Loss from GM-2
+GM-B,playoff,DE2,12,Mountain View High School,Lakeside High School,,,1,0,one-loss bracket; One-Loss from GM-3 vs One-Loss from GM-4
+GM-C,playoff,DE2,12,Buchholz High School,'Iolani School,,,1,0,one-loss bracket; One-Loss from GM-5 vs One-Loss from GM-6
+GM-D,playoff,DE2,12,North Allegheny High School,Ward Melville High School,,,2,0,one-loss bracket; One-Loss from GM-7 vs One-Loss from GM-8
+GM-E,playoff,DE2,12,Morgantown High School,Clovis North High School,,,2,0,one-loss bracket; One-Loss from GM-9 vs One-Loss from GM-10
+GM-F,playoff,DE2,12,Wayzata High School,Naperville North High School,,,1,0,one-loss bracket; One-Loss from GM-11 vs One-Loss from GM-12
+GM-G,playoff,DE2,12,Niskayuna High School,Alabama School of Fine Arts,,,2,0,one-loss bracket; One-Loss from GM-13 vs One-Loss from GM-14
+GM-H,playoff,DE2,12,Lynbrook High School,Hunter College High School,,,1,0,one-loss bracket; One-Loss from GM-15 vs One-Loss from GM-16
+GM-I,playoff,DE3,13,Montgomery Blair High School,East Lyme High School,,,1,0,one-loss bracket; One-Loss from GM-24 vs Winner GM-A
+GM-J,playoff,DE3,13,Lincoln East High School,Mountain View High School,,,2,0,one-loss bracket; One-Loss from GM-23 vs Winner GM-B
+GM-K,playoff,DE3,13,Twin Falls High School,Buchholz High School,,,2,0,one-loss bracket; One-Loss from GM-22 vs Winner GM-C
+GM-L,playoff,DE3,13,Middleton High School,Ward Melville High School,,,1,0,one-loss bracket; One-Loss from GM-21 vs Winner GM-D
+GM-M,playoff,DE3,13,North Carolina School of Science and Mathematics,Clovis North High School,,,1,0,one-loss bracket; One-Loss from GM-20 vs Winner GM-E
+GM-N,playoff,DE3,13,Carmel High School,Wayzata High School,,,2,0,one-loss bracket; One-Loss from GM-19 vs Winner GM-F
+GM-O,playoff,DE3,13,Pullman High School,Alabama School of Fine Arts,,,2,0,one-loss bracket; One-Loss from GM-18 vs Winner GM-G
+GM-P,playoff,DE3,13,Fossil Ridge High School,Lynbrook High School,,,2,0,one-loss bracket; One-Loss from GM-17 vs Winner GM-H
+GM-25,playoff,DE4,14,Lexington High School,Mira Loma High School,,,1,0,no-loss bracket; Winner GM-17 vs Winner GM-18
+GM-26,playoff,DE4,14,Lakeside School,University High School,,,2,0,no-loss bracket; Winner GM-19 vs Winner GM-20
+GM-27,playoff,DE4,14,North Hollywood High School,Mission San Jose High School,,,1,0,no-loss bracket; Winner GM-21 vs Winner GM-22
+GM-28,playoff,DE4,14,BASIS San Antonio - Shavano Campus,Clements High School,,,2,0,no-loss bracket; Winner GM-23 vs Winner GM-24
+GM-Q,playoff,DE4,14,Montgomery Blair High School,Mountain View High School,,,1,0,one-loss bracket; Winner GM-I vs Winner GM-J
+GM-R,playoff,DE4,14,Buchholz High School,Middleton High School,,,1,0,one-loss bracket; Winner GM-K vs Winner GM-L
+GM-S,playoff,DE4,14,North Carolina School of Science and Mathematics,Wayzata High School,,,2,0,one-loss bracket; Winner GM-M vs Winner GM-N
+GM-T,playoff,DE4,14,Alabama School of Fine Arts,Lynbrook High School,,,2,0,one-loss bracket; Winner GM-O vs Winner GM-P
+GM-U,playoff,DE5,15,Montgomery Blair High School,Lakeside School,,,1,0,one-loss bracket; Winner GM-Q vs One-Loss from GM-26
+GM-V,playoff,DE5,15,Buchholz High School,Mira Loma High School,,,1,0,one-loss bracket; Winner GM-R vs One-Loss from GM-25
+GM-W,playoff,DE5,15,Wayzata High School,BASIS San Antonio - Shavano Campus,,,1,0,one-loss bracket; Winner GM-S vs One-Loss from GM-28
+GM-X,playoff,DE5,15,Lynbrook High School,Mission San Jose High School,,,2,0,one-loss bracket; Winner GM-T vs One-Loss from GM-27
+GM-29,playoff,DE6,16,Lexington High School,University High School,,,1,0,no-loss bracket; Winner GM-25 vs Winner GM-26
+GM-30,playoff,DE6,16,North Hollywood High School,Clements High School,,,1,0,no-loss bracket; Winner GM-27 vs Winner GM-28
+GM-Y,playoff,DE6,16,Montgomery Blair High School,Buchholz High School,,,1,0,one-loss bracket; Winner GM-U vs Winner GM-V
+GM-Z,playoff,DE6,16,Wayzata High School,Mission San Jose High School,,,1,0,one-loss bracket; Winner GM-W vs Winner GM-X
+GM-AA,playoff,DE7,17,Clements High School,Montgomery Blair High School,,,1,0,one-loss bracket; One-Loss from GM-30 vs Winner GM-Y
+GM-BB,playoff,DE7,17,University High School,Wayzata High School,,,1,0,one-loss bracket; One-Loss from GM-29 vs Winner GM-Z
+GM-31,playoff,DE8,18,Lexington High School,North Hollywood High School,,,1,0,no-loss bracket; Winner GM-29 vs Winner GM-30
+GM-CC,playoff,DE8,18,Clements High School,University High School,,,2,0,one-loss bracket; Winner GM-AA vs Winner GM-BB
+GM-DD,playoff,DE9,19,North Hollywood High School,University High School,,,1,0,one-loss bracket; One-Loss from GM-31 vs Winner GM-CC
+GM-32,playoff,DE10,20,North Hollywood High School,Lexington High School,,,2,0,final bracket; Winner GM-DD vs Winner GM-31

@@ -23,7 +23,10 @@ sources:
   sheet_id: 1nhKQghNrGuob62nrP5t06rWyA4ITKDI8mY-Jm9MYNUI
   url: https://docs.google.com/spreadsheets/d/1nhKQghNrGuob62nrP5t06rWyA4ITKDI8mY-Jm9MYNUI/edit?usp=sharing
   file: stats.xlsx
-parser: null
+parser: g7_misc:parse_thumb
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 'Two-person teams: 29 teams in 5 pools (W/L + score grids, rounds by pool position) plus a 16-team single-elimination
+  bracket (law-abiding citizens champion). Stats give only per-player RR PPG (A for B / B for A columns; team-level subject
+  rates not stored); gp is the team''s RR game count and points = PPG x GP. Real names come from the Field tab. Science Bowlers
+  vs Galena Eatrs shows 46-46 but both cells mark Galena as the winner, so it is stored as a result without scores.'

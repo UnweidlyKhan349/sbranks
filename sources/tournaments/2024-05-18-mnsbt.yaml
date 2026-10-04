@@ -18,7 +18,35 @@ sources:
   sheet_id: 1vzbpSEp4L34GvMkcEc655wbpOapuYOduHS2PDKk-c1k
   url: https://docs.google.com/spreadsheets/d/1vzbpSEp4L34GvMkcEc655wbpOapuYOduHS2PDKk-c1k/edit?usp=sharing
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mnsbt:parse
+parser_options:
+  aliases:
+    Lynbrook: Lynbrook 1
+    Amador: Amador 1
+    Interlake: Interlake 1
+  bracket:
+    tab: Double Elimination
+    anchor: \(([WL]\d+-\d+)\)$
+    gid_re: \(([WL]\d+-\d+)\)$
+    score: right
+    winner: right
+    header_row: 0
+    round_num: ^DE (\d+)
+    round_fmt: DE{n}
+    seq_base: 5
+    skip:
+    - ^FRFT$
+    - ^CHAMPIONS
+    - '^Key:'
+    - ^[A-Z][a-z]+-\d+$
+    extra_rounds:
+      Finals 1: 13
+      Finals 2: 14
+    games:
+    - F1 | Finals 1 | O17 | O37 | | P17 | P37
+    - F2 | Finals 2 | O17 | O37 | | Q17 | Q37
+status: parsed
+notes: 'Kept as HS: the field is all high-school teams (IMSA, TJHSST, Stuyvesant, Lynbrook, MSJ, ...) despite the ''MS'' guess
+  in the source list. Results only: 8 RR pools (score matrices, rounds from Room Assignments; ranking points and PPG cross-checked)
+  plus the full double-elimination bracket with scores (Foothill forfeited L4-2). Lynbrook 1 won the second final after losing
+  the first 4-58.'

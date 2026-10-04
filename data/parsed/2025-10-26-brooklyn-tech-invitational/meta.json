@@ -1,0 +1,25 @@
+{
+  "tournament_id": "2025-10-26-brooklyn-tech-invitational",
+  "counts": {
+    "teams": 21,
+    "games": 53,
+    "games_with_scores": 51,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "Collierville B: record 2025-02-02 00:00:00 != computed [1, 3, 0]"
+  ],
+  "parser": "g6_brooklyn:parse_2025"
+}

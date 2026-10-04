@@ -18,7 +18,25 @@ sources:
   sheet_id: 1yPMEvFl7dnAL77xrRrHJe1vsaarQV3JyXkQxIaK7avs
   url: https://docs.google.com/spreadsheets/d/1yPMEvFl7dnAL77xrRrHJe1vsaarQV3JyXkQxIaK7avs/edit?gid=1049059372#gid=1049059372
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_icsbt:parse
+parser_options:
+  aliases:
+    Noho A: North Hollywood A
+    Noho B: North Hollywood B
+    SOG: School of Geology
+  de_rows:
+  - 2
+  - 56
+  de_ignore:
+  - - 10
+    - 14
+  - - 18
+    - 17
+  de_infer_only_cols:
+  - 2
+  champion: School of Geology
+  de_header_row: 57
+status: parsed
+notes: 24 teams in 4 pools (RR Scores grids, rounds from the schedule codes) plus the 30-game DE (School of Geology beat Iolani
+  in the final). 12 DE games have no scores in the sheet, so only the winner is taken from the bracket lines. There is no
+  stats source.

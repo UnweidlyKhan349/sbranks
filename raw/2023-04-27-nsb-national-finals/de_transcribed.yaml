@@ -1,0 +1,72 @@
+# Hand transcription of the 2023 HS double-elimination bracket images
+# de_no_loss.jpg  (https://science.osti.gov/-/media/wdts/nsb/images/2023-Finals/Scores/High-School-No-Loss-Bracket.jpg)
+# de_one_loss.jpg (https://science.osti.gov/-/media/wdts/nsb/images/2023-Finals/Scores/High-School-One-Loss-Bracket.jpg)
+# The images have no text layer. Team names are the bracket's short names; label "<Division>-<place>" is the
+# team's round-robin division finish (maps to the full name on round_robin.html). Rounds are the bracket's
+# time-slot numbers ("Round 1 4:00 PM" ... "Round 10 9:25 AM"). Winners are the names written on the next
+# line of the bracket ("Winner GM-n"); GM-32's winner is the "Champions" line.
+label_kind: division_place
+champion: Lexington
+games:
+- {game: '1', round: 1, bracket: no-loss, team1: North Hollywood, label1: Ames-1st, team2: Hunter College, label2: SLAC-4th, winner: North Hollywood}
+- {game: '2', round: 1, bracket: no-loss, team1: Middleton, label1: Princeton Plasma-2nd, team2: TJHSST, label2: Lawrence Berkeley-3rd, winner: Middleton}
+- {game: '3', round: 1, bracket: no-loss, team1: Lexington, label1: Brookhaven-1st, team2: Lakeside, label2: Savannah River-4th, winner: Lexington}
+- {game: '4', round: 1, bracket: no-loss, team1: Buchholz, label1: Renewable Energy-2nd, team2: East Lyme, label2: Fermi-3rd, winner: Buchholz}
+- {game: '5', round: 1, bracket: no-loss, team1: Westminster, label1: Fermi-1st, team2: "'Iolani", label2: Renewable Energy-4th, winner: Westminster}
+- {game: '6', round: 1, bracket: no-loss, team1: Dupont Manual, label1: Savannah River-2nd, team2: Mira Loma, label2: Brookhaven-3rd, winner: Mira Loma}
+- {game: '7', round: 1, bracket: no-loss, team1: Mission San Jose, label1: Lawrence Berkeley-1st, team2: Pullman, label2: Princeton Plasma-4th, winner: Mission San Jose}
+- {game: '8', round: 1, bracket: no-loss, team1: Clovis North, label1: SLAC-2nd, team2: American Heritage, label2: Ames-3rd, winner: Clovis North}
+- {game: '9', round: 1, bracket: no-loss, team1: Centennial, label1: Princeton Plasma-1st, team2: Ladue Horton Watkins, label2: Lawrence Berkeley-4th, winner: Centennial}
+- {game: '10', round: 1, bracket: no-loss, team1: Stockdale, label1: Ames-2nd, team2: Mountain View (WA), label2: SLAC-3rd, winner: Mountain View (WA)}
+- {game: '11', round: 1, bracket: no-loss, team1: Dulles, label1: Renewable Energy-1st, team2: Fossil Ridge, label2: Fermi-4th, winner: Dulles}
+- {game: '12', round: 1, bracket: no-loss, team1: Tesla STEM, label1: Brookhaven-2nd, team2: BASIS Peoria, label2: Savannah River-3rd, winner: BASIS Peoria}
+- {game: '13', round: 1, bracket: no-loss, team1: University, label1: Savannah River-1st, team2: Carmel, label2: Brookhaven-4th, winner: University}
+- {game: '14', round: 1, bracket: no-loss, team1: Saratoga, label1: Fermi-2nd, team2: Timberline, label2: Renewable Energy-3rd, winner: Saratoga}
+- {game: '15', round: 1, bracket: no-loss, team1: Enloe, label1: SLAC-1st, team2: Caddo Parish, label2: Ames-4th, winner: Enloe}
+- {game: '16', round: 1, bracket: no-loss, team1: BASIS San Antonio, label1: Lawrence Berkeley-2nd, team2: Davidson, label2: Princeton Plasma-3rd, winner: Davidson}
+- {game: '17', round: 2, bracket: no-loss, team1: North Hollywood, label1: Winner GM-1, team2: Middleton, label2: Winner GM-2, winner: North Hollywood}
+- {game: '18', round: 2, bracket: no-loss, team1: Lexington, label1: Winner GM-3, team2: Buchholz, label2: Winner GM-4, winner: Lexington}
+- {game: '19', round: 2, bracket: no-loss, team1: Westminster, label1: Winner GM-5, team2: Mira Loma, label2: Winner GM-6, winner: Mira Loma}
+- {game: '20', round: 2, bracket: no-loss, team1: Mission San Jose, label1: Winner GM-7, team2: Clovis North, label2: Winner GM-8, winner: Mission San Jose}
+- {game: '21', round: 2, bracket: no-loss, team1: Centennial, label1: Winner GM-9, team2: Mountain View (WA), label2: Winner GM-10, winner: Mountain View (WA)}
+- {game: '22', round: 2, bracket: no-loss, team1: Dulles, label1: Winner GM-11, team2: BASIS Peoria, label2: Winner GM-12, winner: Dulles}
+- {game: '23', round: 2, bracket: no-loss, team1: University, label1: Winner GM-13, team2: Saratoga, label2: Winner GM-14, winner: University}
+- {game: '24', round: 2, bracket: no-loss, team1: Enloe, label1: Winner GM-15, team2: Davidson, label2: Winner GM-16, winner: Davidson}
+- {game: 'A', round: 2, bracket: one-loss, team1: Hunter College, label1: One-Loss from GM-1, team2: TJHSST, label2: One-Loss from GM-2, winner: Hunter College}
+- {game: 'B', round: 2, bracket: one-loss, team1: Lakeside, label1: One-Loss from GM-3, team2: East Lyme, label2: One-Loss from GM-4, winner: East Lyme}
+- {game: 'C', round: 2, bracket: one-loss, team1: "'Iolani", label1: One-Loss from GM-5, team2: Dupont Manual, label2: One-Loss from GM-6, winner: "'Iolani"}
+- {game: 'D', round: 2, bracket: one-loss, team1: Pullman, label1: One-Loss from GM-7, team2: American Heritage, label2: One-Loss from GM-8, winner: Pullman}
+- {game: 'E', round: 2, bracket: one-loss, team1: Ladue Horton Watkins, label1: One-Loss from GM-9, team2: Stockdale, label2: One-Loss from GM-10, winner: Ladue Horton Watkins}
+- {game: 'F', round: 2, bracket: one-loss, team1: Fossil Ridge, label1: One-Loss from GM-11, team2: Tesla STEM, label2: One-Loss from GM-12, winner: Tesla STEM}
+- {game: 'G', round: 2, bracket: one-loss, team1: Carmel, label1: One-Loss from GM-13, team2: Timberline, label2: One-Loss from GM-14, winner: Carmel}
+- {game: 'H', round: 2, bracket: one-loss, team1: Caddo Parish, label1: One-Loss from GM-15, team2: BASIS San Antonio, label2: One-Loss from GM-16, winner: BASIS San Antonio}
+- {game: 'I', round: 3, bracket: one-loss, team1: Enloe, label1: One-Loss from GM-24, team2: Hunter College, label2: Winner GM-A, winner: Enloe}
+- {game: 'J', round: 3, bracket: one-loss, team1: Saratoga, label1: One-Loss from GM-23, team2: East Lyme, label2: Winner GM-B, winner: East Lyme}
+- {game: 'K', round: 3, bracket: one-loss, team1: BASIS Peoria, label1: One-Loss from GM-22, team2: "'Iolani", label2: Winner GM-C, winner: BASIS Peoria}
+- {game: 'L', round: 3, bracket: one-loss, team1: Centennial, label1: One-Loss from GM-21, team2: Pullman, label2: Winner GM-D, winner: Centennial}
+- {game: 'M', round: 3, bracket: one-loss, team1: Clovis North, label1: One-Loss from GM-20, team2: Ladue Horton Watkins, label2: Winner GM-E, winner: Ladue Horton Watkins}
+- {game: 'N', round: 3, bracket: one-loss, team1: Westminster, label1: One-Loss from GM-19, team2: Tesla STEM, label2: Winner GM-F, winner: Westminster}
+- {game: 'O', round: 3, bracket: one-loss, team1: Buchholz, label1: One-Loss from GM-18, team2: Carmel, label2: Winner GM-G, winner: Buchholz}
+- {game: 'P', round: 3, bracket: one-loss, team1: Middleton, label1: One-Loss from GM-17, team2: BASIS San Antonio, label2: Winner GM-H, winner: BASIS San Antonio}
+- {game: '25', round: 4, bracket: no-loss, team1: North Hollywood, label1: Winner GM-17, team2: Lexington, label2: Winner GM-18, winner: Lexington}
+- {game: '26', round: 4, bracket: no-loss, team1: Mira Loma, label1: Winner GM-19, team2: Mission San Jose, label2: Winner GM-20, winner: Mira Loma}
+- {game: '27', round: 4, bracket: no-loss, team1: Mountain View (WA), label1: Winner GM-21, team2: Dulles, label2: Winner GM-22, winner: Dulles}
+- {game: '28', round: 4, bracket: no-loss, team1: University, label1: Winner GM-23, team2: Davidson, label2: Winner GM-24, winner: University}
+- {game: 'Q', round: 4, bracket: one-loss, team1: Enloe, label1: Winner GM-I, team2: East Lyme, label2: Winner GM-J, winner: Enloe}
+- {game: 'R', round: 4, bracket: one-loss, team1: BASIS Peoria, label1: Winner GM-K, team2: Centennial, label2: Winner GM-L, winner: Centennial}
+- {game: 'S', round: 4, bracket: one-loss, team1: Ladue Horton Watkins, label1: Winner GM-M, team2: Westminster, label2: Winner GM-N, winner: Westminster}
+- {game: 'T', round: 4, bracket: one-loss, team1: Buchholz, label1: Winner GM-O, team2: BASIS San Antonio, label2: Winner GM-P, winner: Buchholz}
+- {game: 'U', round: 5, bracket: one-loss, team1: Enloe, label1: Winner GM-Q, team2: Mission San Jose, label2: One-Loss from GM-26, winner: Enloe}
+- {game: 'V', round: 5, bracket: one-loss, team1: Centennial, label1: Winner GM-R, team2: North Hollywood, label2: One-Loss from GM-25, winner: Centennial}
+- {game: 'W', round: 5, bracket: one-loss, team1: Westminster, label1: Winner GM-S, team2: Davidson, label2: One-Loss from GM-28, winner: Westminster}
+- {game: 'X', round: 5, bracket: one-loss, team1: Buchholz, label1: Winner GM-T, team2: Mountain View (WA), label2: One-Loss from GM-27, winner: Buchholz}
+- {game: '29', round: 6, bracket: no-loss, team1: Lexington, label1: Winner GM-25, team2: Mira Loma, label2: Winner GM-26, winner: Lexington}
+- {game: '30', round: 6, bracket: no-loss, team1: Dulles, label1: Winner GM-27, team2: University, label2: Winner GM-28, winner: University}
+- {game: 'Y', round: 6, bracket: one-loss, team1: Enloe, label1: Winner GM-U, team2: Centennial, label2: Winner GM-V, winner: Enloe}
+- {game: 'Z', round: 6, bracket: one-loss, team1: Westminster, label1: Winner GM-W, team2: Buchholz, label2: Winner GM-X, winner: Westminster}
+- {game: 'AA', round: 7, bracket: one-loss, team1: Dulles, label1: One-Loss from GM-30, team2: Enloe, label2: Winner GM-Y, winner: Enloe}
+- {game: 'BB', round: 7, bracket: one-loss, team1: Mira Loma, label1: One-Loss from GM-29, team2: Westminster, label2: Winner GM-Z, winner: Westminster}
+- {game: '31', round: 8, bracket: no-loss, team1: Lexington, label1: Winner GM-29, team2: University, label2: Winner GM-30, winner: Lexington}
+- {game: 'CC', round: 8, bracket: one-loss, team1: Enloe, label1: Winner GM-AA, team2: Westminster, label2: Winner GM-BB, winner: Westminster}
+- {game: 'DD', round: 9, bracket: one-loss, team1: University, label1: One-Loss from GM-31, team2: Westminster, label2: Winner GM-CC, winner: University}
+- {game: '32', round: 10, bracket: final, team1: University, label1: Winner GM-DD, team2: Lexington, label2: Winner GM-31, winner: Lexington}

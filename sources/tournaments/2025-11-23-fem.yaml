@@ -18,7 +18,12 @@ sources:
   sheet_id: 1WQ-yrxn58hwX6ivqABMdKeA8i12qNxUVy678c1aVXao
   url: https://docs.google.com/spreadsheets/d/1WQ-yrxn58hwX6ivqABMdKeA8i12qNxUVy678c1aVXao/edit?gid=2030484951#gid=2030484951
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_misc:parse_fem
+parser_options:
+  aliases:
+    Aracadia 1: Arcadia High School 1
+    WWPS: WWPS 1
+status: parsed
+notes: '47 teams in 8 pools plus the 30-game DE (School of Geology champion; the last two games have no scores in the sheet).
+  Player stats are rates only: overall ppg holds PP20TUH and subject ppg holds PP4TUH (bio/chem/phys/math/ess; no energy),
+  RR only, with no GP or TUH in the source. Four uncoded player rows were skipped.'

@@ -1,0 +1,26 @@
+{
+  "tournament_id": "2021-04-03-lost",
+  "counts": {
+    "teams": 40,
+    "games": 108,
+    "games_with_scores": 104,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "no-show teams (every entry a 0-point loss): ['LACES']",
+    "2 scheduled RR pairings have no result for either team (not played / not recorded)"
+  ],
+  "parser": "g3_lost_template:parse"
+}

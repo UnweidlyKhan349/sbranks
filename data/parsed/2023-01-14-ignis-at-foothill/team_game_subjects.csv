@@ -1,0 +1,457 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+g1,Cupertino B,other,4,4,0,1,1
+g1,Cupertino B,math,0,0,0,0,0
+g1,Cupertino B,chemistry,0,0,0,0,0
+g1,Cupertino B,ess,4,4,0,1,0
+g1,Cupertino B,biology,0,0,0,0,0
+g1,Cupertino B,physics,4,4,0,1,0
+g1,Stanford OHS,other,18,8,10,1,0
+g1,Stanford OHS,math,28,8,20,2,0
+g1,Stanford OHS,chemistry,26,16,10,4,0
+g1,Stanford OHS,ess,4,4,0,1,0
+g1,Stanford OHS,biology,28,8,20,2,0
+g1,Stanford OHS,physics,8,8,0,2,0
+g2,Mira Loma A,other,46,16,30,4,0
+g2,Mira Loma A,math,14,4,10,1,2
+g2,Mira Loma A,chemistry,42,12,30,3,1
+g2,Mira Loma A,ess,32,12,20,3,1
+g2,Mira Loma A,biology,56,16,40,4,0
+g2,Mira Loma A,physics,32,12,20,3,1
+g2,Saratoga B,other,0,0,0,0,0
+g2,Saratoga B,math,22,12,10,1,0
+g2,Saratoga B,chemistry,4,4,0,0,0
+g2,Saratoga B,ess,4,4,0,0,0
+g2,Saratoga B,biology,0,0,0,0,0
+g2,Saratoga B,physics,8,8,0,1,0
+g3,Mira Loma B,other,4,4,0,1,0
+g3,Mira Loma B,math,0,0,0,0,0
+g3,Mira Loma B,chemistry,56,16,40,4,0
+g3,Mira Loma B,ess,0,0,0,0,0
+g3,Mira Loma B,biology,14,4,10,1,0
+g3,Mira Loma B,physics,32,12,20,3,0
+g3,Saratoga A,other,32,12,20,3,0
+g3,Saratoga A,math,56,16,40,4,0
+g3,Saratoga A,chemistry,0,0,0,0,0
+g3,Saratoga A,ess,46,16,30,4,0
+g3,Saratoga A,biology,32,12,20,3,0
+g3,Saratoga A,physics,14,4,10,1,0
+g4,Palo Alto A,other,14,4,10,1,2
+g4,Palo Alto A,math,56,16,40,4,0
+g4,Palo Alto A,chemistry,42,12,30,3,0
+g4,Palo Alto A,ess,14,4,10,1,1
+g4,Palo Alto A,biology,18,8,10,2,1
+g4,Palo Alto A,physics,32,12,20,2,0
+g4,Palo Alto B,other,8,8,0,0,0
+g4,Palo Alto B,math,0,0,0,0,0
+g4,Palo Alto B,chemistry,4,4,0,1,0
+g4,Palo Alto B,ess,46,16,30,3,0
+g4,Palo Alto B,biology,8,8,0,1,0
+g4,Palo Alto B,physics,8,8,0,2,1
+g5,Mira Loma B,other,28,8,20,2,0
+g5,Mira Loma B,math,42,12,30,3,0
+g5,Mira Loma B,chemistry,42,12,30,3,0
+g5,Mira Loma B,ess,28,8,20,2,0
+g5,Mira Loma B,biology,22,12,10,3,0
+g5,Mira Loma B,physics,18,8,10,2,0
+g5,Palo Alto B,other,0,0,0,0,0
+g5,Palo Alto B,math,4,4,0,1,0
+g5,Palo Alto B,chemistry,14,4,10,1,0
+g5,Palo Alto B,ess,4,4,0,1,0
+g5,Palo Alto B,biology,0,0,0,0,0
+g5,Palo Alto B,physics,4,4,0,1,0
+g6,Cupertino A,other,18,8,10,2,0
+g6,Cupertino A,math,42,12,30,3,0
+g6,Cupertino A,chemistry,14,4,10,1,1
+g6,Cupertino A,ess,36,16,20,4,0
+g6,Cupertino A,biology,46,16,30,4,0
+g6,Cupertino A,physics,8,8,0,2,0
+g6,Stanford OHS,other,4,4,0,1,0
+g6,Stanford OHS,math,14,4,10,1,0
+g6,Stanford OHS,chemistry,32,12,20,2,0
+g6,Stanford OHS,ess,0,0,0,0,0
+g6,Stanford OHS,biology,0,0,0,0,0
+g6,Stanford OHS,physics,14,4,10,1,0
+g7,Cupertino B,other,14,4,10,1,0
+g7,Cupertino B,math,28,8,20,2,0
+g7,Cupertino B,chemistry,4,4,0,1,0
+g7,Cupertino B,ess,14,4,10,1,0
+g7,Cupertino B,biology,18,8,10,2,0
+g7,Cupertino B,physics,14,4,10,1,0
+g7,Saratoga B,other,0,0,0,0,0
+g7,Saratoga B,math,14,4,10,1,0
+g7,Saratoga B,chemistry,28,8,20,2,0
+g7,Saratoga B,ess,0,0,0,0,0
+g7,Saratoga B,biology,4,4,0,1,0
+g7,Saratoga B,physics,4,4,0,1,0
+g8,Mira Loma A,other,28,8,20,2,1
+g8,Mira Loma A,math,50,20,30,3,0
+g8,Mira Loma A,chemistry,42,12,30,3,0
+g8,Mira Loma A,ess,28,8,20,2,1
+g8,Mira Loma A,biology,32,12,20,3,1
+g8,Mira Loma A,physics,32,12,20,3,1
+g8,Saratoga A,other,18,8,10,1,0
+g8,Saratoga A,math,14,4,10,1,2
+g8,Saratoga A,chemistry,4,4,0,1,0
+g8,Saratoga A,ess,32,12,20,2,0
+g8,Saratoga A,biology,8,8,0,1,0
+g8,Saratoga A,physics,4,4,0,0,0
+g9,Saratoga A,other,56,16,40,4,0
+g9,Saratoga A,math,42,12,30,3,1
+g9,Saratoga A,chemistry,22,12,10,2,0
+g9,Saratoga A,ess,18,8,10,2,1
+g9,Saratoga A,biology,4,4,0,1,1
+g9,Saratoga A,physics,56,16,40,4,0
+g9,Cupertino B,other,0,0,0,0,0
+g9,Cupertino B,math,8,8,0,1,0
+g9,Cupertino B,chemistry,0,0,0,0,1
+g9,Cupertino B,ess,18,8,10,1,0
+g9,Cupertino B,biology,4,4,0,0,0
+g9,Cupertino B,physics,0,0,0,0,0
+g10,Mira Loma A,other,56,16,40,4,0
+g10,Mira Loma A,math,0,0,0,0,1
+g10,Mira Loma A,chemistry,28,8,20,2,1
+g10,Mira Loma A,ess,36,16,20,4,0
+g10,Mira Loma A,biology,28,8,20,2,1
+g10,Mira Loma A,physics,14,4,10,1,1
+g10,Mira Loma B,other,0,0,0,0,0
+g10,Mira Loma B,math,16,16,0,3,0
+g10,Mira Loma B,chemistry,18,8,10,1,0
+g10,Mira Loma B,ess,0,0,0,0,0
+g10,Mira Loma B,biology,22,12,10,2,0
+g10,Mira Loma B,physics,36,16,20,3,0
+g11,Palo Alto A,other,46,16,30,4,0
+g11,Palo Alto A,math,22,12,10,3,1
+g11,Palo Alto A,chemistry,14,4,10,1,0
+g11,Palo Alto A,ess,0,0,0,0,0
+g11,Palo Alto A,biology,8,8,0,2,0
+g11,Palo Alto A,physics,22,12,10,2,0
+g11,Stanford OHS,other,0,0,0,0,0
+g11,Stanford OHS,math,4,4,0,0,0
+g11,Stanford OHS,chemistry,0,0,0,0,0
+g11,Stanford OHS,ess,18,8,10,2,0
+g11,Stanford OHS,biology,18,8,10,2,0
+g11,Stanford OHS,physics,28,8,20,2,1
+g12,Cupertino A,other,32,12,20,3,0
+g12,Cupertino A,math,8,8,0,2,0
+g12,Cupertino A,chemistry,0,0,0,0,0
+g12,Cupertino A,ess,18,8,10,2,0
+g12,Cupertino A,biology,28,8,20,2,1
+g12,Cupertino A,physics,46,16,30,4,0
+g12,Saratoga B,other,4,4,0,1,0
+g12,Saratoga B,math,8,8,0,2,0
+g12,Saratoga B,chemistry,0,0,0,0,0
+g12,Saratoga B,ess,4,4,0,1,0
+g12,Saratoga B,biology,8,8,0,1,0
+g12,Saratoga B,physics,0,0,0,0,0
+g13,Palo Alto A,other,18,8,10,2,0
+g13,Palo Alto A,math,4,4,0,1,0
+g13,Palo Alto A,chemistry,4,4,0,1,0
+g13,Palo Alto A,ess,28,8,20,2,0
+g13,Palo Alto A,biology,4,4,0,1,0
+g13,Palo Alto A,physics,22,12,10,3,0
+g13,Saratoga B,other,0,0,0,0,0
+g13,Saratoga B,math,14,4,10,1,0
+g13,Saratoga B,chemistry,4,4,0,1,0
+g13,Saratoga B,ess,0,0,0,0,0
+g13,Saratoga B,biology,8,8,0,2,0
+g13,Saratoga B,physics,0,0,0,0,0
+g14,Saratoga A,other,22,12,10,2,0
+g14,Saratoga A,math,46,16,30,4,0
+g14,Saratoga A,chemistry,18,8,10,2,0
+g14,Saratoga A,ess,18,8,10,2,0
+g14,Saratoga A,biology,14,4,10,1,0
+g14,Saratoga A,physics,4,4,0,1,2
+g14,Cupertino A,other,18,8,10,2,1
+g14,Cupertino A,math,0,0,0,0,0
+g14,Cupertino A,chemistry,18,8,10,2,0
+g14,Cupertino A,ess,4,4,0,1,0
+g14,Cupertino A,biology,22,12,10,3,0
+g14,Cupertino A,physics,22,12,10,1,0
+g15,Cupertino B,other,0,0,0,0,0
+g15,Cupertino B,math,14,4,10,1,0
+g15,Cupertino B,chemistry,8,8,0,1,0
+g15,Cupertino B,ess,8,8,0,1,0
+g15,Cupertino B,biology,18,8,10,2,0
+g15,Cupertino B,physics,0,0,0,0,0
+g15,Mira Loma B,other,22,12,10,3,0
+g15,Mira Loma B,math,14,4,10,1,0
+g15,Mira Loma B,chemistry,28,8,20,2,1
+g15,Mira Loma B,ess,8,8,0,2,1
+g15,Mira Loma B,biology,18,8,10,2,0
+g15,Mira Loma B,physics,56,16,40,4,0
+g16,Mira Loma A,other,4,4,0,1,2
+g16,Mira Loma A,math,28,8,20,2,0
+g16,Mira Loma A,chemistry,28,8,20,2,2
+g16,Mira Loma A,ess,56,16,40,4,0
+g16,Mira Loma A,biology,36,16,20,3,0
+g16,Mira Loma A,physics,18,8,10,2,2
+g16,Palo Alto B,other,8,8,0,0,0
+g16,Palo Alto B,math,0,0,0,0,0
+g16,Palo Alto B,chemistry,22,12,10,1,0
+g16,Palo Alto B,ess,0,0,0,0,0
+g16,Palo Alto B,biology,0,0,0,0,1
+g16,Palo Alto B,physics,16,16,0,2,0
+g17,Cupertino B,other,0,0,0,0,0
+g17,Cupertino B,math,0,0,0,0,0
+g17,Cupertino B,chemistry,0,0,0,0,0
+g17,Cupertino B,ess,4,4,0,1,0
+g17,Cupertino B,biology,4,4,0,0,0
+g17,Cupertino B,physics,12,12,0,1,1
+g17,Mira Loma A,other,56,16,40,4,0
+g17,Mira Loma A,math,14,4,10,1,0
+g17,Mira Loma A,chemistry,56,16,40,4,0
+g17,Mira Loma A,ess,22,12,10,3,0
+g17,Mira Loma A,biology,18,8,10,2,1
+g17,Mira Loma A,physics,32,12,20,2,2
+g18,Palo Alto B,other,4,4,0,0,0
+g18,Palo Alto B,math,14,4,10,1,0
+g18,Palo Alto B,chemistry,4,4,0,1,0
+g18,Palo Alto B,ess,0,0,0,0,1
+g18,Palo Alto B,biology,0,0,0,0,0
+g18,Palo Alto B,physics,4,4,0,0,0
+g18,Stanford OHS,other,8,8,0,2,1
+g18,Stanford OHS,math,0,0,0,0,0
+g18,Stanford OHS,chemistry,4,4,0,1,0
+g18,Stanford OHS,ess,4,4,0,0,0
+g18,Stanford OHS,biology,0,0,0,0,0
+g18,Stanford OHS,physics,0,0,0,0,1
+g19,Palo Alto A,other,18,8,10,1,0
+g19,Palo Alto A,math,14,4,10,1,0
+g19,Palo Alto A,chemistry,8,8,0,1,0
+g19,Palo Alto A,ess,8,8,0,0,0
+g19,Palo Alto A,biology,0,0,0,0,1
+g19,Palo Alto A,physics,18,8,10,1,0
+g19,Saratoga A,other,18,8,10,2,1
+g19,Saratoga A,math,42,12,30,3,0
+g19,Saratoga A,chemistry,0,0,0,0,1
+g19,Saratoga A,ess,8,8,0,2,2
+g19,Saratoga A,biology,46,16,30,3,0
+g19,Saratoga A,physics,18,8,10,2,1
+g20,Mira Loma B,other,0,0,0,0,1
+g20,Mira Loma B,math,4,4,0,1,1
+g20,Mira Loma B,chemistry,28,8,20,2,0
+g20,Mira Loma B,ess,16,16,0,3,0
+g20,Mira Loma B,biology,18,8,10,2,0
+g20,Mira Loma B,physics,18,8,10,2,2
+g20,Cupertino A,other,36,16,20,3,0
+g20,Cupertino A,math,46,16,30,3,0
+g20,Cupertino A,chemistry,8,8,0,2,0
+g20,Cupertino A,ess,4,4,0,1,1
+g20,Cupertino A,biology,4,4,0,1,0
+g20,Cupertino A,physics,22,12,10,1,0
+g21,Saratoga B,other,0,0,0,0,0
+g21,Saratoga B,math,14,4,10,1,0
+g21,Saratoga B,chemistry,8,8,0,2,0
+g21,Saratoga B,ess,4,4,0,1,0
+g21,Saratoga B,biology,4,4,0,1,0
+g21,Saratoga B,physics,8,8,0,1,0
+g21,Stanford OHS,other,14,4,10,1,0
+g21,Stanford OHS,math,4,4,0,1,0
+g21,Stanford OHS,chemistry,0,0,0,0,0
+g21,Stanford OHS,ess,28,8,20,2,0
+g21,Stanford OHS,biology,4,4,0,1,0
+g21,Stanford OHS,physics,28,8,20,2,1
+g22,Mira Loma B,other,0,0,0,0,1
+g22,Mira Loma B,math,32,12,20,3,0
+g22,Mira Loma B,chemistry,32,12,20,3,0
+g22,Mira Loma B,ess,4,4,0,1,0
+g22,Mira Loma B,biology,0,0,0,0,1
+g22,Mira Loma B,physics,28,8,20,2,0
+g22,Palo Alto A,other,32,12,20,2,0
+g22,Palo Alto A,math,0,0,0,0,0
+g22,Palo Alto A,chemistry,4,4,0,1,0
+g22,Palo Alto A,ess,0,0,0,0,0
+g22,Palo Alto A,biology,8,8,0,1,0
+g22,Palo Alto A,physics,14,4,10,1,0
+g23,Cupertino A,other,18,8,10,1,1
+g23,Cupertino A,math,14,4,10,1,1
+g23,Cupertino A,chemistry,14,4,10,1,0
+g23,Cupertino A,ess,18,8,10,1,0
+g23,Cupertino A,biology,18,8,10,1,1
+g23,Cupertino A,physics,18,8,10,1,1
+g23,Mira Loma A,other,36,16,20,3,1
+g23,Mira Loma A,math,32,12,20,2,0
+g23,Mira Loma A,chemistry,22,12,10,3,0
+g23,Mira Loma A,ess,32,12,20,3,1
+g23,Mira Loma A,biology,32,12,20,2,1
+g23,Mira Loma A,physics,36,16,20,3,1
+g24,Palo Alto B,other,14,4,10,1,1
+g24,Palo Alto B,math,4,4,0,1,0
+g24,Palo Alto B,chemistry,0,0,0,0,0
+g24,Palo Alto B,ess,18,8,10,2,0
+g24,Palo Alto B,biology,0,0,0,0,0
+g24,Palo Alto B,physics,0,0,0,0,0
+g24,Cupertino B,other,4,4,0,0,0
+g24,Cupertino B,math,0,0,0,0,0
+g24,Cupertino B,chemistry,8,8,0,2,0
+g24,Cupertino B,ess,4,4,0,1,0
+g24,Cupertino B,biology,4,4,0,1,0
+g24,Cupertino B,physics,4,4,0,1,0
+g25,Cupertino A,other,32,12,20,3,0
+g25,Cupertino A,math,18,8,10,2,0
+g25,Cupertino A,chemistry,12,12,0,2,0
+g25,Cupertino A,ess,14,4,10,1,0
+g25,Cupertino A,biology,12,12,0,3,0
+g25,Cupertino A,physics,4,4,0,1,0
+g25,Cupertino B,other,4,4,0,1,0
+g25,Cupertino B,math,0,0,0,0,0
+g25,Cupertino B,chemistry,18,8,10,2,1
+g25,Cupertino B,ess,18,8,10,2,0
+g25,Cupertino B,biology,0,0,0,0,0
+g25,Cupertino B,physics,4,4,0,1,0
+g26,Saratoga A,other,42,12,30,3,0
+g26,Saratoga A,math,18,8,10,1,1
+g26,Saratoga A,chemistry,32,12,20,3,0
+g26,Saratoga A,ess,4,4,0,1,0
+g26,Saratoga A,biology,28,8,20,2,0
+g26,Saratoga A,physics,28,8,20,2,0
+g26,Stanford OHS,other,0,0,0,0,0
+g26,Stanford OHS,math,4,4,0,0,1
+g26,Stanford OHS,chemistry,0,0,0,0,0
+g26,Stanford OHS,ess,0,0,0,0,0
+g26,Stanford OHS,biology,4,4,0,1,0
+g26,Stanford OHS,physics,14,4,10,1,0
+g27,Palo Alto B,other,0,0,0,0,0
+g27,Palo Alto B,math,0,0,0,0,0
+g27,Palo Alto B,chemistry,4,4,0,1,0
+g27,Palo Alto B,ess,0,0,0,0,0
+g27,Palo Alto B,biology,8,8,0,2,0
+g27,Palo Alto B,physics,0,0,0,0,0
+g27,Saratoga B,other,4,4,0,1,0
+g27,Saratoga B,math,8,8,0,2,0
+g27,Saratoga B,chemistry,8,8,0,2,0
+g27,Saratoga B,ess,4,4,0,1,0
+g27,Saratoga B,biology,4,4,0,1,0
+g27,Saratoga B,physics,22,12,10,3,0
+g28,Palo Alto A,other,28,8,20,2,0
+g28,Palo Alto A,math,14,4,10,1,1
+g28,Palo Alto A,chemistry,8,8,0,1,0
+g28,Palo Alto A,ess,4,4,0,1,0
+g28,Palo Alto A,biology,8,8,0,1,0
+g28,Palo Alto A,physics,4,4,0,0,0
+g28,Mira Loma A,other,0,0,0,0,0
+g28,Mira Loma A,math,22,12,10,2,0
+g28,Mira Loma A,chemistry,18,8,10,2,1
+g28,Mira Loma A,ess,18,8,10,2,0
+g28,Mira Loma A,biology,28,8,20,2,1
+g28,Mira Loma A,physics,14,4,10,1,1
+g29,Saratoga A,other,4,4,0,1,0
+g29,Saratoga A,math,14,4,10,1,0
+g29,Saratoga A,chemistry,8,8,0,2,0
+g29,Saratoga A,ess,32,12,20,3,0
+g29,Saratoga A,biology,4,4,0,1,0
+g29,Saratoga A,physics,22,12,10,3,0
+g29,Saratoga B,other,4,4,0,1,0
+g29,Saratoga B,math,4,4,0,1,0
+g29,Saratoga B,chemistry,4,4,0,1,0
+g29,Saratoga B,ess,4,4,0,1,0
+g29,Saratoga B,biology,8,8,0,2,0
+g29,Saratoga B,physics,0,0,0,0,0
+g30,Stanford OHS,other,18,8,10,2,0
+g30,Stanford OHS,math,0,0,0,0,0
+g30,Stanford OHS,chemistry,22,12,10,2,0
+g30,Stanford OHS,ess,0,0,0,0,0
+g30,Stanford OHS,biology,0,0,0,0,0
+g30,Stanford OHS,physics,0,0,0,0,0
+g30,Mira Loma B,other,0,0,0,0,0
+g30,Mira Loma B,math,8,8,0,2,0
+g30,Mira Loma B,chemistry,18,8,10,2,1
+g30,Mira Loma B,ess,18,8,10,2,0
+g30,Mira Loma B,biology,4,4,0,1,0
+g30,Mira Loma B,physics,12,12,0,3,0
+g31,Palo Alto A,other,8,8,0,2,0
+g31,Palo Alto A,math,4,4,0,1,0
+g31,Palo Alto A,chemistry,18,8,10,2,0
+g31,Palo Alto A,ess,0,0,0,0,0
+g31,Palo Alto A,biology,8,8,0,2,2
+g31,Palo Alto A,physics,12,12,0,3,0
+g31,Cupertino B,other,0,0,0,0,0
+g31,Cupertino B,math,0,0,0,0,0
+g31,Cupertino B,chemistry,8,8,0,2,0
+g31,Cupertino B,ess,14,4,10,1,0
+g31,Cupertino B,biology,8,8,0,0,0
+g31,Cupertino B,physics,0,0,0,0,0
+g32,Palo Alto B,other,4,4,0,1,0
+g32,Palo Alto B,math,4,4,0,1,0
+g32,Palo Alto B,chemistry,14,4,10,1,0
+g32,Palo Alto B,ess,14,4,10,1,0
+g32,Palo Alto B,biology,0,0,0,0,0
+g32,Palo Alto B,physics,4,4,0,1,0
+g32,Cupertino A,other,14,4,10,1,0
+g32,Cupertino A,math,4,4,0,1,0
+g32,Cupertino A,chemistry,32,12,20,3,0
+g32,Cupertino A,ess,18,8,10,2,0
+g32,Cupertino A,biology,22,12,10,3,0
+g32,Cupertino A,physics,4,4,0,1,0
+g33,Cupertino A,other,4,4,0,1,1
+g33,Cupertino A,math,0,0,0,0,0
+g33,Cupertino A,chemistry,4,4,0,1,0
+g33,Cupertino A,ess,22,12,10,3,0
+g33,Cupertino A,biology,14,4,10,1,0
+g33,Cupertino A,physics,4,4,0,1,0
+g33,Palo Alto A,other,12,12,0,2,0
+g33,Palo Alto A,math,0,0,0,0,0
+g33,Palo Alto A,chemistry,8,8,0,2,0
+g33,Palo Alto A,ess,0,0,0,0,0
+g33,Palo Alto A,biology,18,8,10,2,0
+g33,Palo Alto A,physics,4,4,0,1,0
+g34,Saratoga B,other,4,4,0,0,0
+g34,Saratoga B,math,0,0,0,0,0
+g34,Saratoga B,chemistry,0,0,0,0,0
+g34,Saratoga B,ess,0,0,0,0,0
+g34,Saratoga B,biology,4,4,0,1,0
+g34,Saratoga B,physics,4,4,0,1,0
+g34,Mira Loma B,other,0,0,0,0,1
+g34,Mira Loma B,math,0,0,0,0,0
+g34,Mira Loma B,chemistry,18,8,10,2,0
+g34,Mira Loma B,ess,32,12,20,3,0
+g34,Mira Loma B,biology,14,4,10,1,0
+g34,Mira Loma B,physics,14,4,10,1,0
+g35,Palo Alto B,other,4,4,0,1,0
+g35,Palo Alto B,math,0,0,0,0,0
+g35,Palo Alto B,chemistry,0,0,0,0,0
+g35,Palo Alto B,ess,0,0,0,0,0
+g35,Palo Alto B,biology,4,4,0,1,0
+g35,Palo Alto B,physics,0,0,0,0,0
+g35,Saratoga A,other,8,8,0,2,0
+g35,Saratoga A,math,28,8,20,2,0
+g35,Saratoga A,chemistry,18,8,10,2,0
+g35,Saratoga A,ess,22,12,10,3,0
+g35,Saratoga A,biology,32,12,20,3,0
+g35,Saratoga A,physics,4,4,0,1,0
+g36,Mira Loma A,other,32,12,20,3,0
+g36,Mira Loma A,math,0,0,0,0,0
+g36,Mira Loma A,chemistry,46,16,30,4,0
+g36,Mira Loma A,ess,46,16,30,4,0
+g36,Mira Loma A,biology,22,12,10,3,0
+g36,Mira Loma A,physics,8,8,0,2,0
+g36,Stanford OHS,other,0,0,0,0,0
+g36,Stanford OHS,math,0,0,0,0,0
+g36,Stanford OHS,chemistry,0,0,0,0,0
+g36,Stanford OHS,ess,0,0,0,0,0
+g36,Stanford OHS,biology,0,0,0,0,0
+g36,Stanford OHS,physics,4,4,0,1,0
+g37,Mira Loma A,other,0,0,0,0,1
+g37,Mira Loma A,math,0,0,0,0,0
+g37,Mira Loma A,chemistry,32,12,20,3,1
+g37,Mira Loma A,ess,14,4,10,1,2
+g37,Mira Loma A,biology,22,12,10,3,1
+g37,Mira Loma A,physics,18,8,10,2,2
+g37,Saratoga A,other,22,12,10,2,0
+g37,Saratoga A,math,46,16,30,4,0
+g37,Saratoga A,chemistry,4,4,0,0,0
+g37,Saratoga A,ess,22,12,10,1,0
+g37,Saratoga A,biology,18,8,10,1,0
+g37,Saratoga A,physics,12,12,0,1,0
+g38,Mira Loma A,other,14,4,10,1,2
+g38,Mira Loma A,math,0,0,0,0,0
+g38,Mira Loma A,chemistry,8,8,0,2,1
+g38,Mira Loma A,ess,14,4,10,1,0
+g38,Mira Loma A,biology,14,4,10,1,1
+g38,Mira Loma A,physics,14,4,10,1,0
+g38,Saratoga A,other,30,20,10,3,0
+g38,Saratoga A,math,4,4,0,1,0
+g38,Saratoga A,chemistry,12,12,0,2,0
+g38,Saratoga A,ess,8,8,0,2,0
+g38,Saratoga A,biology,8,8,0,1,0
+g38,Saratoga A,physics,14,4,10,1,0

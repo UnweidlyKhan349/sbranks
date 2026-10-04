@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SBRanks</title>
+<meta name="description" content="Elo-style ratings and rankings for US high-school Science Bowl teams and players, overall and by subject.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232a78d6'/%3E%3Cpath d='M8 23 L14 15 L18 19 L24 9' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  // Apply the saved theme before first paint (system | light | dark).
+  (function () {
+    try {
+      var t = localStorage.getItem("sbranks-theme");
+      if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
+    } catch (e) { /* storage unavailable: follow the system */ }
+  })();
+</script>
+<script type="module" src="js/app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#/" data-skip>Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="#/" aria-label="SBRanks home">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7"></rect><path d="M8 23 L14 15 L18 19 L24 9"></path></svg>
+      <span class="brand-name">SBRanks</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="#/teams" data-nav="teams">Teams</a>
+      <a href="#/players" data-nav="players">Players</a>
+      <a href="#/tournaments" data-nav="tournaments">Tournaments</a>
+      <a href="#/nationals" data-nav="nationals">Nationals</a>
+      <a href="#/compare" data-nav="compare">Compare</a>
+      <a href="#/about" data-nav="about">About</a>
+    </nav>
+    <div class="header-tools">
+      <div class="search" id="global-search"></div>
+      <div class="theme-toggle" role="group" aria-label="Color theme" id="theme-toggle"></div>
+    </div>
+  </div>
+</header>
+<main id="main" class="wrap" tabindex="-1">
+  <div class="state state-loading" role="status"><span class="spinner" aria-hidden="true"></span>Loading…</div>
+</main>
+<footer class="site-footer">
+  <div class="wrap" id="footer"></div>
+</footer>
+<div id="tip" class="tip" role="tooltip" hidden></div>
+<noscript><p class="wrap">SBRanks needs JavaScript to display the ratings.</p></noscript>
+</body>
+</html>

@@ -21,17 +21,36 @@ sources:
   role: stats
   url: https://prometheus.science/2022/statistics
   file: stats.html
-- kind: url
+- kind: manual
   role: results
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTWKALd-esT5infUw2X8X98ingdZ8R_q11cds5_w3KSx76QBWmIVC9yA8oLb3NetFwN4FNCvw3ItVMW/pub?output=xlsx
-  file: results_sheet.xlsx
-  note: Published Google Sheet embedded (iframe) in results.html
-- kind: url
+  file: results_sheet/manifest.json
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTWKALd-esT5infUw2X8X98ingdZ8R_q11cds5_w3KSx76QBWmIVC9yA8oLb3NetFwN4FNCvw3ItVMW/pubhtml
+  note: Published Google Sheet embedded in results.html; pub?output=xlsx returns HTTP 400, so each tab was saved as CSV +
+    HTML by pipeline/parsers/tools/g2_fetch_pubsheet.py (python -m pipeline.parsers.tools.g2_fetch_pubsheet 2022-03-26-prometheus
+    results_sheet <url>)
+- kind: manual
   role: stats
-  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vT5SvZ6CbMM1ez9v0dTOEP28BSZjo2HRuPxGtv_8exCxt8tOd-8uErgv121v-aYYV0J-G2W_WSiXWez/pub?output=xlsx
-  file: stats_sheet.xlsx
-  note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+  file: stats_sheet/manifest.json
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vT5SvZ6CbMM1ez9v0dTOEP28BSZjo2HRuPxGtv_8exCxt8tOd-8uErgv121v-aYYV0J-G2W_WSiXWez/pubhtml
+  note: Published Google Sheet embedded in stats.html; saved tab by tab like results_sheet/
+parser: g2_prometheus:parse
+parser_options:
+  schools:
+    Lexington: Lexington High School
+    Ames: Ames High School
+    Brookfield: Brookfield Central High School
+    Lynbrook: Lynbrook High School
+  states:
+    Lexington: MA
+    Ames: IA
+    Brookfield: WI
+    Lynbrook: CA
+  name_lookup:
+  - 2023-02-04-ignis-virtual-west
+  - 2023-04-02-olympus
+status: parsed
+notes: Results and stats are published Google Sheets whose xlsx export fails; tabs were saved as CSV (results_sheet/, stats_sheet/).
+  16 RR divisions (no round numbers in the source; 7 0-0 forfeits flagged, results kept) + 32-team double-elimination bracket.
+  Prelim (RR-only) player stats per category (Longtermism -> 'other'); first names only, 78 players given full names via their
+  Google account id in the 2023 Prometheus account lists; same-team duplicate first names suffixed (1)/(2). Stats GP for a
+  few teams exceed their RR games (fill-in teams Seekonk/Beach/MELHS are not in the results).

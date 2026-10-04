@@ -21,7 +21,43 @@ sources:
   role: stats
   url: https://eyrieshub.fly.dev/stats
   file: stats.html
-parser: null
+- kind: url
+  role: other
+  url: https://eyrieshub.fly.dev/
+  file: home.html
+- kind: url
+  role: results
+  url: https://eyrieshub.fly.dev/rrscores
+  file: rrscores.html
+- kind: url
+  role: results
+  url: https://eyrieshub.fly.dev/rrrank
+  file: rrrank.html
+- kind: url
+  role: results
+  url: https://eyrieshub.fly.dev/sebracket
+  file: sebracket.html
+- kind: url
+  role: other
+  url: https://eyrieshub.fly.dev/schedule
+  file: schedule.html
+- kind: gsheet
+  role: schedule
+  sheet_id: 1aoTu_d9iDFMe6rEXC81L55RiNHMJK8-TbCQOAI4ioV8
+  url: https://docs.google.com/spreadsheets/d/1aoTu_d9iDFMe6rEXC81L55RiNHMJK8-TbCQOAI4ioV8/edit?gid=1256848458
+  file: schedule.xlsx
+- kind: manual
+  role: results+stats
+  file: eyrie/
+  url: https://eyrieshub.fly.dev/game/<n> and https://eyrieshub.fly.dev/stats/<uid>
+  note: per-game scoresheets (225 pages) and player pages (330); fetched with python -m pipeline.parsers.tools.g1_fetch_eyrie
+    2026-01-10-aves-2
+parser: g1_eyrie:parse
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 'Eyrie hub: 175 RR games (RR grid; rounds from the organiser''s schedule sheet), 30 DE and 15 SE (places 17-32, stage
+  consolation) games, all re-derived from per-question scoresheets (game pages) -> team_game_subjects, player_game_stats,
+  player stats with full names from the player pages. Scope rr reproduces the site''s player pages exactly (gp/tuh from halves
+  played); scope playoff from DE/SE scoresheets (TUH only when the roster had <=4 players). BISV 3 withdrew (5 unplayed games,
+  team omitted); State College Area 2 (no players, 0 points) games and three 1-tossup games (incl. WB final and grand final,
+  The Frazer School 1 champion) are flagged forfeit. No energy category in this set.'

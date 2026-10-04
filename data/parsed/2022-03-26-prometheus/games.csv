@@ -1,0 +1,307 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,,1,Canyon Crest A,Dulles A,4,174,2,0,division Ampere
+g2,rr,,1,Canyon Crest A,Fremd A,,,2,1,division Ampere; 0-0 with a W/L in the source: forfeit
+g3,rr,,1,Canyon Crest A,Minnetonka,,,2,1,division Ampere; 0-0 with a W/L in the source: forfeit
+g4,rr,,1,Canyon Crest A,Montgomery,26,50,2,0,division Ampere
+g5,rr,,1,Canyon Crest A,SCGSSM B,24,30,2,0,division Ampere
+g6,rr,,1,Canyon Crest A,Wootton B,,,2,1,division Ampere; 0-0 with a W/L in the source: forfeit
+g7,rr,,1,Dulles A,Fremd A,140,30,1,0,division Ampere
+g8,rr,,1,Dulles A,Minnetonka,112,106,1,0,division Ampere
+g9,rr,,1,Dulles A,Montgomery,164,24,1,0,division Ampere
+g10,rr,,1,Dulles A,SCGSSM B,162,12,1,0,division Ampere
+g11,rr,,1,Dulles A,Wootton B,126,4,1,0,division Ampere
+g12,rr,,1,Fremd A,Minnetonka,46,54,2,0,division Ampere
+g13,rr,,1,Fremd A,Montgomery,58,12,1,0,division Ampere
+g14,rr,,1,Fremd A,SCGSSM B,90,4,1,0,division Ampere
+g15,rr,,1,Fremd A,Wootton B,58,26,1,0,division Ampere
+g16,rr,,1,Minnetonka,Montgomery,180,8,1,0,division Ampere
+g17,rr,,1,Minnetonka,SCGSSM B,128,12,1,0,division Ampere
+g18,rr,,1,Minnetonka,Wootton B,66,8,1,0,division Ampere
+g19,rr,,1,Montgomery,SCGSSM B,18,12,1,0,division Ampere
+g20,rr,,1,Montgomery,Wootton B,38,4,1,0,division Ampere
+g21,rr,,1,SCGSSM B,Wootton B,8,32,2,0,division Ampere
+g22,rr,,1,Arcadia A,Beckman A,88,22,1,0,division Bohr
+g23,rr,,1,Arcadia A,HHR B,68,20,1,0,division Bohr
+g24,rr,,1,Arcadia A,Horace Mann,44,36,1,0,division Bohr
+g25,rr,,1,Arcadia A,Lynbrook,20,206,2,0,division Bohr
+g26,rr,,1,Beckman A,HHR B,58,8,1,0,division Bohr
+g27,rr,,1,Beckman A,Horace Mann,66,46,1,0,division Bohr
+g28,rr,,1,Beckman A,Lynbrook,40,102,2,0,division Bohr
+g29,rr,,1,HHR B,Horace Mann,12,12,T,0,division Bohr
+g30,rr,,1,HHR B,Lynbrook,4,166,2,0,division Bohr
+g31,rr,,1,Horace Mann,Lynbrook,0,260,2,0,division Bohr
+g32,rr,,1,ASFA B,BRHS A,24,64,2,0,division Curie
+g33,rr,,1,ASFA B,Enloe A,,,2,1,division Curie; 0-0 with a W/L in the source: forfeit
+g34,rr,,1,ASFA B,Lindbergh,48,16,1,0,division Curie
+g35,rr,,1,ASFA B,RMHS B,38,58,2,0,division Curie
+g36,rr,,1,ASFA B,Venice,32,112,2,0,division Curie
+g37,rr,,1,ASFA B,WWP North,,,2,1,division Curie; 0-0 with a W/L in the source: forfeit
+g38,rr,,1,BRHS A,Enloe A,74,162,2,0,division Curie
+g39,rr,,1,BRHS A,Lindbergh,44,34,1,0,division Curie
+g40,rr,,1,BRHS A,RMHS B,68,8,1,0,division Curie
+g41,rr,,1,BRHS A,Venice,70,58,1,0,division Curie
+g42,rr,,1,BRHS A,WWP North,120,114,1,0,division Curie
+g43,rr,,1,Enloe A,Lindbergh,128,50,1,0,division Curie
+g44,rr,,1,Enloe A,RMHS B,94,26,1,0,division Curie
+g45,rr,,1,Enloe A,Venice,148,76,1,0,division Curie
+g46,rr,,1,Enloe A,WWP North,194,50,1,0,division Curie
+g47,rr,,1,Lindbergh,RMHS B,34,26,1,0,division Curie
+g48,rr,,1,Lindbergh,Venice,46,134,2,0,division Curie
+g49,rr,,1,Lindbergh,WWP North,20,56,2,0,division Curie
+g50,rr,,1,RMHS B,Venice,20,82,2,0,division Curie
+g51,rr,,1,RMHS B,WWP North,52,70,2,0,division Curie
+g52,rr,,1,Venice,WWP North,72,92,2,0,division Curie
+g53,rr,,1,AAH,Blair,26,166,2,0,division Darwin
+g54,rr,,1,AAH,BRHS B,30,20,1,0,division Darwin
+g55,rr,,1,AAH,Cupertino,30,78,2,0,division Darwin
+g56,rr,,1,AAH,Dougherty B,94,8,1,0,division Darwin
+g57,rr,,1,AAH,Miramonte,58,44,1,0,division Darwin
+g58,rr,,1,Blair,BRHS B,110,52,1,0,division Darwin
+g59,rr,,1,Blair,Cupertino,122,94,1,0,division Darwin
+g60,rr,,1,Blair,Dougherty B,160,4,1,0,division Darwin
+g61,rr,,1,Blair,Miramonte,150,28,1,0,division Darwin
+g62,rr,,1,BRHS B,Cupertino,4,88,2,0,division Darwin
+g63,rr,,1,BRHS B,Dougherty B,8,16,2,0,division Darwin
+g64,rr,,1,BRHS B,Miramonte,16,110,2,0,division Darwin
+g65,rr,,1,Cupertino,Dougherty B,178,4,1,0,division Darwin
+g66,rr,,1,Cupertino,Miramonte,172,44,1,0,division Darwin
+g67,rr,,1,Dougherty B,Miramonte,36,52,2,0,division Darwin
+g68,rr,,1,Fremd B,Mira Loma B,4,124,2,0,division Einstein
+g69,rr,,1,Fremd B,Olympia,0,40,2,0,division Einstein
+g70,rr,,1,Fremd B,Peddie,8,98,2,0,division Einstein
+g71,rr,,1,Fremd B,Stanford OHS A,48,30,1,0,division Einstein
+g72,rr,,1,Fremd B,Van Nuys,8,68,2,0,division Einstein
+g73,rr,,1,Mira Loma B,Olympia,88,8,1,0,division Einstein
+g74,rr,,1,Mira Loma B,Peddie,60,94,2,0,division Einstein
+g75,rr,,1,Mira Loma B,Stanford OHS A,132,16,1,0,division Einstein
+g76,rr,,1,Mira Loma B,Van Nuys,102,66,1,0,division Einstein
+g77,rr,,1,Olympia,Peddie,12,58,2,0,division Einstein
+g78,rr,,1,Olympia,Stanford OHS A,44,38,1,0,division Einstein
+g79,rr,,1,Olympia,Van Nuys,52,42,1,0,division Einstein
+g80,rr,,1,Peddie,Stanford OHS A,80,12,1,0,division Einstein
+g81,rr,,1,Peddie,Van Nuys,22,60,2,0,division Einstein
+g82,rr,,1,Stanford OHS A,Van Nuys,22,22,T,0,division Einstein
+g83,rr,,1,Arcadia B,CBA Albany,44,20,1,0,division Franklin
+g84,rr,,1,Arcadia B,Northview,54,64,2,0,division Franklin
+g85,rr,,1,Arcadia B,Shen,64,48,1,0,division Franklin
+g86,rr,,1,Arcadia B,Wayzata,42,206,2,0,division Franklin
+g87,rr,,1,Arcadia B,Whitney Young A,66,90,2,0,division Franklin
+g88,rr,,1,CBA Albany,Northview,26,58,2,0,division Franklin
+g89,rr,,1,CBA Albany,Shen,16,104,2,0,division Franklin
+g90,rr,,1,CBA Albany,Wayzata,32,100,2,0,division Franklin
+g91,rr,,1,CBA Albany,Whitney Young A,36,104,2,0,division Franklin
+g92,rr,,1,Northview,Shen,62,76,2,0,division Franklin
+g93,rr,,1,Northview,Wayzata,14,172,2,0,division Franklin
+g94,rr,,1,Northview,Whitney Young A,60,90,2,0,division Franklin
+g95,rr,,1,Shen,Wayzata,104,136,2,0,division Franklin
+g96,rr,,1,Shen,Whitney Young A,88,72,1,0,division Franklin
+g97,rr,,1,Wayzata,Whitney Young A,104,34,1,0,division Franklin
+g98,rr,,1,ASFA A,Marquette B,80,28,1,0,division Goodall
+g99,rr,,1,ASFA A,MSJ A,64,172,2,0,division Goodall
+g100,rr,,1,ASFA A,Stanford OHS B,86,70,1,0,division Goodall
+g101,rr,,1,ASFA A,Ward Melville A,84,48,1,0,division Goodall
+g102,rr,,1,Marquette B,MSJ A,12,176,2,0,division Goodall
+g103,rr,,1,Marquette B,Stanford OHS B,54,78,2,0,division Goodall
+g104,rr,,1,Marquette B,Ward Melville A,16,108,2,0,division Goodall
+g105,rr,,1,MSJ A,Stanford OHS B,142,76,1,0,division Goodall
+g106,rr,,1,MSJ A,Ward Melville A,94,48,1,0,division Goodall
+g107,rr,,1,Stanford OHS B,Ward Melville A,52,50,1,0,division Goodall
+g108,rr,,1,Catlin Gabel,Clovis North,44,70,2,0,division Hawking
+g109,rr,,1,Catlin Gabel,Pleasanton,54,48,1,0,division Hawking
+g110,rr,,1,Catlin Gabel,Stuy A,8,84,2,0,division Hawking
+g111,rr,,1,Catlin Gabel,Ward Melville B,94,20,1,0,division Hawking
+g112,rr,,1,Catlin Gabel,Wheaton,76,16,1,0,division Hawking
+g113,rr,,1,Clovis North,Pleasanton,106,34,1,0,division Hawking
+g114,rr,,1,Clovis North,Stuy A,82,64,1,0,division Hawking
+g115,rr,,1,Clovis North,Ward Melville B,90,36,1,0,division Hawking
+g116,rr,,1,Clovis North,Wheaton,52,50,1,0,division Hawking
+g117,rr,,1,Pleasanton,Stuy A,74,48,1,0,division Hawking
+g118,rr,,1,Pleasanton,Ward Melville B,26,42,2,0,division Hawking
+g119,rr,,1,Pleasanton,Wheaton,66,42,1,0,division Hawking
+g120,rr,,1,Stuy A,Ward Melville B,128,36,1,0,division Hawking
+g121,rr,,1,Stuy A,Wheaton,96,26,1,0,division Hawking
+g122,rr,,1,Ward Melville B,Wheaton,48,20,1,0,division Hawking
+g123,rr,,1,Beckman B,Harrison,12,88,2,0,division Ising
+g124,rr,,1,Beckman B,Mira Loma A,16,142,2,0,division Ising
+g125,rr,,1,Beckman B,Mt. Lebanon,24,0,1,0,division Ising
+g126,rr,,1,Beckman B,Odle,30,104,2,0,division Ising
+g127,rr,,1,Beckman B,PRISMS,8,48,2,0,division Ising
+g128,rr,,1,Harrison,Mira Loma A,54,142,2,0,division Ising
+g129,rr,,1,Harrison,Mt. Lebanon,70,4,1,0,division Ising
+g130,rr,,1,Harrison,Odle,52,64,2,0,division Ising
+g131,rr,,1,Harrison,PRISMS,76,48,1,0,division Ising
+g132,rr,,1,Mira Loma A,Mt. Lebanon,138,28,1,0,division Ising
+g133,rr,,1,Mira Loma A,Odle,110,90,1,0,division Ising
+g134,rr,,1,Mira Loma A,PRISMS,142,88,1,0,division Ising
+g135,rr,,1,Mt. Lebanon,Odle,16,108,2,0,division Ising
+g136,rr,,1,Mt. Lebanon,PRISMS,42,84,2,0,division Ising
+g137,rr,,1,Odle,PRISMS,68,58,1,0,division Ising
+g138,rr,,1,Ames,Dougherty A,78,60,1,0,division Joule
+g139,rr,,1,Ames,HHR A,136,8,1,0,division Joule
+g140,rr,,1,Ames,Jonas Clarke,188,74,1,0,division Joule
+g141,rr,,1,Ames,MCTM Intl,150,32,1,0,division Joule
+g142,rr,,1,Ames,Stuy B,144,48,1,0,division Joule
+g143,rr,,1,Ames,Warde,124,24,1,0,division Joule
+g144,rr,,1,Dougherty A,HHR A,108,20,1,0,division Joule
+g145,rr,,1,Dougherty A,Jonas Clarke,82,128,2,0,division Joule
+g146,rr,,1,Dougherty A,MCTM Intl,104,8,1,0,division Joule
+g147,rr,,1,Dougherty A,Stuy B,66,28,1,0,division Joule
+g148,rr,,1,Dougherty A,Warde,148,30,1,0,division Joule
+g149,rr,,1,HHR A,Jonas Clarke,4,126,2,0,division Joule
+g150,rr,,1,HHR A,MCTM Intl,36,16,1,0,division Joule
+g151,rr,,1,HHR A,Stuy B,26,52,2,0,division Joule
+g152,rr,,1,HHR A,Warde,56,74,2,0,division Joule
+g153,rr,,1,Jonas Clarke,MCTM Intl,150,16,1,0,division Joule
+g154,rr,,1,Jonas Clarke,Stuy B,152,44,1,0,division Joule
+g155,rr,,1,Jonas Clarke,Warde,140,8,1,0,division Joule
+g156,rr,,1,MCTM Intl,Stuy B,42,26,1,0,division Joule
+g157,rr,,1,MCTM Intl,Warde,24,16,1,0,division Joule
+g158,rr,,1,Stuy B,Warde,40,24,1,0,division Joule
+g159,rr,,1,Bethlehem,Marquette A,16,66,2,0,division Kepler
+g160,rr,,1,Bethlehem,MSJ B,8,90,2,0,division Kepler
+g161,rr,,1,Bethlehem,North Hollywood A,36,120,2,0,division Kepler
+g162,rr,,1,Bethlehem,Palisades,34,56,2,0,division Kepler
+g163,rr,,1,Bethlehem,TSA B,16,44,2,0,division Kepler
+g164,rr,,1,Marquette A,MSJ B,70,80,2,0,division Kepler
+g165,rr,,1,Marquette A,North Hollywood A,140,76,1,0,division Kepler
+g166,rr,,1,Marquette A,Palisades,80,22,1,0,division Kepler
+g167,rr,,1,Marquette A,TSA B,86,26,1,0,division Kepler
+g168,rr,,1,MSJ B,North Hollywood A,44,140,2,0,division Kepler
+g169,rr,,1,MSJ B,Palisades,134,22,1,0,division Kepler
+g170,rr,,1,MSJ B,TSA B,118,60,1,0,division Kepler
+g171,rr,,1,North Hollywood A,Palisades,216,18,1,0,division Kepler
+g172,rr,,1,North Hollywood A,TSA B,108,26,1,0,division Kepler
+g173,rr,,1,Palisades,TSA B,34,62,2,0,division Kepler
+g174,rr,,1,Brooklyn Latin,ECHHS,4,58,2,0,division Lehmann
+g175,rr,,1,Brooklyn Latin,Enloe B,22,46,2,0,division Lehmann
+g176,rr,,1,Brooklyn Latin,Green Hope,8,112,2,0,division Lehmann
+g177,rr,,1,Brooklyn Latin,Hopkins A,12,38,2,0,division Lehmann
+g178,rr,,1,Brooklyn Latin,Middleton,4,154,2,0,division Lehmann
+g179,rr,,1,Brooklyn Latin,Wootton A,42,44,2,0,division Lehmann
+g180,rr,,1,ECHHS,Enloe B,26,58,2,0,division Lehmann
+g181,rr,,1,ECHHS,Green Hope,78,76,1,0,division Lehmann
+g182,rr,,1,ECHHS,Hopkins A,50,26,1,0,division Lehmann
+g183,rr,,1,ECHHS,Middleton,12,88,2,0,division Lehmann
+g184,rr,,1,ECHHS,Wootton A,66,40,1,0,division Lehmann
+g185,rr,,1,Enloe B,Green Hope,40,106,2,0,division Lehmann
+g186,rr,,1,Enloe B,Hopkins A,90,24,1,0,division Lehmann
+g187,rr,,1,Enloe B,Middleton,72,156,2,0,division Lehmann
+g188,rr,,1,Enloe B,Wootton A,122,16,1,0,division Lehmann
+g189,rr,,1,Green Hope,Hopkins A,158,16,1,0,division Lehmann
+g190,rr,,1,Green Hope,Middleton,66,136,2,0,division Lehmann
+g191,rr,,1,Green Hope,Wootton A,60,42,1,0,division Lehmann
+g192,rr,,1,Hopkins A,Middleton,34,104,2,0,division Lehmann
+g193,rr,,1,Hopkins A,Wootton A,48,56,2,0,division Lehmann
+g194,rr,,1,Middleton,Wootton A,128,4,1,0,division Lehmann
+g195,rr,,1,Boston Latin,Canyon Crest B,48,12,1,0,division Mendel
+g196,rr,,1,Boston Latin,Centennial,16,114,2,0,division Mendel
+g197,rr,,1,Boston Latin,Hillsborough,20,54,2,0,division Mendel
+g198,rr,,1,Boston Latin,Quail Valley,26,48,2,0,division Mendel
+g199,rr,,1,Boston Latin,Temple City A,22,70,2,0,division Mendel
+g200,rr,,1,Canyon Crest B,Centennial,16,118,2,0,division Mendel
+g201,rr,,1,Canyon Crest B,Hillsborough,102,30,1,0,division Mendel
+g202,rr,,1,Canyon Crest B,Quail Valley,48,22,1,0,division Mendel
+g203,rr,,1,Canyon Crest B,Temple City A,26,84,2,0,division Mendel
+g204,rr,,1,Centennial,Hillsborough,126,44,1,0,division Mendel
+g205,rr,,1,Centennial,Quail Valley,108,18,1,0,division Mendel
+g206,rr,,1,Centennial,Temple City A,136,92,1,0,division Mendel
+g207,rr,,1,Hillsborough,Quail Valley,,,2,1,division Mendel; 0-0 with a W/L in the source: forfeit
+g208,rr,,1,Hillsborough,Temple City A,,,2,1,division Mendel; 0-0 with a W/L in the source: forfeit
+g209,rr,,1,Quail Valley,Temple City A,24,78,2,0,division Mendel
+g210,rr,,1,Hopkins B,Lexington,16,218,2,0,division Newton
+g211,rr,,1,Hopkins B,Nation Ford,12,72,2,0,division Newton
+g212,rr,,1,Hopkins B,North Hollywood B,8,98,2,0,division Newton
+g213,rr,,1,Hopkins B,SCDS,18,126,2,0,division Newton
+g214,rr,,1,Hopkins B,Solon,12,88,2,0,division Newton
+g215,rr,,1,Lexington,Nation Ford,152,34,1,0,division Newton
+g216,rr,,1,Lexington,North Hollywood B,164,8,1,0,division Newton
+g217,rr,,1,Lexington,SCDS,170,30,1,0,division Newton
+g218,rr,,1,Lexington,Solon,120,52,1,0,division Newton
+g219,rr,,1,Nation Ford,North Hollywood B,50,16,1,0,division Newton
+g220,rr,,1,Nation Ford,SCDS,26,58,2,0,division Newton
+g221,rr,,1,Nation Ford,Solon,12,64,2,0,division Newton
+g222,rr,,1,North Hollywood B,SCDS,44,122,2,0,division Newton
+g223,rr,,1,North Hollywood B,Solon,28,94,2,0,division Newton
+g224,rr,,1,SCDS,Solon,62,52,1,0,division Newton
+g225,rr,,1,Brookfield,Caddo Magnet,92,52,1,0,division Ohm
+g226,rr,,1,Brookfield,Maui,126,16,1,0,division Ohm
+g227,rr,,1,Brookfield,Naperville North,130,60,1,0,division Ohm
+g228,rr,,1,Brookfield,RMHS A,68,116,2,0,division Ohm
+g229,rr,,1,Brookfield,SCGSSM A,122,62,1,0,division Ohm
+g230,rr,,1,Brookfield,Temple City B,160,12,1,0,division Ohm
+g231,rr,,1,Caddo Magnet,Maui,90,34,1,0,division Ohm
+g232,rr,,1,Caddo Magnet,Naperville North,18,110,2,0,division Ohm
+g233,rr,,1,Caddo Magnet,RMHS A,44,54,2,0,division Ohm
+g234,rr,,1,Caddo Magnet,SCGSSM A,64,38,1,0,division Ohm
+g235,rr,,1,Caddo Magnet,Temple City B,82,52,1,0,division Ohm
+g236,rr,,1,Maui,Naperville North,12,138,2,0,division Ohm
+g237,rr,,1,Maui,RMHS A,26,44,2,0,division Ohm
+g238,rr,,1,Maui,SCGSSM A,30,64,2,0,division Ohm
+g239,rr,,1,Maui,Temple City B,8,80,2,0,division Ohm
+g240,rr,,1,Naperville North,RMHS A,150,34,1,0,division Ohm
+g241,rr,,1,Naperville North,SCGSSM A,202,30,1,0,division Ohm
+g242,rr,,1,Naperville North,Temple City B,144,26,1,0,division Ohm
+g243,rr,,1,RMHS A,SCGSSM A,20,16,1,0,division Ohm
+g244,rr,,1,RMHS A,Temple City B,32,34,2,0,division Ohm
+g245,rr,,1,SCGSSM A,Temple City B,42,22,1,0,division Ohm
+g246,rr,,1,Dulles B,Grayson,42,16,1,0,division Planck
+g247,rr,,1,Dulles B,Iolani,42,90,2,0,division Planck
+g248,rr,,1,Dulles B,North Allegheny,52,68,2,0,division Planck
+g249,rr,,1,Dulles B,Princeton,74,94,2,0,division Planck
+g250,rr,,1,Dulles B,TSA A,74,78,2,0,division Planck
+g251,rr,,1,Grayson,Iolani,42,80,2,0,division Planck
+g252,rr,,1,Grayson,North Allegheny,52,62,2,0,division Planck
+g253,rr,,1,Grayson,Princeton,8,90,2,0,division Planck
+g254,rr,,1,Grayson,TSA A,16,58,2,0,division Planck
+g255,rr,,1,Iolani,North Allegheny,92,44,1,0,division Planck
+g256,rr,,1,Iolani,Princeton,90,72,1,0,division Planck
+g257,rr,,1,Iolani,TSA A,118,78,1,0,division Planck
+g258,rr,,1,North Allegheny,Princeton,72,136,2,0,division Planck
+g259,rr,,1,North Allegheny,TSA A,64,74,2,0,division Planck
+g260,rr,,1,Princeton,TSA A,44,62,2,0,division Planck
+g261,playoff,DE Round 1,2,Lynbrook,Peddie,76,26,1,0,
+g262,playoff,DE Round 1,2,Ames,Mira Loma A,90,80,1,0,
+g263,playoff,DE Round 1,2,Enloe A,Centennial,70,94,2,0,
+g264,playoff,DE Round 1,2,MSJ A,Brookfield,20,72,2,0,
+g265,playoff,DE Round 1,2,Lexington,Clovis North,106,40,1,0,
+g266,playoff,DE Round 1,2,Blair,North Hollywood A,86,76,1,0,
+g267,playoff,DE Round 1,2,Wayzata,Middleton,34,102,2,0,
+g268,playoff,DE Round 1,2,Dulles A,Iolani,118,42,1,0,
+g269,playoff,DE Round 1,2,Naperville North,Arcadia A,46,46,T,0,tied 46-46; Naperville North advanced in the bracket (tiebreaker not recorded)
+g270,playoff,DE Round 1,2,Odle,Shen,22,38,2,0,
+g271,playoff,DE Round 1,2,Mira Loma B,SCDS,58,40,1,0,
+g272,playoff,DE Round 1,2,Minnetonka,ASFA A,66,26,1,0,
+g273,playoff,DE Round 1,2,Jonas Clarke,TSA A,80,36,1,0,
+g274,playoff,DE Round 1,2,MSJ B,Stuy A,20,68,2,0,
+g275,playoff,DE Round 1,2,Green Hope,Temple City A,66,50,1,0,
+g276,playoff,DE Round 1,2,Cupertino,BRHS A,62,20,1,0,
+g277,playoff,DE Round 2,3,Peddie,Naperville North,26,62,2,0,
+g278,playoff,DE Round 2,3,Mira Loma A,Shen,56,20,1,0,
+g279,playoff,DE Round 2,3,Enloe A,Mira Loma B,86,34,1,0,
+g280,playoff,DE Round 2,3,MSJ A,Minnetonka,40,44,2,0,
+g281,playoff,DE Round 2,3,Clovis North,Jonas Clarke,16,48,2,0,
+g282,playoff,DE Round 2,3,North Hollywood A,Stuy A,90,30,1,0,
+g283,playoff,DE Round 2,3,Wayzata,Green Hope,62,80,2,0,
+g284,playoff,DE Round 2,3,Iolani,Cupertino,30,48,2,0,
+g285,playoff,DE Round 3,4,Lynbrook,Ames,54,76,2,0,
+g286,playoff,DE Round 3,4,Centennial,Brookfield,16,120,2,0,
+g287,playoff,DE Round 3,4,Lexington,Blair,90,84,1,0,
+g288,playoff,DE Round 3,4,Middleton,Dulles A,66,88,2,0,
+g289,playoff,DE Round 3,4,Naperville North,Mira Loma A,32,86,2,0,
+g290,playoff,DE Round 3,4,Enloe A,Minnetonka,76,54,1,0,
+g291,playoff,DE Round 3,4,Jonas Clarke,North Hollywood A,48,84,2,0,
+g292,playoff,DE Round 3,4,Green Hope,Cupertino,12,76,2,0,
+g293,playoff,DE Round 4,5,Middleton,Mira Loma A,34,64,2,0,
+g294,playoff,DE Round 4,5,Blair,Enloe A,48,102,2,0,
+g295,playoff,DE Round 4,5,Centennial,North Hollywood A,44,44,T,0,tied 44-44; Centennial advanced in the bracket (tiebreaker not recorded)
+g296,playoff,DE Round 4,5,Lynbrook,Cupertino,78,40,1,0,
+g297,playoff,DE Round 5,6,Ames,Brookfield,38,40,2,0,
+g298,playoff,DE Round 5,6,Lexington,Dulles A,92,42,1,0,
+g299,playoff,DE Round 5,6,Mira Loma A,Enloe A,66,34,1,0,
+g300,playoff,DE Round 5,6,Centennial,Lynbrook,24,76,2,0,
+g301,playoff,DE Round 6,7,Ames,Mira Loma A,90,58,1,0,
+g302,playoff,DE Round 6,7,Dulles A,Lynbrook,40,58,2,0,
+g303,playoff,DE Round 7,8,Brookfield,Lexington,22,66,2,0,
+g304,playoff,DE Round 7,8,Ames,Lynbrook,42,30,1,0,
+g305,playoff,DE Round 8,9,Brookfield,Ames,12,66,2,0,
+g306,playoff,DE Finals,10,Lexington,Ames,74,60,1,0,

@@ -1,0 +1,29 @@
+{
+  "tournament_id": "2023-10-08-smh-rookie",
+  "counts": {
+    "teams": 56,
+    "games": 218,
+    "games_with_scores": 218,
+    "player_stat_rows": 1386,
+    "players": 233,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "standings check: Interlake 1 championship points 14 != 12 from games",
+    "standings check: Johns Creek championship points 10 != 8 from games",
+    "Individual Math Stats 'Patrick S [TJHSST B]': accuracy 0.733 * buzzes 14 != correct 11",
+    "Individual Math Stats 'Ethan Z [Westview]': accuracy 0.833 * buzzes 11 != correct 10",
+    "Individual Physics Stats 'Henry D [Choate Quail]': accuracy 1.0 * buzzes 15 != correct 14"
+  ],
+  "parser": "g4_smh:parse_2023"
+}

@@ -18,7 +18,16 @@ sources:
   sheet_id: 11PZrPuEvOjPmLfrktNFmihVWtFaqgc7GkxnkFd-scnc
   url: https://docs.google.com/spreadsheets/d/11PZrPuEvOjPmLfrktNFmihVWtFaqgc7GkxnkFd-scnc/edit?gid=360979583#gid=360979583
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g5_hawaii:parse_game_tabs
+parser_options:
+  playoff_rounds:
+  - - QF
+    - 19-22
+  - - SF
+    - 23-24
+  - - Final
+    - '25'
+status: parsed
+notes: All 25 games from the per-game scoresheet tabs (18 RR in 3 pools, rounds by game number; QF/SF/final), cross-checked
+  against the pool grid and playoff bracket. The scoresheets have per-question team tossup/bonus/penalty flags but no categories
+  or player names, so no subject or player stats.

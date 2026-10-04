@@ -18,7 +18,34 @@ sources:
   sheet_id: 1bSWctWNORD9_y7xV-Pl0fnAffeYrWGvehLCWVzD1GLc
   url: https://docs.google.com/spreadsheets/d/1bSWctWNORD9_y7xV-Pl0fnAffeYrWGvehLCWVzD1GLc/edit?gid=576804788#gid=576804788
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mosfet:parse_stages
+parser_options:
+  stage_tabs:
+  - RR Stage 1 Groups
+  - RR Stage 2 Groups
+  teams_tab: Teams List
+  forfeit_teams:
+  - Collierville 2
+  aliases:
+    JAMES CLEMENS HOORAY: James Clemens 1
+  bracket:
+    tab: Playoff Bracket
+    anchor: ^(Rm|Room) \d+$
+    pcols:
+    - 0
+    - 1
+    score: right
+    winner: later
+    header_row: 0
+    skip:
+    - Champion
+    - Place Winner
+    seq_base: 6
+    round_overrides:
+      H39: 3rd Place
+    extra_rounds:
+      3rd Place: 9
+status: parsed
+notes: Results only. Two RR stages of score matrices plus a single-elimination playoff (QF, SF, final, 3rd place). Collierville
+  2 was removed, so its games (opponents' solo scores against 0) are recorded as forfeits without scores. The final (James
+  Clemens 1 over Farragut 1) has no score in the sheet.

@@ -1,0 +1,59 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+RR1-alpha-1v2,rr,RR1,1,TJHSST A,Canyon Crest,110,72,1,0,group alpha
+RR1-alpha-3v4,rr,RR1,1,Clements,Jordan,124,32,1,0,group alpha
+RR2-alpha-1v3,rr,RR2,2,TJHSST A,Clements,34,48,2,0,group alpha
+RR2-alpha-2v4,rr,RR2,2,Canyon Crest,Jordan,126,22,1,0,group alpha
+RR3-alpha-1v4,rr,RR3,3,TJHSST A,Jordan,66,4,1,0,group alpha
+RR3-alpha-2v3,rr,RR3,3,Canyon Crest,Clements,100,60,1,0,group alpha
+RR1-beta-1v2,rr,RR1,1,Foothill B,ASFA A,6,152,2,0,group beta
+RR1-beta-3v4,rr,RR1,1,East Brunswick A,Venice,80,14,1,0,group beta
+RR2-beta-1v3,rr,RR2,2,Foothill B,East Brunswick A,60,22,1,0,group beta
+RR2-beta-2v4,rr,RR2,2,ASFA A,Venice,110,12,1,0,group beta
+RR3-beta-1v4,rr,RR3,3,Foothill B,Venice,32,60,2,0,group beta
+RR3-beta-2v3,rr,RR3,3,ASFA A,East Brunswick A,80,48,1,0,group beta
+RR1-gamma-1v2,rr,RR1,1,East Brunswick B,Lynbrook,8,126,2,0,group gamma
+RR1-gamma-3v4,rr,RR1,1,Mission San Jose,North Hollywood,24,130,2,0,group gamma
+RR2-gamma-1v3,rr,RR2,2,East Brunswick B,Mission San Jose,18,90,2,0,group gamma
+RR2-gamma-2v4,rr,RR2,2,Lynbrook,North Hollywood,120,42,1,0,group gamma
+RR3-gamma-1v4,rr,RR3,3,East Brunswick B,North Hollywood,26,84,2,0,group gamma
+RR3-gamma-2v3,rr,RR3,3,Lynbrook,Mission San Jose,74,50,1,0,group gamma
+RR1-delta-1v2,rr,RR1,1,Lubbock,Foothill A,62,56,1,0,group delta
+RR1-delta-3v4,rr,RR1,1,West Windsor-Plainsboro North,Middleton,104,70,1,0,group delta
+RR2-delta-1v3,rr,RR2,2,Lubbock,West Windsor-Plainsboro North,0,164,2,0,group delta; 0 points in the source
+RR2-delta-2v4,rr,RR2,2,Foothill A,Middleton,18,88,2,0,group delta
+RR3-delta-1v4,rr,RR3,3,Lubbock,Middleton,46,48,2,0,group delta
+RR3-delta-2v3,rr,RR3,3,Foothill A,West Windsor-Plainsboro North,32,86,2,0,group delta
+RR1-epsilon-1v2,rr,RR1,1,Princeton,ASFA B,66,34,1,0,group epsilon
+RR1-epsilon-3v4,rr,RR1,1,Iolani,Amador Valley A,64,104,2,0,group epsilon
+RR2-epsilon-1v3,rr,RR2,2,Princeton,Iolani,0,104,2,0,group epsilon; 0 points in the source
+RR2-epsilon-2v4,rr,RR2,2,ASFA B,Amador Valley A,14,120,2,0,group epsilon
+RR3-epsilon-1v4,rr,RR3,3,Princeton,Amador Valley A,64,34,1,0,group epsilon
+RR3-epsilon-2v3,rr,RR3,3,ASFA B,Iolani,10,100,2,0,group epsilon
+1,playoff,DE1,4,Canyon Crest,Foothill B,,,1,0,
+2,playoff,DE1,4,ASFA A,Mission San Jose,,,2,0,
+3,playoff,DE1,4,Lynbrook,Lubbock,132,36,1,0,
+4,playoff,DE1,4,Middleton,Princeton,36,12,1,0,
+5,playoff,DE1,4,Iolani,TJHSST A,72,28,1,0,
+6,playoff,DE1,4,Clements,East Brunswick A,66,10,1,0,
+7,playoff,DE1,4,North Hollywood,Amador Valley A,114,50,1,0,
+9,playoff,DE2,5,Canyon Crest,Mission San Jose,60,42,1,0,
+10,playoff,DE2,5,Lynbrook,Middleton,108,34,1,0,
+11,playoff,DE2,5,Iolani,Clements,48,62,2,0,
+12,playoff,DE2,5,North Hollywood,West Windsor-Plainsboro North,106,40,1,0,
+16,playoff,DE2,5,Foothill B,ASFA A,12,116,2,0,
+17,playoff,DE2,5,Lubbock,Princeton,34,22,1,0,
+18,playoff,DE2,5,TJHSST A,East Brunswick A,102,38,1,0,
+13,playoff,DE3,6,Canyon Crest,Lynbrook,68,130,2,0,
+14,playoff,DE3,6,Clements,North Hollywood,36,86,2,0,
+20,playoff,DE3,6,West Windsor-Plainsboro North,ASFA A,70,78,2,0,
+21,playoff,DE3,6,Iolani,Lubbock,86,38,1,0,
+22,playoff,DE3,6,Middleton,TJHSST A,40,74,2,0,
+23,playoff,DE3,6,Mission San Jose,Amador Valley A,-2,78,2,0,
+24,playoff,DE4,7,ASFA A,Iolani,4,22,2,0,
+25,playoff,DE4,7,TJHSST A,Amador Valley A,50,56,2,0,
+15,playoff,DE5,8,Lynbrook,North Hollywood,82,76,1,0,
+26,playoff,DE5,8,Iolani,Canyon Crest,26,52,2,0,
+27,playoff,DE5,8,Amador Valley A,Clements,68,32,1,0,
+28,playoff,DE6,9,Canyon Crest,Amador Valley A,66,94,2,0,
+29,playoff,DE7,10,North Hollywood,Amador Valley A,92,64,1,0,
+30,playoff,DE8,11,Lynbrook,North Hollywood,36,56,2,0,

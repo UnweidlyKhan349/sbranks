@@ -1,0 +1,114 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1,rr,,1,Greenwich 3,BASIS Independent Silicon Valley 1,,,2,0,Group A
+rr2,rr,,1,Greenwich 3,Enloe HS A,,,2,0,Group A
+rr3,rr,,1,Greenwich 3,Montgomery Blair High School,,,2,0,Group A
+rr4,rr,,1,Greenwich 3,Christian Brothers Academy,,,2,0,Group A
+rr5,rr,,1,Greenwich 3,Sharon High School A,,,2,0,Group A
+rr6,rr,,1,BASIS Independent Silicon Valley 1,Enloe HS A,,,2,0,Group A
+rr7,rr,,1,BASIS Independent Silicon Valley 1,Montgomery Blair High School,,,2,0,Group A
+rr8,rr,,1,BASIS Independent Silicon Valley 1,Christian Brothers Academy,,,1,0,Group A
+rr9,rr,,1,BASIS Independent Silicon Valley 1,Sharon High School A,,,1,0,Group A
+rr10,rr,,1,Enloe HS A,Montgomery Blair High School,,,1,0,Group A
+rr11,rr,,1,Enloe HS A,Christian Brothers Academy,,,1,0,Group A
+rr12,rr,,1,Enloe HS A,Sharon High School A,,,1,0,Group A
+rr13,rr,,1,Montgomery Blair High School,Christian Brothers Academy,,,1,0,Group A
+rr14,rr,,1,Montgomery Blair High School,Sharon High School A,,,1,0,Group A
+rr15,rr,,1,Christian Brothers Academy,Sharon High School A,,,1,0,Group A
+rr16,rr,,1,Tenafly 1,Nashua High School South 3,,,1,0,Group B
+rr17,rr,,1,Tenafly 1,East Lyme High School,,,2,0,Group B
+rr18,rr,,1,Tenafly 1,Niskayuna Highschool,,,1,0,Group B
+rr19,rr,,1,Tenafly 1,Lexington,,,2,0,Group B
+rr20,rr,,1,Tenafly 1,BASIS Independent Silicon Valley 3,,,1,0,Group B
+rr21,rr,,1,Nashua High School South 3,East Lyme High School,,,2,0,Group B
+rr22,rr,,1,Nashua High School South 3,Niskayuna Highschool,,,2,0,Group B
+rr23,rr,,1,Nashua High School South 3,Lexington,,,2,0,Group B
+rr24,rr,,1,Nashua High School South 3,BASIS Independent Silicon Valley 3,,,1,0,Group B
+rr25,rr,,1,East Lyme High School,Niskayuna Highschool,,,1,0,Group B
+rr26,rr,,1,East Lyme High School,Lexington,,,2,0,Group B
+rr27,rr,,1,East Lyme High School,BASIS Independent Silicon Valley 3,,,1,0,Group B
+rr28,rr,,1,Niskayuna Highschool,Lexington,,,2,0,Group B
+rr29,rr,,1,Niskayuna Highschool,BASIS Independent Silicon Valley 3,,,1,0,Group B
+rr30,rr,,1,Lexington,BASIS Independent Silicon Valley 3,,,1,0,Group B
+rr31,rr,,1,Westminster 2,BASIS Independent Silicon Valley 2,,,2,0,Group C
+rr32,rr,,1,Westminster 2,Hunter College High School,,,2,0,Group C
+rr33,rr,,1,Westminster 2,HAUSCR,,,1,0,Group C
+rr34,rr,,1,Westminster 2,University High School,,,2,0,Group C
+rr35,rr,,1,Westminster 2,PRISMS,,,2,0,Group C
+rr36,rr,,1,BASIS Independent Silicon Valley 2,Hunter College High School,,,2,0,Group C
+rr37,rr,,1,BASIS Independent Silicon Valley 2,HAUSCR,,,1,0,Group C
+rr38,rr,,1,BASIS Independent Silicon Valley 2,University High School,,,2,0,Group C
+rr39,rr,,1,BASIS Independent Silicon Valley 2,PRISMS,,,2,0,Group C
+rr40,rr,,1,Hunter College High School,HAUSCR,,,1,0,Group C
+rr41,rr,,1,Hunter College High School,University High School,,,2,0,Group C
+rr42,rr,,1,Hunter College High School,PRISMS,,,2,0,Group C
+rr43,rr,,1,HAUSCR,University High School,,,2,0,Group C
+rr44,rr,,1,HAUSCR,PRISMS,,,2,0,Group C
+rr45,rr,,1,University High School,PRISMS,,,1,0,Group C
+rr46,rr,,1,Westminster 1,Tenafly High School Team 2,,,1,0,Group D
+rr47,rr,,1,Westminster 1,Plainsboro,,,2,0,Group D
+rr48,rr,,1,Westminster 1,Glastonbury High School,,,1,0,Group D
+rr49,rr,,1,Westminster 1,Falmouth High School 2,,,1,0,Group D
+rr50,rr,,1,Westminster 1,Southern Pirates 2,,,1,0,Group D
+rr51,rr,,1,Tenafly High School Team 2,Plainsboro,,,2,0,Group D
+rr52,rr,,1,Tenafly High School Team 2,Glastonbury High School,,,2,0,Group D
+rr53,rr,,1,Tenafly High School Team 2,Falmouth High School 2,,,1,0,Group D
+rr54,rr,,1,Tenafly High School Team 2,Southern Pirates 2,,,2,0,Group D
+rr55,rr,,1,Plainsboro,Glastonbury High School,,,1,0,Group D
+rr56,rr,,1,Plainsboro,Falmouth High School 2,,,1,0,Group D
+rr57,rr,,1,Plainsboro,Southern Pirates 2,,,1,0,Group D
+rr58,rr,,1,Glastonbury High School,Falmouth High School 2,,,1,0,Group D
+rr59,rr,,1,Glastonbury High School,Southern Pirates 2,,,1,0,Group D
+rr60,rr,,1,Falmouth High School 2,Southern Pirates 2,,,2,0,Group D
+rr61,rr,,1,Southern Pirates 1,Enloe HS B,,,2,0,Group E
+rr62,rr,,1,Southern Pirates 1,Davidson Academy,,,2,0,Group E
+rr63,rr,,1,Southern Pirates 1,Greenwich 2,,,1,0,Group E
+rr64,rr,,1,Southern Pirates 1,Shen HS,,,1,0,Group E
+rr65,rr,,1,Southern Pirates 1,Northfield Mount Hermon,,,1,0,Group E
+rr66,rr,,1,Enloe HS B,Davidson Academy,,,2,0,Group E
+rr67,rr,,1,Enloe HS B,Greenwich 2,,,1,0,Group E
+rr68,rr,,1,Enloe HS B,Shen HS,,,2,0,Group E
+rr69,rr,,1,Enloe HS B,Northfield Mount Hermon,,,1,0,Group E
+rr70,rr,,1,Davidson Academy,Greenwich 2,,,1,0,Group E
+rr71,rr,,1,Davidson Academy,Shen HS,,,1,0,Group E
+rr72,rr,,1,Davidson Academy,Northfield Mount Hermon,,,1,0,Group E
+rr73,rr,,1,Greenwich 2,Shen HS,,,1,0,Group E
+rr74,rr,,1,Greenwich 2,Northfield Mount Hermon,,,2,0,Group E
+rr75,rr,,1,Shen HS,Northfield Mount Hermon,,,1,0,Group E
+rr76,rr,,1,Centennial,Cupertino,,,1,0,Group F
+rr77,rr,,1,Centennial,Nashua High School South 2,,,1,0,Group F
+rr78,rr,,1,Centennial,Farmington High School 1,,,1,0,Group F
+rr79,rr,,1,Centennial,Greenwich 1,,,1,0,Group F
+rr80,rr,,1,Centennial,Falmouth High School 1,,,1,0,Group F
+rr81,rr,,1,Cupertino,Nashua High School South 2,,,1,0,Group F
+rr82,rr,,1,Cupertino,Farmington High School 1,,,1,0,Group F
+rr83,rr,,1,Cupertino,Greenwich 1,,,1,0,Group F
+rr84,rr,,1,Cupertino,Falmouth High School 1,,,1,0,Group F
+rr85,rr,,1,Nashua High School South 2,Farmington High School 1,,,T,0,Group F
+rr86,rr,,1,Nashua High School South 2,Greenwich 1,,,2,0,Group F
+rr87,rr,,1,Nashua High School South 2,Falmouth High School 1,,,2,0,Group F
+rr88,rr,,1,Farmington High School 1,Greenwich 1,,,1,0,Group F
+rr89,rr,,1,Farmington High School 1,Falmouth High School 1,,,2,0,Group F
+rr90,rr,,1,Greenwich 1,Falmouth High School 1,,,2,0,Group F
+W2,playoff,DE1,11,PRISMS,Davidson Academy,,,2,0,
+W3,playoff,DE1,11,Enloe HS A,East Lyme High School,,,2,0,
+W4,playoff,DE1,11,Montgomery Blair High School,Southern Pirates 1,,,1,0,
+W1,playoff,DE1,11,Cupertino,Westminster 1,,,2,0,
+W7,playoff,DE2,12,Plainsboro,East Lyme High School,,,1,0,
+W5,playoff,DE2,12,Lexington,Westminster 1,,,1,0,
+W6,playoff,DE2,12,Davidson Academy,University High School,,,2,0,
+W8,playoff,DE2,12,Montgomery Blair High School,Centennial,,,2,0,
+L1,playoff,DE2,12,Cupertino,PRISMS,,,1,0,
+L2,playoff,DE2,12,Enloe HS A,Southern Pirates 1,,,1,0,
+W10,playoff,DE3,13,Plainsboro,Centennial,,,1,0,
+L3,playoff,DE3,13,Cupertino,Enloe HS A,,,2,0,
+L4,playoff,DE3,13,Westminster 1,Davidson Academy,,,1,0,
+L5,playoff,DE3,13,East Lyme High School,Montgomery Blair High School,,,1,0,
+W9,playoff,DE3,13,Lexington,University High School,,,1,0,
+L6,playoff,DE4,14,University High School,Enloe HS A,,,1,0,
+L7,playoff,DE4,14,Westminster 1,East Lyme High School,,,2,0,
+W11,playoff,DE4,14,Lexington,Plainsboro,,,1,0,
+L8,playoff,DE5,15,Plainsboro,University High School,,,2,0,
+L9,playoff,DE5,15,East Lyme High School,Centennial,,,2,0,
+L10,playoff,DE6,16,University High School,Centennial,,,1,0,
+Final 1,playoff,DE7,17,Lexington,University High School,,,2,0,
+Final 2,playoff,DE8,18,Lexington,University High School,,,2,0,winner inferred from the bracket (not shown in the source)

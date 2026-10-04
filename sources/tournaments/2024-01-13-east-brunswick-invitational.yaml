@@ -18,7 +18,8 @@ sources:
   sheet_id: 1WMpHa-TM9JhVBdV4XWO1lxUaLhlcs98wAlAKxRm4N9M
   url: https://docs.google.com/spreadsheets/d/1WMpHa-TM9JhVBdV4XWO1lxUaLhlcs98wAlAKxRm4N9M/edit?usp=sharing
   file: results.xlsx
-parser: null
+parser: g5_placings:parse
 parser_options: {}
-status: todo
-notes: ''
+status: partial
+notes: The sheet only lists final placings (12 teams, all registered with their place so every team appears; 10 have no recorded
+  game) and the final's score (PRISMS A 124 - WWPS A 38); no other games or stats were published.

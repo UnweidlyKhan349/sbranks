@@ -2,7 +2,7 @@ id: 2026-08-29-isobowl-invitational-tournament-hs
 name: ISOBowl Invitational Tournament HS
 date: '2026-08-29'
 end_date: null
-season: 2025-26
+season: 2026-27
 location: Online
 online: true
 division: HS
@@ -17,7 +17,17 @@ sources:
   role: results+stats
   slug: isobowl-invitational-tournament
   url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament/standings
+- kind: manual
+  role: crosscheck
+  file: isobowl/stats_page.txt
+  url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament/stats
+  note: 'rendered team + individual stats tables (Playwright: pipeline/parsers/tools/g1_render_page.js); used only to cross-check
+    (pipeline/parsers/tools/g1_check_isobowl.py)'
 parser: g1_isobowl:parse
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 'ISOBowl API: all 75 games (5 pool rounds + DE) with scores and per-question logs -> per-player per-subject stats with
+  TUH, team_game_subjects, player_game_stats. ISOBowl''s computer-science questions are filed under ''other'' (no energy).
+  DE 1 BISV B 74-74 VMATHS is recorded as a tie (BISV B advanced on a manual decision). Cross-checked against the isobowl.com
+  stats page: all 21 teams'' W/L/PF/PA/COR/INC/NEG and all 93 individual rows match. Player names: most name-like display
+  name per account; some handles remain.'

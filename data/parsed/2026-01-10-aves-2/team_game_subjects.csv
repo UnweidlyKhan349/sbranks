@@ -1,0 +1,2201 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+383,Cupertino 1,biology,8,8,0,2,0
+383,Cupertino 1,chemistry,0,0,0,0,0
+383,Cupertino 1,ess,14,4,10,1,0
+383,Cupertino 1,math,0,0,0,0,0
+383,Cupertino 1,physics,14,4,10,1,0
+383,Ward Melville 2,biology,28,8,20,2,0
+383,Ward Melville 2,chemistry,18,8,10,2,0
+383,Ward Melville 2,ess,22,12,10,3,0
+383,Ward Melville 2,math,18,8,10,2,0
+383,Ward Melville 2,physics,18,8,10,2,0
+393,Davidson Academy,biology,42,12,30,3,0
+393,Davidson Academy,chemistry,46,16,30,4,0
+393,Davidson Academy,ess,14,4,10,2,1
+393,Davidson Academy,math,14,4,10,1,0
+393,Davidson Academy,physics,42,12,30,3,0
+393,Temple City,biology,14,4,10,1,0
+393,Temple City,chemistry,-4,-4,0,0,1
+393,Temple City,ess,14,4,10,2,1
+393,Temple City,math,0,0,0,0,0
+393,Temple City,physics,0,0,0,1,1
+396,CCA 1,biology,14,4,10,1,0
+396,CCA 1,chemistry,28,8,20,2,0
+396,CCA 1,ess,14,4,10,1,0
+396,CCA 1,math,18,8,10,2,0
+396,CCA 1,physics,14,4,10,1,0
+396,West Windsor-Plainsboro North,biology,42,12,30,3,0
+396,West Windsor-Plainsboro North,chemistry,28,8,20,2,0
+396,West Windsor-Plainsboro North,ess,14,4,10,2,1
+396,West Windsor-Plainsboro North,math,0,0,0,0,0
+396,West Windsor-Plainsboro North,physics,28,8,20,2,0
+398,Clovis North High,biology,56,16,40,4,0
+398,Clovis North High,chemistry,56,16,40,4,0
+398,Clovis North High,ess,0,0,0,0,0
+398,Clovis North High,math,0,0,0,0,0
+398,Clovis North High,physics,18,8,10,2,0
+398,VMATHs,biology,-4,-4,0,0,1
+398,VMATHs,chemistry,0,0,0,0,0
+398,VMATHs,ess,22,12,10,3,0
+398,VMATHs,math,32,12,20,3,0
+398,VMATHs,physics,18,8,10,2,0
+408,Lakeside 1,biology,28,8,20,2,0
+408,Lakeside 1,chemistry,56,16,40,4,0
+408,Lakeside 1,ess,42,12,30,3,0
+408,Lakeside 1,math,0,0,0,0,0
+408,Lakeside 1,physics,56,16,40,4,0
+408,Troy 1,biology,18,8,10,2,0
+408,Troy 1,chemistry,0,0,0,0,0
+408,Troy 1,ess,0,0,0,0,0
+408,Troy 1,math,0,0,0,0,0
+408,Troy 1,physics,0,0,0,0,0
+411,Blair 2,biology,56,16,40,4,0
+411,Blair 2,chemistry,18,8,10,2,0
+411,Blair 2,ess,14,4,10,1,0
+411,Blair 2,math,18,8,10,2,0
+411,Blair 2,physics,18,8,10,2,0
+411,Research Triangle,biology,0,0,0,0,0
+411,Research Triangle,chemistry,28,8,20,2,0
+411,Research Triangle,ess,22,12,10,3,0
+411,Research Triangle,math,0,0,0,0,0
+411,Research Triangle,physics,4,4,0,1,0
+413,Mission San Jose 2,biology,24,4,20,2,1
+413,Mission San Jose 2,chemistry,-8,-8,0,0,2
+413,Mission San Jose 2,ess,38,8,30,3,1
+413,Mission San Jose 2,math,32,12,20,3,0
+413,Mission San Jose 2,physics,10,0,10,1,1
+413,Wayzata,biology,28,8,20,2,0
+413,Wayzata,chemistry,28,8,20,3,1
+413,Wayzata,ess,6,-4,10,1,2
+413,Wayzata,math,10,0,10,1,1
+413,Wayzata,physics,10,0,10,1,1
+423,Hunter College 1,biology,38,8,30,3,1
+423,Hunter College 1,chemistry,42,12,30,3,0
+423,Hunter College 1,ess,18,8,10,3,1
+423,Hunter College 1,math,18,8,10,2,0
+423,Hunter College 1,physics,32,12,20,3,0
+423,IMSA 1,biology,6,-4,10,1,2
+423,IMSA 1,chemistry,14,4,10,1,0
+423,IMSA 1,ess,0,0,0,0,0
+423,IMSA 1,math,-4,-4,0,0,1
+423,IMSA 1,physics,4,4,0,1,0
+426,Camas,biology,10,0,10,1,1
+426,Camas,chemistry,0,0,0,0,0
+426,Camas,ess,4,4,0,1,0
+426,Camas,math,4,4,0,1,0
+426,Camas,physics,0,0,0,0,0
+426,Collierville 1,biology,42,12,30,3,0
+426,Collierville 1,chemistry,46,16,30,4,0
+426,Collierville 1,ess,22,12,10,3,0
+426,Collierville 1,math,0,0,0,1,1
+426,Collierville 1,physics,18,8,10,2,0
+428,Arcadia 1,biology,18,8,10,2,0
+428,Arcadia 1,chemistry,28,8,20,2,0
+428,Arcadia 1,ess,18,8,10,2,0
+428,Arcadia 1,math,4,4,0,1,0
+428,Arcadia 1,physics,0,0,0,0,0
+428,MSJ 3,biology,24,4,20,2,1
+428,MSJ 3,chemistry,10,0,10,1,1
+428,MSJ 3,ess,18,8,10,2,0
+428,MSJ 3,math,0,0,0,1,1
+428,MSJ 3,physics,46,16,30,4,0
+438,James Clemens,biology,56,16,40,4,0
+438,James Clemens,chemistry,6,-4,10,1,2
+438,James Clemens,ess,32,12,20,3,0
+438,James Clemens,math,8,8,0,2,0
+438,James Clemens,physics,38,8,30,3,1
+438,John P. Stevens,biology,-4,-4,0,0,1
+438,John P. Stevens,chemistry,8,8,0,2,0
+438,John P. Stevens,ess,4,4,0,1,0
+438,John P. Stevens,math,0,0,0,0,0
+438,John P. Stevens,physics,0,0,0,0,0
+441,Ladue,biology,20,0,20,2,2
+441,Ladue,chemistry,42,12,30,3,0
+441,Ladue,ess,18,8,10,2,0
+441,Ladue,math,42,12,30,3,0
+441,Ladue,physics,56,16,40,4,0
+441,Westview 1,biology,4,4,0,1,0
+441,Westview 1,chemistry,4,4,0,1,0
+441,Westview 1,ess,0,0,0,0,0
+441,Westview 1,math,-4,-4,0,0,1
+441,Westview 1,physics,0,0,0,0,0
+443,North Hollywood 1,biology,14,4,10,2,1
+443,North Hollywood 1,chemistry,28,8,20,2,0
+443,North Hollywood 1,ess,42,12,30,3,0
+443,North Hollywood 1,math,0,0,0,0,0
+443,North Hollywood 1,physics,14,4,10,1,0
+443,Palo Alto 1,biology,18,8,10,2,0
+443,Palo Alto 1,chemistry,28,8,20,2,0
+443,Palo Alto 1,ess,14,4,10,1,0
+443,Palo Alto 1,math,28,8,20,2,0
+443,Palo Alto 1,physics,24,4,20,2,1
+453,BRMHS 2,biology,32,12,20,3,0
+453,BRMHS 2,chemistry,0,0,0,0,0
+453,BRMHS 2,ess,14,4,10,1,0
+453,BRMHS 2,math,4,4,0,1,0
+453,BRMHS 2,physics,18,8,10,2,0
+453,Princeton,biology,10,0,10,1,1
+453,Princeton,chemistry,46,16,30,4,0
+453,Princeton,ess,18,8,10,2,0
+453,Princeton,math,4,4,0,1,0
+453,Princeton,physics,8,8,0,2,0
+456,BASIS Independent Fremont,biology,32,12,20,3,0
+456,BASIS Independent Fremont,chemistry,42,12,30,3,0
+456,BASIS Independent Fremont,ess,18,8,10,2,0
+456,BASIS Independent Fremont,math,14,4,10,1,0
+456,BASIS Independent Fremont,physics,18,8,10,2,0
+456,Cupertino 2,biology,14,4,10,1,0
+456,Cupertino 2,chemistry,4,4,0,1,0
+456,Cupertino 2,ess,4,4,0,1,0
+456,Cupertino 2,math,0,0,0,0,0
+456,Cupertino 2,physics,0,0,0,0,0
+468,Harvard Westlake 1,biology,24,4,20,2,1
+468,Harvard Westlake 1,chemistry,0,0,0,0,0
+468,Harvard Westlake 1,ess,18,8,10,2,0
+468,Harvard Westlake 1,math,8,8,0,2,0
+468,Harvard Westlake 1,physics,14,4,10,1,0
+468,WWPS 1,biology,28,8,20,2,0
+468,WWPS 1,chemistry,56,16,40,4,0
+468,WWPS 1,ess,18,8,10,2,0
+468,WWPS 1,math,0,0,0,1,1
+468,WWPS 1,physics,18,8,10,2,0
+471,Jericho 2,biology,0,0,0,0,0
+471,Jericho 2,chemistry,4,4,0,1,0
+471,Jericho 2,ess,0,0,0,0,0
+471,Jericho 2,math,-4,-4,0,0,1
+471,Jericho 2,physics,4,4,0,1,0
+471,North Hollywood 2,biology,26,16,10,4,0
+471,North Hollywood 2,chemistry,28,8,20,2,0
+471,North Hollywood 2,ess,36,16,20,4,0
+471,North Hollywood 2,math,42,12,30,3,0
+471,North Hollywood 2,physics,42,12,30,3,0
+473,OCSA,biology,14,4,10,1,0
+473,OCSA,chemistry,0,0,0,0,0
+473,OCSA,ess,18,8,10,2,0
+473,OCSA,math,0,0,0,0,0
+473,OCSA,physics,0,0,0,0,0
+473,Ward Melville 1,biology,38,8,30,3,1
+473,Ward Melville 1,chemistry,56,16,40,4,0
+473,Ward Melville 1,ess,28,8,20,2,0
+473,Ward Melville 1,math,20,0,20,2,2
+473,Ward Melville 1,physics,56,16,40,4,0
+483,Blair 3,biology,8,8,0,2,0
+483,Blair 3,chemistry,8,8,0,2,0
+483,Blair 3,ess,8,8,0,2,0
+483,Blair 3,math,18,8,10,2,0
+483,Blair 3,physics,4,4,0,1,0
+483,Whitney Young 1,biology,28,8,20,2,0
+483,Whitney Young 1,chemistry,28,8,20,2,0
+483,Whitney Young 1,ess,-4,-4,0,0,1
+483,Whitney Young 1,math,4,4,0,1,0
+483,Whitney Young 1,physics,8,8,0,2,0
+486,AHB 1,biology,32,12,20,3,0
+486,AHB 1,chemistry,14,4,10,1,0
+486,AHB 1,ess,22,12,10,3,0
+486,AHB 1,math,8,8,0,2,0
+486,AHB 1,physics,18,8,10,2,0
+486,BISV 2,biology,14,4,10,1,0
+486,BISV 2,chemistry,32,12,20,3,0
+486,BISV 2,ess,0,0,0,0,0
+486,BISV 2,math,0,0,0,0,0
+486,BISV 2,physics,14,4,10,1,0
+488,School of Astronomy,biology,28,8,20,2,0
+488,School of Astronomy,chemistry,36,16,20,4,0
+488,School of Astronomy,ess,14,4,10,1,0
+488,School of Astronomy,math,36,16,20,4,0
+488,School of Astronomy,physics,38,8,30,3,1
+488,University 2,biology,14,4,10,1,0
+488,University 2,chemistry,0,0,0,0,0
+488,University 2,ess,18,8,10,2,0
+488,University 2,math,0,0,0,0,0
+488,University 2,physics,0,0,0,0,0
+498,State College Area 1,biology,4,4,0,1,0
+498,State College Area 1,chemistry,14,4,10,1,0
+498,State College Area 1,ess,-4,-4,0,0,1
+498,State College Area 1,math,4,4,0,1,0
+498,State College Area 1,physics,0,0,0,0,0
+498,The Frazer School 1,biology,32,12,20,3,0
+498,The Frazer School 1,chemistry,42,12,30,3,0
+498,The Frazer School 1,ess,46,16,30,4,0
+498,The Frazer School 1,math,28,8,20,2,0
+498,The Frazer School 1,physics,56,16,40,4,0
+501,Eastlake,biology,24,4,20,2,1
+501,Eastlake,chemistry,22,12,10,3,0
+501,Eastlake,ess,18,8,10,2,0
+501,Eastlake,math,-4,-4,0,0,1
+501,Eastlake,physics,-4,-4,0,0,1
+501,Lynbrook 1,biology,14,4,10,2,1
+501,Lynbrook 1,chemistry,14,4,10,1,0
+501,Lynbrook 1,ess,0,0,0,1,1
+501,Lynbrook 1,math,42,12,30,3,0
+501,Lynbrook 1,physics,56,16,40,4,0
+503,Collierville 2,biology,18,8,10,2,0
+503,Collierville 2,chemistry,28,8,20,2,0
+503,Collierville 2,ess,0,0,0,0,0
+503,Collierville 2,math,0,0,0,0,0
+503,Collierville 2,physics,0,0,0,0,0
+503,Punahou,biology,14,4,10,2,1
+503,Punahou,chemistry,28,8,20,2,0
+503,Punahou,ess,36,16,20,4,0
+503,Punahou,math,8,8,0,2,0
+503,Punahou,physics,22,12,10,3,0
+513,Arcadia 2,biology,4,4,0,1,0
+513,Arcadia 2,chemistry,0,0,0,0,0
+513,Arcadia 2,ess,18,8,10,2,0
+513,Arcadia 2,math,4,4,0,1,0
+513,Arcadia 2,physics,14,4,10,1,0
+513,Thomas Jefferson 1,biology,42,12,30,3,0
+513,Thomas Jefferson 1,chemistry,46,16,30,4,0
+513,Thomas Jefferson 1,ess,14,4,10,1,0
+513,Thomas Jefferson 1,math,14,4,10,1,0
+513,Thomas Jefferson 1,physics,32,12,20,3,0
+516,BISV 1,biology,38,8,30,3,1
+516,BISV 1,chemistry,38,8,30,3,1
+516,BISV 1,ess,18,8,10,2,0
+516,BISV 1,math,10,0,10,1,1
+516,BISV 1,physics,14,4,10,1,0
+516,BRMHS 1,biology,14,4,10,1,0
+516,BRMHS 1,chemistry,0,0,0,0,0
+516,BRMHS 1,ess,28,8,20,2,0
+516,BRMHS 1,math,8,8,0,2,0
+516,BRMHS 1,physics,42,12,30,3,0
+518,College Park,biology,0,0,0,1,1
+518,College Park,chemistry,8,8,0,2,0
+518,College Park,ess,4,4,0,1,0
+518,College Park,math,0,0,0,0,0
+518,College Park,physics,0,0,0,0,0
+518,Minnesota Institute of Timberwolves,biology,38,8,30,3,1
+518,Minnesota Institute of Timberwolves,chemistry,28,8,20,2,0
+518,Minnesota Institute of Timberwolves,ess,14,4,10,2,1
+518,Minnesota Institute of Timberwolves,math,42,12,30,3,0
+518,Minnesota Institute of Timberwolves,physics,56,16,40,4,0
+528,Iolani School 1,biology,4,4,0,1,0
+528,Iolani School 1,chemistry,18,8,10,2,0
+528,Iolani School 1,ess,4,4,0,1,0
+528,Iolani School 1,math,0,0,0,0,0
+528,Iolani School 1,physics,24,4,20,2,1
+528,WWPS 2,biology,36,16,20,4,0
+528,WWPS 2,chemistry,28,8,20,2,0
+528,WWPS 2,ess,4,4,0,1,0
+528,WWPS 2,math,14,4,10,2,1
+528,WWPS 2,physics,6,-4,10,1,2
+531,ASFA 1,biology,56,16,40,4,0
+531,ASFA 1,chemistry,46,16,30,4,0
+531,ASFA 1,ess,28,8,20,2,0
+531,ASFA 1,math,18,8,10,2,0
+531,ASFA 1,physics,56,16,40,4,0
+531,Bridgeland,biology,-4,-4,0,0,1
+531,Bridgeland,chemistry,0,0,0,0,0
+531,Bridgeland,ess,10,0,10,1,1
+531,Bridgeland,math,0,0,0,0,0
+531,Bridgeland,physics,0,0,0,0,0
+533,Harvard Westlake 2,biology,0,0,0,0,0
+533,Harvard Westlake 2,chemistry,14,4,10,1,0
+533,Harvard Westlake 2,ess,4,4,0,1,0
+533,Harvard Westlake 2,math,0,0,0,0,0
+533,Harvard Westlake 2,physics,0,0,0,0,0
+533,Jericho 1,biology,46,16,30,4,0
+533,Jericho 1,chemistry,24,4,20,2,1
+533,Jericho 1,ess,32,12,20,3,0
+533,Jericho 1,math,8,8,0,2,0
+533,Jericho 1,physics,32,12,20,3,0
+543,Academies of Loudoun,biology,4,4,0,1,0
+543,Academies of Loudoun,chemistry,0,0,0,0,0
+543,Academies of Loudoun,ess,0,0,0,0,0
+543,Academies of Loudoun,math,0,0,0,0,0
+543,Academies of Loudoun,physics,0,0,0,0,0
+543,Mission San Jose 1,biology,24,4,20,2,1
+543,Mission San Jose 1,chemistry,38,8,30,3,1
+543,Mission San Jose 1,ess,38,8,30,3,1
+543,Mission San Jose 1,math,42,12,30,3,0
+543,Mission San Jose 1,physics,56,16,40,4,0
+546,CCA 2,biology,0,0,0,2,2
+546,CCA 2,chemistry,46,16,30,4,0
+546,CCA 2,ess,18,8,10,2,0
+546,CCA 2,math,0,0,0,0,0
+546,CCA 2,physics,0,0,0,0,0
+546,Whitney Young 2,biology,8,8,0,2,0
+546,Whitney Young 2,chemistry,0,0,0,0,0
+546,Whitney Young 2,ess,0,0,0,0,0
+546,Whitney Young 2,math,28,8,20,2,0
+546,Whitney Young 2,physics,18,8,10,2,0
+548,Blair 1,biology,56,16,40,4,0
+548,Blair 1,chemistry,10,0,10,1,1
+548,Blair 1,ess,10,0,10,1,1
+548,Blair 1,math,10,0,10,1,1
+548,Blair 1,physics,56,16,40,4,0
+548,Lexington,biology,-4,-4,0,0,1
+548,Lexington,chemistry,42,12,30,3,0
+548,Lexington,ess,18,8,10,2,0
+548,Lexington,math,14,4,10,1,0
+548,Lexington,physics,0,0,0,0,0
+558,BUMSJK,biology,22,12,10,3,0
+558,BUMSJK,chemistry,8,8,0,2,0
+558,BUMSJK,ess,0,0,0,0,0
+558,BUMSJK,math,4,4,0,1,0
+558,BUMSJK,physics,4,4,0,1,0
+558,Throrthwood Tottenham,biology,14,4,10,1,0
+558,Throrthwood Tottenham,chemistry,28,8,20,2,0
+558,Throrthwood Tottenham,ess,32,12,20,3,0
+558,Throrthwood Tottenham,math,0,0,0,0,0
+558,Throrthwood Tottenham,physics,42,12,30,3,0
+561,IMSA 2,biology,46,16,30,4,0
+561,IMSA 2,chemistry,18,8,10,2,0
+561,IMSA 2,ess,4,4,0,1,0
+561,IMSA 2,math,0,0,0,0,0
+561,IMSA 2,physics,8,8,0,2,0
+561,State College Area 2,biology,0,0,0,0,0
+561,State College Area 2,chemistry,0,0,0,0,0
+561,State College Area 2,ess,0,0,0,0,0
+561,State College Area 2,math,0,0,0,0,0
+561,State College Area 2,physics,0,0,0,0,0
+384,Davidson Academy,biology,24,4,20,2,1
+384,Davidson Academy,chemistry,46,16,30,4,0
+384,Davidson Academy,ess,18,8,10,2,0
+384,Davidson Academy,math,18,8,10,2,0
+384,Davidson Academy,physics,20,0,20,2,2
+384,Ward Melville 2,biology,4,4,0,2,1
+384,Ward Melville 2,chemistry,0,0,0,0,0
+384,Ward Melville 2,ess,-8,-8,0,0,2
+384,Ward Melville 2,math,4,4,0,1,0
+384,Ward Melville 2,physics,4,4,0,2,1
+391,Cupertino 1,biology,0,0,0,0,0
+391,Cupertino 1,chemistry,0,0,0,0,0
+391,Cupertino 1,ess,4,4,0,1,0
+391,Cupertino 1,math,0,0,0,0,0
+391,Cupertino 1,physics,4,4,0,1,0
+391,West Windsor-Plainsboro North,biology,46,16,30,4,0
+391,West Windsor-Plainsboro North,chemistry,46,16,30,4,0
+391,West Windsor-Plainsboro North,ess,18,8,10,3,1
+391,West Windsor-Plainsboro North,math,32,12,20,3,0
+391,West Windsor-Plainsboro North,physics,24,4,20,2,1
+395,CCA 1,biology,-4,-4,0,0,1
+395,CCA 1,chemistry,14,4,10,2,1
+395,CCA 1,ess,18,8,10,2,0
+395,CCA 1,math,18,8,10,2,0
+395,CCA 1,physics,14,4,10,1,0
+395,Temple City,biology,26,16,10,4,0
+395,Temple City,chemistry,24,4,20,2,1
+395,Temple City,ess,18,8,10,2,0
+395,Temple City,math,4,4,0,1,0
+395,Temple City,physics,42,12,30,3,0
+399,Lakeside 1,biology,0,0,0,0,0
+399,Lakeside 1,chemistry,24,4,20,2,1
+399,Lakeside 1,ess,18,8,10,2,0
+399,Lakeside 1,math,-8,-8,0,0,2
+399,Lakeside 1,physics,6,-4,10,1,2
+399,VMATHs,biology,28,8,20,3,1
+399,VMATHs,chemistry,18,8,10,2,0
+399,VMATHs,ess,-8,-8,0,0,2
+399,VMATHs,math,42,12,30,3,0
+399,VMATHs,physics,0,0,0,1,1
+406,Blair 2,biology,24,4,20,2,1
+406,Blair 2,chemistry,14,4,10,2,1
+406,Blair 2,ess,14,4,10,2,1
+406,Blair 2,math,22,12,10,3,0
+406,Blair 2,physics,-4,-4,0,0,1
+406,Clovis North High,biology,14,4,10,1,0
+406,Clovis North High,chemistry,18,8,10,2,0
+406,Clovis North High,ess,0,0,0,0,0
+406,Clovis North High,math,14,4,10,1,0
+406,Clovis North High,physics,18,8,10,3,1
+410,Research Triangle,biology,8,8,0,2,0
+410,Research Triangle,chemistry,18,8,10,3,1
+410,Research Triangle,ess,-4,-4,0,0,1
+410,Research Triangle,math,4,4,0,1,0
+410,Research Triangle,physics,-8,-8,0,0,2
+410,Troy 1,biology,24,4,20,2,1
+410,Troy 1,chemistry,10,0,10,1,1
+410,Troy 1,ess,14,4,10,1,0
+410,Troy 1,math,18,8,10,2,0
+410,Troy 1,physics,28,8,20,2,0
+414,Hunter College 1,biology,14,4,10,1,0
+414,Hunter College 1,chemistry,28,8,20,2,0
+414,Hunter College 1,ess,14,4,10,1,0
+414,Hunter College 1,math,14,4,10,1,0
+414,Hunter College 1,physics,32,12,20,3,0
+414,Mission San Jose 2,biology,28,8,20,3,1
+414,Mission San Jose 2,chemistry,14,4,10,2,1
+414,Mission San Jose 2,ess,28,8,20,3,1
+414,Mission San Jose 2,math,42,12,30,3,0
+414,Mission San Jose 2,physics,10,0,10,1,1
+421,Camas,biology,28,8,20,3,1
+421,Camas,chemistry,0,0,0,0,0
+421,Camas,ess,0,0,0,0,0
+421,Camas,math,0,0,0,0,0
+421,Camas,physics,18,8,10,2,0
+421,Wayzata,biology,14,4,10,1,0
+421,Wayzata,chemistry,46,16,30,4,0
+421,Wayzata,ess,36,16,20,4,0
+421,Wayzata,math,42,12,30,3,0
+421,Wayzata,physics,-4,-4,0,0,1
+425,Collierville 1,biology,14,4,10,2,1
+425,Collierville 1,chemistry,32,12,20,3,0
+425,Collierville 1,ess,14,4,10,2,1
+425,Collierville 1,math,4,4,0,1,0
+425,Collierville 1,physics,0,0,0,1,1
+425,IMSA 1,biology,0,0,0,0,0
+425,IMSA 1,chemistry,4,4,0,1,0
+425,IMSA 1,ess,14,4,10,1,0
+425,IMSA 1,math,32,12,20,3,0
+425,IMSA 1,physics,6,-4,10,1,2
+429,Arcadia 1,biology,0,0,0,0,0
+429,Arcadia 1,chemistry,18,8,10,2,0
+429,Arcadia 1,ess,18,8,10,2,0
+429,Arcadia 1,math,14,4,10,1,0
+429,Arcadia 1,physics,28,8,20,2,0
+429,James Clemens,biology,46,16,30,4,0
+429,James Clemens,chemistry,8,8,0,2,0
+429,James Clemens,ess,28,8,20,2,0
+429,James Clemens,math,18,8,10,2,0
+429,James Clemens,physics,16,-4,20,1,2
+436,Ladue,biology,-8,-8,0,0,2
+436,Ladue,chemistry,14,4,10,1,0
+436,Ladue,ess,8,8,0,2,0
+436,Ladue,math,4,4,0,1,0
+436,Ladue,physics,-4,-4,0,1,2
+436,MSJ 3,biology,26,16,10,4,0
+436,MSJ 3,chemistry,12,12,0,3,0
+436,MSJ 3,ess,-8,-8,0,0,2
+436,MSJ 3,math,18,8,10,2,0
+436,MSJ 3,physics,42,12,30,3,0
+440,John P. Stevens,biology,0,0,0,1,1
+440,John P. Stevens,chemistry,10,0,10,1,1
+440,John P. Stevens,ess,4,4,0,1,0
+440,John P. Stevens,math,-4,-4,0,0,1
+440,John P. Stevens,physics,0,0,0,0,0
+440,Westview 1,biology,0,0,0,0,0
+440,Westview 1,chemistry,0,0,0,0,0
+440,Westview 1,ess,0,0,0,0,0
+440,Westview 1,math,18,8,10,2,0
+440,Westview 1,physics,36,16,20,4,0
+444,North Hollywood 1,biology,28,8,20,3,1
+444,North Hollywood 1,chemistry,28,8,20,2,0
+444,North Hollywood 1,ess,28,8,20,3,1
+444,North Hollywood 1,math,28,8,20,2,0
+444,North Hollywood 1,physics,10,0,10,2,2
+444,Princeton,biology,0,0,0,0,0
+444,Princeton,chemistry,18,8,10,2,0
+444,Princeton,ess,4,4,0,1,0
+444,Princeton,math,4,4,0,1,0
+444,Princeton,physics,0,0,0,0,0
+451,Cupertino 2,biology,0,0,0,0,0
+451,Cupertino 2,chemistry,0,0,0,0,0
+451,Cupertino 2,ess,0,0,0,0,0
+451,Cupertino 2,math,0,0,0,0,0
+451,Cupertino 2,physics,0,0,0,0,0
+451,Palo Alto 1,biology,22,12,10,3,0
+451,Palo Alto 1,chemistry,46,16,30,4,0
+451,Palo Alto 1,ess,18,8,10,2,0
+451,Palo Alto 1,math,32,12,20,3,0
+451,Palo Alto 1,physics,46,16,30,4,0
+455,BASIS Independent Fremont,biology,8,8,0,2,0
+455,BASIS Independent Fremont,chemistry,4,4,0,1,0
+455,BASIS Independent Fremont,ess,14,4,10,1,0
+455,BASIS Independent Fremont,math,8,8,0,2,0
+455,BASIS Independent Fremont,physics,0,0,0,0,0
+455,BRMHS 2,biology,0,0,0,0,0
+455,BRMHS 2,chemistry,28,8,20,2,0
+455,BRMHS 2,ess,4,4,0,1,0
+455,BRMHS 2,math,14,4,10,1,0
+455,BRMHS 2,physics,36,16,20,4,0
+466,Jericho 2,biology,14,4,10,1,0
+466,Jericho 2,chemistry,18,8,10,2,0
+466,Jericho 2,ess,4,4,0,1,0
+466,Jericho 2,math,0,0,0,0,0
+466,Jericho 2,physics,0,0,0,0,0
+466,University 1,biology,14,4,10,1,0
+466,University 1,chemistry,10,0,10,1,1
+466,University 1,ess,0,0,0,0,0
+466,University 1,math,14,4,10,2,1
+466,University 1,physics,38,8,30,3,1
+470,North Hollywood 2,biology,10,0,10,1,1
+470,North Hollywood 2,chemistry,0,0,0,0,0
+470,North Hollywood 2,ess,18,8,10,2,0
+470,North Hollywood 2,math,28,8,20,2,0
+470,North Hollywood 2,physics,14,4,10,1,0
+470,WWPS 1,biology,18,8,10,2,0
+470,WWPS 1,chemistry,36,16,20,4,0
+470,WWPS 1,ess,0,0,0,1,1
+470,WWPS 1,math,10,0,10,1,1
+470,WWPS 1,physics,24,4,20,2,1
+474,Blair 3,biology,4,4,0,1,0
+474,Blair 3,chemistry,18,8,10,2,0
+474,Blair 3,ess,0,0,0,1,1
+474,Blair 3,math,14,4,10,1,0
+474,Blair 3,physics,0,0,0,0,0
+474,Ward Melville 1,biology,38,8,30,3,1
+474,Ward Melville 1,chemistry,20,0,20,2,2
+474,Ward Melville 1,ess,32,12,20,3,0
+474,Ward Melville 1,math,4,4,0,2,1
+474,Ward Melville 1,physics,38,8,30,3,1
+481,BISV 2,biology,0,0,0,0,0
+481,BISV 2,chemistry,0,0,0,0,0
+481,BISV 2,ess,14,4,10,1,0
+481,BISV 2,math,18,8,10,2,0
+481,BISV 2,physics,24,4,20,2,1
+481,OCSA,biology,56,16,40,4,0
+481,OCSA,chemistry,42,12,30,3,0
+481,OCSA,ess,18,8,10,2,0
+481,OCSA,math,0,0,0,1,1
+481,OCSA,physics,0,0,0,1,1
+485,AHB 1,biology,18,8,10,2,0
+485,AHB 1,chemistry,46,16,30,4,0
+485,AHB 1,ess,4,4,0,1,0
+485,AHB 1,math,14,4,10,1,0
+485,AHB 1,physics,14,4,10,2,1
+485,Whitney Young 1,biology,-4,-4,0,0,1
+485,Whitney Young 1,chemistry,0,0,0,0,0
+485,Whitney Young 1,ess,4,4,0,1,0
+485,Whitney Young 1,math,4,4,0,1,0
+485,Whitney Young 1,physics,4,4,0,1,0
+489,The Frazer School 1,biology,56,16,40,4,0
+489,The Frazer School 1,chemistry,56,16,40,4,0
+489,The Frazer School 1,ess,-4,-4,0,0,1
+489,The Frazer School 1,math,32,12,20,3,0
+489,The Frazer School 1,physics,28,8,20,3,1
+489,University 2,biology,0,0,0,0,0
+489,University 2,chemistry,0,0,0,0,0
+489,University 2,ess,8,8,0,2,0
+489,University 2,math,-4,-4,0,0,1
+489,University 2,physics,10,0,10,1,1
+496,Lynbrook 1,biology,0,0,0,0,0
+496,Lynbrook 1,chemistry,4,4,0,1,0
+496,Lynbrook 1,ess,0,0,0,0,0
+496,Lynbrook 1,math,4,4,0,1,0
+496,Lynbrook 1,physics,14,4,10,1,0
+496,School of Astronomy,biology,8,8,0,2,0
+496,School of Astronomy,chemistry,42,12,30,3,0
+496,School of Astronomy,ess,22,12,10,3,0
+496,School of Astronomy,math,18,8,10,2,0
+496,School of Astronomy,physics,20,0,20,2,2
+500,Eastlake,biology,32,12,20,3,0
+500,Eastlake,chemistry,18,8,10,2,0
+500,Eastlake,ess,0,0,0,0,0
+500,Eastlake,math,4,4,0,1,0
+500,Eastlake,physics,28,8,20,2,0
+500,State College Area 1,biology,-4,-4,0,0,1
+500,State College Area 1,chemistry,28,8,20,2,0
+500,State College Area 1,ess,14,4,10,1,0
+500,State College Area 1,math,28,8,20,2,0
+500,State College Area 1,physics,-8,-8,0,0,2
+504,Collierville 2,biology,4,4,0,1,0
+504,Collierville 2,chemistry,14,4,10,1,0
+504,Collierville 2,ess,4,4,0,1,0
+504,Collierville 2,math,0,0,0,0,0
+504,Collierville 2,physics,0,0,0,0,0
+504,Thomas Jefferson 1,biology,32,12,20,3,0
+504,Thomas Jefferson 1,chemistry,32,12,20,3,0
+504,Thomas Jefferson 1,ess,10,0,10,1,1
+504,Thomas Jefferson 1,math,14,4,10,2,1
+504,Thomas Jefferson 1,physics,28,8,20,2,0
+511,BISV 1,biology,56,16,40,4,0
+511,BISV 1,chemistry,10,0,10,1,1
+511,BISV 1,ess,-4,-4,0,0,1
+511,BISV 1,math,14,4,10,2,1
+511,BISV 1,physics,42,12,30,3,0
+511,Punahou,biology,0,0,0,0,0
+511,Punahou,chemistry,42,12,30,3,0
+511,Punahou,ess,36,16,20,4,0
+511,Punahou,math,0,0,0,0,0
+511,Punahou,physics,0,0,0,1,1
+515,Arcadia 2,biology,0,0,0,0,0
+515,Arcadia 2,chemistry,0,0,0,0,0
+515,Arcadia 2,ess,4,4,0,1,0
+515,Arcadia 2,math,14,4,10,1,0
+515,Arcadia 2,physics,14,4,10,1,0
+515,BRMHS 1,biology,18,8,10,2,0
+515,BRMHS 1,chemistry,18,8,10,2,0
+515,BRMHS 1,ess,14,4,10,2,1
+515,BRMHS 1,math,28,8,20,2,0
+515,BRMHS 1,physics,24,4,20,2,1
+519,Iolani School 1,biology,4,4,0,1,0
+519,Iolani School 1,chemistry,0,0,0,0,0
+519,Iolani School 1,ess,0,0,0,1,1
+519,Iolani School 1,math,18,8,10,2,0
+519,Iolani School 1,physics,-8,-8,0,0,2
+519,Minnesota Institute of Timberwolves,biology,18,8,10,3,1
+519,Minnesota Institute of Timberwolves,chemistry,46,16,30,4,0
+519,Minnesota Institute of Timberwolves,ess,14,4,10,2,1
+519,Minnesota Institute of Timberwolves,math,14,4,10,1,0
+519,Minnesota Institute of Timberwolves,physics,42,12,30,3,0
+526,Bridgeland,biology,8,8,0,2,0
+526,Bridgeland,chemistry,14,4,10,1,0
+526,Bridgeland,ess,36,16,20,4,0
+526,Bridgeland,math,14,4,10,1,0
+526,Bridgeland,physics,-8,-8,0,0,2
+526,College Park,biology,28,8,20,2,0
+526,College Park,chemistry,32,12,20,3,0
+526,College Park,ess,-4,-4,0,0,1
+526,College Park,math,18,8,10,2,0
+526,College Park,physics,8,8,0,2,0
+530,ASFA 1,biology,12,12,0,3,0
+530,ASFA 1,chemistry,56,16,40,4,0
+530,ASFA 1,ess,28,8,20,3,1
+530,ASFA 1,math,18,8,10,2,0
+530,ASFA 1,physics,38,8,30,3,1
+530,WWPS 2,biology,14,4,10,1,0
+530,WWPS 2,chemistry,0,0,0,0,0
+530,WWPS 2,ess,0,0,0,0,0
+530,WWPS 2,math,10,0,10,2,2
+530,WWPS 2,physics,2,-8,10,1,3
+534,Harvard Westlake 2,biology,0,0,0,0,0
+534,Harvard Westlake 2,chemistry,0,0,0,0,0
+534,Harvard Westlake 2,ess,0,0,0,0,0
+534,Harvard Westlake 2,math,0,0,0,0,0
+534,Harvard Westlake 2,physics,0,0,0,0,0
+534,Mission San Jose 1,biology,38,8,30,3,1
+534,Mission San Jose 1,chemistry,56,16,40,4,0
+534,Mission San Jose 1,ess,36,16,20,4,0
+534,Mission San Jose 1,math,32,12,20,3,0
+534,Mission San Jose 1,physics,28,8,20,3,1
+541,Jericho 1,biology,42,12,30,3,0
+541,Jericho 1,chemistry,36,16,20,4,0
+541,Jericho 1,ess,18,8,10,2,0
+541,Jericho 1,math,4,4,0,1,0
+541,Jericho 1,physics,-8,-8,0,0,2
+541,Whitney Young 2,biology,0,0,0,0,0
+541,Whitney Young 2,chemistry,0,0,0,0,0
+541,Whitney Young 2,ess,0,0,0,0,0
+541,Whitney Young 2,math,14,4,10,1,0
+541,Whitney Young 2,physics,4,4,0,1,0
+545,Academies of Loudoun,biology,4,4,0,1,0
+545,Academies of Loudoun,chemistry,8,8,0,2,0
+545,Academies of Loudoun,ess,0,0,0,0,0
+545,Academies of Loudoun,math,4,4,0,1,0
+545,Academies of Loudoun,physics,0,0,0,1,1
+545,CCA 2,biology,0,0,0,0,0
+545,CCA 2,chemistry,14,4,10,1,0
+545,CCA 2,ess,18,8,10,2,0
+545,CCA 2,math,14,4,10,1,0
+545,CCA 2,physics,28,8,20,2,0
+549,BUMSJK,biology,4,4,0,1,0
+549,BUMSJK,chemistry,0,0,0,0,0
+549,BUMSJK,ess,0,0,0,0,0
+549,BUMSJK,math,0,0,0,1,1
+549,BUMSJK,physics,10,0,10,1,1
+549,Blair 1,biology,20,0,20,2,2
+549,Blair 1,chemistry,36,16,20,4,0
+549,Blair 1,ess,28,8,20,3,1
+549,Blair 1,math,24,4,20,2,1
+549,Blair 1,physics,38,8,30,3,1
+556,IMSA 2,biology,-4,-4,0,0,1
+556,IMSA 2,chemistry,0,0,0,0,0
+556,IMSA 2,ess,4,4,0,1,0
+556,IMSA 2,math,0,0,0,0,0
+556,IMSA 2,physics,-8,-8,0,0,2
+556,Lexington,biology,26,16,10,4,0
+556,Lexington,chemistry,8,8,0,3,1
+556,Lexington,ess,12,12,0,3,0
+556,Lexington,math,22,12,10,3,0
+556,Lexington,physics,4,4,0,1,0
+560,State College Area 2,biology,0,0,0,0,0
+560,State College Area 2,chemistry,0,0,0,0,0
+560,State College Area 2,ess,0,0,0,0,0
+560,State College Area 2,math,0,0,0,0,0
+560,State College Area 2,physics,0,0,0,0,0
+560,Throrthwood Tottenham,biology,28,8,20,2,0
+560,Throrthwood Tottenham,chemistry,56,16,40,4,0
+560,Throrthwood Tottenham,ess,12,12,0,3,0
+560,Throrthwood Tottenham,math,42,12,30,3,0
+560,Throrthwood Tottenham,physics,18,8,10,2,0
+385,CCA 1,biology,0,0,0,0,0
+385,CCA 1,chemistry,28,8,20,2,0
+385,CCA 1,ess,14,4,10,1,0
+385,CCA 1,math,28,8,20,2,0
+385,CCA 1,physics,8,8,0,2,0
+385,Ward Melville 2,biology,26,16,10,4,0
+385,Ward Melville 2,chemistry,8,8,0,2,0
+385,Ward Melville 2,ess,18,8,10,2,0
+385,Ward Melville 2,math,4,4,0,1,0
+385,Ward Melville 2,physics,8,8,0,2,0
+388,Cupertino 1,biology,0,0,0,0,0
+388,Cupertino 1,chemistry,0,0,0,0,0
+388,Cupertino 1,ess,18,8,10,2,0
+388,Cupertino 1,math,-4,-4,0,0,1
+388,Cupertino 1,physics,14,4,10,1,0
+388,Davidson Academy,biology,36,16,20,4,0
+388,Davidson Academy,chemistry,28,8,20,3,1
+388,Davidson Academy,ess,18,8,10,2,0
+388,Davidson Academy,math,36,16,20,4,0
+388,Davidson Academy,physics,32,12,20,3,0
+397,Temple City,biology,28,8,20,2,0
+397,Temple City,chemistry,18,8,10,2,0
+397,Temple City,ess,18,8,10,2,0
+397,Temple City,math,8,8,0,2,0
+397,Temple City,physics,20,0,20,2,2
+397,West Windsor-Plainsboro North,biology,24,4,20,2,1
+397,West Windsor-Plainsboro North,chemistry,8,8,0,2,0
+397,West Windsor-Plainsboro North,ess,18,8,10,2,0
+397,West Windsor-Plainsboro North,math,4,4,0,2,1
+397,West Windsor-Plainsboro North,physics,14,4,10,1,0
+400,Research Triangle,biology,0,0,0,0,0
+400,Research Triangle,chemistry,42,12,30,3,0
+400,Research Triangle,ess,4,4,0,1,0
+400,Research Triangle,math,4,4,0,1,0
+400,Research Triangle,physics,28,8,20,3,1
+400,VMATHs,biology,46,16,30,4,0
+400,VMATHs,chemistry,4,4,0,1,0
+400,VMATHs,ess,22,12,10,3,0
+400,VMATHs,math,12,12,0,3,0
+400,VMATHs,physics,0,0,0,0,0
+403,Clovis North High,biology,8,8,0,2,0
+403,Clovis North High,chemistry,18,8,10,2,0
+403,Clovis North High,ess,0,0,0,0,0
+403,Clovis North High,math,18,8,10,2,0
+403,Clovis North High,physics,10,0,10,1,1
+403,Lakeside 1,biology,18,8,10,2,0
+403,Lakeside 1,chemistry,28,8,20,2,0
+403,Lakeside 1,ess,36,16,20,4,0
+403,Lakeside 1,math,24,4,20,2,1
+403,Lakeside 1,physics,32,12,20,3,0
+412,Blair 2,biology,26,16,10,4,0
+412,Blair 2,chemistry,32,12,20,3,0
+412,Blair 2,ess,46,16,30,4,0
+412,Blair 2,math,-4,-4,0,1,2
+412,Blair 2,physics,10,0,10,1,1
+412,Troy 1,biology,0,0,0,0,0
+412,Troy 1,chemistry,14,4,10,1,0
+412,Troy 1,ess,0,0,0,0,0
+412,Troy 1,math,4,4,0,1,0
+412,Troy 1,physics,8,8,0,2,0
+415,Collierville 1,biology,22,12,10,3,0
+415,Collierville 1,chemistry,14,4,10,2,1
+415,Collierville 1,ess,18,8,10,2,0
+415,Collierville 1,math,4,4,0,1,0
+415,Collierville 1,physics,0,0,0,1,1
+415,Mission San Jose 2,biology,0,0,0,0,0
+415,Mission San Jose 2,chemistry,28,8,20,2,0
+415,Mission San Jose 2,ess,18,8,10,2,0
+415,Mission San Jose 2,math,0,0,0,2,2
+415,Mission San Jose 2,physics,18,8,10,2,0
+418,Hunter College 1,biology,14,4,10,1,0
+418,Hunter College 1,chemistry,0,0,0,0,0
+418,Hunter College 1,ess,32,12,20,3,0
+418,Hunter College 1,math,14,4,10,1,0
+418,Hunter College 1,physics,24,4,20,2,1
+418,Wayzata,biology,18,8,10,3,1
+418,Wayzata,chemistry,46,16,30,4,0
+418,Wayzata,ess,10,0,10,1,1
+418,Wayzata,math,22,12,10,3,0
+418,Wayzata,physics,18,8,10,2,0
+427,Camas,biology,42,12,30,3,0
+427,Camas,chemistry,4,4,0,1,0
+427,Camas,ess,4,4,0,1,0
+427,Camas,math,22,12,10,3,0
+427,Camas,physics,18,8,10,2,0
+427,IMSA 1,biology,-4,-4,0,0,1
+427,IMSA 1,chemistry,-4,-4,0,1,2
+427,IMSA 1,ess,14,4,10,1,0
+427,IMSA 1,math,-4,-4,0,0,1
+427,IMSA 1,physics,4,4,0,1,0
+430,Arcadia 1,biology,22,12,10,3,0
+430,Arcadia 1,chemistry,46,16,30,4,0
+430,Arcadia 1,ess,22,12,10,3,0
+430,Arcadia 1,math,-4,-4,0,0,1
+430,Arcadia 1,physics,32,12,20,3,0
+430,Westview 1,biology,4,4,0,1,0
+430,Westview 1,chemistry,0,0,0,0,0
+430,Westview 1,ess,0,0,0,0,0
+430,Westview 1,math,26,16,10,4,0
+430,Westview 1,physics,0,0,0,1,1
+433,James Clemens,biology,8,8,0,2,0
+433,James Clemens,chemistry,28,8,20,3,1
+433,James Clemens,ess,32,12,20,3,0
+433,James Clemens,math,4,4,0,2,1
+433,James Clemens,physics,0,0,0,1,1
+433,MSJ 3,biology,18,8,10,2,0
+433,MSJ 3,chemistry,0,0,0,0,0
+433,MSJ 3,ess,0,0,0,1,1
+433,MSJ 3,math,8,8,0,2,0
+433,MSJ 3,physics,28,8,20,2,0
+442,John P. Stevens,biology,4,4,0,1,0
+442,John P. Stevens,chemistry,0,0,0,0,0
+442,John P. Stevens,ess,0,0,0,0,0
+442,John P. Stevens,math,4,4,0,1,0
+442,John P. Stevens,physics,0,0,0,0,0
+442,Ladue,biology,28,8,20,2,0
+442,Ladue,chemistry,26,16,10,4,0
+442,Ladue,ess,28,8,20,2,0
+442,Ladue,math,32,12,20,3,0
+442,Ladue,physics,46,16,30,4,0
+445,BASIS Independent Fremont,biology,0,0,0,0,0
+445,BASIS Independent Fremont,chemistry,14,4,10,1,0
+445,BASIS Independent Fremont,ess,0,0,0,0,0
+445,BASIS Independent Fremont,math,8,8,0,2,0
+445,BASIS Independent Fremont,physics,-4,-4,0,0,1
+445,North Hollywood 1,biology,46,16,30,4,0
+445,North Hollywood 1,chemistry,32,12,20,3,0
+445,North Hollywood 1,ess,36,16,20,4,0
+445,North Hollywood 1,math,14,4,10,2,1
+445,North Hollywood 1,physics,42,12,30,3,0
+448,Palo Alto 1,biology,18,8,10,2,0
+448,Palo Alto 1,chemistry,46,16,30,4,0
+448,Palo Alto 1,ess,32,12,20,3,0
+448,Palo Alto 1,math,22,12,10,3,0
+448,Palo Alto 1,physics,28,8,20,2,0
+448,Princeton,biology,8,8,0,2,0
+448,Princeton,chemistry,-4,-4,0,0,1
+448,Princeton,ess,4,4,0,1,0
+448,Princeton,math,4,4,0,1,0
+448,Princeton,physics,18,8,10,2,0
+457,BRMHS 2,biology,4,4,0,1,0
+457,BRMHS 2,chemistry,36,16,20,4,0
+457,BRMHS 2,ess,18,8,10,2,0
+457,BRMHS 2,math,8,8,0,2,0
+457,BRMHS 2,physics,12,12,0,3,0
+457,Cupertino 2,biology,24,4,20,2,1
+457,Cupertino 2,chemistry,0,0,0,0,0
+457,Cupertino 2,ess,0,0,0,0,0
+457,Cupertino 2,math,8,8,0,2,0
+457,Cupertino 2,physics,4,4,0,1,0
+463,Harvard Westlake 1,biology,0,0,0,1,1
+463,Harvard Westlake 1,chemistry,26,16,10,4,0
+463,Harvard Westlake 1,ess,18,8,10,2,0
+463,Harvard Westlake 1,math,4,4,0,2,1
+463,Harvard Westlake 1,physics,-4,-4,0,0,1
+463,University 1,biology,18,8,10,2,0
+463,University 1,chemistry,0,0,0,0,0
+463,University 1,ess,4,4,0,1,0
+463,University 1,math,10,0,10,2,2
+463,University 1,physics,32,12,20,3,0
+472,Jericho 2,biology,4,4,0,1,0
+472,Jericho 2,chemistry,-4,-4,0,0,1
+472,Jericho 2,ess,0,0,0,0,0
+472,Jericho 2,math,12,12,0,3,0
+472,Jericho 2,physics,0,0,0,0,0
+472,WWPS 1,biology,22,12,10,3,0
+472,WWPS 1,chemistry,36,16,20,4,0
+472,WWPS 1,ess,46,16,30,4,0
+472,WWPS 1,math,14,4,10,1,0
+472,WWPS 1,physics,42,12,30,3,0
+475,AHB 1,biology,4,4,0,1,0
+475,AHB 1,chemistry,18,8,10,2,0
+475,AHB 1,ess,0,0,0,0,0
+475,AHB 1,math,10,0,10,1,1
+475,AHB 1,physics,0,0,0,0,0
+475,Ward Melville 1,biology,42,12,30,3,0
+475,Ward Melville 1,chemistry,24,4,20,2,1
+475,Ward Melville 1,ess,28,8,20,2,0
+475,Ward Melville 1,math,28,8,20,3,1
+475,Ward Melville 1,physics,18,8,10,3,1
+478,Blair 3,biology,0,0,0,0,0
+478,Blair 3,chemistry,0,0,0,0,0
+478,Blair 3,ess,18,8,10,2,0
+478,Blair 3,math,8,8,0,2,0
+478,Blair 3,physics,4,4,0,1,0
+478,OCSA,biology,22,12,10,3,0
+478,OCSA,chemistry,36,16,20,4,0
+478,OCSA,ess,14,4,10,1,0
+478,OCSA,math,8,8,0,2,0
+478,OCSA,physics,22,12,10,3,0
+487,BISV 2,biology,0,0,0,0,0
+487,BISV 2,chemistry,28,8,20,2,0
+487,BISV 2,ess,8,8,0,2,0
+487,BISV 2,math,8,8,0,2,0
+487,BISV 2,physics,28,8,20,3,1
+487,Whitney Young 1,biology,26,16,10,4,0
+487,Whitney Young 1,chemistry,8,8,0,2,0
+487,Whitney Young 1,ess,4,4,0,1,0
+487,Whitney Young 1,math,18,8,10,2,0
+487,Whitney Young 1,physics,4,4,0,1,0
+490,Eastlake,biology,18,8,10,2,0
+490,Eastlake,chemistry,18,8,10,2,0
+490,Eastlake,ess,4,4,0,1,0
+490,Eastlake,math,18,8,10,3,1
+490,Eastlake,physics,32,12,20,3,0
+490,University 2,biology,14,4,10,1,0
+490,University 2,chemistry,4,4,0,1,0
+490,University 2,ess,4,4,0,1,0
+490,University 2,math,0,0,0,1,1
+490,University 2,physics,14,4,10,1,0
+493,School of Astronomy,biology,0,0,0,1,1
+493,School of Astronomy,chemistry,0,0,0,1,1
+493,School of Astronomy,ess,14,4,10,1,0
+493,School of Astronomy,math,22,12,10,3,0
+493,School of Astronomy,physics,10,0,10,1,1
+493,The Frazer School 1,biology,14,4,10,2,1
+493,The Frazer School 1,chemistry,42,12,30,3,0
+493,The Frazer School 1,ess,0,0,0,1,1
+493,The Frazer School 1,math,4,4,0,1,0
+493,The Frazer School 1,physics,42,12,30,3,0
+502,Lynbrook 1,biology,0,0,0,0,0
+502,Lynbrook 1,chemistry,14,4,10,2,1
+502,Lynbrook 1,ess,4,4,0,1,0
+502,Lynbrook 1,math,0,0,0,0,0
+502,Lynbrook 1,physics,28,8,20,2,0
+502,State College Area 1,biology,0,0,0,0,0
+502,State College Area 1,chemistry,14,4,10,1,0
+502,State College Area 1,ess,8,8,0,2,0
+502,State College Area 1,math,18,8,10,3,1
+502,State College Area 1,physics,10,0,10,1,1
+505,BRMHS 1,biology,18,8,10,2,0
+505,BRMHS 1,chemistry,22,12,10,3,0
+505,BRMHS 1,ess,26,16,10,4,0
+505,BRMHS 1,math,-4,-4,0,0,1
+505,BRMHS 1,physics,10,0,10,1,1
+505,Collierville 2,biology,8,8,0,2,0
+505,Collierville 2,chemistry,10,0,10,1,1
+505,Collierville 2,ess,0,0,0,0,0
+505,Collierville 2,math,12,12,0,3,0
+505,Collierville 2,physics,4,4,0,1,0
+508,Punahou,biology,10,0,10,1,1
+508,Punahou,chemistry,22,12,10,3,0
+508,Punahou,ess,42,12,30,3,0
+508,Punahou,math,0,0,0,1,1
+508,Punahou,physics,14,4,10,1,0
+508,Thomas Jefferson 1,biology,22,12,10,3,0
+508,Thomas Jefferson 1,chemistry,20,0,20,1,1
+508,Thomas Jefferson 1,ess,0,0,0,0,0
+508,Thomas Jefferson 1,math,22,12,10,3,0
+508,Thomas Jefferson 1,physics,12,12,0,3,0
+517,Arcadia 2,biology,4,4,0,1,0
+517,Arcadia 2,chemistry,14,4,10,1,0
+517,Arcadia 2,ess,4,4,0,1,0
+517,Arcadia 2,math,4,4,0,1,0
+517,Arcadia 2,physics,14,4,10,1,0
+517,BISV 1,biology,14,4,10,2,1
+517,BISV 1,chemistry,42,12,30,3,0
+517,BISV 1,ess,14,4,10,1,0
+517,BISV 1,math,18,8,10,3,1
+517,BISV 1,physics,20,0,20,2,2
+520,ASFA 1,biology,4,4,0,1,0
+520,ASFA 1,chemistry,6,-4,10,1,2
+520,ASFA 1,ess,32,12,20,3,0
+520,ASFA 1,math,10,0,10,1,1
+520,ASFA 1,physics,20,0,20,2,2
+520,Minnesota Institute of Timberwolves,biology,32,12,20,3,0
+520,Minnesota Institute of Timberwolves,chemistry,42,12,30,3,0
+520,Minnesota Institute of Timberwolves,ess,4,4,0,1,0
+520,Minnesota Institute of Timberwolves,math,28,8,20,3,1
+520,Minnesota Institute of Timberwolves,physics,14,4,10,2,1
+523,College Park,biology,12,12,0,3,0
+523,College Park,chemistry,32,12,20,3,0
+523,College Park,ess,8,8,0,2,0
+523,College Park,math,0,0,0,1,1
+523,College Park,physics,-4,-4,0,0,1
+523,Iolani School 1,biology,0,0,0,0,0
+523,Iolani School 1,chemistry,0,0,0,1,1
+523,Iolani School 1,ess,4,4,0,1,0
+523,Iolani School 1,math,18,8,10,2,0
+523,Iolani School 1,physics,32,12,20,3,0
+532,Bridgeland,biology,18,8,10,2,0
+532,Bridgeland,chemistry,0,0,0,0,0
+532,Bridgeland,ess,28,8,20,2,0
+532,Bridgeland,math,0,0,0,0,0
+532,Bridgeland,physics,-4,-4,0,0,1
+532,WWPS 2,biology,8,8,0,2,0
+532,WWPS 2,chemistry,36,16,20,4,0
+532,WWPS 2,ess,4,4,0,1,0
+532,WWPS 2,math,26,16,10,4,0
+532,WWPS 2,physics,56,16,40,4,0
+535,CCA 2,biology,4,4,0,1,0
+535,CCA 2,chemistry,22,12,10,3,0
+535,CCA 2,ess,8,8,0,2,0
+535,CCA 2,math,8,8,0,2,0
+535,CCA 2,physics,4,4,0,1,0
+535,Harvard Westlake 2,biology,8,8,0,2,0
+535,Harvard Westlake 2,chemistry,0,0,0,0,0
+535,Harvard Westlake 2,ess,4,4,0,1,0
+535,Harvard Westlake 2,math,18,8,10,2,0
+535,Harvard Westlake 2,physics,8,8,0,2,0
+538,Jericho 1,biology,14,4,10,1,0
+538,Jericho 1,chemistry,14,4,10,1,0
+538,Jericho 1,ess,0,0,0,0,0
+538,Jericho 1,math,8,8,0,2,0
+538,Jericho 1,physics,22,12,10,3,0
+538,Mission San Jose 1,biology,28,8,20,3,1
+538,Mission San Jose 1,chemistry,10,0,10,2,2
+538,Mission San Jose 1,ess,46,16,30,4,0
+538,Mission San Jose 1,math,24,4,20,2,1
+538,Mission San Jose 1,physics,6,-4,10,1,2
+547,Academies of Loudoun,biology,0,0,0,0,0
+547,Academies of Loudoun,chemistry,18,8,10,2,0
+547,Academies of Loudoun,ess,4,4,0,1,0
+547,Academies of Loudoun,math,4,4,0,1,0
+547,Academies of Loudoun,physics,28,8,20,2,0
+547,Whitney Young 2,biology,18,8,10,2,0
+547,Whitney Young 2,chemistry,0,0,0,0,0
+547,Whitney Young 2,ess,4,4,0,1,0
+547,Whitney Young 2,math,14,4,10,2,1
+547,Whitney Young 2,physics,0,0,0,0,0
+550,Blair 1,biology,22,12,10,3,0
+550,Blair 1,chemistry,56,16,40,4,0
+550,Blair 1,ess,46,16,30,4,0
+550,Blair 1,math,46,16,30,4,0
+550,Blair 1,physics,56,16,40,4,0
+550,State College Area 2,biology,0,0,0,0,0
+550,State College Area 2,chemistry,0,0,0,0,0
+550,State College Area 2,ess,0,0,0,0,0
+550,State College Area 2,math,0,0,0,0,0
+550,State College Area 2,physics,0,0,0,0,0
+553,BUMSJK,biology,0,0,0,0,0
+553,BUMSJK,chemistry,0,0,0,0,0
+553,BUMSJK,ess,0,0,0,0,0
+553,BUMSJK,math,18,8,10,2,0
+553,BUMSJK,physics,18,8,10,2,0
+553,Lexington,biology,12,12,0,3,0
+553,Lexington,chemistry,26,16,10,4,0
+553,Lexington,ess,36,16,20,4,0
+553,Lexington,math,18,8,10,2,0
+553,Lexington,physics,-4,-4,0,0,1
+562,IMSA 2,biology,4,4,0,1,0
+562,IMSA 2,chemistry,0,0,0,0,0
+562,IMSA 2,ess,14,4,10,1,0
+562,IMSA 2,math,0,0,0,0,0
+562,IMSA 2,physics,0,0,0,0,0
+562,Throrthwood Tottenham,biology,38,8,30,3,1
+562,Throrthwood Tottenham,chemistry,56,16,40,4,0
+562,Throrthwood Tottenham,ess,42,12,30,3,0
+562,Throrthwood Tottenham,math,32,12,20,3,0
+562,Throrthwood Tottenham,physics,28,8,20,2,0
+386,Temple City,biology,6,-4,10,1,2
+386,Temple City,chemistry,8,8,0,2,0
+386,Temple City,ess,-4,-4,0,1,2
+386,Temple City,math,0,0,0,0,0
+386,Temple City,physics,28,8,20,3,1
+386,Ward Melville 2,biology,14,4,10,2,1
+386,Ward Melville 2,chemistry,14,4,10,1,0
+386,Ward Melville 2,ess,0,0,0,0,0
+386,Ward Melville 2,math,0,0,0,0,0
+386,Ward Melville 2,physics,0,0,0,0,0
+389,CCA 1,biology,18,8,10,2,0
+389,CCA 1,chemistry,32,12,20,3,0
+389,CCA 1,ess,0,0,0,0,0
+389,CCA 1,math,4,4,0,1,0
+389,CCA 1,physics,0,0,0,0,0
+389,Cupertino 1,biology,-8,-8,0,0,2
+389,Cupertino 1,chemistry,-4,-4,0,0,1
+389,Cupertino 1,ess,0,0,0,0,0
+389,Cupertino 1,math,0,0,0,1,1
+389,Cupertino 1,physics,18,8,10,2,0
+394,Davidson Academy,biology,10,0,10,1,1
+394,Davidson Academy,chemistry,18,8,10,2,0
+394,Davidson Academy,ess,0,0,0,0,0
+394,Davidson Academy,math,18,8,10,2,0
+394,Davidson Academy,physics,24,4,20,2,1
+394,West Windsor-Plainsboro North,biology,42,12,30,3,0
+394,West Windsor-Plainsboro North,chemistry,18,8,10,2,0
+394,West Windsor-Plainsboro North,ess,14,4,10,2,1
+394,West Windsor-Plainsboro North,math,14,4,10,1,0
+394,West Windsor-Plainsboro North,physics,14,4,10,1,0
+401,Troy 1,biology,-4,-4,0,0,1
+401,Troy 1,chemistry,22,12,10,3,0
+401,Troy 1,ess,0,0,0,0,0
+401,Troy 1,math,4,4,0,1,0
+401,Troy 1,physics,-4,-4,0,0,1
+401,VMATHs,biology,24,4,20,2,1
+401,VMATHs,chemistry,4,4,0,1,0
+401,VMATHs,ess,14,4,10,1,0
+401,VMATHs,math,28,8,20,2,0
+401,VMATHs,physics,22,12,10,3,0
+404,Clovis North High,biology,28,8,20,3,1
+404,Clovis North High,chemistry,4,4,0,1,0
+404,Clovis North High,ess,0,0,0,0,0
+404,Clovis North High,math,0,0,0,0,0
+404,Clovis North High,physics,24,4,20,2,1
+404,Research Triangle,biology,0,0,0,0,0
+404,Research Triangle,chemistry,22,12,10,3,0
+404,Research Triangle,ess,0,0,0,0,0
+404,Research Triangle,math,0,0,0,0,0
+404,Research Triangle,physics,14,4,10,2,1
+409,Blair 2,biology,14,4,10,2,1
+409,Blair 2,chemistry,0,0,0,0,0
+409,Blair 2,ess,14,4,10,2,1
+409,Blair 2,math,0,0,0,1,1
+409,Blair 2,physics,32,12,20,3,0
+409,Lakeside 1,biology,0,0,0,0,0
+409,Lakeside 1,chemistry,36,16,20,4,0
+409,Lakeside 1,ess,14,4,10,1,0
+409,Lakeside 1,math,18,8,10,2,0
+409,Lakeside 1,physics,4,4,0,1,0
+416,IMSA 1,biology,4,4,0,1,0
+416,IMSA 1,chemistry,14,4,10,1,0
+416,IMSA 1,ess,0,0,0,0,0
+416,IMSA 1,math,10,0,10,1,1
+416,IMSA 1,physics,28,8,20,3,1
+416,Mission San Jose 2,biology,24,4,20,2,1
+416,Mission San Jose 2,chemistry,22,12,10,3,0
+416,Mission San Jose 2,ess,8,8,0,3,1
+416,Mission San Jose 2,math,10,0,10,1,1
+416,Mission San Jose 2,physics,14,4,10,1,0
+419,Collierville 1,biology,-8,-8,0,0,2
+419,Collierville 1,chemistry,22,12,10,3,0
+419,Collierville 1,ess,0,0,0,1,1
+419,Collierville 1,math,0,0,0,0,0
+419,Collierville 1,physics,4,4,0,1,0
+419,Wayzata,biology,18,8,10,2,0
+419,Wayzata,chemistry,14,4,10,1,0
+419,Wayzata,ess,10,0,10,1,1
+419,Wayzata,math,28,8,20,2,0
+419,Wayzata,physics,18,8,10,2,0
+424,Camas,biology,10,0,10,1,1
+424,Camas,chemistry,0,0,0,0,0
+424,Camas,ess,0,0,0,0,0
+424,Camas,math,0,0,0,0,0
+424,Camas,physics,0,0,0,0,0
+424,Hunter College 1,biology,18,8,10,2,0
+424,Hunter College 1,chemistry,46,16,30,4,0
+424,Hunter College 1,ess,14,4,10,2,1
+424,Hunter College 1,math,32,12,20,3,0
+424,Hunter College 1,physics,28,8,20,3,1
+431,Arcadia 1,biology,14,4,10,2,1
+431,Arcadia 1,chemistry,36,16,20,4,0
+431,Arcadia 1,ess,0,0,0,0,0
+431,Arcadia 1,math,8,8,0,2,0
+431,Arcadia 1,physics,28,8,20,2,0
+431,John P. Stevens,biology,-4,-4,0,0,1
+431,John P. Stevens,chemistry,0,0,0,0,0
+431,John P. Stevens,ess,4,4,0,1,0
+431,John P. Stevens,math,0,0,0,0,0
+431,John P. Stevens,physics,4,4,0,1,0
+434,MSJ 3,biology,28,8,20,3,1
+434,MSJ 3,chemistry,18,8,10,2,0
+434,MSJ 3,ess,18,8,10,3,1
+434,MSJ 3,math,4,4,0,1,0
+434,MSJ 3,physics,0,0,0,0,0
+434,Westview 1,biology,0,0,0,0,0
+434,Westview 1,chemistry,14,4,10,1,0
+434,Westview 1,ess,0,0,0,0,0
+434,Westview 1,math,8,8,0,2,0
+434,Westview 1,physics,18,8,10,2,0
+439,James Clemens,biology,18,8,10,2,0
+439,James Clemens,chemistry,12,12,0,3,0
+439,James Clemens,ess,32,12,20,3,0
+439,James Clemens,math,-4,-4,0,0,1
+439,James Clemens,physics,24,4,20,2,1
+439,Ladue,biology,10,0,10,1,1
+439,Ladue,chemistry,10,0,10,1,1
+439,Ladue,ess,0,0,0,0,0
+439,Ladue,math,42,12,30,3,0
+439,Ladue,physics,28,8,20,2,0
+446,BRMHS 2,biology,0,0,0,0,0
+446,BRMHS 2,chemistry,0,0,0,0,0
+446,BRMHS 2,ess,0,0,0,0,0
+446,BRMHS 2,math,0,0,0,0,0
+446,BRMHS 2,physics,0,0,0,0,0
+446,North Hollywood 1,biology,20,0,20,2,2
+446,North Hollywood 1,chemistry,4,4,0,2,1
+446,North Hollywood 1,ess,38,8,30,3,1
+446,North Hollywood 1,math,18,8,10,2,0
+446,North Hollywood 1,physics,18,8,10,2,0
+449,BASIS Independent Fremont,biology,8,8,0,2,0
+449,BASIS Independent Fremont,chemistry,0,0,0,0,0
+449,BASIS Independent Fremont,ess,0,0,0,0,0
+449,BASIS Independent Fremont,math,14,4,10,1,0
+449,BASIS Independent Fremont,physics,14,4,10,1,0
+449,Palo Alto 1,biology,-4,-4,0,1,2
+449,Palo Alto 1,chemistry,36,16,20,4,0
+449,Palo Alto 1,ess,-4,-4,0,0,1
+449,Palo Alto 1,math,28,8,20,2,0
+449,Palo Alto 1,physics,38,8,30,3,1
+454,Cupertino 2,biology,14,4,10,2,1
+454,Cupertino 2,chemistry,0,0,0,0,0
+454,Cupertino 2,ess,14,4,10,1,0
+454,Cupertino 2,math,4,4,0,1,0
+454,Cupertino 2,physics,0,0,0,0,0
+454,Princeton,biology,28,8,20,2,0
+454,Princeton,chemistry,22,12,10,3,0
+454,Princeton,ess,4,4,0,2,1
+454,Princeton,math,0,0,0,0,0
+454,Princeton,physics,4,4,0,2,1
+464,North Hollywood 2,biology,18,8,10,2,0
+464,North Hollywood 2,chemistry,14,4,10,1,0
+464,North Hollywood 2,ess,10,0,10,2,2
+464,North Hollywood 2,math,14,4,10,1,0
+464,North Hollywood 2,physics,14,4,10,2,1
+464,University 1,biology,10,0,10,1,1
+464,University 1,chemistry,4,4,0,2,1
+464,University 1,ess,-4,-4,0,0,1
+464,University 1,math,10,0,10,2,2
+464,University 1,physics,6,-4,10,1,2
+469,Harvard Westlake 1,biology,14,4,10,2,1
+469,Harvard Westlake 1,chemistry,4,4,0,1,0
+469,Harvard Westlake 1,ess,-4,-4,0,0,1
+469,Harvard Westlake 1,math,0,0,0,0,0
+469,Harvard Westlake 1,physics,22,12,10,3,0
+469,Jericho 2,biology,-4,-4,0,0,1
+469,Jericho 2,chemistry,8,8,0,2,0
+469,Jericho 2,ess,4,4,0,1,0
+469,Jericho 2,math,4,4,0,1,0
+469,Jericho 2,physics,-4,-4,0,0,1
+476,Ward Melville 1,biology,14,4,10,2,1
+476,Ward Melville 1,chemistry,10,0,10,1,1
+476,Ward Melville 1,ess,0,0,0,0,0
+476,Ward Melville 1,math,46,16,30,4,0
+476,Ward Melville 1,physics,6,-4,10,1,2
+476,Whitney Young 1,biology,4,4,0,1,0
+476,Whitney Young 1,chemistry,14,4,10,1,0
+476,Whitney Young 1,ess,14,4,10,1,0
+476,Whitney Young 1,math,0,0,0,0,0
+476,Whitney Young 1,physics,22,12,10,3,0
+479,AHB 1,biology,6,-4,10,1,2
+479,AHB 1,chemistry,18,8,10,2,0
+479,AHB 1,ess,18,8,10,2,0
+479,AHB 1,math,4,4,0,1,0
+479,AHB 1,physics,-4,-4,0,1,2
+479,OCSA,biology,0,0,0,1,1
+479,OCSA,chemistry,24,4,20,2,1
+479,OCSA,ess,10,0,10,1,1
+479,OCSA,math,0,0,0,0,0
+479,OCSA,physics,10,0,10,1,1
+484,BISV 2,biology,8,8,0,2,0
+484,BISV 2,chemistry,26,16,10,4,0
+484,BISV 2,ess,0,0,0,0,0
+484,BISV 2,math,0,0,0,0,0
+484,BISV 2,physics,14,4,10,2,1
+484,Blair 3,biology,4,4,0,1,0
+484,Blair 3,chemistry,0,0,0,0,0
+484,Blair 3,ess,4,4,0,1,0
+484,Blair 3,math,18,8,10,2,0
+484,Blair 3,physics,0,0,0,0,0
+491,State College Area 1,biology,0,0,0,0,0
+491,State College Area 1,chemistry,36,16,20,4,0
+491,State College Area 1,ess,0,0,0,0,0
+491,State College Area 1,math,14,4,10,1,0
+491,State College Area 1,physics,-4,-4,0,0,1
+491,University 2,biology,28,8,20,2,0
+491,University 2,chemistry,0,0,0,0,0
+491,University 2,ess,24,4,20,2,1
+491,University 2,math,0,0,0,1,1
+491,University 2,physics,42,12,30,3,0
+494,Eastlake,biology,0,0,0,1,1
+494,Eastlake,chemistry,-4,-4,0,0,1
+494,Eastlake,ess,4,4,0,1,0
+494,Eastlake,math,22,12,10,3,0
+494,Eastlake,physics,4,4,0,1,0
+494,School of Astronomy,biology,14,4,10,1,0
+494,School of Astronomy,chemistry,10,0,10,2,2
+494,School of Astronomy,ess,14,4,10,1,0
+494,School of Astronomy,math,0,0,0,0,0
+494,School of Astronomy,physics,14,4,10,2,1
+499,Lynbrook 1,biology,14,4,10,1,0
+499,Lynbrook 1,chemistry,18,8,10,2,0
+499,Lynbrook 1,ess,0,0,0,0,0
+499,Lynbrook 1,math,4,4,0,1,0
+499,Lynbrook 1,physics,28,8,20,2,0
+499,The Frazer School 1,biology,42,12,30,3,0
+499,The Frazer School 1,chemistry,18,8,10,2,0
+499,The Frazer School 1,ess,-4,-4,0,0,1
+499,The Frazer School 1,math,28,8,20,2,0
+499,The Frazer School 1,physics,18,8,10,2,0
+506,Arcadia 2,biology,4,4,0,1,0
+506,Arcadia 2,chemistry,22,12,10,3,0
+506,Arcadia 2,ess,18,8,10,2,0
+506,Arcadia 2,math,4,4,0,1,0
+506,Arcadia 2,physics,14,4,10,2,1
+506,Collierville 2,biology,18,8,10,2,0
+506,Collierville 2,chemistry,0,0,0,0,0
+506,Collierville 2,ess,4,4,0,1,0
+506,Collierville 2,math,4,4,0,1,0
+506,Collierville 2,physics,4,4,0,1,0
+509,BRMHS 1,biology,10,0,10,1,1
+509,BRMHS 1,chemistry,22,12,10,3,0
+509,BRMHS 1,ess,0,0,0,0,0
+509,BRMHS 1,math,0,0,0,0,0
+509,BRMHS 1,physics,4,4,0,1,0
+509,Punahou,biology,14,4,10,2,1
+509,Punahou,chemistry,10,0,10,1,1
+509,Punahou,ess,46,16,30,4,0
+509,Punahou,math,14,4,10,1,0
+509,Punahou,physics,32,12,20,3,0
+514,BISV 1,biology,28,8,20,3,1
+514,BISV 1,chemistry,22,12,10,3,0
+514,BISV 1,ess,4,4,0,1,0
+514,BISV 1,math,14,4,10,1,0
+514,BISV 1,physics,28,8,20,2,0
+514,Thomas Jefferson 1,biology,0,0,0,0,0
+514,Thomas Jefferson 1,chemistry,14,4,10,1,0
+514,Thomas Jefferson 1,ess,28,8,20,2,0
+514,Thomas Jefferson 1,math,18,8,10,2,0
+514,Thomas Jefferson 1,physics,14,4,10,1,0
+521,Minnesota Institute of Timberwolves,biology,46,16,30,4,0
+521,Minnesota Institute of Timberwolves,chemistry,46,16,30,4,0
+521,Minnesota Institute of Timberwolves,ess,0,0,0,1,1
+521,Minnesota Institute of Timberwolves,math,22,12,10,3,0
+521,Minnesota Institute of Timberwolves,physics,28,8,20,3,1
+521,WWPS 2,biology,-4,-4,0,0,1
+521,WWPS 2,chemistry,0,0,0,0,0
+521,WWPS 2,ess,8,8,0,2,0
+521,WWPS 2,math,-8,-8,0,0,2
+521,WWPS 2,physics,14,4,10,1,0
+524,ASFA 1,biology,10,0,10,1,1
+524,ASFA 1,chemistry,46,16,30,4,0
+524,ASFA 1,ess,28,8,20,3,1
+524,ASFA 1,math,42,12,30,3,0
+524,ASFA 1,physics,32,12,20,3,0
+524,College Park,biology,12,12,0,3,0
+524,College Park,chemistry,-4,-4,0,0,1
+524,College Park,ess,4,4,0,1,0
+524,College Park,math,-4,-4,0,0,1
+524,College Park,physics,0,0,0,0,0
+529,Bridgeland,biology,42,12,30,3,0
+529,Bridgeland,chemistry,18,8,10,2,0
+529,Bridgeland,ess,14,4,10,1,0
+529,Bridgeland,math,8,8,0,2,0
+529,Bridgeland,physics,10,0,10,1,1
+529,Iolani School 1,biology,0,0,0,0,0
+529,Iolani School 1,chemistry,18,8,10,2,0
+529,Iolani School 1,ess,4,4,0,1,0
+529,Iolani School 1,math,28,8,20,2,0
+529,Iolani School 1,physics,0,0,0,1,1
+536,Academies of Loudoun,biology,0,0,0,0,0
+536,Academies of Loudoun,chemistry,4,4,0,1,0
+536,Academies of Loudoun,ess,8,8,0,2,0
+536,Academies of Loudoun,math,0,0,0,0,0
+536,Academies of Loudoun,physics,0,0,0,0,0
+536,Harvard Westlake 2,biology,22,12,10,3,0
+536,Harvard Westlake 2,chemistry,4,4,0,1,0
+536,Harvard Westlake 2,ess,0,0,0,0,0
+536,Harvard Westlake 2,math,4,4,0,1,0
+536,Harvard Westlake 2,physics,14,4,10,1,0
+539,CCA 2,biology,4,4,0,1,0
+539,CCA 2,chemistry,0,0,0,1,1
+539,CCA 2,ess,0,0,0,0,0
+539,CCA 2,math,8,8,0,2,0
+539,CCA 2,physics,14,4,10,1,0
+539,Jericho 1,biology,42,12,30,3,0
+539,Jericho 1,chemistry,32,12,20,3,0
+539,Jericho 1,ess,4,4,0,1,0
+539,Jericho 1,math,0,0,0,0,0
+539,Jericho 1,physics,14,4,10,1,0
+544,Mission San Jose 1,biology,20,0,20,2,2
+544,Mission San Jose 1,chemistry,36,16,20,4,0
+544,Mission San Jose 1,ess,46,16,30,4,0
+544,Mission San Jose 1,math,42,12,30,3,0
+544,Mission San Jose 1,physics,38,8,30,3,1
+544,Whitney Young 2,biology,0,0,0,0,0
+544,Whitney Young 2,chemistry,0,0,0,0,0
+544,Whitney Young 2,ess,0,0,0,0,0
+544,Whitney Young 2,math,0,0,0,0,0
+544,Whitney Young 2,physics,0,0,0,0,0
+551,Blair 1,biology,0,0,0,1,1
+551,Blair 1,chemistry,6,-4,10,1,2
+551,Blair 1,ess,10,0,10,1,1
+551,Blair 1,math,32,12,20,3,0
+551,Blair 1,physics,28,8,20,2,0
+551,Throrthwood Tottenham,biology,18,8,10,2,0
+551,Throrthwood Tottenham,chemistry,18,8,10,2,0
+551,Throrthwood Tottenham,ess,32,12,20,3,0
+551,Throrthwood Tottenham,math,0,0,0,0,0
+551,Throrthwood Tottenham,physics,4,4,0,1,0
+554,Lexington,biology,8,8,0,2,0
+554,Lexington,chemistry,12,12,0,3,0
+554,Lexington,ess,0,0,0,0,0
+554,Lexington,math,0,0,0,0,0
+554,Lexington,physics,12,12,0,3,0
+554,State College Area 2,biology,0,0,0,0,0
+554,State College Area 2,chemistry,0,0,0,0,0
+554,State College Area 2,ess,0,0,0,0,0
+554,State College Area 2,math,0,0,0,0,0
+554,State College Area 2,physics,0,0,0,0,0
+559,BUMSJK,biology,0,0,0,0,0
+559,BUMSJK,chemistry,8,8,0,2,0
+559,BUMSJK,ess,4,4,0,1,0
+559,BUMSJK,math,4,4,0,1,0
+559,BUMSJK,physics,0,0,0,1,1
+559,IMSA 2,biology,4,4,0,2,1
+559,IMSA 2,chemistry,4,4,0,1,0
+559,IMSA 2,ess,4,4,0,1,0
+559,IMSA 2,math,0,0,0,0,0
+559,IMSA 2,physics,0,0,0,1,1
+387,Ward Melville 2,biology,-4,-4,0,0,1
+387,Ward Melville 2,chemistry,-4,-4,0,0,1
+387,Ward Melville 2,ess,0,0,0,0,0
+387,Ward Melville 2,math,8,8,0,2,0
+387,Ward Melville 2,physics,4,4,0,1,0
+387,West Windsor-Plainsboro North,biology,4,4,0,2,1
+387,West Windsor-Plainsboro North,chemistry,22,12,10,3,0
+387,West Windsor-Plainsboro North,ess,22,12,10,3,0
+387,West Windsor-Plainsboro North,math,10,0,10,1,1
+387,West Windsor-Plainsboro North,physics,8,8,0,2,0
+390,Cupertino 1,biology,14,4,10,1,0
+390,Cupertino 1,chemistry,0,0,0,1,1
+390,Cupertino 1,ess,0,0,0,0,0
+390,Cupertino 1,math,4,4,0,1,0
+390,Cupertino 1,physics,4,4,0,1,0
+390,Temple City,biology,8,8,0,2,0
+390,Temple City,chemistry,8,8,0,2,0
+390,Temple City,ess,26,16,10,4,0
+390,Temple City,math,8,8,0,2,0
+390,Temple City,physics,12,12,0,3,0
+392,CCA 1,biology,18,8,10,2,0
+392,CCA 1,chemistry,0,0,0,0,0
+392,CCA 1,ess,10,0,10,1,1
+392,CCA 1,math,0,0,0,0,0
+392,CCA 1,physics,0,0,0,0,0
+392,Davidson Academy,biology,14,4,10,1,0
+392,Davidson Academy,chemistry,56,16,40,4,0
+392,Davidson Academy,ess,0,0,0,1,1
+392,Davidson Academy,math,18,8,10,3,1
+392,Davidson Academy,physics,8,8,0,3,1
+402,Blair 2,biology,18,8,10,2,0
+402,Blair 2,chemistry,18,8,10,2,0
+402,Blair 2,ess,24,4,20,2,1
+402,Blair 2,math,-8,-8,0,0,2
+402,Blair 2,physics,26,16,10,4,0
+402,VMATHs,biology,4,4,0,1,0
+402,VMATHs,chemistry,18,8,10,2,0
+402,VMATHs,ess,4,4,0,1,0
+402,VMATHs,math,46,16,30,4,0
+402,VMATHs,physics,0,0,0,0,0
+405,Clovis North High,biology,14,4,10,1,0
+405,Clovis North High,chemistry,18,8,10,2,0
+405,Clovis North High,ess,8,8,0,2,0
+405,Clovis North High,math,28,8,20,2,0
+405,Clovis North High,physics,22,12,10,3,0
+405,Troy 1,biology,18,8,10,2,0
+405,Troy 1,chemistry,0,0,0,1,1
+405,Troy 1,ess,18,8,10,2,0
+405,Troy 1,math,0,0,0,1,1
+405,Troy 1,physics,0,0,0,1,1
+407,Lakeside 1,biology,4,4,0,1,0
+407,Lakeside 1,chemistry,28,8,20,2,0
+407,Lakeside 1,ess,42,12,30,3,0
+407,Lakeside 1,math,0,0,0,1,1
+407,Lakeside 1,physics,22,12,10,3,0
+407,Research Triangle,biology,14,4,10,2,1
+407,Research Triangle,chemistry,18,8,10,2,0
+407,Research Triangle,ess,4,4,0,1,0
+407,Research Triangle,math,18,8,10,2,0
+407,Research Triangle,physics,0,0,0,0,0
+417,Camas,biology,-4,-4,0,0,1
+417,Camas,chemistry,-4,-4,0,0,1
+417,Camas,ess,8,8,0,2,0
+417,Camas,math,4,4,0,1,0
+417,Camas,physics,12,12,0,3,0
+417,Mission San Jose 2,biology,12,12,0,3,0
+417,Mission San Jose 2,chemistry,18,8,10,2,0
+417,Mission San Jose 2,ess,10,0,10,1,1
+417,Mission San Jose 2,math,0,0,0,1,1
+417,Mission San Jose 2,physics,4,4,0,1,0
+420,IMSA 1,biology,0,0,0,0,0
+420,IMSA 1,chemistry,4,4,0,1,0
+420,IMSA 1,ess,0,0,0,0,0
+420,IMSA 1,math,4,4,0,1,0
+420,IMSA 1,physics,0,0,0,0,0
+420,Wayzata,biology,4,4,0,2,1
+420,Wayzata,chemistry,32,12,20,3,0
+420,Wayzata,ess,4,4,0,2,1
+420,Wayzata,math,0,0,0,1,1
+420,Wayzata,physics,22,12,10,3,0
+422,Collierville 1,biology,22,12,10,3,0
+422,Collierville 1,chemistry,4,4,0,1,0
+422,Collierville 1,ess,0,0,0,1,1
+422,Collierville 1,math,0,0,0,0,0
+422,Collierville 1,physics,4,4,0,1,0
+422,Hunter College 1,biology,0,0,0,0,0
+422,Hunter College 1,chemistry,28,8,20,3,1
+422,Hunter College 1,ess,42,12,30,3,0
+422,Hunter College 1,math,10,0,10,2,2
+422,Hunter College 1,physics,18,8,10,3,1
+432,Arcadia 1,biology,-4,-4,0,0,1
+432,Arcadia 1,chemistry,14,4,10,1,0
+432,Arcadia 1,ess,8,8,0,2,0
+432,Arcadia 1,math,4,4,0,1,0
+432,Arcadia 1,physics,0,0,0,0,0
+432,Ladue,biology,42,12,30,3,0
+432,Ladue,chemistry,18,8,10,2,0
+432,Ladue,ess,6,-4,10,1,2
+432,Ladue,math,14,4,10,1,0
+432,Ladue,physics,36,16,20,4,0
+435,John P. Stevens,biology,-4,-4,0,0,1
+435,John P. Stevens,chemistry,4,4,0,1,0
+435,John P. Stevens,ess,0,0,0,0,0
+435,John P. Stevens,math,0,0,0,1,1
+435,John P. Stevens,physics,0,0,0,1,1
+435,MSJ 3,biology,0,0,0,1,1
+435,MSJ 3,chemistry,4,4,0,1,0
+435,MSJ 3,ess,4,4,0,2,1
+435,MSJ 3,math,-4,-4,0,0,1
+435,MSJ 3,physics,4,4,0,1,0
+437,James Clemens,biology,28,8,20,2,0
+437,James Clemens,chemistry,46,16,30,4,0
+437,James Clemens,ess,28,8,20,3,1
+437,James Clemens,math,0,0,0,1,1
+437,James Clemens,physics,4,4,0,2,1
+437,Westview 1,biology,-4,-4,0,0,1
+437,Westview 1,chemistry,0,0,0,0,0
+437,Westview 1,ess,0,0,0,0,0
+437,Westview 1,math,8,8,0,2,0
+437,Westview 1,physics,8,8,0,2,0
+447,Cupertino 2,biology,0,0,0,0,0
+447,Cupertino 2,chemistry,0,0,0,0,0
+447,Cupertino 2,ess,0,0,0,0,0
+447,Cupertino 2,math,0,0,0,0,0
+447,Cupertino 2,physics,4,4,0,1,0
+447,North Hollywood 1,biology,46,16,30,4,0
+447,North Hollywood 1,chemistry,46,16,30,4,0
+447,North Hollywood 1,ess,28,8,20,3,1
+447,North Hollywood 1,math,18,8,10,3,1
+447,North Hollywood 1,physics,18,8,10,3,1
+450,BRMHS 2,biology,4,4,0,1,0
+450,BRMHS 2,chemistry,0,0,0,0,0
+450,BRMHS 2,ess,0,0,0,0,0
+450,BRMHS 2,math,4,4,0,1,0
+450,BRMHS 2,physics,0,0,0,0,0
+450,Palo Alto 1,biology,14,4,10,1,0
+450,Palo Alto 1,chemistry,28,8,20,2,0
+450,Palo Alto 1,ess,4,4,0,1,0
+450,Palo Alto 1,math,24,4,20,2,1
+450,Palo Alto 1,physics,36,16,20,4,0
+452,BASIS Independent Fremont,biology,8,8,0,2,0
+452,BASIS Independent Fremont,chemistry,-4,-4,0,0,1
+452,BASIS Independent Fremont,ess,0,0,0,0,0
+452,BASIS Independent Fremont,math,-4,-4,0,0,1
+452,BASIS Independent Fremont,physics,-4,-4,0,0,1
+452,Princeton,biology,0,0,0,0,0
+452,Princeton,chemistry,22,12,10,3,0
+452,Princeton,ess,4,4,0,1,0
+452,Princeton,math,0,0,0,0,0
+452,Princeton,physics,8,8,0,2,0
+465,University 1,biology,8,8,0,2,0
+465,University 1,chemistry,28,8,20,2,0
+465,University 1,ess,18,8,10,2,0
+465,University 1,math,6,-4,10,1,2
+465,University 1,physics,22,12,10,3,0
+465,WWPS 1,biology,-4,-4,0,0,1
+465,WWPS 1,chemistry,0,0,0,2,2
+465,WWPS 1,ess,10,0,10,1,1
+465,WWPS 1,math,4,4,0,2,1
+465,WWPS 1,physics,4,4,0,1,0
+467,Harvard Westlake 1,biology,-8,-8,0,0,2
+467,Harvard Westlake 1,chemistry,8,8,0,2,0
+467,Harvard Westlake 1,ess,10,0,10,1,1
+467,Harvard Westlake 1,math,0,0,0,0,0
+467,Harvard Westlake 1,physics,4,4,0,1,0
+467,North Hollywood 2,biology,22,12,10,3,0
+467,North Hollywood 2,chemistry,4,4,0,1,0
+467,North Hollywood 2,ess,18,8,10,2,0
+467,North Hollywood 2,math,14,4,10,2,1
+467,North Hollywood 2,physics,22,12,10,3,0
+477,BISV 2,biology,-4,-4,0,0,1
+477,BISV 2,chemistry,0,0,0,0,0
+477,BISV 2,ess,0,0,0,0,0
+477,BISV 2,math,0,0,0,1,1
+477,BISV 2,physics,4,4,0,1,0
+477,Ward Melville 1,biology,-4,-4,0,1,2
+477,Ward Melville 1,chemistry,46,16,30,4,0
+477,Ward Melville 1,ess,32,12,20,3,0
+477,Ward Melville 1,math,14,4,10,2,1
+477,Ward Melville 1,physics,14,4,10,2,1
+480,OCSA,biology,14,4,10,1,0
+480,OCSA,chemistry,4,4,0,1,0
+480,OCSA,ess,32,12,20,3,0
+480,OCSA,math,18,8,10,2,0
+480,OCSA,physics,0,0,0,0,0
+480,Whitney Young 1,biology,0,0,0,0,0
+480,Whitney Young 1,chemistry,18,8,10,2,0
+480,Whitney Young 1,ess,10,0,10,1,1
+480,Whitney Young 1,math,-4,-4,0,0,1
+480,Whitney Young 1,physics,12,12,0,3,0
+482,AHB 1,biology,4,4,0,2,1
+482,AHB 1,chemistry,22,12,10,3,0
+482,AHB 1,ess,0,0,0,0,0
+482,AHB 1,math,14,4,10,1,0
+482,AHB 1,physics,14,4,10,2,1
+482,Blair 3,biology,0,0,0,0,0
+482,Blair 3,chemistry,0,0,0,0,0
+482,Blair 3,ess,0,0,0,0,0
+482,Blair 3,math,4,4,0,2,1
+482,Blair 3,physics,0,0,0,0,0
+492,Lynbrook 1,biology,0,0,0,0,0
+492,Lynbrook 1,chemistry,4,4,0,2,1
+492,Lynbrook 1,ess,8,8,0,2,0
+492,Lynbrook 1,math,0,0,0,0,0
+492,Lynbrook 1,physics,4,4,0,1,0
+492,University 2,biology,14,4,10,1,0
+492,University 2,chemistry,4,4,0,1,0
+492,University 2,ess,0,0,0,0,0
+492,University 2,math,18,8,10,2,0
+492,University 2,physics,4,4,0,1,0
+495,School of Astronomy,biology,0,0,0,1,1
+495,School of Astronomy,chemistry,18,8,10,2,0
+495,School of Astronomy,ess,0,0,0,1,1
+495,School of Astronomy,math,14,4,10,1,0
+495,School of Astronomy,physics,0,0,0,0,0
+495,State College Area 1,biology,0,0,0,0,0
+495,State College Area 1,chemistry,14,4,10,1,0
+495,State College Area 1,ess,0,0,0,0,0
+495,State College Area 1,math,10,0,10,1,1
+495,State College Area 1,physics,4,4,0,2,1
+497,Eastlake,biology,-8,-8,0,0,2
+497,Eastlake,chemistry,14,4,10,1,0
+497,Eastlake,ess,-8,-8,0,0,2
+497,Eastlake,math,10,0,10,1,1
+497,Eastlake,physics,4,4,0,1,0
+497,The Frazer School 1,biology,56,16,40,4,0
+497,The Frazer School 1,chemistry,42,12,30,3,0
+497,The Frazer School 1,ess,22,12,10,3,0
+497,The Frazer School 1,math,32,12,20,3,0
+497,The Frazer School 1,physics,32,12,20,3,0
+507,BISV 1,biology,22,12,10,3,0
+507,BISV 1,chemistry,22,12,10,3,0
+507,BISV 1,ess,22,12,10,3,0
+507,BISV 1,math,-8,-8,0,0,2
+507,BISV 1,physics,4,4,0,2,1
+507,Collierville 2,biology,10,0,10,1,1
+507,Collierville 2,chemistry,0,0,0,0,0
+507,Collierville 2,ess,4,4,0,1,0
+507,Collierville 2,math,8,8,0,2,0
+507,Collierville 2,physics,4,4,0,1,0
+510,Arcadia 2,biology,0,0,0,0,0
+510,Arcadia 2,chemistry,8,8,0,2,0
+510,Arcadia 2,ess,0,0,0,0,0
+510,Arcadia 2,math,0,0,0,0,0
+510,Arcadia 2,physics,8,8,0,2,0
+510,Punahou,biology,0,0,0,2,2
+510,Punahou,chemistry,8,8,0,2,0
+510,Punahou,ess,4,4,0,2,1
+510,Punahou,math,18,8,10,2,0
+510,Punahou,physics,4,4,0,1,0
+512,BRMHS 1,biology,0,0,0,1,1
+512,BRMHS 1,chemistry,18,8,10,2,0
+512,BRMHS 1,ess,18,8,10,2,0
+512,BRMHS 1,math,4,4,0,1,0
+512,BRMHS 1,physics,-4,-4,0,0,1
+512,Thomas Jefferson 1,biology,0,0,0,0,0
+512,Thomas Jefferson 1,chemistry,10,0,10,1,1
+512,Thomas Jefferson 1,ess,18,8,10,2,0
+512,Thomas Jefferson 1,math,18,8,10,2,0
+512,Thomas Jefferson 1,physics,16,16,0,4,0
+522,Bridgeland,biology,28,8,20,2,0
+522,Bridgeland,chemistry,0,0,0,0,0
+522,Bridgeland,ess,14,4,10,1,0
+522,Bridgeland,math,14,4,10,1,0
+522,Bridgeland,physics,0,0,0,0,0
+522,Minnesota Institute of Timberwolves,biology,14,4,10,2,1
+522,Minnesota Institute of Timberwolves,chemistry,46,16,30,4,0
+522,Minnesota Institute of Timberwolves,ess,18,8,10,3,1
+522,Minnesota Institute of Timberwolves,math,22,12,10,3,0
+522,Minnesota Institute of Timberwolves,physics,10,0,10,2,2
+525,College Park,biology,4,4,0,1,0
+525,College Park,chemistry,26,16,10,4,0
+525,College Park,ess,-4,-4,0,0,1
+525,College Park,math,0,0,0,1,1
+525,College Park,physics,12,12,0,3,0
+525,WWPS 2,biology,4,4,0,1,0
+525,WWPS 2,chemistry,-4,-4,0,0,1
+525,WWPS 2,ess,0,0,0,0,0
+525,WWPS 2,math,-8,-8,0,0,2
+525,WWPS 2,physics,14,4,10,1,0
+527,ASFA 1,biology,6,-4,10,1,2
+527,ASFA 1,chemistry,6,-4,10,1,2
+527,ASFA 1,ess,14,4,10,1,0
+527,ASFA 1,math,28,8,20,2,0
+527,ASFA 1,physics,22,12,10,3,0
+527,Iolani School 1,biology,4,4,0,1,0
+527,Iolani School 1,chemistry,14,4,10,2,1
+527,Iolani School 1,ess,14,4,10,1,0
+527,Iolani School 1,math,4,4,0,1,0
+527,Iolani School 1,physics,0,0,0,1,1
+537,Harvard Westlake 2,biology,0,0,0,0,0
+537,Harvard Westlake 2,chemistry,14,4,10,1,0
+537,Harvard Westlake 2,ess,4,4,0,1,0
+537,Harvard Westlake 2,math,0,0,0,0,0
+537,Harvard Westlake 2,physics,4,4,0,1,0
+537,Whitney Young 2,biology,4,4,0,1,0
+537,Whitney Young 2,chemistry,14,4,10,1,0
+537,Whitney Young 2,ess,0,0,0,0,0
+537,Whitney Young 2,math,8,8,0,2,0
+537,Whitney Young 2,physics,4,4,0,1,0
+540,Academies of Loudoun,biology,4,4,0,1,0
+540,Academies of Loudoun,chemistry,0,0,0,0,0
+540,Academies of Loudoun,ess,0,0,0,0,0
+540,Academies of Loudoun,math,0,0,0,0,0
+540,Academies of Loudoun,physics,0,0,0,0,0
+540,Jericho 1,biology,0,0,0,0,0
+540,Jericho 1,chemistry,32,12,20,3,0
+540,Jericho 1,ess,18,8,10,2,0
+540,Jericho 1,math,4,4,0,2,1
+540,Jericho 1,physics,4,4,0,1,0
+542,CCA 2,biology,14,4,10,1,0
+542,CCA 2,chemistry,4,4,0,1,0
+542,CCA 2,ess,0,0,0,0,0
+542,CCA 2,math,0,0,0,0,0
+542,CCA 2,physics,0,0,0,0,0
+542,Mission San Jose 1,biology,24,4,20,2,1
+542,Mission San Jose 1,chemistry,20,0,20,2,2
+542,Mission San Jose 1,ess,46,16,30,4,0
+542,Mission San Jose 1,math,10,0,10,2,2
+542,Mission San Jose 1,physics,28,8,20,3,1
+552,Blair 1,biology,36,16,20,4,0
+552,Blair 1,chemistry,36,16,20,4,0
+552,Blair 1,ess,32,12,20,3,0
+552,Blair 1,math,56,16,40,4,0
+552,Blair 1,physics,6,-4,10,1,2
+552,IMSA 2,biology,0,0,0,0,0
+552,IMSA 2,chemistry,0,0,0,0,0
+552,IMSA 2,ess,-4,-4,0,0,1
+552,IMSA 2,math,0,0,0,0,0
+552,IMSA 2,physics,0,0,0,0,0
+555,Lexington,biology,0,0,0,1,1
+555,Lexington,chemistry,18,8,10,2,0
+555,Lexington,ess,4,4,0,1,0
+555,Lexington,math,0,0,0,0,0
+555,Lexington,physics,4,4,0,1,0
+555,Throrthwood Tottenham,biology,22,12,10,3,0
+555,Throrthwood Tottenham,chemistry,28,8,20,2,0
+555,Throrthwood Tottenham,ess,28,8,20,2,0
+555,Throrthwood Tottenham,math,18,8,10,2,0
+555,Throrthwood Tottenham,physics,12,12,0,3,0
+557,BUMSJK,biology,14,4,10,1,0
+557,BUMSJK,chemistry,0,0,0,0,0
+557,BUMSJK,ess,0,0,0,0,0
+557,BUMSJK,math,0,0,0,0,0
+557,BUMSJK,physics,0,0,0,1,1
+557,State College Area 2,biology,0,0,0,0,0
+557,State College Area 2,chemistry,0,0,0,0,0
+557,State College Area 2,ess,0,0,0,0,0
+557,State College Area 2,math,0,0,0,0,0
+557,State College Area 2,physics,0,0,0,0,0
+563,Mission San Jose 1,biology,28,8,20,2,0
+563,Mission San Jose 1,chemistry,18,8,10,3,1
+563,Mission San Jose 1,ess,32,12,20,3,0
+563,Mission San Jose 1,math,10,0,10,1,1
+563,Mission San Jose 1,physics,28,8,20,3,1
+563,Wayzata,biology,24,4,20,2,1
+563,Wayzata,chemistry,14,4,10,1,0
+563,Wayzata,ess,0,0,0,1,1
+563,Wayzata,math,42,12,30,3,0
+563,Wayzata,physics,-8,-8,0,0,2
+564,ASFA 1,biology,32,12,20,3,0
+564,ASFA 1,chemistry,0,0,0,1,1
+564,ASFA 1,ess,36,16,20,4,0
+564,ASFA 1,math,10,0,10,1,1
+564,ASFA 1,physics,-8,-8,0,0,2
+564,Davidson Academy,biology,14,4,10,1,0
+564,Davidson Academy,chemistry,22,12,10,3,0
+564,Davidson Academy,ess,0,0,0,0,0
+564,Davidson Academy,math,8,8,0,2,0
+564,Davidson Academy,physics,32,12,20,3,0
+565,Lakeside 1,biology,0,0,0,1,1
+565,Lakeside 1,chemistry,24,4,20,2,1
+565,Lakeside 1,ess,22,12,10,3,0
+565,Lakeside 1,math,0,0,0,0,0
+565,Lakeside 1,physics,10,0,10,1,1
+565,Ward Melville 1,biology,32,12,20,3,0
+565,Ward Melville 1,chemistry,4,4,0,1,0
+565,Ward Melville 1,ess,4,4,0,1,0
+565,Ward Melville 1,math,36,16,20,4,0
+565,Ward Melville 1,physics,32,12,20,3,0
+566,Ladue,biology,14,4,10,2,1
+566,Ladue,chemistry,4,4,0,1,0
+566,Ladue,ess,0,0,0,1,1
+566,Ladue,math,56,16,40,4,0
+566,Ladue,physics,4,4,0,1,0
+566,Palo Alto 1,biology,14,4,10,1,0
+566,Palo Alto 1,chemistry,4,4,0,1,0
+566,Palo Alto 1,ess,4,4,0,1,0
+566,Palo Alto 1,math,0,0,0,0,0
+566,Palo Alto 1,physics,20,0,20,2,2
+567,Hunter College 1,biology,0,0,0,0,0
+567,Hunter College 1,chemistry,14,4,10,1,0
+567,Hunter College 1,ess,28,8,20,2,0
+567,Hunter College 1,math,18,8,10,2,0
+567,Hunter College 1,physics,10,0,10,2,2
+567,The Frazer School 1,biology,46,16,30,4,0
+567,The Frazer School 1,chemistry,10,0,10,1,1
+567,The Frazer School 1,ess,4,4,0,1,0
+567,The Frazer School 1,math,14,4,10,2,1
+567,The Frazer School 1,physics,14,4,10,1,0
+568,BISV 1,biology,18,8,10,2,0
+568,BISV 1,chemistry,18,8,10,2,0
+568,BISV 1,ess,-4,-4,0,0,1
+568,BISV 1,math,36,16,20,4,0
+568,BISV 1,physics,4,4,0,1,0
+568,North Hollywood 1,biology,24,4,20,2,1
+568,North Hollywood 1,chemistry,0,0,0,0,0
+568,North Hollywood 1,ess,46,16,30,4,0
+568,North Hollywood 1,math,0,0,0,0,0
+568,North Hollywood 1,physics,32,12,20,3,0
+569,Blair 1,biology,28,8,20,3,1
+569,Blair 1,chemistry,28,8,20,3,1
+569,Blair 1,ess,28,8,20,2,0
+569,Blair 1,math,56,16,40,4,0
+569,Blair 1,physics,28,8,20,3,1
+569,West Windsor-Plainsboro North,biology,0,0,0,0,0
+569,West Windsor-Plainsboro North,chemistry,0,0,0,0,0
+569,West Windsor-Plainsboro North,ess,8,8,0,2,0
+569,West Windsor-Plainsboro North,math,0,0,0,0,0
+569,West Windsor-Plainsboro North,physics,4,4,0,1,0
+570,James Clemens,biology,8,8,0,2,0
+570,James Clemens,chemistry,-4,-4,0,0,1
+570,James Clemens,ess,36,16,20,4,0
+570,James Clemens,math,4,4,0,1,0
+570,James Clemens,physics,8,8,0,2,0
+570,Throrthwood Tottenham,biology,24,4,20,2,1
+570,Throrthwood Tottenham,chemistry,46,16,30,4,0
+570,Throrthwood Tottenham,ess,0,0,0,0,0
+570,Throrthwood Tottenham,math,22,12,10,3,0
+570,Throrthwood Tottenham,physics,4,4,0,1,0
+571,Arcadia 1,biology,12,12,0,3,0
+571,Arcadia 1,chemistry,4,4,0,2,1
+571,Arcadia 1,ess,0,0,0,0,0
+571,Arcadia 1,math,14,4,10,1,0
+571,Arcadia 1,physics,14,4,10,2,1
+571,Mission San Jose 2,biology,-4,-4,0,0,1
+571,Mission San Jose 2,chemistry,14,4,10,1,0
+571,Mission San Jose 2,ess,46,16,30,4,0
+571,Mission San Jose 2,math,32,12,20,3,0
+571,Mission San Jose 2,physics,14,4,10,2,1
+572,OCSA,biology,8,8,0,2,0
+572,OCSA,chemistry,0,0,0,1,1
+572,OCSA,ess,42,12,30,3,0
+572,OCSA,math,4,4,0,1,0
+572,OCSA,physics,0,0,0,0,0
+572,School of Astronomy,biology,4,4,0,1,0
+572,School of Astronomy,chemistry,10,0,10,2,2
+572,School of Astronomy,ess,0,0,0,0,0
+572,School of Astronomy,math,32,12,20,3,0
+572,School of Astronomy,physics,12,12,0,3,0
+573,Temple City,biology,28,8,20,2,0
+573,Temple City,chemistry,0,0,0,0,0
+573,Temple City,ess,14,4,10,2,1
+573,Temple City,math,14,4,10,1,0
+573,Temple City,physics,14,4,10,1,0
+573,Thomas Jefferson 1,biology,4,4,0,1,0
+573,Thomas Jefferson 1,chemistry,22,12,10,3,0
+573,Thomas Jefferson 1,ess,4,4,0,1,0
+573,Thomas Jefferson 1,math,22,12,10,3,0
+573,Thomas Jefferson 1,physics,14,4,10,2,1
+574,Clovis North High,biology,4,4,0,1,0
+574,Clovis North High,chemistry,0,0,0,0,0
+574,Clovis North High,ess,0,0,0,0,0
+574,Clovis North High,math,0,0,0,0,0
+574,Clovis North High,physics,0,0,0,0,0
+574,WWPS 1,biology,0,0,0,0,0
+574,WWPS 1,chemistry,0,0,0,0,0
+574,WWPS 1,ess,0,0,0,0,0
+574,WWPS 1,math,0,0,0,0,0
+574,WWPS 1,physics,0,0,0,0,0
+575,AHB 1,biology,0,0,0,0,0
+575,AHB 1,chemistry,18,8,10,2,0
+575,AHB 1,ess,4,4,0,1,0
+575,AHB 1,math,0,0,0,0,0
+575,AHB 1,physics,14,4,10,1,0
+575,North Hollywood 2,biology,28,8,20,3,1
+575,North Hollywood 2,chemistry,4,4,0,1,0
+575,North Hollywood 2,ess,42,12,30,3,0
+575,North Hollywood 2,math,56,16,40,4,0
+575,North Hollywood 2,physics,-4,-4,0,0,1
+576,MSJ 3,biology,22,12,10,3,0
+576,MSJ 3,chemistry,8,8,0,2,0
+576,MSJ 3,ess,0,0,0,0,0
+576,MSJ 3,math,4,4,0,1,0
+576,MSJ 3,physics,12,12,0,3,0
+576,Punahou,biology,-4,-4,0,0,1
+576,Punahou,chemistry,4,4,0,1,0
+576,Punahou,ess,22,12,10,3,0
+576,Punahou,math,0,0,0,0,0
+576,Punahou,physics,6,-4,10,1,2
+577,Blair 2,biology,14,4,10,2,1
+577,Blair 2,chemistry,0,0,0,1,1
+577,Blair 2,ess,14,4,10,1,0
+577,Blair 2,math,18,8,10,2,0
+577,Blair 2,physics,-4,-4,0,1,2
+577,University 1,biology,-4,-4,0,0,1
+577,University 1,chemistry,-4,-4,0,0,1
+577,University 1,ess,22,12,10,3,0
+577,University 1,math,18,8,10,2,0
+577,University 1,physics,8,8,0,2,0
+578,Jericho 1,biology,-4,-4,0,0,1
+578,Jericho 1,chemistry,14,4,10,1,0
+578,Jericho 1,ess,22,12,10,3,0
+578,Jericho 1,math,0,0,0,0,0
+578,Jericho 1,physics,10,0,10,1,1
+578,VMATHs,biology,22,12,10,3,0
+578,VMATHs,chemistry,4,4,0,1,0
+578,VMATHs,ess,4,4,0,1,0
+578,VMATHs,math,36,16,20,4,0
+578,VMATHs,physics,8,8,0,2,0
+579,Davidson Academy,biology,4,4,0,2,1
+579,Davidson Academy,chemistry,10,0,10,1,1
+579,Davidson Academy,ess,0,0,0,0,0
+579,Davidson Academy,math,14,4,10,1,0
+579,Davidson Academy,physics,22,12,10,3,0
+579,Mission San Jose 1,biology,28,8,20,2,0
+579,Mission San Jose 1,chemistry,18,8,10,2,0
+579,Mission San Jose 1,ess,42,12,30,3,0
+579,Mission San Jose 1,math,38,8,30,3,1
+579,Mission San Jose 1,physics,-4,-4,0,0,1
+580,Ladue,biology,4,4,0,1,0
+580,Ladue,chemistry,0,0,0,0,0
+580,Ladue,ess,0,0,0,0,0
+580,Ladue,math,18,8,10,2,0
+580,Ladue,physics,4,4,0,1,0
+580,Ward Melville 1,biology,22,12,10,3,0
+580,Ward Melville 1,chemistry,28,8,20,2,0
+580,Ward Melville 1,ess,0,0,0,1,1
+580,Ward Melville 1,math,10,0,10,1,1
+580,Ward Melville 1,physics,4,4,0,2,1
+581,North Hollywood 1,biology,0,0,0,0,0
+581,North Hollywood 1,chemistry,8,8,0,2,0
+581,North Hollywood 1,ess,14,4,10,1,0
+581,North Hollywood 1,math,14,4,10,1,0
+581,North Hollywood 1,physics,-8,-8,0,0,2
+581,The Frazer School 1,biology,46,16,30,4,0
+581,The Frazer School 1,chemistry,8,8,0,2,0
+581,The Frazer School 1,ess,4,4,0,1,0
+581,The Frazer School 1,math,28,8,20,2,0
+581,The Frazer School 1,physics,8,8,0,2,0
+582,Blair 1,biology,14,4,10,2,1
+582,Blair 1,chemistry,24,4,20,2,1
+582,Blair 1,ess,14,4,10,2,1
+582,Blair 1,math,28,8,20,3,1
+582,Blair 1,physics,0,0,0,1,1
+582,Throrthwood Tottenham,biology,28,8,20,2,0
+582,Throrthwood Tottenham,chemistry,18,8,10,2,0
+582,Throrthwood Tottenham,ess,8,8,0,2,0
+582,Throrthwood Tottenham,math,0,0,0,0,0
+582,Throrthwood Tottenham,physics,4,4,0,1,0
+583,BISV 1,biology,-4,-4,0,1,2
+583,BISV 1,chemistry,18,8,10,2,0
+583,BISV 1,ess,18,8,10,2,0
+583,BISV 1,math,0,0,0,1,1
+583,BISV 1,physics,8,8,0,3,1
+583,Hunter College 1,biology,18,8,10,2,0
+583,Hunter College 1,chemistry,14,4,10,1,0
+583,Hunter College 1,ess,18,8,10,2,0
+583,Hunter College 1,math,24,4,20,2,1
+583,Hunter College 1,physics,-4,-4,0,0,1
+584,James Clemens,biology,22,12,10,3,0
+584,James Clemens,chemistry,22,12,10,3,0
+584,James Clemens,ess,28,8,20,3,1
+584,James Clemens,math,0,0,0,0,0
+584,James Clemens,physics,22,12,10,3,0
+584,West Windsor-Plainsboro North,biology,14,4,10,1,0
+584,West Windsor-Plainsboro North,chemistry,-4,-4,0,0,1
+584,West Windsor-Plainsboro North,ess,0,0,0,0,0
+584,West Windsor-Plainsboro North,math,22,12,10,3,0
+584,West Windsor-Plainsboro North,physics,0,0,0,0,0
+585,ASFA 1,biology,14,4,10,1,0
+585,ASFA 1,chemistry,22,12,10,3,0
+585,ASFA 1,ess,14,4,10,1,0
+585,ASFA 1,math,10,0,10,1,1
+585,ASFA 1,physics,-4,-4,0,1,2
+585,Wayzata,biology,18,8,10,2,0
+585,Wayzata,chemistry,4,4,0,1,0
+585,Wayzata,ess,0,0,0,1,1
+585,Wayzata,math,22,12,10,3,0
+585,Wayzata,physics,8,8,0,2,0
+586,Lakeside 1,biology,32,12,20,3,0
+586,Lakeside 1,chemistry,28,8,20,2,0
+586,Lakeside 1,ess,4,4,0,1,0
+586,Lakeside 1,math,32,12,20,3,0
+586,Lakeside 1,physics,4,4,0,1,0
+586,Palo Alto 1,biology,-4,-4,0,0,1
+586,Palo Alto 1,chemistry,28,8,20,2,0
+586,Palo Alto 1,ess,4,4,0,1,0
+586,Palo Alto 1,math,14,4,10,1,0
+586,Palo Alto 1,physics,20,0,20,2,2
+587,Mission San Jose 2,biology,4,4,0,2,1
+587,Mission San Jose 2,chemistry,32,12,20,3,0
+587,Mission San Jose 2,ess,12,12,0,3,0
+587,Mission San Jose 2,math,28,8,20,2,0
+587,Mission San Jose 2,physics,12,12,0,3,0
+587,School of Astronomy,biology,18,8,10,2,0
+587,School of Astronomy,chemistry,6,-4,10,1,2
+587,School of Astronomy,ess,0,0,0,0,0
+587,School of Astronomy,math,0,0,0,1,1
+587,School of Astronomy,physics,-4,-4,0,0,1
+588,Clovis North High,biology,22,12,10,3,0
+588,Clovis North High,chemistry,12,12,0,3,0
+588,Clovis North High,ess,14,4,10,1,0
+588,Clovis North High,math,28,8,20,2,0
+588,Clovis North High,physics,-8,-8,0,0,2
+588,Temple City,biology,14,4,10,1,0
+588,Temple City,chemistry,0,0,0,0,0
+588,Temple City,ess,0,0,0,1,1
+588,Temple City,math,4,4,0,1,0
+588,Temple City,physics,18,8,10,2,0
+589,Blair 2,biology,-4,-4,0,0,1
+589,Blair 2,chemistry,0,0,0,0,0
+589,Blair 2,ess,14,4,10,1,0
+589,Blair 2,math,14,4,10,2,1
+589,Blair 2,physics,12,12,0,3,0
+589,VMATHs,biology,22,12,10,3,0
+589,VMATHs,chemistry,22,12,10,3,0
+589,VMATHs,ess,0,0,0,0,0
+589,VMATHs,math,0,0,0,0,0
+589,VMATHs,physics,0,0,0,0,0
+590,MSJ 3,biology,10,0,10,1,1
+590,MSJ 3,chemistry,8,8,0,2,0
+590,MSJ 3,ess,18,8,10,2,0
+590,MSJ 3,math,14,4,10,1,0
+590,MSJ 3,physics,8,8,0,2,0
+590,North Hollywood 2,biology,18,8,10,3,1
+590,North Hollywood 2,chemistry,8,8,0,2,0
+590,North Hollywood 2,ess,10,0,10,1,1
+590,North Hollywood 2,math,42,12,30,3,0
+590,North Hollywood 2,physics,14,4,10,1,0
+591,Mission San Jose 1,biology,38,8,30,3,1
+591,Mission San Jose 1,chemistry,12,12,0,3,0
+591,Mission San Jose 1,ess,14,4,10,1,0
+591,Mission San Jose 1,math,28,8,20,3,1
+591,Mission San Jose 1,physics,32,12,20,3,0
+591,Ward Melville 1,biology,4,4,0,1,0
+591,Ward Melville 1,chemistry,4,4,0,1,0
+591,Ward Melville 1,ess,14,4,10,1,0
+591,Ward Melville 1,math,-8,-8,0,1,3
+591,Ward Melville 1,physics,0,0,0,1,1
+592,Blair 1,biology,14,4,10,1,0
+592,Blair 1,chemistry,26,16,10,4,0
+592,Blair 1,ess,8,8,0,2,0
+592,Blair 1,math,2,-8,10,1,3
+592,Blair 1,physics,4,4,0,1,0
+592,The Frazer School 1,biology,42,12,30,3,0
+592,The Frazer School 1,chemistry,0,0,0,0,0
+592,The Frazer School 1,ess,18,8,10,2,0
+592,The Frazer School 1,math,18,8,10,2,0
+592,The Frazer School 1,physics,32,12,20,3,0
+593,Clovis North High,biology,8,8,0,2,0
+593,Clovis North High,chemistry,4,4,0,1,0
+593,Clovis North High,ess,4,4,0,1,0
+593,Clovis North High,math,0,0,0,0,0
+593,Clovis North High,physics,0,0,0,0,0
+593,Mission San Jose 2,biology,0,0,0,0,0
+593,Mission San Jose 2,chemistry,10,0,10,2,2
+593,Mission San Jose 2,ess,8,8,0,2,0
+593,Mission San Jose 2,math,0,0,0,1,1
+593,Mission San Jose 2,physics,22,12,10,3,0
+594,North Hollywood 2,biology,14,4,10,1,0
+594,North Hollywood 2,chemistry,4,4,0,1,0
+594,North Hollywood 2,ess,18,8,10,2,0
+594,North Hollywood 2,math,8,8,0,2,0
+594,North Hollywood 2,physics,4,4,0,1,0
+594,VMATHs,biology,6,-4,10,1,2
+594,VMATHs,chemistry,22,12,10,3,0
+594,VMATHs,ess,0,0,0,0,0
+594,VMATHs,math,28,8,20,2,0
+594,VMATHs,physics,4,4,0,1,0
+595,Davidson Academy,biology,28,8,20,2,0
+595,Davidson Academy,chemistry,12,12,0,3,0
+595,Davidson Academy,ess,0,0,0,0,0
+595,Davidson Academy,math,4,4,0,1,0
+595,Davidson Academy,physics,32,12,20,3,0
+595,Hunter College 1,biology,0,0,0,0,0
+595,Hunter College 1,chemistry,-4,-4,0,0,1
+595,Hunter College 1,ess,24,4,20,2,1
+595,Hunter College 1,math,18,8,10,2,0
+595,Hunter College 1,physics,0,0,0,0,0
+596,James Clemens,biology,14,4,10,1,0
+596,James Clemens,chemistry,8,8,0,3,1
+596,James Clemens,ess,36,16,20,4,0
+596,James Clemens,math,4,4,0,1,0
+596,James Clemens,physics,14,4,10,1,0
+596,Ladue,biology,28,8,20,2,0
+596,Ladue,chemistry,0,0,0,0,0
+596,Ladue,ess,0,0,0,0,0
+596,Ladue,math,32,12,20,3,0
+596,Ladue,physics,24,4,20,2,1
+597,ASFA 1,biology,-4,-4,0,0,1
+597,ASFA 1,chemistry,32,12,20,3,0
+597,ASFA 1,ess,-4,-4,0,0,1
+597,ASFA 1,math,14,4,10,1,0
+597,ASFA 1,physics,18,8,10,2,0
+597,North Hollywood 1,biology,46,16,30,4,0
+597,North Hollywood 1,chemistry,-4,-4,0,0,1
+597,North Hollywood 1,ess,12,12,0,3,0
+597,North Hollywood 1,math,4,4,0,1,0
+597,North Hollywood 1,physics,10,0,10,1,1
+598,Lakeside 1,biology,14,4,10,1,0
+598,Lakeside 1,chemistry,14,4,10,2,1
+598,Lakeside 1,ess,26,16,10,4,0
+598,Lakeside 1,math,32,12,20,3,0
+598,Lakeside 1,physics,18,8,10,2,0
+598,Throrthwood Tottenham,biology,14,4,10,2,1
+598,Throrthwood Tottenham,chemistry,24,4,20,2,1
+598,Throrthwood Tottenham,ess,0,0,0,0,0
+598,Throrthwood Tottenham,math,4,4,0,1,0
+598,Throrthwood Tottenham,physics,28,8,20,2,0
+599,Davidson Academy,biology,18,8,10,2,0
+599,Davidson Academy,chemistry,-4,-4,0,0,1
+599,Davidson Academy,ess,4,4,0,1,0
+599,Davidson Academy,math,4,4,0,1,0
+599,Davidson Academy,physics,0,0,0,1,1
+599,Ladue,biology,0,0,0,0,0
+599,Ladue,chemistry,0,0,0,0,0
+599,Ladue,ess,4,4,0,1,0
+599,Ladue,math,4,4,0,1,0
+599,Ladue,physics,14,4,10,1,0
+600,Lakeside 1,biology,0,0,0,0,0
+600,Lakeside 1,chemistry,28,8,20,3,1
+600,Lakeside 1,ess,14,4,10,1,0
+600,Lakeside 1,math,22,12,10,3,0
+600,Lakeside 1,physics,14,4,10,1,0
+600,North Hollywood 1,biology,46,16,30,4,0
+600,North Hollywood 1,chemistry,4,4,0,1,0
+600,North Hollywood 1,ess,4,4,0,1,0
+600,North Hollywood 1,math,4,4,0,1,0
+600,North Hollywood 1,physics,22,12,10,3,0
+601,Mission San Jose 2,biology,14,4,10,1,0
+601,Mission San Jose 2,chemistry,18,8,10,2,0
+601,Mission San Jose 2,ess,14,4,10,1,0
+601,Mission San Jose 2,math,18,8,10,2,0
+601,Mission San Jose 2,physics,12,12,0,3,0
+601,VMATHs,biology,-4,-4,0,0,1
+601,VMATHs,chemistry,4,4,0,1,0
+601,VMATHs,ess,-4,-4,0,0,1
+601,VMATHs,math,14,4,10,1,0
+601,VMATHs,physics,0,0,0,0,0
+602,Mission San Jose 1,biology,0,0,0,0,0
+602,Mission San Jose 1,chemistry,0,0,0,0,0
+602,Mission San Jose 1,ess,0,0,0,0,0
+602,Mission San Jose 1,math,0,0,0,0,0
+602,Mission San Jose 1,physics,0,0,0,0,0
+602,The Frazer School 1,biology,14,4,10,1,0
+602,The Frazer School 1,chemistry,0,0,0,0,0
+602,The Frazer School 1,ess,0,0,0,0,0
+602,The Frazer School 1,math,0,0,0,0,0
+602,The Frazer School 1,physics,0,0,0,0,0
+603,North Hollywood 1,biology,18,8,10,2,0
+603,North Hollywood 1,chemistry,0,0,0,0,0
+603,North Hollywood 1,ess,8,8,0,2,0
+603,North Hollywood 1,math,0,0,0,0,0
+603,North Hollywood 1,physics,4,4,0,1,0
+603,Ward Melville 1,biology,-4,-4,0,1,2
+603,Ward Melville 1,chemistry,4,4,0,1,0
+603,Ward Melville 1,ess,4,4,0,1,0
+603,Ward Melville 1,math,18,8,10,2,0
+603,Ward Melville 1,physics,14,4,10,1,0
+604,Blair 1,biology,12,12,0,3,0
+604,Blair 1,chemistry,-4,-4,0,0,1
+604,Blair 1,ess,0,0,0,1,1
+604,Blair 1,math,14,4,10,1,0
+604,Blair 1,physics,12,12,0,3,0
+604,Davidson Academy,biology,4,4,0,1,0
+604,Davidson Academy,chemistry,4,4,0,1,0
+604,Davidson Academy,ess,4,4,0,1,0
+604,Davidson Academy,math,10,0,10,1,1
+604,Davidson Academy,physics,0,0,0,1,1
+605,Blair 1,biology,4,4,0,1,0
+605,Blair 1,chemistry,18,8,10,2,0
+605,Blair 1,ess,0,0,0,0,0
+605,Blair 1,math,-4,-4,0,0,1
+605,Blair 1,physics,28,8,20,2,0
+605,Ward Melville 1,biology,14,4,10,1,0
+605,Ward Melville 1,chemistry,0,0,0,0,0
+605,Ward Melville 1,ess,0,0,0,0,0
+605,Ward Melville 1,math,14,4,10,2,1
+605,Ward Melville 1,physics,4,4,0,1,0
+606,Blair 1,biology,18,8,10,2,0
+606,Blair 1,chemistry,8,8,0,2,0
+606,Blair 1,ess,0,0,0,0,0
+606,Blair 1,math,12,12,0,3,0
+606,Blair 1,physics,4,4,0,1,0
+606,Mission San Jose 1,biology,-8,-8,0,0,2
+606,Mission San Jose 1,chemistry,14,4,10,1,0
+606,Mission San Jose 1,ess,8,8,0,2,0
+606,Mission San Jose 1,math,0,0,0,0,0
+606,Mission San Jose 1,physics,-4,-4,0,1,2
+607,Blair 1,biology,0,0,0,0,0
+607,Blair 1,chemistry,0,0,0,0,0
+607,Blair 1,ess,0,0,0,0,0
+607,Blair 1,math,0,0,0,0,0
+607,Blair 1,physics,0,0,0,0,0
+607,The Frazer School 1,biology,14,4,10,1,0
+607,The Frazer School 1,chemistry,0,0,0,0,0
+607,The Frazer School 1,ess,0,0,0,0,0
+607,The Frazer School 1,math,0,0,0,0,0
+607,The Frazer School 1,physics,0,0,0,0,0

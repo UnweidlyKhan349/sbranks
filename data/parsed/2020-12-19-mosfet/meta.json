@@ -1,0 +1,30 @@
+{
+  "tournament_id": "2020-12-19-mosfet",
+  "counts": {
+    "teams": 36,
+    "games": 87,
+    "games_with_scores": 0,
+    "player_stat_rows": 959,
+    "players": 137,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": false,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "Challenger R3: Los Alamos B vs Ames A: no result recorded (None/None)",
+    "Challenger R4: Ward Melville A vs WWPHSS B: no result recorded (None/None)",
+    "Challenger R5: Beckman A vs Newtown A: cells 9.0/1.0; used Newtown A's cell",
+    "Challenger R5: Ward Melville A vs Ames A: no result recorded (None/None)",
+    "9 players fit several teams and were skipped: Albert Tang (Churchill A/Kromrey Ms/The Westminster Schools), Jameel Maayah (Laces/Quail Valley Middle School/Walton), Jay (Kj Henry Math/Sci B/Laces B), Rishab Baruah (Laces/Quail Valley Middle School/Walton), Rohan Singh (Laces/Quail Valley Middle School/Walton), Ryan Zhu (Churchill A/Kromrey Ms/The Westminster Schools), Tanay B (Churchill A/Kromrey Ms/The Westminster Schools), Uclaben #0479 (Laces/Quail Valley Middle School/Walton), Yunsu (Kj Henry Math/Sci B/Laces B)",
+    "25 players with no buzzes could not be placed on a team: Jacob J, Sophia Wu, Prisha Singhal, Rishab M, Keshav Shah, Ilikepi#2929, Brijesh Molala, Sandra L, John M, Kathleen M, Ming L, Viraj N, Ravi A, Noah Masotta, Anika S, Rochelle X, Arjun Pradhan, Aakaash, Prisha, Rami Ratl Mrad, Aidan Yoo, Saanjali, Rachel, Aryaman Thakur, Rik Munshi"
+  ],
+  "parser": "g3_online:parse_mosfet2020"
+}

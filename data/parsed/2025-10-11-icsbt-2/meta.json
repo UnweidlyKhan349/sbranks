@@ -1,0 +1,28 @@
+{
+  "tournament_id": "2025-10-11-icsbt-2",
+  "counts": {
+    "teams": 39,
+    "games": 112,
+    "games_with_scores": 112,
+    "player_stat_rows": 1057,
+    "players": 151,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "ovr 'g5 mahith g [g5]': accuracy 0.878 * buzzes 27 != correct 24",
+    "bio: cannot place 'o0gmf47ao8 [g5]'",
+    "phys 'g5 mahith g [g5]': points 31 not a multiple of 4; kept as given, no correct/negs",
+    "csenergy 'g5 mahith g [g5]': points/negs not exactly derivable (points None, negs None)"
+  ],
+  "parser": "g4_livescoresheet:parse_icsbt"
+}

@@ -1,0 +1,37 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,,1,Iolani,Pleasanton A,32,186,2,0,pool Campbell; round not recorded
+g2,rr,,1,Iolani,Davis Drive B,86,90,2,0,pool Campbell; round not recorded
+g3,rr,,1,Iolani,Glasgow,38,222,2,0,pool Campbell; round not recorded
+g4,rr,,1,Pleasanton A,Davis Drive B,186,66,1,0,pool Campbell; round not recorded
+g5,rr,,1,Pleasanton A,Glasgow,154,98,1,0,pool Campbell; round not recorded
+g6,rr,,1,Davis Drive B,Glasgow,56,186,2,0,pool Campbell; round not recorded
+g7,rr,,1,Pleasanton C,Odle,18,256,2,0,pool Tarbuck; round not recorded
+g8,rr,,1,Pleasanton C,Oak Avenue,84,158,2,0,pool Tarbuck; round not recorded
+g9,rr,,1,Pleasanton C,Hopkins A,36,238,2,0,pool Tarbuck; round not recorded
+g10,rr,,1,Odle,Oak Avenue,214,46,1,0,pool Tarbuck; round not recorded
+g11,rr,,1,Odle,Hopkins A,130,150,2,0,pool Tarbuck; round not recorded
+g12,rr,,1,Oak Avenue,Hopkins A,54,186,2,0,pool Tarbuck; round not recorded
+g13,rr,,1,Diamond,Jonas Clarke B,138,68,1,0,pool Zumdahl; round not recorded
+g14,rr,,1,Diamond,Lincoln,148,102,1,0,pool Zumdahl; round not recorded
+g15,rr,,1,Diamond,Pleasanton B,138,116,1,0,pool Zumdahl; round not recorded
+g16,rr,,1,Jonas Clarke B,Lincoln,68,130,2,0,pool Zumdahl; round not recorded
+g17,rr,,1,Jonas Clarke B,Pleasanton B,64,188,2,0,pool Zumdahl; round not recorded
+g18,rr,,1,Lincoln,Pleasanton B,178,102,1,0,pool Zumdahl; round not recorded
+g19,rr,,1,Hopkins B,Jonas Clarke A,152,52,1,0,pool Halliday; round not recorded
+g20,rr,,1,Hopkins B,ASFA,102,96,1,0,pool Halliday; round not recorded
+g21,rr,,1,Hopkins B,Davis Drive A,112,100,1,0,pool Halliday; round not recorded
+g22,rr,,1,Jonas Clarke A,ASFA,98,126,2,0,pool Halliday; round not recorded
+g23,rr,,1,Jonas Clarke A,Davis Drive A,120,122,2,0,pool Halliday; round not recorded
+g24,rr,,1,ASFA,Davis Drive A,74,158,2,0,pool Halliday; round not recorded
+g25,playoff,SE1,4,Odle,Pleasanton B,136,70,1,0,
+g26,playoff,SE1,4,Lincoln,ASFA,112,148,2,0,
+g27,playoff,SE1,4,Davis Drive A,Davis Drive B,142,28,1,0,
+g28,playoff,SE1,4,Glasgow,Oak Avenue,106,144,2,0,
+g29,playoff,SE2,5,Pleasanton A,Odle,96,116,2,0,
+g30,playoff,SE2,5,Hopkins A,ASFA,198,20,1,0,
+g31,playoff,SE2,5,Diamond,Davis Drive A,36,184,2,0,
+g32,playoff,SE2,5,Hopkins B,Oak Avenue,84,102,2,0,
+g33,playoff,SF,6,Odle,Hopkins A,72,120,2,0,
+g34,playoff,SF,6,Davis Drive A,Oak Avenue,114,32,1,0,
+g35,playoff,Final,7,Hopkins A,Davis Drive A,158,18,1,0,
+g36,playoff,3rd Place,7,Odle,Oak Avenue,84,38,1,0,

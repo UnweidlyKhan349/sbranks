@@ -18,7 +18,19 @@ sources:
   sheet_id: 1BefPqeJqGejH3ouuIHD-fBCt9iCx2dHBucSSB2C-Lkw
   url: https://docs.google.com/spreadsheets/d/1BefPqeJqGejH3ouuIHD-fBCt9iCx2dHBucSSB2C-Lkw/view#gid=1675433798
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mosfet:parse_2024
+parser_options:
+  bracket:
+    tab: 'Double Elimination Bracket '
+    anchor: ^(Alm|Ber|Cit|Dia)-\d$
+    header_row: 0
+    seq_base: 3
+    round_overrides:
+      P21: Finals 1
+    extra_rounds:
+      Finals 1: 11
+      Finals 2: 12
+status: parsed
+notes: Results only. The RR games combine Round Robin Pairings with each team's per-round score and W/L in Group Assignments
+  (they all agree); Citrine had 3 teams and its byes are skipped. The double-elimination bracket gives winners only; Shen
+  won the final undefeated.

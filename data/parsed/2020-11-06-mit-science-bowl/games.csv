@@ -1,0 +1,103 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,,1,NCSSM,Iolani School,,,1,0,Artin Division; win/loss only (no scores in source)
+g2,rr,,1,NCSSM,Whitney High School,,,2,0,Artin Division; win/loss only (no scores in source)
+g3,rr,,1,NCSSM,John P. Stevens,,,1,0,Artin Division; win/loss only (no scores in source)
+g4,rr,,1,NCSSM,Farmington High School,,,1,0,Artin Division; win/loss only (no scores in source)
+g5,rr,,1,Iolani School,Whitney High School,,,2,0,Artin Division; win/loss only (no scores in source)
+g6,rr,,1,Iolani School,John P. Stevens,,,1,0,Artin Division; win/loss only (no scores in source)
+g7,rr,,1,Iolani School,Farmington High School,,,1,0,Artin Division; win/loss only (no scores in source)
+g8,rr,,1,Whitney High School,John P. Stevens,,,1,0,Artin Division; win/loss only (no scores in source)
+g9,rr,,1,Whitney High School,Farmington High School,,,1,0,Artin Division; win/loss only (no scores in source)
+g10,rr,,1,John P. Stevens,Farmington High School,,,1,0,Artin Division; win/loss only (no scores in source)
+g11,rr,,1,Portola High School,WM ScioBowl,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g12,rr,,1,Portola High School,Fairfield Warde High School,,,1,0,Chomsky Division; win/loss only (no scores in source)
+g13,rr,,1,Portola High School,Clements High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g14,rr,,1,Portola High School,Interlake High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g15,rr,,1,WM ScioBowl,Fairfield Warde High School,,,1,0,Chomsky Division; win/loss only (no scores in source)
+g16,rr,,1,WM ScioBowl,Clements High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g17,rr,,1,WM ScioBowl,Interlake High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g18,rr,,1,Fairfield Warde High School,Clements High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g19,rr,,1,Fairfield Warde High School,Interlake High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g20,rr,,1,Clements High School,Interlake High School,,,2,0,Chomsky Division; win/loss only (no scores in source)
+g21,rr,,1,Stuyvesant,Beltway Blazers,,,1,0,Duflo Division; win/loss only (no scores in source)
+g22,rr,,1,Stuyvesant,Billerica Memorial High School,,,2,0,Duflo Division; win/loss only (no scores in source)
+g23,rr,,1,Stuyvesant,Science Academy,,,1,0,Duflo Division; win/loss only (no scores in source)
+g24,rr,,1,Stuyvesant,North Hollywood,,,2,0,Duflo Division; win/loss only (no scores in source)
+g25,rr,,1,Beltway Blazers,Billerica Memorial High School,,,1,0,Duflo Division; win/loss only (no scores in source)
+g26,rr,,1,Beltway Blazers,Science Academy,,,1,0,Duflo Division; win/loss only (no scores in source)
+g27,rr,,1,Beltway Blazers,North Hollywood,,,2,0,Duflo Division; win/loss only (no scores in source)
+g28,rr,,1,Billerica Memorial High School,Science Academy,,,1,0,Duflo Division; win/loss only (no scores in source)
+g29,rr,,1,Billerica Memorial High School,North Hollywood,,,2,0,Duflo Division; win/loss only (no scores in source)
+g30,rr,,1,Science Academy,North Hollywood,,,2,0,Duflo Division; win/loss only (no scores in source)
+g31,rr,,1,Brookfield Central,Dulles,,,2,0,Ketterle Division; win/loss only (no scores in source)
+g32,rr,,1,Brookfield Central,Bethlehem,,,2,0,Ketterle Division; win/loss only (no scores in source)
+g33,rr,,1,Brookfield Central,Davidson,,,2,0,Ketterle Division; win/loss only (no scores in source)
+g34,rr,,1,Brookfield Central,Palo Alto High School,,,2,0,Ketterle Division; win/loss only (no scores in source)
+g35,rr,,1,Dulles,Bethlehem,,,1,0,Ketterle Division; win/loss only (no scores in source)
+g36,rr,,1,Dulles,Davidson,,,1,0,Ketterle Division; win/loss only (no scores in source)
+g37,rr,,1,Dulles,Palo Alto High School,,,1,0,Ketterle Division; win/loss only (no scores in source)
+g38,rr,,1,Bethlehem,Davidson,,,2,0,Ketterle Division; win/loss only (no scores in source)
+g39,rr,,1,Bethlehem,Palo Alto High School,,,1,0,Ketterle Division; win/loss only (no scores in source)
+g40,rr,,1,Davidson,Palo Alto High School,,,1,0,Ketterle Division; win/loss only (no scores in source)
+g41,rr,,1,Princeton International School of Mathematics and Science,Morgantown High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g42,rr,,1,Princeton International School of Mathematics and Science,Walton High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g43,rr,,1,Princeton International School of Mathematics and Science,AMSA,,,1,0,Lander Division; win/loss only (no scores in source)
+g44,rr,,1,Princeton International School of Mathematics and Science,University High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g45,rr,,1,Morgantown High School,Walton High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g46,rr,,1,Morgantown High School,AMSA,,,1,0,Lander Division; win/loss only (no scores in source)
+g47,rr,,1,Morgantown High School,University High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g48,rr,,1,Walton High School,AMSA,,,1,0,Lander Division; win/loss only (no scores in source)
+g49,rr,,1,Walton High School,University High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g50,rr,,1,AMSA,University High School,,,2,0,Lander Division; win/loss only (no scores in source)
+g51,rr,,1,Ames High School,Nashua High School - South,,,1,0,Moniz Division; win/loss only (no scores in source)
+g52,rr,,1,Ames High School,Mass Academy,,,1,0,Moniz Division; win/loss only (no scores in source)
+g53,rr,,1,Ames High School,Mira Loma High School,,,2,0,Moniz Division; win/loss only (no scores in source)
+g54,rr,,1,Ames High School,Newtown,,,1,0,Moniz Division; win/loss only (no scores in source)
+g55,rr,,1,Nashua High School - South,Mass Academy,,,1,0,Moniz Division; win/loss only (no scores in source)
+g56,rr,,1,Nashua High School - South,Mira Loma High School,,,2,0,Moniz Division; win/loss only (no scores in source)
+g57,rr,,1,Nashua High School - South,Newtown,,,1,0,Moniz Division; win/loss only (no scores in source)
+g58,rr,,1,Mass Academy,Mira Loma High School,,,2,0,Moniz Division; win/loss only (no scores in source)
+g59,rr,,1,Mass Academy,Newtown,,,2,0,Moniz Division; win/loss only (no scores in source)
+g60,rr,,1,Mira Loma High School,Newtown,,,1,0,Moniz Division; win/loss only (no scores in source)
+g61,rr,,1,Franklin Regional Senior High School,Eastside,,,2,0,Rivest Division; win/loss only (no scores in source)
+g62,rr,,1,Franklin Regional Senior High School,Foothill High School,,,1,0,Rivest Division; win/loss only (no scores in source)
+g63,rr,,1,Franklin Regional Senior High School,Ardsley High School,,,2,0,Rivest Division; win/loss only (no scores in source)
+g64,rr,,1,Franklin Regional Senior High School,LHS,,,2,0,Rivest Division; win/loss only (no scores in source)
+g65,rr,,1,Eastside,Foothill High School,,,1,0,Rivest Division; win/loss only (no scores in source)
+g66,rr,,1,Eastside,Ardsley High School,,,1,0,Rivest Division; win/loss only (no scores in source)
+g67,rr,,1,Eastside,LHS,,,2,0,Rivest Division; win/loss only (no scores in source)
+g68,rr,,1,Foothill High School,Ardsley High School,,,2,0,Rivest Division; win/loss only (no scores in source)
+g69,rr,,1,Foothill High School,LHS,,,2,0,Rivest Division; win/loss only (no scores in source)
+g70,rr,,1,Ardsley High School,LHS,,,2,0,Rivest Division; win/loss only (no scores in source)
+g71,rr,,1,Arcadia,Buchholz,,,1,0,Sadoway Division; win/loss only (no scores in source)
+g72,rr,,1,Arcadia,Centerville,,,1,0,Sadoway Division; win/loss only (no scores in source)
+g73,rr,,1,Arcadia,Boston Latin School,,,1,0,Sadoway Division; win/loss only (no scores in source)
+g74,rr,,1,Arcadia,Tesla STEM,,,2,0,Sadoway Division; win/loss only (no scores in source)
+g75,rr,,1,Buchholz,Centerville,,,1,0,Sadoway Division; win/loss only (no scores in source)
+g76,rr,,1,Buchholz,Boston Latin School,,,1,0,Sadoway Division; win/loss only (no scores in source)
+g77,rr,,1,Buchholz,Tesla STEM,,,2,0,Sadoway Division; win/loss only (no scores in source)
+g78,rr,,1,Centerville,Boston Latin School,,,1,0,Sadoway Division; win/loss only (no scores in source)
+g79,rr,,1,Centerville,Tesla STEM,,,2,0,Sadoway Division; win/loss only (no scores in source)
+g80,rr,,1,Boston Latin School,Tesla STEM,,,2,0,Sadoway Division; win/loss only (no scores in source)
+g81,playoff,DE 6,6,Whitney High School,Interlake High School,30,84,2,0,
+g82,playoff,DE 7,7,Interlake High School,North Hollywood,48,80,2,0,
+g83,playoff,DE 6,6,North Hollywood,Dulles,114,36,1,0,
+g84,playoff,DE 8,8,North Hollywood,Mira Loma High School,96,72,1,0,
+g85,playoff,DE 6,6,University High School,Mira Loma High School,32,66,2,0,
+g86,playoff,DE 7,7,Mira Loma High School,LHS,122,42,1,0,
+g87,playoff,DE 6,6,LHS,Tesla STEM,128,34,1,0,
+g88,playoff,DE 12,12,North Hollywood,LHS,84,42,1,0,
+g89,playoff,DE 7,7,Tesla STEM,NCSSM,132,58,1,0,
+g90,playoff,DE 9,9,Interlake High School,Tesla STEM,38,48,2,0,
+g91,playoff,DE 6,6,NCSSM,Clements High School,48,38,1,0,
+g92,playoff,DE 8,8,Tesla STEM,Davidson,76,58,1,0,
+g93,playoff,DE 11,11,Mira Loma High School,LHS,42,86,2,0,
+g94,playoff,DE 7,7,University High School,Davidson,50,80,2,0,
+g95,playoff,DE 10,10,Tesla STEM,LHS,66,88,2,0,
+g96,playoff,DE 6,6,Billerica Memorial High School,Davidson,22,120,2,0,
+g97,playoff,DE 7,7,Dulles,Ames High School,82,108,2,0,
+g98,playoff,DE 9,9,LHS,Ames High School,100,24,1,0,
+g99,playoff,DE 6,6,Walton High School,Ames High School,16,92,2,0,
+g100,playoff,DE 8,8,Ames High School,Eastside,120,86,1,0,
+g101,playoff,DE 7,7,Whitney High School,Eastside,32,88,2,0,
+g102,playoff,DE 6,6,Eastside,Arcadia,112,8,1,0,

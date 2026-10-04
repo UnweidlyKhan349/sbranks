@@ -23,7 +23,34 @@ sources:
   sheet_id: 1HIuGon0emDC9wwGI9KVY33xuX3WG09s-793Rnotd_tA
   url: https://docs.google.com/spreadsheets/d/1HIuGon0emDC9wwGI9KVY33xuX3WG09s-793Rnotd_tA/edit#gid=346318044
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_dasoni:parse_2022
+parser_options:
+  division: Standard
+  aliases:
+    NoHo B: North Hollywood B
+    Odle: Odle MS
+    Miller MS: Miller
+    Churchill MS: Churchill
+    Mt Ararat: Mt. Ararat
+  one_loss_seeds:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  round_labels:
+    '0': DE1
+    '2': DE2
+    '4': DE3
+    '6': DE4
+    '8': DE5
+    '10': DE6
+    '12': Finals 1
+status: partial
+notes: 'Standard division of the shared DASONI 2022 results sheet: 39 round-robin games (6 pools; pairings from the RR Schedule
+  tab matched to each team''s per-round W/L/score, all consistent) and the 22-game double-elimination bracket (seeds 9-16
+  start in the loser''s bracket; one 66-66 tie, Venice A advanced). Player stats not extracted: the stats sheet lists players
+  by first name with no team column, and its team tabs do not reconcile with the player rows, so membership cannot be reconstructed.'

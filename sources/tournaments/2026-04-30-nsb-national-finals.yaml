@@ -1,0 +1,46 @@
+id: 2026-04-30-nsb-national-finals
+name: NSB National Finals
+date: '2026-04-30'
+end_date: '2026-05-04'
+season: 2025-26
+location: Washington, DC
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: nationals
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/wdts/nsb/2026-Finals/Competition-Results/High-School-Round-Robin
+  file: round_robin.html
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2026/scores/2026-High-School-No-Loss-Bracket.pdf
+  file: de_no_loss.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/2026-Finals/Competition-Results/High-School-Double-Elimination
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2026/scores/2026-High-School-One-Loss-Bracket.pdf
+  file: de_one_loss.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/2026-Finals/Competition-Results/High-School-Double-Elimination
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/wdts/nsb/News-Media/2026-Press-Releases-of-Regional-Winners
+  file: regional_winners.html
+- kind: browser_url
+  role: reference
+  url: https://science.osti.gov/wdts/nsb/About/Historical-Information/Past-National-Science-Bowl-Winners/Past-HS-Winners
+  file: past_hs_winners.html
+parser: g8_nsb:parse
+parser_options:
+  rr: round_robin.html
+  de:
+  - de_no_loss.pdf
+  - de_one_loss.pdf
+  champion: Mission San Jose High School
+status: todo
+notes: ''

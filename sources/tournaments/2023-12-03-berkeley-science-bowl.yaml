@@ -28,7 +28,17 @@ sources:
   url: https://docs.google.com/spreadsheets/d/1hF3sefURNb_ssJk7SkIRKX6ByBcDxRkk4SZazZtucFY/edit
   file: backend.xlsx
   note: scoring backend referenced by IMPORTRANGE in stats.xlsx; public
-parser: null
+- kind: manual
+  role: scoresheets
+  file: interfaces/index.csv
+  url: https://docs.google.com/spreadsheets/d/1hF3sefURNb_ssJk7SkIRKX6ByBcDxRkk4SZazZtucFY/edit (Interface ID column)
+  note: first-tab CSV export of each of the 121 per-game scoring interface sheets listed in the backend; fetched by python
+    -m pipeline.parsers.tools.g5_berkeley_interfaces 2023-12-03-berkeley-science-bowl
+parser: g5_berkeley_q:parse
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: Results page (Google Sites) requires sign-in; instead the public scoring backend (IMPORTRANGE source of stats.xlsx)
+  gives all 90 RR + 30 DE games and links to one public scoring interface per game, whose question-by-question sheets give
+  per-player correct/negs/TUH and team tossup/bonus points by subject (all scoresheet totals reproduce the scores). DE scoresheets
+  carry no categories, so player stats are scope 'all' (overall, RR+DE) and 'rr' (overall + subjects); North Hollywood forfeited
+  the bracket-reset final.

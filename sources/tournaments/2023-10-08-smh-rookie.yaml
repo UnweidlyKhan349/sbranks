@@ -18,7 +18,18 @@ sources:
   sheet_id: 1hK0JM8_5tP8ZLBpk8AB42uucqHPO_pvEYQ21VeQK0kk
   url: https://docs.google.com/spreadsheets/d/1hK0JM8_5tP8ZLBpk8AB42uucqHPO_pvEYQ21VeQK0kk/edit#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_smh:parse_2023
+parser_options:
+  one_loss_seeds:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+status: parsed
+notes: 196 round-robin games from each team's per-round scores and the seed-pair schedule (championship points match for all
+  56 teams; Princeton's three 0-point rounds flagged as forfeits since it played 4 games) and 22 double-elimination games
+  (one 56-56 tie, Arcadia A advanced). RR player stats for 233 players (overall + 5 subjects; no energy tab).

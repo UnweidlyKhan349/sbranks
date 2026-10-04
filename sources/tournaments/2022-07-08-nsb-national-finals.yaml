@@ -1,0 +1,54 @@
+id: 2022-07-08-nsb-national-finals
+name: NSB National Finals
+date: '2022-07-08'
+end_date: '2022-07-11'
+season: 2021-22
+location: Washington, DC
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: nationals
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2022-Competition/Competition-Results
+  file: round_robin.html
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/images/2022-Finals/Score-Brackets/2022-NSB-Round-Robin-Results---No-Loss-Bracket_Page_1.jpg
+  file: de_brackets.jpg
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2022-Competition/Competition-Results
+- kind: manual
+  role: results
+  file: de_transcribed.yaml
+  url: https://science.osti.gov/-/media/wdts/nsb/images/2022-Finals/Score-Brackets/2022-NSB-Round-Robin-Results---No-Loss-Bracket_Page_1.jpg
+  note: hand transcription of the HS no-loss/one-loss bracket image (de_brackets.jpg); the image has no text layer
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2022-Competition/NSB-Finals-Teams
+  file: finals_teams.html
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2022-Competition/Team-Biographies
+  file: semifinal_teams.html
+- kind: browser_url
+  role: format
+  url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2022-Competition/NSB-Final-Events
+  file: final_events.html
+- kind: browser_url
+  role: results
+  url: https://www.energy.gov/node/4820848
+  file: winners_release.html
+parser: g8_nsb:parse
+parser_options:
+  rr: round_robin.html
+  de_transcribed: de_transcribed.yaml
+  hints: null
+  teams_page: finals_teams.html
+  champion: Lynbrook High School
+status: todo
+notes: ''

@@ -18,7 +18,25 @@ sources:
   sheet_id: 17mtBFAdH-qLFqz6XqiXtv1_xqbBAaCI98IHmQY9hOcA
   url: https://docs.google.com/spreadsheets/d/17mtBFAdH-qLFqz6XqiXtv1_xqbBAaCI98IHmQY9hOcA/edit?gid=697506192#gid=697506192
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_misc:parse_clements_2025
+parser_options:
+  aliases:
+    Blair A: Blair
+    Iolani A: Iolani 1
+    Iolani: Iolani 1
+    Amador: Amador Valley
+    CCA: Canyon Crest 1
+    Collierville A: Collierville 1
+    Collierville B: Collierville 2
+    Evergreen: Evergreen 1
+    MSJ A: MSJ 1
+    MSJ: MSJ 1
+    noho: North Hollywood
+    North Hollywood A: North Hollywood
+    TJ A: Thomas Jefferson 1
+status: parsed
+notes: 20 teams in 4 pools of 5 (grid where the column is the scoring team; -1/0 cells are forfeits, two by Iolani 2) plus
+  the 14-game DE ('130-48' score cells; Blair beat MSJ 1 in the final). Per-subject player stats including energy for RR and
+  DE from the stats tabs in the results workbook (corrects/negs/buzzes given; the TUH column is not usable and was dropped).
+  MODAQ team labels were mapped to bracket names (e.g. 'noho' -> North Hollywood, 'MSJ A' -> MSJ 1, 'Iolani' -> Iolani 1);
+  spectator and anonymous rows were skipped.

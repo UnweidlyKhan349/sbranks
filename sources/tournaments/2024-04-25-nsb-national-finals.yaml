@@ -1,0 +1,48 @@
+id: 2024-04-25-nsb-national-finals
+name: NSB National Finals
+date: '2024-04-25'
+end_date: '2024-04-29'
+season: 2023-24
+location: Washington, DC
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: nationals
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2024/Scores/2024-High-School-Round-Robin-Scores.pdf
+  file: round_robin.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2024-Competition/Competition-Results
+- kind: manual
+  role: results
+  file: rr_transcribed.yaml
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2024/Scores/2024-High-School-Round-Robin-Scores.pdf
+  note: hand transcription of the round-robin grids; the PDF is a screenshot with no text layer
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2024/Scores/2024-High-School-No-Loss-Bracket.pdf
+  file: de_no_loss.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2024-Competition/Competition-Results
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2024/Scores/2024-High-School-One-Loss-Bracket.pdf
+  file: de_one_loss.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2024-Competition/Competition-Results
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/wdts/nsb/News-Media/2024-Press-Releases-of-Regional-Winners
+  file: regional_winners.html
+parser: g8_nsb:parse
+parser_options:
+  rr: rr_transcribed.yaml
+  de:
+  - de_no_loss.pdf
+  - de_one_loss.pdf
+  champion: Lexington High School
+status: todo
+notes: ''

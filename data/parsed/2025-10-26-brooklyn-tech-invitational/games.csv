@@ -1,0 +1,54 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Cupertino A,Galen A,86,98,2,0,Archimedes
+g2,rr,RR2,2,Cupertino A,Blair A,26,190,2,0,Archimedes
+g3,rr,RR3,3,Cupertino A,Lynbrook B,56,78,2,0,Archimedes
+g4,rr,RR4,4,Cupertino A,Princeton A,68,18,1,0,Archimedes
+g5,rr,RR5,5,Cupertino A,Irvington B,44,36,1,0,Archimedes
+g6,rr,RR5,5,Galen A,Blair A,70,114,2,0,Archimedes
+g7,rr,RR4,4,Galen A,Lynbrook B,106,68,1,0,Archimedes
+g8,rr,RR2,2,Galen A,Princeton A,124,74,1,0,Archimedes
+g9,rr,RR3,3,Galen A,Irvington B,142,8,1,0,Archimedes
+g10,rr,RR1,1,Blair A,Lynbrook B,200,98,1,0,Archimedes
+g11,rr,RR3,3,Blair A,Princeton A,180,4,1,0,Archimedes
+g12,rr,RR4,4,Blair A,Irvington B,168,14,1,0,Archimedes
+g13,rr,RR5,5,Lynbrook B,Princeton A,92,48,1,0,Archimedes
+g14,rr,RR2,2,Lynbrook B,Irvington B,176,8,1,0,Archimedes
+g15,rr,RR1,1,Princeton A,Irvington B,156,32,1,0,Archimedes
+g16,rr,RR1,1,Irvington A,Hustler's University,18,226,2,0,Bernoulli
+g17,rr,RR2,2,Irvington A,Jericho A,76,84,2,0,Bernoulli
+g18,rr,RR3,3,Irvington A,BIF A,72,28,1,0,Bernoulli
+g19,rr,RR4,4,Irvington A,Deep Run B,78,20,1,0,Bernoulli
+g20,rr,RR5,5,Hustler's University,Jericho A,116,22,1,0,Bernoulli
+g21,rr,RR4,4,Hustler's University,BIF A,162,26,1,0,Bernoulli
+g22,rr,RR2,2,Hustler's University,Deep Run B,188,12,1,0,Bernoulli
+g23,rr,RR1,1,Jericho A,BIF A,84,74,1,0,Bernoulli
+g24,rr,RR3,3,Jericho A,Deep Run B,104,-4,1,0,Bernoulli
+g25,rr,RR5,5,BIF A,Deep Run B,12,8,1,0,Bernoulli
+g26,rr,RR1,1,BISV A,Cupertino B,112,54,1,0,Curie
+g27,rr,RR2,2,BISV A,MSJ B,122,122,T,0,Curie
+g28,rr,RR3,3,BISV A,Collierville B,128,36,1,0,Curie
+g29,rr,RR4,4,BISV A,Lynbrook A,110,84,1,0,Curie
+g30,rr,RR5,5,Cupertino B,MSJ B,56,108,2,0,Curie
+g31,rr,RR4,4,Cupertino B,Collierville B,40,48,2,0,Curie
+g32,rr,RR2,2,Cupertino B,Lynbrook A,34,186,2,0,Curie
+g33,rr,RR1,1,MSJ B,Collierville B,176,46,1,0,Curie
+g34,rr,RR3,3,MSJ B,Lynbrook A,142,74,1,0,Curie
+g35,rr,RR5,5,Collierville B,Lynbrook A,18,164,2,0,Curie
+g36,rr,RR1,1,School of Biology,BISV B,172,64,1,0,Darwin
+g37,rr,RR2,2,School of Biology,Collierville A,126,52,1,0,Darwin
+g38,rr,RR3,3,School of Biology,Deep Run A,104,24,1,0,Darwin
+g39,rr,RR4,4,School of Biology,JP Stevens A,134,8,1,0,Darwin
+g40,rr,RR5,5,BISV B,Collierville A,18,70,2,0,Darwin
+g41,rr,RR4,4,BISV B,Deep Run A,36,156,2,0,Darwin
+g42,rr,RR2,2,BISV B,JP Stevens A,102,80,1,0,Darwin
+g43,rr,RR1,1,Collierville A,Deep Run A,166,74,1,0,Darwin
+g44,rr,RR3,3,Collierville A,JP Stevens A,138,22,1,0,Darwin
+g45,rr,RR5,5,Deep Run A,JP Stevens A,100,8,1,0,Darwin
+Quarterfinals-VC 1,playoff,Quarterfinals,6,Hustler's University,Lynbrook A,62,56,1,0,
+Semifinals-VC 1,playoff,Semifinals,7,MSJ B,Hustler's University,100,60,1,0,
+Finals-VC 1,playoff,Finals,8,School of Biology,MSJ B,,,2,0,no score in source; winner from the organizers' note on the Field tab
+Quarterfinals-VC 2,playoff,Quarterfinals,6,Blair A,Collierville A,56,32,1,0,
+Semifinals-VC 2,playoff,Semifinals,7,School of Biology,Blair A,66,46,1,0,
+3rd Place-3rd place,playoff,3rd Place,8,Blair A,Hustler's University,,,1,0,no score in source; winner from the organizers' note on the Field tab
+Quarterfinals-VC 3,playoff,Quarterfinals,6,School of Biology,Galen A,72,26,1,0,
+Quarterfinals-VC 4,playoff,Quarterfinals,6,MSJ B,BISV A,110,50,1,0,

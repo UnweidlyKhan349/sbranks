@@ -27,5 +27,9 @@ parser: g5_stanford_template:parse
 parser_options:
   stats: stats.xlsx
   raw_check: true
-status: todo
-notes: ''
+status: parsed
+notes: 'All 148 games: 90 RR (6 pools, rounds from the RR schedule), 27 consolation-pool games and the 31-game DE bracket
+  incl. the if-necessary final, cross-checked against the hidden room log and the RR W/L/points columns. Player and team subject
+  stats are RR-only and come from the hidden per-game scoresheet tab (90 games): player tossup points by subject per game
+  (negs are not attributed to players, so points = 4*correct; gp counts half-games exactly as the Indiv PPG tabs do, which
+  they reproduce), team tossup/bonus points by subject; one Irvington buzz has no player name (team totals only).'

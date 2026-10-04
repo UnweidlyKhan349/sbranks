@@ -1,0 +1,27 @@
+{
+  "tournament_id": "2021-01-24-wisc",
+  "counts": {
+    "teams": 24,
+    "games": 22,
+    "games_with_scores": 0,
+    "player_stat_rows": 525,
+    "players": 75,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": false,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "25 players fit several teams and were skipped: Aidan ((other)/Beckman), Allison ((other)/Iolani School), Andrew S ((other)/Beckman), Aneesh ((players without a team row)/Van Nuys), Anish (Bow/Franklin/Iolani School/Jh King/North Hollywood/Ward Melville A), Arif ((players without a team row)/Ames/Bethlehem Central), Atharva (Bow/Franklin/Iolani School/Jh King/North Hollywood/Ward Melville A), Avani (Bow/Franklin/Iolani School/Jh King/North Hollywood/Ward Melville A), Avi ((other)/Quail Valley), Boheng ((other)/North Hollywood), Brandon ((other)/Iolani School), Camilla (Bow/Franklin/Iolani School/North Hollywood/Ward Melville A), Daniel ((players without a team row)/Ames/Bethlehem Central), Dylan Y ((other)/Wwphss), Ivan ((other)/Shaker), Jaron (Bow/Franklin/Iolani School/North Hollywood/Ward Melville A), Jixiang ((other)/Centennial), Jonah ((other)/Westminster), Katie ((players without a team row)/Van Nuys), Pranav (Bow/Franklin/Iolani School/Jh King/North Hollywood/Ward Melville A), Prisha ((other)/Dulles), Steve ((other)/Ward Melville A), Sunny ((players without a team row)/Ames/Bethlehem Central), Suraj ((other)/Quail Valley), Victor ((other)/Westminster)",
+    "8 players belong to no team listed in the team tabs (player totals exceed team totals) and were skipped: Richard, Josh, Abhi, Justin Li, Neal Carpino, Alexander, Xing, Hirad",
+    "19 players with no buzzes could not be placed on a team: Charlie, Nikhil, Saisha, Subject, Atul, Dylan K @GP1, Rut, Yicheng, Monish, Rishab, Yuri, Centenial, Rami, Dhilian, Jacob, Victoria, Nathan K, Akom47, Annika"
+  ],
+  "parser": "g3_online:parse_wisc2021"
+}

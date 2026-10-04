@@ -74,12 +74,25 @@ def fit(obs: Obs, n_ent: int, n_t: int, delta0: np.ndarray, snapshot_day: int,
 
 def field_prior(obs: Obs, n_t: int, field_strength: np.ndarray, snapshot_day: int,
                 p: ModelParams) -> tuple[np.ndarray, float]:
-    """delta0[t] = beta * (field_strength[t] - 1500) / 100, beta fitted on a prior-free pass."""
-    first = fit(obs, int(obs.entity.max()) + 1 if len(obs.entity) else 0, n_t, np.zeros(n_t),
-                snapshot_day, p)
+    """delta0[t] = mean_delta + beta * (field_strength[t] - mean) / 100.
+
+    beta is fitted on a prior-free pass using only well-connected tournaments (at least 30% of
+    their tossups heard by players who also appear elsewhere) — an isolated event's delta is
+    not identified by the data, so it would only add noise to the fit. Isolated events then
+    get a difficulty predicted from their field strength.
+    """
+    n_ent = int(obs.entity.max()) + 1 if len(obs.entity) else 0
+    first = fit(obs, n_ent, n_t, np.zeros(n_t), snapshot_day, p)
     W_t = np.bincount(obs.tourn, weights=obs.w, minlength=n_t)
+    n_tourn_of_ent = np.bincount(obs.entity, minlength=n_ent)
+    # count distinct tournaments per entity
+    pairs = np.unique(np.stack([obs.entity, obs.tourn]), axis=1)
+    n_tourn_of_ent = np.bincount(pairs[0], minlength=n_ent)
+    linked = n_tourn_of_ent[obs.entity] >= 2
+    W_link = np.bincount(obs.tourn, weights=obs.w * linked, minlength=n_t)
+    conn = np.divide(W_link, W_t, out=np.zeros(n_t), where=W_t > 0)
     x = (field_strength - 1500.0) / 100.0
-    ok = np.isfinite(x) & (W_t > 0)
+    ok = np.isfinite(x) & (W_t > 0) & (conn >= 0.3)
     if ok.sum() < 5:
         return np.zeros(n_t), 0.0
     xw, dw, ww = x[ok], first["delta"][ok], W_t[ok]
@@ -88,7 +101,7 @@ def field_prior(obs: Obs, n_t: int, field_strength: np.ndarray, snapshot_day: in
     var = np.average((xw - xm) ** 2, weights=ww)
     beta = float(np.average((xw - xm) * (dw - dm), weights=ww) / var) if var > 0 else 0.0
     beta = max(0.0, beta)  # stronger fields can only make scoring harder
-    d0 = np.where(np.isfinite(x), beta * (x - xm) + dm, 0.0)
+    d0 = np.where(np.isfinite(x), beta * (x - xm) + dm, dm)
     return d0, beta
 
 
@@ -118,17 +131,18 @@ def _empirical_k(obs: Obs, n_ent: int, n_t: int, snapshot_day: int, p: ModelPara
     return replace(p, k_theta=float(np.clip(sigma2 / tau2, 3.0, 300.0)))
 
 
-def to_elo(theta: np.ndarray, spread: float) -> np.ndarray:
-    return 1500.0 + 200.0 * theta / spread
+def to_elo(theta: np.ndarray, spread: float, center: float = 0.0) -> np.ndarray:
+    return 1500.0 + 200.0 * (theta - center) / spread
 
 
-def spread_of(fitres: dict[str, np.ndarray], p: ModelParams) -> float:
+def spread_of(fitres: dict[str, np.ndarray], p: ModelParams) -> tuple[float, float]:
+    """(spread, center): weighted SD and mean of theta among established entities."""
     est = fitres["weight"] >= p.established_weight
     th, w = fitres["theta"][est], fitres["weight"][est]
     if len(th) < 5:
-        return 0.4
-    m = np.average(th, weights=w)
-    return float(np.sqrt(np.average((th - m) ** 2, weights=w))) or 0.4
+        return 0.4, 0.0
+    m = float(np.average(th, weights=w))
+    return (float(np.sqrt(np.average((th - m) ** 2, weights=w))) or 0.4), m
 
 
 def day(d: dt.date | str) -> int:
@@ -167,8 +181,8 @@ def run_model(rows: list[dict[str, Any]], tournaments: list[dict[str, Any]], p: 
         p = _empirical_k(obs, len(ent_ids), len(t_ids), final_day, p, sigma2)
     delta0, beta = field_prior(obs, len(t_ids), fs, final_day, p)
     final = fit(obs, len(ent_ids), len(t_ids), delta0, final_day, p)
-    spread = spread_of(final, p)
-    elo = to_elo(final["theta"], spread)
+    spread, center = spread_of(final, p)
+    elo = to_elo(final["theta"], spread, center)
     se = 200.0 * final["se"] / spread
     last_day = np.zeros(len(ent_ids), dtype=int)
     np.maximum.at(last_day, obs.entity, obs.days)
@@ -185,11 +199,11 @@ def run_model(rows: list[dict[str, Any]], tournaments: list[dict[str, Any]], p: 
             played_at.setdefault(int(d), set()).add(int(ei))
         for d in sorted(set(snapshot_days) & set(played_at)):
             f = fit(obs, len(ent_ids), len(t_ids), delta0, d, p) if d != final_day else final
-            el = to_elo(f["theta"], spread)
+            el = to_elo(f["theta"], spread, center)
             sev = 200.0 * f["se"] / spread
             for ei in played_at[d]:
                 hist.setdefault(ent_ids[ei], []).append({"day": d, "rating": round(float(el[ei]), 1),
                                                          "se": round(float(sev[ei]), 1)})
     deltas = {t_ids[i]: float(final["delta"][i]) for i in range(len(t_ids))}
-    return {"entities": entities, "history": hist, "beta": beta, "spread": spread, "delta": deltas,
+    return {"entities": entities, "history": hist, "beta": beta, "spread": spread, "center": center, "delta": deltas,
             "k_theta": p.k_theta}

@@ -11,7 +11,7 @@ exclude_reason: null
 kind: invitational
 level: standard
 subject_only: null
-question_set: null
+question_set: ignis-2023
 sources:
 - kind: url
   role: results
@@ -31,7 +31,14 @@ sources:
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRKb_cX7u67QzY1WXGNKAqA6dwdBra2DPfcskS1-wO6BdUM3wSb0rQoTxVFBET7443aHHxN8bNuXghj/pub?output=xlsx
   file: stats_sheet.xlsx
   note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_ignis:parse_inperson
+parser_options:
+  rr_tab: Main
+  schools:
+    Saratoga A: Saratoga High School
+    Mira Loma A: Mira Loma High School
+    Cupertino A: Cupertino High School
+status: parsed
+notes: Ignis set (X-Risk/Math/Chem/E&S/Bio/Physics; no Energy; X-Risk -> 'other'). All 36 round-robin games + 2 finals games,
+  with per-game subject points from the stats sheet's per-question score log; player totals per category (first names only
+  in the source) plus per-game player buzzes. Team PPG and bonus totals match the source's Team Stats.

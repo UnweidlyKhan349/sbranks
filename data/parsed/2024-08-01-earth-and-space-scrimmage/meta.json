@@ -1,0 +1,23 @@
+{
+  "tournament_id": "2024-08-01-earth-and-space-scrimmage",
+  "counts": {
+    "teams": 48,
+    "games": 135,
+    "games_with_scores": 135,
+    "player_stat_rows": 96,
+    "players": 48,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [],
+  "parser": "g1_ess_scrimmage:parse_ess1"
+}

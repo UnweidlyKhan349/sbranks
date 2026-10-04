@@ -1,0 +1,46 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,1,1,Winston Churchill Middle School B,Van Nuys High School B,60,118,2,0,Cardinal division
+g2,rr,1,1,Stuyvesant High School,Acadia MS,94,118,2,0,Cardinal division
+g3,rr,1,1,Whitney HS,Pleasanton Middle School,70,192,2,0,Cardinal division
+g4,rr,2,2,Winston Churchill Middle School B,Acadia MS,52,108,2,0,Cardinal division
+g5,rr,2,2,Van Nuys High School B,Pleasanton Middle School,12,188,2,0,Cardinal division
+g6,rr,2,2,Stuyvesant High School,Whitney HS,,,1,0,Cardinal division; source score 56-56; winner per source Stuyvesant High School
+g7,rr,3,3,Winston Churchill Middle School B,Pleasanton Middle School,88,86,1,0,Cardinal division
+g8,rr,3,3,Van Nuys High School B,Stuyvesant High School,58,200,2,0,Cardinal division
+g9,rr,3,3,Whitney HS,Acadia MS,102,56,1,0,Cardinal division
+g10,rr,4,4,Winston Churchill Middle School B,Whitney HS,60,58,1,0,Cardinal division
+g11,rr,4,4,Van Nuys High School B,Acadia MS,104,30,1,0,Cardinal division
+g12,rr,4,4,Stuyvesant High School,Pleasanton Middle School,164,80,1,0,Cardinal division
+g13,rr,5,5,Winston Churchill Middle School B,Stuyvesant High School,74,58,1,0,Cardinal division
+g14,rr,5,5,Van Nuys High School B,Whitney HS,76,62,1,0,Cardinal division
+g15,rr,5,5,Pleasanton Middle School,Acadia MS,120,34,1,0,Cardinal division
+g16,rr,1,1,Centennial HS,KJ Henry Math and Science Academy,218,64,1,0,Blue Jay division
+g17,rr,1,1,Martin Luther King High School,Quail Valley MS,92,72,1,0,Blue Jay division
+g18,rr,1,1,Community Middle School,Pleasanton Middle School B,140,126,1,0,Blue Jay division
+g19,rr,2,2,Centennial HS,Quail Valley MS,194,96,1,0,Blue Jay division
+g20,rr,2,2,KJ Henry Math and Science Academy,Pleasanton Middle School B,140,56,1,0,Blue Jay division
+g21,rr,2,2,Martin Luther King High School,Community Middle School,108,152,2,0,Blue Jay division
+g22,rr,3,3,Centennial HS,Pleasanton Middle School B,120,76,1,0,Blue Jay division
+g23,rr,3,3,KJ Henry Math and Science Academy,Martin Luther King High School,148,130,1,0,Blue Jay division
+g24,rr,3,3,Community Middle School,Quail Valley MS,62,172,2,0,Blue Jay division
+g25,rr,4,4,Centennial HS,Community Middle School,142,52,1,0,Blue Jay division
+g26,rr,4,4,KJ Henry Math and Science Academy,Quail Valley MS,130,84,1,0,Blue Jay division
+g27,rr,4,4,Martin Luther King High School,Pleasanton Middle School B,104,42,1,0,Blue Jay division
+g28,rr,5,5,Centennial HS,Martin Luther King High School,130,70,1,0,Blue Jay division
+g29,rr,5,5,KJ Henry Math and Science Academy,Community Middle School,82,90,2,0,Blue Jay division
+g30,rr,5,5,Pleasanton Middle School B,Quail Valley MS,34,108,2,0,Blue Jay division
+g31,rr,1,1,Van Nuys High School A,South County MS,54,100,2,0,Goldfinch division
+g32,rr,1,1,Ladue MS,Bottimus Elementary,,,2,1,Goldfinch division; forfeit (0-0 in source)
+g33,rr,1,1,Winston Churchill Middle School,Timberline High School,182,72,1,0,Goldfinch division
+g34,rr,2,2,Van Nuys High School A,Bottimus Elementary,40,170,2,0,Goldfinch division
+g35,rr,2,2,South County MS,Timberline High School,50,76,2,0,Goldfinch division
+g36,rr,2,2,Ladue MS,Winston Churchill Middle School,,,2,1,Goldfinch division; forfeit (0-0 in source)
+g37,rr,3,3,Van Nuys High School A,Timberline High School,202,32,1,0,Goldfinch division
+g38,rr,3,3,South County MS,Ladue MS,,,1,1,Goldfinch division; forfeit (0-0 in source)
+g39,rr,3,3,Winston Churchill Middle School,Bottimus Elementary,124,18,1,0,Goldfinch division
+g40,rr,4,4,Van Nuys High School A,Winston Churchill Middle School,98,82,1,0,Goldfinch division
+g41,rr,4,4,South County MS,Bottimus Elementary,8,106,2,0,Goldfinch division
+g42,rr,4,4,Ladue MS,Timberline High School,,,2,1,Goldfinch division; forfeit (0-0 in source)
+g43,rr,5,5,Van Nuys High School A,Ladue MS,,,1,1,Goldfinch division; forfeit (0-0 in source)
+g44,rr,5,5,South County MS,Winston Churchill Middle School,20,130,2,0,Goldfinch division
+g45,rr,5,5,Timberline High School,Bottimus Elementary,64,46,1,0,Goldfinch division

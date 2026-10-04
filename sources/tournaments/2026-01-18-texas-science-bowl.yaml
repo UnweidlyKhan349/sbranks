@@ -23,7 +23,12 @@ sources:
   sheet_id: 1KlKOwsmkSXS6E3xAzmffIVKBh4I6A3ZzX50RMitqLr4
   url: https://docs.google.com/spreadsheets/d/1KlKOwsmkSXS6E3xAzmffIVKBh4I6A3ZzX50RMitqLr4/edit?usp=sharing
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_bsb:parse_texas_2026
+parser_options:
+  aliases:
+    Will of A: ASFA
+status: parsed
+notes: 62 teams in two 5-round Swiss groups (Jester/Kins, stage rr) plus the 31-game DE bracket (Ward Melville 1 beat Amador
+  Valley in the second final). Player stats cover the Swiss rounds only (Games/TUH/PPG/NPG per subject, no energy); points,
+  negs and corrects follow exactly from PPG and NPG times games, and players split into two MODAQ rows are summed. The stats
+  team 'Will of A' is ASFA (same PPG and players); hidden per-game MODAQ tabs were not used.

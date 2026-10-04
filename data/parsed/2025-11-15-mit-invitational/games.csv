@@ -1,0 +1,207 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1,rr,,1,OK School of Science and Math,Hunter College,,,2,0,Acemoglu Division
+rr2,rr,,1,OK School of Science and Math,PRISMS,,,2,0,Acemoglu Division
+rr3,rr,,1,OK School of Science and Math,Stanford Online,,,1,0,Acemoglu Division
+rr4,rr,,1,OK School of Science and Math,Lexington 1,,,2,0,Acemoglu Division
+rr5,rr,,1,OK School of Science and Math,Shenendehowa,,,2,0,Acemoglu Division
+rr6,rr,,1,Hunter College,PRISMS,,,1,0,Acemoglu Division
+rr7,rr,,1,Hunter College,Stanford Online,,,1,0,Acemoglu Division
+rr8,rr,,1,Hunter College,Lexington 1,,,2,0,Acemoglu Division
+rr9,rr,,1,Hunter College,Shenendehowa,,,1,0,Acemoglu Division
+rr10,rr,,1,PRISMS,Stanford Online,,,1,0,Acemoglu Division
+rr11,rr,,1,PRISMS,Lexington 1,,,2,0,Acemoglu Division
+rr12,rr,,1,PRISMS,Shenendehowa,,,1,0,Acemoglu Division
+rr13,rr,,1,Stanford Online,Lexington 1,,,2,0,Acemoglu Division
+rr14,rr,,1,Stanford Online,Shenendehowa,,,2,0,Acemoglu Division
+rr15,rr,,1,Lexington 1,Shenendehowa,,,1,0,Acemoglu Division
+rr16,rr,,1,Newtown,SciTech,,,2,0,Bawendi Division
+rr17,rr,,1,Newtown,Troy,,,2,0,Bawendi Division
+rr18,rr,,1,Newtown,Cape Elizabeth,,,2,0,Bawendi Division
+rr19,rr,,1,Newtown,North Hollywood,,,2,0,Bawendi Division
+rr20,rr,,1,Newtown,Waterford,,,2,0,Bawendi Division
+rr21,rr,,1,SciTech,Troy,,,1,0,Bawendi Division
+rr22,rr,,1,SciTech,Cape Elizabeth,,,1,0,Bawendi Division
+rr23,rr,,1,SciTech,North Hollywood,,,2,0,Bawendi Division
+rr24,rr,,1,SciTech,Waterford,,,1,0,Bawendi Division
+rr25,rr,,1,Troy,Cape Elizabeth,,,1,0,Bawendi Division
+rr26,rr,,1,Troy,North Hollywood,,,2,0,Bawendi Division
+rr27,rr,,1,Troy,Waterford,,,2,0,Bawendi Division
+rr28,rr,,1,Cape Elizabeth,North Hollywood,,,2,0,Bawendi Division
+rr29,rr,,1,Cape Elizabeth,Waterford,,,2,0,Bawendi Division
+rr30,rr,,1,North Hollywood,Waterford,,,1,0,Bawendi Division
+rr31,rr,,1,Mission San Jose,Whitney Young,,,1,0,Chomsky Division
+rr32,rr,,1,Mission San Jose,Ward Melville,,,1,0,Chomsky Division
+rr33,rr,,1,Mission San Jose,Doral Academy,,,1,0,Chomsky Division
+rr34,rr,,1,Mission San Jose,Nashua South,,,1,0,Chomsky Division
+rr35,rr,,1,Mission San Jose,State College Area,,,1,0,Chomsky Division
+rr36,rr,,1,Whitney Young,Ward Melville,,,2,0,Chomsky Division
+rr37,rr,,1,Whitney Young,Doral Academy,,,2,0,Chomsky Division
+rr38,rr,,1,Whitney Young,Nashua South,,,1,0,Chomsky Division
+rr39,rr,,1,Whitney Young,State College Area,,,1,0,Chomsky Division
+rr40,rr,,1,Ward Melville,Doral Academy,,,1,0,Chomsky Division
+rr41,rr,,1,Ward Melville,Nashua South,,,1,0,Chomsky Division
+rr42,rr,,1,Ward Melville,State College Area,,,1,0,Chomsky Division
+rr43,rr,,1,Doral Academy,Nashua South,,,1,0,Chomsky Division
+rr44,rr,,1,Doral Academy,State College Area,,,1,0,Chomsky Division
+rr45,rr,,1,Nashua South,State College Area,,,1,0,Chomsky Division
+rr46,rr,,1,Lexington 2,Falmouth,,,1,0,Demaine Division
+rr47,rr,,1,Lexington 2,Academy for Science and Design,,,1,0,Demaine Division
+rr48,rr,,1,Lexington 2,Davidson Academy,,,2,0,Demaine Division
+rr49,rr,,1,Lexington 2,University,,,2,0,Demaine Division
+rr50,rr,,1,Lexington 2,Natick,,,1,0,Demaine Division
+rr51,rr,,1,Falmouth,Academy for Science and Design,,,1,0,Demaine Division
+rr52,rr,,1,Falmouth,Davidson Academy,,,2,0,Demaine Division
+rr53,rr,,1,Falmouth,University,,,2,0,Demaine Division
+rr54,rr,,1,Falmouth,Natick,,,1,0,Demaine Division
+rr55,rr,,1,Academy for Science and Design,Davidson Academy,,,2,0,Demaine Division
+rr56,rr,,1,Academy for Science and Design,University,,,2,0,Demaine Division
+rr57,rr,,1,Academy for Science and Design,Natick,,,2,0,Demaine Division
+rr58,rr,,1,Davidson Academy,University,,,1,0,Demaine Division
+rr59,rr,,1,Davidson Academy,Natick,,,1,0,Demaine Division
+rr60,rr,,1,University,Natick,,,1,0,Demaine Division
+rr61,rr,,1,Boston Latin School,Joel Barlow,,,1,0,Engelhardt Division
+rr62,rr,,1,Boston Latin School,Commonwealth,,,2,0,Engelhardt Division
+rr63,rr,,1,Boston Latin School,Seattle Schrodinger Squad,,,2,0,Engelhardt Division
+rr64,rr,,1,Boston Latin School,South Jersey,,,2,0,Engelhardt Division
+rr65,rr,,1,Boston Latin School,Plainsboro,,,2,0,Engelhardt Division
+rr66,rr,,1,Joel Barlow,Commonwealth,,,2,0,Engelhardt Division
+rr67,rr,,1,Joel Barlow,Seattle Schrodinger Squad,,,2,0,Engelhardt Division
+rr68,rr,,1,Joel Barlow,South Jersey,,,2,0,Engelhardt Division
+rr69,rr,,1,Joel Barlow,Plainsboro,,,2,0,Engelhardt Division
+rr70,rr,,1,Commonwealth,Seattle Schrodinger Squad,,,2,0,Engelhardt Division
+rr71,rr,,1,Commonwealth,South Jersey,,,2,0,Engelhardt Division
+rr72,rr,,1,Commonwealth,Plainsboro,,,2,0,Engelhardt Division
+rr73,rr,,1,Seattle Schrodinger Squad,South Jersey,,,1,0,Engelhardt Division
+rr74,rr,,1,Seattle Schrodinger Squad,Plainsboro,,,1,0,Engelhardt Division
+rr75,rr,,1,South Jersey,Plainsboro,,,2,0,Engelhardt Division
+rr76,rr,,1,Niskayuna,Venice,,,1,0,Friedman Division
+rr77,rr,,1,Niskayuna,Phillips Exeter Academy,,,1,0,Friedman Division
+rr78,rr,,1,Niskayuna,Farmington,,,2,0,Friedman Division
+rr79,rr,,1,Niskayuna,BASIS Silicon Valley,,,1,0,Friedman Division
+rr80,rr,,1,Niskayuna,Greenwich,,,2,0,Friedman Division
+rr81,rr,,1,Venice,Phillips Exeter Academy,,,2,0,Friedman Division
+rr82,rr,,1,Venice,Farmington,,,2,0,Friedman Division
+rr83,rr,,1,Venice,BASIS Silicon Valley,,,2,0,Friedman Division
+rr84,rr,,1,Venice,Greenwich,,,2,0,Friedman Division
+rr85,rr,,1,Phillips Exeter Academy,Farmington,,,1,0,Friedman Division
+rr86,rr,,1,Phillips Exeter Academy,BASIS Silicon Valley,,,1,0,Friedman Division
+rr87,rr,,1,Phillips Exeter Academy,Greenwich,,,1,0,Friedman Division
+rr88,rr,,1,Farmington,BASIS Silicon Valley,,,2,0,Friedman Division
+rr89,rr,,1,Farmington,Greenwich,,,1,0,Friedman Division
+rr90,rr,,1,BASIS Silicon Valley,Greenwich,,,1,0,Friedman Division
+rr91,rr,,1,Advanced Math Science Academy,Northfield Mount Hermon,,,1,0,Guth Division
+rr92,rr,,1,Advanced Math Science Academy,Enloe,,,2,0,Guth Division
+rr93,rr,,1,Advanced Math Science Academy,Clements,,,2,0,Guth Division
+rr94,rr,,1,Advanced Math Science Academy,Gatton Academy,,,1,0,Guth Division
+rr95,rr,,1,Advanced Math Science Academy,Irvington,,,1,0,Guth Division
+rr96,rr,,1,Northfield Mount Hermon,Enloe,,,2,0,Guth Division
+rr97,rr,,1,Northfield Mount Hermon,Clements,,,2,0,Guth Division
+rr98,rr,,1,Northfield Mount Hermon,Gatton Academy,,,2,0,Guth Division
+rr99,rr,,1,Northfield Mount Hermon,Irvington,,,2,0,Guth Division
+rr100,rr,,1,Enloe,Clements,,,2,0,Guth Division
+rr101,rr,,1,Enloe,Gatton Academy,,,1,0,Guth Division
+rr102,rr,,1,Enloe,Irvington,,,1,0,Guth Division
+rr103,rr,,1,Clements,Gatton Academy,,,1,0,Guth Division
+rr104,rr,,1,Clements,Irvington,,,1,0,Guth Division
+rr105,rr,,1,Gatton Academy,Irvington,,,1,0,Guth Division
+rr106,rr,,1,BASIS Bellevue,Sharon,,,1,0,Horvitz Division
+rr107,rr,,1,BASIS Bellevue,Montgomery Blair,,,2,0,Horvitz Division
+rr108,rr,,1,BASIS Bellevue,Glastonbury,,,1,0,Horvitz Division
+rr109,rr,,1,BASIS Bellevue,Westminster,,,1,0,Horvitz Division
+rr110,rr,,1,BASIS Bellevue,Frazer School,,,2,0,Horvitz Division
+rr111,rr,,1,Sharon,Montgomery Blair,,,2,0,Horvitz Division
+rr112,rr,,1,Sharon,Glastonbury,,,2,0,Horvitz Division
+rr113,rr,,1,Sharon,Westminster,,,2,0,Horvitz Division
+rr114,rr,,1,Sharon,Frazer School,,,2,0,Horvitz Division
+rr115,rr,,1,Montgomery Blair,Glastonbury,,,1,0,Horvitz Division
+rr116,rr,,1,Montgomery Blair,Westminster,,,1,0,Horvitz Division
+rr117,rr,,1,Montgomery Blair,Frazer School,,,1,0,Horvitz Division
+rr118,rr,,1,Glastonbury,Westminster,,,2,0,Horvitz Division
+rr119,rr,,1,Glastonbury,Frazer School,,,2,0,Horvitz Division
+rr120,rr,,1,Westminster,Frazer School,,,2,0,Horvitz Division
+wc121,consolation,,13,OK School of Science and Math,Cape Elizabeth,,,1,0,CRISPR Division
+wc122,consolation,,13,OK School of Science and Math,Irvington,,,1,0,CRISPR Division
+wc123,consolation,,13,OK School of Science and Math,Glastonbury,,,1,0,CRISPR Division
+wc124,consolation,,13,Cape Elizabeth,Irvington,,,1,0,CRISPR Division
+wc125,consolation,,13,Cape Elizabeth,Glastonbury,,,2,0,CRISPR Division
+wc126,consolation,,13,Irvington,Glastonbury,,,1,0,CRISPR Division
+wc127,consolation,,13,Nashua South,Natick,,,2,0,CSAIL Division
+wc128,consolation,,13,Nashua South,Boston Latin School,,,1,0,CSAIL Division
+wc129,consolation,,13,Nashua South,Greenwich,,,2,0,CSAIL Division
+wc130,consolation,,13,Natick,Greenwich,,,2,0,CSAIL Division
+wc131,consolation,,13,Boston Latin School,Greenwich,,,2,0,CSAIL Division
+wc132,consolation,,13,Joel Barlow,Venice,,,2,0,LIGO Division
+wc133,consolation,,13,Joel Barlow,State College Area,,,1,0,LIGO Division
+wc134,consolation,,13,Joel Barlow,Academy for Science and Design,,,1,0,LIGO Division
+wc135,consolation,,13,Venice,State College Area,,,1,1,LIGO Division; marked * in source
+wc136,consolation,,13,Venice,Academy for Science and Design,,,T,0,LIGO Division
+wc137,consolation,,13,State College Area,Academy for Science and Design,,,2,0,LIGO Division
+wc138,consolation,,13,Northfield Mount Hermon,Sharon,,,1,0,J Division
+wc139,consolation,,13,Northfield Mount Hermon,Stanford Online,,,1,0,J Division
+wc140,consolation,,13,Northfield Mount Hermon,Newtown,,,1,0,J Division
+wc141,consolation,,13,Sharon,Stanford Online,,,1,0,J Division
+wc142,consolation,,13,Sharon,Newtown,,,1,0,J Division
+wc143,consolation,,13,Stanford Online,Newtown,,,1,0,J Division
+W2,playoff,DE1,11,Plainsboro,Lexington 2,,,2,0,
+W3,playoff,DE1,11,North Hollywood,Gatton Academy,,,1,0,
+W4,playoff,DE1,11,Niskayuna,Doral Academy,,,1,0,
+W5,playoff,DE1,11,Mission San Jose,BASIS Silicon Valley,,,1,0,
+W6,playoff,DE1,11,Enloe,Waterford,,,1,0,
+W7,playoff,DE1,11,Davidson Academy,Commonwealth,,,1,0,
+W8,playoff,DE1,11,Frazer School,PRISMS,,,1,0,
+W9,playoff,DE1,11,Seattle Schrodinger Squad,Falmouth,,,1,0,
+W10,playoff,DE1,11,Hunter College,BASIS Bellevue,,,2,0,
+W11,playoff,DE1,11,Phillips Exeter Academy,Whitney Young,,,1,0,
+W12,playoff,DE1,11,SciTech,Advanced Math Science Academy,,,1,0,
+W13,playoff,DE1,11,Clements,Troy,,,1,0,
+W14,playoff,DE1,11,Ward Melville,Farmington,,,1,0,
+W15,playoff,DE1,11,Montgomery Blair,Shenendehowa,,,1,0,
+W16,playoff,DE1,11,University,South Jersey,,,1,0,
+W1,playoff,DE1,11,Lexington 1,Westminster,,,1,0,
+W17,playoff,DE2,12,Lexington 1,Lexington 2,,,1,0,
+W18,playoff,DE2,12,North Hollywood,Niskayuna,,,1,0,
+W19,playoff,DE2,12,Mission San Jose,Enloe,,,1,0,
+W20,playoff,DE2,12,Davidson Academy,Frazer School,,,2,0,
+W21,playoff,DE2,12,Seattle Schrodinger Squad,BASIS Bellevue,,,1,0,
+W22,playoff,DE2,12,Phillips Exeter Academy,SciTech,,,1,0,
+W23,playoff,DE2,12,Clements,Ward Melville,,,2,0,
+W24,playoff,DE2,12,Montgomery Blair,University,,,1,0,
+W25,playoff,DE4,14,Lexington 1,North Hollywood,,,2,0,
+W26,playoff,DE4,14,Mission San Jose,Frazer School,,,2,0,
+W27,playoff,DE4,14,Seattle Schrodinger Squad,Phillips Exeter Academy,,,1,0,
+W28,playoff,DE4,14,Ward Melville,Montgomery Blair,,,2,0,
+W29,playoff,DE6,16,North Hollywood,Frazer School,,,1,0,
+W30,playoff,DE6,16,Seattle Schrodinger Squad,Montgomery Blair,,,1,0,
+W31,playoff,DE8,18,North Hollywood,Seattle Schrodinger Squad,,,1,0,
+F1,playoff,DE10,20,North Hollywood,Seattle Schrodinger Squad,,,2,0,winner inferred from the bracket (not shown in the source)
+F2,playoff,DE11,21,North Hollywood,Seattle Schrodinger Squad,,,2,0,
+C2,playoff,DE2,12,Gatton Academy,Doral Academy,,,2,0,
+C3,playoff,DE2,12,BASIS Silicon Valley,Waterford,,,1,0,
+C4,playoff,DE2,12,Commonwealth,PRISMS,,,2,0,
+C5,playoff,DE2,12,Falmouth,Hunter College,,,2,0,
+C6,playoff,DE2,12,Whitney Young,Advanced Math Science Academy,,,1,0,
+C7,playoff,DE2,12,Troy,Farmington,,,2,0,
+C8,playoff,DE2,12,Shenendehowa,South Jersey,,,2,0,
+C1,playoff,DE2,12,Westminster,Plainsboro,,,2,0,
+C10,playoff,DE3,13,Clements,Doral Academy,,,1,0,
+C11,playoff,DE3,13,SciTech,BASIS Silicon Valley,,,2,0,
+C12,playoff,DE3,13,BASIS Bellevue,PRISMS,,,1,0,
+C13,playoff,DE3,13,Davidson Academy,Hunter College,,,1,0,
+C14,playoff,DE3,13,Enloe,Whitney Young,,,2,0,
+C15,playoff,DE3,13,Niskayuna,Farmington,,,1,0,
+C16,playoff,DE3,13,Lexington 2,South Jersey,,,2,0,
+C9,playoff,DE3,13,University,Plainsboro,,,2,0,
+C18,playoff,DE4,14,BASIS Silicon Valley,BASIS Bellevue,,,2,0,
+C19,playoff,DE4,14,Davidson Academy,Whitney Young,,,1,0,
+C20,playoff,DE4,14,Niskayuna,South Jersey,,,2,0,
+C17,playoff,DE4,14,Plainsboro,Clements,,,2,0,
+C21,playoff,DE5,15,Clements,Mission San Jose,,,2,0,
+C22,playoff,DE5,15,BASIS Bellevue,Lexington 1,,,1,0,
+C23,playoff,DE5,15,Ward Melville,Davidson Academy,,,1,0,
+C24,playoff,DE5,15,Phillips Exeter Academy,South Jersey,,,2,0,
+C25,playoff,DE6,16,Mission San Jose,BASIS Bellevue,,,1,0,
+C26,playoff,DE6,16,Ward Melville,South Jersey,,,2,0,
+C27,playoff,DE7,17,Montgomery Blair,Mission San Jose,,,1,0,
+C28,playoff,DE7,17,Frazer School,South Jersey,,,1,0,
+C29,playoff,DE8,18,Montgomery Blair,Frazer School,,,1,0,
+C30,playoff,DE9,19,Seattle Schrodinger Squad,Montgomery Blair,,,1,0,

@@ -1,0 +1,25 @@
+{
+  "tournament_id": "2023-02-04-ignis-virtual-west",
+  "counts": {
+    "teams": 40,
+    "games": 102,
+    "games_with_scores": 100,
+    "player_stat_rows": 1211,
+    "players": 173,
+    "team_game_subject_rows": 1200,
+    "player_game_stat_rows": 2132
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [
+    "leon (Wayzata B): published TU/Neg 17.0/4.0, buzz log 17/3"
+  ],
+  "parser": "g2_ignis:parse_online"
+}

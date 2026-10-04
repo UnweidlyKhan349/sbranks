@@ -23,7 +23,8 @@ sources:
   sheet_id: 1RP41_o0sir5iG4aEQdHLv99ovV5ELZJnyDM3hMRgrT8
   url: https://docs.google.com/spreadsheets/d/1RP41_o0sir5iG4aEQdHLv99ovV5ELZJnyDM3hMRgrT8/edit?gid=1648354100#gid=1648354100
   file: stats.xlsx
-parser: null
+parser: g7_misc:parse_nsi2
 parser_options: {}
-status: todo
-notes: ''
+status: partial
+notes: Only the 16-team single-elimination bracket is available (14 games); the final is not filled in. The other results/stats
+  sheet is private (HTTP 401, no Wayback copy), so there are no RR games or player stats.

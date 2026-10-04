@@ -15,13 +15,36 @@ question_set: null
 sources:
 - kind: url
   role: results
-  url: https://www.niskyscibowl.com/results
+  url: https://www.niskyscibowl.com/niskayuna-tournaments/nsi-2023/results
   file: results.html
 - kind: url
+  role: results
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRCvz5INMrtxIqogSFbZvikBDsnUfFQStEvG-352mYQ_dPkQcAn4Vd8wn03PKIXWJ0fsDALEs1hxWO3/pub?output=xlsx
+  file: results_sheet.xlsx
+  note: published sheet embedded in the results page
+- kind: url
   role: stats
-  url: https://www.niskyscibowl.com/statistics
+  url: https://www.niskyscibowl.com/niskayuna-tournaments/nsi-2023/statistics
   file: stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+- kind: url
+  role: stats
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSSZ1wpgwYu-1WDYebEEEj-n1G4KEKYkUA5fO49Sa9VxtkRn4OUTzXAk5C5GvxZVMvjLwxAHAvsvJrU/pub?output=xlsx
+  file: stats_sheet.xlsx
+  note: published stats sheet embedded in the statistics page
+parser: g1_nisky:parse
+parser_options:
+  team_hints:
+    Clements HS:
+      school: William P. Clements High School
+      state: TX
+    Interlakeside:
+      school: Interlakeside
+      state: WA
+    Poolesville HS:
+      school: Poolesville High School
+      state: MD
+status: partial
+notes: 'The old /results and /statistics URLs 404; the pages now live at /niskayuna-tournaments/nsi-2023/. From the embedded
+  published sheet: 36 RR games (6 pools of 4) and the 15-game SE bracket (Clements HS d. Interlakeside 42-12 in the final),
+  all with scores. The stats sheet (snapshotted as stats_sheet.xlsx) lists 114 players with RR and full-tournament per-subject
+  PPG but no team column, so player stats are not used.'

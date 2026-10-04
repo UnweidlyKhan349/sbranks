@@ -1,8 +1,8 @@
 id: 2026-07-01-earth-and-space-scrimmage-3
 name: Earth and Space Scrimmage 3
-date: '2026-07-01'
+date: '2026-07-20'
 end_date: '2026-08-31'
-season: 2025-26
+season: 2026-27
 location: Online
 online: true
 division: HS
@@ -18,7 +18,11 @@ sources:
   sheet_id: 1b0AjISRvTIZ1kYIJo8IwJ7tTnTYxjS9nD72MNglFrnc
   url: https://docs.google.com/spreadsheets/d/1b0AjISRvTIZ1kYIJo8IwJ7tTnTYxjS9nD72MNglFrnc/edit?gid=561917516#gid=561917516
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g1_ess_scrimmage:parse_ess3
+parser_options:
+  division: Adv
+status: parsed
+notes: Advanced division of an individual 1v1 Earth & Space scrimmage (Novice division is 2026-07-01-earth-and-space-scrimmage-3-novice).
+  168 RR games (6 groups of 8, 7 rounds; crosstable scores agree with RR Results) + 47-game DE; 4-0 DE results flagged forfeit;
+  tiebreaker wins noted. The source has no player statistics; each competitor is a one-person team.
+individual: true

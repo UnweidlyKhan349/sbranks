@@ -18,7 +18,11 @@ sources:
   sheet_id: 1Nepw7pRxaYN4BWJ0fwfKWoKrtS_5UFtfOjaM3Seth5Q
   url: https://docs.google.com/spreadsheets/d/1Nepw7pRxaYN4BWJ0fwfKWoKrtS_5UFtfOjaM3Seth5Q/edit#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g3_online:parse_csbl2021
+parser_options:
+  names:
+    Shendehowa: Shenendehowa
+status: parsed
+notes: 'Group stage (5 groups of 4, 3 rounds): the table gives each team''s per-round W/L and own score only, so opponents
+  were inferred from results/scores (unique except group C, whose round-1/2 order is ambiguous: those 4 games keep their certain
+  result without scores). Plus the 8-team DE and the 14-team wildcard bracket with scores. No player stats in the source.'

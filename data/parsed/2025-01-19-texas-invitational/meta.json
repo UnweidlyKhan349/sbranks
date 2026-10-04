@@ -1,0 +1,32 @@
+{
+  "tournament_id": "2025-01-19-texas-invitational",
+  "counts": {
+    "teams": 48,
+    "games": 150,
+    "games_with_scores": 145,
+    "player_stat_rows": 1572,
+    "players": 206,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "RR Overall: no team for 'p363tvtlmx'; skipped",
+    "RR Biology: no team for 'p363tvtlmx'; skipped",
+    "RR Chemistry: no team for 'p363tvtlmx'; skipped",
+    "RR Physics: no team for 'p363tvtlmx'; skipped",
+    "RR E&S: no team for 'p363tvtlmx'; skipped",
+    "RR Math: no team for 'p363tvtlmx'; skipped",
+    "Daniel L [Interlake A] playoff: games played exceed the team's 3 games in that stage; this player's playoff rows dropped",
+    "McNair S [ASFA] playoff: games played exceed the team's 4 games in that stage; this player's playoff rows dropped"
+  ],
+  "parser": "g7_bsb:parse_texas_2025"
+}

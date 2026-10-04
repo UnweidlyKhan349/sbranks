@@ -1,0 +1,49 @@
+id: 2020-06-06-nsb-national-finals
+name: NSB National Finals
+date: '2020-06-06'
+end_date: null
+season: 2019-20
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: nationals
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: browser_url
+  role: teams
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/HS-Competition-Virtual-Competion.pdf
+  file: hs_press_release.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/Top-16-HS-Teams-Advancing.pdf
+  file: top16.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/Top-8-HS-Teams-Advancing.pdf
+  file: top8.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/Top-4-HS-Teams-Advancing.pdf
+  file: top4.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/Top-2-HS-Teams-Advancing.pdf
+  file: top2.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
+- kind: browser_url
+  role: results
+  url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/Students-from-California-and-Colorado-Win-DOEs-30th-National-Science-Bo.pdf
+  file: winners_release.pdf
+  warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
+parser: null
+parser_options: {}
+status: todo
+notes: ''

@@ -18,7 +18,9 @@ sources:
   sheet_id: 1G1JcnE3__551r2qOs9mxilM9o9wP4OLjD54UpaRePkU
   url: https://docs.google.com/spreadsheets/d/1G1JcnE3__551r2qOs9mxilM9o9wP4OLjD54UpaRePkU/edit?gid=2099848913#gid=2099848913
   file: results.xlsx
-parser: null
+parser: g6_brooklyn:parse_2024
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: Results only. RR (3 rounds) and single-elimination games with scores; teams are named by their Team Name (school +
+  letter for the Amador A/B teams) with the High School Name as the school hint. The win flags and TOTAL PR in the team table
+  match. JP Stevens A shows 0 points in RR2 and RR3; those games are kept as played.

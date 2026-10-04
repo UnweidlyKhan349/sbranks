@@ -23,7 +23,10 @@ sources:
   sheet_id: 1oE6R16n6_jEhb12jYOE7Zh_DRrwMWX8evq-wkaOtRd4
   url: https://docs.google.com/spreadsheets/d/1oE6R16n6_jEhb12jYOE7Zh_DRrwMWX8evq-wkaOtRd4/edit?gid=123110859#gid=123110859
   file: stats.xlsx
-parser: null
+parser: g7_bsb:parse_bash_2025
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 42 teams in 7 pools (RRScoring grids, rounds from RR Schedule) plus the 31-game DE bracket (Mission San Jose A won
+  the second final against Bang! Boom! Bash!). Player stats are RR-only, per subject including energy, from the MODAQ export;
+  counts are derived exactly from GP, buzzes, PPG, NPG and accuracy. Subject tabs repeat the whole-game TUH, so only overall
+  rows keep TUH. Player names are lowercase as written.

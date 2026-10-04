@@ -21,5 +21,6 @@ sources:
 parser: g5_stanford_template:parse
 parser_options:
   consolation: false
-status: todo
-notes: ''
+status: parsed
+notes: '64 games: 50 RR (4 pools of 5-6, rounds from the schedule) and the 14-game DE bracket; standings points match. No
+  stats were published. The hidden ''Raw'' and ''Seeding'' tabs are stale copies of the Stanford template and were ignored.'

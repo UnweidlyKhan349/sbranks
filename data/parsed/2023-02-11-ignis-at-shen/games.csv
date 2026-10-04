@@ -1,0 +1,40 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,1,1,Bethlehem,BHBL B,76,78,2,0,
+g2,rr,1,1,Niskayuna A,Shen C,96,76,1,0,
+g3,rr,1,1,Morris Hills,WWPN,62,180,2,0,cross-pool game (not counted in the pool standings)
+g4,rr,1,1,BHBL A,Niskayuna B,16,144,2,0,
+g5,rr,1,1,CBA,Shen B,30,98,2,0,
+g6,rr,2,2,Morris Hills,Niskayuna A,74,96,2,0,
+g7,rr,2,2,BHBL B,Shen C,20,86,2,0,
+g8,rr,2,2,Bethlehem,BHBL A,40,16,1,0,cross-pool game (not counted in the pool standings)
+g9,rr,2,2,WWPN,Shen B,114,84,1,0,
+g10,rr,2,2,Niskayuna B,CBA,124,22,1,0,
+g11,rr,3,3,BHBL B,Morris Hills,18,112,2,0,
+g12,rr,3,3,Bethlehem,Shen C,38,68,2,0,
+g13,rr,3,3,Niskayuna A,Shen B,116,90,1,0,cross-pool game (not counted in the pool standings)
+g14,rr,3,3,Niskayuna B,WWPN,48,124,2,0,
+g15,rr,3,3,BHBL A,CBA,12,38,2,0,
+g16,rr,4,4,Morris Hills,Shen C,98,62,1,0,"scores swapped on the results score sheet; statistics sheet and pool standings (Morris Hills 3-1, Shen C 2-2) give Morris Hills 98-62 (score sheet had Morris Hills 62 - 98)"
+g17,rr,4,4,Bethlehem,Niskayuna A,26,84,2,0,
+g18,rr,4,4,BHBL B,Niskayuna B,20,98,2,0,cross-pool game (not counted in the pool standings)
+g19,rr,4,4,WWPN,CBA,130,48,1,0,
+g20,rr,4,4,BHBL A,Shen B,48,62,2,0,
+g21,rr,5,5,BHBL B,Niskayuna A,38,50,2,0,
+g22,rr,5,5,Bethlehem,Morris Hills,58,74,2,0,
+g23,rr,5,5,Shen C,CBA,24,70,2,0,cross-pool game (not counted in the pool standings)
+g24,rr,5,5,Niskayuna B,Shen B,44,92,2,0,
+g25,rr,5,5,BHBL A,WWPN,8,146,2,0,
+g26,playoff,DE Round 1,6,Niskayuna A,CBA,74,18,1,0,
+g27,playoff,DE Round 1,6,Shen B,Shen C,72,4,1,0,
+g28,playoff,DE Round 1,6,WWPN,Bethlehem,166,8,1,0,
+g29,playoff,DE Round 1,6,Morris Hills,Niskayuna B,28,48,2,0,
+g30,playoff,DE Round 2,7,Niskayuna A,Shen B,86,40,1,0,
+g31,playoff,DE Round 2,7,WWPN,Niskayuna B,102,8,1,0,
+g32,playoff,DE Round 2,7,CBA,Shen C,12,22,2,0,
+g33,playoff,DE Round 2,7,Bethlehem,Morris Hills,8,52,2,0,
+g34,playoff,DE Round 3,8,Shen B,Shen C,82,12,1,0,
+g35,playoff,DE Round 3,8,Niskayuna B,Morris Hills,68,38,1,0,
+g36,playoff,DE Round 4,9,Niskayuna A,WWPN,46,90,2,0,
+g37,playoff,DE Round 4,9,Shen B,Niskayuna B,40,52,2,0,
+g38,playoff,DE Round 5,10,Niskayuna A,Niskayuna B,38,60,2,0,
+g39,playoff,DE Finals,11,WWPN,Niskayuna B,70,42,1,0,

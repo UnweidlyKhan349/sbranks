@@ -1,0 +1,43 @@
+{
+  "tournament_id": "2025-01-04-smh-league-cup",
+  "counts": {
+    "teams": 30,
+    "games": 150,
+    "games_with_scores": 150,
+    "player_stat_rows": 1792,
+    "players": 135,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "Team Hub WWPS League 4 vs Wayzata: 82.0-136.0, scoreboard/grid has 98-136 (kept)",
+    "Team Hub Wayzata Playoff 1 vs WWPS: 92.0-None, scoreboard/grid has 92-80 (kept)",
+    "Team Hub PRISMS League 1 vs Canyon Crest: 52.0-182.0, scoreboard/grid has 76-138 (kept)",
+    "Playoff Phase Individual Chemis: skipped stale row 'Frazer george p [Frazer]' (gp 1, tuh 4.0)",
+    "Playoff Phase Individual Chemis: skipped stale row 'Mira Loma aatreyo b [Mira Loma]' (gp 6, tuh 24.0)",
+    "Playoff Phase Individual Chemis: skipped stale row 'Lynbrook ryan b [Lynbrook]' (gp 5, tuh 20.0)",
+    "Playoff Phase Individual Chemis: skipped stale row 'e3 aryan m [Mira Loma]' (gp 2, tuh 8.0)",
+    "Playoff Phase Individual Chemis: skipped stale row 'OCSA dane b [OCSA]' (gp 1, tuh 4.0)",
+    "Playoff Phase Individual Chemis 'Lakeside william w [Lakeside]': accuracy 0.571 * buzzes 8 != correct 5",
+    "Playoff Phase Individual Energy 'Lakeside william w [Lakeside]': accuracy 0.333 * buzzes 4 != correct 2",
+    "Playoff Phase Individual Math: skipped stale row 'Lakeside daniel w [Lakeside]' (gp 1, tuh 23.0)",
+    "Playoff Phase Individual Math: skipped stale row 'Wayzata kevin q [Wayzata]' (gp 3, tuh 69.0)",
+    "Playoff Phase Individual Math: skipped stale row 'Arcadia herrick w [Arcadia]' (gp 1, tuh 22.0)",
+    "Playoff Phase Individual Math: skipped stale row 'Frazer george p [Frazer]' (gp 1, tuh 23.0)",
+    "Playoff Phase Individual Math: skipped stale row 'OCSA olivia s [OCSA]' (gp 2, tuh 45.0)",
+    "Playoff Phase Individual Physic: skipped stale row 'Frazer george p [Frazer]' (gp 1, tuh 4.0)",
+    "Playoff Phase Individual Physic: skipped stale row 'Stuyvesant philip z [Stuyvesant]' (gp 6, tuh 25.0)",
+    "Playoff Phase Individual Physic: skipped stale row 'Blair emery q [Blair]' (gp 2, tuh 8.0)",
+    "Playoff Phase Individual Physic: skipped stale row 'e3 aryan m [Mira Loma]' (gp 2, tuh 8.0)"
+  ],
+  "parser": "g4_catstats:parse_league_cup"
+}

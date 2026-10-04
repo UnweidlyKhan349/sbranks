@@ -1,0 +1,603 @@
+game_id,player,team,subject,correct,negs,points
+g1,Pratyush,Eisenhower B,overall,3,0,12
+g1,Pratyush,Eisenhower B,math,1,0,4
+g1,Pratyush,Eisenhower B,ess,1,0,4
+g1,Pratyush,Eisenhower B,physics,1,0,4
+g1,Harry,Middleton A,overall,7,0,28
+g1,Harry,Middleton A,other,1,0,4
+g1,Harry,Middleton A,math,1,0,4
+g1,Harry,Middleton A,chemistry,3,0,12
+g1,Harry,Middleton A,ess,1,0,4
+g1,Harry,Middleton A,biology,1,0,4
+g1,Owen,Middleton A,overall,4,1,12
+g1,Owen,Middleton A,other,1,0,4
+g1,Owen,Middleton A,biology,1,1,0
+g1,Owen,Middleton A,physics,2,0,8
+g1,Ray,Middleton A,overall,5,0,20
+g1,Ray,Middleton A,other,1,0,4
+g1,Ray,Middleton A,math,1,0,4
+g1,Ray,Middleton A,ess,1,0,4
+g1,Ray,Middleton A,biology,1,0,4
+g1,Ray,Middleton A,physics,1,0,4
+g1,Nihar,Middleton A,overall,1,1,0
+g1,Nihar,Middleton A,other,0,1,-4
+g1,Nihar,Middleton A,ess,1,0,4
+g2,Frank,Middleton C,overall,3,0,12
+g2,Frank,Middleton C,other,1,0,4
+g2,Frank,Middleton C,ess,1,0,4
+g2,Frank,Middleton C,physics,1,0,4
+g2,Sai,Middleton C,overall,1,1,0
+g2,Sai,Middleton C,ess,0,1,-4
+g2,Sai,Middleton C,biology,1,0,4
+g2,Arnav,Whitney Young,overall,5,0,20
+g2,Arnav,Whitney Young,other,1,0,4
+g2,Arnav,Whitney Young,math,3,0,12
+g2,Arnav,Whitney Young,physics,1,0,4
+g2,Evan,Whitney Young,overall,9,0,36
+g2,Evan,Whitney Young,other,1,0,4
+g2,Evan,Whitney Young,math,1,0,4
+g2,Evan,Whitney Young,chemistry,3,0,12
+g2,Evan,Whitney Young,ess,2,0,8
+g2,Evan,Whitney Young,biology,1,0,4
+g2,Evan,Whitney Young,physics,1,0,4
+g2,Miller,Whitney Young,overall,2,0,8
+g2,Miller,Whitney Young,biology,1,0,4
+g2,Miller,Whitney Young,physics,1,0,4
+g2,Stephen,Whitney Young,overall,1,0,4
+g2,Stephen,Whitney Young,biology,1,0,4
+g3,Josh,Brookfield,overall,13,1,48
+g3,Josh,Brookfield,other,1,0,4
+g3,Josh,Brookfield,math,3,0,12
+g3,Josh,Brookfield,chemistry,2,1,4
+g3,Josh,Brookfield,ess,3,0,12
+g3,Josh,Brookfield,biology,3,0,12
+g3,Josh,Brookfield,physics,1,0,4
+g3,Kartik,Brookfield,overall,1,0,4
+g3,Kartik,Brookfield,other,1,0,4
+g3,Manzoor,Eisenhower A,overall,5,0,20
+g3,Manzoor,Eisenhower A,math,1,0,4
+g3,Manzoor,Eisenhower A,chemistry,2,0,8
+g3,Manzoor,Eisenhower A,biology,1,0,4
+g3,Manzoor,Eisenhower A,physics,1,0,4
+g3,Andrew,Eisenhower A,overall,2,0,8
+g3,Andrew,Eisenhower A,physics,2,0,8
+g3,Dhruva,Eisenhower A,overall,3,0,12
+g3,Dhruva,Eisenhower A,other,2,0,8
+g3,Dhruva,Eisenhower A,ess,1,0,4
+g4,William,Madison West,overall,5,2,12
+g4,William,Madison West,other,1,0,4
+g4,William,Madison West,math,2,1,4
+g4,William,Madison West,ess,1,1,0
+g4,William,Madison West,physics,1,0,4
+g4,Tim,Madison West,overall,1,0,4
+g4,Tim,Madison West,other,1,0,4
+g4,Samanyu,Madison West,overall,3,0,12
+g4,Samanyu,Madison West,chemistry,1,0,4
+g4,Samanyu,Madison West,biology,2,0,8
+g4,Kevin,Madison West,overall,1,0,4
+g4,Kevin,Madison West,other,1,0,4
+g4,Li,Middleton B,overall,4,0,16
+g4,Li,Middleton B,math,1,0,4
+g4,Li,Middleton B,chemistry,1,0,4
+g4,Li,Middleton B,biology,1,0,4
+g4,Li,Middleton B,physics,1,0,4
+g4,Ian,Middleton B,overall,3,0,12
+g4,Ian,Middleton B,ess,1,0,4
+g4,Ian,Middleton B,physics,2,0,8
+g4,Kriti,Middleton B,overall,2,0,8
+g4,Kriti,Middleton B,other,1,0,4
+g4,Kriti,Middleton B,ess,1,0,4
+g5,Harry,Middleton A,overall,7,2,20
+g5,Harry,Middleton A,other,1,0,4
+g5,Harry,Middleton A,math,1,1,0
+g5,Harry,Middleton A,chemistry,3,1,8
+g5,Harry,Middleton A,ess,2,0,8
+g5,Owen,Middleton A,overall,4,1,12
+g5,Owen,Middleton A,other,1,0,4
+g5,Owen,Middleton A,biology,2,1,4
+g5,Owen,Middleton A,physics,1,0,4
+g5,Ray,Middleton A,overall,3,1,8
+g5,Ray,Middleton A,other,0,1,-4
+g5,Ray,Middleton A,ess,2,0,8
+g5,Ray,Middleton A,physics,1,0,4
+g5,Arnav,Whitney Young,overall,6,0,24
+g5,Arnav,Whitney Young,math,3,0,12
+g5,Arnav,Whitney Young,chemistry,1,0,4
+g5,Arnav,Whitney Young,biology,1,0,4
+g5,Arnav,Whitney Young,physics,1,0,4
+g5,Stephen,Whitney Young,overall,1,0,4
+g5,Stephen,Whitney Young,other,1,0,4
+g6,Arjun,Middleton C,overall,3,1,8
+g6,Arjun,Middleton C,other,1,0,4
+g6,Arjun,Middleton C,math,1,0,4
+g6,Arjun,Middleton C,ess,1,1,0
+g6,Sai,Middleton C,overall,2,0,8
+g6,Sai,Middleton C,other,1,0,4
+g6,Sai,Middleton C,biology,1,0,4
+g6,Pratyush,Eisenhower B,overall,5,0,20
+g6,Pratyush,Eisenhower B,math,2,0,8
+g6,Pratyush,Eisenhower B,ess,1,0,4
+g6,Pratyush,Eisenhower B,biology,1,0,4
+g6,Pratyush,Eisenhower B,physics,1,0,4
+g6,Sai,Eisenhower B,overall,1,0,4
+g6,Sai,Eisenhower B,physics,1,0,4
+g7,William,Madison West,overall,2,0,8
+g7,William,Madison West,math,1,0,4
+g7,William,Madison West,ess,1,0,4
+g7,Tim,Madison West,overall,1,0,4
+g7,Tim,Madison West,physics,1,0,4
+g7,Kevin,Madison West,overall,1,0,4
+g7,Kevin,Madison West,math,1,0,4
+g7,Manzoor,Eisenhower A,overall,6,0,24
+g7,Manzoor,Eisenhower A,other,1,0,4
+g7,Manzoor,Eisenhower A,math,1,0,4
+g7,Manzoor,Eisenhower A,chemistry,3,0,12
+g7,Manzoor,Eisenhower A,physics,1,0,4
+g7,Andrew,Eisenhower A,overall,2,1,4
+g7,Andrew,Eisenhower A,math,1,1,0
+g7,Andrew,Eisenhower A,physics,1,0,4
+g7,Sujay,Eisenhower A,overall,1,0,4
+g7,Sujay,Eisenhower A,biology,1,0,4
+g7,Dhruva,Eisenhower A,overall,2,1,4
+g7,Dhruva,Eisenhower A,ess,2,1,4
+g7,Prani,Eisenhower A,overall,2,0,8
+g7,Prani,Eisenhower A,other,1,0,4
+g7,Prani,Eisenhower A,biology,1,0,4
+g8,Josh,Brookfield,overall,11,1,40
+g8,Josh,Brookfield,other,1,1,0
+g8,Josh,Brookfield,math,1,0,4
+g8,Josh,Brookfield,chemistry,3,0,12
+g8,Josh,Brookfield,ess,2,0,8
+g8,Josh,Brookfield,biology,3,0,12
+g8,Josh,Brookfield,physics,1,0,4
+g8,Kartik,Brookfield,overall,4,1,12
+g8,Kartik,Brookfield,math,2,1,4
+g8,Kartik,Brookfield,ess,1,0,4
+g8,Kartik,Brookfield,physics,1,0,4
+g8,Saathvik,Brookfield,overall,2,0,8
+g8,Saathvik,Brookfield,other,1,0,4
+g8,Saathvik,Brookfield,ess,1,0,4
+g8,Li,Middleton B,overall,3,0,12
+g8,Li,Middleton B,math,1,0,4
+g8,Li,Middleton B,biology,1,0,4
+g8,Li,Middleton B,physics,1,0,4
+g9,Arnav,Whitney Young,overall,4,0,16
+g9,Arnav,Whitney Young,math,4,0,16
+g9,Evan,Whitney Young,overall,2,0,8
+g9,Evan,Whitney Young,other,1,0,4
+g9,Evan,Whitney Young,ess,1,0,4
+g9,Miller,Whitney Young,overall,3,0,12
+g9,Miller,Whitney Young,other,1,0,4
+g9,Miller,Whitney Young,ess,1,0,4
+g9,Miller,Whitney Young,physics,1,0,4
+g9,Stephen,Whitney Young,overall,2,1,4
+g9,Stephen,Whitney Young,chemistry,1,0,4
+g9,Stephen,Whitney Young,ess,1,0,4
+g9,Stephen,Whitney Young,biology,0,1,-4
+g9,Pratyush,Eisenhower B,overall,4,0,16
+g9,Pratyush,Eisenhower B,other,1,0,4
+g9,Pratyush,Eisenhower B,chemistry,1,0,4
+g9,Pratyush,Eisenhower B,biology,1,0,4
+g9,Pratyush,Eisenhower B,physics,1,0,4
+g9,Sai,Eisenhower B,overall,1,0,4
+g9,Sai,Eisenhower B,biology,1,0,4
+g9,Alex,Eisenhower B,overall,2,0,8
+g9,Alex,Eisenhower B,ess,1,0,4
+g9,Alex,Eisenhower B,biology,1,0,4
+g10,Arjun,Middleton C,overall,5,4,4
+g10,Arjun,Middleton C,other,1,1,0
+g10,Arjun,Middleton C,math,2,1,4
+g10,Arjun,Middleton C,chemistry,0,1,-4
+g10,Arjun,Middleton C,ess,1,1,0
+g10,Arjun,Middleton C,biology,1,0,4
+g10,Abhinav,Middleton C,overall,0,1,-4
+g10,Abhinav,Middleton C,other,0,1,-4
+g10,Sai,Middleton C,overall,1,2,-4
+g10,Sai,Middleton C,chemistry,0,1,-4
+g10,Sai,Middleton C,physics,1,1,0
+g10,Harry,Middleton A,overall,9,0,36
+g10,Harry,Middleton A,other,3,0,12
+g10,Harry,Middleton A,math,1,0,4
+g10,Harry,Middleton A,chemistry,3,0,12
+g10,Harry,Middleton A,physics,2,0,8
+g10,Owen,Middleton A,overall,3,1,8
+g10,Owen,Middleton A,math,0,1,-4
+g10,Owen,Middleton A,biology,3,0,12
+g10,Ray,Middleton A,overall,1,1,0
+g10,Ray,Middleton A,ess,1,1,0
+g10,Nihar,Middleton A,overall,1,1,0
+g10,Nihar,Middleton A,ess,1,0,4
+g10,Nihar,Middleton A,physics,0,1,-4
+g11,Josh,Brookfield,overall,11,0,44
+g11,Josh,Brookfield,other,2,0,8
+g11,Josh,Brookfield,math,1,0,4
+g11,Josh,Brookfield,chemistry,1,0,4
+g11,Josh,Brookfield,ess,2,0,8
+g11,Josh,Brookfield,biology,2,0,8
+g11,Josh,Brookfield,physics,3,0,12
+g11,Kartik,Brookfield,overall,6,1,20
+g11,Kartik,Brookfield,other,1,0,4
+g11,Kartik,Brookfield,math,2,1,4
+g11,Kartik,Brookfield,chemistry,1,0,4
+g11,Kartik,Brookfield,ess,1,0,4
+g11,Kartik,Brookfield,physics,1,0,4
+g11,Saathvik,Brookfield,overall,1,1,0
+g11,Saathvik,Brookfield,other,0,1,-4
+g11,Saathvik,Brookfield,chemistry,1,0,4
+g11,William,Madison West,overall,2,0,8
+g11,William,Madison West,chemistry,1,0,4
+g11,William,Madison West,ess,1,0,4
+g11,Tim,Madison West,overall,2,0,8
+g11,Tim,Madison West,other,1,0,4
+g11,Tim,Madison West,math,1,0,4
+g12,Manzoor,Eisenhower A,overall,9,0,36
+g12,Manzoor,Eisenhower A,other,3,0,12
+g12,Manzoor,Eisenhower A,math,1,0,4
+g12,Manzoor,Eisenhower A,chemistry,1,0,4
+g12,Manzoor,Eisenhower A,ess,1,0,4
+g12,Manzoor,Eisenhower A,physics,3,0,12
+g12,Andrew,Eisenhower A,overall,4,0,16
+g12,Andrew,Eisenhower A,math,3,0,12
+g12,Andrew,Eisenhower A,ess,1,0,4
+g12,Sujay,Eisenhower A,overall,1,0,4
+g12,Sujay,Eisenhower A,biology,1,0,4
+g12,Dhruva,Eisenhower A,overall,2,1,4
+g12,Dhruva,Eisenhower A,other,0,1,-4
+g12,Dhruva,Eisenhower A,ess,2,0,8
+g12,Prani,Eisenhower A,overall,1,0,4
+g12,Prani,Eisenhower A,biology,1,0,4
+g12,Li,Middleton B,overall,1,0,4
+g12,Li,Middleton B,chemistry,1,0,4
+g12,Ian,Middleton B,overall,1,0,4
+g12,Ian,Middleton B,other,1,0,4
+g12,Vaidya,Middleton B,overall,1,0,4
+g12,Vaidya,Middleton B,biology,1,0,4
+g13,Harry,Middleton A,overall,6,2,16
+g13,Harry,Middleton A,other,1,1,0
+g13,Harry,Middleton A,math,3,0,12
+g13,Harry,Middleton A,chemistry,1,0,4
+g13,Harry,Middleton A,ess,1,1,0
+g13,Owen,Middleton A,overall,3,0,12
+g13,Owen,Middleton A,biology,3,0,12
+g13,Ray,Middleton A,overall,2,1,4
+g13,Ray,Middleton A,other,1,0,4
+g13,Ray,Middleton A,chemistry,0,1,-4
+g13,Ray,Middleton A,ess,1,0,4
+g13,Nihar,Middleton A,overall,2,0,8
+g13,Nihar,Middleton A,math,1,0,4
+g13,Nihar,Middleton A,physics,1,0,4
+g13,Manzoor,Eisenhower A,overall,3,0,12
+g13,Manzoor,Eisenhower A,chemistry,1,0,4
+g13,Manzoor,Eisenhower A,biology,1,0,4
+g13,Manzoor,Eisenhower A,physics,1,0,4
+g13,Andrew,Eisenhower A,overall,1,0,4
+g13,Andrew,Eisenhower A,ess,1,0,4
+g13,Sujay,Eisenhower A,overall,1,0,4
+g13,Sujay,Eisenhower A,chemistry,1,0,4
+g14,Arnav,Whitney Young,overall,1,0,4
+g14,Arnav,Whitney Young,math,1,0,4
+g14,Evan,Whitney Young,overall,2,1,4
+g14,Evan,Whitney Young,other,2,0,8
+g14,Evan,Whitney Young,chemistry,0,1,-4
+g14,Josh,Brookfield,overall,12,1,44
+g14,Josh,Brookfield,other,1,1,0
+g14,Josh,Brookfield,math,2,0,8
+g14,Josh,Brookfield,chemistry,3,0,12
+g14,Josh,Brookfield,ess,3,0,12
+g14,Josh,Brookfield,biology,1,0,4
+g14,Josh,Brookfield,physics,2,0,8
+g14,Kartik,Brookfield,overall,3,0,12
+g14,Kartik,Brookfield,other,1,0,4
+g14,Kartik,Brookfield,math,1,0,4
+g14,Kartik,Brookfield,physics,1,0,4
+g14,Saathvik,Brookfield,overall,2,1,4
+g14,Saathvik,Brookfield,biology,2,0,8
+g14,Saathvik,Brookfield,physics,0,1,-4
+g15,Li,Middleton B,overall,5,1,16
+g15,Li,Middleton B,other,1,0,4
+g15,Li,Middleton B,math,1,0,4
+g15,Li,Middleton B,ess,1,0,4
+g15,Li,Middleton B,biology,1,0,4
+g15,Li,Middleton B,physics,1,1,0
+g15,Ian,Middleton B,overall,1,0,4
+g15,Ian,Middleton B,ess,1,0,4
+g15,Vaidya,Middleton B,overall,1,0,4
+g15,Vaidya,Middleton B,other,1,0,4
+g15,Arjun,Middleton C,overall,1,1,0
+g15,Arjun,Middleton C,math,1,0,4
+g15,Arjun,Middleton C,ess,0,1,-4
+g15,Frank,Middleton C,overall,2,0,8
+g15,Frank,Middleton C,other,1,0,4
+g15,Frank,Middleton C,physics,1,0,4
+g15,Sai,Middleton C,overall,1,1,0
+g15,Sai,Middleton C,other,0,1,-4
+g15,Sai,Middleton C,ess,1,0,4
+g16,William,Madison West,overall,5,0,20
+g16,William,Madison West,other,1,0,4
+g16,William,Madison West,chemistry,1,0,4
+g16,William,Madison West,ess,3,0,12
+g16,Tim,Madison West,overall,2,0,8
+g16,Tim,Madison West,other,1,0,4
+g16,Tim,Madison West,math,1,0,4
+g16,Samanyu,Madison West,overall,1,0,4
+g16,Samanyu,Madison West,biology,1,0,4
+g16,Kevin,Madison West,overall,1,0,4
+g16,Kevin,Madison West,chemistry,1,0,4
+g16,Pratyush,Eisenhower B,overall,4,0,16
+g16,Pratyush,Eisenhower B,math,1,0,4
+g16,Pratyush,Eisenhower B,biology,1,0,4
+g16,Pratyush,Eisenhower B,physics,2,0,8
+g16,Ethan,Eisenhower B,overall,1,0,4
+g16,Ethan,Eisenhower B,math,1,0,4
+g17,Manzoor,Eisenhower A,overall,1,2,-4
+g17,Manzoor,Eisenhower A,chemistry,1,1,0
+g17,Manzoor,Eisenhower A,physics,0,1,-4
+g17,Andrew,Eisenhower A,overall,1,0,4
+g17,Andrew,Eisenhower A,math,1,0,4
+g17,Sujay,Eisenhower A,overall,2,1,4
+g17,Sujay,Eisenhower A,other,0,1,-4
+g17,Sujay,Eisenhower A,biology,2,0,8
+g17,Arnav,Whitney Young,overall,7,0,28
+g17,Arnav,Whitney Young,other,1,0,4
+g17,Arnav,Whitney Young,math,1,0,4
+g17,Arnav,Whitney Young,chemistry,1,0,4
+g17,Arnav,Whitney Young,ess,2,0,8
+g17,Arnav,Whitney Young,physics,2,0,8
+g17,Evan,Whitney Young,overall,1,1,0
+g17,Evan,Whitney Young,math,1,0,4
+g17,Evan,Whitney Young,ess,0,1,-4
+g17,Miller,Whitney Young,overall,1,0,4
+g17,Miller,Whitney Young,ess,1,0,4
+g18,Harry,Middleton A,overall,6,0,24
+g18,Harry,Middleton A,other,1,0,4
+g18,Harry,Middleton A,math,2,0,8
+g18,Harry,Middleton A,chemistry,2,0,8
+g18,Harry,Middleton A,ess,1,0,4
+g18,Owen,Middleton A,overall,0,2,-8
+g18,Owen,Middleton A,other,0,1,-4
+g18,Owen,Middleton A,biology,0,1,-4
+g18,Ray,Middleton A,overall,4,0,16
+g18,Ray,Middleton A,other,1,0,4
+g18,Ray,Middleton A,ess,2,0,8
+g18,Ray,Middleton A,physics,1,0,4
+g18,Josh,Brookfield,overall,2,2,0
+g18,Josh,Brookfield,other,1,1,0
+g18,Josh,Brookfield,chemistry,1,0,4
+g18,Josh,Brookfield,physics,0,1,-4
+g18,Kartik,Brookfield,overall,3,0,12
+g18,Kartik,Brookfield,math,1,0,4
+g18,Kartik,Brookfield,physics,2,0,8
+g18,Saathvik,Brookfield,overall,1,0,4
+g18,Saathvik,Brookfield,biology,1,0,4
+g19,Li,Middleton B,overall,3,0,12
+g19,Li,Middleton B,math,1,0,4
+g19,Li,Middleton B,biology,1,0,4
+g19,Li,Middleton B,physics,1,0,4
+g19,Ian,Middleton B,overall,2,0,8
+g19,Ian,Middleton B,other,1,0,4
+g19,Ian,Middleton B,math,1,0,4
+g19,Vaidya,Middleton B,overall,1,0,4
+g19,Vaidya,Middleton B,ess,1,0,4
+g19,Alex,Eisenhower B,overall,1,0,4
+g19,Alex,Eisenhower B,other,1,0,4
+g19,Ethan,Eisenhower B,overall,1,0,4
+g19,Ethan,Eisenhower B,chemistry,1,0,4
+g20,William,Madison West,overall,1,2,-4
+g20,William,Madison West,other,0,1,-4
+g20,William,Madison West,math,1,0,4
+g20,William,Madison West,chemistry,0,1,-4
+g20,Tim,Madison West,overall,0,1,-4
+g20,Tim,Madison West,physics,0,1,-4
+g20,Arjun,Middleton C,overall,2,0,8
+g20,Arjun,Middleton C,math,1,0,4
+g20,Arjun,Middleton C,physics,1,0,4
+g20,Sai,Middleton C,overall,0,3,-12
+g20,Sai,Middleton C,other,0,1,-4
+g20,Sai,Middleton C,math,0,1,-4
+g20,Sai,Middleton C,physics,0,1,-4
+g21,Harry,Middleton A,overall,4,1,12
+g21,Harry,Middleton A,other,0,1,-4
+g21,Harry,Middleton A,math,1,0,4
+g21,Harry,Middleton A,chemistry,2,0,8
+g21,Harry,Middleton A,ess,1,0,4
+g21,Owen,Middleton A,overall,2,1,4
+g21,Owen,Middleton A,other,2,0,8
+g21,Owen,Middleton A,biology,0,1,-4
+g21,Ray,Middleton A,overall,1,1,0
+g21,Ray,Middleton A,ess,1,0,4
+g21,Ray,Middleton A,physics,0,1,-4
+g21,Nihar,Middleton A,overall,1,0,4
+g21,Nihar,Middleton A,math,1,0,4
+g21,Manzoor,Eisenhower A,overall,3,1,8
+g21,Manzoor,Eisenhower A,chemistry,1,1,0
+g21,Manzoor,Eisenhower A,physics,2,0,8
+g21,Dhruva,Eisenhower A,overall,1,0,4
+g21,Dhruva,Eisenhower A,ess,1,0,4
+g21,Prani,Eisenhower A,overall,1,0,4
+g21,Prani,Eisenhower A,ess,1,0,4
+g22,Arnav,Whitney Young,overall,3,0,12
+g22,Arnav,Whitney Young,math,2,0,8
+g22,Arnav,Whitney Young,physics,1,0,4
+g22,Evan,Whitney Young,overall,1,0,4
+g22,Evan,Whitney Young,chemistry,1,0,4
+g22,Miller,Whitney Young,overall,3,0,12
+g22,Miller,Whitney Young,ess,2,0,8
+g22,Miller,Whitney Young,physics,1,0,4
+g22,Josh,Brookfield,overall,7,2,20
+g22,Josh,Brookfield,other,0,2,-8
+g22,Josh,Brookfield,math,1,0,4
+g22,Josh,Brookfield,chemistry,3,0,12
+g22,Josh,Brookfield,ess,1,0,4
+g22,Josh,Brookfield,biology,1,0,4
+g22,Josh,Brookfield,physics,1,0,4
+g22,Kartik,Brookfield,overall,2,0,8
+g22,Kartik,Brookfield,math,1,0,4
+g22,Kartik,Brookfield,physics,1,0,4
+g22,Saathvik,Brookfield,overall,2,0,8
+g22,Saathvik,Brookfield,other,2,0,8
+g23,Li,Middleton B,overall,4,0,16
+g23,Li,Middleton B,math,2,0,8
+g23,Li,Middleton B,chemistry,1,0,4
+g23,Li,Middleton B,ess,1,0,4
+g23,Ian,Middleton B,overall,1,0,4
+g23,Ian,Middleton B,physics,1,0,4
+g23,Kriti,Middleton B,overall,2,0,8
+g23,Kriti,Middleton B,ess,2,0,8
+g23,Pratyush,Eisenhower B,overall,3,0,12
+g23,Pratyush,Eisenhower B,other,2,0,8
+g23,Pratyush,Eisenhower B,physics,1,0,4
+g23,Sai,Eisenhower B,overall,3,0,12
+g23,Sai,Eisenhower B,chemistry,1,0,4
+g23,Sai,Eisenhower B,ess,1,0,4
+g23,Sai,Eisenhower B,biology,1,0,4
+g24,William,Madison West,overall,1,0,4
+g24,William,Madison West,chemistry,1,0,4
+g24,Tim,Madison West,overall,3,0,12
+g24,Tim,Madison West,math,3,0,12
+g24,Samanyu,Madison West,overall,2,0,8
+g24,Samanyu,Madison West,biology,1,0,4
+g24,Samanyu,Madison West,physics,1,0,4
+g24,Kevin,Madison West,overall,1,0,4
+g24,Kevin,Madison West,ess,1,0,4
+g24,Arjun,Middleton C,overall,3,0,12
+g24,Arjun,Middleton C,math,1,0,4
+g24,Arjun,Middleton C,ess,1,0,4
+g24,Arjun,Middleton C,biology,1,0,4
+g24,Frank,Middleton C,overall,2,0,8
+g24,Frank,Middleton C,other,1,0,4
+g24,Frank,Middleton C,ess,1,0,4
+g24,Sai,Middleton C,overall,1,0,4
+g24,Sai,Middleton C,other,1,0,4
+g25,Manzoor,Eisenhower A,overall,1,2,-4
+g25,Manzoor,Eisenhower A,math,0,1,-4
+g25,Manzoor,Eisenhower A,chemistry,1,1,0
+g25,Andrew,Eisenhower A,overall,2,0,8
+g25,Andrew,Eisenhower A,math,1,0,4
+g25,Andrew,Eisenhower A,physics,1,0,4
+g25,Sujay,Eisenhower A,overall,4,0,16
+g25,Sujay,Eisenhower A,chemistry,1,0,4
+g25,Sujay,Eisenhower A,ess,1,0,4
+g25,Sujay,Eisenhower A,biology,2,0,8
+g25,Li,Middleton B,overall,4,0,16
+g25,Li,Middleton B,math,2,0,8
+g25,Li,Middleton B,biology,1,0,4
+g25,Li,Middleton B,physics,1,0,4
+g25,Kriti,Middleton B,overall,1,0,4
+g25,Kriti,Middleton B,ess,1,0,4
+g26,Arnav,Whitney Young,overall,1,0,4
+g26,Arnav,Whitney Young,math,1,0,4
+g26,Evan,Whitney Young,overall,2,0,8
+g26,Evan,Whitney Young,other,1,0,4
+g26,Evan,Whitney Young,chemistry,1,0,4
+g26,Miller,Whitney Young,overall,1,0,4
+g26,Miller,Whitney Young,physics,1,0,4
+g26,Stephen,Whitney Young,overall,1,1,0
+g26,Stephen,Whitney Young,math,0,1,-4
+g26,Stephen,Whitney Young,ess,1,0,4
+g26,Arjun,Middleton C,overall,3,0,12
+g26,Arjun,Middleton C,math,1,0,4
+g26,Arjun,Middleton C,biology,2,0,8
+g26,Sai,Middleton C,overall,1,1,0
+g26,Sai,Middleton C,math,1,0,4
+g26,Sai,Middleton C,physics,0,1,-4
+g27,Josh,Brookfield,overall,11,1,40
+g27,Josh,Brookfield,other,2,0,8
+g27,Josh,Brookfield,math,2,0,8
+g27,Josh,Brookfield,chemistry,3,0,12
+g27,Josh,Brookfield,ess,0,1,-4
+g27,Josh,Brookfield,biology,1,0,4
+g27,Josh,Brookfield,physics,3,0,12
+g27,Kartik,Brookfield,overall,1,1,0
+g27,Kartik,Brookfield,math,1,0,4
+g27,Kartik,Brookfield,physics,0,1,-4
+g27,Saathvik,Brookfield,overall,1,0,4
+g27,Saathvik,Brookfield,biology,1,0,4
+g27,Harry,Middleton A,overall,4,0,16
+g27,Harry,Middleton A,other,1,0,4
+g27,Harry,Middleton A,chemistry,1,0,4
+g27,Harry,Middleton A,ess,2,0,8
+g27,Owen,Middleton A,overall,1,1,0
+g27,Owen,Middleton A,biology,1,1,0
+g27,Ray,Middleton A,overall,1,0,4
+g27,Ray,Middleton A,ess,1,0,4
+g27,Nihar,Middleton A,overall,1,0,4
+g27,Nihar,Middleton A,math,1,0,4
+g28,Arnav,Whitney Young,overall,3,0,12
+g28,Arnav,Whitney Young,math,2,0,8
+g28,Arnav,Whitney Young,physics,1,0,4
+g28,Evan,Whitney Young,overall,2,0,8
+g28,Evan,Whitney Young,chemistry,1,0,4
+g28,Evan,Whitney Young,ess,1,0,4
+g28,Miller,Whitney Young,overall,3,1,8
+g28,Miller,Whitney Young,other,1,0,4
+g28,Miller,Whitney Young,ess,1,1,0
+g28,Miller,Whitney Young,physics,1,0,4
+g28,Stephen,Whitney Young,overall,1,0,4
+g28,Stephen,Whitney Young,chemistry,1,0,4
+g28,Manzoor,Eisenhower A,overall,1,3,-8
+g28,Manzoor,Eisenhower A,chemistry,0,3,-12
+g28,Manzoor,Eisenhower A,physics,1,0,4
+g28,Dhruva,Eisenhower A,overall,1,0,4
+g28,Dhruva,Eisenhower A,ess,1,0,4
+g28,Prani,Eisenhower A,overall,1,0,4
+g28,Prani,Eisenhower A,other,1,0,4
+g29,Li,Middleton B,overall,3,0,12
+g29,Li,Middleton B,math,2,0,8
+g29,Li,Middleton B,chemistry,1,0,4
+g29,Ian,Middleton B,overall,3,0,12
+g29,Ian,Middleton B,other,1,0,4
+g29,Ian,Middleton B,ess,1,0,4
+g29,Ian,Middleton B,physics,1,0,4
+g29,Kriti,Middleton B,overall,1,0,4
+g29,Kriti,Middleton B,ess,1,0,4
+g29,Vaidya,Middleton B,overall,1,0,4
+g29,Vaidya,Middleton B,biology,1,0,4
+g29,Frank,Middleton C,overall,2,1,4
+g29,Frank,Middleton C,other,1,0,4
+g29,Frank,Middleton C,chemistry,1,0,4
+g29,Frank,Middleton C,ess,0,1,-4
+g29,Sai,Middleton C,overall,5,0,20
+g29,Sai,Middleton C,math,1,0,4
+g29,Sai,Middleton C,chemistry,1,0,4
+g29,Sai,Middleton C,biology,2,0,8
+g29,Sai,Middleton C,physics,1,0,4
+g30,Arnav,Whitney Young,overall,3,0,12
+g30,Arnav,Whitney Young,math,3,0,12
+g30,Miller,Whitney Young,overall,2,0,8
+g30,Miller,Whitney Young,other,1,0,4
+g30,Miller,Whitney Young,ess,1,0,4
+g30,Stephen,Whitney Young,overall,1,0,4
+g30,Stephen,Whitney Young,biology,1,0,4
+g30,Harry,Middleton A,overall,4,0,16
+g30,Harry,Middleton A,chemistry,2,0,8
+g30,Harry,Middleton A,ess,2,0,8
+g30,Owen,Middleton A,overall,2,1,4
+g30,Owen,Middleton A,biology,2,1,4
+g30,Ray,Middleton A,overall,2,0,8
+g30,Ray,Middleton A,chemistry,1,0,4
+g30,Ray,Middleton A,physics,1,0,4
+g30,Nihar,Middleton A,overall,1,0,4
+g30,Nihar,Middleton A,ess,1,0,4
+g31,Josh,Brookfield,overall,5,1,16
+g31,Josh,Brookfield,other,1,0,4
+g31,Josh,Brookfield,chemistry,2,0,8
+g31,Josh,Brookfield,ess,1,0,4
+g31,Josh,Brookfield,biology,0,1,-4
+g31,Josh,Brookfield,physics,1,0,4
+g31,Kartik,Brookfield,overall,4,0,16
+g31,Kartik,Brookfield,math,2,0,8
+g31,Kartik,Brookfield,physics,2,0,8
+g31,Saathvik,Brookfield,overall,1,0,4
+g31,Saathvik,Brookfield,other,1,0,4
+g31,Harry,Middleton A,overall,5,0,20
+g31,Harry,Middleton A,math,2,0,8
+g31,Harry,Middleton A,chemistry,1,0,4
+g31,Harry,Middleton A,ess,2,0,8
+g31,Owen,Middleton A,overall,5,1,16
+g31,Owen,Middleton A,other,1,1,0
+g31,Owen,Middleton A,biology,4,0,16
+g31,Ray,Middleton A,overall,0,2,-8
+g31,Ray,Middleton A,ess,0,1,-4
+g31,Ray,Middleton A,physics,0,1,-4
+g31,Nihar,Middleton A,overall,1,0,4
+g31,Nihar,Middleton A,physics,1,0,4

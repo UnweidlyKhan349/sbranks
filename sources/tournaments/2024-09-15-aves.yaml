@@ -18,7 +18,12 @@ sources:
   sheet_id: 16P81ssUdGgAaJE-Fjk6bJjQPGfJIHRpeIC-uVXuCmQ4
   url: https://docs.google.com/spreadsheets/d/16P81ssUdGgAaJE-Fjk6bJjQPGfJIHRpeIC-uVXuCmQ4/edit?gid=204270256#gid=204270256
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g4_livescoresheet:parse_aves
+parser_options:
+  bracket_opts:
+    label_rx: ^([^:]+)
+status: parsed
+notes: '105 round-robin games from the LiveScoresheet grids and 22 double-elimination games. RR player stats from Individual
+  PPG: points recovered from PPG x Qs played (overall per 20 TUH, subjects per 4 TUH; overall equals the subject sum for every
+  player) plus tossups heard; no correct/neg counts and no energy column. Players matched to teams through the Team List rosters
+  (two ambiguous JasonY rows and one unrostered player skipped).'

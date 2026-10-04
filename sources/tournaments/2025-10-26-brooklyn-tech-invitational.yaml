@@ -18,7 +18,17 @@ sources:
   sheet_id: 1DCSR8NcXDwi8kdAGiRaVxIZJyeZQuwDv1kfdIkkiYv4
   url: https://docs.google.com/spreadsheets/d/1DCSR8NcXDwi8kdAGiRaVxIZJyeZQuwDv1kfdIkkiYv4/edit?gid=1167708747#gid=1167708747
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_brooklyn:parse_2025
+parser_options:
+  aliases:
+    SOB: School of Biology
+    Blair: Blair A
+    Hustler's: Hustler's University
+  se_winners:
+    Finals: MSJ B
+    3rd Place: Blair A
+status: parsed
+notes: Results only. Four RR groups (score matrix, rounds from RR Schedule) plus a single-elimination playoff. The final (MSJ
+  B over School of Biology) and the 3rd-place game (Blair A over Hustler's University) have no scores; their winners come
+  from the organizers' notes on the Field tab ('MSJ WINS', 'ROHAN SECOND', 'BLAIR THIRD'). Collierville B's RECORD cell (2-2)
+  disagrees with its scores (1-3).

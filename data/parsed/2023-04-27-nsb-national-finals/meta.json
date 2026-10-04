@@ -1,0 +1,33 @@
+{
+  "tournament_id": "2023-04-27-nsb-national-finals",
+  "counts": {
+    "teams": 68,
+    "games": 318,
+    "games_with_scores": 0,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": false,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "SLAC: Enloe High School row sum 14 != total 12.0 (total marked '*' on the page; games taken from the grid cells)",
+    "no city/state found for University Preparatory School",
+    "no city/state found for Colegio Cat\u00f3lico Notre Dame",
+    "no city/state found for Middleton High School",
+    "no city/state found for Cape Elizabeth High School",
+    "no city/state found for Mountain View High School (TX)",
+    "no city/state found for BASIS Peoria",
+    "no city/state found for Mountain View High School (WA)",
+    "no city/state found for Young Magnet High School"
+  ],
+  "parser": "g8_nsb:parse"
+}

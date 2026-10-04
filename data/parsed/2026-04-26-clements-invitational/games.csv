@@ -1,0 +1,12 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,playoff,DE4,14,Blair,Iolani,,,1,0,Room 1; winner only (no scores on the bracket sheet)
+g2,playoff,DE4,14,VMATHs,ASFA,,,2,0,Room 4; winner only (no scores on the bracket sheet)
+g3,playoff,DE4,14,WWPS,MSJ,,,2,0,Room 3; winner only (no scores on the bracket sheet)
+g4,playoff,DE4,14,Ward Melville 1,Noho 2,,,2,0,Room 2; winner only (no scores on the bracket sheet)
+g5,playoff,DE5,15,Iolani,MSJ,,,2,0,Room 1; winner only (no scores on the bracket sheet)
+g6,playoff,DE5,15,Ward Melville 1,ASFA,,,1,0,Room 2; winner only (no scores on the bracket sheet)
+g7,playoff,DE6,16,Blair,Noho 2,,,1,0,Room 1; winner only (no scores on the bracket sheet)
+g8,playoff,DE6,16,MSJ,Ward Melville 1,,,1,0,Room 2; winner only (no scores on the bracket sheet)
+g9,playoff,DE7,17,Noho 2,MSJ,,,2,0,Stage; winner only (no scores on the bracket sheet)
+g10,playoff,DE8,18,Blair,MSJ,,,2,0,Stage; winner only (no scores on the bracket sheet)
+g11,playoff,DE9,19,MSJ,Blair,,,1,0,Stage; winner only (no scores on the bracket sheet)

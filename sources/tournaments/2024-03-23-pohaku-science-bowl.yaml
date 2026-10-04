@@ -5,9 +5,9 @@ end_date: null
 season: 2023-24
 location: Online
 online: true
-division: HS
-include: true
-exclude_reason: null
+division: MS
+include: false
+exclude_reason: middle-school tournament (all teams are middle schools)
 kind: invitational
 level: standard
 subject_only: null
@@ -18,7 +18,15 @@ sources:
   sheet_id: 1-O7tqCMRoM8Z47Tb_exZSTKDNx0JQ3nwO6a1_vW4d3Q
   url: https://docs.google.com/spreadsheets/d/1-O7tqCMRoM8Z47Tb_exZSTKDNx0JQ3nwO6a1_vW4d3Q/edit?usp=sharing
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g5_hawaii:parse
+parser_options:
+  rr_tab: RR Results
+  bracket_tab: Single Elimination
+  bracket_labels:
+  - SE1
+  - SE2
+  - SF
+  - Final
+status: parsed
+notes: 'Middle-school event (Jonas Clarke, Davis Drive, Odle, Glasgow, Hopkins, Oak Avenue, Pleasanton...), excluded. Parsed
+  anyway: 24 RR games (4 pools) and 12 single-elimination games incl. 3rd place.'

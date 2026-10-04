@@ -18,11 +18,22 @@ sources:
   url: https://bit.ly/ess2hub
   file: results.html
 - kind: gsheet
+  role: results
+  sheet_id: 1JXs0C1DZ-HhfJfdYmksN90cheCrWBcJkBfT1Tjw5MmM
+  url: https://docs.google.com/spreadsheets/d/1JXs0C1DZ-HhfJfdYmksN90cheCrWBcJkBfT1Tjw5MmM/edit
+  file: hub.xlsx
+  note: ESS2 Tournament Hub (target of bit.ly/ess2hub)
+- kind: gsheet
   role: stats
   sheet_id: 1LfLZonv-F20LVrwcsMn2L5oDs_3XsMlInwxbQr45ST4
   url: https://docs.google.com/spreadsheets/d/1LfLZonv-F20LVrwcsMn2L5oDs_3XsMlInwxbQr45ST4/edit?gid=230593902#gid=230593902
   file: stats.xlsx
-parser: null
+parser: g1_ess_scrimmage:parse_ess2
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 'Individual 1v1 Earth & Space scrimmage (bit.ly/ess2hub = ''ESS2 Tournament Hub'' sheet, saved as hub.xlsx): 120 RR
+  games (8 mineral-named groups of 6) + 30 DE games; 5 RR games marked W/L with 0-0 or contradicting scores are flagged forfeits
+  (result only). Player stats from the per-round per-question tabs (C/IC/P; Earth+Space -> ess; TUH = 20 per round) plus player_game_stats;
+  stats-tab name typos (Akshay B, Ahkil B, Abhiram G) mapped by group.position. The ''Cumulative Player Stats'' tab misses
+  rounds for Akhil B and Abhiraam G because of those typos.'
+individual: true

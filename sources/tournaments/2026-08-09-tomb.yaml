@@ -2,7 +2,7 @@ id: 2026-08-09-tomb
 name: TOMB
 date: '2026-08-09'
 end_date: null
-season: 2025-26
+season: 2026-27
 location: Online
 online: true
 division: HS
@@ -17,8 +17,19 @@ sources:
   role: results+stats
   slug: trio-online-math-bowl-tomb
   url: https://isobowl.com/premier/tournaments/trio-online-math-bowl-tomb/standings
+- kind: manual
+  role: crosscheck
+  file: isobowl/stats_page.txt
+  url: https://isobowl.com/premier/tournaments/trio-online-math-bowl-tomb/stats
+  note: 'rendered team + individual stats tables (Playwright: pipeline/parsers/tools/g1_render_page.js); used only to cross-check
+    (pipeline/parsers/tools/g1_check_isobowl.py)'
 parser: g1_isobowl:parse
 parser_options:
   subject_override: math
-status: todo
-notes: ''
+status: parsed
+notes: 'ISOBowl API: all 76 games (5 pool rounds + 9 DE rounds) with scores, plus per-question logs -> per-player stats (all
+  questions are math; ISOBowl sub-topics algebra/NT/combinatorics/geometry/school math), team_game_subjects and player_game_stats.
+  Cross-checked against the isobowl.com stats page: every team''s W/L/PF/PA/COR/INC/NEG and every individual row match (two
+  ''marianne'' accounts on BFIT merged into one row). Players are ISOBowl accounts: the most name-like in-game display name
+  is used (e.g. ''Veeraj S'' for ''vegetables''); several are handles only (e.g. vockey, WADF Secretary). Scoring: neg = -4
+  to the negging team, bonus 10.'

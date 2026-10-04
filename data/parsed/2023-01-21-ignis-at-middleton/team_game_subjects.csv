@@ -1,0 +1,373 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+g1,Eisenhower B,other,4,4,0,0,0
+g1,Eisenhower B,math,4,4,0,1,0
+g1,Eisenhower B,chemistry,0,0,0,0,0
+g1,Eisenhower B,ess,4,4,0,1,0
+g1,Eisenhower B,biology,4,4,0,0,0
+g1,Eisenhower B,physics,4,4,0,1,0
+g1,Middleton A,other,42,12,30,3,1
+g1,Middleton A,math,28,8,20,2,0
+g1,Middleton A,chemistry,32,12,20,3,0
+g1,Middleton A,ess,42,12,30,3,0
+g1,Middleton A,biology,42,12,30,3,1
+g1,Middleton A,physics,32,12,20,3,0
+g2,Middleton C,other,4,4,0,0,0
+g2,Middleton C,math,0,0,0,0,0
+g2,Middleton C,chemistry,0,0,0,0,0
+g2,Middleton C,ess,14,4,10,1,1
+g2,Middleton C,biology,4,4,0,1,0
+g2,Middleton C,physics,4,4,0,1,0
+g2,Whitney Young,other,18,8,10,2,1
+g2,Whitney Young,math,56,16,40,4,0
+g2,Whitney Young,chemistry,32,12,20,3,0
+g2,Whitney Young,ess,22,12,10,2,0
+g2,Whitney Young,biology,32,12,20,3,0
+g2,Whitney Young,physics,22,12,10,3,0
+g3,Brookfield,other,28,8,20,2,0
+g3,Brookfield,math,42,12,30,3,0
+g3,Brookfield,chemistry,28,8,20,2,1
+g3,Brookfield,ess,42,12,30,3,0
+g3,Brookfield,biology,42,12,30,3,0
+g3,Brookfield,physics,14,4,10,1,0
+g3,Eisenhower A,other,28,8,20,2,0
+g3,Eisenhower A,math,14,4,10,1,0
+g3,Eisenhower A,chemistry,22,12,10,2,0
+g3,Eisenhower A,ess,4,4,0,1,0
+g3,Eisenhower A,biology,14,4,10,1,0
+g3,Eisenhower A,physics,12,12,0,3,0
+g4,Madison West,other,22,12,10,3,0
+g4,Madison West,math,28,8,20,2,1
+g4,Madison West,chemistry,14,4,10,1,0
+g4,Madison West,ess,14,4,10,1,1
+g4,Madison West,biology,18,8,10,2,0
+g4,Madison West,physics,4,4,0,1,0
+g4,Middleton B,other,14,4,10,1,0
+g4,Middleton B,math,18,8,10,1,0
+g4,Middleton B,chemistry,4,4,0,1,0
+g4,Middleton B,ess,32,12,20,2,0
+g4,Middleton B,biology,14,4,10,1,0
+g4,Middleton B,physics,12,12,0,3,0
+g5,Middleton A,other,28,8,20,2,1
+g5,Middleton A,math,14,4,10,1,1
+g5,Middleton A,chemistry,42,12,30,3,1
+g5,Middleton A,ess,56,16,40,4,0
+g5,Middleton A,biology,18,8,10,2,1
+g5,Middleton A,physics,8,8,0,2,0
+g5,Whitney Young,other,18,8,10,1,0
+g5,Whitney Young,math,36,16,20,3,0
+g5,Whitney Young,chemistry,18,8,10,1,0
+g5,Whitney Young,ess,0,0,0,0,0
+g5,Whitney Young,biology,8,8,0,1,0
+g5,Whitney Young,physics,4,4,0,1,0
+g6,Middleton C,other,28,8,20,2,0
+g6,Middleton C,math,14,4,10,1,0
+g6,Middleton C,chemistry,0,0,0,0,0
+g6,Middleton C,ess,4,4,0,1,1
+g6,Middleton C,biology,4,4,0,1,0
+g6,Middleton C,physics,0,0,0,0,0
+g6,Eisenhower B,other,0,0,0,0,0
+g6,Eisenhower B,math,8,8,0,2,0
+g6,Eisenhower B,chemistry,0,0,0,0,0
+g6,Eisenhower B,ess,18,8,10,1,0
+g6,Eisenhower B,biology,4,4,0,1,0
+g6,Eisenhower B,physics,8,8,0,2,0
+g7,Madison West,other,0,0,0,0,0
+g7,Madison West,math,22,12,10,2,0
+g7,Madison West,chemistry,0,0,0,0,0
+g7,Madison West,ess,18,8,10,1,0
+g7,Madison West,biology,0,0,0,0,0
+g7,Madison West,physics,14,4,10,1,0
+g7,Eisenhower A,other,28,8,20,2,0
+g7,Eisenhower A,math,8,8,0,2,1
+g7,Eisenhower A,chemistry,32,12,20,3,0
+g7,Eisenhower A,ess,18,8,10,2,1
+g7,Eisenhower A,biology,28,8,20,2,0
+g7,Eisenhower A,physics,8,8,0,2,0
+g8,Brookfield,other,28,8,20,2,1
+g8,Brookfield,math,32,12,20,3,1
+g8,Brookfield,chemistry,42,12,30,3,0
+g8,Brookfield,ess,46,16,30,4,0
+g8,Brookfield,biology,32,12,20,3,0
+g8,Brookfield,physics,28,8,20,2,0
+g8,Middleton B,other,4,4,0,0,0
+g8,Middleton B,math,18,8,10,1,0
+g8,Middleton B,chemistry,0,0,0,0,0
+g8,Middleton B,ess,0,0,0,0,0
+g8,Middleton B,biology,4,4,0,1,0
+g8,Middleton B,physics,4,4,0,1,0
+g9,Whitney Young,other,28,8,20,2,0
+g9,Whitney Young,math,26,16,10,4,0
+g9,Whitney Young,chemistry,4,4,0,1,0
+g9,Whitney Young,ess,22,12,10,3,0
+g9,Whitney Young,biology,0,0,0,0,1
+g9,Whitney Young,physics,4,4,0,1,0
+g9,Eisenhower B,other,14,4,10,1,0
+g9,Eisenhower B,math,0,0,0,0,0
+g9,Eisenhower B,chemistry,4,4,0,1,0
+g9,Eisenhower B,ess,4,4,0,1,0
+g9,Eisenhower B,biology,26,16,10,3,0
+g9,Eisenhower B,physics,4,4,0,1,0
+g10,Middleton C,other,14,4,10,1,2
+g10,Middleton C,math,12,12,0,2,1
+g10,Middleton C,chemistry,0,0,0,0,2
+g10,Middleton C,ess,8,8,0,1,1
+g10,Middleton C,biology,4,4,0,1,0
+g10,Middleton C,physics,18,8,10,1,1
+g10,Middleton A,other,50,20,30,3,0
+g10,Middleton A,math,18,8,10,1,1
+g10,Middleton A,chemistry,40,20,20,3,0
+g10,Middleton A,ess,32,12,20,2,1
+g10,Middleton A,biology,42,12,30,3,0
+g10,Middleton A,physics,22,12,10,2,1
+g11,Brookfield,other,42,12,30,3,1
+g11,Brookfield,math,22,12,10,3,1
+g11,Brookfield,chemistry,32,12,20,3,0
+g11,Brookfield,ess,32,12,20,3,0
+g11,Brookfield,biology,18,8,10,2,0
+g11,Brookfield,physics,46,16,30,4,0
+g11,Madison West,other,8,8,0,1,0
+g11,Madison West,math,18,8,10,1,0
+g11,Madison West,chemistry,4,4,0,1,0
+g11,Madison West,ess,4,4,0,1,0
+g11,Madison West,biology,0,0,0,0,0
+g11,Madison West,physics,0,0,0,0,0
+g12,Eisenhower A,other,12,12,0,3,1
+g12,Eisenhower A,math,16,16,0,4,0
+g12,Eisenhower A,chemistry,4,4,0,1,0
+g12,Eisenhower A,ess,36,16,20,4,0
+g12,Eisenhower A,biology,28,8,20,2,0
+g12,Eisenhower A,physics,32,12,20,3,0
+g12,Middleton B,other,8,8,0,1,0
+g12,Middleton B,math,0,0,0,0,0
+g12,Middleton B,chemistry,14,4,10,1,0
+g12,Middleton B,ess,0,0,0,0,0
+g12,Middleton B,biology,14,4,10,1,0
+g12,Middleton B,physics,0,0,0,0,0
+g13,Middleton A,other,8,8,0,2,1
+g13,Middleton A,math,26,16,10,4,0
+g13,Middleton A,chemistry,14,4,10,1,1
+g13,Middleton A,ess,28,8,20,2,1
+g13,Middleton A,biology,42,12,30,3,0
+g13,Middleton A,physics,14,4,10,1,0
+g13,Eisenhower A,other,4,4,0,0,0
+g13,Eisenhower A,math,0,0,0,0,0
+g13,Eisenhower A,chemistry,12,12,0,2,0
+g13,Eisenhower A,ess,18,8,10,1,0
+g13,Eisenhower A,biology,4,4,0,1,0
+g13,Eisenhower A,physics,4,4,0,1,0
+g14,Whitney Young,other,22,12,10,2,0
+g14,Whitney Young,math,14,4,10,1,0
+g14,Whitney Young,chemistry,0,0,0,0,1
+g14,Whitney Young,ess,0,0,0,0,0
+g14,Whitney Young,biology,0,0,0,0,0
+g14,Whitney Young,physics,4,4,0,0,0
+g14,Brookfield,other,28,8,20,2,1
+g14,Brookfield,math,32,12,20,3,0
+g14,Brookfield,chemistry,46,16,30,3,0
+g14,Brookfield,ess,32,12,20,3,0
+g14,Brookfield,biology,22,12,10,3,0
+g14,Brookfield,physics,42,12,30,3,1
+g15,Middleton B,other,22,12,10,2,0
+g15,Middleton B,math,14,4,10,1,0
+g15,Middleton B,chemistry,0,0,0,0,0
+g15,Middleton B,ess,22,12,10,2,0
+g15,Middleton B,biology,4,4,0,1,0
+g15,Middleton B,physics,4,4,0,1,1
+g15,Middleton C,other,4,4,0,1,1
+g15,Middleton C,math,4,4,0,1,0
+g15,Middleton C,chemistry,0,0,0,0,0
+g15,Middleton C,ess,14,4,10,1,1
+g15,Middleton C,biology,0,0,0,0,0
+g15,Middleton C,physics,8,8,0,1,0
+g16,Madison West,other,18,8,10,2,0
+g16,Madison West,math,4,4,0,1,0
+g16,Madison West,chemistry,18,8,10,2,0
+g16,Madison West,ess,42,12,30,3,0
+g16,Madison West,biology,4,4,0,1,0
+g16,Madison West,physics,0,0,0,0,0
+g16,Eisenhower B,other,0,0,0,0,0
+g16,Eisenhower B,math,8,8,0,2,0
+g16,Eisenhower B,chemistry,0,0,0,0,0
+g16,Eisenhower B,ess,0,0,0,0,0
+g16,Eisenhower B,biology,4,4,0,1,0
+g16,Eisenhower B,physics,8,8,0,2,0
+g17,Eisenhower A,other,0,0,0,0,1
+g17,Eisenhower A,math,4,4,0,1,0
+g17,Eisenhower A,chemistry,4,4,0,1,1
+g17,Eisenhower A,ess,4,4,0,0,0
+g17,Eisenhower A,biology,8,8,0,2,0
+g17,Eisenhower A,physics,0,0,0,0,1
+g17,Whitney Young,other,8,8,0,1,0
+g17,Whitney Young,math,28,8,20,2,0
+g17,Whitney Young,chemistry,8,8,0,1,0
+g17,Whitney Young,ess,12,12,0,3,1
+g17,Whitney Young,biology,0,0,0,0,0
+g17,Whitney Young,physics,22,12,10,2,0
+g18,Middleton A,other,22,12,10,2,1
+g18,Middleton A,math,28,8,20,2,0
+g18,Middleton A,chemistry,18,8,10,2,0
+g18,Middleton A,ess,32,12,20,3,0
+g18,Middleton A,biology,0,0,0,0,1
+g18,Middleton A,physics,18,8,10,1,0
+g18,Brookfield,other,8,8,0,1,1
+g18,Brookfield,math,14,4,10,1,0
+g18,Brookfield,chemistry,14,4,10,1,0
+g18,Brookfield,ess,0,0,0,0,0
+g18,Brookfield,biology,18,8,10,1,0
+g18,Brookfield,physics,18,8,10,2,1
+g19,Middleton B,other,4,4,0,1,0
+g19,Middleton B,math,28,8,20,2,0
+g19,Middleton B,chemistry,0,0,0,0,0
+g19,Middleton B,ess,4,4,0,1,0
+g19,Middleton B,biology,4,4,0,1,0
+g19,Middleton B,physics,4,4,0,1,0
+g19,Eisenhower B,other,14,4,10,1,0
+g19,Eisenhower B,math,0,0,0,0,0
+g19,Eisenhower B,chemistry,14,4,10,1,0
+g19,Eisenhower B,ess,0,0,0,0,0
+g19,Eisenhower B,biology,0,0,0,0,0
+g19,Eisenhower B,physics,0,0,0,0,0
+g20,Madison West,other,4,4,0,0,1
+g20,Madison West,math,18,8,10,1,0
+g20,Madison West,chemistry,0,0,0,0,1
+g20,Madison West,ess,0,0,0,0,0
+g20,Madison West,biology,0,0,0,0,0
+g20,Madison West,physics,4,4,0,0,1
+g20,Middleton C,other,4,4,0,0,1
+g20,Middleton C,math,4,4,0,1,1
+g20,Middleton C,chemistry,4,4,0,0,0
+g20,Middleton C,ess,0,0,0,0,0
+g20,Middleton C,biology,0,0,0,0,0
+g20,Middleton C,physics,18,8,10,1,1
+g21,Middleton A,other,28,8,20,2,1
+g21,Middleton A,math,28,8,20,2,0
+g21,Middleton A,chemistry,32,12,20,2,0
+g21,Middleton A,ess,28,8,20,2,0
+g21,Middleton A,biology,0,0,0,0,1
+g21,Middleton A,physics,0,0,0,0,1
+g21,Eisenhower A,other,4,4,0,0,0
+g21,Eisenhower A,math,0,0,0,0,0
+g21,Eisenhower A,chemistry,14,4,10,1,1
+g21,Eisenhower A,ess,28,8,20,2,0
+g21,Eisenhower A,biology,4,4,0,0,0
+g21,Eisenhower A,physics,12,12,0,2,0
+g22,Whitney Young,other,8,8,0,0,0
+g22,Whitney Young,math,18,8,10,2,0
+g22,Whitney Young,chemistry,4,4,0,1,0
+g22,Whitney Young,ess,18,8,10,2,0
+g22,Whitney Young,biology,0,0,0,0,0
+g22,Whitney Young,physics,18,8,10,2,0
+g22,Brookfield,other,28,8,20,2,2
+g22,Brookfield,math,28,8,20,2,0
+g22,Brookfield,chemistry,12,12,0,3,0
+g22,Brookfield,ess,14,4,10,1,0
+g22,Brookfield,biology,4,4,0,1,0
+g22,Brookfield,physics,18,8,10,2,0
+g23,Middleton B,other,0,0,0,0,0
+g23,Middleton B,math,8,8,0,2,0
+g23,Middleton B,chemistry,14,4,10,1,0
+g23,Middleton B,ess,32,12,20,3,0
+g23,Middleton B,biology,0,0,0,0,0
+g23,Middleton B,physics,4,4,0,1,0
+g23,Eisenhower B,other,28,8,20,2,0
+g23,Eisenhower B,math,0,0,0,0,0
+g23,Eisenhower B,chemistry,4,4,0,1,0
+g23,Eisenhower B,ess,4,4,0,1,0
+g23,Eisenhower B,biology,14,4,10,1,0
+g23,Eisenhower B,physics,4,4,0,1,0
+g24,Madison West,other,0,0,0,0,0
+g24,Madison West,math,22,12,10,3,0
+g24,Madison West,chemistry,4,4,0,1,0
+g24,Madison West,ess,4,4,0,1,0
+g24,Madison West,biology,4,4,0,1,0
+g24,Madison West,physics,4,4,0,1,0
+g24,Middleton C,other,28,8,20,2,0
+g24,Middleton C,math,4,4,0,1,0
+g24,Middleton C,chemistry,0,0,0,0,0
+g24,Middleton C,ess,18,8,10,2,0
+g24,Middleton C,biology,4,4,0,1,0
+g24,Middleton C,physics,0,0,0,0,0
+g25,Eisenhower A,other,0,0,0,0,0
+g25,Eisenhower A,math,14,4,10,1,1
+g25,Eisenhower A,chemistry,18,8,10,2,1
+g25,Eisenhower A,ess,4,4,0,1,0
+g25,Eisenhower A,biology,8,8,0,2,0
+g25,Eisenhower A,physics,4,4,0,1,0
+g25,Middleton B,other,0,0,0,0,0
+g25,Middleton B,math,12,12,0,2,0
+g25,Middleton B,chemistry,4,4,0,0,0
+g25,Middleton B,ess,4,4,0,1,0
+g25,Middleton B,biology,4,4,0,1,0
+g25,Middleton B,physics,4,4,0,1,0
+g26,Whitney Young,other,4,4,0,1,0
+g26,Whitney Young,math,14,4,10,1,1
+g26,Whitney Young,chemistry,4,4,0,1,0
+g26,Whitney Young,ess,4,4,0,1,0
+g26,Whitney Young,biology,0,0,0,0,0
+g26,Whitney Young,physics,18,8,10,1,0
+g26,Middleton C,other,0,0,0,0,0
+g26,Middleton C,math,12,12,0,2,0
+g26,Middleton C,chemistry,0,0,0,0,0
+g26,Middleton C,ess,0,0,0,0,0
+g26,Middleton C,biology,8,8,0,2,0
+g26,Middleton C,physics,0,0,0,0,1
+g27,Brookfield,other,28,8,20,2,0
+g27,Brookfield,math,12,12,0,3,0
+g27,Brookfield,chemistry,42,12,30,3,0
+g27,Brookfield,ess,0,0,0,0,1
+g27,Brookfield,biology,22,12,10,2,0
+g27,Brookfield,physics,32,12,20,3,1
+g27,Middleton A,other,4,4,0,1,0
+g27,Middleton A,math,4,4,0,1,0
+g27,Middleton A,chemistry,14,4,10,1,0
+g27,Middleton A,ess,26,16,10,3,0
+g27,Middleton A,biology,14,4,10,1,1
+g27,Middleton A,physics,4,4,0,0,0
+g28,Whitney Young,other,4,4,0,1,0
+g28,Whitney Young,math,18,8,10,2,0
+g28,Whitney Young,chemistry,30,20,10,2,0
+g28,Whitney Young,ess,18,8,10,2,1
+g28,Whitney Young,biology,0,0,0,0,0
+g28,Whitney Young,physics,18,8,10,2,0
+g28,Eisenhower A,other,14,4,10,1,0
+g28,Eisenhower A,math,0,0,0,0,0
+g28,Eisenhower A,chemistry,0,0,0,0,3
+g28,Eisenhower A,ess,8,8,0,1,0
+g28,Eisenhower A,biology,0,0,0,0,0
+g28,Eisenhower A,physics,14,4,10,1,0
+g29,Middleton B,other,4,4,0,1,0
+g29,Middleton B,math,8,8,0,2,0
+g29,Middleton B,chemistry,4,4,0,1,0
+g29,Middleton B,ess,12,12,0,2,0
+g29,Middleton B,biology,4,4,0,1,0
+g29,Middleton B,physics,4,4,0,1,0
+g29,Middleton C,other,14,4,10,1,0
+g29,Middleton C,math,4,4,0,1,0
+g29,Middleton C,chemistry,8,8,0,2,0
+g29,Middleton C,ess,0,0,0,0,1
+g29,Middleton C,biology,8,8,0,2,0
+g29,Middleton C,physics,4,4,0,1,0
+g30,Whitney Young,other,4,4,0,1,0
+g30,Whitney Young,math,12,12,0,3,0
+g30,Whitney Young,chemistry,0,0,0,0,0
+g30,Whitney Young,ess,4,4,0,1,0
+g30,Whitney Young,biology,8,8,0,1,0
+g30,Whitney Young,physics,0,0,0,0,0
+g30,Middleton A,other,0,0,0,0,0
+g30,Middleton A,math,0,0,0,0,0
+g30,Middleton A,chemistry,32,12,20,3,0
+g30,Middleton A,ess,32,12,20,3,0
+g30,Middleton A,biology,28,8,20,2,1
+g30,Middleton A,physics,4,4,0,1,0
+g31,Brookfield,other,22,12,10,2,0
+g31,Brookfield,math,18,8,10,2,0
+g31,Brookfield,chemistry,28,8,20,2,0
+g31,Brookfield,ess,8,8,0,1,0
+g31,Brookfield,biology,0,0,0,0,1
+g31,Brookfield,physics,36,16,20,3,0
+g31,Middleton A,other,14,4,10,1,1
+g31,Middleton A,math,18,8,10,2,0
+g31,Middleton A,chemistry,14,4,10,1,0
+g31,Middleton A,ess,28,8,20,2,1
+g31,Middleton A,biology,30,20,10,4,0
+g31,Middleton A,physics,4,4,0,1,1

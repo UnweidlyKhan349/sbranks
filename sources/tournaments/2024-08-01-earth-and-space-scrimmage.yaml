@@ -23,7 +23,12 @@ sources:
   sheet_id: 1VMCdOIULINAAYT2Rimzp30-eRrpQCB8ZzqGAXE3IVlM
   url: https://docs.google.com/spreadsheets/d/1VMCdOIULINAAYT2Rimzp30-eRrpQCB8ZzqGAXE3IVlM/edit?usp=sharing
   file: stats.xlsx
-parser: null
+parser: g1_ess_scrimmage:parse_ess1
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: 'Individual 1v1 Earth & Space scrimmage: each competitor is recorded as a one-person ''team''. 120 RR games (8 groups
+  of 6; pairings/rounds from the schedule crosstable, scores and W/L/T from RR Results) + 15-game SE bracket. Player stats
+  (RR only) derived from the stats sheet''s per-question fractions x 100 questions (5 rounds x 20, 12 Earth + 8 Space; all
+  counts integral, Earth+Space=total, PPG reproduced); correct = 6-pt interrupts + 4-pt corrects, points re-based to 4/correct.
+  Names are first name + last initial (Discord handles in the sheet).'
+individual: true

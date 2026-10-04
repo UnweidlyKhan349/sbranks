@@ -1,0 +1,122 @@
+Interface Index,tab,First Team,Second Team,Round #,Type,Division,Room,Interface ID,Round Done,First Team Score,Second Team Score
+1,Round Robin Matchups,Mission San Jose B,Palo Alto B,1,Round Robin,A,DWINELLE 87,17E6ywICRh3DH2kuT_GY3LWRXJ-YRPGe96jB5rilwQBQ,True,126.0,18.0
+2,Round Robin Matchups,Saint Francis,Dougherty Valley A,1.0,Round Robin,A,DWINELLE 88,170z1HffuXseDb5NpZ_nzJQINmBXrztcqgbYM9hO5_BM,True,114.0,82.0
+3,Round Robin Matchups,BASIS Independent B,Stanford Online,1.0,Round Robin,A,DWINELLE 89,1itbJVFJOyyBh0337RHlvKAm74IA5JbzVGvQpcQSZE-A,True,48.0,76.0
+4,Round Robin Matchups,California B,North Hollywood,1.0,Round Robin,B,DWINELLE 105,1n-s0YJuErF_1mcp_jaKFpVqRd7PZSnZN8omjpo3pH2k,True,26.0,202.0
+5,Round Robin Matchups,Irvington,Monta Vista A,1.0,Round Robin,B,DWINELLE 106,1TJaMxgFa2jxLQiqO1KBcyvvIBe1e1-goS1fUn82KIyY,True,36.0,162.0
+6,Round Robin Matchups,Amador Valley A,Foothill B,1.0,Round Robin,B,DWINELLE 109,1t58nQj26-XOO-UqFhk4aRMZPO5SwqhPUHtWUX6CLeJA,True,188.0,60.0
+7,Round Robin Matchups,Cupertino B,Lynbrook B,1.0,Round Robin,C,DWINELLE 179,1S7-Gm4US0JFHQf67oHxVY2NMjKYtXwffpRKWSfj-DOk,True,24.0,134.0
+8,Round Robin Matchups,Mira Loma A,Amador Valley B,1.0,Round Robin,C,DWINELLE 182,1kwiq07x4hUtrFeczb2a_prZuSqTS3yLlg5loMnZabX0,True,162.0,32.0
+9,Round Robin Matchups,Archbishop Mitty B,Canyon Crest A,1.0,Round Robin,C,DWINELLE 183,19UESqgDbGVXljzEMc2TV2bzvnTzMYWT6InzREbK4pvA,True,26.0,184.0
+10,Round Robin Matchups,Monta Vista B,Canyon Crest B,1.0,Round Robin,D,DWINELLE 189,1ooSRLWY0MLwT7bADGPSBq_d_C6aks-iCdjbpVF3gRyg,True,54.0,76.0
+11,Round Robin Matchups,Palo Alto A,Lynbrook A,1.0,Round Robin,D,DWINELLE 204,1EHyzq7KFutBZei5wYGNzkRWFhZhtuoApn_wtllAWcRU,True,72.0,212.0
+12,Round Robin Matchups,Arnold O. Beckman A,BASIS Independent A,1.0,Round Robin,D,DWINELLE 206,1PHz6ZeiKIrPRSveV8BhccTSS54OSWbIjFjNdToC1_T4,True,22.0,136.0
+13,Round Robin Matchups,Mission San Jose A,Saratoga,1.0,Round Robin,E,DWINELLE 209,18XReYd_p1qjohejY0YecE5skkIsZdlrwQkUCr_o51NE,True,152.0,116.0
+14,Round Robin Matchups,California A,Abraham Lincoln,1.0,Round Robin,E,DWINELLE 210,14Pdi4yhF9f_tge-QGgsPsg8F2yj6BoU6Xou5k2Asd7E,True,54.0,8.0
+15,Round Robin Matchups,Archbishop Mitty A,Lynbrook C,1.0,Round Robin,E,DWINELLE 215,1oq0etYk7dFKlGRjABeukRkVrQUZfRot1ximMdAbe2mY,True,60.0,130.0
+16,Round Robin Matchups,Dougherty Valley B,Foothill A,1.0,Round Robin,F,DWINELLE 246,1LycAKXU4yQ36c_ByiW6MFphFsJ7E-fFB8dPuDCb9thk,True,44.0,62.0
+17,Round Robin Matchups,Mira Loma B,American B,1.0,Round Robin,F,DWINELLE 262,1GF1BnJ8VUgGoRwXwlK5vF_rId00anSciWW8_wui9dh4,True,104.0,44.0
+18,Round Robin Matchups,American A,Cupertino A,1.0,Round Robin,F,DWINELLE 263,10LV_FiupHXd9ZDCKPFHP02Wuhc1sYGfotQYs3SZMK2I,True,72.0,148.0
+19,Round Robin Matchups,Mission San Jose B,Dougherty Valley A,2.0,Round Robin,A,DWINELLE 87,181dKvntxkY-vLRLlcVy8V69_okp_25ubM5QCFqeB1uI,True,136.0,84.0
+20,Round Robin Matchups,BASIS Independent B,Palo Alto B,2.0,Round Robin,A,DWINELLE 88,1fdgtRjAgnSm3y69-VooshsVIi3IFPCWFvnMTAfUbl1g,True,80.0,64.0
+21,Round Robin Matchups,Saint Francis,Stanford Online,2.0,Round Robin,A,DWINELLE 89,1fxnjLoO8Xw5Rwn9s-iWd73EsAFchG8Ujs5rqe46f74w,True,140.0,22.0
+22,Round Robin Matchups,California B,Monta Vista A,2.0,Round Robin,B,DWINELLE 105,1l2L_nR_5DqTU6t6vq9cgjWWVkrneymRfeFLWehR7nz0,True,40.0,130.0
+23,Round Robin Matchups,Amador Valley A,North Hollywood,2.0,Round Robin,B,DWINELLE 106,1psyoKuYj5k0EMJxqye7i1hhi1x4Y4_vLJ4uEg1xRiFU,True,168.0,96.0
+24,Round Robin Matchups,Irvington,Foothill B,2.0,Round Robin,B,DWINELLE 109,1WZS2U78kESsK6DFQOaBNOGkFnJhul0_YJIUcM8p6g04,True,52.0,98.0
+25,Round Robin Matchups,Cupertino B,Amador Valley B,2.0,Round Robin,C,DWINELLE 179,194443TwzddBqVxo1mmJrh7FWEl-75zCFhy1nTVvWz7U,True,70.0,62.0
+26,Round Robin Matchups,Archbishop Mitty B,Lynbrook B,2.0,Round Robin,C,DWINELLE 182,10e8bcV3N3AN2tdjrdZOw-gvaHtrNdjk3sZCJrfUr_G4,True,60.0,180.0
+27,Round Robin Matchups,Mira Loma A,Canyon Crest A,2.0,Round Robin,C,DWINELLE 183,1J5cm-u2EVHySSt4bDNYemFVoTVFmDBlevQ65OIAszfk,True,96.0,142.0
+28,Round Robin Matchups,Monta Vista B,Lynbrook A,2.0,Round Robin,D,DWINELLE 189,1i1SoQ2kNNzwNcps4z3XYiGPe906hyO7f6mxiZP0vIAs,True,30.0,186.0
+29,Round Robin Matchups,Arnold O. Beckman A,Canyon Crest B,2.0,Round Robin,D,DWINELLE 204,1amfu6epaHdtUHw0CAdEjTuyv-GPkgLpvV-KkUTxeCKw,True,40.0,102.0
+30,Round Robin Matchups,Palo Alto A,BASIS Independent A,2.0,Round Robin,D,DWINELLE 206,1_sIPptnkezVclXMOdVxpS7FlaRJjB0MMU2a8cKvYXQM,True,44.0,90.0
+31,Round Robin Matchups,Mission San Jose A,Abraham Lincoln,2.0,Round Robin,E,DWINELLE 209,12OBVp6FmFVyfUv5PsoMW9euUWiazJLtFPPEx-V3lOP8,True,216.0,8.0
+32,Round Robin Matchups,Archbishop Mitty A,Saratoga,2.0,Round Robin,E,DWINELLE 210,1myJM8yU8LHRIJyhtDjBchtML2DIxB4FclCvmE4plevM,True,68.0,118.0
+33,Round Robin Matchups,California A,Lynbrook C,2.0,Round Robin,E,DWINELLE 215,1cir3Q58uI7HHdiqsGyG0dW-Fbq-ODt6kMVIxs-wTfjE,True,36.0,170.0
+34,Round Robin Matchups,Dougherty Valley B,American B,2.0,Round Robin,F,DWINELLE 246,1oE5chvLKtsyie62WbKFTd_PYF7_rw6--ffJF3567ths,True,104.0,54.0
+35,Round Robin Matchups,American A,Foothill A,2.0,Round Robin,F,DWINELLE 262,1jz1InpoQjqokcFkViczCK3lyPGSJI_ZYzevN2V8JvlE,True,142.0,40.0
+36,Round Robin Matchups,Mira Loma B,Cupertino A,2.0,Round Robin,F,DWINELLE 263,1hQda1iH1uvvrknkqTyxKyPMEgb-VCoHaSPhXt1pTo1Y,True,44.0,132.0
+37,Round Robin Matchups,Stanford Online,Dougherty Valley A,3.0,Round Robin,A,DWINELLE 87,1zI1PWNVOSgtrQ5h8hb5Rfx0SG-_8HCGABj8HQhJQJyo,True,84.0,90.0
+38,Round Robin Matchups,Mission San Jose B,BASIS Independent B,3.0,Round Robin,A,DWINELLE 88,1w4cCeNC-mn0KD69XaM-x7uPnGFLE8D77x4niZHm8Rmg,True,144.0,32.0
+39,Round Robin Matchups,Saint Francis,Palo Alto B,3.0,Round Robin,A,DWINELLE 89,1K04BvVsiWWGFgANH7uLrTk9g4XbGEvFzPG7nzsMDa6o,True,106.0,48.0
+40,Round Robin Matchups,Foothill B,Monta Vista A,3.0,Round Robin,B,DWINELLE 105,1a9dFMqieyAAfWOgCCyfkxVaTZwa4Ozu3u5RLvdM--n0,True,74.0,106.0
+41,Round Robin Matchups,California B,Amador Valley A,3.0,Round Robin,B,DWINELLE 106,1w6y4qo4egYm2wMazMTpIGvtphZT9S447kg1dOxB6ARA,True,76.0,124.0
+42,Round Robin Matchups,Irvington,North Hollywood,3.0,Round Robin,B,DWINELLE 109,1SvjRYVeNNRJcQ3VJKdMXBT7714tdtmQHERgUpVSWxX8,True,16.0,218.0
+43,Round Robin Matchups,Canyon Crest A,Amador Valley B,3.0,Round Robin,C,DWINELLE 179,1ae4-ykuFF1vYkgHxCJ3J0GDldvUADQP8UfbMJJrASgE,True,192.0,26.0
+44,Round Robin Matchups,Cupertino B,Archbishop Mitty B,3.0,Round Robin,C,DWINELLE 182,1RJypWp2wTqihwoFhBJ_qzMuRkRjJi0pIq_EYAhiIu04,True,36.0,90.0
+45,Round Robin Matchups,Mira Loma A,Lynbrook B,3.0,Round Robin,C,DWINELLE 183,1OuYgOzRyIuXDDyPDZKnA62MT3xLFFhxtGiGa_bcQG7A,True,166.0,68.0
+46,Round Robin Matchups,BASIS Independent A,Lynbrook A,3.0,Round Robin,D,DWINELLE 189,13XPMYQM8C2biZ2W8kr0wOIAsZHS-GZ_pGjl7rE07T_g,True,70.0,158.0
+47,Round Robin Matchups,Monta Vista B,Arnold O. Beckman A,3.0,Round Robin,D,DWINELLE 204,1rvYxLrmq_QWmap-brWZJY_K0-21z1J1nGLTXZCZyeR0,True,40.0,72.0
+48,Round Robin Matchups,Palo Alto A,Canyon Crest B,3.0,Round Robin,D,DWINELLE 206,1EUUYnZtlfgnkfE7cO3K_pxdwsqLS58A-dJXpHAmO7ZI,True,118.0,68.0
+49,Round Robin Matchups,Lynbrook C,Abraham Lincoln,3.0,Round Robin,E,DWINELLE 209,1LMQvb6yKDgmBDDhQsiEp9ohs1bGMmNIx2Nyiz6enHHU,True,168.0,8.0
+50,Round Robin Matchups,Mission San Jose A,Archbishop Mitty A,3.0,Round Robin,E,DWINELLE 210,13Bd-bqWBCu3GGnoEaA4xWzd1bSZLXOjvs_90tWsZIEU,True,212.0,28.0
+51,Round Robin Matchups,California A,Saratoga,3.0,Round Robin,E,DWINELLE 215,1sVDiZ-AllZSijY6rfpTYKwZvmhojeu8yfnkzkIjpwZk,True,82.0,106.0
+52,Round Robin Matchups,Cupertino A,American B,3.0,Round Robin,F,DWINELLE 246,12y120mY4N-gmawfNChhZnsZMMOI1Oo_-eAfEvbiZP6Y,True,94.0,50.0
+53,Round Robin Matchups,Dougherty Valley B,American A,3.0,Round Robin,F,DWINELLE 262,1dat29IjjIE6fBfJTYwykStsWxjax40VoTB3N5FSIyDc,True,32.0,102.0
+54,Round Robin Matchups,Mira Loma B,Foothill A,3.0,Round Robin,F,DWINELLE 263,1vcwKmZTh5D4mGndni1KD5-rROoEhonNPvoMpcbEaVrs,True,62.0,90.0
+55,Round Robin Matchups,Saint Francis,BASIS Independent B,4.0,Round Robin,A,DWINELLE 87,1yoDh3W1ITqXUrfksMWaa2hwrW6QigKpNer8vxsWOGf8,True,74.0,24.0
+56,Round Robin Matchups,Mission San Jose B,Stanford Online,4.0,Round Robin,A,DWINELLE 88,1oJx7uxe12wurcomzNtl-0xiDYkMz5lihmlK8dAx291s,True,134.0,52.0
+57,Round Robin Matchups,Dougherty Valley A,Palo Alto B,4.0,Round Robin,A,DWINELLE 89,1nqwHknryRci-yxxBDbEbvC-vj-4Hsieo-sOCx9NhBSQ,True,68.0,46.0
+58,Round Robin Matchups,Irvington,Amador Valley A,4.0,Round Robin,B,DWINELLE 105,1hIDDa5xJi-hdSDVPevFVAG1PXw-jEA2Yhbq1hnTF898,True,16.0,138.0
+59,Round Robin Matchups,California B,Foothill B,4.0,Round Robin,B,DWINELLE 106,16ckLtRWgW1Oan39tMvIg-dbKTU_RszQB7KSmEtGvN2c,True,34.0,62.0
+60,Round Robin Matchups,Monta Vista A,North Hollywood,4.0,Round Robin,B,DWINELLE 109,1_MddAIWUuQf3ApW4wmqPwwfcHyvrQRf5UoEhbDX2new,True,60.0,136.0
+61,Round Robin Matchups,Mira Loma A,Archbishop Mitty B,4.0,Round Robin,C,DWINELLE 179,1sy3DZSPxHrm25bmUbnxUv5zrlgT0kMG1gSQxAEjLQqM,True,146.0,4.0
+62,Round Robin Matchups,Cupertino B,Canyon Crest A,4.0,Round Robin,C,DWINELLE 182,1cMqQRri3ONcPrOXzxdzLfvXVYpIcmlnK_Tl8-bKDI8E,True,12.0,154.0
+63,Round Robin Matchups,Amador Valley B,Lynbrook B,4.0,Round Robin,C,DWINELLE 183,1yujQrqFP9_F7MdieQreZmf82hNWkPywC6p90aocO27E,True,34.0,70.0
+64,Round Robin Matchups,Palo Alto A,Arnold O. Beckman A,4.0,Round Robin,D,DWINELLE 189,1dyQMT-PdpNhTDLNybHolH89iGK8cV0_Y0lBpM__WYDA,True,84.0,30.0
+65,Round Robin Matchups,Monta Vista B,BASIS Independent A,4.0,Round Robin,D,DWINELLE 204,1et755FsCKX63WiZ3VGIVv5iF-0OanzJcZygbsZjRMys,True,4.0,106.0
+66,Round Robin Matchups,Lynbrook A,Canyon Crest B,4.0,Round Robin,D,DWINELLE 206,1eMyQ8Ot6t7mkE8-dH6yvnM9waK3ktnLXsNq3cZnpFzM,True,126.0,58.0
+67,Round Robin Matchups,California A,Archbishop Mitty A,4.0,Round Robin,E,DWINELLE 209,1Rtv9Jv0ZV45P5t4iOe0edWcRLezGdad8xa1uk_RqpPY,True,44.0,56.0
+68,Round Robin Matchups,Mission San Jose A,Lynbrook C,4.0,Round Robin,E,DWINELLE 210,1_SZPsollYXXSfgKeoM6Rb4wtvBNOlhgf7Eq3KwD_9Fk,True,120.0,70.0
+69,Round Robin Matchups,Abraham Lincoln,Saratoga,4.0,Round Robin,E,DWINELLE 215,1FwttEd6AOZYdF1XCZjI7x29ZoFjzRSgr9Dnv-5JZeTE,True,24.0,64.0
+70,Round Robin Matchups,Mira Loma B,American A,4.0,Round Robin,F,DWINELLE 246,1ZW2O9s2IvWXYVprzm0MEnCDKzU3sGRbjcaIRe_kDd4o,True,56.0,28.0
+71,Round Robin Matchups,Dougherty Valley B,Cupertino A,4.0,Round Robin,F,DWINELLE 262,1RRnt2fnMLOxyAC8170uL4CMjOIYG4lKvhy_BDL7ry8I,True,12.0,154.0
+72,Round Robin Matchups,American B,Foothill A,4.0,Round Robin,F,DWINELLE 263,1Nb9BPYqn5j1_YJ2D-U3pkGbJ9sEJPizBFDCRT6B_O3U,True,28.0,16.0
+73,Round Robin Matchups,BASIS Independent B,Dougherty Valley A,5.0,Round Robin,A,DWINELLE 87,153ZRTEbB8kW-DOoC7vXrj6Tt4iWL-ozi-X2oO-mtkxM,True,16.0,102.0
+74,Round Robin Matchups,Stanford Online,Palo Alto B,5.0,Round Robin,A,DWINELLE 88,1He4ncRqLA-maOFTgKoiRQfr_BSHD1HG2hs-tUjvSSKI,True,68.0,62.0
+75,Round Robin Matchups,Mission San Jose B,Saint Francis,5.0,Round Robin,A,DWINELLE 89,13LBeVsgo8N4DGHb2s90Uuu8VXWM4Mcr0SYKB69NJ6v8,True,114.0,100.0
+76,Round Robin Matchups,Amador Valley A,Monta Vista A,5.0,Round Robin,B,DWINELLE 105,11U0qOhNgrJR6u28yysLgY1k_8OMU-guBK1bINDTEv64,True,154.0,46.0
+77,Round Robin Matchups,Foothill B,North Hollywood,5.0,Round Robin,B,DWINELLE 106,1H_FQw_HfKWNoF7xL7nw7dBLYqVXqsKSYuE7cZ_0X4eU,True,32.0,196.0
+78,Round Robin Matchups,California B,Irvington,5.0,Round Robin,B,DWINELLE 109,1V3lXd6TxDuAvO4OcdezALwzT5XGFtQWd0aGbzb5aU94,True,58.0,22.0
+79,Round Robin Matchups,Archbishop Mitty B,Amador Valley B,5.0,Round Robin,C,DWINELLE 179,1fIVowQ8AjotMagIJfOAwB2UynjTkfxDz4APG4QFbayk,True,78.0,20.0
+80,Round Robin Matchups,Canyon Crest A,Lynbrook B,5.0,Round Robin,C,DWINELLE 182,1lmynrMYWpb3_BfzgFRHTClIgGAByvXKyM4APc2i6o2Y,True,146.0,76.0
+81,Round Robin Matchups,Cupertino B,Mira Loma A,5.0,Round Robin,C,DWINELLE 183,1hOOxU0m8MDPAiqirRfrgfSYL2KwH9frDs4OGy7MIjIE,True,18.0,146.0
+82,Round Robin Matchups,Arnold O. Beckman A,Lynbrook A,5.0,Round Robin,D,DWINELLE 189,15deHYgYzEdUNH9GPJLjgOugTRe7nz3RHY-_ycHMNBVc,True,12.0,160.0
+83,Round Robin Matchups,BASIS Independent A,Canyon Crest B,5.0,Round Robin,D,DWINELLE 204,1VwCoZsplWg7fDrBy2auubkGB27xiStZ9H93BLd7pwso,True,40.0,104.0
+84,Round Robin Matchups,Monta Vista B,Palo Alto A,5.0,Round Robin,D,DWINELLE 206,10oipfe3eGVZaBx9dbZWUxZkLRYvtqD1Hu-HGGDAGCkI,True,54.0,98.0
+85,Round Robin Matchups,Archbishop Mitty A,Abraham Lincoln,5.0,Round Robin,E,DWINELLE 209,11KZfWuBj-vuhPkhvYhtZpe9byoY9STAV6vQ4qnwi8-4,True,58.0,16.0
+86,Round Robin Matchups,Lynbrook C,Saratoga,5.0,Round Robin,E,DWINELLE 210,1eueRrNkhjdTQZv95xecFh6l-YNKa_kgdln1Xwluspwc,True,80.0,78.0
+87,Round Robin Matchups,Mission San Jose A,California A,5.0,Round Robin,E,DWINELLE 215,1Cws9bQzxmjiH1GnphYp2bO5wiJgxZyIeUVMD9oG_lKs,True,142.0,40.0
+88,Round Robin Matchups,American A,American B,5.0,Round Robin,F,DWINELLE 246,1K-NH0X77wrQ8zAxVDEev6nPqbKSdNlTkU9oGSLdGOBs,True,52.0,38.0
+89,Round Robin Matchups,Cupertino A,Foothill A,5.0,Round Robin,F,DWINELLE 262,1T4lZAtGWa34IrBg919CpYhgD34qWdRLqH9BCtAL8enQ,True,98.0,42.0
+90,Round Robin Matchups,Dougherty Valley B,Mira Loma B,5.0,Round Robin,F,DWINELLE 263,1K_2idOdGrMpnvplfk02FqmQmSPJmQkCU0H93U3paXQY,True,16.0,42.0
+91,DE Matchups,Mission San Jose A,American A,6.0,DE,,DWIN 204,1xAO7D4k3t-kOgDoEZVcaHIT0iepb87KSX8al_gb0vBQ,True,102.0,44.0
+92,DE Matchups,Mira Loma A,Lynbrook C,6.0,DE,,DWIN 206,1VL4Trzq_Ee1Doo1KQqegBYGol4P3ja-WMnc9RVC30tk,True,132.0,54.0
+93,DE Matchups,North Hollywood,Monta Vista A,6.0,DE,,DWIN 209,14c7rNpHRE7QAV47vrLIu0rnyB4joO5F21D3U5L-myYk,True,202.0,26.0
+94,DE Matchups,Lynbrook B,Amador Valley A,6.0,DE,,DWIN 210,1QpvMNOiIkmgvk2N6ECcuzbVyqxsB-RRL2ogcI5p2n9Y,True,58.0,130.0
+95,DE Matchups,Canyon Crest A,Dougherty Valley A,6.0,DE,,DWIN 215,1V5G8kCbWKUcuQWPhgDUDQxZcNPpm3-BGUhxKzOTcckw,True,156.0,68.0
+96,DE Matchups,Mission San Jose B,Saratoga,6.0,DE,,DWIN 246,1MrFDHgvkkxGDWfaEirfcrJEFLSt5Gkcskqz-IMp4JO0,True,132.0,72.0
+97,DE Matchups,Cupertino A,Saint Francis,6.0,DE,,DWIN 262,1LJ8SVNYUzxq0smuyjYLR3_nx2Y4XVM7h4dYv_pJgQps,True,112.0,62.0
+98,DE Matchups,BASIS Independent A,Lynbrook A,6.0,DE,,DWIN 263,1kmzuVxOmFZpUXYzkGn2G6mm-pvA403cuwrlCdJbE7s4,True,74.0,110.0
+99,DE Matchups,Mission San Jose A,Mira Loma A,7.0,DE,,DWIN 204,13Sk6Orm6TmyW_Jg_T1uKpnqPGsmx0Ac-D90yHNPMWuc,True,78.0,70.0
+100,DE Matchups,North Hollywood,Amador Valley A,7.0,DE,,DWIN 209,1mc6Mduw8Ru_bOx4xMmxPeCQY6X4K3BXvWyC9059uUyo,True,136.0,66.0
+101,DE Matchups,Canyon Crest A,Mission San Jose B,7.0,DE,,DWIN 215,192QIh_vES9fMd-BBwiQbJ_xC-WBcaJF2hUNGaqlK3Fg,True,86.0,76.0
+102,DE Matchups,Cupertino A,Lynbrook A,7.0,DE,,DWIN 262,1fYqb1aZRIRRp0CA5qwfiUNcwaw5FT6-7SuOr_tZaI_E,True,54.0,126.0
+103,DE Matchups,American A,Lynbrook C,7.0,DE,,DWIN 206,1SB8AdwIdxu10B3-mJv9Ke3n6LD_qVdAmWK7KkcmN4TM,True,24.0,20.0
+104,DE Matchups,Monta Vista A,Lynbrook B,7.0,DE,,DWIN 210,10BfzYI-BgFuNcqzcP7jb545hMG5hpz7ZNDCA5RHyVIo,True,88.0,76.0
+105,DE Matchups,Dougherty Valley A,Saratoga,7.0,DE,,DWIN 246,1nxKZ_ROWX69k0Ugl40h7rucE6CmhHA8OwhtLfU84HF0,True,70.0,68.0
+106,DE Matchups,Saint Francis,BASIS Independent A,7.0,DE,,DWIN 263,1_26X9Mg_QpQcRftnZvBoNsLX6CIqIFhn8SFlY9XAW4Y,True,76.0,88.0
+107,DE Matchups,Mira Loma A,American A,8.0,DE,,DWIN 206,1WB9O1I7CEpPdSFrvldwcdin8uQBrHPdUWJByH9UsOxk,True,94.0,40.0
+108,DE Matchups,Amador Valley A,Monta Vista A,8.0,DE,,DWIN 210,1KhyE-D9u3rew9LJKvazW1py5uIQgEBuMDATwQ-SiNdY,True,144.0,40.0
+109,DE Matchups,Mission San Jose B,Dougherty Valley A,8.0,DE,,DWIN 246,1bilHOAuaOBfJ9t1Y--aSissc_mJO-x4KpoqCyAv2Y3k,True,88.0,56.0
+110,DE Matchups,Cupertino A,BASIS Independent A,8.0,DE,,DWIN 263,1zd6VJAS8sSB6x-7xVu4PnUtOMxPirec8GHj8rVrTQHg,True,90.0,40.0
+111,DE Matchups,Mission San Jose A,North Hollywood,9.0,DE,,Tan 775A,1koqsigNIXYyt_pMQBoenqOb2vHSMRN9M5l-8rkBfJNQ,True,102.0,72.0
+112,DE Matchups,Canyon Crest A,Lynbrook A,9.0,DE,,Tan 775B,1xAitXjKETFZt4YZLpXqsSYUVYubyKJBvykUQ5AJaqEo,True,94.0,92.0
+113,DE Matchups,Mira Loma A,Amador Valley A,9.0,DE,,North Bixby,1mk1-47zHolb6dR5JZsymOC-RndlkkYxQ-ph3GBbyvMY,True,154.0,18.0
+114,DE Matchups,Mission San Jose B,Cupertino A,9.0,DE,,Peer Tutoring,1xxz81TFVUQUwz9JpKrOczFY5rkRPqgdKT5Uqvu6uI5c,True,38.0,106.0
+115,DE Matchups,North Hollywood,Mira Loma A,10.0,DE,,Tan 775A,1NAjd0OtTV4J7x-BIisgCXCq7I-OVCupu_AgaEaaZZHk,True,94.0,66.0
+116,DE Matchups,Lynbrook A,Cupertino A,10.0,DE,,Tan 775B,1YtHoWuQoSLtXj2mcDecJR2remU2eqtZktCGiTP_6yBs,True,62.0,98.0
+117,DE Matchups,Mission San Jose A,Canyon Crest A,11.0,DE,,Pimentel,1k9edg0ARzP87nJqHJeO5xaPLEGMs6XaBQnRw7BntzYw,True,102.0,40.0
+118,DE Matchups,North Hollywood,Cupertino A,11.0,DE,,Tan 775B,1BuUHm7iOHt14Lq2bqIE0_P45dY75ZSbbS34EQnZ0qxw,True,114.0,36.0
+119,DE Matchups,Canyon Crest A,North Hollywood,12.0,DE,,Pimentel,1w7rF4SMZSia8x1LGKR9H0h1loAJD2VpB_NOoHSPCmA4,True,20.0,90.0
+120,DE Matchups,Mission San Jose A,North Hollywood,13.0,DE,,Pimentel,1hTLK1BzFw9VqXFjNm5q0_S7LnUqHIDSjsyr6Be4txqs,True,42.0,58.0
+121,DE Matchups,North Hollywood,Mission San Jose A,14.0,DE,,Pimentel,11Nn0P0OVDWeaiQQxCsgaF01bvdg1RYpkz0a6WF2rkVg,False,,

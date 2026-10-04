@@ -1,0 +1,301 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+g1,Cypress Ranch High School A,biology,32,12,20,3,0
+g1,Cypress Ranch High School A,chemistry,0,0,0,0,0
+g1,Cypress Ranch High School A,ess,14,4,10,1,0
+g1,Cypress Ranch High School A,energy,14,4,10,1,1
+g1,Cypress Ranch High School A,math,0,0,0,0,0
+g1,Cypress Ranch High School A,physics,4,4,0,1,0
+g1,The Westminster Schools A,biology,0,0,0,0,0
+g1,The Westminster Schools A,chemistry,32,12,20,3,0
+g1,The Westminster Schools A,ess,42,12,30,3,0
+g1,The Westminster Schools A,energy,14,4,10,1,0
+g1,The Westminster Schools A,math,28,8,20,2,0
+g1,The Westminster Schools A,physics,28,8,20,2,0
+g2,Dulles High School B,biology,12,12,0,3,0
+g2,Dulles High School B,chemistry,42,12,30,3,0
+g2,Dulles High School B,ess,42,12,30,3,0
+g2,Dulles High School B,energy,14,4,10,1,0
+g2,Dulles High School B,math,28,8,20,2,0
+g2,Dulles High School B,physics,28,8,20,2,1
+g2,Strake Jesuit College Preparatory A,biology,0,0,0,0,0
+g2,Strake Jesuit College Preparatory A,chemistry,4,4,0,1,0
+g2,Strake Jesuit College Preparatory A,ess,14,4,10,1,0
+g2,Strake Jesuit College Preparatory A,energy,4,4,0,1,0
+g2,Strake Jesuit College Preparatory A,math,0,0,0,0,0
+g2,Strake Jesuit College Preparatory A,physics,0,0,0,0,0
+g3,Cypress Ranch High School B,biology,18,8,10,2,0
+g3,Cypress Ranch High School B,chemistry,0,0,0,0,0
+g3,Cypress Ranch High School B,ess,4,4,0,1,0
+g3,Cypress Ranch High School B,energy,0,0,0,0,0
+g3,Cypress Ranch High School B,math,0,0,0,0,1
+g3,Cypress Ranch High School B,physics,0,0,0,0,0
+g3,Dulles High School A,biology,14,4,10,1,2
+g3,Dulles High School A,chemistry,28,8,20,2,0
+g3,Dulles High School A,ess,14,4,10,1,2
+g3,Dulles High School A,energy,14,4,10,1,1
+g3,Dulles High School A,math,42,12,30,3,0
+g3,Dulles High School A,physics,32,12,20,3,0
+g4,Elkins High School A,biology,28,8,20,2,0
+g4,Elkins High School A,chemistry,28,8,20,2,1
+g4,Elkins High School A,ess,28,8,20,2,0
+g4,Elkins High School A,energy,18,8,10,2,0
+g4,Elkins High School A,math,14,4,10,1,1
+g4,Elkins High School A,physics,18,8,10,2,0
+g4,Plano West Senior High School A,biology,14,4,10,1,2
+g4,Plano West Senior High School A,chemistry,14,4,10,1,0
+g4,Plano West Senior High School A,ess,14,4,10,1,0
+g4,Plano West Senior High School A,energy,0,0,0,0,1
+g4,Plano West Senior High School A,math,14,4,10,1,0
+g4,Plano West Senior High School A,physics,14,4,10,1,0
+g5,Liberal Arts and Sciences Academy A,biology,28,8,20,2,0
+g5,Liberal Arts and Sciences Academy A,chemistry,0,0,0,0,0
+g5,Liberal Arts and Sciences Academy A,ess,8,8,0,2,0
+g5,Liberal Arts and Sciences Academy A,energy,0,0,0,0,0
+g5,Liberal Arts and Sciences Academy A,math,0,0,0,0,0
+g5,Liberal Arts and Sciences Academy A,physics,0,0,0,0,0
+g5,The Westminster Schools B,biology,14,4,10,1,0
+g5,The Westminster Schools B,chemistry,14,4,10,1,0
+g5,The Westminster Schools B,ess,28,8,20,2,0
+g5,The Westminster Schools B,energy,18,8,10,2,0
+g5,The Westminster Schools B,math,18,8,10,2,0
+g5,The Westminster Schools B,physics,22,12,10,3,0
+g6,Clements High School A,biology,0,0,0,0,0
+g6,Clements High School A,chemistry,28,8,20,2,0
+g6,Clements High School A,ess,32,12,20,3,1
+g6,Clements High School A,energy,28,8,20,2,0
+g6,Clements High School A,math,18,8,10,2,0
+g6,Clements High School A,physics,4,4,0,1,0
+g6,The Westminster Schools A,biology,56,16,40,4,0
+g6,The Westminster Schools A,chemistry,28,8,20,2,0
+g6,The Westminster Schools A,ess,0,0,0,0,0
+g6,The Westminster Schools A,energy,0,0,0,0,0
+g6,The Westminster Schools A,math,0,0,0,0,0
+g6,The Westminster Schools A,physics,8,8,0,2,0
+g7,Cypress Ranch High School A,biology,4,4,0,1,0
+g7,Cypress Ranch High School A,chemistry,4,4,0,1,0
+g7,Cypress Ranch High School A,ess,4,4,0,1,0
+g7,Cypress Ranch High School A,energy,0,0,0,0,0
+g7,Cypress Ranch High School A,math,4,4,0,1,0
+g7,Cypress Ranch High School A,physics,0,0,0,0,0
+g7,Dulles High School B,biology,32,12,20,3,0
+g7,Dulles High School B,chemistry,18,8,10,2,0
+g7,Dulles High School B,ess,14,4,10,1,0
+g7,Dulles High School B,energy,18,8,10,2,0
+g7,Dulles High School B,math,18,8,10,2,0
+g7,Dulles High School B,physics,4,4,0,1,0
+g8,Cypress Ranch High School B,biology,0,0,0,0,0
+g8,Cypress Ranch High School B,chemistry,0,0,0,0,0
+g8,Cypress Ranch High School B,ess,0,0,0,0,0
+g8,Cypress Ranch High School B,energy,0,0,0,0,0
+g8,Cypress Ranch High School B,math,4,4,0,1,0
+g8,Cypress Ranch High School B,physics,14,4,10,1,0
+g8,Plano West Senior High School A,biology,28,8,20,2,0
+g8,Plano West Senior High School A,chemistry,56,16,40,4,0
+g8,Plano West Senior High School A,ess,28,8,20,2,1
+g8,Plano West Senior High School A,energy,18,8,10,2,0
+g8,Plano West Senior High School A,math,14,4,10,1,1
+g8,Plano West Senior High School A,physics,22,12,10,3,1
+g9,Dulles High School A,biology,28,8,20,2,2
+g9,Dulles High School A,chemistry,28,8,20,2,1
+g9,Dulles High School A,ess,28,8,20,2,1
+g9,Dulles High School A,energy,14,4,10,1,0
+g9,Dulles High School A,math,0,0,0,0,0
+g9,Dulles High School A,physics,22,12,10,3,0
+g9,The Westminster Schools B,biology,14,4,10,1,0
+g9,The Westminster Schools B,chemistry,0,0,0,0,0
+g9,The Westminster Schools B,ess,14,4,10,1,1
+g9,The Westminster Schools B,energy,0,0,0,0,0
+g9,The Westminster Schools B,math,42,12,30,3,0
+g9,The Westminster Schools B,physics,0,0,0,0,1
+g10,Elkins High School A,biology,36,16,20,4,0
+g10,Elkins High School A,chemistry,18,8,10,2,0
+g10,Elkins High School A,ess,42,12,30,3,0
+g10,Elkins High School A,energy,4,4,0,1,0
+g10,Elkins High School A,math,4,4,0,1,0
+g10,Elkins High School A,physics,18,8,10,2,0
+g10,Liberal Arts and Sciences Academy A,biology,0,0,0,0,0
+g10,Liberal Arts and Sciences Academy A,chemistry,4,4,0,1,0
+g10,Liberal Arts and Sciences Academy A,ess,0,0,0,0,0
+g10,Liberal Arts and Sciences Academy A,energy,0,0,0,0,1
+g10,Liberal Arts and Sciences Academy A,math,0,0,0,0,0
+g10,Liberal Arts and Sciences Academy A,physics,0,0,0,0,0
+g11,Clements High School A,biology,22,12,10,3,0
+g11,Clements High School A,chemistry,42,12,30,3,0
+g11,Clements High School A,ess,32,12,20,3,0
+g11,Clements High School A,energy,0,0,0,0,3
+g11,Clements High School A,math,0,0,0,0,0
+g11,Clements High School A,physics,4,4,0,1,1
+g11,Dulles High School B,biology,4,4,0,1,0
+g11,Dulles High School B,chemistry,0,0,0,0,0
+g11,Dulles High School B,ess,0,0,0,0,0
+g11,Dulles High School B,energy,8,8,0,2,0
+g11,Dulles High School B,math,22,12,10,3,1
+g11,Dulles High School B,physics,14,4,10,1,1
+g12,Cypress Ranch High School A,biology,8,8,0,2,0
+g12,Cypress Ranch High School A,chemistry,0,0,0,0,0
+g12,Cypress Ranch High School A,ess,14,4,10,1,0
+g12,Cypress Ranch High School A,energy,0,0,0,0,0
+g12,Cypress Ranch High School A,math,0,0,0,0,0
+g12,Cypress Ranch High School A,physics,0,0,0,0,0
+g12,Strake Jesuit College Preparatory A,biology,8,8,0,2,0
+g12,Strake Jesuit College Preparatory A,chemistry,22,12,10,3,0
+g12,Strake Jesuit College Preparatory A,ess,8,8,0,2,0
+g12,Strake Jesuit College Preparatory A,energy,4,4,0,1,0
+g12,Strake Jesuit College Preparatory A,math,22,12,10,3,0
+g12,Strake Jesuit College Preparatory A,physics,4,4,0,1,0
+g13,Cypress Ranch High School B,biology,0,0,0,0,0
+g13,Cypress Ranch High School B,chemistry,4,4,0,1,0
+g13,Cypress Ranch High School B,ess,4,4,0,1,0
+g13,Cypress Ranch High School B,energy,0,0,0,0,0
+g13,Cypress Ranch High School B,math,0,0,0,0,0
+g13,Cypress Ranch High School B,physics,4,4,0,1,0
+g13,Liberal Arts and Sciences Academy A,biology,8,8,0,2,0
+g13,Liberal Arts and Sciences Academy A,chemistry,14,4,10,1,1
+g13,Liberal Arts and Sciences Academy A,ess,8,8,0,2,0
+g13,Liberal Arts and Sciences Academy A,energy,0,0,0,0,0
+g13,Liberal Arts and Sciences Academy A,math,18,8,10,2,0
+g13,Liberal Arts and Sciences Academy A,physics,14,4,10,1,0
+g14,Dulles High School A,biology,0,0,0,0,0
+g14,Dulles High School A,chemistry,14,4,10,1,0
+g14,Dulles High School A,ess,14,4,10,1,1
+g14,Dulles High School A,energy,8,8,0,2,0
+g14,Dulles High School A,math,32,12,20,3,0
+g14,Dulles High School A,physics,32,12,20,3,0
+g14,Plano West Senior High School A,biology,36,16,20,4,0
+g14,Plano West Senior High School A,chemistry,14,4,10,1,0
+g14,Plano West Senior High School A,ess,18,8,10,2,0
+g14,Plano West Senior High School A,energy,4,4,0,1,0
+g14,Plano West Senior High School A,math,0,0,0,0,2
+g14,Plano West Senior High School A,physics,0,0,0,0,1
+g15,Elkins High School A,biology,14,4,10,1,0
+g15,Elkins High School A,chemistry,28,8,20,2,1
+g15,Elkins High School A,ess,18,8,10,2,0
+g15,Elkins High School A,energy,18,8,10,2,1
+g15,Elkins High School A,math,18,8,10,2,0
+g15,Elkins High School A,physics,18,8,10,2,1
+g15,The Westminster Schools B,biology,32,12,20,3,0
+g15,The Westminster Schools B,chemistry,0,0,0,0,0
+g15,The Westminster Schools B,ess,14,4,10,1,0
+g15,The Westminster Schools B,energy,0,0,0,0,0
+g15,The Westminster Schools B,math,4,4,0,1,0
+g15,The Westminster Schools B,physics,0,0,0,0,1
+g16,Clements High School A,biology,46,16,30,4,0
+g16,Clements High School A,chemistry,18,8,10,2,0
+g16,Clements High School A,ess,42,12,30,3,0
+g16,Clements High School A,energy,22,12,10,3,0
+g16,Clements High School A,math,4,4,0,1,0
+g16,Clements High School A,physics,22,12,10,3,0
+g16,Cypress Ranch High School A,biology,0,0,0,0,0
+g16,Cypress Ranch High School A,chemistry,0,0,0,0,0
+g16,Cypress Ranch High School A,ess,0,0,0,0,0
+g16,Cypress Ranch High School A,energy,0,0,0,0,1
+g16,Cypress Ranch High School A,math,18,8,10,2,0
+g16,Cypress Ranch High School A,physics,0,0,0,0,0
+g17,Strake Jesuit College Preparatory A,biology,0,0,0,0,0
+g17,Strake Jesuit College Preparatory A,chemistry,0,0,0,0,0
+g17,Strake Jesuit College Preparatory A,ess,14,4,10,1,0
+g17,Strake Jesuit College Preparatory A,energy,14,4,10,1,0
+g17,Strake Jesuit College Preparatory A,math,0,0,0,0,0
+g17,Strake Jesuit College Preparatory A,physics,0,0,0,0,0
+g17,The Westminster Schools A,biology,32,12,20,3,0
+g17,The Westminster Schools A,chemistry,18,8,10,2,0
+g17,The Westminster Schools A,ess,8,8,0,2,0
+g17,The Westminster Schools A,energy,28,8,20,2,0
+g17,The Westminster Schools A,math,32,12,20,3,0
+g17,The Westminster Schools A,physics,12,12,0,3,0
+g18,Cypress Ranch High School B,biology,0,0,0,0,0
+g18,Cypress Ranch High School B,chemistry,0,0,0,0,0
+g18,Cypress Ranch High School B,ess,0,0,0,0,0
+g18,Cypress Ranch High School B,energy,0,0,0,0,1
+g18,Cypress Ranch High School B,math,0,0,0,0,1
+g18,Cypress Ranch High School B,physics,4,4,0,1,0
+g18,The Westminster Schools B,biology,8,8,0,2,0
+g18,The Westminster Schools B,chemistry,12,12,0,3,0
+g18,The Westminster Schools B,ess,32,12,20,3,0
+g18,The Westminster Schools B,energy,4,4,0,1,1
+g18,The Westminster Schools B,math,18,8,10,2,1
+g18,The Westminster Schools B,physics,8,8,0,2,1
+g19,Dulles High School A,biology,18,8,10,2,1
+g19,Dulles High School A,chemistry,14,4,10,1,1
+g19,Dulles High School A,ess,14,4,10,1,0
+g19,Dulles High School A,energy,28,8,20,2,0
+g19,Dulles High School A,math,18,8,10,2,0
+g19,Dulles High School A,physics,14,4,10,1,0
+g19,Elkins High School A,biology,18,8,10,2,2
+g19,Elkins High School A,chemistry,8,8,0,2,0
+g19,Elkins High School A,ess,28,8,20,2,0
+g19,Elkins High School A,energy,14,4,10,1,0
+g19,Elkins High School A,math,4,4,0,1,0
+g19,Elkins High School A,physics,28,8,20,2,0
+g20,Liberal Arts and Sciences Academy A,biology,0,0,0,0,0
+g20,Liberal Arts and Sciences Academy A,chemistry,4,4,0,1,0
+g20,Liberal Arts and Sciences Academy A,ess,0,0,0,0,0
+g20,Liberal Arts and Sciences Academy A,energy,4,4,0,1,0
+g20,Liberal Arts and Sciences Academy A,math,4,4,0,1,0
+g20,Liberal Arts and Sciences Academy A,physics,4,4,0,1,0
+g20,Plano West Senior High School A,biology,12,12,0,3,0
+g20,Plano West Senior High School A,chemistry,14,4,10,1,2
+g20,Plano West Senior High School A,ess,28,8,20,2,0
+g20,Plano West Senior High School A,energy,18,8,10,2,0
+g20,Plano West Senior High School A,math,18,8,10,2,1
+g20,Plano West Senior High School A,physics,18,8,10,2,0
+g21,Clements High School A,biology,18,8,10,2,1
+g21,Clements High School A,chemistry,18,8,10,2,2
+g21,Clements High School A,ess,32,12,20,3,0
+g21,Clements High School A,energy,32,12,20,3,0
+g21,Clements High School A,math,32,12,20,3,0
+g21,Clements High School A,physics,18,8,10,2,0
+g21,Strake Jesuit College Preparatory A,biology,18,8,10,2,0
+g21,Strake Jesuit College Preparatory A,chemistry,0,0,0,0,0
+g21,Strake Jesuit College Preparatory A,ess,0,0,0,0,0
+g21,Strake Jesuit College Preparatory A,energy,0,0,0,0,0
+g21,Strake Jesuit College Preparatory A,math,0,0,0,0,0
+g21,Strake Jesuit College Preparatory A,physics,14,4,10,1,0
+g22,Dulles High School B,biology,14,4,10,1,1
+g22,Dulles High School B,chemistry,32,12,20,3,1
+g22,Dulles High School B,ess,14,4,10,1,1
+g22,Dulles High School B,energy,18,8,10,2,0
+g22,Dulles High School B,math,0,0,0,0,0
+g22,Dulles High School B,physics,0,0,0,0,1
+g22,The Westminster Schools A,biology,42,12,30,3,0
+g22,The Westminster Schools A,chemistry,0,0,0,0,1
+g22,The Westminster Schools A,ess,28,8,20,2,0
+g22,The Westminster Schools A,energy,0,0,0,0,0
+g22,The Westminster Schools A,math,12,12,0,3,0
+g22,The Westminster Schools A,physics,14,4,10,1,0
+g23,Cypress Ranch High School B,biology,4,4,0,1,0
+g23,Cypress Ranch High School B,chemistry,14,4,10,1,0
+g23,Cypress Ranch High School B,ess,0,0,0,0,0
+g23,Cypress Ranch High School B,energy,0,0,0,0,0
+g23,Cypress Ranch High School B,math,4,4,0,1,0
+g23,Cypress Ranch High School B,physics,0,0,0,0,0
+g23,Elkins High School A,biology,18,8,10,2,1
+g23,Elkins High School A,chemistry,22,12,10,3,1
+g23,Elkins High School A,ess,36,16,20,4,0
+g23,Elkins High School A,energy,32,12,20,3,0
+g23,Elkins High School A,math,18,8,10,2,1
+g23,Elkins High School A,physics,28,8,20,2,1
+g24,Dulles High School A,biology,56,16,40,4,0
+g24,Dulles High School A,chemistry,42,12,30,3,1
+g24,Dulles High School A,ess,14,4,10,1,1
+g24,Dulles High School A,energy,14,4,10,1,1
+g24,Dulles High School A,math,28,8,20,2,0
+g24,Dulles High School A,physics,28,8,20,2,0
+g24,Liberal Arts and Sciences Academy A,biology,0,0,0,0,0
+g24,Liberal Arts and Sciences Academy A,chemistry,4,4,0,1,0
+g24,Liberal Arts and Sciences Academy A,ess,8,8,0,2,0
+g24,Liberal Arts and Sciences Academy A,energy,0,0,0,0,0
+g24,Liberal Arts and Sciences Academy A,math,0,0,0,0,0
+g24,Liberal Arts and Sciences Academy A,physics,4,4,0,1,0
+g25,Plano West Senior High School A,biology,28,8,20,2,0
+g25,Plano West Senior High School A,chemistry,8,8,0,2,0
+g25,Plano West Senior High School A,ess,14,4,10,1,0
+g25,Plano West Senior High School A,energy,18,8,10,2,0
+g25,Plano West Senior High School A,math,4,4,0,1,1
+g25,Plano West Senior High School A,physics,14,4,10,1,0
+g25,The Westminster Schools B,biology,4,4,0,1,1
+g25,The Westminster Schools B,chemistry,4,4,0,1,1
+g25,The Westminster Schools B,ess,18,8,10,2,0
+g25,The Westminster Schools B,energy,4,4,0,1,0
+g25,The Westminster Schools B,math,8,8,0,2,0
+g25,The Westminster Schools B,physics,14,4,10,1,0

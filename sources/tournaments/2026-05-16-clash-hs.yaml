@@ -18,7 +18,16 @@ sources:
   sheet_id: 1GQqvdoboDMYjumBZN7ZrpmSbqKkllVvX2BFI_KrOtIU
   url: https://docs.google.com/spreadsheets/d/1GQqvdoboDMYjumBZN7ZrpmSbqKkllVvX2BFI_KrOtIU/edit?gid=144854460#gid=144854460
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_misc:parse_clash
+parser_options:
+  aliases:
+    Arcardia A: Arcadia A
+    Re2remenet Home: Re2rement Home
+    MAAOOC: MAAOC
+    Gargy Bony: Gargy Bomy
+    Palo Alto A: Palo Alto
+    Chattahoochee: Chattahoochee A
+  champion: Law Abiding Citizens
+status: parsed
+notes: 'HS division only (MS tabs ignored): 48 teams in 8 pools (rounds from RR Schedule) plus a 47-game DE/SE bracket (Law
+  Abiding Citizens beat School of Geology in both finals). The source has no player stats.'

@@ -2,7 +2,7 @@ id: 2026-09-20-hawaii-science-bowl-tournament
 name: Hawaii Science Bowl Tournament
 date: '2026-09-20'
 end_date: null
-season: 2025-26
+season: 2026-27
 location: Online
 online: true
 division: HS
@@ -18,7 +18,13 @@ sources:
   sheet_id: 1_qihojtDeHvx4BxIDk-cHwFIpYJxhkNmhFhZt-0H5eE
   url: https://docs.google.com/spreadsheets/d/1_qihojtDeHvx4BxIDk-cHwFIpYJxhkNmhFhZt-0H5eE/edit?gid=0#gid=0
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g5_hawaii:parse
+parser_options:
+  roster_tab: RR Bracket
+  bracket_tab: DE Bracket
+  final_columns: 1
+  rr_rounds: 5
+status: partial
+notes: Online. Only the double-elimination bracket has results (28 games through the losers' final; one game marked VOID skipped;
+  the final TMSA vs MSJ B has no result). The round-robin grid was never filled in; all 33 registered teams are listed, 17
+  of them without any recorded game (listed on purpose so every team appears). No stats.

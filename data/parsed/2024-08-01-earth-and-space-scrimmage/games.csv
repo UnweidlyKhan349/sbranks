@@ -1,0 +1,136 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Alexander D,Connor Z,20,52,2,0,Group 1
+g2,rr,RR2,2,Alexander D,Johnathan S,22,38,2,0,Group 1
+g3,rr,RR3,3,Alexander D,Minghao G,8,8,T,0,Group 1
+g4,rr,RR4,4,Alexander D,Samuel W,16,50,2,0,Group 1
+g5,rr,RR5,5,Alexander D,Shreyas E,20,60,2,0,Group 1
+g6,rr,RR3,3,Connor Z,Johnathan S,44,28,1,0,Group 1
+g7,rr,RR4,4,Connor Z,Minghao G,44,12,1,0,Group 1
+g8,rr,RR5,5,Connor Z,Samuel W,46,26,1,0,Group 1
+g9,rr,RR2,2,Connor Z,Shreyas E,56,52,1,0,Group 1
+g10,rr,RR5,5,Johnathan S,Minghao G,22,24,2,0,Group 1
+g11,rr,RR1,1,Johnathan S,Samuel W,30,40,2,0,Group 1
+g12,rr,RR4,4,Johnathan S,Shreyas E,22,64,2,0,Group 1
+g13,rr,RR2,2,Minghao G,Samuel W,12,40,2,0,Group 1
+g14,rr,RR1,1,Minghao G,Shreyas E,22,74,2,0,Group 1
+g15,rr,RR3,3,Samuel W,Shreyas E,14,62,2,0,Group 1
+g16,rr,RR1,1,Devesh A,Emily H,30,18,1,0,Group 2
+g17,rr,RR2,2,Devesh A,Jason Y,32,36,2,0,Group 2
+g18,rr,RR3,3,Devesh A,Mary P,46,10,1,0,Group 2
+g19,rr,RR4,4,Devesh A,Samarth J,40,24,1,0,Group 2
+g20,rr,RR5,5,Devesh A,Yale Z,18,60,2,0,Group 2
+g21,rr,RR3,3,Emily H,Jason Y,40,34,1,0,Group 2
+g22,rr,RR4,4,Emily H,Mary P,20,26,2,0,Group 2
+g23,rr,RR5,5,Emily H,Samarth J,36,16,1,0,Group 2
+g24,rr,RR2,2,Emily H,Yale Z,26,36,2,0,Group 2
+g25,rr,RR5,5,Jason Y,Mary P,32,8,1,0,Group 2
+g26,rr,RR1,1,Jason Y,Samarth J,26,14,1,0,Group 2
+g27,rr,RR4,4,Jason Y,Yale Z,42,54,2,0,Group 2
+g28,rr,RR2,2,Mary P,Samarth J,24,12,1,0,Group 2
+g29,rr,RR1,1,Mary P,Yale Z,4,62,2,0,Group 2
+g30,rr,RR3,3,Samarth J,Yale Z,18,68,2,0,Group 2
+g31,rr,RR1,1,Advai S,Charlotte C,72,12,1,0,Group 3
+g32,rr,RR2,2,Advai S,Edward J,52,12,1,0,Group 3
+g33,rr,RR3,3,Advai S,Flora J,44,66,2,0,Group 3
+g34,rr,RR4,4,Advai S,Kensuke O,72,24,1,0,Group 3
+g35,rr,RR5,5,Advai S,Malachi N,62,42,1,0,Group 3
+g36,rr,RR3,3,Charlotte C,Edward J,22,24,2,0,Group 3
+g37,rr,RR4,4,Charlotte C,Flora J,8,72,2,0,Group 3
+g38,rr,RR5,5,Charlotte C,Kensuke O,24,22,1,0,Group 3
+g39,rr,RR2,2,Charlotte C,Malachi N,18,56,2,0,Group 3
+g40,rr,RR5,5,Edward J,Flora J,8,52,2,0,Group 3
+g41,rr,RR1,1,Edward J,Kensuke O,4,44,2,0,Group 3
+g42,rr,RR4,4,Edward J,Malachi N,24,50,2,0,Group 3
+g43,rr,RR2,2,Flora J,Kensuke O,58,12,1,0,Group 3
+g44,rr,RR1,1,Flora J,Malachi N,64,34,1,0,Group 3
+g45,rr,RR3,3,Kensuke O,Malachi N,8,66,2,0,Group 3
+g46,rr,RR1,1,Allen F,Daniel L,40,26,1,0,Group 4
+g47,rr,RR2,2,Allen F,Ian C,42,42,T,0,Group 4
+g48,rr,RR3,3,Allen F,Nyles H,54,22,1,0,Group 4
+g49,rr,RR4,4,Allen F,Sophia X,36,20,1,0,Group 4
+g50,rr,RR5,5,Allen F,Vishnu M,26,64,2,0,Group 4
+g51,rr,RR3,3,Daniel L,Ian C,48,28,1,0,Group 4
+g52,rr,RR4,4,Daniel L,Nyles H,42,16,1,0,Group 4
+g53,rr,RR5,5,Daniel L,Sophia X,36,32,1,0,Group 4
+g54,rr,RR2,2,Daniel L,Vishnu M,22,64,2,0,Group 4
+g55,rr,RR5,5,Ian C,Nyles H,38,14,1,0,Group 4
+g56,rr,RR1,1,Ian C,Sophia X,48,16,1,0,Group 4
+g57,rr,RR4,4,Ian C,Vishnu M,32,48,2,0,Group 4
+g58,rr,RR2,2,Nyles H,Sophia X,8,20,2,0,Group 4
+g59,rr,RR1,1,Nyles H,Vishnu M,12,74,2,0,Group 4
+g60,rr,RR3,3,Sophia X,Vishnu M,22,76,2,0,Group 4
+g61,rr,RR1,1,Connor C,Jack F,60,18,1,0,Group 5
+g62,rr,RR2,2,Connor C,Jesse D,40,24,1,0,Group 5
+g63,rr,RR3,3,Connor C,Patrick S,40,28,1,0,Group 5
+g64,rr,RR4,4,Connor C,Rohan G,30,34,2,0,Group 5
+g65,rr,RR5,5,Connor C,Ryan E,50,36,1,0,Group 5
+g66,rr,RR3,3,Jack F,Jesse D,50,16,1,0,Group 5
+g67,rr,RR4,4,Jack F,Patrick S,46,16,1,0,Group 5
+g68,rr,RR5,5,Jack F,Rohan G,24,48,2,0,Group 5
+g69,rr,RR2,2,Jack F,Ryan E,18,54,2,0,Group 5
+g70,rr,RR5,5,Jesse D,Patrick S,20,54,2,0,Group 5
+g71,rr,RR1,1,Jesse D,Rohan G,12,46,2,0,Group 5
+g72,rr,RR4,4,Jesse D,Ryan E,4,70,2,0,Group 5
+g73,rr,RR2,2,Patrick S,Rohan G,16,46,2,0,Group 5
+g74,rr,RR1,1,Patrick S,Ryan E,30,50,2,0,Group 5
+g75,rr,RR3,3,Rohan G,Ryan E,26,70,2,0,Group 5
+g76,rr,RR1,1,Akhil B,Harry J,40,32,1,0,Group 6
+g77,rr,RR2,2,Akhil B,Osric D,22,46,2,0,Group 6
+g78,rr,RR3,3,Akhil B,Penelope S,50,26,1,0,Group 6
+g79,rr,RR4,4,Akhil B,Ryan C,32,40,2,0,Group 6
+g80,rr,RR5,5,Akhil B,Shreyas K,44,8,1,0,Group 6
+g81,rr,RR3,3,Harry J,Osric D,74,18,1,0,Group 6
+g82,rr,RR4,4,Harry J,Penelope S,0,26,2,0,Group 6
+g83,rr,RR5,5,Harry J,Ryan C,62,16,1,0,Group 6
+g84,rr,RR2,2,Harry J,Shreyas K,80,4,1,0,Group 6
+g85,rr,RR5,5,Osric D,Penelope S,20,24,2,0,Group 6
+g86,rr,RR1,1,Osric D,Ryan C,36,44,2,0,Group 6
+g87,rr,RR4,4,Osric D,Shreyas K,20,20,T,0,Group 6
+g88,rr,RR2,2,Penelope S,Ryan C,30,34,2,0,Group 6
+g89,rr,RR1,1,Penelope S,Shreyas K,30,20,1,0,Group 6
+g90,rr,RR3,3,Ryan C,Shreyas K,48,12,1,0,Group 6
+g91,rr,RR1,1,Alexander W,Dhruhi P,54,12,1,0,Group 7
+g92,rr,RR2,2,Alexander W,Isaiah S,24,34,2,0,Group 7
+g93,rr,RR3,3,Alexander W,Jianyu W,38,42,2,0,Group 7
+g94,rr,RR4,4,Alexander W,Shashank V,68,8,1,0,Group 7
+g95,rr,RR5,5,Alexander W,Suzuko O,36,60,2,0,Group 7
+g96,rr,RR3,3,Dhruhi P,Isaiah S,0,28,2,0,Group 7
+g97,rr,RR4,4,Dhruhi P,Jianyu W,12,40,2,0,Group 7
+g98,rr,RR5,5,Dhruhi P,Shashank V,24,22,1,0,Group 7
+g99,rr,RR2,2,Dhruhi P,Suzuko O,8,46,2,0,Group 7
+g100,rr,RR5,5,Isaiah S,Jianyu W,24,48,2,0,Group 7
+g101,rr,RR1,1,Isaiah S,Shashank V,42,4,1,0,Group 7
+g102,rr,RR4,4,Isaiah S,Suzuko O,34,32,1,0,Group 7
+g103,rr,RR2,2,Jianyu W,Shashank V,38,16,1,0,Group 7
+g104,rr,RR1,1,Jianyu W,Suzuko O,38,56,2,0,Group 7
+g105,rr,RR3,3,Shashank V,Suzuko O,16,64,2,0,Group 7
+g106,rr,RR1,1,Advik S,Aldric B,4,74,2,0,Group 8
+g107,rr,RR2,2,Advik S,Alex Z,8,32,2,0,Group 8
+g108,rr,RR3,3,Advik S,Ritwik A,20,36,2,0,Group 8
+g109,rr,RR4,4,Advik S,Roshan A,4,74,2,0,Group 8
+g110,rr,RR5,5,Advik S,Zack Z,8,22,2,0,Group 8
+g111,rr,RR3,3,Aldric B,Alex Z,76,16,1,0,Group 8
+g112,rr,RR4,4,Aldric B,Ritwik A,80,8,1,0,Group 8
+g113,rr,RR5,5,Aldric B,Roshan A,28,72,2,0,Group 8
+g114,rr,RR2,2,Aldric B,Zack Z,80,10,1,0,Group 8
+g115,rr,RR5,5,Alex Z,Ritwik A,40,22,1,0,Group 8
+g116,rr,RR1,1,Alex Z,Roshan A,32,70,2,0,Group 8
+g117,rr,RR4,4,Alex Z,Zack Z,48,20,1,0,Group 8
+g118,rr,RR2,2,Ritwik A,Roshan A,34,74,2,0,Group 8
+g119,rr,RR1,1,Ritwik A,Zack Z,44,38,1,0,Group 8
+g120,rr,RR3,3,Roshan A,Zack Z,86,26,1,0,Group 8
+g121,playoff,SE 1.1,6,Vishnu M,Jason Y,60,26,1,0,game 1
+g122,playoff,SE 1.1,6,Ryan C,Aldric B,62,36,1,0,game 2
+g123,playoff,SE 1.1,6,Connor Z,Connor C,1,0,1,1,game 3; 1-0: treated as forfeit
+g124,playoff,SE 1.1,6,Flora J,Jianyu W,90,20,1,0,game 4
+g125,playoff,SE 1.2,7,Yale Z,Allen F,86,46,1,0,game 5
+g126,playoff,SE 1.2,7,Ryan E,Advai S,32,78,2,0,game 6
+g127,playoff,SE 1.2,7,Suzuko O,Shreyas E,34,98,2,0,game 7
+g128,playoff,SE 1.2,7,Roshan A,Harry J,68,54,1,0,game 8
+g129,playoff,SE 2,8,Vishnu M,Ryan C,32,44,2,0,game 9
+g130,playoff,SE 2,8,Connor Z,Flora J,62,52,1,0,game 10
+g131,playoff,SE 2,8,Yale Z,Advai S,66,48,1,0,game 11
+g132,playoff,SE 2,8,Shreyas E,Roshan A,62,60,1,0,game 12
+g133,playoff,SE 3,9,Ryan C,Connor Z,28,22,1,0,game 13
+g134,playoff,SE 3,9,Yale Z,Shreyas E,34,64,2,0,game 14
+g135,playoff,SE 4,10,Ryan C,Shreyas E,40,26,1,0,game 15

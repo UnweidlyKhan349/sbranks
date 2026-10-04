@@ -1,0 +1,26 @@
+{
+  "tournament_id": "2026-02-15-lexington-biology-bowl",
+  "counts": {
+    "teams": 18,
+    "games": 58,
+    "games_with_scores": 50,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "RR5: BioBattalion vs Olympiad Farmers - both teams absent (0-0); skipped",
+    "bracket: col 25 Caudates vs lampreys: no scores and no winner; skipped"
+  ],
+  "parser": "g7_misc:parse_lexington_bio"
+}

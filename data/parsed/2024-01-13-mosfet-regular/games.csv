@@ -1,0 +1,56 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+RR1-Ac-1,rr,RR1,1,James Clemens,Coral Academy A,110,52,1,0,"Actinium Division, room Ac-1"
+RR1-Ac-2,rr,RR1,1,Greenhills B,Van Nuys,68,66,1,0,"Actinium Division, room Ac-2"
+RR1-Ba-3,rr,RR1,1,Bishop's,Coral Academy B,80,30,1,0,"Barium Division, room Ba-3"
+RR1-Ba-4,rr,RR1,1,Archbishop Mitty,Beckman,122,34,1,0,"Barium Division, room Ba-4"
+RR1-Ce-5,rr,RR1,1,Middleton,Lindbergh A,54,102,2,0,"Cerium Division, room Ce-5"
+RR1-Ce-6,rr,RR1,1,Hamilton,IMSA B,156,26,1,0,"Cerium Division, room Ce-6"
+RR1-Dy-7,rr,RR1,1,Del Norte,Lindbergh B,96,26,1,0,"Dysprosium Division, room Dy-7"
+RR1-Dy-8,rr,RR1,1,Greenhills A,IMSA A,54,66,2,0,"Dysprosium Division, room Dy-8"
+RR2-Ac-1,rr,RR2,2,James Clemens,Greenhills B,154,22,1,0,"Actinium Division, room Ac-1"
+RR2-Ac-2,rr,RR2,2,Coral Academy A,Van Nuys,94,78,1,0,"Actinium Division, room Ac-2"
+RR2-Ba-3,rr,RR2,2,Bishop's,Archbishop Mitty,40,152,2,0,"Barium Division, room Ba-3"
+RR2-Ba-4,rr,RR2,2,Coral Academy B,Beckman,48,86,2,0,"Barium Division, room Ba-4"
+RR2-Ce-5,rr,RR2,2,Middleton,Hamilton,40,120,2,0,"Cerium Division, room Ce-5"
+RR2-Ce-6,rr,RR2,2,Lindbergh A,IMSA B,176,22,1,0,"Cerium Division, room Ce-6"
+RR2-Dy-7,rr,RR2,2,Del Norte,Greenhills A,86,86,T,0,"Dysprosium Division, room Dy-7"
+RR2-Dy-8,rr,RR2,2,Lindbergh B,IMSA A,66,126,2,0,"Dysprosium Division, room Dy-8"
+RR3-Ac-1,rr,RR3,3,James Clemens,Van Nuys,138,60,1,0,"Actinium Division, room Ac-1"
+RR3-Ac-2,rr,RR3,3,Coral Academy A,Greenhills B,136,18,1,0,"Actinium Division, room Ac-2"
+RR3-Ba-3,rr,RR3,3,Bishop's,Beckman,22,88,2,0,"Barium Division, room Ba-3"
+RR3-Ba-4,rr,RR3,3,Coral Academy B,Archbishop Mitty,18,78,2,0,"Barium Division, room Ba-4"
+RR3-Ce-5,rr,RR3,3,Lindbergh A,Hamilton,100,118,2,0,"Cerium Division, room Ce-5"
+RR3-Ce-6,rr,RR3,3,Middleton,IMSA B,94,12,1,0,"Cerium Division, room Ce-6"
+RR3-Dy-7,rr,RR3,3,Del Norte,IMSA A,106,90,1,0,"Dysprosium Division, room Dy-7"
+RR3-Dy-8,rr,RR3,3,Lindbergh B,Greenhills A,112,92,1,0,"Dysprosium Division, room Dy-8"
+de-A13,playoff,DE1,4,Del Norte,Greenhills A,,,2,0,
+de-A17,playoff,DE1,4,Lindbergh A,Greenhills B,,,1,0,
+de-A21,playoff,DE1,4,Archbishop Mitty,Van Nuys,,,1,0,
+de-A25,playoff,DE1,4,Coral Academy A,Bishop's,,,1,0,
+de-A29,playoff,DE1,4,Hamilton,Coral Academy B,,,1,0,
+de-A33,playoff,DE1,4,IMSA A,Middleton,,,1,0,
+de-A5,playoff,DE1,4,James Clemens,IMSA B,,,1,0,
+de-A9,playoff,DE1,4,Beckman,Lindbergh B,,,1,0,
+de-C15,playoff,DE2,5,Greenhills A,Lindbergh A,,,2,0,
+de-C23,playoff,DE2,5,Archbishop Mitty,Coral Academy A,,,1,0,
+de-C31,playoff,DE2,5,Hamilton,IMSA A,,,1,0,
+de-C40,playoff,DE2,5,IMSA B,Lindbergh B,,,2,0,
+de-C46,playoff,DE2,5,Del Norte,Greenhills B,,,1,0,
+de-C52,playoff,DE2,5,Van Nuys,Bishop's,,,1,0,
+de-C58,playoff,DE2,5,Coral Academy B,Middleton,,,1,0,
+de-C7,playoff,DE2,5,James Clemens,Beckman,,,1,0,
+de-F38,playoff,DE3,6,IMSA A,Lindbergh B,,,1,0,
+de-F44,playoff,DE3,6,Coral Academy A,Del Norte,,,2,0,
+de-F50,playoff,DE3,6,Greenhills A,Van Nuys,,,2,0,
+de-F56,playoff,DE3,6,Beckman,Coral Academy B,,,1,0,
+de-H11,playoff,DE4,7,James Clemens,Lindbergh A,,,2,0,
+de-H27,playoff,DE4,7,Archbishop Mitty,Hamilton,,,1,0,
+de-H42,playoff,DE4,7,IMSA A,Del Norte,,,1,0,
+de-H54,playoff,DE4,7,Van Nuys,Beckman,,,2,0,
+de-J39,playoff,DE5,8,James Clemens,IMSA A,,,1,0,
+de-J51,playoff,DE5,8,Hamilton,Beckman,,,1,0,
+de-L19,playoff,DE6,9,Lindbergh A,Archbishop Mitty,,,2,0,
+de-L45,playoff,DE6,9,James Clemens,Hamilton,,,1,0,
+de-N39,playoff,DE7,10,Lindbergh A,James Clemens,,,1,0,
+de-P21,playoff,Finals 1,11,Archbishop Mitty,Lindbergh A,,,2,0,
+F2,playoff,Finals 2,12,Archbishop Mitty,Lindbergh A,,,2,0,winner inferred from the bracket (not shown in the source)

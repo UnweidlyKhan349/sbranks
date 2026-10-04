@@ -1,0 +1,57 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,1,1,JP Stevens A,Arcadia B,54,118,2,0,division Aurum
+g2,rr,1,1,JP Stevens B,Lexington 1,110,124,2,0,division Bonnet
+g3,rr,1,1,Montessori,BRHS Team A,136,40,1,0,division Cardinal
+g4,rr,1,1,Temple City,Middleton Team 1,12,142,2,0,division Dogwood
+g5,rr,1,1,Miller A,VenLangLoma,62,94,2,0,division Dogwood
+g6,rr,1,1,Community Middle School,Arcadia A,70,72,2,0,division Emerald
+g7,rr,1,1,Mount Ellis,Brookfield A,150,14,1,0,division Emerald
+g8,rr,2,2,Arcadia B,INDIANS,150,4,1,0,division Aurum
+g9,rr,2,2,Pneumonia,Sheep B,78,78,T,0,division Bonnet
+g10,rr,2,2,Odle Middle School,Montessori,88,102,2,0,division Cardinal
+g11,rr,2,2,BRHS Team A,Dulles A,10,150,2,0,division Cardinal
+g12,rr,2,2,Temple City,Miller A,30,50,2,0,division Dogwood
+g13,rr,2,2,VenLangLoma,Green Hope,78,92,2,0,division Dogwood
+g14,rr,2,2,Community Middle School,Mount Ellis,16,148,2,0,division Emerald
+g15,rr,2,2,Brookfield A,BRHS Team B,112,16,1,0,division Emerald
+g16,rr,3,3,JP Stevens A,Iolani School,78,48,1,0,division Aurum
+g17,rr,3,3,JP Stevens B,Sheep B,82,68,1,0,division Bonnet
+g18,rr,3,3,Odle Middle School,Dulles A,32,150,2,0,division Cardinal
+g19,rr,3,3,Temple City,Green Hope,22,84,2,0,division Dogwood
+g20,rr,3,3,Miller A,Middleton Team 1,18,118,2,0,division Dogwood
+g21,rr,3,3,Community Middle School,BRHS Team B,60,0,1,0,division Emerald
+g22,rr,3,3,Mount Ellis,Arcadia A,86,50,1,0,division Emerald
+g23,rr,4,4,JP Stevens A,INDIANS,80,40,1,0,division Aurum
+g24,rr,4,4,Iolani School,Arcadia B,48,64,2,0,division Aurum
+g25,rr,4,4,Lexington 1,Pneumonia,58,78,2,0,division Bonnet
+g26,rr,4,4,Montessori,Dulles A,106,54,1,0,division Cardinal
+g27,rr,4,4,Miller A,Green Hope,32,138,2,0,division Dogwood
+g28,rr,4,4,Middleton Team 1,VenLangLoma,80,42,1,0,division Dogwood
+g29,rr,4,4,Mount Ellis,BRHS Team B,106,4,1,0,division Emerald
+g30,rr,4,4,Arcadia A,Brookfield A,36,94,2,0,division Emerald
+g31,rr,5,5,Iolani School,INDIANS,70,18,1,0,division Aurum
+g32,rr,5,5,JP Stevens B,Pneumonia,108,78,1,0,division Bonnet
+g33,rr,5,5,Lexington 1,Sheep B,96,26,1,0,division Bonnet
+g34,rr,5,5,Odle Middle School,BRHS Team A,72,46,1,0,division Cardinal
+g35,rr,5,5,Temple City,VenLangLoma,22,26,2,0,division Dogwood
+g36,rr,5,5,Middleton Team 1,Green Hope,80,106,2,0,division Dogwood
+g37,rr,5,5,Community Middle School,Brookfield A,26,98,2,0,division Emerald
+g38,rr,5,5,Arcadia A,BRHS Team B,36,26,1,0,division Emerald
+g39,playoff,DE WB Round 6,6,Mount Ellis,JP Stevens B,158,54,1,0,
+g40,playoff,DE WB Round 6,6,Arcadia B,Dulles A,8,174,2,0,
+g41,playoff,DE WB Round 6,6,Montessori,Brookfield A,64,46,1,0,
+g42,playoff,DE WB Round 6,6,Green Hope,JP Stevens A,96,20,1,0,
+g43,playoff,DE LB Round 7,7,JP Stevens B,Odle Middle School,68,66,1,0,
+g44,playoff,DE LB Round 7,7,Arcadia B,Middleton Team 1,48,16,1,0,
+g45,playoff,DE LB Round 7,7,Brookfield A,Lexington 1,68,54,1,0,
+g46,playoff,DE LB Round 7,7,JP Stevens A,Pneumonia,32,86,2,0,
+g47,playoff,DE LB Round 8,8,JP Stevens B,Arcadia B,,,2,1,"JP Stevens B forfeited (bracket: ""Forifiet"" / ""Default Win"")"
+g48,playoff,DE LB Round 8,8,Brookfield A,Pneumonia,72,26,1,0,
+g49,playoff,DE WB Round 8,8,Mount Ellis,Dulles A,58,68,2,0,score from the statistics sheet (missing on the bracket)
+g50,playoff,DE WB Round 8,8,Montessori,Green Hope,26,56,2,0,
+g51,playoff,DE LB Round 9,9,Mount Ellis,Arcadia B,124,4,1,0,
+g52,playoff,DE LB Round 9,9,Montessori,Brookfield A,92,54,1,0,
+g53,playoff,DE LB Round 10,10,Mount Ellis,Montessori,16,64,2,0,
+g54,playoff,DE WB Round 10,10,Dulles A,Green Hope,54,50,1,0,
+g55,playoff,DE LB Round 11,11,Green Hope,Montessori,,,1,0,winner from the bracket; score not reported
+g56,playoff,DE Final,12,Dulles A,Green Hope,78,50,1,0,

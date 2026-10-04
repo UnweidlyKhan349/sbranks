@@ -23,7 +23,331 @@ sources:
   sheet_id: 1hT1jeA3bsHjehk6PcDnzx_Do0kLxblt5_K4XCSmTDvQ
   url: https://docs.google.com/spreadsheets/d/1hT1jeA3bsHjehk6PcDnzx_Do0kLxblt5_K4XCSmTDvQ/edit#gid=659067696
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_esbot:parse_esbot23
+parser_options:
+  aliases:
+    Sodium hypobromite: Sodium Hypobromite
+    Buchholz: Buchholz A
+    Amador Valley A: Amador Valley 1
+  notes:
+    Crestview Middle: middle-school team entered in the high-school field
+    Hwite Bread A: Mira Loma pickup team name (roster matches Mira Loma A at Ignis @ Foothill)
+    Hwite Bread B: Mira Loma pickup team name
+  de_games:
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 2
+    - 2
+    - 3
+    b:
+    - 5
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 8
+    - 2
+    - 3
+    b:
+    - 11
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 14
+    - 2
+    - 3
+    b:
+    - 17
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 20
+    - 2
+    - 3
+    b:
+    - 23
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 26
+    - 2
+    - 3
+    b:
+    - 29
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 32
+    - 2
+    - 3
+    b:
+    - 35
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 38
+    - 2
+    - 3
+    b:
+    - 41
+    - 2
+    - 3
+  - round: DE WB Round 1
+    seq: 6
+    a:
+    - 44
+    - 2
+    - 3
+    b:
+    - 47
+    - 2
+    - 3
+  - round: DE WB Round 2
+    seq: 7
+    a:
+    - 4
+    - 4
+    - 5
+    b:
+    - 10
+    - 4
+    - 5
+    winner: a
+  - round: DE WB Round 2
+    seq: 7
+    a:
+    - 16
+    - 4
+    - 5
+    b:
+    - 22
+    - 4
+    - 5
+  - round: DE WB Round 2
+    seq: 7
+    a:
+    - 28
+    - 4
+    - 5
+    b:
+    - 34
+    - 4
+    - 5
+  - round: DE WB Round 2
+    seq: 7
+    a:
+    - 40
+    - 4
+    - 5
+    b:
+    - 46
+    - 4
+    - 5
+  - round: DE LB Round 1
+    seq: 7
+    a:
+    - 52
+    - 4
+    - 5
+    b:
+    - 55
+    - 4
+    - 5
+  - round: DE LB Round 1
+    seq: 7
+    a:
+    - 58
+    - 4
+    - 5
+    b:
+    - 61
+    - 4
+    - 5
+  - round: DE LB Round 1
+    seq: 7
+    a:
+    - 64
+    - 4
+    - 5
+    b:
+    - 67
+    - 4
+    - 5
+  - round: DE LB Round 1
+    seq: 7
+    a:
+    - 70
+    - 4
+    - 5
+    b:
+    - 73
+    - 4
+    - 5
+  - round: DE WB Round 3
+    seq: 8
+    a:
+    - 7
+    - 6
+    - 8
+    b:
+    - 19
+    - 6
+    - 8
+  - round: DE WB Round 3
+    seq: 8
+    a:
+    - 31
+    - 6
+    - 9
+    b:
+    - 43
+    - 6
+    - 9
+  - round: DE LB Round 2
+    seq: 8
+    a:
+    - 51
+    - 6
+    - 7
+    b:
+    - 54
+    - 6
+    - 7
+  - round: DE LB Round 2
+    seq: 8
+    a:
+    - 57
+    - 6
+    - 7
+    b:
+    - 60
+    - 6
+    - 7
+  - round: DE LB Round 2
+    seq: 8
+    a:
+    - 63
+    - 6
+    - 7
+    b:
+    - 66
+    - 6
+    - 7
+  - round: DE LB Round 2
+    seq: 8
+    a:
+    - 69
+    - 6
+    - 7
+    b:
+    - 72
+    - 6
+    - 7
+  - round: DE LB Round 3
+    seq: 9
+    a:
+    - 53
+    - 8
+    - 9
+    b:
+    - 59
+    - 8
+    - 9
+    tb:
+      a:
+      - 54
+      - 9
+      b:
+      - 60
+      - 9
+  - round: DE LB Round 3
+    seq: 9
+    a:
+    - 65
+    - 8
+    - 9
+    b:
+    - 71
+    - 8
+    - 9
+  - round: DE WB Final
+    seq: 10
+    a:
+    - 13
+    - 12
+    - 13
+    b:
+    - 37
+    - 12
+    - 13
+  - round: DE LB Round 4
+    seq: 10
+    a:
+    - 50
+    - 10
+    - 11
+    b:
+    - 56
+    - 10
+    - 11
+  - round: DE LB Round 4
+    seq: 10
+    a:
+    - 62
+    - 10
+    - 11
+    b:
+    - 68
+    - 10
+    - 11
+  - round: DE LB Round 5
+    seq: 11
+    a:
+    - 53
+    - 12
+    - 13
+    b:
+    - 65
+    - 12
+    - 13
+  - round: DE LB Final
+    seq: 12
+    a:
+    - 47
+    - 14
+    - 15
+    b:
+    - 59
+    - 14
+    - 15
+  - round: DE Grand Final
+    seq: 13
+    a:
+    - 25
+    - 16
+    - 17
+    b:
+    - 53
+    - 16
+    - 17
+  schools:
+    Hwite Bread A: Mira Loma High School
+    Hwite Bread B: Mira Loma High School
+status: parsed
+notes: '6 RR divisions (70 games) and a 30-game double-elimination bracket read from explicit cell positions (irregular layout;
+  one WB game has no score; a 54-54 game decided by tiebreaker recorded as 58-62). Prelim-only player stats (''Name [Team]''):
+  overall correct/penalties/incorrect/TUH; per-category rows only for players with 0 penalties (penalties are not split by
+  category). Stats for 5 prelim games were lost per the source. ''Hwite Bread'' = Mira Loma pickup teams; Crestview Middle
+  is a middle-school team.'

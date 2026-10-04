@@ -1,0 +1,46 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Cypress Ranch High School A,The Westminster Schools A,64,148,2,0,Division A
+g2,rr,RR1,1,Dulles High School B,Strake Jesuit College Preparatory A,166,26,1,0,Division A
+g3,rr,RR1,1,Cypress Ranch High School B,Dulles High School A,42,148,2,0,Division B
+g4,rr,RR1,1,Elkins High School A,Plano West Senior High School A,146,78,1,0,Division B
+g5,rr,RR1,1,Liberal Arts and Sciences Academy A,The Westminster Schools B,36,114,2,0,Division B
+g6,rr,RR2,2,Clements High School A,The Westminster Schools A,110,96,1,0,Division A
+g7,rr,RR2,2,Cypress Ranch High School A,Dulles High School B,16,104,2,0,Division A
+g8,rr,RR2,2,Cypress Ranch High School B,Plano West Senior High School A,30,166,2,0,Division B
+g9,rr,RR2,2,Dulles High School A,The Westminster Schools B,128,86,1,0,Division B
+g10,rr,RR2,2,Elkins High School A,Liberal Arts and Sciences Academy A,126,4,1,0,Division B
+g11,rr,RR3,3,Clements High School A,Dulles High School B,108,64,1,0,Division A
+g12,rr,RR3,3,Cypress Ranch High School A,Strake Jesuit College Preparatory A,22,68,2,0,Division A
+g13,rr,RR3,3,Cypress Ranch High School B,Liberal Arts and Sciences Academy A,16,62,2,0,Division B
+g14,rr,RR3,3,Dulles High School A,Plano West Senior High School A,112,76,1,0,Division B
+g15,rr,RR3,3,Elkins High School A,The Westminster Schools B,118,62,1,0,Division B
+g16,rr,RR4,4,Clements High School A,Cypress Ranch High School A,158,18,1,0,Division A
+g17,rr,RR4,4,Strake Jesuit College Preparatory A,The Westminster Schools A,28,130,2,0,Division A
+g18,rr,RR4,4,Cypress Ranch High School B,The Westminster Schools B,16,90,2,0,Division B
+g19,rr,RR4,4,Dulles High School A,Elkins High School A,114,108,1,0,Division B
+g20,rr,RR4,4,Liberal Arts and Sciences Academy A,Plano West Senior High School A,28,108,2,0,Division B
+g21,rr,RR5,5,Clements High School A,Strake Jesuit College Preparatory A,150,44,1,0,Division A
+g22,rr,RR5,5,Dulles High School B,The Westminster Schools A,82,112,2,0,Division A
+g23,rr,RR5,5,Cypress Ranch High School B,Elkins High School A,38,154,2,0,Division B
+g24,rr,RR5,5,Dulles High School A,Liberal Arts and Sciences Academy A,182,28,1,0,Division B
+g25,rr,RR5,5,Plano West Senior High School A,The Westminster Schools B,94,56,1,0,Division B
+g26,playoff,DE1,6,Strake Jesuit College Preparatory A,Liberal Arts and Sciences Academy A,34,26,1,0,
+g27,playoff,DE1,6,Dulles High School B,Cypress Ranch High School A,70,20,1,0,
+g28,playoff,DE1,6,The Westminster Schools B,Cypress Ranch High School B,92,8,1,0,
+g29,playoff,DE2,7,Dulles High School A,Strake Jesuit College Preparatory A,72,42,1,0,
+g30,playoff,DE2,7,Plano West Senior High School A,The Westminster Schools A,36,88,2,0,
+g31,playoff,DE2,7,Elkins High School A,Dulles High School B,48,32,1,0,
+g32,playoff,DE2,7,The Westminster Schools B,Clements High School A,40,70,2,0,
+g33,playoff,DE2,7,Liberal Arts and Sciences Academy A,Cypress Ranch High School B,12,22,2,0,
+g34,playoff,DE3,8,The Westminster Schools B,Cypress Ranch High School B,16,12,1,0,
+g35,playoff,DE3,8,Dulles High School B,Cypress Ranch High School A,38,4,1,0,
+g36,playoff,DE4,9,Dulles High School A,The Westminster Schools A,58,38,1,0,
+g37,playoff,DE4,9,Elkins High School A,Clements High School A,42,68,2,0,
+g38,playoff,DE4,9,The Westminster Schools B,Dulles High School B,20,34,2,0,
+g39,playoff,DE4,9,Plano West Senior High School A,Strake Jesuit College Preparatory A,26,20,1,0,
+g40,playoff,DE5,10,Elkins High School A,Dulles High School B,34,48,2,0,
+g41,playoff,DE5,10,The Westminster Schools A,Plano West Senior High School A,34,52,2,0,
+g42,playoff,DE6,11,Dulles High School A,Clements High School A,24,38,2,0,
+g43,playoff,DE6,11,Dulles High School B,Plano West Senior High School A,8,42,2,0,
+g44,playoff,DE7,12,Dulles High School A,Plano West Senior High School A,28,12,1,0,
+g45,playoff,Final,13,Clements High School A,Dulles High School A,24,16,1,0,

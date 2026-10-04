@@ -18,7 +18,9 @@ sources:
   sheet_id: 1DOM7ZiP5eVnFhH_hYDJGfeEb7V_UsYO2CjgmBVxBHa0
   url: https://docs.google.com/spreadsheets/d/1DOM7ZiP5eVnFhH_hYDJGfeEb7V_UsYO2CjgmBVxBHa0/edit#gid=678795756
   file: stats.xlsx
-parser: null
+parser: g3_online:parse_sbl
 parser_options: {}
-status: todo
-notes: ''
+status: partial
+notes: Online league (Standard + Competitive divisions, 15 rounds). Only player season totals are extracted (games with TUH
+  > 0, TUH, tossup points; no 4/-4 split). Team per-round scores exist but opponents are never given, so no games could be
+  built.

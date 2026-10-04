@@ -1,0 +1,25 @@
+{
+  "tournament_id": "2023-01-15-dasoni-standard",
+  "counts": {
+    "teams": 32,
+    "games": 65,
+    "games_with_scores": 65,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "DE final (Interlake vs Enloe B) has no score or winner in the source; not recorded"
+  ],
+  "parser": "g4_dasoni:parse_2023_standard"
+}

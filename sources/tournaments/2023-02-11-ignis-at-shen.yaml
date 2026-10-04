@@ -11,7 +11,7 @@ exclude_reason: null
 kind: invitational
 level: standard
 subject_only: null
-question_set: null
+question_set: ignis-2023
 sources:
 - kind: url
   role: results
@@ -31,7 +31,29 @@ sources:
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS_zBo6giJe11W2Frwe9o0tQX6P3PIlRYuiLc71OgAqAxP7akO14W9h1Uxhm0kjm3IPX2nsF0uKVqMz/pub?output=xlsx
   file: stats_sheet.xlsx
   note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_ignis:parse_inperson
+parser_options:
+  rr_tab: Round Robin
+  de_tab: Double Elimination
+  codes: true
+  aliases:
+    Nisky A: Niskayuna A
+    Nisky B: Niskayuna B
+  schools:
+    WWPN: West Windsor-Plainsboro High School North
+    Niskayuna B: Niskayuna High School
+    Niskayuna A: Niskayuna High School
+  fixes:
+  - round: '4'
+    t1: Morris Hills
+    t2: Shen C
+    s1: 98
+    s2: 62
+    note: scores swapped on the results score sheet; statistics sheet and pool standings (Morris Hills 3-1, Shen C 2-2) give
+      Morris Hills 98-62
+status: parsed
+notes: Ignis set (X-Risk -> 'other'). Two 5-team pools (each round had one cross-pool game, not counted in pool standings
+  and absent from the stats sheet), double-elimination bracket; per-game subject points and player buzzes for the games in
+  the stats sheet; player totals per category (first names only). Round 4 Morris Hills vs Shen C had swapped scores on the
+  score sheet (fixed to 98-62 per stats sheet and standings); source standings list Bethlehem 1-3 though its games give 0-4
+  in pool.

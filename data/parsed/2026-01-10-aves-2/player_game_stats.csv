@@ -1,0 +1,4330 @@
+game_id,player,team,subject,correct,negs,points
+383,Shubhi Jain,Cupertino 1,overall,3,0,12
+383,Shubhi Jain,Cupertino 1,biology,2,0,8
+383,Gunes Sunar,Ward Melville 2,overall,3,0,12
+383,Gunes Sunar,Ward Melville 2,math,1,0,4
+383,Kiaan Biswas,Ward Melville 2,overall,4,0,16
+383,Kiaan Biswas,Ward Melville 2,chemistry,1,0,4
+383,Pranav Burra,Cupertino 1,overall,0,0,0
+383,Pranav Burra,Cupertino 1,chemistry,0,0,0
+383,Kiaan Biswas,Ward Melville 2,ess,1,0,4
+383,Namita Gaidhani,Cupertino 1,overall,1,0,4
+383,Namita Gaidhani,Cupertino 1,ess,1,0,4
+383,Gunes Sunar,Ward Melville 2,physics,2,0,8
+383,Pranav Burra,Cupertino 1,physics,0,0,0
+383,Kiaan Biswas,Ward Melville 2,biology,2,0,8
+383,Alan Mao,Ward Melville 2,overall,1,0,4
+383,Alan Mao,Ward Melville 2,math,1,0,4
+383,Will Squire,Ward Melville 2,overall,3,0,12
+383,Will Squire,Ward Melville 2,chemistry,1,0,4
+383,Namita Gaidhani,Cupertino 1,chemistry,0,0,0
+383,Pranav Burra,Cupertino 1,ess,0,0,0
+383,Will Squire,Ward Melville 2,ess,2,0,8
+383,Alan Mao,Ward Melville 2,physics,0,0,0
+383,Shubhi Jain,Cupertino 1,physics,1,0,4
+383,Pranav Burra,Cupertino 1,math,0,0,0
+393,Yajur Chandar,Davidson Academy,overall,5,0,20
+393,Yajur Chandar,Davidson Academy,biology,3,0,12
+393,Ethan Chan,Davidson Academy,overall,3,0,12
+393,Ethan Chan,Davidson Academy,math,1,0,4
+393,Yajur Chandar,Davidson Academy,chemistry,2,0,8
+393,Ethan Deng,Temple City,overall,0,1,-4
+393,Ethan Deng,Temple City,chemistry,0,1,-4
+393,Bryce Thach,Temple City,overall,3,2,4
+393,Bryce Thach,Temple City,ess,2,1,4
+393,Bryce Thach,Temple City,physics,1,1,0
+393,Ethan Deng,Temple City,math,0,0,0
+393,Lucas Wu,Davidson Academy,overall,5,0,20
+393,Lucas Wu,Davidson Academy,chemistry,2,0,8
+393,Lucas Wu,Davidson Academy,ess,1,0,4
+393,Ethan Chan,Davidson Academy,physics,1,0,4
+393,Lucas Wu,Davidson Academy,math,0,0,0
+393,Bryce Thach,Temple City,math,0,0,0
+393,Shayan Sattarvand,Davidson Academy,overall,0,1,-4
+393,Shayan Sattarvand,Davidson Academy,ess,0,1,-4
+393,Lucas Wu,Davidson Academy,physics,2,0,8
+393,Judy Tan,Temple City,overall,1,0,4
+393,Judy Tan,Temple City,biology,1,0,4
+393,Ethan Chan,Davidson Academy,ess,1,0,4
+396,Alexander Destefano,CCA 1,overall,3,0,12
+396,Alexander Destefano,CCA 1,biology,1,0,4
+396,Owen Mao,CCA 1,overall,3,0,12
+396,Owen Mao,CCA 1,math,2,0,8
+396,Easton Wei,West Windsor-Plainsboro North,overall,1,0,4
+396,Easton Wei,West Windsor-Plainsboro North,chemistry,1,0,4
+396,Alexander Destefano,CCA 1,ess,0,0,0
+396,Aldric Benalan,West Windsor-Plainsboro North,overall,6,1,20
+396,Aldric Benalan,West Windsor-Plainsboro North,ess,2,1,4
+396,Alexander Destefano,CCA 1,physics,1,0,4
+396,Aldric Benalan,West Windsor-Plainsboro North,physics,2,0,8
+396,Aldric Benalan,West Windsor-Plainsboro North,biology,1,0,4
+396,Dennis Stens,CCA 1,overall,1,0,4
+396,Dennis Stens,CCA 1,chemistry,1,0,4
+396,Sharath Sanjay,West Windsor-Plainsboro North,overall,2,0,8
+396,Sharath Sanjay,West Windsor-Plainsboro North,biology,2,0,8
+396,Alexander Destefano,CCA 1,chemistry,1,0,4
+396,Yihan Jing,CCA 1,overall,0,0,0
+396,Yihan Jing,CCA 1,math,0,0,0
+396,Aldric Benalan,West Windsor-Plainsboro North,math,0,0,0
+396,Aldric Benalan,West Windsor-Plainsboro North,chemistry,1,0,4
+396,Owen Mao,CCA 1,ess,1,0,4
+398,Uddip Kashyap,VMATHs,overall,0,1,-4
+398,Uddip Kashyap,VMATHs,biology,0,1,-4
+398,Achuth Vinay,Clovis North High,overall,2,0,8
+398,Achuth Vinay,Clovis North High,biology,2,0,8
+398,Varun Gadi,VMATHs,overall,3,0,12
+398,Varun Gadi,VMATHs,math,3,0,12
+398,Justin Do,Clovis North High,overall,6,0,24
+398,Justin Do,Clovis North High,chemistry,4,0,16
+398,Uddip Kashyap,VMATHs,ess,0,0,0
+398,Majed Almasri,Clovis North High,overall,2,0,8
+398,Majed Almasri,Clovis North High,ess,0,0,0
+398,S I,VMATHs,overall,5,0,20
+398,S I,VMATHs,physics,2,0,8
+398,Justin Do,Clovis North High,biology,2,0,8
+398,S I,VMATHs,ess,3,0,12
+398,Majed Almasri,Clovis North High,physics,2,0,8
+398,Achuth Vinay,Clovis North High,math,0,0,0
+398,Justin Do,Clovis North High,math,0,0,0
+408,William Wang,Lakeside 1,overall,5,0,20
+408,William Wang,Lakeside 1,biology,1,0,4
+408,William Wang,Lakeside 1,chemistry,4,0,16
+408,Vishnu Mangipudi,Lakeside 1,overall,7,0,28
+408,Vishnu Mangipudi,Lakeside 1,ess,3,0,12
+408,Vishnu Mangipudi,Lakeside 1,physics,3,0,12
+408,Aarav Doshi,Troy 1,overall,2,0,8
+408,Aarav Doshi,Troy 1,biology,2,0,8
+408,James Yang,Lakeside 1,overall,0,0,0
+408,James Yang,Lakeside 1,math,0,0,0
+408,Aarav Doshi,Troy 1,math,0,0,0
+408,Vishnu Mangipudi,Lakeside 1,biology,1,0,4
+408,Sara Liu,Lakeside 1,overall,1,0,4
+408,Sara Liu,Lakeside 1,physics,1,0,4
+411,Samuel Wang,Blair 2,overall,5,0,20
+411,Samuel Wang,Blair 2,biology,3,0,12
+411,Eric Xie,Blair 2,overall,3,0,12
+411,Eric Xie,Blair 2,math,2,0,8
+411,Adhav Kumar,Research Triangle,overall,6,0,24
+411,Adhav Kumar,Research Triangle,chemistry,2,0,8
+411,Adhav Kumar,Research Triangle,ess,3,0,12
+411,Meghna Singh,Blair 2,overall,2,0,8
+411,Meghna Singh,Blair 2,ess,0,0,0
+411,Abhijay Banerjee,Blair 2,overall,1,0,4
+411,Abhijay Banerjee,Blair 2,physics,1,0,4
+411,Samuel Wang,Blair 2,chemistry,1,0,4
+411,Samuel Wang,Blair 2,ess,1,0,4
+411,Adhav Kumar,Research Triangle,physics,1,0,4
+411,Meghna Singh,Blair 2,chemistry,1,0,4
+411,Meghna Singh,Blair 2,biology,1,0,4
+411,Eric Xie,Blair 2,physics,1,0,4
+413,Sophie Cui,Wayzata,overall,5,0,20
+413,Sophie Cui,Wayzata,biology,2,0,8
+413,Ishaan Kabra,Mission San Jose 2,overall,6,2,16
+413,Ishaan Kabra,Mission San Jose 2,math,2,0,8
+413,Ishaan Kabra,Mission San Jose 2,chemistry,0,1,-4
+413,Sophie Cui,Wayzata,chemistry,1,0,4
+413,Ishaan Kabra,Mission San Jose 2,ess,3,1,8
+413,Sophie Cui,Wayzata,ess,1,0,4
+413,Ishaan Kabra,Mission San Jose 2,physics,1,0,4
+413,Kevin Qiu,Wayzata,overall,2,2,0
+413,Kevin Qiu,Wayzata,physics,0,1,-4
+413,Andy Liu,Mission San Jose 2,overall,1,3,-8
+413,Andy Liu,Mission San Jose 2,biology,0,1,-4
+413,Kevin Qiu,Wayzata,math,1,0,4
+413,Andy Liu,Mission San Jose 2,chemistry,0,1,-4
+413,Kevin Qiu,Wayzata,chemistry,1,1,0
+413,Luyao Yang,Wayzata,overall,1,2,-4
+413,Luyao Yang,Wayzata,ess,0,2,-8
+413,Andy Liu,Mission San Jose 2,physics,0,1,-4
+413,Sophie Cui,Wayzata,physics,1,0,4
+413,Aravind Muralidharan,Mission San Jose 2,overall,2,0,8
+413,Aravind Muralidharan,Mission San Jose 2,biology,2,0,8
+413,Jeff Zhou,Wayzata,overall,0,1,-4
+413,Jeff Zhou,Wayzata,math,0,1,-4
+413,Aravind Muralidharan,Mission San Jose 2,physics,0,0,0
+413,Andy Liu,Mission San Jose 2,math,1,0,4
+413,Luyao Yang,Wayzata,chemistry,1,0,4
+423,Simone Maimon,Hunter College 1,overall,2,0,8
+423,Simone Maimon,Hunter College 1,biology,1,0,4
+423,Jeev Hora,IMSA 1,overall,0,2,-8
+423,Jeev Hora,IMSA 1,biology,0,2,-8
+423,Gabe Levin,Hunter College 1,overall,8,0,32
+423,Gabe Levin,Hunter College 1,math,2,0,8
+423,Gabe Levin,Hunter College 1,chemistry,3,0,12
+423,Camille Pimentel,Hunter College 1,overall,4,2,8
+423,Camille Pimentel,Hunter College 1,ess,3,1,8
+423,Tony Han,IMSA 1,overall,3,1,8
+423,Tony Han,IMSA 1,physics,1,0,4
+423,Camille Pimentel,Hunter College 1,biology,1,1,0
+423,Tony Han,IMSA 1,biology,1,0,4
+423,Tyler He,IMSA 1,overall,0,0,0
+423,Tyler He,IMSA 1,chemistry,0,0,0
+423,Jeev Hora,IMSA 1,ess,0,0,0
+423,Gabe Levin,Hunter College 1,physics,2,0,8
+423,Gabe Levin,Hunter College 1,biology,1,0,4
+423,Tony Han,IMSA 1,math,0,1,-4
+423,Tony Han,IMSA 1,chemistry,1,0,4
+423,Simone Maimon,Hunter College 1,physics,1,0,4
+423,Jeev Hora,IMSA 1,physics,0,0,0
+423,Shlok Choudhary,IMSA 1,overall,0,0,0
+423,Shlok Choudhary,IMSA 1,math,0,0,0
+426,Rehan Krishnan,Collierville 1,overall,3,0,12
+426,Rehan Krishnan,Collierville 1,biology,3,0,12
+426,Shreyansh Alluri,Collierville 1,overall,1,1,0
+426,Shreyansh Alluri,Collierville 1,math,1,1,0
+426,Sumin Yoon,Collierville 1,overall,9,0,36
+426,Sumin Yoon,Collierville 1,chemistry,4,0,16
+426,Sumin Yoon,Collierville 1,ess,3,0,12
+426,Sumin Yoon,Collierville 1,physics,2,0,8
+426,Alexander Yu,Camas,overall,2,0,8
+426,Alexander Yu,Camas,ess,1,0,4
+426,Narayan Chutkay,Camas,overall,1,1,0
+426,Narayan Chutkay,Camas,biology,1,1,0
+426,Alexander Yu,Camas,math,1,0,4
+428,Aarush Iyer,MSJ 3,overall,2,1,4
+428,Aarush Iyer,MSJ 3,biology,1,0,4
+428,Hank Sun,MSJ 3,overall,2,1,4
+428,Hank Sun,MSJ 3,math,1,1,0
+428,Paxton Lin,Arcadia 1,overall,6,0,24
+428,Paxton Lin,Arcadia 1,chemistry,2,0,8
+428,Aarush Iyer,MSJ 3,chemistry,1,1,0
+428,Abhiraam Girish,MSJ 3,overall,5,0,20
+428,Abhiraam Girish,MSJ 3,ess,2,0,8
+428,Abhiraam Girish,MSJ 3,physics,3,0,12
+428,Paxton Lin,Arcadia 1,biology,1,0,4
+428,Maxwell Zhang,MSJ 3,overall,1,1,0
+428,Maxwell Zhang,MSJ 3,biology,1,1,0
+428,Paxton Lin,Arcadia 1,math,1,0,4
+428,Paxton Lin,Arcadia 1,ess,2,0,8
+428,Hank Sun,MSJ 3,physics,1,0,4
+428,Henry Zhang,Arcadia 1,overall,1,0,4
+428,Henry Zhang,Arcadia 1,math,0,0,0
+428,Aarush Iyer,MSJ 3,math,0,0,0
+428,Henry Zhang,Arcadia 1,physics,0,0,0
+428,Henry Zhang,Arcadia 1,biology,1,0,4
+428,Austin Zhang,Arcadia 1,overall,0,0,0
+428,Austin Zhang,Arcadia 1,math,0,0,0
+428,Abhiraam Girish,MSJ 3,math,0,0,0
+438,Heidi Leonard,James Clemens,overall,3,0,12
+438,Heidi Leonard,James Clemens,biology,3,0,12
+438,Praneel Avula,James Clemens,overall,9,3,24
+438,Praneel Avula,James Clemens,math,2,0,8
+438,Praneel Avula,James Clemens,chemistry,1,2,-4
+438,Saish Koul,John P. Stevens,overall,3,1,8
+438,Saish Koul,John P. Stevens,chemistry,2,0,8
+438,Joel Yang,James Clemens,overall,1,0,4
+438,Joel Yang,James Clemens,ess,1,0,4
+438,Praneel Avula,James Clemens,physics,3,1,8
+438,Pranesh Kirubakar,John P. Stevens,overall,0,0,0
+438,Pranesh Kirubakar,John P. Stevens,physics,0,0,0
+438,Praneel Avula,James Clemens,biology,1,0,4
+438,Praneel Avula,James Clemens,ess,2,0,8
+438,Saish Koul,John P. Stevens,ess,1,0,4
+438,Pranesh Kirubakar,John P. Stevens,math,0,0,0
+438,Saish Koul,John P. Stevens,biology,0,1,-4
+438,Saish Koul,John P. Stevens,physics,0,0,0
+441,Arman A,Ladue,overall,4,1,12
+441,Arman A,Ladue,biology,1,1,0
+441,Aaron Lin,Ladue,overall,7,1,24
+441,Aaron Lin,Ladue,math,3,0,12
+441,Ayden Huang,Ladue,overall,3,0,12
+441,Ayden Huang,Ladue,chemistry,1,0,4
+441,Arman A,Ladue,ess,1,0,4
+441,Aaron Lin,Ladue,physics,4,0,16
+441,Ayden Huang,Ladue,biology,1,0,4
+441,Lisa Xun,Westview 1,overall,2,0,8
+441,Lisa Xun,Westview 1,chemistry,1,0,4
+441,Arman A,Ladue,chemistry,2,0,8
+441,Zoey Tang,Westview 1,overall,0,0,0
+441,Zoey Tang,Westview 1,ess,0,0,0
+441,Ayden Huang,Ladue,ess,1,0,4
+441,Lisa Xun,Westview 1,biology,1,0,4
+441,Lisa Xun,Westview 1,ess,0,0,0
+441,Aaron Lin,Ladue,biology,0,1,-4
+441,Jiahe Zhao,Westview 1,overall,0,1,-4
+441,Jiahe Zhao,Westview 1,math,0,1,-4
+443,suzuko ohshima,North Hollywood 1,overall,7,1,24
+443,suzuko ohshima,North Hollywood 1,biology,2,1,4
+443,Andrew Wen,Palo Alto 1,overall,5,1,16
+443,Andrew Wen,Palo Alto 1,math,2,0,8
+443,Kevin Pei,Palo Alto 1,overall,2,0,8
+443,Kevin Pei,Palo Alto 1,chemistry,1,0,4
+443,suzuko ohshima,North Hollywood 1,ess,3,0,12
+443,Charles Huang,North Hollywood 1,overall,1,0,4
+443,Charles Huang,North Hollywood 1,physics,1,0,4
+443,Minghao Guo,North Hollywood 1,overall,0,0,0
+443,Minghao Guo,North Hollywood 1,math,0,0,0
+443,suzuko ohshima,North Hollywood 1,chemistry,2,0,8
+443,Kevin Pei,Palo Alto 1,ess,1,0,4
+443,Andrew Wen,Palo Alto 1,physics,2,1,4
+443,Rasia Yu,Palo Alto 1,overall,2,0,8
+443,Rasia Yu,Palo Alto 1,biology,2,0,8
+443,Andrew Wen,Palo Alto 1,chemistry,1,0,4
+443,suzuko ohshima,North Hollywood 1,math,0,0,0
+453,Alexander Yang,BRMHS 2,overall,2,0,8
+453,Alexander Yang,BRMHS 2,biology,2,0,8
+453,Alex Sheng,Princeton,overall,2,0,8
+453,Alex Sheng,Princeton,math,1,0,4
+453,Gavin Macatangay,Princeton,overall,1,0,4
+453,Gavin Macatangay,Princeton,chemistry,1,0,4
+453,Kenneth Michel,BRMHS 2,overall,1,0,4
+453,Kenneth Michel,BRMHS 2,ess,1,0,4
+453,Nikolai Morozov,Princeton,overall,3,1,8
+453,Nikolai Morozov,Princeton,physics,1,0,4
+453,Nikolai Morozov,Princeton,biology,1,1,0
+453,Christopher Khoa Nguyen,BRMHS 2,overall,4,0,16
+453,Christopher Khoa Nguyen,BRMHS 2,math,1,0,4
+453,Joey Chang,Princeton,overall,4,0,16
+453,Joey Chang,Princeton,chemistry,2,0,8
+453,Alex Sheng,Princeton,ess,0,0,0
+453,Alex Sheng,Princeton,physics,1,0,4
+453,Christopher Khoa Nguyen,BRMHS 2,biology,1,0,4
+453,Nikolai Morozov,Princeton,chemistry,1,0,4
+453,Joey Chang,Princeton,ess,2,0,8
+453,Joey Chang,Princeton,physics,0,0,0
+453,Christopher Khoa Nguyen,BRMHS 2,physics,2,0,8
+453,Kenneth Michel,BRMHS 2,math,0,0,0
+456,Kevin Chen,BASIS Independent Fremont,overall,2,0,8
+456,Kevin Chen,BASIS Independent Fremont,biology,1,0,4
+456,Arjun Pandey,BASIS Independent Fremont,overall,6,0,24
+456,Arjun Pandey,BASIS Independent Fremont,math,1,0,4
+456,Angela Cao,BASIS Independent Fremont,overall,3,0,12
+456,Angela Cao,BASIS Independent Fremont,chemistry,1,0,4
+456,Kevin Chen,BASIS Independent Fremont,ess,0,0,0
+456,Anya S,Cupertino 2,overall,1,0,4
+456,Anya S,Cupertino 2,ess,0,0,0
+456,Arjun Pandey,BASIS Independent Fremont,physics,2,0,8
+456,Anya S,Cupertino 2,biology,1,0,4
+456,Elaine Chen,Cupertino 2,overall,0,0,0
+456,Elaine Chen,Cupertino 2,math,0,0,0
+456,Kevin Chen,BASIS Independent Fremont,chemistry,1,0,4
+456,Arjun Pandey,BASIS Independent Fremont,ess,2,0,8
+456,Angela Cao,BASIS Independent Fremont,biology,2,0,8
+456,Rosa Lee,Cupertino 2,overall,1,0,4
+456,Rosa Lee,Cupertino 2,chemistry,1,0,4
+456,Arjun Pandey,BASIS Independent Fremont,chemistry,1,0,4
+456,Jaanya Annapureddy,Cupertino 2,overall,1,0,4
+456,Jaanya Annapureddy,Cupertino 2,ess,1,0,4
+468,Lisa Cheng,Harvard Westlake 1,overall,4,1,12
+468,Lisa Cheng,Harvard Westlake 1,biology,2,1,4
+468,Monish Saravana Kumar,WWPS 1,overall,2,1,4
+468,Monish Saravana Kumar,WWPS 1,math,1,1,0
+468,Sanjay Oruganti,WWPS 1,overall,4,0,16
+468,Sanjay Oruganti,WWPS 1,chemistry,4,0,16
+468,Abhinav Anand,WWPS 1,overall,5,0,20
+468,Abhinav Anand,WWPS 1,ess,2,0,8
+468,Monish Saravana Kumar,WWPS 1,physics,1,0,4
+468,Abhinav Anand,WWPS 1,biology,2,0,8
+468,Mikenever Dai,Harvard Westlake 1,overall,2,0,8
+468,Mikenever Dai,Harvard Westlake 1,math,2,0,8
+468,Troy Goodgame,Harvard Westlake 1,overall,1,0,4
+468,Troy Goodgame,Harvard Westlake 1,ess,1,0,4
+468,Lisa Cheng,Harvard Westlake 1,physics,1,0,4
+468,Lisa Cheng,Harvard Westlake 1,ess,1,0,4
+468,Abhinav Anand,WWPS 1,physics,1,0,4
+471,Jake Rosenblum,North Hollywood 2,overall,4,0,16
+471,Jake Rosenblum,North Hollywood 2,biology,4,0,16
+471,Patrick Liang,North Hollywood 2,overall,2,0,8
+471,Patrick Liang,North Hollywood 2,math,2,0,8
+471,Rayan Hasan,Jericho 2,overall,1,1,0
+471,Rayan Hasan,Jericho 2,math,0,1,-4
+471,Rayan Hasan,Jericho 2,chemistry,1,0,4
+471,Kensuke Ohshima,North Hollywood 2,overall,9,0,36
+471,Kensuke Ohshima,North Hollywood 2,ess,4,0,16
+471,Kensuke Ohshima,North Hollywood 2,physics,3,0,12
+471,Euna Kim,North Hollywood 2,overall,1,0,4
+471,Euna Kim,North Hollywood 2,math,1,0,4
+471,Henry Li,Jericho 2,overall,0,0,0
+471,Henry Li,Jericho 2,math,0,0,0
+471,Kensuke Ohshima,North Hollywood 2,chemistry,2,0,8
+471,Andy Ryoo,Jericho 2,overall,1,0,4
+471,Andy Ryoo,Jericho 2,physics,1,0,4
+473,Eric Liu,Ward Melville 1,overall,7,1,24
+473,Eric Liu,Ward Melville 1,biology,3,1,8
+473,Harry Gao,Ward Melville 1,overall,8,2,24
+473,Harry Gao,Ward Melville 1,math,2,2,0
+473,Eric Liu,Ward Melville 1,chemistry,4,0,16
+473,Harry Gao,Ward Melville 1,ess,2,0,8
+473,Armaan Diwan,OCSA,overall,3,0,12
+473,Armaan Diwan,OCSA,ess,2,0,8
+473,Harry Gao,Ward Melville 1,physics,4,0,16
+473,Armaan Diwan,OCSA,biology,1,0,4
+473,Shannon Imaoka,OCSA,overall,0,0,0
+473,Shannon Imaoka,OCSA,chemistry,0,0,0
+473,Shannon Imaoka,OCSA,math,0,0,0
+473,Shannon Imaoka,OCSA,physics,0,0,0
+483,Henry Lu,Blair 3,overall,9,0,36
+483,Henry Lu,Blair 3,biology,2,0,8
+483,Henry Lu,Blair 3,math,2,0,8
+483,Henry Lu,Blair 3,chemistry,2,0,8
+483,Henry Lu,Blair 3,ess,2,0,8
+483,Chaniel Kpekpe,Whitney Young 1,overall,7,1,24
+483,Chaniel Kpekpe,Whitney Young 1,ess,0,1,-4
+483,Chaniel Kpekpe,Whitney Young 1,physics,2,0,8
+483,Chaniel Kpekpe,Whitney Young 1,math,1,0,4
+483,Henry Lu,Blair 3,physics,1,0,4
+483,Chaniel Kpekpe,Whitney Young 1,biology,2,0,8
+483,Chaniel Kpekpe,Whitney Young 1,chemistry,2,0,8
+486,Jason Tang,AHB 1,overall,6,0,24
+486,Jason Tang,AHB 1,biology,3,0,12
+486,Jason Tang,AHB 1,math,1,0,4
+486,Liam Tran,BISV 2,overall,5,0,20
+486,Liam Tran,BISV 2,chemistry,3,0,12
+486,Rishitha Marri,AHB 1,overall,2,0,8
+486,Rishitha Marri,AHB 1,ess,1,0,4
+486,Ariv Barua,AHB 1,overall,1,0,4
+486,Ariv Barua,AHB 1,physics,0,0,0
+486,Jason Z,BISV 2,overall,0,0,0
+486,Jason Z,BISV 2,physics,0,0,0
+486,Liam Tran,BISV 2,biology,1,0,4
+486,Rishitha Marri,AHB 1,math,1,0,4
+486,Ariv Barua,AHB 1,ess,1,0,4
+486,Jason Z,BISV 2,ess,0,0,0
+486,Jason Tang,AHB 1,physics,1,0,4
+486,Arnav Bhatia,AHB 1,overall,0,0,0
+486,Arnav Bhatia,AHB 1,math,0,0,0
+486,Jason Z,BISV 2,math,0,0,0
+486,Daniel Cai,AHB 1,overall,2,0,8
+486,Daniel Cai,AHB 1,chemistry,1,0,4
+486,Daniel Cai,AHB 1,physics,1,0,4
+486,Daniel Cai,AHB 1,math,0,0,0
+486,Jason Tang,AHB 1,ess,1,0,4
+486,Liam Tran,BISV 2,physics,1,0,4
+488,Sophia Liu,University 2,overall,0,0,0
+488,Sophia Liu,University 2,biology,0,0,0
+488,Ryan Karim,School of Astronomy,overall,9,0,36
+488,Ryan Karim,School of Astronomy,biology,1,0,4
+488,Ryan Karim,School of Astronomy,math,3,0,12
+488,Abhinav Senthil,School of Astronomy,overall,2,0,8
+488,Abhinav Senthil,School of Astronomy,chemistry,2,0,8
+488,Riyan Nayak,School of Astronomy,overall,3,0,12
+488,Riyan Nayak,School of Astronomy,ess,1,0,4
+488,Sudeep Suresh,School of Astronomy,overall,0,1,-4
+488,Sudeep Suresh,School of Astronomy,physics,0,1,-4
+488,Riyan Nayak,School of Astronomy,biology,1,0,4
+488,Riyan Nayak,School of Astronomy,math,1,0,4
+488,Ryan Karim,School of Astronomy,chemistry,2,0,8
+488,Ryan Karim,School of Astronomy,physics,3,0,12
+488,Birdie Liu,University 2,overall,3,0,12
+488,Birdie Liu,University 2,biology,1,0,4
+488,Birdie Liu,University 2,ess,2,0,8
+498,Ajay Sawant,The Frazer School 1,overall,4,0,16
+498,Ajay Sawant,The Frazer School 1,biology,3,0,12
+498,William Liu,State College Area 1,overall,2,1,4
+498,William Liu,State College Area 1,math,1,0,4
+498,Aaron Le,State College Area 1,overall,1,0,4
+498,Aaron Le,State College Area 1,chemistry,1,0,4
+498,Michael Wei,The Frazer School 1,overall,8,0,32
+498,Michael Wei,The Frazer School 1,ess,4,0,16
+498,Ajay Sawant,The Frazer School 1,physics,1,0,4
+498,William Liu,State College Area 1,biology,1,0,4
+498,Michael Wei,The Frazer School 1,math,2,0,8
+498,Jimmy Jiang,The Frazer School 1,overall,2,0,8
+498,Jimmy Jiang,The Frazer School 1,chemistry,2,0,8
+498,Michael Wei,The Frazer School 1,physics,2,0,8
+498,Anish Patel,The Frazer School 1,overall,2,0,8
+498,Anish Patel,The Frazer School 1,chemistry,1,0,4
+498,William Liu,State College Area 1,ess,0,1,-4
+498,Anish Patel,The Frazer School 1,physics,1,0,4
+501,Saahil Dugar,Eastlake,overall,4,2,8
+501,Saahil Dugar,Eastlake,biology,1,1,0
+501,Sohil Rathi,Lynbrook 1,overall,9,2,28
+501,Sohil Rathi,Lynbrook 1,biology,2,1,4
+501,Sohil Rathi,Lynbrook 1,math,3,0,12
+501,Saahil Dugar,Eastlake,chemistry,3,0,12
+501,Yash N,Eastlake,overall,2,0,8
+501,Yash N,Eastlake,ess,2,0,8
+501,Sohil Rathi,Lynbrook 1,ess,0,1,-4
+501,Sohil Rathi,Lynbrook 1,physics,4,0,16
+501,Neal Kedia,Eastlake,overall,1,0,4
+501,Neal Kedia,Eastlake,biology,1,0,4
+501,Evan Liu,Lynbrook 1,overall,1,0,4
+501,Evan Liu,Lynbrook 1,chemistry,1,0,4
+501,Philip Kohr,Lynbrook 1,overall,1,0,4
+501,Philip Kohr,Lynbrook 1,ess,1,0,4
+501,Saahil Dugar,Eastlake,math,0,1,-4
+501,Saamik Agrawal,Eastlake,overall,0,1,-4
+501,Saamik Agrawal,Eastlake,physics,0,1,-4
+503,Luke Itomura,Punahou,overall,2,1,4
+503,Luke Itomura,Punahou,biology,2,1,4
+503,Travis Dumaran,Punahou,overall,10,0,40
+503,Travis Dumaran,Punahou,math,2,0,8
+503,Angeline Chen,Collierville 2,overall,1,0,4
+503,Angeline Chen,Collierville 2,chemistry,1,0,4
+503,Travis Dumaran,Punahou,ess,4,0,16
+503,Santhosh Balaji Venkatesh Babu,Collierville 2,overall,3,0,12
+503,Santhosh Balaji Venkatesh Babu,Collierville 2,biology,2,0,8
+503,Travis Dumaran,Punahou,chemistry,2,0,8
+503,Travis Dumaran,Punahou,physics,2,0,8
+503,Santhosh Balaji Venkatesh Babu,Collierville 2,math,0,0,0
+503,Santhosh Balaji Venkatesh Babu,Collierville 2,chemistry,1,0,4
+503,Kainoa Thorne,Punahou,overall,1,0,4
+503,Kainoa Thorne,Punahou,physics,1,0,4
+513,Johnson Peng,Arcadia 2,overall,2,0,8
+513,Johnson Peng,Arcadia 2,biology,1,0,4
+513,Eshaan Sombhatta,Thomas Jefferson 1,overall,1,0,4
+513,Eshaan Sombhatta,Thomas Jefferson 1,math,1,0,4
+513,Hrishi Bhooma,Thomas Jefferson 1,overall,7,0,28
+513,Hrishi Bhooma,Thomas Jefferson 1,chemistry,4,0,16
+513,Eric Xie,Thomas Jefferson 1,overall,3,0,12
+513,Eric Xie,Thomas Jefferson 1,ess,1,0,4
+513,Hrishi Bhooma,Thomas Jefferson 1,physics,1,0,4
+513,Hari Rangarajan,Thomas Jefferson 1,overall,1,0,4
+513,Hari Rangarajan,Thomas Jefferson 1,biology,1,0,4
+513,Johnson Peng,Arcadia 2,math,1,0,4
+513,Hrishi Bhooma,Thomas Jefferson 1,ess,0,0,0
+513,Pruthwiraj Vishwanatha,Arcadia 2,overall,2,0,8
+513,Pruthwiraj Vishwanatha,Arcadia 2,ess,1,0,4
+513,Eric Xie,Thomas Jefferson 1,physics,2,0,8
+513,Hrishi Bhooma,Thomas Jefferson 1,biology,2,0,8
+513,Jamie Wu,Arcadia 2,overall,1,0,4
+513,Jamie Wu,Arcadia 2,ess,1,0,4
+513,Pruthwiraj Vishwanatha,Arcadia 2,physics,1,0,4
+513,Hrishi Bhooma,Thomas Jefferson 1,math,0,0,0
+516,Larry Zhao,BISV 1,overall,2,0,8
+516,Larry Zhao,BISV 1,biology,2,0,8
+516,Derrick Liu,BISV 1,overall,4,1,12
+516,Derrick Liu,BISV 1,math,1,1,0
+516,Derrick Liu,BISV 1,chemistry,2,0,8
+516,Adhrit Maiti,BRMHS 1,overall,4,0,16
+516,Adhrit Maiti,BRMHS 1,ess,1,0,4
+516,Sidhant Chaliha,BISV 1,overall,1,1,0
+516,Sidhant Chaliha,BISV 1,physics,1,0,4
+516,Derrick Liu,BISV 1,biology,1,0,4
+516,Adhrit Maiti,BRMHS 1,math,2,0,8
+516,Bhaskar Moorthy,BRMHS 1,overall,3,0,12
+516,Bhaskar Moorthy,BRMHS 1,chemistry,0,0,0
+516,Lucas Quan,BISV 1,overall,3,1,8
+516,Lucas Quan,BISV 1,chemistry,1,1,0
+516,Lucas Quan,BISV 1,ess,2,0,8
+516,Adhrit Maiti,BRMHS 1,physics,1,0,4
+516,Bhaskar Moorthy,BRMHS 1,biology,1,0,4
+516,Sidhant Chaliha,BISV 1,biology,0,1,-4
+516,Sidhant Chaliha,BISV 1,math,0,0,0
+516,Mary Pham,BRMHS 1,overall,1,0,4
+516,Mary Pham,BRMHS 1,ess,1,0,4
+516,Bhaskar Moorthy,BRMHS 1,physics,2,0,8
+516,Lucas Quan,BISV 1,math,0,0,0
+518,Edward Anthony,Minnesota Institute of Timberwolves,overall,11,1,40
+518,Edward Anthony,Minnesota Institute of Timberwolves,biology,3,1,8
+518,Saketh Komaragiri,College Park,overall,1,0,4
+518,Saketh Komaragiri,College Park,biology,1,0,4
+518,Carl Towns,Minnesota Institute of Timberwolves,overall,3,1,8
+518,Carl Towns,Minnesota Institute of Timberwolves,math,3,0,12
+518,Andrew Zhang,College Park,overall,1,0,4
+518,Andrew Zhang,College Park,chemistry,1,0,4
+518,Edward Anthony,Minnesota Institute of Timberwolves,ess,2,0,8
+518,Edward Anthony,Minnesota Institute of Timberwolves,physics,4,0,16
+518,Edward Anthony,Minnesota Institute of Timberwolves,chemistry,2,0,8
+518,Carl Towns,Minnesota Institute of Timberwolves,ess,0,1,-4
+518,Saketh Komaragiri,College Park,ess,0,0,0
+518,Shubam Vennu,College Park,overall,2,1,4
+518,Shubam Vennu,College Park,biology,0,1,-4
+518,Shubam Vennu,College Park,chemistry,1,0,4
+518,Andrew Zhang,College Park,math,0,0,0
+518,Shubam Vennu,College Park,ess,1,0,4
+528,Dhairya Mathur,WWPS 2,overall,6,0,24
+528,Dhairya Mathur,WWPS 2,biology,3,0,12
+528,Likhith Malipati,WWPS 2,overall,4,2,8
+528,Likhith Malipati,WWPS 2,math,2,1,4
+528,Dhairya Mathur,WWPS 2,chemistry,2,0,8
+528,Daniel york,Iolani School 1,overall,4,1,12
+528,Daniel york,Iolani School 1,ess,1,0,4
+528,Likhith Malipati,WWPS 2,ess,1,0,4
+528,Daniel york,Iolani School 1,physics,1,1,0
+528,Likhith Malipati,WWPS 2,physics,0,1,-4
+528,Daniel york,Iolani School 1,biology,1,0,4
+528,Likhith Malipati,WWPS 2,biology,1,0,4
+528,Dhairya Mathur,WWPS 2,ess,0,0,0
+528,Keene Koide,Iolani School 1,overall,2,0,8
+528,Keene Koide,Iolani School 1,physics,1,0,4
+528,Keene Koide,Iolani School 1,math,0,0,0
+528,Keene Koide,Iolani School 1,chemistry,1,0,4
+528,Dhairya Mathur,WWPS 2,physics,1,0,4
+528,Daniel york,Iolani School 1,math,0,0,0
+528,Daniel york,Iolani School 1,chemistry,1,0,4
+528,Jason Mak,WWPS 2,overall,0,1,-4
+528,Jason Mak,WWPS 2,ess,0,0,0
+528,Jason Mak,WWPS 2,physics,0,1,-4
+531,Advik Sharma,ASFA 1,overall,4,0,16
+531,Advik Sharma,ASFA 1,biology,4,0,16
+531,Akhil Batchu,ASFA 1,overall,10,0,40
+531,Akhil Batchu,ASFA 1,math,1,0,4
+531,Akhil Batchu,ASFA 1,chemistry,4,0,16
+531,Akhil Batchu,ASFA 1,ess,2,0,8
+531,Akhil Batchu,ASFA 1,physics,3,0,12
+531,Albert Chen,ASFA 1,overall,2,0,8
+531,Albert Chen,ASFA 1,math,1,0,4
+531,Advaith Bade,Bridgeland,overall,1,1,0
+531,Advaith Bade,Bridgeland,ess,1,1,0
+531,Albert Chen,ASFA 1,physics,1,0,4
+531,Carson Postrigan,Bridgeland,overall,0,1,-4
+531,Carson Postrigan,Bridgeland,biology,0,1,-4
+531,Advaith Bade,Bridgeland,math,0,0,0
+531,Advik Sharma,ASFA 1,math,0,0,0
+531,Ben Dang,Bridgeland,overall,0,0,0
+531,Ben Dang,Bridgeland,math,0,0,0
+533,Helen Wang,Jericho 1,overall,10,0,40
+533,Helen Wang,Jericho 1,biology,4,0,16
+533,Alex Gavin,Harvard Westlake 2,overall,1,0,4
+533,Alex Gavin,Harvard Westlake 2,math,0,0,0
+533,Helen Wang,Jericho 1,math,2,0,8
+533,Ryan Tae,Jericho 1,overall,4,1,12
+533,Ryan Tae,Jericho 1,chemistry,2,1,4
+533,Jessie Cai,Harvard Westlake 2,overall,1,0,4
+533,Jessie Cai,Harvard Westlake 2,ess,1,0,4
+533,Helen Wang,Jericho 1,physics,1,0,4
+533,Alex Gavin,Harvard Westlake 2,biology,0,0,0
+533,Elsa Cheng,Harvard Westlake 2,overall,0,0,0
+533,Elsa Cheng,Harvard Westlake 2,ess,0,0,0
+533,Helen Wang,Jericho 1,ess,3,0,12
+533,Ryan Tae,Jericho 1,physics,2,0,8
+533,Elsa Cheng,Harvard Westlake 2,physics,0,0,0
+533,Alex Gavin,Harvard Westlake 2,chemistry,1,0,4
+543,Theenash Sengupta,Mission San Jose 1,overall,7,0,28
+543,Theenash Sengupta,Mission San Jose 1,biology,2,0,8
+543,Advaith Mopuri,Mission San Jose 1,overall,3,3,0
+543,Advaith Mopuri,Mission San Jose 1,math,3,0,12
+543,Theenash Sengupta,Mission San Jose 1,chemistry,3,0,12
+543,Roshan Annamalai,Mission San Jose 1,overall,4,0,16
+543,Roshan Annamalai,Mission San Jose 1,ess,2,0,8
+543,Roshan Annamalai,Mission San Jose 1,physics,2,0,8
+543,Advaith Mopuri,Mission San Jose 1,ess,0,1,-4
+543,Theenash Sengupta,Mission San Jose 1,physics,1,0,4
+543,Zayn Imran,Academies of Loudoun,overall,1,0,4
+543,Zayn Imran,Academies of Loudoun,biology,1,0,4
+543,Theenash Sengupta,Mission San Jose 1,ess,1,0,4
+543,Rutvik Arora,Mission San Jose 1,overall,1,0,4
+543,Rutvik Arora,Mission San Jose 1,physics,1,0,4
+543,Advaith Mopuri,Mission San Jose 1,biology,0,1,-4
+543,Advaith Mopuri,Mission San Jose 1,chemistry,0,1,-4
+546,Annie Luo,CCA 2,overall,2,2,0
+546,Annie Luo,CCA 2,biology,1,2,-4
+546,Hannah Gao,Whitney Young 2,overall,2,0,8
+546,Hannah Gao,Whitney Young 2,math,2,0,8
+546,Rishi Kumar,CCA 2,overall,3,0,12
+546,Rishi Kumar,CCA 2,chemistry,1,0,4
+546,Ashley Li,CCA 2,overall,3,0,12
+546,Ashley Li,CCA 2,ess,0,0,0
+546,Miles Wallace,Whitney Young 2,overall,2,0,8
+546,Miles Wallace,Whitney Young 2,ess,0,0,0
+546,Vladislav Bodnaruk,Whitney Young 2,overall,2,0,8
+546,Vladislav Bodnaruk,Whitney Young 2,biology,2,0,8
+546,Annie Luo,CCA 2,math,0,0,0
+546,Ashley Li,CCA 2,chemistry,2,0,8
+546,Miles Wallace,Whitney Young 2,chemistry,0,0,0
+546,Rishi Kumar,CCA 2,physics,0,0,0
+546,Rishi Kumar,CCA 2,ess,2,0,8
+546,Miles Wallace,Whitney Young 2,physics,2,0,8
+546,Ashley Li,CCA 2,biology,1,0,4
+546,Annie Luo,CCA 2,chemistry,1,0,4
+548,Kian Dhawan,Blair 1,overall,7,1,24
+548,Kian Dhawan,Blair 1,biology,4,0,16
+548,Akshay Rao,Lexington,overall,3,0,12
+548,Akshay Rao,Lexington,math,1,0,4
+548,Kian Dhawan,Blair 1,chemistry,1,1,0
+548,Aarin Mugundu,Lexington,overall,1,0,4
+548,Aarin Mugundu,Lexington,chemistry,1,0,4
+548,Akshay Rao,Lexington,ess,2,0,8
+548,Evan Zhang,Blair 1,overall,4,2,8
+548,Evan Zhang,Blair 1,physics,3,0,12
+548,Evan Zhang,Blair 1,math,1,1,0
+548,Evan Zhang,Blair 1,ess,0,1,-4
+548,Ashray Malhotra,Lexington,overall,0,1,-4
+548,Ashray Malhotra,Lexington,ess,0,0,0
+548,Simon Zhang,Lexington,overall,2,0,8
+548,Simon Zhang,Lexington,chemistry,2,0,8
+548,Ashray Malhotra,Lexington,biology,0,1,-4
+548,Kian Dhawan,Blair 1,ess,1,0,4
+548,Kian Dhawan,Blair 1,physics,1,0,4
+558,Ferris Li,Throrthwood Tottenham,overall,1,0,4
+558,Ferris Li,Throrthwood Tottenham,biology,1,0,4
+558,John Fenic,BUMSJK,overall,5,0,20
+558,John Fenic,BUMSJK,math,1,0,4
+558,Liran Zhu,Throrthwood Tottenham,overall,4,0,16
+558,Liran Zhu,Throrthwood Tottenham,chemistry,2,0,8
+558,Gordon Wong,Throrthwood Tottenham,overall,2,0,8
+558,Gordon Wong,Throrthwood Tottenham,ess,2,0,8
+558,Kristin Peng,BUMSJK,overall,2,0,8
+558,Kristin Peng,BUMSJK,physics,1,0,4
+558,John Fenic,BUMSJK,biology,2,0,8
+558,Jolie Neal,BUMSJK,overall,0,0,0
+558,Jolie Neal,BUMSJK,ess,0,0,0
+558,Seojin Park,Throrthwood Tottenham,overall,2,0,8
+558,Seojin Park,Throrthwood Tottenham,ess,0,0,0
+558,Liran Zhu,Throrthwood Tottenham,physics,1,0,4
+558,John Fenic,BUMSJK,chemistry,2,0,8
+558,Liran Zhu,Throrthwood Tottenham,ess,1,0,4
+558,Seojin Park,Throrthwood Tottenham,physics,2,0,8
+558,Kristin Peng,BUMSJK,biology,1,0,4
+558,Gordon Wong,Throrthwood Tottenham,math,0,0,0
+561,Colton Bing,IMSA 2,overall,7,0,28
+561,Colton Bing,IMSA 2,biology,4,0,16
+561,Jonathan Cai,IMSA 2,overall,2,0,8
+561,Jonathan Cai,IMSA 2,chemistry,1,0,4
+561,Jonathan Cai,IMSA 2,physics,1,0,4
+561,Colton Bing,IMSA 2,chemistry,1,0,4
+561,Colton Bing,IMSA 2,ess,1,0,4
+561,Colton Bing,IMSA 2,physics,1,0,4
+384,Yajur Chandar,Davidson Academy,overall,3,1,8
+384,Yajur Chandar,Davidson Academy,biology,2,1,4
+384,Ethan Chan,Davidson Academy,overall,1,0,4
+384,Ethan Chan,Davidson Academy,math,1,0,4
+384,Lucas Wu,Davidson Academy,overall,7,2,20
+384,Lucas Wu,Davidson Academy,chemistry,2,0,8
+384,Kiaan Biswas,Ward Melville 2,overall,1,2,-4
+384,Kiaan Biswas,Ward Melville 2,ess,0,1,-4
+384,Lucas Wu,Davidson Academy,ess,2,0,8
+384,Will Squire,Ward Melville 2,overall,0,2,-8
+384,Will Squire,Ward Melville 2,physics,0,1,-4
+384,Lucas Wu,Davidson Academy,physics,2,2,0
+384,Gunes Sunar,Ward Melville 2,overall,4,0,16
+384,Gunes Sunar,Ward Melville 2,biology,1,0,4
+384,Gunes Sunar,Ward Melville 2,math,1,0,4
+384,Yajur Chandar,Davidson Academy,chemistry,1,0,4
+384,Will Squire,Ward Melville 2,ess,0,1,-4
+384,Gunes Sunar,Ward Melville 2,physics,2,0,8
+384,Kiaan Biswas,Ward Melville 2,biology,1,1,0
+384,Lucas Wu,Davidson Academy,math,1,0,4
+384,Shayan Sattarvand,Davidson Academy,overall,1,0,4
+384,Shayan Sattarvand,Davidson Academy,chemistry,1,0,4
+384,Gunes Sunar,Ward Melville 2,ess,0,0,0
+391,Aldric Benalan,West Windsor-Plainsboro North,overall,8,1,28
+391,Aldric Benalan,West Windsor-Plainsboro North,biology,1,0,4
+391,Easton Wei,West Windsor-Plainsboro North,overall,5,1,16
+391,Easton Wei,West Windsor-Plainsboro North,math,2,0,8
+391,Easton Wei,West Windsor-Plainsboro North,chemistry,3,0,12
+391,Namita Gaidhani,Cupertino 1,overall,1,0,4
+391,Namita Gaidhani,Cupertino 1,ess,1,0,4
+391,Aldric Benalan,West Windsor-Plainsboro North,ess,3,1,8
+391,Pranav Burra,Cupertino 1,overall,1,0,4
+391,Pranav Burra,Cupertino 1,physics,1,0,4
+391,Easton Wei,West Windsor-Plainsboro North,physics,0,1,-4
+391,Sharath Sanjay,West Windsor-Plainsboro North,overall,2,0,8
+391,Sharath Sanjay,West Windsor-Plainsboro North,biology,2,0,8
+391,Pranav Burra,Cupertino 1,chemistry,0,0,0
+391,Aldric Benalan,West Windsor-Plainsboro North,physics,2,0,8
+391,Aldric Benalan,West Windsor-Plainsboro North,chemistry,1,0,4
+391,Iurii Kirpichev,Cupertino 1,overall,0,0,0
+391,Iurii Kirpichev,Cupertino 1,physics,0,0,0
+391,Ishaan Arya,West Windsor-Plainsboro North,overall,1,0,4
+391,Ishaan Arya,West Windsor-Plainsboro North,biology,1,0,4
+391,Aldric Benalan,West Windsor-Plainsboro North,math,1,0,4
+395,Judy Tan,Temple City,overall,1,0,4
+395,Judy Tan,Temple City,biology,1,0,4
+395,Owen Mao,CCA 1,overall,6,0,24
+395,Owen Mao,CCA 1,math,2,0,8
+395,Ethan Deng,Temple City,overall,1,0,4
+395,Ethan Deng,Temple City,math,1,0,4
+395,Owen Mao,CCA 1,chemistry,2,0,8
+395,Alexander Destefano,CCA 1,overall,1,0,4
+395,Alexander Destefano,CCA 1,ess,1,0,4
+395,Bryce Thach,Temple City,overall,7,1,24
+395,Bryce Thach,Temple City,physics,3,0,12
+395,Alexander Destefano,CCA 1,biology,0,0,0
+395,Bryce Thach,Temple City,biology,1,0,4
+395,Dennis Stens,CCA 1,overall,0,1,-4
+395,Dennis Stens,CCA 1,chemistry,0,1,-4
+395,Jason Liu,Temple City,overall,3,0,12
+395,Jason Liu,Temple City,chemistry,1,0,4
+395,Owen Mao,CCA 1,ess,1,0,4
+395,Bryce Thach,Temple City,ess,2,0,8
+395,Yihan Jing,CCA 1,overall,0,1,-4
+395,Yihan Jing,CCA 1,biology,0,1,-4
+395,Jason Liu,Temple City,biology,2,0,8
+395,Bryce Thach,Temple City,chemistry,1,1,0
+395,Owen Mao,CCA 1,physics,1,0,4
+395,Dennis Stens,CCA 1,biology,0,0,0
+399,Uddip Kashyap,VMATHs,overall,1,2,-4
+399,Uddip Kashyap,VMATHs,biology,1,1,0
+399,Varun Gadi,VMATHs,overall,5,1,16
+399,Varun Gadi,VMATHs,math,3,0,12
+399,William Wang,Lakeside 1,overall,3,1,8
+399,William Wang,Lakeside 1,chemistry,2,1,4
+399,S I,VMATHs,overall,3,1,8
+399,S I,VMATHs,ess,0,1,-4
+399,Vishnu Mangipudi,Lakeside 1,overall,2,3,-4
+399,Vishnu Mangipudi,Lakeside 1,ess,2,0,8
+399,Varun Gadi,VMATHs,physics,1,1,0
+399,Vishnu Mangipudi,Lakeside 1,physics,0,2,-8
+399,S I,VMATHs,biology,2,0,8
+399,James Yang,Lakeside 1,overall,0,1,-4
+399,James Yang,Lakeside 1,math,0,1,-4
+399,Varun Gadi,VMATHs,chemistry,1,0,4
+399,William Wang,Lakeside 1,physics,1,0,4
+399,Vishnu Mangipudi,Lakeside 1,math,0,1,-4
+399,S I,VMATHs,chemistry,1,0,4
+399,Sara Liu,Lakeside 1,overall,0,0,0
+399,Sara Liu,Lakeside 1,physics,0,0,0
+399,Vishnu Mangipudi,Lakeside 1,biology,0,0,0
+399,Uddip Kashyap,VMATHs,ess,0,1,-4
+406,Achuth Vinay,Clovis North High,overall,2,0,8
+406,Achuth Vinay,Clovis North High,biology,1,0,4
+406,Achuth Vinay,Clovis North High,math,1,0,4
+406,Justin Do,Clovis North High,overall,4,0,16
+406,Justin Do,Clovis North High,chemistry,2,0,8
+406,Abhijay Banerjee,Blair 2,overall,0,2,-8
+406,Abhijay Banerjee,Blair 2,chemistry,0,1,-4
+406,Renard Wu,Clovis North High,overall,0,0,0
+406,Renard Wu,Clovis North High,ess,0,0,0
+406,Samuel Wang,Blair 2,overall,5,2,12
+406,Samuel Wang,Blair 2,ess,2,1,4
+406,Majed Almasri,Clovis North High,overall,1,1,0
+406,Majed Almasri,Clovis North High,physics,1,1,0
+406,Eric Xie,Blair 2,overall,3,0,12
+406,Eric Xie,Blair 2,physics,0,0,0
+406,Samuel Wang,Blair 2,biology,2,1,4
+406,Eric Xie,Blair 2,math,3,0,12
+406,Meghna Singh,Blair 2,overall,1,0,4
+406,Meghna Singh,Blair 2,chemistry,1,0,4
+406,Justin Do,Clovis North High,physics,2,0,8
+406,Abhijay Banerjee,Blair 2,physics,0,1,-4
+406,Majed Almasri,Clovis North High,math,0,0,0
+406,Samuel Wang,Blair 2,chemistry,1,0,4
+406,Meghna Singh,Blair 2,ess,0,0,0
+410,Adhav Kumar,Research Triangle,overall,6,4,8
+410,Adhav Kumar,Research Triangle,biology,2,0,8
+410,Adhav Kumar,Research Triangle,math,1,0,4
+410,Ethan Wang,Troy 1,overall,6,0,24
+410,Ethan Wang,Troy 1,math,2,0,8
+410,Adhav Kumar,Research Triangle,chemistry,3,1,8
+410,Abhinav Jain,Troy 1,overall,1,1,0
+410,Abhinav Jain,Troy 1,chemistry,1,1,0
+410,Adhav Kumar,Research Triangle,ess,0,1,-4
+410,Ethan Wang,Troy 1,ess,1,0,4
+410,Adhav Kumar,Research Triangle,physics,0,2,-8
+410,Aarav Doshi,Troy 1,overall,1,1,0
+410,Aarav Doshi,Troy 1,physics,0,0,0
+410,Ethan Wang,Troy 1,biology,1,0,4
+410,Ethan Wang,Troy 1,physics,2,0,8
+410,Aarav Doshi,Troy 1,biology,1,1,0
+410,Aarav Doshi,Troy 1,ess,0,0,0
+414,Aravind Muralidharan,Mission San Jose 2,overall,3,1,8
+414,Aravind Muralidharan,Mission San Jose 2,biology,3,1,8
+414,Andy Liu,Mission San Jose 2,overall,2,0,8
+414,Andy Liu,Mission San Jose 2,math,1,0,4
+414,Edward Zeng,Mission San Jose 2,overall,1,0,4
+414,Edward Zeng,Mission San Jose 2,chemistry,1,0,4
+414,Ishaan Kabra,Mission San Jose 2,overall,6,3,12
+414,Ishaan Kabra,Mission San Jose 2,ess,3,1,8
+414,Camille Pimentel,Hunter College 1,overall,2,0,8
+414,Camille Pimentel,Hunter College 1,ess,1,0,4
+414,Gabe Levin,Hunter College 1,overall,6,0,24
+414,Gabe Levin,Hunter College 1,physics,3,0,12
+414,Ishaan Kabra,Mission San Jose 2,math,2,0,8
+414,Gabe Levin,Hunter College 1,chemistry,2,0,8
+414,Ishaan Kabra,Mission San Jose 2,physics,1,1,0
+414,Andy Liu,Mission San Jose 2,chemistry,1,0,4
+414,Camille Pimentel,Hunter College 1,biology,1,0,4
+414,Gabe Levin,Hunter College 1,math,1,0,4
+414,Ishaan Kabra,Mission San Jose 2,chemistry,0,1,-4
+421,Narayan Chutkay,Camas,overall,2,1,4
+421,Narayan Chutkay,Camas,biology,2,1,4
+421,Yan-Ru Cao,Wayzata,overall,3,0,12
+421,Yan-Ru Cao,Wayzata,math,1,0,4
+421,Yan-Ru Cao,Wayzata,chemistry,2,0,8
+421,Luyao Yang,Wayzata,overall,2,0,8
+421,Luyao Yang,Wayzata,ess,2,0,8
+421,Alexander Yu,Camas,overall,2,0,8
+421,Alexander Yu,Camas,biology,1,0,4
+421,Kevin Qiu,Wayzata,overall,5,1,16
+421,Kevin Qiu,Wayzata,math,2,0,8
+421,Kevin Qiu,Wayzata,ess,1,0,4
+421,Kevin Qiu,Wayzata,physics,0,1,-4
+421,Shaunak Deshpande,Camas,overall,1,0,4
+421,Shaunak Deshpande,Camas,physics,1,0,4
+421,Kevin Qiu,Wayzata,chemistry,2,0,8
+421,Alexander Yu,Camas,physics,1,0,4
+421,Sophie Cui,Wayzata,overall,2,0,8
+421,Sophie Cui,Wayzata,biology,1,0,4
+421,Sophie Cui,Wayzata,ess,1,0,4
+425,Sumin Yoon,Collierville 1,overall,6,1,20
+425,Sumin Yoon,Collierville 1,biology,1,0,4
+425,Tony Han,IMSA 1,overall,3,1,8
+425,Tony Han,IMSA 1,math,3,0,12
+425,Rehan Krishnan,Collierville 1,overall,2,1,4
+425,Rehan Krishnan,Collierville 1,chemistry,1,0,4
+425,Sumin Yoon,Collierville 1,ess,2,1,4
+425,Jeev Hora,IMSA 1,overall,2,1,4
+425,Jeev Hora,IMSA 1,ess,1,0,4
+425,Charith Nimmagadda,Collierville 1,overall,0,1,-4
+425,Charith Nimmagadda,Collierville 1,physics,0,1,-4
+425,Tony Han,IMSA 1,physics,0,1,-4
+425,Rehan Krishnan,Collierville 1,biology,1,1,0
+425,Jeev Hora,IMSA 1,biology,0,0,0
+425,Tyler He,IMSA 1,overall,1,0,4
+425,Tyler He,IMSA 1,chemistry,1,0,4
+425,Sumin Yoon,Collierville 1,physics,1,0,4
+425,Shreyansh Alluri,Collierville 1,overall,1,0,4
+425,Shreyansh Alluri,Collierville 1,math,1,0,4
+425,Jeev Hora,IMSA 1,math,0,0,0
+425,Sumin Yoon,Collierville 1,chemistry,2,0,8
+425,Jeev Hora,IMSA 1,physics,1,1,0
+429,Heidi Leonard,James Clemens,overall,4,0,16
+429,Heidi Leonard,James Clemens,biology,4,0,16
+429,Austin Zhang,Arcadia 1,overall,3,0,12
+429,Austin Zhang,Arcadia 1,math,1,0,4
+429,Paxton Lin,Arcadia 1,overall,4,0,16
+429,Paxton Lin,Arcadia 1,chemistry,2,0,8
+429,Praneel Avula,James Clemens,overall,6,2,16
+429,Praneel Avula,James Clemens,ess,1,0,4
+429,Austin Zhang,Arcadia 1,physics,2,0,8
+429,Praneel Avula,James Clemens,physics,1,2,-4
+429,Praneel Avula,James Clemens,math,2,0,8
+429,Paxton Lin,Arcadia 1,ess,2,0,8
+429,Praneel Avula,James Clemens,chemistry,2,0,8
+429,Joel Yang,James Clemens,overall,1,0,4
+429,Joel Yang,James Clemens,ess,1,0,4
+436,Aarush Iyer,MSJ 3,overall,4,0,16
+436,Aarush Iyer,MSJ 3,biology,3,0,12
+436,Hank Sun,MSJ 3,overall,2,0,8
+436,Hank Sun,MSJ 3,math,1,0,4
+436,Abhiraam Girish,MSJ 3,overall,5,2,12
+436,Abhiraam Girish,MSJ 3,chemistry,2,0,8
+436,Abhiraam Girish,MSJ 3,ess,0,2,-8
+436,Arman A,Ladue,overall,0,2,-8
+436,Arman A,Ladue,ess,0,0,0
+436,Hank Sun,MSJ 3,physics,1,0,4
+436,Aaron Lin,Ladue,overall,3,1,8
+436,Aaron Lin,Ladue,physics,1,1,0
+436,Maxwell Zhang,MSJ 3,overall,1,0,4
+436,Maxwell Zhang,MSJ 3,biology,1,0,4
+436,Zoran Pan,Ladue,overall,0,0,0
+436,Zoran Pan,Ladue,biology,0,0,0
+436,Abhiraam Girish,MSJ 3,math,1,0,4
+436,Aaron Lin,Ladue,chemistry,1,0,4
+436,Ayden Huang,Ladue,overall,2,1,4
+436,Ayden Huang,Ladue,ess,2,0,8
+436,Abhiraam Girish,MSJ 3,physics,2,0,8
+436,Arman A,Ladue,physics,0,1,-4
+436,Arman A,Ladue,biology,0,1,-4
+436,Aaron Lin,Ladue,math,1,0,4
+436,Ayden Huang,Ladue,biology,0,1,-4
+436,Aarush Iyer,MSJ 3,chemistry,1,0,4
+440,Lisa Xun,Westview 1,overall,0,0,0
+440,Lisa Xun,Westview 1,biology,0,0,0
+440,Saish Koul,John P. Stevens,overall,1,0,4
+440,Saish Koul,John P. Stevens,biology,0,0,0
+440,Zoey Tang,Westview 1,overall,5,0,20
+440,Zoey Tang,Westview 1,math,2,0,8
+440,Lisa Xun,Westview 1,chemistry,0,0,0
+440,Saish Koul,John P. Stevens,chemistry,1,0,4
+440,Sanjana Basa,Westview 1,overall,1,0,4
+440,Sanjana Basa,Westview 1,ess,0,0,0
+440,Pranesh Kirubakar,John P. Stevens,overall,1,1,0
+440,Pranesh Kirubakar,John P. Stevens,ess,1,0,4
+440,Zoey Tang,Westview 1,physics,3,0,12
+440,Rishabh Girish,John P. Stevens,overall,0,1,-4
+440,Rishabh Girish,John P. Stevens,physics,0,0,0
+440,Sreehaas Mannepalli,John P. Stevens,overall,1,1,0
+440,Sreehaas Mannepalli,John P. Stevens,biology,1,0,4
+440,Sreehaas Mannepalli,John P. Stevens,math,0,1,-4
+440,Zoey Tang,Westview 1,chemistry,0,0,0
+440,Pranesh Kirubakar,John P. Stevens,chemistry,0,0,0
+440,Pranesh Kirubakar,John P. Stevens,physics,0,0,0
+440,Pranesh Kirubakar,John P. Stevens,biology,0,1,-4
+440,Rishabh Girish,John P. Stevens,chemistry,0,1,-4
+440,Sanjana Basa,Westview 1,physics,1,0,4
+440,Saish Koul,John P. Stevens,physics,0,0,0
+440,Zoey Tang,Westview 1,biology,0,0,0
+440,Rishabh Girish,John P. Stevens,biology,0,0,0
+440,Pranesh Kirubakar,John P. Stevens,math,0,0,0
+444,Angelina Yan,North Hollywood 1,overall,1,0,4
+444,Angelina Yan,North Hollywood 1,biology,1,0,4
+444,suzuko ohshima,North Hollywood 1,overall,9,2,28
+444,suzuko ohshima,North Hollywood 1,math,2,0,8
+444,Gavin Macatangay,Princeton,overall,1,0,4
+444,Gavin Macatangay,Princeton,chemistry,1,0,4
+444,suzuko ohshima,North Hollywood 1,ess,3,0,12
+444,Nikolai Morozov,Princeton,overall,0,0,0
+444,Nikolai Morozov,Princeton,ess,0,0,0
+444,Charles Huang,North Hollywood 1,overall,2,1,4
+444,Charles Huang,North Hollywood 1,physics,1,1,0
+444,suzuko ohshima,North Hollywood 1,biology,2,1,4
+444,Alex Sheng,Princeton,overall,1,0,4
+444,Alex Sheng,Princeton,math,1,0,4
+444,suzuko ohshima,North Hollywood 1,chemistry,1,0,4
+444,Charles Huang,North Hollywood 1,math,0,0,0
+444,Joey Chang,Princeton,overall,2,0,8
+444,Joey Chang,Princeton,chemistry,1,0,4
+444,Minghao Guo,North Hollywood 1,overall,0,1,-4
+444,Minghao Guo,North Hollywood 1,ess,0,1,-4
+444,Joey Chang,Princeton,ess,1,0,4
+444,suzuko ohshima,North Hollywood 1,physics,1,1,0
+444,Nikolai Morozov,Princeton,physics,0,0,0
+444,Charles Huang,North Hollywood 1,chemistry,1,0,4
+451,Rasia Yu,Palo Alto 1,overall,3,0,12
+451,Rasia Yu,Palo Alto 1,biology,3,0,12
+451,Andrew Wen,Palo Alto 1,overall,10,0,40
+451,Andrew Wen,Palo Alto 1,math,3,0,12
+451,Kevin Pei,Palo Alto 1,overall,3,0,12
+451,Kevin Pei,Palo Alto 1,chemistry,1,0,4
+451,Andrew Wen,Palo Alto 1,physics,4,0,16
+451,Andrew Wen,Palo Alto 1,chemistry,3,0,12
+451,Kevin Pei,Palo Alto 1,ess,2,0,8
+455,Arjun Pandey,BASIS Independent Fremont,overall,5,0,20
+455,Arjun Pandey,BASIS Independent Fremont,biology,2,0,8
+455,Arjun Pandey,BASIS Independent Fremont,math,2,0,8
+455,Alexander Yang,BRMHS 2,overall,4,0,16
+455,Alexander Yang,BRMHS 2,math,1,0,4
+455,Christopher Khoa Nguyen,BRMHS 2,overall,3,0,12
+455,Christopher Khoa Nguyen,BRMHS 2,chemistry,1,0,4
+455,Arjun Pandey,BASIS Independent Fremont,ess,1,0,4
+455,Christopher Khoa Nguyen,BRMHS 2,ess,1,0,4
+455,Arjun Pandey,BASIS Independent Fremont,physics,0,0,0
+455,Christopher Khoa Nguyen,BRMHS 2,physics,1,0,4
+455,Angela Cao,BASIS Independent Fremont,overall,1,0,4
+455,Angela Cao,BASIS Independent Fremont,biology,0,0,0
+455,Christopher Khoa Nguyen,BRMHS 2,biology,0,0,0
+455,Angela Cao,BASIS Independent Fremont,chemistry,1,0,4
+455,Kenneth Michel,BRMHS 2,overall,1,0,4
+455,Kenneth Michel,BRMHS 2,physics,1,0,4
+455,Alexander Yang,BRMHS 2,physics,2,0,8
+455,Alexander Yang,BRMHS 2,chemistry,1,0,4
+466,Joshua Horowitz,Jericho 2,overall,1,0,4
+466,Joshua Horowitz,Jericho 2,biology,1,0,4
+466,Timothy Chen,University 1,overall,6,1,20
+466,Timothy Chen,University 1,math,2,1,4
+466,Carl Liu,University 1,overall,0,2,-8
+466,Carl Liu,University 1,chemistry,0,1,-4
+466,Joshua Horowitz,Jericho 2,chemistry,0,0,0
+466,Timothy Chen,University 1,ess,0,0,0
+466,Rayan Hasan,Jericho 2,overall,3,0,12
+466,Rayan Hasan,Jericho 2,ess,1,0,4
+466,Timothy Chen,University 1,physics,3,0,12
+466,Timothy Chen,University 1,biology,0,0,0
+466,Rayan Hasan,Jericho 2,biology,0,0,0
+466,Andy Ryoo,Jericho 2,overall,0,0,0
+466,Andy Ryoo,Jericho 2,math,0,0,0
+466,Rayan Hasan,Jericho 2,chemistry,2,0,8
+466,Joshua Horowitz,Jericho 2,ess,0,0,0
+466,Carl Liu,University 1,physics,0,1,-4
+466,Andy Ryoo,Jericho 2,physics,0,0,0
+466,Bhavana Thirunavukkarasan,University 1,overall,1,0,4
+466,Bhavana Thirunavukkarasan,University 1,biology,1,0,4
+466,Henry Li,Jericho 2,overall,0,0,0
+466,Henry Li,Jericho 2,ess,0,0,0
+466,Timothy Chen,University 1,chemistry,1,0,4
+466,Rayan Hasan,Jericho 2,physics,0,0,0
+470,Abhinav Anand,WWPS 1,overall,3,1,8
+470,Abhinav Anand,WWPS 1,biology,2,0,8
+470,Patrick Liang,North Hollywood 2,overall,2,0,8
+470,Patrick Liang,North Hollywood 2,math,2,0,8
+470,Monish Saravana Kumar,WWPS 1,overall,2,1,4
+470,Monish Saravana Kumar,WWPS 1,math,1,1,0
+470,Sanjay Oruganti,WWPS 1,overall,5,1,16
+470,Sanjay Oruganti,WWPS 1,chemistry,4,0,16
+470,Kensuke Ohshima,North Hollywood 2,overall,4,0,16
+470,Kensuke Ohshima,North Hollywood 2,ess,2,0,8
+470,Abhinav Anand,WWPS 1,ess,1,1,0
+470,Monish Saravana Kumar,WWPS 1,physics,1,0,4
+470,Sanjay Oruganti,WWPS 1,physics,1,1,0
+470,Kensuke Ohshima,North Hollywood 2,biology,1,0,4
+470,Kensuke Ohshima,North Hollywood 2,math,0,0,0
+470,Kensuke Ohshima,North Hollywood 2,physics,1,0,4
+470,Jake Rosenblum,North Hollywood 2,overall,0,1,-4
+470,Jake Rosenblum,North Hollywood 2,biology,0,1,-4
+474,Eric Liu,Ward Melville 1,overall,6,3,12
+474,Eric Liu,Ward Melville 1,biology,3,1,8
+474,Harry Gao,Ward Melville 1,overall,7,2,20
+474,Harry Gao,Ward Melville 1,math,2,1,4
+474,Eric Liu,Ward Melville 1,chemistry,2,2,0
+474,Ruixi Zhang,Blair 3,overall,1,0,4
+474,Ruixi Zhang,Blair 3,chemistry,1,0,4
+474,Harry Gao,Ward Melville 1,ess,3,0,12
+474,Henry Lu,Blair 3,overall,2,1,4
+474,Henry Lu,Blair 3,ess,1,1,0
+474,Harry Gao,Ward Melville 1,physics,2,1,4
+474,Edison Gao,Blair 3,overall,2,0,8
+474,Edison Gao,Blair 3,physics,0,0,0
+474,Edison Gao,Blair 3,math,1,0,4
+474,Eric Liu,Ward Melville 1,physics,1,0,4
+474,Edison Gao,Blair 3,biology,1,0,4
+474,Henry Lu,Blair 3,chemistry,1,0,4
+481,Henry Kim,OCSA,overall,4,0,16
+481,Henry Kim,OCSA,biology,4,0,16
+481,Aryan Sharma,OCSA,overall,1,0,4
+481,Aryan Sharma,OCSA,math,1,0,4
+481,Jason Z,BISV 2,overall,1,0,4
+481,Jason Z,BISV 2,math,1,0,4
+481,Shannon Imaoka,OCSA,overall,6,1,20
+481,Shannon Imaoka,OCSA,chemistry,3,0,12
+481,Shannon Imaoka,OCSA,ess,2,0,8
+481,Shannon Imaoka,OCSA,physics,1,0,4
+481,Liam Tran,BISV 2,overall,4,1,12
+481,Liam Tran,BISV 2,physics,2,1,4
+481,Liam Tran,BISV 2,math,1,0,4
+481,Henry Kim,OCSA,chemistry,0,0,0
+481,Jason Z,BISV 2,chemistry,0,0,0
+481,Liam Tran,BISV 2,ess,1,0,4
+481,Joseph Baek,OCSA,overall,0,1,-4
+481,Joseph Baek,OCSA,math,0,0,0
+481,Minglang Du,BISV 2,overall,0,0,0
+481,Minglang Du,BISV 2,math,0,0,0
+481,Joseph Baek,OCSA,physics,0,1,-4
+481,Shannon Imaoka,OCSA,math,0,1,-4
+481,Jason Z,BISV 2,ess,0,0,0
+485,Jason Tang,AHB 1,overall,2,0,8
+485,Jason Tang,AHB 1,biology,2,0,8
+485,Daniel Cai,AHB 1,overall,4,1,12
+485,Daniel Cai,AHB 1,math,1,0,4
+485,Ariv Barua,AHB 1,overall,4,0,16
+485,Ariv Barua,AHB 1,chemistry,3,0,12
+485,Chaniel Kpekpe,Whitney Young 1,overall,2,1,4
+485,Chaniel Kpekpe,Whitney Young 1,chemistry,0,0,0
+485,Ariv Barua,AHB 1,ess,1,0,4
+485,Brennan Tsai,Whitney Young 1,overall,1,0,4
+485,Brennan Tsai,Whitney Young 1,ess,0,0,0
+485,Daniel Cai,AHB 1,physics,2,1,4
+485,Chaniel Kpekpe,Whitney Young 1,physics,1,0,4
+485,Brennan Tsai,Whitney Young 1,biology,0,0,0
+485,Ariv Barua,AHB 1,math,0,0,0
+485,Brennan Tsai,Whitney Young 1,math,1,0,4
+485,Chaniel Kpekpe,Whitney Young 1,biology,0,1,-4
+485,Jason Tang,AHB 1,math,0,0,0
+485,Chaniel Kpekpe,Whitney Young 1,ess,1,0,4
+485,Daniel Cai,AHB 1,chemistry,1,0,4
+489,Ajay Sawant,The Frazer School 1,overall,7,0,28
+489,Ajay Sawant,The Frazer School 1,biology,4,0,16
+489,Birdie Liu,University 2,overall,2,0,8
+489,Birdie Liu,University 2,math,0,0,0
+489,Michael Wei,The Frazer School 1,overall,2,1,4
+489,Michael Wei,The Frazer School 1,math,2,0,8
+489,Jimmy Jiang,The Frazer School 1,overall,2,0,8
+489,Jimmy Jiang,The Frazer School 1,chemistry,2,0,8
+489,Toby Wei,University 2,overall,0,0,0
+489,Toby Wei,University 2,ess,0,0,0
+489,Michael Wei,The Frazer School 1,ess,0,1,-4
+489,Brandon Chiu,University 2,overall,1,2,-4
+489,Brandon Chiu,University 2,physics,1,1,0
+489,Anish Patel,The Frazer School 1,overall,3,1,8
+489,Anish Patel,The Frazer School 1,physics,2,1,4
+489,Birdie Liu,University 2,ess,2,0,8
+489,Ajay Sawant,The Frazer School 1,physics,1,0,4
+489,Ajay Sawant,The Frazer School 1,chemistry,2,0,8
+489,Brandon Chiu,University 2,math,0,1,-4
+489,Anish Patel,The Frazer School 1,math,1,0,4
+496,Ryan Karim,School of Astronomy,overall,9,1,32
+496,Ryan Karim,School of Astronomy,biology,2,0,8
+496,Evan Liu,Lynbrook 1,overall,3,0,12
+496,Evan Liu,Lynbrook 1,math,1,0,4
+496,Abhinav Senthil,School of Astronomy,overall,2,0,8
+496,Abhinav Senthil,School of Astronomy,chemistry,1,0,4
+496,Ryan Karim,School of Astronomy,ess,2,0,8
+496,Evan Liu,Lynbrook 1,ess,0,0,0
+496,Riyan Nayak,School of Astronomy,overall,1,1,0
+496,Riyan Nayak,School of Astronomy,physics,0,1,-4
+496,Evan Liu,Lynbrook 1,physics,1,0,4
+496,Evan Liu,Lynbrook 1,biology,0,0,0
+496,Ryan Karim,School of Astronomy,math,1,0,4
+496,Ryan Karim,School of Astronomy,chemistry,2,0,8
+496,Abhinav Senthil,School of Astronomy,ess,1,0,4
+496,Ryan Karim,School of Astronomy,physics,2,1,4
+496,Abhinav Senthil,School of Astronomy,math,0,0,0
+496,Riyan Nayak,School of Astronomy,math,1,0,4
+496,Evan Liu,Lynbrook 1,chemistry,1,0,4
+500,Neal Kedia,Eastlake,overall,3,0,12
+500,Neal Kedia,Eastlake,biology,3,0,12
+500,Aaron Le,State College Area 1,overall,3,2,4
+500,Aaron Le,State College Area 1,math,1,0,4
+500,Aaron Le,State College Area 1,chemistry,2,0,8
+500,Yash N,Eastlake,overall,0,0,0
+500,Yash N,Eastlake,ess,0,0,0
+500,William Liu,State College Area 1,overall,2,1,4
+500,William Liu,State College Area 1,ess,1,0,4
+500,Shivam Chowdhary,Eastlake,overall,3,0,12
+500,Shivam Chowdhary,Eastlake,physics,2,0,8
+500,William Liu,State College Area 1,biology,0,0,0
+500,Saamik Agrawal,Eastlake,overall,1,0,4
+500,Saamik Agrawal,Eastlake,math,1,0,4
+500,Shivam Chowdhary,Eastlake,chemistry,1,0,4
+500,Saamik Agrawal,Eastlake,physics,0,0,0
+500,Aaron Le,State College Area 1,physics,0,1,-4
+500,William Liu,State College Area 1,math,1,0,4
+500,Saahil Dugar,Eastlake,overall,1,0,4
+500,Saahil Dugar,Eastlake,ess,0,0,0
+500,William Liu,State College Area 1,physics,0,1,-4
+500,Aaron Le,State College Area 1,biology,0,1,-4
+500,Saahil Dugar,Eastlake,chemistry,1,0,4
+504,Hari Rangarajan,Thomas Jefferson 1,overall,1,0,4
+504,Hari Rangarajan,Thomas Jefferson 1,biology,1,0,4
+504,Eshaan Sombhatta,Thomas Jefferson 1,overall,5,1,16
+504,Eshaan Sombhatta,Thomas Jefferson 1,math,2,1,4
+504,Hrishi Bhooma,Thomas Jefferson 1,overall,4,1,12
+504,Hrishi Bhooma,Thomas Jefferson 1,chemistry,3,0,12
+504,Angeline Chen,Collierville 2,overall,1,0,4
+504,Angeline Chen,Collierville 2,ess,1,0,4
+504,Eshaan Sombhatta,Thomas Jefferson 1,ess,0,0,0
+504,Santhosh Balaji Venkatesh Babu,Collierville 2,overall,1,0,4
+504,Santhosh Balaji Venkatesh Babu,Collierville 2,physics,0,0,0
+504,Eshaan Sombhatta,Thomas Jefferson 1,physics,1,0,4
+504,Santhosh Balaji Venkatesh Babu,Collierville 2,biology,1,0,4
+504,Eric Xie,Thomas Jefferson 1,overall,1,0,4
+504,Eric Xie,Thomas Jefferson 1,ess,1,0,4
+504,Hrishi Bhooma,Thomas Jefferson 1,physics,1,0,4
+504,Eshaan Sombhatta,Thomas Jefferson 1,biology,2,0,8
+504,Cherry Balusulapalem,Collierville 2,overall,1,0,4
+504,Cherry Balusulapalem,Collierville 2,chemistry,1,0,4
+504,Hrishi Bhooma,Thomas Jefferson 1,ess,0,1,-4
+504,Ishan Anne,Collierville 2,overall,0,0,0
+504,Ishan Anne,Collierville 2,physics,0,0,0
+511,Larry Zhao,BISV 1,overall,4,0,16
+511,Larry Zhao,BISV 1,biology,4,0,16
+511,Lucas Quan,BISV 1,overall,5,1,16
+511,Lucas Quan,BISV 1,math,1,0,4
+511,Travis Dumaran,Punahou,overall,7,1,24
+511,Travis Dumaran,Punahou,chemistry,3,0,12
+511,Travis Dumaran,Punahou,ess,4,0,16
+511,Sidhant Chaliha,BISV 1,overall,0,2,-8
+511,Sidhant Chaliha,BISV 1,ess,0,1,-4
+511,Kainoa Thorne,Punahou,overall,1,0,4
+511,Kainoa Thorne,Punahou,physics,1,0,4
+511,Travis Dumaran,Punahou,math,0,0,0
+511,Sidhant Chaliha,BISV 1,math,0,1,-4
+511,Travis Dumaran,Punahou,physics,0,1,-4
+511,Lucas Quan,BISV 1,physics,3,0,12
+511,Lucas Quan,BISV 1,chemistry,1,1,0
+511,Derrick Liu,BISV 1,overall,1,0,4
+511,Derrick Liu,BISV 1,math,1,0,4
+515,Bhaskar Moorthy,BRMHS 1,overall,5,0,20
+515,Bhaskar Moorthy,BRMHS 1,biology,2,0,8
+515,Johnson Peng,Arcadia 2,overall,3,0,12
+515,Johnson Peng,Arcadia 2,math,1,0,4
+515,Bhaskar Moorthy,BRMHS 1,chemistry,1,0,4
+515,Johnson Peng,Arcadia 2,chemistry,0,0,0
+515,Mary Pham,BRMHS 1,overall,1,1,0
+515,Mary Pham,BRMHS 1,ess,1,1,0
+515,Johnson Peng,Arcadia 2,ess,1,0,4
+515,Adhrit Maiti,BRMHS 1,overall,4,1,12
+515,Adhrit Maiti,BRMHS 1,physics,1,1,0
+515,Johnson Peng,Arcadia 2,physics,1,0,4
+515,Dev Iyer,BRMHS 1,overall,0,0,0
+515,Dev Iyer,BRMHS 1,biology,0,0,0
+515,Pruthwiraj Vishwanatha,Arcadia 2,overall,0,0,0
+515,Pruthwiraj Vishwanatha,Arcadia 2,biology,0,0,0
+515,Adhrit Maiti,BRMHS 1,math,2,0,8
+515,Pruthwiraj Vishwanatha,Arcadia 2,chemistry,0,0,0
+515,Bhaskar Moorthy,BRMHS 1,ess,1,0,4
+515,Bhaskar Moorthy,BRMHS 1,physics,1,0,4
+515,Adhrit Maiti,BRMHS 1,chemistry,1,0,4
+515,Johnson Peng,Arcadia 2,biology,0,0,0
+515,Adhrit Maiti,BRMHS 1,ess,0,0,0
+515,Pruthwiraj Vishwanatha,Arcadia 2,ess,0,0,0
+519,Edward Anthony,Minnesota Institute of Timberwolves,overall,12,2,40
+519,Edward Anthony,Minnesota Institute of Timberwolves,biology,3,1,8
+519,Keene Koide,Iolani School 1,overall,2,0,8
+519,Keene Koide,Iolani School 1,math,2,0,8
+519,Edward Anthony,Minnesota Institute of Timberwolves,chemistry,4,0,16
+519,Edward Anthony,Minnesota Institute of Timberwolves,ess,1,1,0
+519,Daniel york,Iolani School 1,overall,2,3,-4
+519,Daniel york,Iolani School 1,ess,1,1,0
+519,Edward Anthony,Minnesota Institute of Timberwolves,physics,3,0,12
+519,Daniel york,Iolani School 1,physics,0,2,-8
+519,Daniel york,Iolani School 1,biology,1,0,4
+519,Carl Towns,Minnesota Institute of Timberwolves,overall,1,0,4
+519,Carl Towns,Minnesota Institute of Timberwolves,ess,1,0,4
+519,Edward Anthony,Minnesota Institute of Timberwolves,math,1,0,4
+526,Saketh Komaragiri,College Park,overall,2,0,8
+526,Saketh Komaragiri,College Park,biology,1,0,4
+526,Andrew Zhang,College Park,overall,2,0,8
+526,Andrew Zhang,College Park,math,2,0,8
+526,Shubam Vennu,College Park,overall,5,1,16
+526,Shubam Vennu,College Park,chemistry,2,0,8
+526,Shubam Vennu,College Park,ess,0,1,-4
+526,Advaith Bade,Bridgeland,overall,2,2,0
+526,Advaith Bade,Bridgeland,ess,2,0,8
+526,Shubam Vennu,College Park,physics,2,0,8
+526,Carson Postrigan,Bridgeland,overall,0,0,0
+526,Carson Postrigan,Bridgeland,physics,0,0,0
+526,Shubam Vennu,College Park,biology,1,0,4
+526,Shreshta Pendurti,Bridgeland,overall,2,0,8
+526,Shreshta Pendurti,Bridgeland,math,1,0,4
+526,Shreshta Pendurti,Bridgeland,chemistry,1,0,4
+526,Andrew Zhang,College Park,ess,0,0,0
+526,Ben Dang,Bridgeland,overall,4,0,16
+526,Ben Dang,Bridgeland,ess,2,0,8
+526,Advaith Bade,Bridgeland,physics,0,2,-8
+526,Ben Dang,Bridgeland,biology,2,0,8
+526,Saketh Komaragiri,College Park,chemistry,1,0,4
+530,Akhil Batchu,ASFA 1,overall,10,1,36
+530,Akhil Batchu,ASFA 1,biology,2,0,8
+530,Likhith Malipati,WWPS 2,overall,2,4,-8
+530,Likhith Malipati,WWPS 2,math,2,2,0
+530,Akhil Batchu,ASFA 1,chemistry,4,0,16
+530,Akhil Batchu,ASFA 1,ess,2,1,4
+530,Likhith Malipati,WWPS 2,ess,0,0,0
+530,Akhil Batchu,ASFA 1,physics,1,0,4
+530,Jason Mak,WWPS 2,overall,0,1,-4
+530,Jason Mak,WWPS 2,physics,0,1,-4
+530,Dhairya Mathur,WWPS 2,overall,2,0,8
+530,Dhairya Mathur,WWPS 2,biology,1,0,4
+530,Advik Sharma,ASFA 1,overall,3,0,12
+530,Advik Sharma,ASFA 1,math,1,0,4
+530,Advik Sharma,ASFA 1,ess,1,0,4
+530,Albert Chen,ASFA 1,overall,2,1,4
+530,Albert Chen,ASFA 1,physics,2,1,4
+530,Dhairya Mathur,WWPS 2,physics,1,0,4
+530,Advik Sharma,ASFA 1,biology,1,0,4
+530,Likhith Malipati,WWPS 2,physics,0,2,-8
+530,Akhil Batchu,ASFA 1,math,1,0,4
+534,Theenash Sengupta,Mission San Jose 1,overall,7,1,24
+534,Theenash Sengupta,Mission San Jose 1,biology,3,1,8
+534,Advaith Mopuri,Mission San Jose 1,overall,3,1,8
+534,Advaith Mopuri,Mission San Jose 1,math,1,0,4
+534,Theenash Sengupta,Mission San Jose 1,chemistry,3,0,12
+534,Roshan Annamalai,Mission San Jose 1,overall,6,0,24
+534,Roshan Annamalai,Mission San Jose 1,ess,4,0,16
+534,Advaith Mopuri,Mission San Jose 1,physics,2,1,4
+534,Roshan Annamalai,Mission San Jose 1,math,1,0,4
+534,Theenash Sengupta,Mission San Jose 1,physics,1,0,4
+534,Roshan Annamalai,Mission San Jose 1,chemistry,1,0,4
+534,Rutvik Arora,Mission San Jose 1,overall,1,0,4
+534,Rutvik Arora,Mission San Jose 1,math,1,0,4
+541,Helen Wang,Jericho 1,overall,4,0,16
+541,Helen Wang,Jericho 1,biology,3,0,12
+541,Hannah Gao,Whitney Young 2,overall,1,0,4
+541,Hannah Gao,Whitney Young 2,math,1,0,4
+541,Ryan Tae,Jericho 1,overall,4,2,8
+541,Ryan Tae,Jericho 1,chemistry,4,0,16
+541,Mahdi Khan,Jericho 1,overall,2,0,8
+541,Mahdi Khan,Jericho 1,ess,1,0,4
+541,Miles Wallace,Whitney Young 2,overall,1,0,4
+541,Miles Wallace,Whitney Young 2,ess,0,0,0
+541,Helen Wang,Jericho 1,physics,0,0,0
+541,Vladislav Bodnaruk,Whitney Young 2,overall,0,0,0
+541,Vladislav Bodnaruk,Whitney Young 2,physics,0,0,0
+541,Mahdi Khan,Jericho 1,math,1,0,4
+541,Helen Wang,Jericho 1,ess,1,0,4
+541,Ryan Tae,Jericho 1,physics,0,2,-8
+541,Miles Wallace,Whitney Young 2,physics,1,0,4
+541,Rongyi Chen,Whitney Young 2,overall,0,0,0
+541,Rongyi Chen,Whitney Young 2,physics,0,0,0
+541,Helen Wang,Jericho 1,math,0,0,0
+541,Miles Wallace,Whitney Young 2,math,0,0,0
+541,Ryan Tae,Jericho 1,ess,0,0,0
+545,Aneesh Sule,Academies of Loudoun,overall,4,1,12
+545,Aneesh Sule,Academies of Loudoun,biology,1,0,4
+545,Rishi Kumar,CCA 2,overall,2,0,8
+545,Rishi Kumar,CCA 2,math,1,0,4
+545,Aneesh Sule,Academies of Loudoun,chemistry,1,0,4
+545,Aryan Deshmukh,CCA 2,overall,3,0,12
+545,Aryan Deshmukh,CCA 2,ess,1,0,4
+545,Hudson Barkman,Academies of Loudoun,overall,0,0,0
+545,Hudson Barkman,Academies of Loudoun,ess,0,0,0
+545,Rishi Kumar,CCA 2,physics,1,0,4
+545,Aneesh Sule,Academies of Loudoun,physics,1,1,0
+545,Rishi Kumar,CCA 2,biology,0,0,0
+545,Aneesh Sule,Academies of Loudoun,math,1,0,4
+545,Annie Luo,CCA 2,overall,0,0,0
+545,Annie Luo,CCA 2,chemistry,0,0,0
+545,Priya Lloyd,Academies of Loudoun,overall,1,0,4
+545,Priya Lloyd,Academies of Loudoun,chemistry,1,0,4
+545,Annie Luo,CCA 2,biology,0,0,0
+545,Ashley Li,CCA 2,overall,1,0,4
+545,Ashley Li,CCA 2,ess,1,0,4
+545,Hudson Barkman,Academies of Loudoun,math,0,0,0
+545,Aryan Deshmukh,CCA 2,chemistry,1,0,4
+545,Rishi Kumar,CCA 2,ess,0,0,0
+545,Aneesh Sule,Academies of Loudoun,ess,0,0,0
+545,Aryan Deshmukh,CCA 2,physics,1,0,4
+549,Kian Dhawan,Blair 1,overall,6,4,8
+549,Kian Dhawan,Blair 1,biology,2,2,0
+549,Evan Zhang,Blair 1,overall,6,0,24
+549,Evan Zhang,Blair 1,math,2,0,8
+549,Kian Dhawan,Blair 1,chemistry,3,0,12
+549,Kevin Feng,Blair 1,overall,1,1,0
+549,Kevin Feng,Blair 1,ess,1,0,4
+549,Evan Zhang,Blair 1,physics,2,0,8
+549,John Fenic,BUMSJK,overall,1,2,-4
+549,John Fenic,BUMSJK,physics,1,1,0
+549,Sam Easaw,Blair 1,overall,1,0,4
+549,Sam Easaw,Blair 1,chemistry,1,0,4
+549,Evan Zhang,Blair 1,ess,2,0,8
+549,Kian Dhawan,Blair 1,physics,1,1,0
+549,Kevin Feng,Blair 1,math,0,1,-4
+549,John Fenic,BUMSJK,math,0,1,-4
+549,Kristin Peng,BUMSJK,overall,2,0,8
+549,Kristin Peng,BUMSJK,biology,1,0,4
+549,Kristin Peng,BUMSJK,math,1,0,4
+549,Kian Dhawan,Blair 1,ess,0,1,-4
+549,Jolie Neal,BUMSJK,overall,0,0,0
+549,Jolie Neal,BUMSJK,ess,0,0,0
+556,Simon Zhang,Lexington,overall,8,0,32
+556,Simon Zhang,Lexington,biology,4,0,16
+556,Akshay Rao,Lexington,overall,3,0,12
+556,Akshay Rao,Lexington,math,3,0,12
+556,Aarin Mugundu,Lexington,overall,1,1,0
+556,Aarin Mugundu,Lexington,chemistry,1,1,0
+556,Simon Zhang,Lexington,ess,1,0,4
+556,Colton Bing,IMSA 2,overall,1,1,0
+556,Colton Bing,IMSA 2,ess,1,0,4
+556,Simon Zhang,Lexington,physics,1,0,4
+556,Jonathan Cai,IMSA 2,overall,0,1,-4
+556,Jonathan Cai,IMSA 2,physics,0,1,-4
+556,Colton Bing,IMSA 2,biology,0,1,-4
+556,Simon Zhang,Lexington,chemistry,2,0,8
+556,Ashray Malhotra,Lexington,overall,2,0,8
+556,Ashray Malhotra,Lexington,ess,2,0,8
+556,Aarnav Jain,IMSA 2,overall,0,1,-4
+556,Aarnav Jain,IMSA 2,physics,0,1,-4
+560,Liran Zhu,Throrthwood Tottenham,overall,11,0,44
+560,Liran Zhu,Throrthwood Tottenham,biology,1,0,4
+560,Liran Zhu,Throrthwood Tottenham,math,3,0,12
+560,Liran Zhu,Throrthwood Tottenham,chemistry,3,0,12
+560,Seojin Park,Throrthwood Tottenham,overall,2,0,8
+560,Seojin Park,Throrthwood Tottenham,ess,1,0,4
+560,Liran Zhu,Throrthwood Tottenham,physics,2,0,8
+560,Ferris Li,Throrthwood Tottenham,overall,1,0,4
+560,Ferris Li,Throrthwood Tottenham,biology,1,0,4
+560,Liran Zhu,Throrthwood Tottenham,ess,2,0,8
+560,Seojin Park,Throrthwood Tottenham,chemistry,1,0,4
+385,Kiaan Biswas,Ward Melville 2,overall,7,0,28
+385,Kiaan Biswas,Ward Melville 2,biology,4,0,16
+385,Alan Mao,Ward Melville 2,overall,1,0,4
+385,Alan Mao,Ward Melville 2,math,1,0,4
+385,Gunes Sunar,Ward Melville 2,overall,3,0,12
+385,Gunes Sunar,Ward Melville 2,chemistry,1,0,4
+385,Kiaan Biswas,Ward Melville 2,ess,2,0,8
+385,Gunes Sunar,Ward Melville 2,physics,2,0,8
+385,Owen Mao,CCA 1,overall,2,0,8
+385,Owen Mao,CCA 1,physics,0,0,0
+385,Owen Mao,CCA 1,math,2,0,8
+385,Dennis Stens,CCA 1,overall,2,0,8
+385,Dennis Stens,CCA 1,chemistry,2,0,8
+385,Alexander Destefano,CCA 1,overall,3,0,12
+385,Alexander Destefano,CCA 1,ess,1,0,4
+385,Alexander Destefano,CCA 1,physics,2,0,8
+385,Alexander Destefano,CCA 1,biology,0,0,0
+385,Gunes Sunar,Ward Melville 2,math,0,0,0
+385,Kiaan Biswas,Ward Melville 2,chemistry,1,0,4
+388,Yajur Chandar,Davidson Academy,overall,4,1,12
+388,Yajur Chandar,Davidson Academy,biology,4,0,16
+388,Lucas Wu,Davidson Academy,overall,12,0,48
+388,Lucas Wu,Davidson Academy,math,4,0,16
+388,Lucas Wu,Davidson Academy,chemistry,3,0,12
+388,Namita Gaidhani,Cupertino 1,overall,2,0,8
+388,Namita Gaidhani,Cupertino 1,ess,2,0,8
+388,Lucas Wu,Davidson Academy,physics,3,0,12
+388,Shubhi Jain,Cupertino 1,overall,0,0,0
+388,Shubhi Jain,Cupertino 1,chemistry,0,0,0
+388,Yajur Chandar,Davidson Academy,chemistry,0,1,-4
+388,Lucas Wu,Davidson Academy,ess,2,0,8
+388,Pranav Burra,Cupertino 1,overall,1,1,0
+388,Pranav Burra,Cupertino 1,math,0,1,-4
+388,Pranav Burra,Cupertino 1,physics,1,0,4
+397,Sharath Sanjay,West Windsor-Plainsboro North,overall,1,1,0
+397,Sharath Sanjay,West Windsor-Plainsboro North,biology,1,1,0
+397,Aldric Benalan,West Windsor-Plainsboro North,overall,7,1,24
+397,Aldric Benalan,West Windsor-Plainsboro North,math,2,1,4
+397,Aldric Benalan,West Windsor-Plainsboro North,chemistry,2,0,8
+397,Bryce Thach,Temple City,overall,4,2,8
+397,Bryce Thach,Temple City,ess,2,0,8
+397,Bryce Thach,Temple City,physics,2,2,0
+397,Aldric Benalan,West Windsor-Plainsboro North,physics,1,0,4
+397,Ishaan Arya,West Windsor-Plainsboro North,overall,1,0,4
+397,Ishaan Arya,West Windsor-Plainsboro North,biology,1,0,4
+397,Jason Liu,Temple City,overall,5,0,20
+397,Jason Liu,Temple City,math,2,0,8
+397,Ethan Deng,Temple City,overall,1,0,4
+397,Ethan Deng,Temple City,chemistry,1,0,4
+397,Aldric Benalan,West Windsor-Plainsboro North,ess,2,0,8
+397,Jason Liu,Temple City,biology,2,0,8
+397,Jason Liu,Temple City,chemistry,1,0,4
+400,S I,VMATHs,overall,5,0,20
+400,S I,VMATHs,biology,1,0,4
+400,Varun Gadi,VMATHs,overall,3,0,12
+400,Varun Gadi,VMATHs,math,3,0,12
+400,Adhav Kumar,Research Triangle,overall,8,1,28
+400,Adhav Kumar,Research Triangle,chemistry,3,0,12
+400,Adhav Kumar,Research Triangle,ess,1,0,4
+400,Varun Gadi,VMATHs,physics,0,0,0
+400,Adhav Kumar,Research Triangle,physics,3,1,8
+400,Uddip Kashyap,VMATHs,overall,3,0,12
+400,Uddip Kashyap,VMATHs,biology,3,0,12
+400,Adhav Kumar,Research Triangle,math,1,0,4
+400,S I,VMATHs,ess,3,0,12
+400,S I,VMATHs,physics,0,0,0
+400,S I,VMATHs,chemistry,1,0,4
+403,Achuth Vinay,Clovis North High,overall,2,0,8
+403,Achuth Vinay,Clovis North High,biology,2,0,8
+403,Vishnu Mangipudi,Lakeside 1,overall,8,0,32
+403,Vishnu Mangipudi,Lakeside 1,math,1,0,4
+403,Justin Do,Clovis North High,overall,3,0,12
+403,Justin Do,Clovis North High,chemistry,2,0,8
+403,Vishnu Mangipudi,Lakeside 1,ess,4,0,16
+403,Majed Almasri,Clovis North High,overall,1,1,0
+403,Majed Almasri,Clovis North High,physics,0,1,-4
+403,Sara Liu,Lakeside 1,overall,1,0,4
+403,Sara Liu,Lakeside 1,physics,1,0,4
+403,Majed Almasri,Clovis North High,math,1,0,4
+403,James Yang,Lakeside 1,overall,1,1,0
+403,James Yang,Lakeside 1,math,1,1,0
+403,William Wang,Lakeside 1,overall,3,0,12
+403,William Wang,Lakeside 1,chemistry,2,0,8
+403,William Wang,Lakeside 1,physics,1,0,4
+403,Vishnu Mangipudi,Lakeside 1,biology,2,0,8
+403,Justin Do,Clovis North High,math,1,0,4
+403,Vishnu Mangipudi,Lakeside 1,physics,1,0,4
+403,Renard Wu,Clovis North High,overall,1,0,4
+403,Renard Wu,Clovis North High,physics,1,0,4
+412,Samuel Wang,Blair 2,overall,5,1,16
+412,Samuel Wang,Blair 2,biology,4,0,16
+412,Eric Xie,Blair 2,overall,2,0,8
+412,Eric Xie,Blair 2,math,1,0,4
+412,Abhijay Banerjee,Blair 2,overall,1,1,0
+412,Abhijay Banerjee,Blair 2,chemistry,1,0,4
+412,Meghna Singh,Blair 2,overall,5,0,20
+412,Meghna Singh,Blair 2,ess,3,0,12
+412,Aarav Doshi,Troy 1,overall,3,0,12
+412,Aarav Doshi,Troy 1,physics,2,0,8
+412,Eric Xie,Blair 2,physics,1,0,4
+412,Aarav Doshi,Troy 1,math,1,0,4
+412,Abhijay Banerjee,Blair 2,math,0,1,-4
+412,Abhinav Jain,Troy 1,overall,1,0,4
+412,Abhinav Jain,Troy 1,chemistry,1,0,4
+412,Samuel Wang,Blair 2,ess,1,0,4
+412,Meghna Singh,Blair 2,chemistry,2,0,8
+412,Bill Qian,Blair 2,overall,0,1,-4
+412,Bill Qian,Blair 2,math,0,1,-4
+412,Samuel Wang,Blair 2,physics,0,1,-4
+415,Rehan Krishnan,Collierville 1,overall,3,0,12
+415,Rehan Krishnan,Collierville 1,biology,3,0,12
+415,Ishaan Kabra,Mission San Jose 2,overall,4,2,8
+415,Ishaan Kabra,Mission San Jose 2,math,2,2,0
+415,Sumin Yoon,Collierville 1,overall,4,2,8
+415,Sumin Yoon,Collierville 1,chemistry,2,1,4
+415,Sumin Yoon,Collierville 1,ess,2,0,8
+415,Ishaan Kabra,Mission San Jose 2,physics,0,0,0
+415,Shreyansh Alluri,Collierville 1,overall,2,0,8
+415,Shreyansh Alluri,Collierville 1,physics,1,0,4
+415,Shreyansh Alluri,Collierville 1,math,1,0,4
+415,Edward Zeng,Mission San Jose 2,overall,4,0,16
+415,Edward Zeng,Mission San Jose 2,chemistry,2,0,8
+415,Edward Zeng,Mission San Jose 2,physics,2,0,8
+415,Ishaan Kabra,Mission San Jose 2,ess,2,0,8
+415,Sumin Yoon,Collierville 1,physics,0,1,-4
+418,Kevin Qiu,Wayzata,overall,9,1,32
+418,Kevin Qiu,Wayzata,biology,3,1,8
+418,Kevin Qiu,Wayzata,math,2,0,8
+418,Kevin Qiu,Wayzata,chemistry,2,0,8
+418,Luyao Yang,Wayzata,overall,2,1,4
+418,Luyao Yang,Wayzata,ess,1,1,0
+418,Camille Pimentel,Hunter College 1,overall,3,0,12
+418,Camille Pimentel,Hunter College 1,ess,3,0,12
+418,Kevin Qiu,Wayzata,physics,2,0,8
+418,Luyao Yang,Wayzata,math,1,0,4
+418,Gabe Levin,Hunter College 1,overall,3,1,8
+418,Gabe Levin,Hunter College 1,physics,2,1,4
+418,Simone Maimon,Hunter College 1,overall,1,0,4
+418,Simone Maimon,Hunter College 1,biology,1,0,4
+418,Yan-Ru Cao,Wayzata,overall,2,0,8
+418,Yan-Ru Cao,Wayzata,chemistry,2,0,8
+418,Gabe Levin,Hunter College 1,math,1,0,4
+427,Tony Han,IMSA 1,overall,0,3,-12
+427,Tony Han,IMSA 1,biology,0,1,-4
+427,Narayan Chutkay,Camas,overall,3,0,12
+427,Narayan Chutkay,Camas,biology,3,0,12
+427,Alexander Yu,Camas,overall,6,0,24
+427,Alexander Yu,Camas,math,3,0,12
+427,Shaunak Deshpande,Camas,overall,1,0,4
+427,Shaunak Deshpande,Camas,chemistry,1,0,4
+427,Jeev Hora,IMSA 1,overall,3,0,12
+427,Jeev Hora,IMSA 1,ess,1,0,4
+427,Narayan Chutkay,Camas,ess,0,0,0
+427,Jeev Hora,IMSA 1,physics,1,0,4
+427,Alexander Yu,Camas,physics,2,0,8
+427,Tony Han,IMSA 1,math,0,1,-4
+427,Tyler He,IMSA 1,overall,0,1,-4
+427,Tyler He,IMSA 1,chemistry,0,1,-4
+427,Alexander Yu,Camas,ess,1,0,4
+427,Jeev Hora,IMSA 1,biology,0,0,0
+427,Jeev Hora,IMSA 1,math,0,0,0
+427,Winston Zhang,Camas,overall,0,0,0
+427,Winston Zhang,Camas,math,0,0,0
+427,Tony Han,IMSA 1,chemistry,0,1,-4
+427,Jeev Hora,IMSA 1,chemistry,1,0,4
+430,Zoey Tang,Westview 1,overall,5,1,16
+430,Zoey Tang,Westview 1,biology,1,0,4
+430,Zoey Tang,Westview 1,math,4,0,16
+430,Henry Zhang,Arcadia 1,overall,1,0,4
+430,Henry Zhang,Arcadia 1,chemistry,1,0,4
+430,Paxton Lin,Arcadia 1,overall,5,1,16
+430,Paxton Lin,Arcadia 1,ess,1,0,4
+430,Austin Zhang,Arcadia 1,overall,5,0,20
+430,Austin Zhang,Arcadia 1,physics,3,0,12
+430,Zoey Tang,Westview 1,physics,0,1,-4
+430,Paxton Lin,Arcadia 1,biology,1,0,4
+430,Paxton Lin,Arcadia 1,math,0,1,-4
+430,Paxton Lin,Arcadia 1,chemistry,3,0,12
+430,Austin Zhang,Arcadia 1,ess,2,0,8
+430,Henry Zhang,Arcadia 1,physics,0,0,0
+430,Sanjana Basa,Westview 1,overall,1,0,4
+430,Sanjana Basa,Westview 1,physics,1,0,4
+430,Yingchi Xiao,Arcadia 1,overall,2,0,8
+430,Yingchi Xiao,Arcadia 1,biology,2,0,8
+430,Tashvi Khare,Westview 1,overall,0,0,0
+430,Tashvi Khare,Westview 1,biology,0,0,0
+430,Tashvi Khare,Westview 1,ess,0,0,0
+430,Sanjana Basa,Westview 1,ess,0,0,0
+433,Praneel Avula,James Clemens,overall,6,3,12
+433,Praneel Avula,James Clemens,biology,1,0,4
+433,Praneel Avula,James Clemens,math,2,1,4
+433,Praneel Avula,James Clemens,chemistry,2,1,4
+433,Abhiraam Girish,MSJ 3,overall,4,1,12
+433,Abhiraam Girish,MSJ 3,ess,1,1,0
+433,Joel Yang,James Clemens,overall,3,0,12
+433,Joel Yang,James Clemens,ess,3,0,12
+433,Hank Sun,MSJ 3,overall,1,0,4
+433,Hank Sun,MSJ 3,physics,1,0,4
+433,Praneel Avula,James Clemens,physics,1,1,0
+433,Aarush Iyer,MSJ 3,overall,2,0,8
+433,Aarush Iyer,MSJ 3,biology,2,0,8
+433,Abhiraam Girish,MSJ 3,math,2,0,8
+433,Abhiraam Girish,MSJ 3,chemistry,0,0,0
+433,Heidi Leonard,James Clemens,overall,1,0,4
+433,Heidi Leonard,James Clemens,biology,1,0,4
+433,Abhiraam Girish,MSJ 3,physics,1,0,4
+433,Saqib Baig,James Clemens,overall,1,0,4
+433,Saqib Baig,James Clemens,chemistry,1,0,4
+442,Saish Koul,John P. Stevens,overall,1,0,4
+442,Saish Koul,John P. Stevens,biology,1,0,4
+442,Aaron Lin,Ladue,overall,10,0,40
+442,Aaron Lin,Ladue,math,3,0,12
+442,Aaron Lin,Ladue,chemistry,3,0,12
+442,Pranesh Kirubakar,John P. Stevens,overall,1,0,4
+442,Pranesh Kirubakar,John P. Stevens,ess,0,0,0
+442,Ayden Huang,Ladue,overall,3,0,12
+442,Ayden Huang,Ladue,ess,2,0,8
+442,Aaron Lin,Ladue,physics,4,0,16
+442,Ayden Huang,Ladue,biology,1,0,4
+442,Pranesh Kirubakar,John P. Stevens,biology,0,0,0
+442,Arman A,Ladue,overall,1,0,4
+442,Arman A,Ladue,biology,1,0,4
+442,Pranesh Kirubakar,John P. Stevens,math,1,0,4
+442,Saish Koul,John P. Stevens,chemistry,0,0,0
+442,Rishabh Girish,John P. Stevens,overall,0,0,0
+442,Rishabh Girish,John P. Stevens,physics,0,0,0
+442,Tianhan Huang,Ladue,overall,1,0,4
+442,Tianhan Huang,Ladue,chemistry,1,0,4
+445,suzuko ohshima,North Hollywood 1,overall,12,1,44
+445,suzuko ohshima,North Hollywood 1,biology,4,0,16
+445,Ryan Yan,BASIS Independent Fremont,overall,1,0,4
+445,Ryan Yan,BASIS Independent Fremont,math,1,0,4
+445,suzuko ohshima,North Hollywood 1,chemistry,3,0,12
+445,suzuko ohshima,North Hollywood 1,ess,4,0,16
+445,suzuko ohshima,North Hollywood 1,physics,0,0,0
+445,Kevin Chen,BASIS Independent Fremont,overall,0,1,-4
+445,Kevin Chen,BASIS Independent Fremont,physics,0,1,-4
+445,suzuko ohshima,North Hollywood 1,math,1,1,0
+445,Arjun Pandey,BASIS Independent Fremont,overall,2,0,8
+445,Arjun Pandey,BASIS Independent Fremont,math,1,0,4
+445,Arjun Pandey,BASIS Independent Fremont,chemistry,1,0,4
+445,Charles Huang,North Hollywood 1,overall,3,0,12
+445,Charles Huang,North Hollywood 1,physics,3,0,12
+445,Minghao Guo,North Hollywood 1,overall,1,0,4
+445,Minghao Guo,North Hollywood 1,math,1,0,4
+448,Nikolai Morozov,Princeton,overall,4,0,16
+448,Nikolai Morozov,Princeton,biology,1,0,4
+448,Andrew Wen,Palo Alto 1,overall,7,0,28
+448,Andrew Wen,Palo Alto 1,math,3,0,12
+448,Andrew Wen,Palo Alto 1,chemistry,2,0,8
+448,Kevin Pei,Palo Alto 1,overall,5,0,20
+448,Kevin Pei,Palo Alto 1,ess,3,0,12
+448,Andrew Wen,Palo Alto 1,physics,2,0,8
+448,Joey Chang,Princeton,overall,1,1,0
+448,Joey Chang,Princeton,biology,1,0,4
+448,Alex Sheng,Princeton,overall,1,0,4
+448,Alex Sheng,Princeton,math,1,0,4
+448,Nikolai Morozov,Princeton,physics,2,0,8
+448,Rasia Yu,Palo Alto 1,overall,2,0,8
+448,Rasia Yu,Palo Alto 1,biology,2,0,8
+448,Kevin Pei,Palo Alto 1,chemistry,2,0,8
+448,Joey Chang,Princeton,chemistry,0,1,-4
+448,Joey Chang,Princeton,ess,0,0,0
+448,Nikolai Morozov,Princeton,ess,1,0,4
+457,Alexander Yang,BRMHS 2,overall,7,0,28
+457,Alexander Yang,BRMHS 2,biology,1,0,4
+457,Rosa Lee,Cupertino 2,overall,2,1,4
+457,Rosa Lee,Cupertino 2,biology,2,1,4
+457,Alexander Yang,BRMHS 2,math,1,0,4
+457,Alexander Yang,BRMHS 2,chemistry,4,0,16
+457,Christopher Khoa Nguyen,BRMHS 2,overall,4,0,16
+457,Christopher Khoa Nguyen,BRMHS 2,ess,2,0,8
+457,Anya S,Cupertino 2,overall,1,0,4
+457,Anya S,Cupertino 2,ess,0,0,0
+457,Alexander Yang,BRMHS 2,physics,1,0,4
+457,Jaanya Annapureddy,Cupertino 2,overall,2,0,8
+457,Jaanya Annapureddy,Cupertino 2,physics,1,0,4
+457,Jaanya Annapureddy,Cupertino 2,math,1,0,4
+457,Kenneth Michel,BRMHS 2,overall,1,0,4
+457,Kenneth Michel,BRMHS 2,physics,1,0,4
+457,Christopher Khoa Nguyen,BRMHS 2,math,1,0,4
+457,Anya S,Cupertino 2,math,1,0,4
+457,Christopher Khoa Nguyen,BRMHS 2,physics,1,0,4
+463,Troy Goodgame,Harvard Westlake 1,overall,4,0,16
+463,Troy Goodgame,Harvard Westlake 1,biology,1,0,4
+463,Timothy Chen,University 1,overall,4,2,8
+463,Timothy Chen,University 1,math,2,2,0
+463,Lisa Cheng,Harvard Westlake 1,overall,5,3,8
+463,Lisa Cheng,Harvard Westlake 1,math,1,1,0
+463,Lisa Cheng,Harvard Westlake 1,chemistry,4,0,16
+463,Samriddho Bhowal,University 1,overall,1,0,4
+463,Samriddho Bhowal,University 1,ess,1,0,4
+463,Troy Goodgame,Harvard Westlake 1,ess,2,0,8
+463,Timothy Chen,University 1,physics,2,0,8
+463,Lisa Cheng,Harvard Westlake 1,physics,0,1,-4
+463,Bhavana Thirunavukkarasan,University 1,overall,2,0,8
+463,Bhavana Thirunavukkarasan,University 1,biology,2,0,8
+463,Troy Goodgame,Harvard Westlake 1,math,1,0,4
+463,Carl Liu,University 1,overall,1,0,4
+463,Carl Liu,University 1,physics,1,0,4
+463,Lisa Cheng,Harvard Westlake 1,biology,0,1,-4
+472,Abhinav Anand,WWPS 1,overall,4,0,16
+472,Abhinav Anand,WWPS 1,biology,3,0,12
+472,Joshua Horowitz,Jericho 2,overall,4,0,16
+472,Joshua Horowitz,Jericho 2,math,3,0,12
+472,Sanjay Oruganti,WWPS 1,overall,5,0,20
+472,Sanjay Oruganti,WWPS 1,chemistry,4,0,16
+472,Gyan Chande,WWPS 1,overall,2,0,8
+472,Gyan Chande,WWPS 1,ess,2,0,8
+472,Monish Saravana Kumar,WWPS 1,overall,4,0,16
+472,Monish Saravana Kumar,WWPS 1,physics,3,0,12
+472,Joshua Horowitz,Jericho 2,biology,1,0,4
+472,Sanjay Oruganti,WWPS 1,ess,1,0,4
+472,Sanjay Oruganti,WWPS 1,physics,0,0,0
+472,Joshua Horowitz,Jericho 2,physics,0,0,0
+472,Henry Li,Jericho 2,overall,0,1,-4
+472,Henry Li,Jericho 2,chemistry,0,1,-4
+472,Monish Saravana Kumar,WWPS 1,math,1,0,4
+472,Abhinav Anand,WWPS 1,ess,1,0,4
+475,Eric Liu,Ward Melville 1,overall,5,1,16
+475,Eric Liu,Ward Melville 1,biology,3,0,12
+475,Harry Gao,Ward Melville 1,overall,8,2,24
+475,Harry Gao,Ward Melville 1,math,3,1,8
+475,Jason Tang,AHB 1,overall,1,1,0
+475,Jason Tang,AHB 1,math,0,1,-4
+475,Eric Liu,Ward Melville 1,chemistry,2,1,4
+475,Harry Gao,Ward Melville 1,ess,2,0,8
+475,Ariv Barua,AHB 1,overall,1,0,4
+475,Ariv Barua,AHB 1,ess,0,0,0
+475,Harry Gao,Ward Melville 1,physics,3,1,8
+475,Arnav Bhatia,AHB 1,overall,2,0,8
+475,Arnav Bhatia,AHB 1,math,1,0,4
+475,Ariv Barua,AHB 1,chemistry,1,0,4
+475,Jason Tang,AHB 1,biology,1,0,4
+475,Arnav Bhatia,AHB 1,chemistry,1,0,4
+478,Henry Kim,OCSA,overall,3,0,12
+478,Henry Kim,OCSA,biology,3,0,12
+478,Aryan Sharma,OCSA,overall,3,0,12
+478,Aryan Sharma,OCSA,math,1,0,4
+478,Shannon Imaoka,OCSA,overall,5,0,20
+478,Shannon Imaoka,OCSA,chemistry,4,0,16
+478,Shannon Imaoka,OCSA,ess,1,0,4
+478,Aryan Sharma,OCSA,physics,2,0,8
+478,Edison Gao,Blair 3,overall,3,0,12
+478,Edison Gao,Blair 3,math,2,0,8
+478,Henry Lu,Blair 3,overall,2,0,8
+478,Henry Lu,Blair 3,ess,2,0,8
+478,Ruixi Zhang,Blair 3,overall,0,0,0
+478,Ruixi Zhang,Blair 3,biology,0,0,0
+478,Edison Gao,Blair 3,physics,1,0,4
+478,Joseph Baek,OCSA,overall,2,0,8
+478,Joseph Baek,OCSA,math,1,0,4
+478,Joseph Baek,OCSA,physics,1,0,4
+487,Chaniel Kpekpe,Whitney Young 1,overall,7,0,28
+487,Chaniel Kpekpe,Whitney Young 1,biology,4,0,16
+487,Lucas Pan,Whitney Young 1,overall,1,0,4
+487,Lucas Pan,Whitney Young 1,math,1,0,4
+487,Liam Tran,BISV 2,overall,6,0,24
+487,Liam Tran,BISV 2,chemistry,2,0,8
+487,Chaniel Kpekpe,Whitney Young 1,ess,1,0,4
+487,Liam Tran,BISV 2,ess,0,0,0
+487,spruan ruan,Whitney Young 1,overall,1,0,4
+487,spruan ruan,Whitney Young 1,physics,1,0,4
+487,Eric Guo,BISV 2,overall,1,1,0
+487,Eric Guo,BISV 2,physics,0,1,-4
+487,Liam Tran,BISV 2,math,2,0,8
+487,Chaniel Kpekpe,Whitney Young 1,chemistry,2,0,8
+487,Liam Tran,BISV 2,physics,2,0,8
+487,Brennan Tsai,Whitney Young 1,overall,1,0,4
+487,Brennan Tsai,Whitney Young 1,math,1,0,4
+487,Jason Z,BISV 2,overall,1,0,4
+487,Jason Z,BISV 2,ess,1,0,4
+487,Eric Guo,BISV 2,ess,1,0,4
+487,Timo Ye,BISV 2,overall,1,0,4
+487,Timo Ye,BISV 2,physics,1,0,4
+490,Toby Wei,University 2,overall,3,0,12
+490,Toby Wei,University 2,biology,1,0,4
+490,Saamik Agrawal,Eastlake,overall,2,1,4
+490,Saamik Agrawal,Eastlake,math,2,1,4
+490,Birdie Liu,University 2,overall,2,1,4
+490,Birdie Liu,University 2,chemistry,1,0,4
+490,Birdie Liu,University 2,ess,1,0,4
+490,Yash N,Eastlake,overall,0,0,0
+490,Yash N,Eastlake,ess,0,0,0
+490,Shivam Chowdhary,Eastlake,overall,3,0,12
+490,Shivam Chowdhary,Eastlake,physics,2,0,8
+490,Sophia Liu,University 2,overall,0,0,0
+490,Sophia Liu,University 2,biology,0,0,0
+490,Saahil Dugar,Eastlake,overall,4,0,16
+490,Saahil Dugar,Eastlake,biology,0,0,0
+490,Birdie Liu,University 2,math,0,1,-4
+490,Shivam Chowdhary,Eastlake,math,1,0,4
+490,Saahil Dugar,Eastlake,chemistry,2,0,8
+490,Saahil Dugar,Eastlake,ess,1,0,4
+490,Toby Wei,University 2,physics,1,0,4
+490,Saamik Agrawal,Eastlake,physics,0,0,0
+490,Neal Kedia,Eastlake,overall,2,0,8
+490,Neal Kedia,Eastlake,biology,2,0,8
+490,Toby Wei,University 2,math,1,0,4
+490,Saahil Dugar,Eastlake,physics,1,0,4
+493,Ajay Sawant,The Frazer School 1,overall,3,1,8
+493,Ajay Sawant,The Frazer School 1,biology,2,1,4
+493,Michael Wei,The Frazer School 1,overall,3,1,8
+493,Michael Wei,The Frazer School 1,math,1,0,4
+493,Ryan Karim,School of Astronomy,overall,2,2,0
+493,Ryan Karim,School of Astronomy,chemistry,0,1,-4
+493,Ajay Sawant,The Frazer School 1,chemistry,1,0,4
+493,Abhinav Senthil,School of Astronomy,overall,3,1,8
+493,Abhinav Senthil,School of Astronomy,ess,1,0,4
+493,Michael Wei,The Frazer School 1,ess,1,1,0
+493,Michael Wei,The Frazer School 1,physics,1,0,4
+493,Abhinav Senthil,School of Astronomy,biology,1,0,4
+493,Sudeep Suresh,School of Astronomy,overall,1,0,4
+493,Sudeep Suresh,School of Astronomy,math,1,0,4
+493,Jimmy Jiang,The Frazer School 1,overall,1,0,4
+493,Jimmy Jiang,The Frazer School 1,chemistry,1,0,4
+493,Abhinav Senthil,School of Astronomy,physics,0,1,-4
+493,Anish Patel,The Frazer School 1,overall,3,0,12
+493,Anish Patel,The Frazer School 1,physics,2,0,8
+493,Ryan Karim,School of Astronomy,math,2,0,8
+493,Abhinav Senthil,School of Astronomy,chemistry,1,0,4
+493,Sudeep Suresh,School of Astronomy,ess,0,0,0
+493,Ryan Karim,School of Astronomy,biology,0,1,-4
+493,Anish Patel,The Frazer School 1,chemistry,1,0,4
+493,Riyan Nayak,School of Astronomy,overall,1,0,4
+493,Riyan Nayak,School of Astronomy,physics,1,0,4
+502,Aaron Le,State College Area 1,overall,2,1,4
+502,Aaron Le,State College Area 1,biology,0,0,0
+502,Aaron Le,State College Area 1,math,1,1,0
+502,Evan Liu,Lynbrook 1,overall,5,1,16
+502,Evan Liu,Lynbrook 1,chemistry,2,1,4
+502,William Liu,State College Area 1,overall,5,1,16
+502,William Liu,State College Area 1,ess,2,0,8
+502,Evan Liu,Lynbrook 1,ess,1,0,4
+502,William Liu,State College Area 1,physics,1,1,0
+502,Evan Liu,Lynbrook 1,physics,2,0,8
+502,Evan Liu,Lynbrook 1,biology,0,0,0
+502,William Liu,State College Area 1,math,2,0,8
+502,Evan Liu,Lynbrook 1,math,0,0,0
+502,Aaron Le,State College Area 1,chemistry,1,0,4
+502,William Liu,State College Area 1,biology,0,0,0
+505,Ishan Anne,Collierville 2,overall,4,0,16
+505,Ishan Anne,Collierville 2,biology,1,0,4
+505,Santhosh Balaji Venkatesh Babu,Collierville 2,overall,1,1,0
+505,Santhosh Balaji Venkatesh Babu,Collierville 2,math,0,0,0
+505,Adhrit Maiti,BRMHS 1,overall,1,2,-4
+505,Adhrit Maiti,BRMHS 1,math,0,1,-4
+505,Bhaskar Moorthy,BRMHS 1,overall,4,0,16
+505,Bhaskar Moorthy,BRMHS 1,chemistry,2,0,8
+505,Angeline Chen,Collierville 2,overall,1,0,4
+505,Angeline Chen,Collierville 2,ess,0,0,0
+505,Mary Pham,BRMHS 1,overall,5,0,20
+505,Mary Pham,BRMHS 1,ess,4,0,16
+505,Mary Pham,BRMHS 1,physics,1,0,4
+505,Bhaskar Moorthy,BRMHS 1,biology,2,0,8
+505,Angeline Chen,Collierville 2,math,1,0,4
+505,Adhrit Maiti,BRMHS 1,chemistry,1,0,4
+505,Ishan Anne,Collierville 2,physics,1,0,4
+505,Adhrit Maiti,BRMHS 1,physics,0,1,-4
+505,Santhosh Balaji Venkatesh Babu,Collierville 2,biology,1,0,4
+505,Cherry Balusulapalem,Collierville 2,overall,1,0,4
+505,Cherry Balusulapalem,Collierville 2,math,1,0,4
+505,Bhaskar Moorthy,BRMHS 1,math,0,0,0
+505,Ishan Anne,Collierville 2,chemistry,1,0,4
+505,Ishan Anne,Collierville 2,ess,0,0,0
+505,Santhosh Balaji Venkatesh Babu,Collierville 2,physics,0,0,0
+505,Ishan Anne,Collierville 2,math,1,0,4
+505,Santhosh Balaji Venkatesh Babu,Collierville 2,chemistry,0,1,-4
+508,Luke Itomura,Punahou,overall,2,1,4
+508,Luke Itomura,Punahou,biology,1,1,0
+508,Andrew Du,Thomas Jefferson 1,overall,2,0,8
+508,Andrew Du,Thomas Jefferson 1,math,2,0,8
+508,Hrishi Bhooma,Thomas Jefferson 1,overall,2,1,4
+508,Hrishi Bhooma,Thomas Jefferson 1,chemistry,1,1,0
+508,Travis Dumaran,Punahou,overall,6,1,20
+508,Travis Dumaran,Punahou,ess,3,0,12
+508,Travis Dumaran,Punahou,physics,1,0,4
+508,Hari Rangarajan,Thomas Jefferson 1,overall,1,0,4
+508,Hari Rangarajan,Thomas Jefferson 1,physics,0,0,0
+508,Hari Rangarajan,Thomas Jefferson 1,biology,1,0,4
+508,Travis Dumaran,Punahou,math,1,1,0
+508,Travis Dumaran,Punahou,chemistry,1,0,4
+508,Eric Xie,Thomas Jefferson 1,overall,3,0,12
+508,Eric Xie,Thomas Jefferson 1,physics,3,0,12
+508,Hrishi Bhooma,Thomas Jefferson 1,biology,1,0,4
+508,Luke Itomura,Punahou,chemistry,1,0,4
+508,Eshaan Sombhatta,Thomas Jefferson 1,overall,2,0,8
+508,Eshaan Sombhatta,Thomas Jefferson 1,ess,0,0,0
+508,Eshaan Sombhatta,Thomas Jefferson 1,biology,1,0,4
+508,Eshaan Sombhatta,Thomas Jefferson 1,math,1,0,4
+508,Kainoa Thorne,Punahou,overall,1,0,4
+508,Kainoa Thorne,Punahou,chemistry,1,0,4
+517,Johnson Peng,Arcadia 2,overall,2,0,8
+517,Johnson Peng,Arcadia 2,biology,1,0,4
+517,Lucas Quan,BISV 1,overall,5,3,8
+517,Lucas Quan,BISV 1,math,1,1,0
+517,Lucas Quan,BISV 1,chemistry,1,0,4
+517,Pruthwiraj Vishwanatha,Arcadia 2,overall,3,0,12
+517,Pruthwiraj Vishwanatha,Arcadia 2,ess,1,0,4
+517,Aaron Cohen,BISV 1,overall,0,0,0
+517,Aaron Cohen,BISV 1,ess,0,0,0
+517,Johnson Peng,Arcadia 2,physics,0,0,0
+517,Lucas Quan,BISV 1,physics,2,2,0
+517,Larry Zhao,BISV 1,overall,2,0,8
+517,Larry Zhao,BISV 1,biology,2,0,8
+517,Johnson Peng,Arcadia 2,math,1,0,4
+517,Pruthwiraj Vishwanatha,Arcadia 2,chemistry,1,0,4
+517,Sidhant Chaliha,BISV 1,overall,2,0,8
+517,Sidhant Chaliha,BISV 1,ess,0,0,0
+517,Sidhant Chaliha,BISV 1,math,2,0,8
+517,Derrick Liu,BISV 1,overall,2,1,4
+517,Derrick Liu,BISV 1,chemistry,2,0,8
+517,Jamie Wu,Arcadia 2,overall,0,0,0
+517,Jamie Wu,Arcadia 2,ess,0,0,0
+517,Derrick Liu,BISV 1,biology,0,1,-4
+517,Lucas Quan,BISV 1,ess,1,0,4
+517,Pruthwiraj Vishwanatha,Arcadia 2,physics,1,0,4
+520,Edward Anthony,Minnesota Institute of Timberwolves,overall,7,1,24
+520,Edward Anthony,Minnesota Institute of Timberwolves,biology,1,0,4
+520,Carl Towns,Minnesota Institute of Timberwolves,overall,2,0,8
+520,Carl Towns,Minnesota Institute of Timberwolves,math,2,0,8
+520,Edward Anthony,Minnesota Institute of Timberwolves,chemistry,3,0,12
+520,Akhil Batchu,ASFA 1,overall,7,5,8
+520,Akhil Batchu,ASFA 1,chemistry,1,2,-4
+520,Akhil Batchu,ASFA 1,ess,3,0,12
+520,Akhil Batchu,ASFA 1,physics,2,2,0
+520,Akhil Batchu,ASFA 1,biology,1,0,4
+520,Edward Anthony,Minnesota Institute of Timberwolves,math,1,1,0
+520,Advik Sharma,ASFA 1,overall,1,0,4
+520,Advik Sharma,ASFA 1,math,1,0,4
+520,Edward Anthony,Minnesota Institute of Timberwolves,physics,2,0,8
+520,Fei Sean,Minnesota Institute of Timberwolves,overall,3,1,8
+520,Fei Sean,Minnesota Institute of Timberwolves,biology,2,0,8
+520,Fei Sean,Minnesota Institute of Timberwolves,ess,1,0,4
+520,Fei Sean,Minnesota Institute of Timberwolves,physics,0,1,-4
+520,Akhil Batchu,ASFA 1,math,0,1,-4
+523,Shubam Vennu,College Park,overall,8,2,24
+523,Shubam Vennu,College Park,biology,3,0,12
+523,Keene Koide,Iolani School 1,overall,2,1,4
+523,Keene Koide,Iolani School 1,math,2,0,8
+523,Shubam Vennu,College Park,chemistry,3,0,12
+523,Keene Koide,Iolani School 1,chemistry,0,1,-4
+523,Shubam Vennu,College Park,ess,2,0,8
+523,Daniel york,Iolani School 1,overall,5,0,20
+523,Daniel york,Iolani School 1,physics,3,0,12
+523,Shubam Vennu,College Park,math,0,1,-4
+523,Andrew Zhang,College Park,overall,1,0,4
+523,Andrew Zhang,College Park,math,1,0,4
+523,Daniel york,Iolani School 1,chemistry,1,0,4
+523,Daniel york,Iolani School 1,ess,1,0,4
+523,Shubam Vennu,College Park,physics,0,1,-4
+532,Dhairya Mathur,WWPS 2,overall,6,0,24
+532,Dhairya Mathur,WWPS 2,biology,2,0,8
+532,Dhairya Mathur,WWPS 2,math,1,0,4
+532,Dhairya Mathur,WWPS 2,chemistry,3,0,12
+532,Dhairya Mathur,WWPS 2,ess,0,0,0
+532,Ben Dang,Bridgeland,overall,3,0,12
+532,Ben Dang,Bridgeland,ess,1,0,4
+532,Jason Mak,WWPS 2,overall,5,0,20
+532,Jason Mak,WWPS 2,physics,3,0,12
+532,Ben Dang,Bridgeland,biology,2,0,8
+532,Likhith Malipati,WWPS 2,overall,4,0,16
+532,Likhith Malipati,WWPS 2,math,3,0,12
+532,Jason Mak,WWPS 2,ess,1,0,4
+532,Advaith Bade,Bridgeland,overall,1,1,0
+532,Advaith Bade,Bridgeland,physics,0,1,-4
+532,Likhith Malipati,WWPS 2,ess,0,0,0
+532,Likhith Malipati,WWPS 2,physics,1,0,4
+532,Jason Mak,WWPS 2,chemistry,1,0,4
+532,Advaith Bade,Bridgeland,ess,1,0,4
+535,Ashley Li,CCA 2,overall,4,0,16
+535,Ashley Li,CCA 2,biology,1,0,4
+535,Annie Luo,CCA 2,overall,1,0,4
+535,Annie Luo,CCA 2,math,1,0,4
+535,Elsa Cheng,Harvard Westlake 2,overall,1,0,4
+535,Elsa Cheng,Harvard Westlake 2,chemistry,0,0,0
+535,Peter Gao,Harvard Westlake 2,overall,3,0,12
+535,Peter Gao,Harvard Westlake 2,ess,1,0,4
+535,Rishi Kumar,CCA 2,overall,3,0,12
+535,Rishi Kumar,CCA 2,ess,1,0,4
+535,Alex Gavin,Harvard Westlake 2,overall,3,0,12
+535,Alex Gavin,Harvard Westlake 2,physics,1,0,4
+535,Aryan Deshmukh,CCA 2,overall,1,0,4
+535,Aryan Deshmukh,CCA 2,physics,0,0,0
+535,Peter Gao,Harvard Westlake 2,biology,2,0,8
+535,Alex Gavin,Harvard Westlake 2,math,2,0,8
+535,Rishi Kumar,CCA 2,math,1,0,4
+535,Aryan Deshmukh,CCA 2,chemistry,1,0,4
+535,Elsa Cheng,Harvard Westlake 2,physics,1,0,4
+535,Annie Luo,CCA 2,biology,0,0,0
+535,Ashley Li,CCA 2,chemistry,2,0,8
+535,Ashley Li,CCA 2,ess,1,0,4
+535,Rishi Kumar,CCA 2,physics,1,0,4
+535,Alex Gavin,Harvard Westlake 2,biology,0,0,0
+538,Theenash Sengupta,Mission San Jose 1,overall,5,2,12
+538,Theenash Sengupta,Mission San Jose 1,biology,3,1,8
+538,Mahdi Khan,Jericho 1,overall,3,0,12
+538,Mahdi Khan,Jericho 1,math,1,0,4
+538,Theenash Sengupta,Mission San Jose 1,math,0,0,0
+538,Ryan Tae,Jericho 1,overall,1,0,4
+538,Ryan Tae,Jericho 1,chemistry,1,0,4
+538,Theenash Sengupta,Mission San Jose 1,chemistry,2,1,4
+538,Roshan Annamalai,Mission San Jose 1,overall,7,1,24
+538,Roshan Annamalai,Mission San Jose 1,ess,4,0,16
+538,Helen Wang,Jericho 1,overall,3,0,12
+538,Helen Wang,Jericho 1,physics,1,0,4
+538,Advaith Mopuri,Mission San Jose 1,overall,0,2,-8
+538,Advaith Mopuri,Mission San Jose 1,physics,0,1,-4
+538,Helen Wang,Jericho 1,math,1,0,4
+538,Advaith Mopuri,Mission San Jose 1,math,0,1,-4
+538,Anish Agarwal,Mission San Jose 1,overall,0,1,-4
+538,Anish Agarwal,Mission San Jose 1,chemistry,0,1,-4
+538,Mahdi Khan,Jericho 1,physics,2,0,8
+538,Roshan Annamalai,Mission San Jose 1,physics,1,1,0
+538,Roshan Annamalai,Mission San Jose 1,math,2,0,8
+538,Helen Wang,Jericho 1,biology,1,0,4
+547,Aneesh Sule,Academies of Loudoun,overall,5,0,20
+547,Aneesh Sule,Academies of Loudoun,chemistry,2,0,8
+547,Hudson Barkman,Academies of Loudoun,overall,1,0,4
+547,Hudson Barkman,Academies of Loudoun,ess,1,0,4
+547,Vladislav Bodnaruk,Whitney Young 2,overall,3,0,12
+547,Vladislav Bodnaruk,Whitney Young 2,ess,0,0,0
+547,Aneesh Sule,Academies of Loudoun,physics,2,0,8
+547,Zayn Imran,Academies of Loudoun,overall,0,0,0
+547,Zayn Imran,Academies of Loudoun,biology,0,0,0
+547,Aneesh Sule,Academies of Loudoun,math,1,0,4
+547,Hannah Gao,Whitney Young 2,overall,0,1,-4
+547,Hannah Gao,Whitney Young 2,math,0,1,-4
+547,Priya Lloyd,Academies of Loudoun,overall,0,0,0
+547,Priya Lloyd,Academies of Loudoun,chemistry,0,0,0
+547,Vladislav Bodnaruk,Whitney Young 2,chemistry,0,0,0
+547,Miles Wallace,Whitney Young 2,overall,2,0,8
+547,Miles Wallace,Whitney Young 2,ess,1,0,4
+547,Vladislav Bodnaruk,Whitney Young 2,biology,1,0,4
+547,Vladislav Bodnaruk,Whitney Young 2,math,2,0,8
+547,Miles Wallace,Whitney Young 2,biology,1,0,4
+550,Kian Dhawan,Blair 1,overall,8,0,32
+550,Kian Dhawan,Blair 1,biology,3,0,12
+550,Chris Wang,Blair 1,overall,1,0,4
+550,Chris Wang,Blair 1,math,1,0,4
+550,Evan Zhang,Blair 1,overall,8,0,32
+550,Evan Zhang,Blair 1,chemistry,1,0,4
+550,Evan Zhang,Blair 1,ess,3,0,12
+550,Evan Zhang,Blair 1,physics,1,0,4
+550,Evan Zhang,Blair 1,math,3,0,12
+550,Kian Dhawan,Blair 1,chemistry,3,0,12
+550,Kian Dhawan,Blair 1,physics,2,0,8
+550,Kevin Feng,Blair 1,overall,2,0,8
+550,Kevin Feng,Blair 1,physics,1,0,4
+550,Kevin Feng,Blair 1,ess,1,0,4
+553,Simon Zhang,Lexington,overall,6,0,24
+553,Simon Zhang,Lexington,biology,2,0,8
+553,Akshay Rao,Lexington,overall,2,0,8
+553,Akshay Rao,Lexington,math,2,0,8
+553,Simon Zhang,Lexington,chemistry,3,0,12
+553,Ashray Malhotra,Lexington,overall,4,1,12
+553,Ashray Malhotra,Lexington,ess,3,0,12
+553,Ashray Malhotra,Lexington,physics,0,1,-4
+553,Kristin Peng,BUMSJK,overall,2,0,8
+553,Kristin Peng,BUMSJK,physics,1,0,4
+553,John Fenic,BUMSJK,overall,2,0,8
+553,John Fenic,BUMSJK,math,1,0,4
+553,Aarin Mugundu,Lexington,overall,1,0,4
+553,Aarin Mugundu,Lexington,chemistry,1,0,4
+553,Simon Zhang,Lexington,ess,1,0,4
+553,John Fenic,BUMSJK,physics,1,0,4
+553,Kristin Peng,BUMSJK,biology,0,0,0
+553,Ashray Malhotra,Lexington,biology,1,0,4
+553,Simon Zhang,Lexington,math,0,0,0
+553,Kristin Peng,BUMSJK,math,1,0,4
+553,Akshay Rao,Lexington,physics,0,0,0
+562,Liran Zhu,Throrthwood Tottenham,overall,11,0,44
+562,Liran Zhu,Throrthwood Tottenham,biology,1,0,4
+562,Ferris Li,Throrthwood Tottenham,overall,3,1,8
+562,Ferris Li,Throrthwood Tottenham,math,1,0,4
+562,Aarnav Jain,IMSA 2,overall,1,0,4
+562,Aarnav Jain,IMSA 2,math,0,0,0
+562,Liran Zhu,Throrthwood Tottenham,chemistry,4,0,16
+562,Liran Zhu,Throrthwood Tottenham,ess,2,0,8
+562,Liran Zhu,Throrthwood Tottenham,physics,2,0,8
+562,Ferris Li,Throrthwood Tottenham,biology,2,1,4
+562,Liran Zhu,Throrthwood Tottenham,math,2,0,8
+562,Aarnav Jain,IMSA 2,ess,1,0,4
+562,Colton Bing,IMSA 2,overall,1,0,4
+562,Colton Bing,IMSA 2,biology,1,0,4
+562,Seojin Park,Throrthwood Tottenham,overall,1,0,4
+562,Seojin Park,Throrthwood Tottenham,ess,1,0,4
+386,Kiaan Biswas,Ward Melville 2,overall,2,1,4
+386,Kiaan Biswas,Ward Melville 2,biology,2,1,4
+386,Judy Tan,Temple City,overall,1,0,4
+386,Judy Tan,Temple City,biology,1,0,4
+386,Gunes Sunar,Ward Melville 2,overall,1,0,4
+386,Gunes Sunar,Ward Melville 2,math,0,0,0
+386,Jason Liu,Temple City,overall,1,2,-4
+386,Jason Liu,Temple City,math,0,0,0
+386,Bryce Thach,Temple City,overall,4,3,4
+386,Bryce Thach,Temple City,chemistry,1,0,4
+386,Gunes Sunar,Ward Melville 2,ess,0,0,0
+386,Bryce Thach,Temple City,ess,1,2,-4
+386,Jason Liu,Temple City,physics,1,1,0
+386,Jason Liu,Temple City,biology,0,1,-4
+386,Ethan Deng,Temple City,overall,1,0,4
+386,Ethan Deng,Temple City,chemistry,1,0,4
+386,Bryce Thach,Temple City,physics,2,0,8
+386,Will Squire,Ward Melville 2,overall,0,0,0
+386,Will Squire,Ward Melville 2,math,0,0,0
+386,Gunes Sunar,Ward Melville 2,chemistry,1,0,4
+386,Kiaan Biswas,Ward Melville 2,ess,0,0,0
+386,Gunes Sunar,Ward Melville 2,physics,0,0,0
+386,Bryce Thach,Temple City,biology,0,1,-4
+386,Bryce Thach,Temple City,math,0,0,0
+389,Alexander Destefano,CCA 1,overall,2,0,8
+389,Alexander Destefano,CCA 1,biology,2,0,8
+389,Pranav Burra,Cupertino 1,overall,3,2,4
+389,Pranav Burra,Cupertino 1,math,1,1,0
+389,Owen Mao,CCA 1,overall,1,0,4
+389,Owen Mao,CCA 1,math,1,0,4
+389,Dennis Stens,CCA 1,overall,3,0,12
+389,Dennis Stens,CCA 1,chemistry,3,0,12
+389,Namita Gaidhani,Cupertino 1,overall,0,0,0
+389,Namita Gaidhani,Cupertino 1,ess,0,0,0
+389,Alexander Destefano,CCA 1,ess,0,0,0
+389,Pranav Burra,Cupertino 1,physics,2,0,8
+389,Shubhi Jain,Cupertino 1,overall,0,2,-8
+389,Shubhi Jain,Cupertino 1,biology,0,2,-8
+389,Owen Mao,CCA 1,chemistry,0,0,0
+389,Owen Mao,CCA 1,physics,0,0,0
+389,Pranav Burra,Cupertino 1,chemistry,0,1,-4
+394,Ishaan Arya,West Windsor-Plainsboro North,overall,1,0,4
+394,Ishaan Arya,West Windsor-Plainsboro North,biology,1,0,4
+394,Aldric Benalan,West Windsor-Plainsboro North,overall,6,1,20
+394,Aldric Benalan,West Windsor-Plainsboro North,math,1,0,4
+394,Aldric Benalan,West Windsor-Plainsboro North,chemistry,2,0,8
+394,Lucas Wu,Davidson Academy,overall,6,1,20
+394,Lucas Wu,Davidson Academy,ess,0,0,0
+394,Aldric Benalan,West Windsor-Plainsboro North,ess,2,1,4
+394,Aldric Benalan,West Windsor-Plainsboro North,physics,1,0,4
+394,Shayan Sattarvand,Davidson Academy,overall,0,1,-4
+394,Shayan Sattarvand,Davidson Academy,biology,0,1,-4
+394,Sharath Sanjay,West Windsor-Plainsboro North,overall,2,0,8
+394,Sharath Sanjay,West Windsor-Plainsboro North,biology,2,0,8
+394,Lucas Wu,Davidson Academy,math,2,0,8
+394,Lucas Wu,Davidson Academy,physics,2,1,4
+394,Lucas Wu,Davidson Academy,chemistry,2,0,8
+394,Yajur Chandar,Davidson Academy,overall,1,0,4
+394,Yajur Chandar,Davidson Academy,biology,1,0,4
+401,Uddip Kashyap,VMATHs,overall,2,1,4
+401,Uddip Kashyap,VMATHs,biology,2,1,4
+401,Aarav Doshi,Troy 1,overall,0,1,-4
+401,Aarav Doshi,Troy 1,biology,0,1,-4
+401,Varun Gadi,VMATHs,overall,3,0,12
+401,Varun Gadi,VMATHs,math,2,0,8
+401,Ethan Wang,Troy 1,overall,1,1,0
+401,Ethan Wang,Troy 1,math,1,0,4
+401,Abhinav Jain,Troy 1,overall,3,0,12
+401,Abhinav Jain,Troy 1,chemistry,3,0,12
+401,S I,VMATHs,overall,4,0,16
+401,S I,VMATHs,ess,1,0,4
+401,Ethan Wang,Troy 1,ess,0,0,0
+401,S I,VMATHs,physics,2,0,8
+401,S I,VMATHs,chemistry,1,0,4
+401,Uddip Kashyap,VMATHs,ess,0,0,0
+401,Varun Gadi,VMATHs,physics,1,0,4
+401,Ethan Wang,Troy 1,physics,0,1,-4
+404,Achuth Vinay,Clovis North High,overall,3,1,8
+404,Achuth Vinay,Clovis North High,biology,3,1,8
+404,Majed Almasri,Clovis North High,overall,2,1,4
+404,Majed Almasri,Clovis North High,math,0,0,0
+404,Adhav Kumar,Research Triangle,overall,5,1,16
+404,Adhav Kumar,Research Triangle,math,0,0,0
+404,Adhav Kumar,Research Triangle,chemistry,3,0,12
+404,Majed Almasri,Clovis North High,ess,0,0,0
+404,Adhav Kumar,Research Triangle,ess,0,0,0
+404,Majed Almasri,Clovis North High,physics,2,1,4
+404,Adhav Kumar,Research Triangle,physics,2,1,4
+404,Adhav Kumar,Research Triangle,biology,0,0,0
+404,Justin Do,Clovis North High,overall,1,0,4
+404,Justin Do,Clovis North High,chemistry,1,0,4
+404,Achuth Vinay,Clovis North High,ess,0,0,0
+404,Justin Do,Clovis North High,ess,0,0,0
+409,William Wang,Lakeside 1,overall,2,0,8
+409,William Wang,Lakeside 1,biology,0,0,0
+409,Samuel Wang,Blair 2,overall,1,2,-4
+409,Samuel Wang,Blair 2,biology,1,1,0
+409,James Yang,Lakeside 1,overall,2,0,8
+409,James Yang,Lakeside 1,math,2,0,8
+409,Samuel Wang,Blair 2,math,0,0,0
+409,Vishnu Mangipudi,Lakeside 1,overall,4,0,16
+409,Vishnu Mangipudi,Lakeside 1,chemistry,3,0,12
+409,Vishnu Mangipudi,Lakeside 1,ess,1,0,4
+409,Samuel Wang,Blair 2,ess,0,1,-4
+409,Vishnu Mangipudi,Lakeside 1,physics,0,0,0
+409,Eric Xie,Blair 2,overall,5,1,16
+409,Eric Xie,Blair 2,physics,3,0,12
+409,William Wang,Lakeside 1,chemistry,1,0,4
+409,Meghna Singh,Blair 2,overall,2,0,8
+409,Meghna Singh,Blair 2,ess,2,0,8
+409,William Wang,Lakeside 1,physics,1,0,4
+409,Eric Xie,Blair 2,math,1,1,0
+409,Eric Xie,Blair 2,biology,1,0,4
+416,Aravind Muralidharan,Mission San Jose 2,overall,2,1,4
+416,Aravind Muralidharan,Mission San Jose 2,biology,2,1,4
+416,Tyler He,IMSA 1,overall,0,1,-4
+416,Tyler He,IMSA 1,biology,0,0,0
+416,Ishaan Kabra,Mission San Jose 2,overall,6,2,16
+416,Ishaan Kabra,Mission San Jose 2,math,1,1,0
+416,Tony Han,IMSA 1,overall,2,1,4
+416,Tony Han,IMSA 1,math,1,0,4
+416,Lucas Jiang,Mission San Jose 2,overall,2,0,8
+416,Lucas Jiang,Mission San Jose 2,chemistry,2,0,8
+416,Ishaan Kabra,Mission San Jose 2,ess,3,1,8
+416,Jeev Hora,IMSA 1,overall,3,0,12
+416,Jeev Hora,IMSA 1,physics,1,0,4
+416,Jeev Hora,IMSA 1,biology,1,0,4
+416,Ishaan Kabra,Mission San Jose 2,chemistry,1,0,4
+416,Shlok Choudhary,IMSA 1,overall,1,0,4
+416,Shlok Choudhary,IMSA 1,physics,1,0,4
+416,Jeev Hora,IMSA 1,chemistry,1,0,4
+416,Ishaan Kabra,Mission San Jose 2,physics,1,0,4
+416,Tony Han,IMSA 1,physics,1,1,0
+416,Tyler He,IMSA 1,math,0,1,-4
+416,Jeev Hora,IMSA 1,ess,0,0,0
+419,Sophie Cui,Wayzata,overall,1,0,4
+419,Sophie Cui,Wayzata,chemistry,1,0,4
+419,Luyao Yang,Wayzata,overall,1,1,0
+419,Luyao Yang,Wayzata,ess,1,1,0
+419,Charith Nimmagadda,Collierville 1,overall,1,0,4
+419,Charith Nimmagadda,Collierville 1,physics,1,0,4
+419,Rehan Krishnan,Collierville 1,overall,0,2,-8
+419,Rehan Krishnan,Collierville 1,biology,0,2,-8
+419,Sumin Yoon,Collierville 1,overall,4,1,12
+419,Sumin Yoon,Collierville 1,chemistry,3,0,12
+419,Kevin Qiu,Wayzata,overall,6,0,24
+419,Kevin Qiu,Wayzata,biology,2,0,8
+419,Kevin Qiu,Wayzata,math,2,0,8
+419,Sumin Yoon,Collierville 1,ess,1,1,0
+419,Kevin Qiu,Wayzata,physics,2,0,8
+419,Sumin Yoon,Collierville 1,physics,0,0,0
+424,Camille Pimentel,Hunter College 1,overall,3,1,8
+424,Camille Pimentel,Hunter College 1,biology,1,0,4
+424,Gabe Levin,Hunter College 1,overall,9,1,32
+424,Gabe Levin,Hunter College 1,chemistry,4,0,16
+424,Camille Pimentel,Hunter College 1,ess,2,1,4
+424,Simone Maimon,Hunter College 1,overall,2,0,8
+424,Simone Maimon,Hunter College 1,physics,1,0,4
+424,Narayan Chutkay,Camas,overall,1,1,0
+424,Narayan Chutkay,Camas,biology,1,1,0
+424,Gabe Levin,Hunter College 1,math,3,0,12
+424,Gabe Levin,Hunter College 1,physics,2,1,4
+424,Simone Maimon,Hunter College 1,biology,1,0,4
+431,Yingchi Xiao,Arcadia 1,overall,2,1,4
+431,Yingchi Xiao,Arcadia 1,biology,2,1,4
+431,Saish Koul,John P. Stevens,overall,0,1,-4
+431,Saish Koul,John P. Stevens,biology,0,1,-4
+431,Austin Zhang,Arcadia 1,overall,2,0,8
+431,Austin Zhang,Arcadia 1,math,1,0,4
+431,Saish Koul,John P. Stevens,math,0,0,0
+431,Paxton Lin,Arcadia 1,overall,5,0,20
+431,Paxton Lin,Arcadia 1,chemistry,4,0,16
+431,Sreehaas Mannepalli,John P. Stevens,overall,1,0,4
+431,Sreehaas Mannepalli,John P. Stevens,ess,1,0,4
+431,Rishabh Girish,John P. Stevens,overall,1,0,4
+431,Rishabh Girish,John P. Stevens,physics,1,0,4
+431,Paxton Lin,Arcadia 1,math,1,0,4
+431,Pranesh Kirubakar,John P. Stevens,overall,0,0,0
+431,Pranesh Kirubakar,John P. Stevens,ess,0,0,0
+431,Paxton Lin,Arcadia 1,physics,0,0,0
+431,Sreehaas Mannepalli,John P. Stevens,physics,0,0,0
+431,Pranesh Kirubakar,John P. Stevens,math,0,0,0
+431,Austin Zhang,Arcadia 1,physics,1,0,4
+431,Paxton Lin,Arcadia 1,ess,0,0,0
+431,Henry Zhang,Arcadia 1,overall,1,0,4
+431,Henry Zhang,Arcadia 1,physics,1,0,4
+434,Aarush Iyer,MSJ 3,overall,4,0,16
+434,Aarush Iyer,MSJ 3,biology,3,0,12
+434,Lisa Xun,Westview 1,overall,1,0,4
+434,Lisa Xun,Westview 1,biology,0,0,0
+434,Hank Sun,MSJ 3,overall,1,0,4
+434,Hank Sun,MSJ 3,math,1,0,4
+434,Lisa Xun,Westview 1,math,0,0,0
+434,Abhiraam Girish,MSJ 3,overall,4,1,12
+434,Abhiraam Girish,MSJ 3,chemistry,1,0,4
+434,Abhiraam Girish,MSJ 3,ess,3,1,8
+434,Zoey Tang,Westview 1,overall,4,0,16
+434,Zoey Tang,Westview 1,physics,2,0,8
+434,Zoey Tang,Westview 1,math,2,0,8
+434,Aarush Iyer,MSJ 3,chemistry,1,0,4
+434,Hank Sun,MSJ 3,physics,0,0,0
+434,Tashvi Khare,Westview 1,overall,0,0,0
+434,Tashvi Khare,Westview 1,physics,0,0,0
+434,Abhiraam Girish,MSJ 3,math,0,0,0
+434,Aarush Iyer,MSJ 3,physics,0,0,0
+434,Sanjana Basa,Westview 1,overall,0,0,0
+434,Sanjana Basa,Westview 1,physics,0,0,0
+434,Maxwell Zhang,MSJ 3,overall,0,1,-4
+434,Maxwell Zhang,MSJ 3,biology,0,1,-4
+434,Lisa Xun,Westview 1,chemistry,1,0,4
+439,Arman A,Ladue,overall,1,0,4
+439,Arman A,Ladue,biology,1,0,4
+439,Praneel Avula,James Clemens,overall,7,2,20
+439,Praneel Avula,James Clemens,math,0,1,-4
+439,Aaron Lin,Ladue,overall,6,1,20
+439,Aaron Lin,Ladue,math,3,0,12
+439,Praneel Avula,James Clemens,chemistry,3,0,12
+439,Praneel Avula,James Clemens,ess,2,0,8
+439,Aaron Lin,Ladue,physics,2,0,8
+439,Heidi Leonard,James Clemens,overall,2,0,8
+439,Heidi Leonard,James Clemens,biology,2,0,8
+439,Aaron Lin,Ladue,biology,0,1,-4
+439,Ayden Huang,Ladue,overall,0,1,-4
+439,Ayden Huang,Ladue,chemistry,0,1,-4
+439,Joel Yang,James Clemens,overall,1,0,4
+439,Joel Yang,James Clemens,ess,1,0,4
+439,Ayden Huang,Ladue,ess,0,0,0
+439,Praneel Avula,James Clemens,physics,2,1,4
+439,Aaron Lin,Ladue,chemistry,1,0,4
+446,suzuko ohshima,North Hollywood 1,overall,7,3,16
+446,suzuko ohshima,North Hollywood 1,biology,1,2,-4
+446,Alexander Yang,BRMHS 2,overall,0,0,0
+446,Alexander Yang,BRMHS 2,biology,0,0,0
+446,Charles Huang,North Hollywood 1,overall,1,1,0
+446,Charles Huang,North Hollywood 1,math,0,0,0
+446,Alexander Yang,BRMHS 2,math,0,0,0
+446,suzuko ohshima,North Hollywood 1,chemistry,2,0,8
+446,suzuko ohshima,North Hollywood 1,ess,3,1,8
+446,Christopher Khoa Nguyen,BRMHS 2,overall,0,0,0
+446,Christopher Khoa Nguyen,BRMHS 2,ess,0,0,0
+446,Charles Huang,North Hollywood 1,physics,1,0,4
+446,Minghao Guo,North Hollywood 1,overall,2,0,8
+446,Minghao Guo,North Hollywood 1,math,2,0,8
+446,Christopher Khoa Nguyen,BRMHS 2,math,0,0,0
+446,Charles Huang,North Hollywood 1,chemistry,0,1,-4
+446,Christopher Khoa Nguyen,BRMHS 2,physics,0,0,0
+446,Angelina Yan,North Hollywood 1,overall,1,0,4
+446,Angelina Yan,North Hollywood 1,biology,1,0,4
+446,Alexander Yang,BRMHS 2,chemistry,0,0,0
+446,suzuko ohshima,North Hollywood 1,physics,1,0,4
+449,Rasia Yu,Palo Alto 1,overall,1,2,-4
+449,Rasia Yu,Palo Alto 1,biology,1,2,-4
+449,Arjun Pandey,BASIS Independent Fremont,overall,3,0,12
+449,Arjun Pandey,BASIS Independent Fremont,biology,2,0,8
+449,Andrew Wen,Palo Alto 1,overall,6,1,20
+449,Andrew Wen,Palo Alto 1,math,2,0,8
+449,Arjun Pandey,BASIS Independent Fremont,math,0,0,0
+449,Kevin Pei,Palo Alto 1,overall,2,1,4
+449,Kevin Pei,Palo Alto 1,chemistry,2,0,8
+449,Kevin Pei,Palo Alto 1,ess,0,1,-4
+449,Kevin Chen,BASIS Independent Fremont,overall,0,0,0
+449,Kevin Chen,BASIS Independent Fremont,ess,0,0,0
+449,Andrew Wen,Palo Alto 1,physics,3,1,8
+449,Arjun Pandey,BASIS Independent Fremont,ess,0,0,0
+449,Anthony Hu,BASIS Independent Fremont,overall,1,0,4
+449,Anthony Hu,BASIS Independent Fremont,math,1,0,4
+449,Inhoo Chang,Palo Alto 1,overall,1,0,4
+449,Inhoo Chang,Palo Alto 1,chemistry,1,0,4
+449,Arjun Pandey,BASIS Independent Fremont,physics,1,0,4
+449,Andrew Wen,Palo Alto 1,chemistry,1,0,4
+454,Gavin Macatangay,Princeton,overall,3,0,12
+454,Gavin Macatangay,Princeton,biology,2,0,8
+454,Joey Chang,Princeton,overall,2,0,8
+454,Joey Chang,Princeton,chemistry,2,0,8
+454,Nikolai Morozov,Princeton,overall,3,2,4
+454,Nikolai Morozov,Princeton,ess,2,1,4
+454,Anya S,Cupertino 2,overall,1,0,4
+454,Anya S,Cupertino 2,ess,1,0,4
+454,Nikolai Morozov,Princeton,physics,1,1,0
+454,Nikolai Morozov,Princeton,biology,0,0,0
+454,Rosa Lee,Cupertino 2,overall,2,1,4
+454,Rosa Lee,Cupertino 2,biology,2,1,4
+454,Alex Sheng,Princeton,overall,1,0,4
+454,Alex Sheng,Princeton,math,0,0,0
+454,Anya S,Cupertino 2,math,0,0,0
+454,Jaanya Annapureddy,Cupertino 2,overall,1,0,4
+454,Jaanya Annapureddy,Cupertino 2,math,1,0,4
+454,Gavin Macatangay,Princeton,chemistry,1,0,4
+454,Anya S,Cupertino 2,physics,0,0,0
+454,Alex Sheng,Princeton,physics,1,0,4
+464,Timothy Chen,University 1,overall,6,7,-4
+464,Timothy Chen,University 1,biology,1,1,0
+464,Timothy Chen,University 1,math,2,2,0
+464,Kensuke Ohshima,North Hollywood 2,overall,5,3,8
+464,Kensuke Ohshima,North Hollywood 2,math,0,0,0
+464,Timothy Chen,University 1,chemistry,2,1,4
+464,Samriddho Bhowal,University 1,overall,0,0,0
+464,Samriddho Bhowal,University 1,ess,0,0,0
+464,Kensuke Ohshima,North Hollywood 2,ess,2,2,0
+464,Kensuke Ohshima,North Hollywood 2,physics,2,1,4
+464,Jake Rosenblum,North Hollywood 2,overall,2,0,8
+464,Jake Rosenblum,North Hollywood 2,biology,2,0,8
+464,Patrick Liang,North Hollywood 2,overall,1,0,4
+464,Patrick Liang,North Hollywood 2,math,1,0,4
+464,Jake Rosenblum,North Hollywood 2,chemistry,0,0,0
+464,Timothy Chen,University 1,ess,0,1,-4
+464,Timothy Chen,University 1,physics,1,2,-4
+464,Kensuke Ohshima,North Hollywood 2,chemistry,1,0,4
+469,Lisa Cheng,Harvard Westlake 1,overall,3,1,8
+469,Lisa Cheng,Harvard Westlake 1,biology,2,1,4
+469,Rayan Hasan,Jericho 2,overall,3,0,12
+469,Rayan Hasan,Jericho 2,biology,0,0,0
+469,Mikenever Dai,Harvard Westlake 1,overall,1,0,4
+469,Mikenever Dai,Harvard Westlake 1,math,0,0,0
+469,Joshua Horowitz,Jericho 2,overall,0,1,-4
+469,Joshua Horowitz,Jericho 2,math,0,0,0
+469,Troy Goodgame,Harvard Westlake 1,overall,2,1,4
+469,Troy Goodgame,Harvard Westlake 1,chemistry,1,0,4
+469,Troy Goodgame,Harvard Westlake 1,ess,0,1,-4
+469,Henry Li,Jericho 2,overall,1,1,0
+469,Henry Li,Jericho 2,ess,1,0,4
+469,Lisa Cheng,Harvard Westlake 1,physics,1,0,4
+469,Joshua Horowitz,Jericho 2,biology,0,1,-4
+469,Henry Li,Jericho 2,math,0,0,0
+469,Rayan Hasan,Jericho 2,chemistry,2,0,8
+469,Henry Li,Jericho 2,physics,0,1,-4
+469,Rayan Hasan,Jericho 2,math,1,0,4
+469,Mikenever Dai,Harvard Westlake 1,physics,1,0,4
+469,Lisa Cheng,Harvard Westlake 1,math,0,0,0
+469,Andy Ryoo,Jericho 2,overall,0,0,0
+469,Andy Ryoo,Jericho 2,math,0,0,0
+469,Lisa Cheng,Harvard Westlake 1,ess,0,0,0
+469,Troy Goodgame,Harvard Westlake 1,physics,1,0,4
+476,Eric Liu,Ward Melville 1,overall,3,2,4
+476,Eric Liu,Ward Melville 1,biology,2,1,4
+476,Harry Gao,Ward Melville 1,overall,5,2,12
+476,Harry Gao,Ward Melville 1,math,4,0,16
+476,Eric Liu,Ward Melville 1,chemistry,1,1,0
+476,Harry Gao,Ward Melville 1,ess,0,0,0
+476,Brennan Tsai,Whitney Young 1,overall,0,0,0
+476,Brennan Tsai,Whitney Young 1,ess,0,0,0
+476,Harry Gao,Ward Melville 1,physics,1,2,-4
+476,Andrew Kozintsev,Whitney Young 1,overall,5,0,20
+476,Andrew Kozintsev,Whitney Young 1,physics,3,0,12
+476,Chaniel Kpekpe,Whitney Young 1,overall,1,0,4
+476,Chaniel Kpekpe,Whitney Young 1,biology,1,0,4
+476,Andrew Kozintsev,Whitney Young 1,chemistry,1,0,4
+476,Andrew Kozintsev,Whitney Young 1,ess,1,0,4
+479,Jason Tang,AHB 1,overall,3,2,4
+479,Jason Tang,AHB 1,biology,1,1,0
+479,Joseph Baek,OCSA,overall,1,0,4
+479,Joseph Baek,OCSA,math,0,0,0
+479,Jason Tang,AHB 1,math,0,0,0
+479,Shannon Imaoka,OCSA,overall,2,3,-4
+479,Shannon Imaoka,OCSA,chemistry,2,1,4
+479,Shannon Imaoka,OCSA,ess,0,1,-4
+479,Jason Tang,AHB 1,ess,1,0,4
+479,Joseph Baek,OCSA,physics,1,0,4
+479,Jason Tang,AHB 1,physics,0,1,-4
+479,Henry Kim,OCSA,overall,1,0,4
+479,Henry Kim,OCSA,biology,1,0,4
+479,Arnav Bhatia,AHB 1,overall,1,0,4
+479,Arnav Bhatia,AHB 1,math,1,0,4
+479,Armaan Diwan,OCSA,overall,1,0,4
+479,Armaan Diwan,OCSA,ess,1,0,4
+479,Rishitha Marri,AHB 1,overall,1,1,0
+479,Rishitha Marri,AHB 1,ess,1,0,4
+479,Daniel Cai,AHB 1,overall,2,1,4
+479,Daniel Cai,AHB 1,physics,1,1,0
+479,Shannon Imaoka,OCSA,biology,0,1,-4
+479,Aryan Sharma,OCSA,overall,0,1,-4
+479,Aryan Sharma,OCSA,math,0,0,0
+479,Jason Tang,AHB 1,chemistry,1,0,4
+479,Aryan Sharma,OCSA,ess,0,0,0
+479,Aryan Sharma,OCSA,physics,0,1,-4
+479,Rishitha Marri,AHB 1,biology,0,1,-4
+479,Daniel Cai,AHB 1,chemistry,1,0,4
+484,Henry Lu,Blair 3,overall,2,0,8
+484,Henry Lu,Blair 3,biology,1,0,4
+484,Liam Tran,BISV 2,overall,7,1,24
+484,Liam Tran,BISV 2,biology,1,0,4
+484,Edison Gao,Blair 3,overall,1,0,4
+484,Edison Gao,Blair 3,math,1,0,4
+484,Jason Z,BISV 2,overall,0,0,0
+484,Jason Z,BISV 2,math,0,0,0
+484,Liam Tran,BISV 2,chemistry,4,0,16
+484,Henry Lu,Blair 3,ess,1,0,4
+484,Liam Tran,BISV 2,ess,0,0,0
+484,Liam Tran,BISV 2,physics,2,1,4
+484,Jason Z,BISV 2,biology,0,0,0
+484,Jason Z,BISV 2,ess,0,0,0
+484,Ruixi Zhang,Blair 3,overall,1,0,4
+484,Ruixi Zhang,Blair 3,physics,0,0,0
+484,Ruixi Zhang,Blair 3,math,1,0,4
+484,Edison Gao,Blair 3,physics,0,0,0
+484,Timo Ye,BISV 2,overall,1,0,4
+484,Timo Ye,BISV 2,biology,1,0,4
+484,Eric Guo,BISV 2,overall,0,0,0
+484,Eric Guo,BISV 2,math,0,0,0
+491,Sophia Liu,University 2,overall,2,0,8
+491,Sophia Liu,University 2,biology,2,0,8
+491,William Liu,State College Area 1,overall,2,1,4
+491,William Liu,State College Area 1,biology,0,0,0
+491,Brandon Chiu,University 2,overall,1,1,0
+491,Brandon Chiu,University 2,math,1,1,0
+491,William Liu,State College Area 1,math,1,0,4
+491,Aaron Le,State College Area 1,overall,3,0,12
+491,Aaron Le,State College Area 1,chemistry,3,0,12
+491,Toby Wei,University 2,overall,3,1,8
+491,Toby Wei,University 2,ess,0,1,-4
+491,William Liu,State College Area 1,ess,0,0,0
+491,Toby Wei,University 2,physics,3,0,12
+491,William Liu,State College Area 1,physics,0,1,-4
+491,Dasha Nekrutenko,State College Area 1,overall,0,0,0
+491,Dasha Nekrutenko,State College Area 1,biology,0,0,0
+491,Birdie Liu,University 2,overall,2,0,8
+491,Birdie Liu,University 2,ess,2,0,8
+491,William Liu,State College Area 1,chemistry,1,0,4
+494,Ryan Karim,School of Astronomy,overall,2,0,8
+494,Ryan Karim,School of Astronomy,biology,1,0,4
+494,Neal Kedia,Eastlake,overall,0,0,0
+494,Neal Kedia,Eastlake,biology,0,0,0
+494,Sudeep Suresh,School of Astronomy,overall,2,2,0
+494,Sudeep Suresh,School of Astronomy,math,0,0,0
+494,Saamik Agrawal,Eastlake,overall,3,0,12
+494,Saamik Agrawal,Eastlake,math,3,0,12
+494,Abhinav Senthil,School of Astronomy,overall,2,1,4
+494,Abhinav Senthil,School of Astronomy,chemistry,2,1,4
+494,Saahil Dugar,Eastlake,overall,2,2,0
+494,Saahil Dugar,Eastlake,chemistry,0,1,-4
+494,Sudeep Suresh,School of Astronomy,ess,1,0,4
+494,Yash N,Eastlake,overall,1,0,4
+494,Yash N,Eastlake,ess,1,0,4
+494,Ryan Karim,School of Astronomy,physics,1,0,4
+494,Saahil Dugar,Eastlake,biology,1,1,0
+494,Sudeep Suresh,School of Astronomy,chemistry,0,1,-4
+494,Abhinav Senthil,School of Astronomy,ess,0,0,0
+494,Saahil Dugar,Eastlake,physics,1,0,4
+494,Ryan Karim,School of Astronomy,ess,0,0,0
+494,Sudeep Suresh,School of Astronomy,physics,1,1,0
+494,Shivam Chowdhary,Eastlake,overall,0,0,0
+494,Shivam Chowdhary,Eastlake,physics,0,0,0
+499,Ajay Sawant,The Frazer School 1,overall,3,0,12
+499,Ajay Sawant,The Frazer School 1,biology,3,0,12
+499,Evan Liu,Lynbrook 1,overall,6,0,24
+499,Evan Liu,Lynbrook 1,biology,1,0,4
+499,Anish Patel,The Frazer School 1,overall,2,0,8
+499,Anish Patel,The Frazer School 1,math,0,0,0
+499,Evan Liu,Lynbrook 1,math,1,0,4
+499,Evan Liu,Lynbrook 1,chemistry,2,0,8
+499,Michael Wei,The Frazer School 1,overall,3,1,8
+499,Michael Wei,The Frazer School 1,ess,0,1,-4
+499,Evan Liu,Lynbrook 1,ess,0,0,0
+499,Evan Liu,Lynbrook 1,physics,2,0,8
+499,Michael Wei,The Frazer School 1,math,2,0,8
+499,Michael Wei,The Frazer School 1,chemistry,1,0,4
+499,Michael Wei,The Frazer School 1,physics,0,0,0
+499,Jimmy Jiang,The Frazer School 1,overall,1,0,4
+499,Jimmy Jiang,The Frazer School 1,chemistry,1,0,4
+499,Anish Patel,The Frazer School 1,physics,2,0,8
+506,Santhosh Balaji Venkatesh Babu,Collierville 2,overall,2,0,8
+506,Santhosh Balaji Venkatesh Babu,Collierville 2,biology,2,0,8
+506,Ishan Anne,Collierville 2,overall,2,0,8
+506,Ishan Anne,Collierville 2,math,1,0,4
+506,Johnson Peng,Arcadia 2,overall,4,1,12
+506,Johnson Peng,Arcadia 2,math,0,0,0
+506,Pruthwiraj Vishwanatha,Arcadia 2,overall,5,0,20
+506,Pruthwiraj Vishwanatha,Arcadia 2,chemistry,2,0,8
+506,Pruthwiraj Vishwanatha,Arcadia 2,ess,2,0,8
+506,Johnson Peng,Arcadia 2,physics,2,1,4
+506,Johnson Peng,Arcadia 2,biology,1,0,4
+506,Santhosh Balaji Venkatesh Babu,Collierville 2,physics,0,0,0
+506,Pruthwiraj Vishwanatha,Arcadia 2,math,1,0,4
+506,Johnson Peng,Arcadia 2,chemistry,1,0,4
+506,Ishan Anne,Collierville 2,physics,1,0,4
+506,Angeline Chen,Collierville 2,overall,1,0,4
+506,Angeline Chen,Collierville 2,ess,1,0,4
+509,Luke Itomura,Punahou,overall,2,1,4
+509,Luke Itomura,Punahou,biology,2,1,4
+509,Bhaskar Moorthy,BRMHS 1,overall,3,0,12
+509,Bhaskar Moorthy,BRMHS 1,chemistry,2,0,8
+509,Travis Dumaran,Punahou,overall,6,0,24
+509,Travis Dumaran,Punahou,ess,4,0,16
+509,Kainoa Thorne,Punahou,overall,3,1,8
+509,Kainoa Thorne,Punahou,physics,3,0,12
+509,Dev Iyer,BRMHS 1,overall,0,1,-4
+509,Dev Iyer,BRMHS 1,biology,0,1,-4
+509,Travis Dumaran,Punahou,math,1,0,4
+509,Adhrit Maiti,BRMHS 1,overall,1,0,4
+509,Adhrit Maiti,BRMHS 1,math,0,0,0
+509,Adhrit Maiti,BRMHS 1,physics,1,0,4
+509,Bhaskar Moorthy,BRMHS 1,biology,1,0,4
+509,Travis Dumaran,Punahou,chemistry,1,0,4
+509,Kainoa Thorne,Punahou,chemistry,0,1,-4
+509,Mary Pham,BRMHS 1,overall,1,0,4
+509,Mary Pham,BRMHS 1,chemistry,1,0,4
+514,Larry Zhao,BISV 1,overall,2,1,4
+514,Larry Zhao,BISV 1,biology,2,1,4
+514,Eshaan Sombhatta,Thomas Jefferson 1,overall,0,0,0
+514,Eshaan Sombhatta,Thomas Jefferson 1,math,0,0,0
+514,Derrick Liu,BISV 1,overall,2,0,8
+514,Derrick Liu,BISV 1,math,0,0,0
+514,Derrick Liu,BISV 1,chemistry,1,0,4
+514,Lucas Quan,BISV 1,overall,5,0,20
+514,Lucas Quan,BISV 1,ess,1,0,4
+514,Sidhant Chaliha,BISV 1,overall,1,0,4
+514,Sidhant Chaliha,BISV 1,physics,1,0,4
+514,Eshaan Sombhatta,Thomas Jefferson 1,biology,0,0,0
+514,Lucas Quan,BISV 1,math,1,0,4
+514,Hari Rangarajan,Thomas Jefferson 1,overall,1,0,4
+514,Hari Rangarajan,Thomas Jefferson 1,chemistry,1,0,4
+514,Eric Xie,Thomas Jefferson 1,overall,2,0,8
+514,Eric Xie,Thomas Jefferson 1,ess,1,0,4
+514,Derrick Liu,BISV 1,ess,0,0,0
+514,Eric Xie,Thomas Jefferson 1,physics,1,0,4
+514,Derrick Liu,BISV 1,biology,1,0,4
+514,Hrishi Bhooma,Thomas Jefferson 1,overall,1,0,4
+514,Hrishi Bhooma,Thomas Jefferson 1,math,1,0,4
+514,Sidhant Chaliha,BISV 1,math,0,0,0
+514,Lucas Quan,BISV 1,chemistry,2,0,8
+514,Andrew Du,Thomas Jefferson 1,overall,2,0,8
+514,Andrew Du,Thomas Jefferson 1,ess,1,0,4
+514,Andrew Du,Thomas Jefferson 1,math,1,0,4
+514,Hari Rangarajan,Thomas Jefferson 1,ess,0,0,0
+514,Sidhant Chaliha,BISV 1,ess,0,0,0
+514,Lucas Quan,BISV 1,physics,1,0,4
+521,Fei Sean,Minnesota Institute of Timberwolves,overall,5,1,16
+521,Fei Sean,Minnesota Institute of Timberwolves,biology,4,0,16
+521,Edward Anthony,Minnesota Institute of Timberwolves,overall,10,1,36
+521,Edward Anthony,Minnesota Institute of Timberwolves,math,3,0,12
+521,Likhith Malipati,WWPS 2,overall,0,2,-8
+521,Likhith Malipati,WWPS 2,math,0,2,-8
+521,Edward Anthony,Minnesota Institute of Timberwolves,chemistry,4,0,16
+521,Jason Mak,WWPS 2,overall,3,0,12
+521,Jason Mak,WWPS 2,ess,2,0,8
+521,Edward Anthony,Minnesota Institute of Timberwolves,physics,3,1,8
+521,Dhairya Mathur,WWPS 2,overall,0,1,-4
+521,Dhairya Mathur,WWPS 2,biology,0,1,-4
+521,Fei Sean,Minnesota Institute of Timberwolves,ess,1,1,0
+521,Jason Mak,WWPS 2,physics,1,0,4
+524,Saketh Komaragiri,College Park,overall,1,0,4
+524,Saketh Komaragiri,College Park,biology,1,0,4
+524,Andrew Zhang,College Park,overall,0,1,-4
+524,Andrew Zhang,College Park,math,0,1,-4
+524,Albert Chen,ASFA 1,overall,2,0,8
+524,Albert Chen,ASFA 1,math,2,0,8
+524,Skyler Brown,ASFA 1,overall,4,0,16
+524,Skyler Brown,ASFA 1,chemistry,2,0,8
+524,Shubam Vennu,College Park,overall,3,1,8
+524,Shubam Vennu,College Park,ess,1,0,4
+524,Akhil Batchu,ASFA 1,overall,6,2,16
+524,Akhil Batchu,ASFA 1,ess,3,1,8
+524,Akhil Batchu,ASFA 1,physics,1,0,4
+524,Shubam Vennu,College Park,biology,2,0,8
+524,Akhil Batchu,ASFA 1,biology,0,1,-4
+524,Advik Sharma,ASFA 1,overall,2,0,8
+524,Advik Sharma,ASFA 1,math,1,0,4
+524,Shubam Vennu,College Park,chemistry,0,1,-4
+524,Akhil Batchu,ASFA 1,chemistry,2,0,8
+524,Shubam Vennu,College Park,physics,0,0,0
+524,Albert Chen,ASFA 1,physics,0,0,0
+524,Skyler Brown,ASFA 1,physics,2,0,8
+524,Advik Sharma,ASFA 1,biology,1,0,4
+529,Sola Murakami,Iolani School 1,overall,4,0,16
+529,Sola Murakami,Iolani School 1,biology,0,0,0
+529,Ben Dang,Bridgeland,overall,6,1,20
+529,Ben Dang,Bridgeland,biology,1,0,4
+529,Sola Murakami,Iolani School 1,math,2,0,8
+529,Ben Dang,Bridgeland,math,1,0,4
+529,Sola Murakami,Iolani School 1,chemistry,1,0,4
+529,Daniel york,Iolani School 1,overall,2,1,4
+529,Daniel york,Iolani School 1,ess,0,0,0
+529,Ben Dang,Bridgeland,ess,1,0,4
+529,Daniel york,Iolani School 1,physics,1,1,0
+529,Ben Dang,Bridgeland,physics,1,1,0
+529,Shreshta Pendurti,Bridgeland,overall,0,0,0
+529,Shreshta Pendurti,Bridgeland,biology,0,0,0
+529,Carson Postrigan,Bridgeland,overall,2,0,8
+529,Carson Postrigan,Bridgeland,math,1,0,4
+529,Ben Dang,Bridgeland,chemistry,2,0,8
+529,Sola Murakami,Iolani School 1,ess,1,0,4
+529,Sola Murakami,Iolani School 1,physics,0,0,0
+529,Carson Postrigan,Bridgeland,biology,1,0,4
+529,Daniel york,Iolani School 1,chemistry,1,0,4
+529,Advaith Bade,Bridgeland,overall,1,0,4
+529,Advaith Bade,Bridgeland,biology,1,0,4
+529,Keene Koide,Iolani School 1,overall,0,0,0
+529,Keene Koide,Iolani School 1,chemistry,0,0,0
+536,Elsa Cheng,Harvard Westlake 2,overall,1,0,4
+536,Elsa Cheng,Harvard Westlake 2,biology,1,0,4
+536,Alex Gavin,Harvard Westlake 2,overall,2,0,8
+536,Alex Gavin,Harvard Westlake 2,math,1,0,4
+536,Aneesh Sule,Academies of Loudoun,overall,1,0,4
+536,Aneesh Sule,Academies of Loudoun,math,0,0,0
+536,Hudson Barkman,Academies of Loudoun,overall,2,0,8
+536,Hudson Barkman,Academies of Loudoun,chemistry,1,0,4
+536,Aneesh Sule,Academies of Loudoun,ess,1,0,4
+536,Alex Gavin,Harvard Westlake 2,physics,1,0,4
+536,Aneesh Sule,Academies of Loudoun,physics,0,0,0
+536,Alex Gavin,Harvard Westlake 2,biology,0,0,0
+536,Aneesh Sule,Academies of Loudoun,biology,0,0,0
+536,Alex Gavin,Harvard Westlake 2,ess,0,0,0
+536,Hudson Barkman,Academies of Loudoun,ess,1,0,4
+536,Peter Gao,Harvard Westlake 2,overall,3,0,12
+536,Peter Gao,Harvard Westlake 2,physics,0,0,0
+536,Hudson Barkman,Academies of Loudoun,physics,0,0,0
+536,Peter Gao,Harvard Westlake 2,biology,2,0,8
+536,Jessie Cai,Harvard Westlake 2,overall,0,0,0
+536,Jessie Cai,Harvard Westlake 2,chemistry,0,0,0
+536,Priya Lloyd,Academies of Loudoun,overall,0,0,0
+536,Priya Lloyd,Academies of Loudoun,chemistry,0,0,0
+536,Peter Gao,Harvard Westlake 2,chemistry,1,0,4
+536,Peter Gao,Harvard Westlake 2,ess,0,0,0
+536,Jessie Cai,Harvard Westlake 2,physics,0,0,0
+539,Ryan Tae,Jericho 1,overall,3,0,12
+539,Ryan Tae,Jericho 1,biology,1,0,4
+539,Ashley Li,CCA 2,overall,2,0,8
+539,Ashley Li,CCA 2,chemistry,1,0,4
+539,Helen Wang,Jericho 1,overall,3,0,12
+539,Helen Wang,Jericho 1,ess,1,0,4
+539,Mahdi Khan,Jericho 1,overall,2,0,8
+539,Mahdi Khan,Jericho 1,physics,1,0,4
+539,Ashley Li,CCA 2,biology,1,0,4
+539,Ryan Tae,Jericho 1,math,0,0,0
+539,Rishi Kumar,CCA 2,overall,2,0,8
+539,Rishi Kumar,CCA 2,math,2,0,8
+539,Ryan Tae,Jericho 1,chemistry,2,0,8
+539,Mahdi Khan,Jericho 1,ess,0,0,0
+539,Aryan Deshmukh,CCA 2,overall,1,1,0
+539,Aryan Deshmukh,CCA 2,ess,0,0,0
+539,Helen Wang,Jericho 1,biology,2,0,8
+539,Aryan Deshmukh,CCA 2,chemistry,0,1,-4
+539,Ryan Tae,Jericho 1,ess,0,0,0
+539,Aryan Deshmukh,CCA 2,physics,1,0,4
+539,Helen Wang,Jericho 1,math,0,0,0
+539,Mahdi Khan,Jericho 1,chemistry,1,0,4
+539,Ryan Tae,Jericho 1,physics,0,0,0
+544,Theenash Sengupta,Mission San Jose 1,overall,5,1,16
+544,Theenash Sengupta,Mission San Jose 1,biology,2,1,4
+544,Miles Wallace,Whitney Young 2,overall,0,0,0
+544,Miles Wallace,Whitney Young 2,biology,0,0,0
+544,Roshan Annamalai,Mission San Jose 1,overall,4,0,16
+544,Roshan Annamalai,Mission San Jose 1,math,0,0,0
+544,Anish Agarwal,Mission San Jose 1,overall,1,1,0
+544,Anish Agarwal,Mission San Jose 1,chemistry,1,0,4
+544,Roshan Annamalai,Mission San Jose 1,ess,4,0,16
+544,Advaith Mopuri,Mission San Jose 1,overall,5,1,16
+544,Advaith Mopuri,Mission San Jose 1,physics,3,1,8
+544,Anish Agarwal,Mission San Jose 1,biology,0,1,-4
+544,Advaith Mopuri,Mission San Jose 1,math,2,0,8
+544,Theenash Sengupta,Mission San Jose 1,chemistry,3,0,12
+544,Rutvik Arora,Mission San Jose 1,overall,1,0,4
+544,Rutvik Arora,Mission San Jose 1,math,1,0,4
+544,Vladislav Bodnaruk,Whitney Young 2,overall,0,0,0
+544,Vladislav Bodnaruk,Whitney Young 2,physics,0,0,0
+551,Kian Dhawan,Blair 1,overall,3,1,8
+551,Kian Dhawan,Blair 1,biology,1,1,0
+551,Chris Wang,Blair 1,overall,1,0,4
+551,Chris Wang,Blair 1,math,0,0,0
+551,Sam Easaw,Blair 1,overall,0,2,-8
+551,Sam Easaw,Blair 1,chemistry,0,2,-8
+551,Liran Zhu,Throrthwood Tottenham,overall,4,0,16
+551,Liran Zhu,Throrthwood Tottenham,chemistry,2,0,8
+551,Chris Wang,Blair 1,ess,0,0,0
+551,Seojin Park,Throrthwood Tottenham,overall,3,0,12
+551,Seojin Park,Throrthwood Tottenham,ess,2,0,8
+551,Chris Wang,Blair 1,physics,1,0,4
+551,Ferris Li,Throrthwood Tottenham,overall,1,0,4
+551,Ferris Li,Throrthwood Tottenham,biology,1,0,4
+551,Evan Zhang,Blair 1,overall,4,1,12
+551,Evan Zhang,Blair 1,math,2,0,8
+551,Liran Zhu,Throrthwood Tottenham,ess,1,0,4
+551,Evan Zhang,Blair 1,physics,1,0,4
+551,Seojin Park,Throrthwood Tottenham,biology,1,0,4
+551,Kian Dhawan,Blair 1,chemistry,1,0,4
+551,Evan Zhang,Blair 1,ess,1,1,0
+551,Kian Dhawan,Blair 1,physics,0,0,0
+551,Liran Zhu,Throrthwood Tottenham,physics,1,0,4
+551,Kian Dhawan,Blair 1,math,1,0,4
+554,Simon Zhang,Lexington,overall,4,0,16
+554,Simon Zhang,Lexington,biology,1,0,4
+554,Aarin Mugundu,Lexington,overall,1,0,4
+554,Aarin Mugundu,Lexington,chemistry,1,0,4
+554,Ashray Malhotra,Lexington,overall,2,0,8
+554,Ashray Malhotra,Lexington,ess,0,0,0
+554,Ashray Malhotra,Lexington,physics,2,0,8
+554,Akshay Rao,Lexington,overall,1,0,4
+554,Akshay Rao,Lexington,math,0,0,0
+554,Akshay Rao,Lexington,biology,1,0,4
+554,Simon Zhang,Lexington,chemistry,2,0,8
+554,Akshay Rao,Lexington,ess,0,0,0
+554,Simon Zhang,Lexington,physics,1,0,4
+559,Kristin Peng,BUMSJK,overall,3,0,12
+559,Kristin Peng,BUMSJK,chemistry,2,0,8
+559,Jolie Neal,BUMSJK,overall,1,0,4
+559,Jolie Neal,BUMSJK,ess,1,0,4
+559,John Fenic,BUMSJK,overall,1,1,0
+559,John Fenic,BUMSJK,physics,0,1,-4
+559,Aarnav Jain,IMSA 2,overall,3,1,8
+559,Aarnav Jain,IMSA 2,physics,1,1,0
+559,Colton Bing,IMSA 2,overall,2,1,4
+559,Colton Bing,IMSA 2,biology,1,1,0
+559,Aarnav Jain,IMSA 2,biology,1,0,4
+559,John Fenic,BUMSJK,math,1,0,4
+559,Colton Bing,IMSA 2,chemistry,1,0,4
+559,Aarnav Jain,IMSA 2,ess,1,0,4
+559,Kristin Peng,BUMSJK,physics,1,0,4
+387,Sharath Sanjay,West Windsor-Plainsboro North,overall,2,0,8
+387,Sharath Sanjay,West Windsor-Plainsboro North,biology,2,0,8
+387,Aldric Benalan,West Windsor-Plainsboro North,overall,9,1,32
+387,Aldric Benalan,West Windsor-Plainsboro North,math,1,1,0
+387,Aldric Benalan,West Windsor-Plainsboro North,chemistry,3,0,12
+387,Aldric Benalan,West Windsor-Plainsboro North,ess,3,0,12
+387,Gunes Sunar,Ward Melville 2,overall,1,0,4
+387,Gunes Sunar,Ward Melville 2,physics,0,0,0
+387,Aldric Benalan,West Windsor-Plainsboro North,physics,2,0,8
+387,Alan Mao,Ward Melville 2,overall,1,1,0
+387,Alan Mao,Ward Melville 2,chemistry,0,1,-4
+387,Gunes Sunar,Ward Melville 2,ess,0,0,0
+387,Kiaan Biswas,Ward Melville 2,overall,0,1,-4
+387,Kiaan Biswas,Ward Melville 2,biology,0,1,-4
+387,Ishaan Arya,West Windsor-Plainsboro North,overall,0,1,-4
+387,Ishaan Arya,West Windsor-Plainsboro North,biology,0,1,-4
+387,Gunes Sunar,Ward Melville 2,math,1,0,4
+387,Will Squire,Ward Melville 2,overall,1,0,4
+387,Will Squire,Ward Melville 2,physics,1,0,4
+387,Will Squire,Ward Melville 2,biology,0,0,0
+387,Alan Mao,Ward Melville 2,math,1,0,4
+390,Judy Tan,Temple City,overall,2,0,8
+390,Judy Tan,Temple City,biology,2,0,8
+390,Iurii Kirpichev,Cupertino 1,overall,0,0,0
+390,Iurii Kirpichev,Cupertino 1,math,0,0,0
+390,Jason Liu,Temple City,overall,3,0,12
+390,Jason Liu,Temple City,math,1,0,4
+390,Jason Liu,Temple City,chemistry,1,0,4
+390,Bryce Thach,Temple City,overall,6,0,24
+390,Bryce Thach,Temple City,ess,3,0,12
+390,Bryce Thach,Temple City,physics,1,0,4
+390,Pranav Burra,Cupertino 1,overall,2,1,4
+390,Pranav Burra,Cupertino 1,math,1,0,4
+390,Bryce Thach,Temple City,math,1,0,4
+390,Pranav Burra,Cupertino 1,chemistry,0,1,-4
+390,Ethan Deng,Temple City,overall,2,0,8
+390,Ethan Deng,Temple City,chemistry,0,0,0
+390,Jason Liu,Temple City,physics,1,0,4
+390,Namita Gaidhani,Cupertino 1,overall,1,0,4
+390,Namita Gaidhani,Cupertino 1,biology,1,0,4
+390,Bryce Thach,Temple City,biology,0,0,0
+390,Bryce Thach,Temple City,chemistry,1,0,4
+390,Ethan Deng,Temple City,ess,1,0,4
+390,Ethan Deng,Temple City,physics,1,0,4
+390,Jason Liu,Temple City,biology,0,0,0
+390,Brandon Seo,Cupertino 1,overall,1,0,4
+390,Brandon Seo,Cupertino 1,chemistry,1,0,4
+390,Namita Gaidhani,Cupertino 1,ess,0,0,0
+390,Pranav Burra,Cupertino 1,physics,1,0,4
+392,Yajur Chandar,Davidson Academy,overall,3,0,12
+392,Yajur Chandar,Davidson Academy,biology,1,0,4
+392,Ethan Chan,Davidson Academy,overall,1,0,4
+392,Ethan Chan,Davidson Academy,math,1,0,4
+392,Owen Mao,CCA 1,overall,0,0,0
+392,Owen Mao,CCA 1,math,0,0,0
+392,Yajur Chandar,Davidson Academy,chemistry,2,0,8
+392,Lucas Wu,Davidson Academy,overall,7,2,20
+392,Lucas Wu,Davidson Academy,ess,1,0,4
+392,Alexander Destefano,CCA 1,overall,2,1,4
+392,Alexander Destefano,CCA 1,ess,1,1,0
+392,Lucas Wu,Davidson Academy,physics,3,1,8
+392,Alexander Destefano,CCA 1,biology,1,0,4
+392,Lucas Wu,Davidson Academy,math,2,1,4
+392,Lucas Wu,Davidson Academy,chemistry,1,0,4
+392,Shayan Sattarvand,Davidson Academy,overall,1,1,0
+392,Shayan Sattarvand,Davidson Academy,ess,0,1,-4
+392,Dennis Stens,CCA 1,overall,1,0,4
+392,Dennis Stens,CCA 1,biology,1,0,4
+392,Shayan Sattarvand,Davidson Academy,chemistry,1,0,4
+392,Owen Mao,CCA 1,physics,0,0,0
+402,Meghna Singh,Blair 2,overall,3,0,12
+402,Meghna Singh,Blair 2,biology,1,0,4
+402,Varun Gadi,VMATHs,overall,4,0,16
+402,Varun Gadi,VMATHs,math,4,0,16
+402,Bill Qian,Blair 2,overall,0,2,-8
+402,Bill Qian,Blair 2,math,0,2,-8
+402,S I,VMATHs,overall,3,0,12
+402,S I,VMATHs,chemistry,2,0,8
+402,Samuel Wang,Blair 2,overall,3,1,8
+402,Samuel Wang,Blair 2,chemistry,0,0,0
+402,Samuel Wang,Blair 2,ess,1,1,0
+402,Eric Xie,Blair 2,overall,4,0,16
+402,Eric Xie,Blair 2,physics,3,0,12
+402,Uddip Kashyap,VMATHs,overall,1,0,4
+402,Uddip Kashyap,VMATHs,biology,1,0,4
+402,Meghna Singh,Blair 2,chemistry,1,0,4
+402,S I,VMATHs,ess,1,0,4
+402,Samuel Wang,Blair 2,physics,1,0,4
+402,Samuel Wang,Blair 2,biology,1,0,4
+402,Meghna Singh,Blair 2,ess,1,0,4
+402,S I,VMATHs,biology,0,0,0
+402,Eric Xie,Blair 2,chemistry,1,0,4
+402,Uddip Kashyap,VMATHs,ess,0,0,0
+405,Achuth Vinay,Clovis North High,overall,3,0,12
+405,Achuth Vinay,Clovis North High,biology,1,0,4
+405,Achuth Vinay,Clovis North High,math,1,0,4
+405,Aarav Doshi,Troy 1,overall,0,0,0
+405,Aarav Doshi,Troy 1,math,0,0,0
+405,Abhinav Jain,Troy 1,overall,1,1,0
+405,Abhinav Jain,Troy 1,chemistry,1,1,0
+405,Majed Almasri,Clovis North High,overall,4,0,16
+405,Majed Almasri,Clovis North High,ess,2,0,8
+405,Majed Almasri,Clovis North High,physics,2,0,8
+405,Ethan Wang,Troy 1,overall,6,2,16
+405,Ethan Wang,Troy 1,biology,2,0,8
+405,Majed Almasri,Clovis North High,math,0,0,0
+405,Ethan Wang,Troy 1,math,1,1,0
+405,Renard Wu,Clovis North High,overall,0,0,0
+405,Renard Wu,Clovis North High,chemistry,0,0,0
+405,Ethan Wang,Troy 1,chemistry,0,0,0
+405,Achuth Vinay,Clovis North High,physics,1,0,4
+405,Ethan Wang,Troy 1,physics,1,1,0
+405,Justin Do,Clovis North High,overall,3,0,12
+405,Justin Do,Clovis North High,math,1,0,4
+405,Justin Do,Clovis North High,chemistry,2,0,8
+405,Ethan Wang,Troy 1,ess,2,0,8
+407,Vishnu Mangipudi,Lakeside 1,overall,9,0,36
+407,Vishnu Mangipudi,Lakeside 1,biology,1,0,4
+407,Adhav Kumar,Research Triangle,overall,7,1,24
+407,Adhav Kumar,Research Triangle,biology,2,1,4
+407,James Yang,Lakeside 1,overall,0,1,-4
+407,James Yang,Lakeside 1,math,0,1,-4
+407,Adhav Kumar,Research Triangle,math,2,0,8
+407,William Wang,Lakeside 1,overall,1,0,4
+407,William Wang,Lakeside 1,chemistry,1,0,4
+407,Vishnu Mangipudi,Lakeside 1,ess,3,0,12
+407,Vishnu Mangipudi,Lakeside 1,physics,3,0,12
+407,Vishnu Mangipudi,Lakeside 1,math,1,0,4
+407,Adhav Kumar,Research Triangle,chemistry,2,0,8
+407,Adhav Kumar,Research Triangle,ess,1,0,4
+407,Adhav Kumar,Research Triangle,physics,0,0,0
+407,Vishnu Mangipudi,Lakeside 1,chemistry,1,0,4
+417,Aravind Muralidharan,Mission San Jose 2,overall,3,0,12
+417,Aravind Muralidharan,Mission San Jose 2,biology,3,0,12
+417,Narayan Chutkay,Camas,overall,1,2,-4
+417,Narayan Chutkay,Camas,biology,0,1,-4
+417,Ishaan Kabra,Mission San Jose 2,overall,4,2,8
+417,Ishaan Kabra,Mission San Jose 2,math,1,1,0
+417,Narayan Chutkay,Camas,chemistry,0,1,-4
+417,Narayan Chutkay,Camas,ess,1,0,4
+417,Narayan Chutkay,Camas,physics,0,0,0
+417,Alexander Yu,Camas,overall,4,0,16
+417,Alexander Yu,Camas,physics,2,0,8
+417,Alexander Yu,Camas,biology,0,0,0
+417,Ishaan Kabra,Mission San Jose 2,ess,1,1,0
+417,Alexander Yu,Camas,ess,1,0,4
+417,Ishaan Kabra,Mission San Jose 2,physics,1,0,4
+417,Alexander Yu,Camas,math,1,0,4
+417,Ishaan Kabra,Mission San Jose 2,chemistry,1,0,4
+417,Lucas Jiang,Mission San Jose 2,overall,1,0,4
+417,Lucas Jiang,Mission San Jose 2,chemistry,1,0,4
+417,Winston Zhang,Camas,overall,1,0,4
+417,Winston Zhang,Camas,physics,1,0,4
+420,Sophie Cui,Wayzata,overall,2,0,8
+420,Sophie Cui,Wayzata,biology,1,0,4
+420,Tyler He,IMSA 1,overall,1,0,4
+420,Tyler He,IMSA 1,chemistry,1,0,4
+420,Kevin Qiu,Wayzata,overall,8,2,24
+420,Kevin Qiu,Wayzata,physics,3,0,12
+420,Kevin Qiu,Wayzata,biology,1,1,0
+420,Kevin Qiu,Wayzata,math,1,0,4
+420,Kevin Qiu,Wayzata,chemistry,2,0,8
+420,Kevin Qiu,Wayzata,ess,1,1,0
+420,Tony Han,IMSA 1,overall,1,0,4
+420,Tony Han,IMSA 1,math,1,0,4
+420,Jeff Zhou,Wayzata,overall,0,1,-4
+420,Jeff Zhou,Wayzata,math,0,1,-4
+420,Sophie Cui,Wayzata,chemistry,1,0,4
+420,Luyao Yang,Wayzata,overall,1,0,4
+420,Luyao Yang,Wayzata,ess,1,0,4
+422,Camille Pimentel,Hunter College 1,overall,3,0,12
+422,Camille Pimentel,Hunter College 1,biology,0,0,0
+422,Rehan Krishnan,Collierville 1,overall,4,0,16
+422,Rehan Krishnan,Collierville 1,biology,3,0,12
+422,Gabe Levin,Hunter College 1,overall,8,4,16
+422,Gabe Levin,Hunter College 1,math,2,2,0
+422,Shreyansh Alluri,Collierville 1,overall,1,0,4
+422,Shreyansh Alluri,Collierville 1,math,0,0,0
+422,Gabe Levin,Hunter College 1,chemistry,3,1,8
+422,Camille Pimentel,Hunter College 1,ess,3,0,12
+422,Sumin Yoon,Collierville 1,overall,1,1,0
+422,Sumin Yoon,Collierville 1,ess,1,1,0
+422,Gabe Levin,Hunter College 1,physics,3,1,8
+422,Shreyansh Alluri,Collierville 1,physics,1,0,4
+422,Simone Maimon,Hunter College 1,overall,0,0,0
+422,Simone Maimon,Hunter College 1,biology,0,0,0
+422,Rehan Krishnan,Collierville 1,chemistry,1,0,4
+432,Arman A,Ladue,overall,3,0,12
+432,Arman A,Ladue,biology,3,0,12
+432,Paxton Lin,Arcadia 1,overall,1,0,4
+432,Paxton Lin,Arcadia 1,math,0,0,0
+432,Aaron Lin,Ladue,overall,6,0,24
+432,Aaron Lin,Ladue,math,1,0,4
+432,Paxton Lin,Arcadia 1,chemistry,0,0,0
+432,Alex Wang,Ladue,overall,2,1,4
+432,Alex Wang,Ladue,chemistry,1,0,4
+432,Paxton Lin,Arcadia 1,ess,1,0,4
+432,Alex Wang,Ladue,ess,1,1,0
+432,Aaron Lin,Ladue,physics,4,0,16
+432,Austin Zhang,Arcadia 1,overall,1,0,4
+432,Austin Zhang,Arcadia 1,ess,1,0,4
+432,Ayden Huang,Ladue,overall,0,1,-4
+432,Ayden Huang,Ladue,ess,0,1,-4
+432,Ethan Wang,Arcadia 1,overall,2,1,4
+432,Ethan Wang,Arcadia 1,biology,0,1,-4
+432,Ethan Wang,Arcadia 1,math,1,0,4
+432,Aaron Lin,Ladue,chemistry,1,0,4
+432,Aaron Lin,Ladue,ess,0,0,0
+432,Ethan Wang,Arcadia 1,chemistry,1,0,4
+435,Hank Sun,MSJ 3,overall,0,0,0
+435,Hank Sun,MSJ 3,math,0,0,0
+435,Rishabh Girish,John P. Stevens,overall,0,0,0
+435,Rishabh Girish,John P. Stevens,math,0,0,0
+435,Aarush Iyer,MSJ 3,overall,3,1,8
+435,Aarush Iyer,MSJ 3,chemistry,1,0,4
+435,Saish Koul,John P. Stevens,overall,1,1,0
+435,Saish Koul,John P. Stevens,chemistry,1,0,4
+435,Abhiraam Girish,MSJ 3,overall,2,1,4
+435,Abhiraam Girish,MSJ 3,ess,2,1,4
+435,Hank Sun,MSJ 3,physics,0,0,0
+435,Aryan Ahire,John P. Stevens,overall,2,2,0
+435,Aryan Ahire,John P. Stevens,physics,1,1,0
+435,Aarush Iyer,MSJ 3,biology,1,0,4
+435,Rishabh Girish,John P. Stevens,ess,0,0,0
+435,Aarush Iyer,MSJ 3,physics,1,0,4
+435,Maxwell Zhang,MSJ 3,overall,0,1,-4
+435,Maxwell Zhang,MSJ 3,biology,0,1,-4
+435,Saish Koul,John P. Stevens,biology,0,1,-4
+435,Aryan Ahire,John P. Stevens,math,1,1,0
+435,Aryan Ahire,John P. Stevens,ess,0,0,0
+435,Aarush Iyer,MSJ 3,math,0,1,-4
+435,Saish Koul,John P. Stevens,ess,0,0,0
+435,Saish Koul,John P. Stevens,physics,0,0,0
+437,Heidi Leonard,James Clemens,overall,1,1,0
+437,Heidi Leonard,James Clemens,biology,1,0,4
+437,Saqib Baig,James Clemens,overall,2,0,8
+437,Saqib Baig,James Clemens,chemistry,1,0,4
+437,Zoey Tang,Westview 1,overall,3,0,12
+437,Zoey Tang,Westview 1,chemistry,0,0,0
+437,Joel Yang,James Clemens,overall,2,0,8
+437,Joel Yang,James Clemens,ess,2,0,8
+437,Zoey Tang,Westview 1,physics,2,0,8
+437,Saqib Baig,James Clemens,biology,1,0,4
+437,Praneel Avula,James Clemens,overall,7,2,20
+437,Praneel Avula,James Clemens,math,1,0,4
+437,Praneel Avula,James Clemens,chemistry,3,0,12
+437,Praneel Avula,James Clemens,ess,1,1,0
+437,Praneel Avula,James Clemens,physics,2,1,4
+437,Zoey Tang,Westview 1,biology,0,0,0
+437,Zoey Tang,Westview 1,math,1,0,4
+437,Tashvi Khare,Westview 1,overall,0,1,-4
+437,Tashvi Khare,Westview 1,biology,0,1,-4
+437,Heidi Leonard,James Clemens,math,0,1,-4
+437,Jiahe Zhao,Westview 1,overall,1,0,4
+437,Jiahe Zhao,Westview 1,math,1,0,4
+447,Angelina Yan,North Hollywood 1,overall,2,1,4
+447,Angelina Yan,North Hollywood 1,biology,1,0,4
+447,Charles Huang,North Hollywood 1,overall,5,2,12
+447,Charles Huang,North Hollywood 1,math,1,1,0
+447,suzuko ohshima,North Hollywood 1,overall,8,0,32
+447,suzuko ohshima,North Hollywood 1,chemistry,2,0,8
+447,Angelina Yan,North Hollywood 1,ess,1,1,0
+447,suzuko ohshima,North Hollywood 1,physics,1,0,4
+447,suzuko ohshima,North Hollywood 1,biology,3,0,12
+447,Minghao Guo,North Hollywood 1,overall,2,0,8
+447,Minghao Guo,North Hollywood 1,math,2,0,8
+447,Charles Huang,North Hollywood 1,chemistry,2,0,8
+447,Charles Huang,North Hollywood 1,physics,2,1,4
+447,suzuko ohshima,North Hollywood 1,ess,2,0,8
+447,Anya S,Cupertino 2,overall,1,0,4
+447,Anya S,Cupertino 2,physics,1,0,4
+450,Rasia Yu,Palo Alto 1,overall,1,0,4
+450,Rasia Yu,Palo Alto 1,biology,1,0,4
+450,Andrew Wen,Palo Alto 1,overall,6,1,20
+450,Andrew Wen,Palo Alto 1,math,2,1,4
+450,Kevin Pei,Palo Alto 1,overall,3,0,12
+450,Kevin Pei,Palo Alto 1,chemistry,2,0,8
+450,Christopher Khoa Nguyen,BRMHS 2,overall,0,0,0
+450,Christopher Khoa Nguyen,BRMHS 2,chemistry,0,0,0
+450,Kevin Pei,Palo Alto 1,ess,1,0,4
+450,Andrew Wen,Palo Alto 1,physics,4,0,16
+450,Alexander Yang,BRMHS 2,overall,2,0,8
+450,Alexander Yang,BRMHS 2,biology,1,0,4
+450,Alexander Yang,BRMHS 2,ess,0,0,0
+450,Christopher Khoa Nguyen,BRMHS 2,biology,0,0,0
+450,Alexander Yang,BRMHS 2,math,1,0,4
+450,Kenneth Michel,BRMHS 2,overall,0,0,0
+450,Kenneth Michel,BRMHS 2,chemistry,0,0,0
+452,Alex Sheng,Princeton,overall,0,0,0
+452,Alex Sheng,Princeton,math,0,0,0
+452,Gavin Macatangay,Princeton,overall,2,0,8
+452,Gavin Macatangay,Princeton,chemistry,2,0,8
+452,Angela Cao,BASIS Independent Fremont,overall,1,1,0
+452,Angela Cao,BASIS Independent Fremont,chemistry,0,1,-4
+452,Joey Chang,Princeton,overall,2,0,8
+452,Joey Chang,Princeton,ess,1,0,4
+452,Nikolai Morozov,Princeton,overall,2,0,8
+452,Nikolai Morozov,Princeton,physics,2,0,8
+452,Ryan Yan,BASIS Independent Fremont,overall,0,1,-4
+452,Ryan Yan,BASIS Independent Fremont,physics,0,1,-4
+452,Gavin Macatangay,Princeton,biology,0,0,0
+452,Angela Cao,BASIS Independent Fremont,biology,1,0,4
+452,Gavin Macatangay,Princeton,math,0,0,0
+452,Alex Sheng,Princeton,ess,0,0,0
+452,Kevin Chen,BASIS Independent Fremont,overall,1,1,0
+452,Kevin Chen,BASIS Independent Fremont,ess,0,0,0
+452,Kevin Chen,BASIS Independent Fremont,biology,1,0,4
+452,Kevin Chen,BASIS Independent Fremont,math,0,1,-4
+452,Nikolai Morozov,Princeton,ess,0,0,0
+452,Alex Sheng,Princeton,physics,0,0,0
+452,Anthony Hu,BASIS Independent Fremont,overall,0,0,0
+452,Anthony Hu,BASIS Independent Fremont,physics,0,0,0
+452,Ryan Yan,BASIS Independent Fremont,math,0,0,0
+452,Joey Chang,Princeton,chemistry,1,0,4
+465,Bhavana Thirunavukkarasan,University 1,overall,2,0,8
+465,Bhavana Thirunavukkarasan,University 1,biology,2,0,8
+465,Abhinav Anand,WWPS 1,overall,1,0,4
+465,Abhinav Anand,WWPS 1,biology,0,0,0
+465,Timothy Chen,University 1,overall,6,2,16
+465,Timothy Chen,University 1,math,1,2,-4
+465,Monish Saravana Kumar,WWPS 1,overall,3,1,8
+465,Monish Saravana Kumar,WWPS 1,math,2,1,4
+465,Carl Liu,University 1,overall,2,0,8
+465,Carl Liu,University 1,chemistry,2,0,8
+465,Sanjay Oruganti,WWPS 1,overall,2,4,-8
+465,Sanjay Oruganti,WWPS 1,chemistry,2,2,0
+465,Abhinav Anand,WWPS 1,ess,1,0,4
+465,Timothy Chen,University 1,physics,3,0,12
+465,Timothy Chen,University 1,ess,2,0,8
+465,Sanjay Oruganti,WWPS 1,ess,0,1,-4
+465,Timothy Chen,University 1,biology,0,0,0
+465,Sanjay Oruganti,WWPS 1,biology,0,1,-4
+465,Monish Saravana Kumar,WWPS 1,physics,1,0,4
+467,Jessica Ferrie,Harvard Westlake 1,overall,1,1,0
+467,Jessica Ferrie,Harvard Westlake 1,biology,0,1,-4
+467,Jake Rosenblum,North Hollywood 2,overall,5,0,20
+467,Jake Rosenblum,North Hollywood 2,biology,3,0,12
+467,Mikenever Dai,Harvard Westlake 1,overall,0,0,0
+467,Mikenever Dai,Harvard Westlake 1,math,0,0,0
+467,Patrick Liang,North Hollywood 2,overall,0,1,-4
+467,Patrick Liang,North Hollywood 2,math,0,1,-4
+467,Jessica Ferrie,Harvard Westlake 1,chemistry,1,0,4
+467,Kensuke Ohshima,North Hollywood 2,overall,6,0,24
+467,Kensuke Ohshima,North Hollywood 2,ess,2,0,8
+467,Mikenever Dai,Harvard Westlake 1,physics,0,0,0
+467,Jake Rosenblum,North Hollywood 2,physics,1,0,4
+467,Kensuke Ohshima,North Hollywood 2,math,1,0,4
+467,Lisa Cheng,Harvard Westlake 1,overall,0,1,-4
+467,Lisa Cheng,Harvard Westlake 1,chemistry,0,0,0
+467,Kensuke Ohshima,North Hollywood 2,chemistry,1,0,4
+467,Troy Goodgame,Harvard Westlake 1,overall,3,1,8
+467,Troy Goodgame,Harvard Westlake 1,ess,1,1,0
+467,Troy Goodgame,Harvard Westlake 1,physics,1,0,4
+467,Lisa Cheng,Harvard Westlake 1,biology,0,1,-4
+467,Jake Rosenblum,North Hollywood 2,math,1,0,4
+467,Kensuke Ohshima,North Hollywood 2,physics,2,0,8
+467,Troy Goodgame,Harvard Westlake 1,chemistry,1,0,4
+477,Eric Liu,Ward Melville 1,overall,4,2,8
+477,Eric Liu,Ward Melville 1,biology,1,2,-4
+477,Liam Tran,BISV 2,overall,2,0,8
+477,Liam Tran,BISV 2,biology,0,0,0
+477,Harry Gao,Ward Melville 1,overall,8,2,24
+477,Harry Gao,Ward Melville 1,math,2,1,4
+477,Eric Liu,Ward Melville 1,chemistry,3,0,12
+477,Harry Gao,Ward Melville 1,ess,3,0,12
+477,Jason Z,BISV 2,overall,0,0,0
+477,Jason Z,BISV 2,ess,0,0,0
+477,Harry Gao,Ward Melville 1,physics,2,1,4
+477,Timo Ye,BISV 2,overall,0,1,-4
+477,Timo Ye,BISV 2,biology,0,1,-4
+477,Harry Gao,Ward Melville 1,chemistry,1,0,4
+477,Liam Tran,BISV 2,physics,1,0,4
+477,Jason Z,BISV 2,biology,0,0,0
+477,Liam Tran,BISV 2,math,1,0,4
+477,Eric Guo,BISV 2,overall,0,1,-4
+477,Eric Guo,BISV 2,math,0,1,-4
+480,Henry Kim,OCSA,overall,1,0,4
+480,Henry Kim,OCSA,biology,1,0,4
+480,Aryan Sharma,OCSA,overall,2,0,8
+480,Aryan Sharma,OCSA,math,2,0,8
+480,Brennan Tsai,Whitney Young 1,overall,0,0,0
+480,Brennan Tsai,Whitney Young 1,math,0,0,0
+480,Shannon Imaoka,OCSA,overall,3,0,12
+480,Shannon Imaoka,OCSA,chemistry,1,0,4
+480,Chaniel Kpekpe,Whitney Young 1,overall,0,0,0
+480,Chaniel Kpekpe,Whitney Young 1,chemistry,0,0,0
+480,Andrew Kozintsev,Whitney Young 1,overall,6,2,16
+480,Andrew Kozintsev,Whitney Young 1,ess,1,1,0
+480,Andrew Kozintsev,Whitney Young 1,physics,3,0,12
+480,Chaniel Kpekpe,Whitney Young 1,biology,0,0,0
+480,Andrew Kozintsev,Whitney Young 1,chemistry,2,0,8
+480,Shannon Imaoka,OCSA,ess,2,0,8
+480,Andrew Kozintsev,Whitney Young 1,math,0,1,-4
+480,Armaan Diwan,OCSA,overall,1,0,4
+480,Armaan Diwan,OCSA,ess,1,0,4
+480,Aryan Sharma,OCSA,physics,0,0,0
+482,Jason Tang,AHB 1,overall,2,1,4
+482,Jason Tang,AHB 1,biology,1,1,0
+482,Edison Gao,Blair 3,overall,0,1,-4
+482,Edison Gao,Blair 3,math,0,1,-4
+482,Arnav Bhatia,AHB 1,overall,2,0,8
+482,Arnav Bhatia,AHB 1,math,1,0,4
+482,Ariv Barua,AHB 1,overall,2,0,8
+482,Ariv Barua,AHB 1,chemistry,1,0,4
+482,Henry Lu,Blair 3,overall,0,0,0
+482,Henry Lu,Blair 3,ess,0,0,0
+482,Ariv Barua,AHB 1,ess,0,0,0
+482,Daniel Cai,AHB 1,overall,2,1,4
+482,Daniel Cai,AHB 1,physics,2,1,4
+482,Ariv Barua,AHB 1,biology,1,0,4
+482,Arnav Bhatia,AHB 1,chemistry,1,0,4
+482,Henry Lu,Blair 3,biology,0,0,0
+482,Ruixi Zhang,Blair 3,overall,2,0,8
+482,Ruixi Zhang,Blair 3,math,2,0,8
+482,Ariv Barua,AHB 1,math,0,0,0
+482,Arnav Bhatia,AHB 1,ess,0,0,0
+482,Ruixi Zhang,Blair 3,biology,0,0,0
+482,Jason Tang,AHB 1,chemistry,1,0,4
+482,Jason Tang,AHB 1,ess,0,0,0
+482,Edison Gao,Blair 3,physics,0,0,0
+492,Sophia Liu,University 2,overall,1,0,4
+492,Sophia Liu,University 2,biology,1,0,4
+492,Brandon Chiu,University 2,overall,2,0,8
+492,Brandon Chiu,University 2,math,1,0,4
+492,Evan Liu,Lynbrook 1,overall,3,1,8
+492,Evan Liu,Lynbrook 1,math,0,0,0
+492,Evan Liu,Lynbrook 1,chemistry,2,1,4
+492,Philip Kohr,Lynbrook 1,overall,2,0,8
+492,Philip Kohr,Lynbrook 1,ess,2,0,8
+492,Evan Liu,Lynbrook 1,physics,1,0,4
+492,Evan Liu,Lynbrook 1,biology,0,0,0
+492,Birdie Liu,University 2,overall,2,0,8
+492,Birdie Liu,University 2,math,1,0,4
+492,Brandon Chiu,University 2,physics,1,0,4
+492,Philip Kohr,Lynbrook 1,biology,0,0,0
+492,Birdie Liu,University 2,ess,0,0,0
+492,Toby Wei,University 2,overall,0,0,0
+492,Toby Wei,University 2,physics,0,0,0
+492,Birdie Liu,University 2,chemistry,1,0,4
+495,Ryan Karim,School of Astronomy,overall,1,2,-4
+495,Ryan Karim,School of Astronomy,biology,1,1,0
+495,Ryan Karim,School of Astronomy,math,0,0,0
+495,William Liu,State College Area 1,overall,1,2,-4
+495,William Liu,State College Area 1,math,0,1,-4
+495,Abhinav Senthil,School of Astronomy,overall,3,0,12
+495,Abhinav Senthil,School of Astronomy,chemistry,2,0,8
+495,Abhinav Senthil,School of Astronomy,ess,1,0,4
+495,Riyan Nayak,School of Astronomy,overall,0,0,0
+495,Riyan Nayak,School of Astronomy,physics,0,0,0
+495,William Liu,State College Area 1,physics,1,1,0
+495,William Liu,State College Area 1,biology,0,0,0
+495,William Liu,State College Area 1,chemistry,0,0,0
+495,Ryan Karim,School of Astronomy,ess,0,1,-4
+495,William Liu,State College Area 1,ess,0,0,0
+495,Aaron Le,State College Area 1,overall,3,0,12
+495,Aaron Le,State College Area 1,biology,0,0,0
+495,Sudeep Suresh,School of Astronomy,overall,1,0,4
+495,Sudeep Suresh,School of Astronomy,math,1,0,4
+495,Aaron Le,State College Area 1,physics,1,0,4
+495,Abhinav Senthil,School of Astronomy,biology,0,0,0
+495,Aaron Le,State College Area 1,math,1,0,4
+495,Aaron Le,State College Area 1,chemistry,1,0,4
+495,Dasha Nekrutenko,State College Area 1,overall,0,0,0
+495,Dasha Nekrutenko,State College Area 1,ess,0,0,0
+495,Sudeep Suresh,School of Astronomy,physics,0,0,0
+497,Ajay Sawant,The Frazer School 1,overall,5,0,20
+497,Ajay Sawant,The Frazer School 1,biology,4,0,16
+497,Saahil Dugar,Eastlake,overall,0,1,-4
+497,Saahil Dugar,Eastlake,biology,0,1,-4
+497,Michael Wei,The Frazer School 1,overall,7,0,28
+497,Michael Wei,The Frazer School 1,math,3,0,12
+497,Saamik Agrawal,Eastlake,overall,1,1,0
+497,Saamik Agrawal,Eastlake,math,0,1,-4
+497,Ajay Sawant,The Frazer School 1,chemistry,1,0,4
+497,Michael Wei,The Frazer School 1,ess,3,0,12
+497,Yash N,Eastlake,overall,0,2,-8
+497,Yash N,Eastlake,ess,0,2,-8
+497,Jimmy Jiang,The Frazer School 1,overall,2,0,8
+497,Jimmy Jiang,The Frazer School 1,physics,1,0,4
+497,Anish Patel,The Frazer School 1,overall,2,0,8
+497,Anish Patel,The Frazer School 1,chemistry,1,0,4
+497,Anish Patel,The Frazer School 1,physics,1,0,4
+497,Neal Kedia,Eastlake,overall,0,1,-4
+497,Neal Kedia,Eastlake,biology,0,1,-4
+497,Jimmy Jiang,The Frazer School 1,chemistry,1,0,4
+497,Michael Wei,The Frazer School 1,physics,1,0,4
+497,Shivam Chowdhary,Eastlake,overall,2,0,8
+497,Shivam Chowdhary,Eastlake,math,1,0,4
+497,Saamik Agrawal,Eastlake,chemistry,1,0,4
+497,Shivam Chowdhary,Eastlake,physics,1,0,4
+507,Larry Zhao,BISV 1,overall,3,0,12
+507,Larry Zhao,BISV 1,biology,3,0,12
+507,Santhosh Balaji Venkatesh Babu,Collierville 2,overall,0,1,-4
+507,Santhosh Balaji Venkatesh Babu,Collierville 2,math,0,0,0
+507,Derrick Liu,BISV 1,overall,0,1,-4
+507,Derrick Liu,BISV 1,math,0,1,-4
+507,Sidhant Chaliha,BISV 1,overall,4,1,12
+507,Sidhant Chaliha,BISV 1,chemistry,1,0,4
+507,Angeline Chen,Collierville 2,overall,2,0,8
+507,Angeline Chen,Collierville 2,ess,1,0,4
+507,Derrick Liu,BISV 1,ess,0,0,0
+507,Ishan Anne,Collierville 2,overall,2,0,8
+507,Ishan Anne,Collierville 2,physics,1,0,4
+507,Lucas Quan,BISV 1,overall,4,1,12
+507,Lucas Quan,BISV 1,physics,1,1,0
+507,Cherry Balusulapalem,Collierville 2,overall,1,0,4
+507,Cherry Balusulapalem,Collierville 2,math,1,0,4
+507,Sidhant Chaliha,BISV 1,ess,2,0,8
+507,Sidhant Chaliha,BISV 1,physics,1,0,4
+507,Santhosh Balaji Venkatesh Babu,Collierville 2,biology,0,1,-4
+507,Angeline Chen,Collierville 2,math,1,0,4
+507,Lucas Quan,BISV 1,chemistry,2,0,8
+507,Lucas Quan,BISV 1,ess,1,0,4
+507,Ishan Anne,Collierville 2,biology,1,0,4
+507,Sidhant Chaliha,BISV 1,math,0,1,-4
+510,Luke Itomura,Punahou,overall,2,2,0
+510,Luke Itomura,Punahou,biology,2,2,0
+510,Travis Dumaran,Punahou,overall,6,1,20
+510,Travis Dumaran,Punahou,math,2,0,8
+510,Travis Dumaran,Punahou,chemistry,1,0,4
+510,Pruthwiraj Vishwanatha,Arcadia 2,overall,1,0,4
+510,Pruthwiraj Vishwanatha,Arcadia 2,chemistry,1,0,4
+510,Travis Dumaran,Punahou,ess,2,1,4
+510,Johnson Peng,Arcadia 2,overall,3,0,12
+510,Johnson Peng,Arcadia 2,physics,2,0,8
+510,Kainoa Thorne,Punahou,overall,1,0,4
+510,Kainoa Thorne,Punahou,chemistry,1,0,4
+510,Travis Dumaran,Punahou,physics,1,0,4
+510,Pruthwiraj Vishwanatha,Arcadia 2,physics,0,0,0
+510,Johnson Peng,Arcadia 2,biology,0,0,0
+510,Kainoa Thorne,Punahou,math,0,0,0
+510,Johnson Peng,Arcadia 2,math,0,0,0
+510,Pruthwiraj Vishwanatha,Arcadia 2,math,0,0,0
+510,Johnson Peng,Arcadia 2,chemistry,1,0,4
+510,Jamie Wu,Arcadia 2,overall,0,0,0
+510,Jamie Wu,Arcadia 2,ess,0,0,0
+510,Kainoa Thorne,Punahou,physics,0,0,0
+512,Bhaskar Moorthy,BRMHS 1,overall,2,2,0
+512,Bhaskar Moorthy,BRMHS 1,biology,0,1,-4
+512,Eshaan Sombhatta,Thomas Jefferson 1,overall,3,0,12
+512,Eshaan Sombhatta,Thomas Jefferson 1,math,1,0,4
+512,Adhrit Maiti,BRMHS 1,overall,2,0,8
+512,Adhrit Maiti,BRMHS 1,math,1,0,4
+512,Hrishi Bhooma,Thomas Jefferson 1,overall,1,1,0
+512,Hrishi Bhooma,Thomas Jefferson 1,chemistry,1,1,0
+512,Bhaskar Moorthy,BRMHS 1,chemistry,1,0,4
+512,Eshaan Sombhatta,Thomas Jefferson 1,ess,2,0,8
+512,Mary Pham,BRMHS 1,overall,1,0,4
+512,Mary Pham,BRMHS 1,ess,1,0,4
+512,Eric Xie,Thomas Jefferson 1,overall,4,0,16
+512,Eric Xie,Thomas Jefferson 1,physics,4,0,16
+512,Dev Iyer,BRMHS 1,overall,1,0,4
+512,Dev Iyer,BRMHS 1,biology,1,0,4
+512,Adhrit Maiti,BRMHS 1,chemistry,1,0,4
+512,Bhaskar Moorthy,BRMHS 1,ess,1,0,4
+512,Andrew Du,Thomas Jefferson 1,overall,1,0,4
+512,Andrew Du,Thomas Jefferson 1,biology,0,0,0
+512,Eshaan Sombhatta,Thomas Jefferson 1,biology,0,0,0
+512,Andrew Du,Thomas Jefferson 1,math,1,0,4
+512,Bhaskar Moorthy,BRMHS 1,physics,0,1,-4
+522,Fei Sean,Minnesota Institute of Timberwolves,overall,5,2,12
+522,Fei Sean,Minnesota Institute of Timberwolves,biology,2,1,4
+522,Edward Anthony,Minnesota Institute of Timberwolves,overall,9,2,28
+522,Edward Anthony,Minnesota Institute of Timberwolves,math,3,0,12
+522,Edward Anthony,Minnesota Institute of Timberwolves,chemistry,4,0,16
+522,Fei Sean,Minnesota Institute of Timberwolves,ess,2,0,8
+522,Edward Anthony,Minnesota Institute of Timberwolves,physics,1,1,0
+522,Ben Dang,Bridgeland,overall,3,0,12
+522,Ben Dang,Bridgeland,physics,0,0,0
+522,Edward Anthony,Minnesota Institute of Timberwolves,ess,1,1,0
+522,Advaith Bade,Bridgeland,overall,1,0,4
+522,Advaith Bade,Bridgeland,ess,1,0,4
+522,Fei Sean,Minnesota Institute of Timberwolves,physics,1,1,0
+522,Ben Dang,Bridgeland,biology,2,0,8
+522,Ben Dang,Bridgeland,math,1,0,4
+525,Dhairya Mathur,WWPS 2,overall,1,0,4
+525,Dhairya Mathur,WWPS 2,biology,1,0,4
+525,Andrew Zhang,College Park,overall,0,1,-4
+525,Andrew Zhang,College Park,math,0,1,-4
+525,Likhith Malipati,WWPS 2,overall,0,3,-12
+525,Likhith Malipati,WWPS 2,math,0,2,-8
+525,Shubam Vennu,College Park,overall,9,1,32
+525,Shubam Vennu,College Park,chemistry,4,0,16
+525,Likhith Malipati,WWPS 2,chemistry,0,1,-4
+525,Shubam Vennu,College Park,ess,0,1,-4
+525,Dhairya Mathur,WWPS 2,ess,0,0,0
+525,Jason Mak,WWPS 2,overall,1,0,4
+525,Jason Mak,WWPS 2,physics,1,0,4
+525,Shubam Vennu,College Park,biology,1,0,4
+525,Shubam Vennu,College Park,math,1,0,4
+525,Shubam Vennu,College Park,physics,3,0,12
+525,Saketh Komaragiri,College Park,overall,0,0,0
+525,Saketh Komaragiri,College Park,biology,0,0,0
+527,Akhil Batchu,ASFA 1,overall,4,0,16
+527,Akhil Batchu,ASFA 1,biology,1,0,4
+527,Keene Koide,Iolani School 1,overall,1,0,4
+527,Keene Koide,Iolani School 1,chemistry,1,0,4
+527,Skyler Brown,ASFA 1,overall,2,1,4
+527,Skyler Brown,ASFA 1,chemistry,0,1,-4
+527,Sola Murakami,Iolani School 1,overall,3,1,8
+527,Sola Murakami,Iolani School 1,ess,1,0,4
+527,Advik Sharma,ASFA 1,overall,2,3,-4
+527,Advik Sharma,ASFA 1,physics,1,0,4
+527,Daniel york,Iolani School 1,overall,2,1,4
+527,Daniel york,Iolani School 1,biology,1,0,4
+527,Advik Sharma,ASFA 1,biology,0,2,-8
+527,Sola Murakami,Iolani School 1,math,1,0,4
+527,Daniel york,Iolani School 1,chemistry,1,1,0
+527,Advik Sharma,ASFA 1,chemistry,0,1,-4
+527,Skyler Brown,ASFA 1,physics,2,0,8
+527,Akhil Batchu,ASFA 1,math,1,0,4
+527,Daniel york,Iolani School 1,ess,0,0,0
+527,Akhil Batchu,ASFA 1,ess,1,0,4
+527,Sola Murakami,Iolani School 1,physics,1,1,0
+527,Advik Sharma,ASFA 1,math,1,0,4
+527,Akhil Batchu,ASFA 1,chemistry,1,0,4
+537,Elsa Cheng,Harvard Westlake 2,overall,1,0,4
+537,Elsa Cheng,Harvard Westlake 2,chemistry,1,0,4
+537,Peter Gao,Harvard Westlake 2,overall,0,0,0
+537,Peter Gao,Harvard Westlake 2,ess,0,0,0
+537,Vladislav Bodnaruk,Whitney Young 2,overall,3,0,12
+537,Vladislav Bodnaruk,Whitney Young 2,ess,0,0,0
+537,Miles Wallace,Whitney Young 2,overall,2,0,8
+537,Miles Wallace,Whitney Young 2,physics,1,0,4
+537,Elsa Cheng,Harvard Westlake 2,biology,0,0,0
+537,Vladislav Bodnaruk,Whitney Young 2,biology,1,0,4
+537,Alex Gavin,Harvard Westlake 2,overall,1,0,4
+537,Alex Gavin,Harvard Westlake 2,math,0,0,0
+537,Alex Gavin,Harvard Westlake 2,chemistry,0,0,0
+537,Miles Wallace,Whitney Young 2,chemistry,1,0,4
+537,Miles Wallace,Whitney Young 2,ess,0,0,0
+537,Alex Gavin,Harvard Westlake 2,physics,1,0,4
+537,Peter Gao,Harvard Westlake 2,biology,0,0,0
+537,Vladislav Bodnaruk,Whitney Young 2,math,2,0,8
+537,Jessie Cai,Harvard Westlake 2,overall,1,0,4
+537,Jessie Cai,Harvard Westlake 2,ess,1,0,4
+537,Jessie Cai,Harvard Westlake 2,physics,0,0,0
+537,Elsa Cheng,Harvard Westlake 2,math,0,0,0
+537,Zachary Hernandez,Whitney Young 2,overall,0,0,0
+537,Zachary Hernandez,Whitney Young 2,ess,0,0,0
+537,Elsa Cheng,Harvard Westlake 2,physics,0,0,0
+540,Mahdi Khan,Jericho 1,overall,5,0,20
+540,Mahdi Khan,Jericho 1,math,2,0,8
+540,Ryan Tae,Jericho 1,overall,3,0,12
+540,Ryan Tae,Jericho 1,chemistry,3,0,12
+540,Mahdi Khan,Jericho 1,ess,2,0,8
+540,Hudson Barkman,Academies of Loudoun,overall,0,0,0
+540,Hudson Barkman,Academies of Loudoun,ess,0,0,0
+540,Helen Wang,Jericho 1,overall,0,1,-4
+540,Helen Wang,Jericho 1,physics,0,0,0
+540,Zayn Imran,Academies of Loudoun,overall,1,0,4
+540,Zayn Imran,Academies of Loudoun,physics,0,0,0
+540,Helen Wang,Jericho 1,biology,0,0,0
+540,Priya Lloyd,Academies of Loudoun,overall,0,0,0
+540,Priya Lloyd,Academies of Loudoun,biology,0,0,0
+540,Ryan Tae,Jericho 1,math,0,0,0
+540,Priya Lloyd,Academies of Loudoun,chemistry,0,0,0
+540,Mahdi Khan,Jericho 1,physics,1,0,4
+540,Zayn Imran,Academies of Loudoun,biology,1,0,4
+540,Hudson Barkman,Academies of Loudoun,physics,0,0,0
+540,Helen Wang,Jericho 1,math,0,1,-4
+540,Priya Lloyd,Academies of Loudoun,math,0,0,0
+540,Ryan Tae,Jericho 1,physics,0,0,0
+542,Theenash Sengupta,Mission San Jose 1,overall,3,2,4
+542,Theenash Sengupta,Mission San Jose 1,biology,2,1,4
+542,Advaith Mopuri,Mission San Jose 1,overall,3,2,4
+542,Advaith Mopuri,Mission San Jose 1,math,2,2,0
+542,Theenash Sengupta,Mission San Jose 1,chemistry,1,1,0
+542,Ashley Li,CCA 2,overall,1,0,4
+542,Ashley Li,CCA 2,chemistry,0,0,0
+542,Roshan Annamalai,Mission San Jose 1,overall,6,1,20
+542,Roshan Annamalai,Mission San Jose 1,ess,3,0,12
+542,Anish Agarwal,Mission San Jose 1,overall,0,1,-4
+542,Anish Agarwal,Mission San Jose 1,physics,0,1,-4
+542,Aryan Deshmukh,CCA 2,overall,0,0,0
+542,Aryan Deshmukh,CCA 2,physics,0,0,0
+542,Roshan Annamalai,Mission San Jose 1,chemistry,1,1,0
+542,Roshan Annamalai,Mission San Jose 1,physics,2,0,8
+542,Ashley Li,CCA 2,biology,1,0,4
+542,Rishi Kumar,CCA 2,overall,1,0,4
+542,Rishi Kumar,CCA 2,chemistry,1,0,4
+542,Rutvik Arora,Mission San Jose 1,overall,1,0,4
+542,Rutvik Arora,Mission San Jose 1,ess,1,0,4
+542,Advaith Mopuri,Mission San Jose 1,physics,1,0,4
+552,Kian Dhawan,Blair 1,overall,8,0,32
+552,Kian Dhawan,Blair 1,biology,4,0,16
+552,Evan Zhang,Blair 1,overall,6,2,16
+552,Evan Zhang,Blair 1,math,3,0,12
+552,Kian Dhawan,Blair 1,chemistry,3,0,12
+552,Evan Zhang,Blair 1,ess,2,0,8
+552,Evan Zhang,Blair 1,physics,1,2,-4
+552,Aarnav Jain,IMSA 2,overall,0,1,-4
+552,Aarnav Jain,IMSA 2,physics,0,0,0
+552,Aarnav Jain,IMSA 2,ess,0,1,-4
+552,Kian Dhawan,Blair 1,math,1,0,4
+552,Kevin Feng,Blair 1,overall,2,0,8
+552,Kevin Feng,Blair 1,chemistry,1,0,4
+552,Kevin Feng,Blair 1,ess,1,0,4
+555,Simon Zhang,Lexington,overall,2,1,4
+555,Simon Zhang,Lexington,biology,1,1,0
+555,Liran Zhu,Throrthwood Tottenham,overall,9,0,36
+555,Liran Zhu,Throrthwood Tottenham,chemistry,2,0,8
+555,Ashray Malhotra,Lexington,overall,1,0,4
+555,Ashray Malhotra,Lexington,ess,1,0,4
+555,Liran Zhu,Throrthwood Tottenham,physics,3,0,12
+555,Ferris Li,Throrthwood Tottenham,overall,2,0,8
+555,Ferris Li,Throrthwood Tottenham,biology,2,0,8
+555,Liran Zhu,Throrthwood Tottenham,ess,2,0,8
+555,Akshay Rao,Lexington,overall,2,0,8
+555,Akshay Rao,Lexington,physics,1,0,4
+555,Liran Zhu,Throrthwood Tottenham,math,1,0,4
+555,Akshay Rao,Lexington,chemistry,1,0,4
+555,Liran Zhu,Throrthwood Tottenham,biology,1,0,4
+555,Gordon Wong,Throrthwood Tottenham,overall,1,0,4
+555,Gordon Wong,Throrthwood Tottenham,math,1,0,4
+555,Simon Zhang,Lexington,chemistry,1,0,4
+557,Kristin Peng,BUMSJK,overall,2,0,8
+557,Kristin Peng,BUMSJK,biology,1,0,4
+557,John Fenic,BUMSJK,overall,0,1,-4
+557,John Fenic,BUMSJK,math,0,0,0
+557,Kristin Peng,BUMSJK,chemistry,0,0,0
+557,Kristin Peng,BUMSJK,ess,0,0,0
+557,John Fenic,BUMSJK,physics,0,1,-4
+557,Kristin Peng,BUMSJK,math,0,0,0
+557,John Fenic,BUMSJK,chemistry,0,0,0
+557,Kristin Peng,BUMSJK,physics,1,0,4
+563,Theenash Sengupta,Mission San Jose 1,overall,4,1,12
+563,Theenash Sengupta,Mission San Jose 1,biology,2,0,8
+563,Advaith Mopuri,Mission San Jose 1,overall,1,1,0
+563,Advaith Mopuri,Mission San Jose 1,math,1,1,0
+563,Anish Agarwal,Mission San Jose 1,overall,2,0,8
+563,Anish Agarwal,Mission San Jose 1,chemistry,1,0,4
+563,Kevin Qiu,Wayzata,overall,6,3,12
+563,Kevin Qiu,Wayzata,chemistry,1,0,4
+563,Luyao Yang,Wayzata,overall,1,1,0
+563,Luyao Yang,Wayzata,ess,1,1,0
+563,Anish Agarwal,Mission San Jose 1,physics,1,0,4
+563,Kevin Qiu,Wayzata,physics,0,2,-8
+563,Kevin Qiu,Wayzata,biology,2,1,4
+563,Kevin Qiu,Wayzata,math,3,0,12
+563,Theenash Sengupta,Mission San Jose 1,chemistry,2,1,4
+563,Roshan Annamalai,Mission San Jose 1,overall,5,1,16
+563,Roshan Annamalai,Mission San Jose 1,ess,3,0,12
+563,Roshan Annamalai,Mission San Jose 1,physics,2,1,4
+563,Sophie Cui,Wayzata,overall,0,0,0
+563,Sophie Cui,Wayzata,physics,0,0,0
+563,Advaith Mopuri,Mission San Jose 1,biology,0,0,0
+564,Advik Sharma,ASFA 1,overall,2,1,4
+564,Advik Sharma,ASFA 1,biology,2,0,8
+564,Shayan Sattarvand,Davidson Academy,overall,1,0,4
+564,Shayan Sattarvand,Davidson Academy,math,1,0,4
+564,Akhil Batchu,ASFA 1,overall,6,2,16
+564,Akhil Batchu,ASFA 1,chemistry,1,1,0
+564,Akhil Batchu,ASFA 1,ess,4,0,16
+564,Skyler Brown,ASFA 1,overall,0,1,-4
+564,Skyler Brown,ASFA 1,physics,0,1,-4
+564,Lucas Wu,Davidson Academy,overall,6,0,24
+564,Lucas Wu,Davidson Academy,physics,3,0,12
+564,Yajur Chandar,Davidson Academy,overall,2,0,8
+564,Yajur Chandar,Davidson Academy,biology,1,0,4
+564,Akhil Batchu,ASFA 1,math,0,0,0
+564,Yajur Chandar,Davidson Academy,chemistry,1,0,4
+564,Albert Chen,ASFA 1,overall,1,0,4
+564,Albert Chen,ASFA 1,math,1,0,4
+564,Lucas Wu,Davidson Academy,chemistry,2,0,8
+564,Akhil Batchu,ASFA 1,physics,0,1,-4
+564,Akhil Batchu,ASFA 1,biology,1,0,4
+564,Advik Sharma,ASFA 1,math,0,1,-4
+564,Lucas Wu,Davidson Academy,math,1,0,4
+565,Eric Liu,Ward Melville 1,overall,4,0,16
+565,Eric Liu,Ward Melville 1,biology,3,0,12
+565,Harry Gao,Ward Melville 1,overall,8,0,32
+565,Harry Gao,Ward Melville 1,math,4,0,16
+565,William Wang,Lakeside 1,overall,2,1,4
+565,William Wang,Lakeside 1,chemistry,2,1,4
+565,Harry Gao,Ward Melville 1,ess,1,0,4
+565,Vishnu Mangipudi,Lakeside 1,overall,5,2,12
+565,Vishnu Mangipudi,Lakeside 1,physics,1,1,0
+565,Vishnu Mangipudi,Lakeside 1,ess,3,0,12
+565,Harry Gao,Ward Melville 1,physics,3,0,12
+565,Vishnu Mangipudi,Lakeside 1,biology,1,1,0
+565,Eric Liu,Ward Melville 1,chemistry,1,0,4
+565,James Yang,Lakeside 1,overall,0,0,0
+565,James Yang,Lakeside 1,math,0,0,0
+566,Rasia Yu,Palo Alto 1,overall,1,0,4
+566,Rasia Yu,Palo Alto 1,biology,1,0,4
+566,Arman A,Ladue,overall,2,1,4
+566,Arman A,Ladue,biology,2,1,4
+566,Aaron Lin,Ladue,overall,5,0,20
+566,Aaron Lin,Ladue,math,4,0,16
+566,Andrew Wen,Palo Alto 1,overall,2,2,0
+566,Andrew Wen,Palo Alto 1,chemistry,0,0,0
+566,Ayden Huang,Ladue,overall,1,1,0
+566,Ayden Huang,Ladue,chemistry,0,0,0
+566,Ayden Huang,Ladue,ess,1,1,0
+566,Andrew Wen,Palo Alto 1,physics,2,2,0
+566,Aaron Lin,Ladue,physics,1,0,4
+566,Alex Wang,Ladue,overall,1,0,4
+566,Alex Wang,Ladue,chemistry,1,0,4
+566,Kevin Pei,Palo Alto 1,overall,2,0,8
+566,Kevin Pei,Palo Alto 1,ess,1,0,4
+566,Kevin Pei,Palo Alto 1,chemistry,1,0,4
+566,Alex Wang,Ladue,ess,0,0,0
+567,Ajay Sawant,The Frazer School 1,overall,6,0,24
+567,Ajay Sawant,The Frazer School 1,biology,4,0,16
+567,Anish Patel,The Frazer School 1,overall,1,1,0
+567,Anish Patel,The Frazer School 1,math,1,1,0
+567,Gabe Levin,Hunter College 1,overall,5,2,12
+567,Gabe Levin,Hunter College 1,math,2,0,8
+567,Jimmy Jiang,The Frazer School 1,overall,0,1,-4
+567,Jimmy Jiang,The Frazer School 1,chemistry,0,1,-4
+567,Gabe Levin,Hunter College 1,chemistry,1,0,4
+567,Michael Wei,The Frazer School 1,overall,2,0,8
+567,Michael Wei,The Frazer School 1,ess,1,0,4
+567,Ajay Sawant,The Frazer School 1,physics,1,0,4
+567,Gabe Levin,Hunter College 1,physics,2,2,0
+567,Camille Pimentel,Hunter College 1,overall,2,0,8
+567,Camille Pimentel,Hunter College 1,ess,2,0,8
+567,Michael Wei,The Frazer School 1,math,1,0,4
+567,Ajay Sawant,The Frazer School 1,chemistry,1,0,4
+567,Michael Wei,The Frazer School 1,physics,0,0,0
+568,suzuko ohshima,North Hollywood 1,overall,5,1,16
+568,suzuko ohshima,North Hollywood 1,biology,1,1,0
+568,Larry Zhao,BISV 1,overall,2,0,8
+568,Larry Zhao,BISV 1,biology,2,0,8
+568,Sidhant Chaliha,BISV 1,overall,3,0,12
+568,Sidhant Chaliha,BISV 1,math,2,0,8
+568,suzuko ohshima,North Hollywood 1,chemistry,0,0,0
+568,Lucas Quan,BISV 1,overall,4,1,12
+568,Lucas Quan,BISV 1,chemistry,2,0,8
+568,Angelina Yan,North Hollywood 1,overall,3,0,12
+568,Angelina Yan,North Hollywood 1,ess,2,0,8
+568,suzuko ohshima,North Hollywood 1,physics,2,0,8
+568,Angelina Yan,North Hollywood 1,biology,1,0,4
+568,Lucas Quan,BISV 1,math,2,0,8
+568,Lucas Quan,BISV 1,physics,0,0,0
+568,Sidhant Chaliha,BISV 1,chemistry,0,0,0
+568,suzuko ohshima,North Hollywood 1,ess,2,0,8
+568,Charles Huang,North Hollywood 1,overall,1,0,4
+568,Charles Huang,North Hollywood 1,physics,1,0,4
+568,Lucas Quan,BISV 1,ess,0,1,-4
+568,Sidhant Chaliha,BISV 1,physics,1,0,4
+569,Kian Dhawan,Blair 1,overall,6,2,16
+569,Kian Dhawan,Blair 1,biology,3,1,8
+569,Evan Zhang,Blair 1,overall,6,1,20
+569,Evan Zhang,Blair 1,math,3,0,12
+569,Kian Dhawan,Blair 1,chemistry,2,1,4
+569,Easton Wei,West Windsor-Plainsboro North,overall,0,0,0
+569,Easton Wei,West Windsor-Plainsboro North,chemistry,0,0,0
+569,Aldric Benalan,West Windsor-Plainsboro North,overall,3,0,12
+569,Aldric Benalan,West Windsor-Plainsboro North,ess,2,0,8
+569,Evan Zhang,Blair 1,physics,2,1,4
+569,Chris Wang,Blair 1,overall,1,0,4
+569,Chris Wang,Blair 1,math,1,0,4
+569,Kevin Feng,Blair 1,overall,1,0,4
+569,Kevin Feng,Blair 1,ess,1,0,4
+569,Evan Zhang,Blair 1,ess,1,0,4
+569,Kian Dhawan,Blair 1,physics,1,0,4
+569,Sam Easaw,Blair 1,overall,1,0,4
+569,Sam Easaw,Blair 1,chemistry,1,0,4
+569,Aldric Benalan,West Windsor-Plainsboro North,physics,1,0,4
+570,Ferris Li,Throrthwood Tottenham,overall,2,1,4
+570,Ferris Li,Throrthwood Tottenham,biology,2,1,4
+570,Gordon Wong,Throrthwood Tottenham,overall,2,0,8
+570,Gordon Wong,Throrthwood Tottenham,math,2,0,8
+570,Praneel Avula,James Clemens,overall,3,1,8
+570,Praneel Avula,James Clemens,math,1,0,4
+570,Liran Zhu,Throrthwood Tottenham,overall,6,0,24
+570,Liran Zhu,Throrthwood Tottenham,chemistry,4,0,16
+570,Praneel Avula,James Clemens,chemistry,0,1,-4
+570,Joel Yang,James Clemens,overall,4,0,16
+570,Joel Yang,James Clemens,ess,4,0,16
+570,Praneel Avula,James Clemens,physics,2,0,8
+570,Heidi Leonard,James Clemens,overall,2,0,8
+570,Heidi Leonard,James Clemens,biology,2,0,8
+570,Liran Zhu,Throrthwood Tottenham,physics,1,0,4
+570,Liran Zhu,Throrthwood Tottenham,math,1,0,4
+571,Austin Zhang,Arcadia 1,overall,8,2,24
+571,Austin Zhang,Arcadia 1,biology,3,0,12
+571,Ishaan Kabra,Mission San Jose 2,overall,6,1,20
+571,Ishaan Kabra,Mission San Jose 2,math,1,0,4
+571,Lucas Jiang,Mission San Jose 2,overall,0,0,0
+571,Lucas Jiang,Mission San Jose 2,chemistry,0,0,0
+571,Austin Zhang,Arcadia 1,chemistry,2,1,4
+571,Ishaan Kabra,Mission San Jose 2,ess,4,0,16
+571,Ishaan Kabra,Mission San Jose 2,physics,1,1,0
+571,Austin Zhang,Arcadia 1,physics,2,1,4
+571,Aravind Muralidharan,Mission San Jose 2,overall,0,0,0
+571,Aravind Muralidharan,Mission San Jose 2,biology,0,0,0
+571,Andy Liu,Mission San Jose 2,overall,3,1,8
+571,Andy Liu,Mission San Jose 2,math,2,0,8
+571,Austin Zhang,Arcadia 1,math,1,0,4
+571,Andy Liu,Mission San Jose 2,physics,1,0,4
+571,Andy Liu,Mission San Jose 2,biology,0,1,-4
+571,Edward Zeng,Mission San Jose 2,overall,1,0,4
+571,Edward Zeng,Mission San Jose 2,chemistry,1,0,4
+572,Ryan Karim,School of Astronomy,overall,4,1,12
+572,Ryan Karim,School of Astronomy,biology,0,0,0
+572,Henry Kim,OCSA,overall,2,0,8
+572,Henry Kim,OCSA,biology,2,0,8
+572,Ryan Karim,School of Astronomy,math,2,0,8
+572,Abhinav Senthil,School of Astronomy,overall,3,1,8
+572,Abhinav Senthil,School of Astronomy,chemistry,2,1,4
+572,Armaan Diwan,OCSA,overall,3,0,12
+572,Armaan Diwan,OCSA,ess,3,0,12
+572,Ryan Karim,School of Astronomy,physics,2,0,8
+572,Aryan Sharma,OCSA,overall,1,0,4
+572,Aryan Sharma,OCSA,math,1,0,4
+572,Abhinav Senthil,School of Astronomy,physics,1,0,4
+572,Riyan Nayak,School of Astronomy,overall,1,0,4
+572,Riyan Nayak,School of Astronomy,math,1,0,4
+572,Shannon Imaoka,OCSA,overall,1,1,0
+572,Shannon Imaoka,OCSA,chemistry,1,1,0
+572,Ryan Karim,School of Astronomy,ess,0,0,0
+572,Shannon Imaoka,OCSA,physics,0,0,0
+572,Sudeep Suresh,School of Astronomy,overall,1,0,4
+572,Sudeep Suresh,School of Astronomy,biology,1,0,4
+572,Ryan Karim,School of Astronomy,chemistry,0,1,-4
+572,Abhinav Senthil,School of Astronomy,ess,0,0,0
+573,Hrishi Bhooma,Thomas Jefferson 1,overall,3,0,12
+573,Hrishi Bhooma,Thomas Jefferson 1,biology,0,0,0
+573,Jason Liu,Temple City,overall,4,0,16
+573,Jason Liu,Temple City,biology,2,0,8
+573,Eshaan Sombhatta,Thomas Jefferson 1,overall,6,0,24
+573,Eshaan Sombhatta,Thomas Jefferson 1,math,3,0,12
+573,Hrishi Bhooma,Thomas Jefferson 1,chemistry,3,0,12
+573,Ethan Deng,Temple City,overall,0,0,0
+573,Ethan Deng,Temple City,chemistry,0,0,0
+573,Bryce Thach,Temple City,overall,2,1,4
+573,Bryce Thach,Temple City,ess,2,1,4
+573,Jason Liu,Temple City,physics,1,0,4
+573,Eshaan Sombhatta,Thomas Jefferson 1,biology,1,0,4
+573,Eshaan Sombhatta,Thomas Jefferson 1,ess,1,0,4
+573,Eshaan Sombhatta,Thomas Jefferson 1,physics,1,0,4
+573,Eric Xie,Thomas Jefferson 1,overall,1,1,0
+573,Eric Xie,Thomas Jefferson 1,physics,1,1,0
+573,Jason Liu,Temple City,math,1,0,4
+574,Achuth Vinay,Clovis North High,overall,1,0,4
+574,Achuth Vinay,Clovis North High,biology,1,0,4
+575,Jake Rosenblum,North Hollywood 2,overall,4,1,12
+575,Jake Rosenblum,North Hollywood 2,biology,3,1,8
+575,Patrick Liang,North Hollywood 2,overall,4,0,16
+575,Patrick Liang,North Hollywood 2,math,4,0,16
+575,Jake Rosenblum,North Hollywood 2,chemistry,1,0,4
+575,Ariv Barua,AHB 1,overall,2,0,8
+575,Ariv Barua,AHB 1,chemistry,1,0,4
+575,Jason Tang,AHB 1,overall,2,0,8
+575,Jason Tang,AHB 1,ess,1,0,4
+575,Ariv Barua,AHB 1,physics,1,0,4
+575,Jason Tang,AHB 1,chemistry,1,0,4
+575,Kensuke Ohshima,North Hollywood 2,overall,3,1,8
+575,Kensuke Ohshima,North Hollywood 2,ess,3,0,12
+575,Kensuke Ohshima,North Hollywood 2,physics,0,1,-4
+575,Jason Tang,AHB 1,physics,0,0,0
+575,Arnav Bhatia,AHB 1,overall,0,0,0
+575,Arnav Bhatia,AHB 1,math,0,0,0
+575,Daniel Cai,AHB 1,overall,0,0,0
+575,Daniel Cai,AHB 1,physics,0,0,0
+576,Aarush Iyer,MSJ 3,overall,6,0,24
+576,Aarush Iyer,MSJ 3,biology,2,0,8
+576,Hank Sun,MSJ 3,overall,1,0,4
+576,Hank Sun,MSJ 3,math,1,0,4
+576,Kainoa Thorne,Punahou,overall,0,0,0
+576,Kainoa Thorne,Punahou,chemistry,0,0,0
+576,Aarush Iyer,MSJ 3,chemistry,2,0,8
+576,Travis Dumaran,Punahou,overall,3,1,8
+576,Travis Dumaran,Punahou,ess,3,0,12
+576,Travis Dumaran,Punahou,physics,0,1,-4
+576,Aarush Iyer,MSJ 3,physics,2,0,8
+576,Maxwell Zhang,MSJ 3,overall,1,0,4
+576,Maxwell Zhang,MSJ 3,biology,1,0,4
+576,Travis Dumaran,Punahou,math,0,0,0
+576,Aarush Iyer,MSJ 3,ess,0,0,0
+576,Luke Itomura,Punahou,overall,2,2,0
+576,Luke Itomura,Punahou,physics,1,1,0
+576,Luke Itomura,Punahou,biology,0,1,-4
+576,Travis Dumaran,Punahou,chemistry,0,0,0
+576,Luke Itomura,Punahou,ess,0,0,0
+576,Abhiraam Girish,MSJ 3,overall,1,0,4
+576,Abhiraam Girish,MSJ 3,ess,0,0,0
+576,Luke Itomura,Punahou,math,0,0,0
+576,Luke Itomura,Punahou,chemistry,1,0,4
+576,Abhiraam Girish,MSJ 3,physics,1,0,4
+577,Samuel Wang,Blair 2,overall,3,3,0
+577,Samuel Wang,Blair 2,biology,2,0,8
+577,Timothy Chen,University 1,overall,6,0,24
+577,Timothy Chen,University 1,biology,0,0,0
+577,Timothy Chen,University 1,math,2,0,8
+577,Bill Qian,Blair 2,overall,2,0,8
+577,Bill Qian,Blair 2,chemistry,0,0,0
+577,Carl Liu,University 1,overall,0,1,-4
+577,Carl Liu,University 1,chemistry,0,1,-4
+577,Samriddho Bhowal,University 1,overall,1,0,4
+577,Samriddho Bhowal,University 1,ess,1,0,4
+577,Samuel Wang,Blair 2,physics,0,2,-8
+577,Timothy Chen,University 1,physics,2,0,8
+577,Samuel Wang,Blair 2,ess,1,0,4
+577,Eric Xie,Blair 2,overall,1,0,4
+577,Eric Xie,Blair 2,physics,1,0,4
+577,Eugene Dai,University 1,overall,0,1,-4
+577,Eugene Dai,University 1,biology,0,1,-4
+577,Bill Qian,Blair 2,math,2,0,8
+577,Meghna Singh,Blair 2,overall,1,1,0
+577,Meghna Singh,Blair 2,chemistry,1,0,4
+577,Timothy Chen,University 1,ess,2,0,8
+577,Carl Liu,University 1,physics,0,0,0
+577,Meghna Singh,Blair 2,biology,0,1,-4
+577,Bhavana Thirunavukkarasan,University 1,overall,0,0,0
+577,Bhavana Thirunavukkarasan,University 1,biology,0,0,0
+577,Samuel Wang,Blair 2,chemistry,0,1,-4
+578,Uddip Kashyap,VMATHs,overall,1,0,4
+578,Uddip Kashyap,VMATHs,biology,1,0,4
+578,Varun Gadi,VMATHs,overall,4,0,16
+578,Varun Gadi,VMATHs,math,4,0,16
+578,S I,VMATHs,overall,6,0,24
+578,S I,VMATHs,ess,1,0,4
+578,S I,VMATHs,physics,2,0,8
+578,S I,VMATHs,biology,2,0,8
+578,Ryan Tae,Jericho 1,overall,1,1,0
+578,Ryan Tae,Jericho 1,chemistry,1,0,4
+578,Helen Wang,Jericho 1,overall,2,1,4
+578,Helen Wang,Jericho 1,ess,2,0,8
+578,Helen Wang,Jericho 1,biology,0,1,-4
+578,Mahdi Khan,Jericho 1,overall,2,0,8
+578,Mahdi Khan,Jericho 1,physics,1,0,4
+578,S I,VMATHs,chemistry,1,0,4
+578,Mahdi Khan,Jericho 1,ess,1,0,4
+578,Ryan Tae,Jericho 1,physics,0,1,-4
+579,Lucas Wu,Davidson Academy,overall,5,1,16
+579,Lucas Wu,Davidson Academy,biology,1,0,4
+579,Advaith Mopuri,Mission San Jose 1,overall,3,1,8
+579,Advaith Mopuri,Mission San Jose 1,math,3,1,8
+579,Shayan Sattarvand,Davidson Academy,overall,1,0,4
+579,Shayan Sattarvand,Davidson Academy,chemistry,1,0,4
+579,Roshan Annamalai,Mission San Jose 1,overall,4,1,12
+579,Roshan Annamalai,Mission San Jose 1,ess,3,0,12
+579,Lucas Wu,Davidson Academy,ess,0,0,0
+579,Lucas Wu,Davidson Academy,physics,3,0,12
+579,Yajur Chandar,Davidson Academy,overall,1,1,0
+579,Yajur Chandar,Davidson Academy,biology,1,1,0
+579,Lucas Wu,Davidson Academy,math,1,0,4
+579,Roshan Annamalai,Mission San Jose 1,chemistry,1,0,4
+579,Roshan Annamalai,Mission San Jose 1,physics,0,1,-4
+579,Theenash Sengupta,Mission San Jose 1,overall,3,0,12
+579,Theenash Sengupta,Mission San Jose 1,biology,2,0,8
+579,Theenash Sengupta,Mission San Jose 1,chemistry,1,0,4
+579,Lucas Wu,Davidson Academy,chemistry,0,1,-4
+580,Eric Liu,Ward Melville 1,overall,4,0,16
+580,Eric Liu,Ward Melville 1,biology,3,0,12
+580,Harry Gao,Ward Melville 1,overall,5,3,8
+580,Harry Gao,Ward Melville 1,math,1,1,0
+580,Harry Gao,Ward Melville 1,chemistry,1,0,4
+580,Harry Gao,Ward Melville 1,ess,1,1,0
+580,Alex Wang,Ladue,overall,0,0,0
+580,Alex Wang,Ladue,ess,0,0,0
+580,Harry Gao,Ward Melville 1,physics,2,1,4
+580,Aaron Lin,Ladue,overall,3,0,12
+580,Aaron Lin,Ladue,physics,1,0,4
+580,Arman A,Ladue,overall,1,0,4
+580,Arman A,Ladue,biology,1,0,4
+580,Aaron Lin,Ladue,math,2,0,8
+580,Eric Liu,Ward Melville 1,chemistry,1,0,4
+580,Ayden Huang,Ladue,overall,0,0,0
+580,Ayden Huang,Ladue,ess,0,0,0
+580,Arman A,Ladue,chemistry,0,0,0
+580,Alex Wang,Ladue,chemistry,0,0,0
+581,Ajay Sawant,The Frazer School 1,overall,6,0,24
+581,Ajay Sawant,The Frazer School 1,biology,4,0,16
+581,Michael Wei,The Frazer School 1,overall,3,0,12
+581,Michael Wei,The Frazer School 1,math,1,0,4
+581,suzuko ohshima,North Hollywood 1,overall,3,2,4
+581,suzuko ohshima,North Hollywood 1,chemistry,2,0,8
+581,Michael Wei,The Frazer School 1,ess,1,0,4
+581,suzuko ohshima,North Hollywood 1,ess,1,0,4
+581,Michael Wei,The Frazer School 1,physics,1,0,4
+581,suzuko ohshima,North Hollywood 1,physics,0,2,-8
+581,Charles Huang,North Hollywood 1,overall,1,0,4
+581,Charles Huang,North Hollywood 1,math,1,0,4
+581,Charles Huang,North Hollywood 1,physics,0,0,0
+581,Anish Patel,The Frazer School 1,overall,2,0,8
+581,Anish Patel,The Frazer School 1,math,1,0,4
+581,suzuko ohshima,North Hollywood 1,math,0,0,0
+581,Ajay Sawant,The Frazer School 1,chemistry,2,0,8
+581,Anish Patel,The Frazer School 1,physics,1,0,4
+582,Kian Dhawan,Blair 1,overall,6,3,12
+582,Kian Dhawan,Blair 1,biology,2,1,4
+582,Evan Zhang,Blair 1,overall,3,2,4
+582,Evan Zhang,Blair 1,math,1,0,4
+582,Kian Dhawan,Blair 1,chemistry,2,1,4
+582,Liran Zhu,Throrthwood Tottenham,overall,4,0,16
+582,Liran Zhu,Throrthwood Tottenham,chemistry,2,0,8
+582,Evan Zhang,Blair 1,ess,1,1,0
+582,Liran Zhu,Throrthwood Tottenham,physics,1,0,4
+582,Liran Zhu,Throrthwood Tottenham,biology,1,0,4
+582,Kian Dhawan,Blair 1,math,1,1,0
+582,Gordon Wong,Throrthwood Tottenham,overall,2,0,8
+582,Gordon Wong,Throrthwood Tottenham,math,0,0,0
+582,Gordon Wong,Throrthwood Tottenham,ess,2,0,8
+582,Sam Easaw,Blair 1,overall,1,0,4
+582,Sam Easaw,Blair 1,physics,0,0,0
+582,Ferris Li,Throrthwood Tottenham,overall,1,0,4
+582,Ferris Li,Throrthwood Tottenham,physics,0,0,0
+582,Ferris Li,Throrthwood Tottenham,biology,1,0,4
+582,Kian Dhawan,Blair 1,ess,1,0,4
+582,Evan Zhang,Blair 1,physics,1,1,0
+582,Sam Easaw,Blair 1,math,1,0,4
+583,Gabe Levin,Hunter College 1,overall,3,2,4
+583,Gabe Levin,Hunter College 1,biology,0,0,0
+583,Larry Zhao,BISV 1,overall,1,1,0
+583,Larry Zhao,BISV 1,biology,1,1,0
+583,Lucas Quan,BISV 1,overall,5,1,16
+583,Lucas Quan,BISV 1,math,1,0,4
+583,Lucas Quan,BISV 1,chemistry,2,0,8
+583,Camille Pimentel,Hunter College 1,overall,4,0,16
+583,Camille Pimentel,Hunter College 1,ess,2,0,8
+583,Sidhant Chaliha,BISV 1,overall,2,2,0
+583,Sidhant Chaliha,BISV 1,ess,0,0,0
+583,Derrick Liu,BISV 1,overall,1,0,4
+583,Derrick Liu,BISV 1,physics,1,0,4
+583,Gabe Levin,Hunter College 1,math,2,1,4
+583,Sidhant Chaliha,BISV 1,math,0,1,-4
+583,Gabe Levin,Hunter College 1,physics,0,1,-4
+583,Sidhant Chaliha,BISV 1,physics,2,1,4
+583,Camille Pimentel,Hunter College 1,biology,2,0,8
+583,Gabe Levin,Hunter College 1,chemistry,1,0,4
+583,Derrick Liu,BISV 1,chemistry,0,0,0
+583,Lucas Quan,BISV 1,ess,2,0,8
+583,Lucas Quan,BISV 1,biology,0,1,-4
+584,Sharath Sanjay,West Windsor-Plainsboro North,overall,1,0,4
+584,Sharath Sanjay,West Windsor-Plainsboro North,biology,1,0,4
+584,Heidi Leonard,James Clemens,overall,3,0,12
+584,Heidi Leonard,James Clemens,biology,3,0,12
+584,Easton Wei,West Windsor-Plainsboro North,overall,2,1,4
+584,Easton Wei,West Windsor-Plainsboro North,math,2,0,8
+584,Easton Wei,West Windsor-Plainsboro North,chemistry,0,1,-4
+584,Praneel Avula,James Clemens,overall,7,1,24
+584,Praneel Avula,James Clemens,chemistry,3,0,12
+584,Aldric Benalan,West Windsor-Plainsboro North,overall,1,0,4
+584,Aldric Benalan,West Windsor-Plainsboro North,ess,0,0,0
+584,Praneel Avula,James Clemens,ess,1,1,0
+584,Praneel Avula,James Clemens,physics,3,0,12
+584,Aldric Benalan,West Windsor-Plainsboro North,math,1,0,4
+584,Joel Yang,James Clemens,overall,2,0,8
+584,Joel Yang,James Clemens,ess,2,0,8
+584,Aldric Benalan,West Windsor-Plainsboro North,physics,0,0,0
+584,Joel Yang,James Clemens,math,0,0,0
+584,Praneel Avula,James Clemens,math,0,0,0
+584,Aldric Benalan,West Windsor-Plainsboro North,chemistry,0,0,0
+584,Saqib Baig,James Clemens,overall,0,0,0
+584,Saqib Baig,James Clemens,chemistry,0,0,0
+585,Sophie Cui,Wayzata,overall,0,0,0
+585,Sophie Cui,Wayzata,biology,0,0,0
+585,Advik Sharma,ASFA 1,overall,3,0,12
+585,Advik Sharma,ASFA 1,biology,1,0,4
+585,Kevin Qiu,Wayzata,overall,6,0,24
+585,Kevin Qiu,Wayzata,math,2,0,8
+585,Advik Sharma,ASFA 1,math,1,0,4
+585,Akhil Batchu,ASFA 1,overall,4,3,4
+585,Akhil Batchu,ASFA 1,chemistry,3,0,12
+585,Luyao Yang,Wayzata,overall,2,1,4
+585,Luyao Yang,Wayzata,ess,1,1,0
+585,Akhil Batchu,ASFA 1,ess,1,0,4
+585,Luyao Yang,Wayzata,physics,1,0,4
+585,Akhil Batchu,ASFA 1,physics,0,2,-8
+585,Kevin Qiu,Wayzata,biology,2,0,8
+585,Akhil Batchu,ASFA 1,math,0,1,-4
+585,Kevin Qiu,Wayzata,physics,1,0,4
+585,Advik Sharma,ASFA 1,physics,1,0,4
+585,Jeff Zhou,Wayzata,overall,1,0,4
+585,Jeff Zhou,Wayzata,math,1,0,4
+585,Kevin Qiu,Wayzata,chemistry,1,0,4
+586,Vishnu Mangipudi,Lakeside 1,overall,4,0,16
+586,Vishnu Mangipudi,Lakeside 1,biology,0,0,0
+586,Rasia Yu,Palo Alto 1,overall,0,1,-4
+586,Rasia Yu,Palo Alto 1,biology,0,1,-4
+586,Andrew Wen,Palo Alto 1,overall,2,1,4
+586,Andrew Wen,Palo Alto 1,math,1,0,4
+586,Vishnu Mangipudi,Lakeside 1,chemistry,1,0,4
+586,Vishnu Mangipudi,Lakeside 1,ess,1,0,4
+586,Andrew Wen,Palo Alto 1,ess,0,0,0
+586,James Yang,Lakeside 1,overall,2,0,8
+586,James Yang,Lakeside 1,physics,1,0,4
+586,Inhoo Chang,Palo Alto 1,overall,1,1,0
+586,Inhoo Chang,Palo Alto 1,physics,1,1,0
+586,Emma Li,Lakeside 1,overall,2,0,8
+586,Emma Li,Lakeside 1,biology,2,0,8
+586,James Yang,Lakeside 1,math,1,0,4
+586,Kevin Pei,Palo Alto 1,overall,3,0,12
+586,Kevin Pei,Palo Alto 1,chemistry,2,0,8
+586,Vishnu Mangipudi,Lakeside 1,math,2,0,8
+586,William Wang,Lakeside 1,overall,2,0,8
+586,William Wang,Lakeside 1,chemistry,1,0,4
+586,Kevin Pei,Palo Alto 1,ess,1,0,4
+586,Sara Liu,Lakeside 1,overall,0,0,0
+586,Sara Liu,Lakeside 1,physics,0,0,0
+586,Andrew Wen,Palo Alto 1,physics,1,1,0
+586,William Wang,Lakeside 1,biology,1,0,4
+587,Abhinav Senthil,School of Astronomy,overall,3,2,4
+587,Abhinav Senthil,School of Astronomy,biology,2,0,8
+587,Andy Liu,Mission San Jose 2,overall,4,0,16
+587,Andy Liu,Mission San Jose 2,math,2,0,8
+587,Ishaan Kabra,Mission San Jose 2,overall,6,0,24
+587,Ishaan Kabra,Mission San Jose 2,chemistry,1,0,4
+587,Ishaan Kabra,Mission San Jose 2,ess,3,0,12
+587,Ishaan Kabra,Mission San Jose 2,physics,2,0,8
+587,Aravind Muralidharan,Mission San Jose 2,overall,3,1,8
+587,Aravind Muralidharan,Mission San Jose 2,biology,2,1,4
+587,Riyan Nayak,School of Astronomy,overall,0,2,-8
+587,Riyan Nayak,School of Astronomy,math,0,1,-4
+587,Abhinav Senthil,School of Astronomy,chemistry,1,2,-4
+587,Abhinav Senthil,School of Astronomy,physics,0,0,0
+587,Andy Liu,Mission San Jose 2,chemistry,1,0,4
+587,Ryan Karim,School of Astronomy,overall,1,0,4
+587,Ryan Karim,School of Astronomy,ess,0,0,0
+587,Andy Liu,Mission San Jose 2,physics,1,0,4
+587,Riyan Nayak,School of Astronomy,physics,0,1,-4
+587,Ryan Karim,School of Astronomy,math,1,0,4
+587,Aravind Muralidharan,Mission San Jose 2,chemistry,1,0,4
+587,Sudeep Suresh,School of Astronomy,overall,0,0,0
+587,Sudeep Suresh,School of Astronomy,ess,0,0,0
+588,Achuth Vinay,Clovis North High,overall,4,0,16
+588,Achuth Vinay,Clovis North High,biology,3,0,12
+588,Majed Almasri,Clovis North High,overall,1,1,0
+588,Majed Almasri,Clovis North High,math,1,0,4
+588,Justin Do,Clovis North High,overall,4,1,12
+588,Justin Do,Clovis North High,chemistry,3,0,12
+588,Bryce Thach,Temple City,overall,3,1,8
+588,Bryce Thach,Temple City,ess,1,1,0
+588,Bryce Thach,Temple City,physics,2,0,8
+588,Justin Do,Clovis North High,physics,0,1,-4
+588,Achuth Vinay,Clovis North High,math,1,0,4
+588,Justin Do,Clovis North High,ess,1,0,4
+588,Ethan Deng,Temple City,overall,1,0,4
+588,Ethan Deng,Temple City,physics,0,0,0
+588,Majed Almasri,Clovis North High,physics,0,1,-4
+588,Jason Liu,Temple City,overall,1,0,4
+588,Jason Liu,Temple City,biology,1,0,4
+588,Jason Liu,Temple City,math,0,0,0
+588,Justin Do,Clovis North High,math,0,0,0
+588,Ethan Deng,Temple City,chemistry,0,0,0
+588,Majed Almasri,Clovis North High,ess,0,0,0
+588,Ethan Deng,Temple City,math,1,0,4
+588,Renard Wu,Clovis North High,overall,0,0,0
+588,Renard Wu,Clovis North High,ess,0,0,0
+589,Eric Xie,Blair 2,overall,4,0,16
+589,Eric Xie,Blair 2,math,1,0,4
+589,S I,VMATHs,overall,5,0,20
+589,S I,VMATHs,chemistry,3,0,12
+589,Eric Xie,Blair 2,physics,3,0,12
+589,Meghna Singh,Blair 2,overall,1,1,0
+589,Meghna Singh,Blair 2,biology,0,1,-4
+589,S I,VMATHs,biology,2,0,8
+589,Meghna Singh,Blair 2,ess,1,0,4
+589,Bill Qian,Blair 2,overall,1,1,0
+589,Bill Qian,Blair 2,math,1,1,0
+589,Uddip Kashyap,VMATHs,overall,1,0,4
+589,Uddip Kashyap,VMATHs,biology,1,0,4
+590,Jake Rosenblum,North Hollywood 2,overall,4,1,12
+590,Jake Rosenblum,North Hollywood 2,biology,3,1,8
+590,Patrick Liang,North Hollywood 2,overall,1,0,4
+590,Patrick Liang,North Hollywood 2,math,1,0,4
+590,Abhiraam Girish,MSJ 3,overall,6,0,24
+590,Abhiraam Girish,MSJ 3,chemistry,1,0,4
+590,Kensuke Ohshima,North Hollywood 2,overall,2,1,4
+590,Kensuke Ohshima,North Hollywood 2,ess,1,1,0
+590,Abhiraam Girish,MSJ 3,ess,2,0,8
+590,Abhiraam Girish,MSJ 3,physics,2,0,8
+590,Euna Kim,North Hollywood 2,overall,3,0,12
+590,Euna Kim,North Hollywood 2,math,2,0,8
+590,Jake Rosenblum,North Hollywood 2,chemistry,1,0,4
+590,Euna Kim,North Hollywood 2,physics,1,0,4
+590,Aarush Iyer,MSJ 3,overall,2,1,4
+590,Aarush Iyer,MSJ 3,physics,0,0,0
+590,Aarush Iyer,MSJ 3,biology,1,1,0
+590,Abhiraam Girish,MSJ 3,math,1,0,4
+590,Kensuke Ohshima,North Hollywood 2,chemistry,1,0,4
+590,Aarush Iyer,MSJ 3,chemistry,1,0,4
+590,Kensuke Ohshima,North Hollywood 2,physics,0,0,0
+591,Theenash Sengupta,Mission San Jose 1,overall,6,1,20
+591,Theenash Sengupta,Mission San Jose 1,biology,3,1,8
+591,Advaith Mopuri,Mission San Jose 1,overall,3,1,8
+591,Advaith Mopuri,Mission San Jose 1,math,2,1,4
+591,Harry Gao,Ward Melville 1,overall,3,4,-4
+591,Harry Gao,Ward Melville 1,math,1,3,-8
+591,Theenash Sengupta,Mission San Jose 1,chemistry,3,0,12
+591,Roshan Annamalai,Mission San Jose 1,overall,1,0,4
+591,Roshan Annamalai,Mission San Jose 1,ess,1,0,4
+591,Harry Gao,Ward Melville 1,ess,1,0,4
+591,Rutvik Arora,Mission San Jose 1,overall,3,0,12
+591,Rutvik Arora,Mission San Jose 1,physics,2,0,8
+591,Rutvik Arora,Mission San Jose 1,math,1,0,4
+591,Eric Liu,Ward Melville 1,overall,2,0,8
+591,Eric Liu,Ward Melville 1,chemistry,1,0,4
+591,Harry Gao,Ward Melville 1,physics,1,1,0
+591,Eric Liu,Ward Melville 1,biology,1,0,4
+591,Advaith Mopuri,Mission San Jose 1,physics,1,0,4
+592,Ajay Sawant,The Frazer School 1,overall,4,0,16
+592,Ajay Sawant,The Frazer School 1,biology,3,0,12
+592,Michael Wei,The Frazer School 1,overall,5,0,20
+592,Michael Wei,The Frazer School 1,math,2,0,8
+592,Evan Zhang,Blair 1,overall,3,3,0
+592,Evan Zhang,Blair 1,math,1,3,-8
+592,Kian Dhawan,Blair 1,overall,5,0,20
+592,Kian Dhawan,Blair 1,chemistry,3,0,12
+592,Michael Wei,The Frazer School 1,ess,1,0,4
+592,Evan Zhang,Blair 1,ess,1,0,4
+592,Michael Wei,The Frazer School 1,physics,2,0,8
+592,Sam Easaw,Blair 1,overall,1,0,4
+592,Sam Easaw,Blair 1,chemistry,1,0,4
+592,Ajay Sawant,The Frazer School 1,ess,1,0,4
+592,Kian Dhawan,Blair 1,ess,1,0,4
+592,Evan Zhang,Blair 1,physics,1,0,4
+592,Kian Dhawan,Blair 1,biology,1,0,4
+592,Anish Patel,The Frazer School 1,overall,1,0,4
+592,Anish Patel,The Frazer School 1,physics,1,0,4
+593,Aravind Muralidharan,Mission San Jose 2,overall,0,0,0
+593,Aravind Muralidharan,Mission San Jose 2,biology,0,0,0
+593,Achuth Vinay,Clovis North High,overall,2,0,8
+593,Achuth Vinay,Clovis North High,biology,2,0,8
+593,Ishaan Kabra,Mission San Jose 2,overall,5,1,16
+593,Ishaan Kabra,Mission San Jose 2,math,1,1,0
+593,Lucas Jiang,Mission San Jose 2,overall,3,2,4
+593,Lucas Jiang,Mission San Jose 2,chemistry,2,2,0
+593,Justin Do,Clovis North High,overall,1,0,4
+593,Justin Do,Clovis North High,chemistry,1,0,4
+593,Ishaan Kabra,Mission San Jose 2,ess,2,0,8
+593,Ishaan Kabra,Mission San Jose 2,physics,2,0,8
+593,Achuth Vinay,Clovis North High,math,0,0,0
+593,Renard Wu,Clovis North High,overall,1,0,4
+593,Renard Wu,Clovis North High,ess,1,0,4
+593,Lucas Jiang,Mission San Jose 2,physics,1,0,4
+594,Patrick Liang,North Hollywood 2,overall,2,0,8
+594,Patrick Liang,North Hollywood 2,math,2,0,8
+594,Euna Kim,North Hollywood 2,overall,2,0,8
+594,Euna Kim,North Hollywood 2,chemistry,1,0,4
+594,S I,VMATHs,overall,4,0,16
+594,S I,VMATHs,physics,1,0,4
+594,Jake Rosenblum,North Hollywood 2,overall,1,0,4
+594,Jake Rosenblum,North Hollywood 2,biology,1,0,4
+594,Uddip Kashyap,VMATHs,overall,1,2,-4
+594,Uddip Kashyap,VMATHs,biology,1,2,-4
+594,Varun Gadi,VMATHs,overall,2,0,8
+594,Varun Gadi,VMATHs,math,2,0,8
+594,S I,VMATHs,chemistry,3,0,12
+594,Kensuke Ohshima,North Hollywood 2,overall,2,0,8
+594,Kensuke Ohshima,North Hollywood 2,ess,2,0,8
+594,Euna Kim,North Hollywood 2,physics,1,0,4
+595,Yajur Chandar,Davidson Academy,overall,3,0,12
+595,Yajur Chandar,Davidson Academy,biology,1,0,4
+595,Lucas Wu,Davidson Academy,overall,5,0,20
+595,Lucas Wu,Davidson Academy,math,1,0,4
+595,Gabe Levin,Hunter College 1,overall,2,1,4
+595,Gabe Levin,Hunter College 1,math,2,0,8
+595,Yajur Chandar,Davidson Academy,chemistry,2,0,8
+595,Lucas Wu,Davidson Academy,ess,0,0,0
+595,Camille Pimentel,Hunter College 1,overall,2,1,4
+595,Camille Pimentel,Hunter College 1,ess,2,1,4
+595,Lucas Wu,Davidson Academy,physics,3,0,12
+595,Shayan Sattarvand,Davidson Academy,overall,1,0,4
+595,Shayan Sattarvand,Davidson Academy,biology,1,0,4
+595,Lucas Wu,Davidson Academy,chemistry,1,0,4
+595,Ethan Chan,Davidson Academy,overall,0,0,0
+595,Ethan Chan,Davidson Academy,ess,0,0,0
+595,Ethan Chan,Davidson Academy,physics,0,0,0
+595,Gabe Levin,Hunter College 1,physics,0,0,0
+595,Gabe Levin,Hunter College 1,biology,0,0,0
+595,Gabe Levin,Hunter College 1,chemistry,0,1,-4
+595,Camille Pimentel,Hunter College 1,biology,0,0,0
+595,Shayan Sattarvand,Davidson Academy,math,0,0,0
+596,Arman A,Ladue,overall,2,0,8
+596,Arman A,Ladue,biology,2,0,8
+596,Heidi Leonard,James Clemens,overall,1,0,4
+596,Heidi Leonard,James Clemens,biology,1,0,4
+596,Praneel Avula,James Clemens,overall,6,1,20
+596,Praneel Avula,James Clemens,math,1,0,4
+596,Tianhan Huang,Ladue,overall,0,0,0
+596,Tianhan Huang,Ladue,chemistry,0,0,0
+596,Praneel Avula,James Clemens,chemistry,3,1,8
+596,Joel Yang,James Clemens,overall,3,0,12
+596,Joel Yang,James Clemens,ess,3,0,12
+596,Aaron Lin,Ladue,overall,5,1,16
+596,Aaron Lin,Ladue,physics,2,1,4
+596,Praneel Avula,James Clemens,physics,1,0,4
+596,Aaron Lin,Ladue,math,3,0,12
+596,Praneel Avula,James Clemens,ess,1,0,4
+597,suzuko ohshima,North Hollywood 1,overall,8,1,28
+597,suzuko ohshima,North Hollywood 1,biology,3,0,12
+597,suzuko ohshima,North Hollywood 1,math,1,0,4
+597,Akhil Batchu,ASFA 1,overall,5,2,12
+597,Akhil Batchu,ASFA 1,chemistry,3,0,12
+597,suzuko ohshima,North Hollywood 1,ess,3,0,12
+597,Akhil Batchu,ASFA 1,ess,0,1,-4
+597,Akhil Batchu,ASFA 1,physics,2,0,8
+597,Charles Huang,North Hollywood 1,overall,0,1,-4
+597,Charles Huang,North Hollywood 1,math,0,0,0
+597,Advik Sharma,ASFA 1,overall,1,0,4
+597,Advik Sharma,ASFA 1,math,1,0,4
+597,Charles Huang,North Hollywood 1,chemistry,0,0,0
+597,Charles Huang,North Hollywood 1,physics,0,1,-4
+597,Skyler Brown,ASFA 1,overall,0,0,0
+597,Skyler Brown,ASFA 1,physics,0,0,0
+597,Akhil Batchu,ASFA 1,biology,0,1,-4
+597,suzuko ohshima,North Hollywood 1,chemistry,0,1,-4
+597,Angelina Yan,North Hollywood 1,overall,1,0,4
+597,Angelina Yan,North Hollywood 1,biology,1,0,4
+597,suzuko ohshima,North Hollywood 1,physics,1,0,4
+598,Vishnu Mangipudi,Lakeside 1,overall,9,0,36
+598,Vishnu Mangipudi,Lakeside 1,biology,1,0,4
+598,James Yang,Lakeside 1,overall,1,0,4
+598,James Yang,Lakeside 1,math,1,0,4
+598,Liran Zhu,Throrthwood Tottenham,overall,2,1,4
+598,Liran Zhu,Throrthwood Tottenham,chemistry,2,1,4
+598,William Wang,Lakeside 1,overall,2,1,4
+598,William Wang,Lakeside 1,chemistry,2,1,4
+598,Vishnu Mangipudi,Lakeside 1,ess,4,0,16
+598,Gordon Wong,Throrthwood Tottenham,overall,3,0,12
+598,Gordon Wong,Throrthwood Tottenham,physics,2,0,8
+598,Ferris Li,Throrthwood Tottenham,overall,2,1,4
+598,Ferris Li,Throrthwood Tottenham,biology,2,1,4
+598,Gordon Wong,Throrthwood Tottenham,math,1,0,4
+598,Vishnu Mangipudi,Lakeside 1,physics,2,0,8
+598,Vishnu Mangipudi,Lakeside 1,math,2,0,8
+599,Yajur Chandar,Davidson Academy,overall,2,0,8
+599,Yajur Chandar,Davidson Academy,biology,2,0,8
+599,Lucas Wu,Davidson Academy,overall,2,1,4
+599,Lucas Wu,Davidson Academy,math,0,0,0
+599,Aaron Lin,Ladue,overall,2,0,8
+599,Aaron Lin,Ladue,math,1,0,4
+599,Shayan Sattarvand,Davidson Academy,overall,0,1,-4
+599,Shayan Sattarvand,Davidson Academy,chemistry,0,1,-4
+599,Tianhan Huang,Ladue,overall,0,0,0
+599,Tianhan Huang,Ladue,chemistry,0,0,0
+599,Ayden Huang,Ladue,overall,1,0,4
+599,Ayden Huang,Ladue,ess,1,0,4
+599,Lucas Wu,Davidson Academy,physics,1,1,0
+599,Aaron Lin,Ladue,physics,1,0,4
+599,Ethan Chan,Davidson Academy,overall,1,0,4
+599,Ethan Chan,Davidson Academy,math,1,0,4
+599,Lucas Wu,Davidson Academy,chemistry,0,0,0
+599,Lucas Wu,Davidson Academy,ess,1,0,4
+600,suzuko ohshima,North Hollywood 1,overall,6,0,24
+600,suzuko ohshima,North Hollywood 1,biology,4,0,16
+600,Vishnu Mangipudi,Lakeside 1,overall,7,1,24
+600,Vishnu Mangipudi,Lakeside 1,math,3,0,12
+600,Vishnu Mangipudi,Lakeside 1,chemistry,2,1,4
+600,suzuko ohshima,North Hollywood 1,ess,1,0,4
+600,Vishnu Mangipudi,Lakeside 1,ess,1,0,4
+600,suzuko ohshima,North Hollywood 1,physics,1,0,4
+600,suzuko ohshima,North Hollywood 1,math,0,0,0
+600,William Wang,Lakeside 1,overall,1,0,4
+600,William Wang,Lakeside 1,chemistry,1,0,4
+600,Charles Huang,North Hollywood 1,overall,4,0,16
+600,Charles Huang,North Hollywood 1,physics,2,0,8
+600,Charles Huang,North Hollywood 1,chemistry,1,0,4
+600,Charles Huang,North Hollywood 1,math,1,0,4
+600,Vishnu Mangipudi,Lakeside 1,physics,1,0,4
+601,Aravind Muralidharan,Mission San Jose 2,overall,1,0,4
+601,Aravind Muralidharan,Mission San Jose 2,biology,1,0,4
+601,S I,VMATHs,overall,1,0,4
+601,S I,VMATHs,biology,0,0,0
+601,Ishaan Kabra,Mission San Jose 2,overall,6,0,24
+601,Ishaan Kabra,Mission San Jose 2,math,2,0,8
+601,Lucas Jiang,Mission San Jose 2,overall,2,0,8
+601,Lucas Jiang,Mission San Jose 2,chemistry,2,0,8
+601,Ishaan Kabra,Mission San Jose 2,ess,1,0,4
+601,S I,VMATHs,ess,0,0,0
+601,Ishaan Kabra,Mission San Jose 2,physics,3,0,12
+601,Varun Gadi,VMATHs,overall,1,0,4
+601,Varun Gadi,VMATHs,math,1,0,4
+601,S I,VMATHs,chemistry,1,0,4
+601,Uddip Kashyap,VMATHs,overall,0,2,-8
+601,Uddip Kashyap,VMATHs,ess,0,1,-4
+601,S I,VMATHs,physics,0,0,0
+601,Uddip Kashyap,VMATHs,biology,0,1,-4
+602,Ajay Sawant,The Frazer School 1,overall,1,0,4
+602,Ajay Sawant,The Frazer School 1,biology,1,0,4
+603,Eric Liu,Ward Melville 1,overall,2,2,0
+603,Eric Liu,Ward Melville 1,biology,1,2,-4
+603,suzuko ohshima,North Hollywood 1,overall,4,0,16
+603,suzuko ohshima,North Hollywood 1,biology,1,0,4
+603,Harry Gao,Ward Melville 1,overall,4,0,16
+603,Harry Gao,Ward Melville 1,math,2,0,8
+603,Eric Liu,Ward Melville 1,chemistry,1,0,4
+603,suzuko ohshima,North Hollywood 1,ess,2,0,8
+603,Harry Gao,Ward Melville 1,physics,1,0,4
+603,Charles Huang,North Hollywood 1,overall,0,0,0
+603,Charles Huang,North Hollywood 1,physics,0,0,0
+603,Angelina Yan,North Hollywood 1,overall,1,0,4
+603,Angelina Yan,North Hollywood 1,biology,1,0,4
+603,suzuko ohshima,North Hollywood 1,math,0,0,0
+603,suzuko ohshima,North Hollywood 1,chemistry,0,0,0
+603,Harry Gao,Ward Melville 1,ess,1,0,4
+603,suzuko ohshima,North Hollywood 1,physics,1,0,4
+604,Kian Dhawan,Blair 1,overall,4,0,16
+604,Kian Dhawan,Blair 1,biology,3,0,12
+604,Lucas Wu,Davidson Academy,overall,3,0,12
+604,Lucas Wu,Davidson Academy,math,1,0,4
+604,Sam Easaw,Blair 1,overall,0,1,-4
+604,Sam Easaw,Blair 1,chemistry,0,1,-4
+604,Lucas Wu,Davidson Academy,chemistry,0,0,0
+604,Evan Zhang,Blair 1,overall,4,1,12
+604,Evan Zhang,Blair 1,ess,1,1,0
+604,Lucas Wu,Davidson Academy,ess,1,0,4
+604,Kian Dhawan,Blair 1,physics,1,0,4
+604,Yajur Chandar,Davidson Academy,overall,1,0,4
+604,Yajur Chandar,Davidson Academy,biology,1,0,4
+604,Kian Dhawan,Blair 1,math,0,0,0
+604,Kian Dhawan,Blair 1,chemistry,0,0,0
+604,Evan Zhang,Blair 1,physics,2,0,8
+604,Shayan Sattarvand,Davidson Academy,overall,1,1,0
+604,Shayan Sattarvand,Davidson Academy,physics,0,1,-4
+604,Shayan Sattarvand,Davidson Academy,chemistry,1,0,4
+604,Evan Zhang,Blair 1,math,1,0,4
+604,Ethan Chan,Davidson Academy,overall,0,1,-4
+604,Ethan Chan,Davidson Academy,math,0,1,-4
+604,Yajur Chandar,Davidson Academy,chemistry,0,0,0
+604,Kian Dhawan,Blair 1,ess,0,0,0
+604,Lucas Wu,Davidson Academy,physics,1,0,4
+605,Eric Liu,Ward Melville 1,overall,1,0,4
+605,Eric Liu,Ward Melville 1,biology,1,0,4
+605,Harry Gao,Ward Melville 1,overall,3,1,8
+605,Harry Gao,Ward Melville 1,math,2,1,4
+605,Evan Zhang,Blair 1,overall,1,1,0
+605,Evan Zhang,Blair 1,math,0,1,-4
+605,Eric Liu,Ward Melville 1,chemistry,0,0,0
+605,Kian Dhawan,Blair 1,overall,4,0,16
+605,Kian Dhawan,Blair 1,chemistry,2,0,8
+605,Harry Gao,Ward Melville 1,ess,0,0,0
+605,Evan Zhang,Blair 1,ess,0,0,0
+605,Harry Gao,Ward Melville 1,physics,1,0,4
+605,Kian Dhawan,Blair 1,biology,1,0,4
+605,Sam Easaw,Blair 1,overall,0,0,0
+605,Sam Easaw,Blair 1,math,0,0,0
+605,Kian Dhawan,Blair 1,ess,0,0,0
+605,Evan Zhang,Blair 1,physics,1,0,4
+605,Sam Easaw,Blair 1,chemistry,0,0,0
+605,Kian Dhawan,Blair 1,physics,1,0,4
+606,Kian Dhawan,Blair 1,overall,5,0,20
+606,Kian Dhawan,Blair 1,biology,2,0,8
+606,Advaith Mopuri,Mission San Jose 1,overall,0,0,0
+606,Advaith Mopuri,Mission San Jose 1,math,0,0,0
+606,Kian Dhawan,Blair 1,math,0,0,0
+606,Kian Dhawan,Blair 1,chemistry,2,0,8
+606,Roshan Annamalai,Mission San Jose 1,overall,3,2,4
+606,Roshan Annamalai,Mission San Jose 1,physics,1,2,-4
+606,Theenash Sengupta,Mission San Jose 1,overall,1,2,-4
+606,Theenash Sengupta,Mission San Jose 1,biology,0,2,-8
+606,Evan Zhang,Blair 1,overall,2,0,8
+606,Evan Zhang,Blair 1,math,2,0,8
+606,Sam Easaw,Blair 1,overall,1,0,4
+606,Sam Easaw,Blair 1,math,1,0,4
+606,Roshan Annamalai,Mission San Jose 1,ess,2,0,8
+606,Theenash Sengupta,Mission San Jose 1,chemistry,1,0,4
+606,Kian Dhawan,Blair 1,physics,1,0,4
+607,Michael Wei,The Frazer School 1,overall,1,0,4
+607,Michael Wei,The Frazer School 1,biology,1,0,4

@@ -18,7 +18,8 @@ sources:
   sheet_id: 14TcbTxejXf384Dj0ztGsiRg0poi3KRUi_R8WV53lymc
   url: https://docs.google.com/spreadsheets/d/14TcbTxejXf384Dj0ztGsiRg0poi3KRUi_R8WV53lymc/edit#gid=0
   file: results.xlsx
-parser: null
+parser: g3_online:parse_sbst2020
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: All 30 games of the 16-team double elimination bracket with scores (seed prefixes stripped; Lexington won final game
+  1 so no game 2). The sheet has no player statistics.

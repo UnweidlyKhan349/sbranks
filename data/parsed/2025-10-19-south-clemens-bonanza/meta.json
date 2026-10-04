@@ -1,0 +1,33 @@
+{
+  "tournament_id": "2025-10-19-south-clemens-bonanza",
+  "counts": {
+    "teams": 29,
+    "games": 92,
+    "games_with_scores": 91,
+    "player_stat_rows": 804,
+    "players": 134,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "stats: no team for 'bggxz0h6p7'; skipped",
+    "stats: no team for 'qugxu8lsjr'; skipped",
+    "stats: no team for '6igxxtyhe2'; skipped",
+    "stats: no team for 'zpgxwk8fd5'; skipped",
+    "stats: no team for 'v1gxveemim'; skipped",
+    "stats: no team for 'q0gxu70kdl'; skipped",
+    "stats: no team for 'spec'; skipped",
+    "stats: no team for 'joel TD spec'; skipped",
+    "stats: no team for 'a6 aqil t'; skipped"
+  ],
+  "parser": "g7_icsbt:parse"
+}

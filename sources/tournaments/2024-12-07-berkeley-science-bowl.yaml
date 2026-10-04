@@ -18,7 +18,12 @@ sources:
   sheet_id: 1qL6fd2shtFLLOaxaA-RXu6CO3ar9Oe1h-ef_6XihTWs
   url: https://docs.google.com/spreadsheets/d/1qL6fd2shtFLLOaxaA-RXu6CO3ar9Oe1h-ef_6XihTWs/edit?gid=1885827931#gid=1885827931
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g5_berkeley_rr:parse
+parser_options:
+  de_scorer_check: true
+status: parsed
+notes: '151 games: 120 RR (8 divisions; opponents rebuilt by pairing mirrored This/Opp scores within division and round, all
+  matching Morning RR) and the 31-game DE bracket (checked against the DE scorer). Team subject tossups/bonuses/negs per RR
+  game from ''Round Robin Results'' (2 games lack a breakdown). Player stats are only Berkeley ''stat scores'' (TU + 0.5*bonus
+  style), which cannot be converted to correct/negs, so only rosters (check-in tab, with school names) are kept; the scoring
+  backend with per-game sheets is private.'

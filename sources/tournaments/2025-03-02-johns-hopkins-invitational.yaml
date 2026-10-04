@@ -25,5 +25,7 @@ sources:
   file: stats.xlsx
 parser: g5_jhu:parse
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: '91 games: 60 RR (4 pools, rounds from the pairings tab) and the 31-game DE bracket incl. both finals; team names are
+  the full names from the Field tab (bracket/scoresheet short names mapped by code). RR totals match the ''Team Scores'' tab.
+  The stats workbook only has team subject PPG (RR and DE), which the schema cannot hold; no player stats were published.'

@@ -1,0 +1,72 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Catherine D,Caroline H,28,28,T,0,group Albite
+g2,rr,RR2,2,Catherine D,Mihin B,10,68,2,0,group Albite
+g3,rr,RR3,3,Catherine D,Timothy Y,28,34,2,0,group Albite
+g4,rr,RR4,4,Catherine D,Mila H,36,26,1,0,group Albite
+g5,rr,RR5,5,Catherine D,Maneesh G,62,12,1,0,group Albite
+g6,rr,RR6,6,Catherine D,Jabez Z,26,38,2,0,group Albite
+g7,rr,RR7,7,Catherine D,Jack W,28,34,2,0,group Albite
+g8,rr,RR3,3,Caroline H,Mihin B,8,78,2,0,group Albite
+g9,rr,RR4,4,Caroline H,Timothy Y,8,52,2,0,group Albite
+g10,rr,RR5,5,Caroline H,Mila H,34,34,T,0,group Albite
+g11,rr,RR6,6,Caroline H,Maneesh G,18,42,2,0,group Albite
+g12,rr,RR7,7,Caroline H,Jabez Z,22,34,2,0,group Albite
+g13,rr,RR2,2,Caroline H,Jack W,18,46,2,0,group Albite
+g14,rr,RR5,5,Mihin B,Timothy Y,60,24,1,0,group Albite
+g15,rr,RR6,6,Mihin B,Mila H,86,-4,1,0,group Albite
+g16,rr,RR7,7,Mihin B,Maneesh G,56,4,1,0,group Albite
+g17,rr,RR1,1,Mihin B,Jabez Z,66,8,1,0,group Albite
+g18,rr,RR4,4,Mihin B,Jack W,48,48,T,0,group Albite
+g19,rr,RR7,7,Timothy Y,Mila H,8,30,2,0,group Albite
+g20,rr,RR1,1,Timothy Y,Maneesh G,50,14,1,0,group Albite
+g21,rr,RR2,2,Timothy Y,Jabez Z,52,30,1,0,group Albite
+g22,rr,RR6,6,Timothy Y,Jack W,26,46,2,0,group Albite
+g23,rr,RR2,2,Mila H,Maneesh G,50,38,1,0,group Albite
+g24,rr,RR3,3,Mila H,Jabez Z,48,38,1,0,group Albite
+g25,rr,RR1,1,Mila H,Jack W,20,40,2,0,group Albite
+g26,rr,RR4,4,Maneesh G,Jabez Z,12,52,2,0,group Albite
+g27,rr,RR3,3,Maneesh G,Jack W,8,72,2,0,group Albite
+g28,rr,RR5,5,Jabez Z,Jack W,12,56,2,0,group Albite
+g29,rr,RR1,1,Chris W,Sarabhesh S,-2,32,2,0,group Anorthite
+g30,rr,RR2,2,Chris W,Shannon I,0,62,2,0,group Anorthite
+g31,rr,RR3,3,Chris W,Monish S,24,40,2,0,group Anorthite
+g32,rr,RR4,4,Chris W,Achuth V,2,18,2,0,group Anorthite
+g33,rr,RR5,5,Chris W,Dennis J,40,44,2,0,group Anorthite
+g34,rr,RR6,6,Chris W,Nathaniel O,34,36,2,0,group Anorthite
+g35,rr,RR7,7,Chris W,Sriman D,22,30,2,0,group Anorthite
+g36,rr,RR3,3,Sarabhesh S,Shannon I,6,54,2,0,group Anorthite
+g37,rr,RR4,4,Sarabhesh S,Monish S,24,8,1,0,group Anorthite
+g38,rr,RR5,5,Sarabhesh S,Achuth V,14,48,2,0,group Anorthite
+g39,rr,RR6,6,Sarabhesh S,Dennis J,18,72,2,0,group Anorthite
+g40,rr,RR7,7,Sarabhesh S,Nathaniel O,32,42,2,0,group Anorthite
+g41,rr,RR2,2,Sarabhesh S,Sriman D,16,64,2,0,group Anorthite
+g42,rr,RR5,5,Shannon I,Monish S,30,46,2,0,group Anorthite
+g43,rr,RR6,6,Shannon I,Achuth V,46,42,1,0,group Anorthite
+g44,rr,RR7,7,Shannon I,Dennis J,44,26,1,0,group Anorthite
+g45,rr,RR1,1,Shannon I,Nathaniel O,46,20,1,0,group Anorthite
+g46,rr,RR4,4,Shannon I,Sriman D,58,4,1,0,group Anorthite
+g47,rr,RR7,7,Monish S,Achuth V,0,16,2,0,group Anorthite
+g48,rr,RR1,1,Monish S,Dennis J,6,36,2,0,group Anorthite
+g49,rr,RR2,2,Monish S,Nathaniel O,12,58,2,0,group Anorthite
+g50,rr,RR6,6,Monish S,Sriman D,8,32,2,0,group Anorthite
+g51,rr,RR2,2,Achuth V,Dennis J,44,30,1,0,group Anorthite
+g52,rr,RR3,3,Achuth V,Nathaniel O,56,18,1,0,group Anorthite
+g53,rr,RR1,1,Achuth V,Sriman D,20,8,1,0,group Anorthite
+g54,rr,RR4,4,Dennis J,Nathaniel O,30,28,1,0,group Anorthite
+g55,rr,RR3,3,Dennis J,Sriman D,32,48,2,0,group Anorthite
+g56,rr,RR5,5,Nathaniel O,Sriman D,50,24,1,0,group Anorthite
+g57,playoff,SE 1,8,Mihin B,Chris W,0,4,2,1,game 1; 0-4: treated as forfeit
+g58,playoff,SE 1,8,Mila H,Jabez Z,4,0,1,1,game 2; 4-0: treated as forfeit
+g59,playoff,SE 1,8,Timothy Y,Sarabhesh S,56,50,1,0,game 3
+g60,playoff,SE 1,8,Achuth V,Caroline H,54,0,1,0,game 4
+g61,playoff,SE 1,8,Dennis J,Catherine D,124,22,1,0,game 5
+g62,playoff,SE 1,8,Jack W,Monish S,52,56,2,0,game 6
+g63,playoff,SE 1,8,Nathaniel O,Sriman D,0,82,2,0,game 7
+g64,playoff,SE 1,8,Shannon I,Maneesh G,124,14,1,0,game 8
+g65,playoff,SE 2,9,Chris W,Mila H,66,6,1,0,game 9
+g66,playoff,SE 2,9,Timothy Y,Achuth V,6,84,2,0,game 10
+g67,playoff,SE 2,9,Dennis J,Monish S,48,46,1,0,game 11
+g68,playoff,SE 2,9,Sriman D,Shannon I,2,78,2,0,game 12
+g69,playoff,SE 3,10,Chris W,Achuth V,18,32,2,0,game 13
+g70,playoff,SE 3,10,Dennis J,Shannon I,62,62,T,0,game 14; Shannon I won the tiebreaker
+g71,playoff,SE 4,11,Achuth V,Shannon I,12,38,2,0,game 15

@@ -18,7 +18,30 @@ sources:
   sheet_id: 1oBGDkJriGyXwSg863lEaHKiunNKx1_BM_Yene7cWhec
   url: https://docs.google.com/spreadsheets/d/1oBGDkJriGyXwSg863lEaHKiunNKx1_BM_Yene7cWhec/edit?gid=576804788#gid=576804788
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mosfet:parse_stages
+parser_options:
+  stage_tabs:
+  - RR Stage 1 Groups
+  - RR Stage 2 Groups
+  aliases:
+    Granda hills B: Granada Hills B
+    Granada hills B: Granada Hills B
+    Whitney young B: Whitney Young B
+    Naperville North: Naperville North A
+  bracket:
+    tab: Playoff Bracket
+    anchor: ^(Rm|Room) \d+$
+    pcols:
+    - 0
+    - 1
+    score: right
+    winner: later
+    header_row: 0
+    skip:
+    - Champion
+    - Place Winner
+    seq_base: 6
+status: parsed
+notes: Results only. Two RR stages of 4-team score matrices (rounds from the pairing tables) plus a single-elimination playoff
+  with a play-in, all scored except the California A vs Granada Hills B play-in (the winner is taken from bracket advancement).
+  Naperville North B dropped before stage 2, so its unplayed games are skipped.

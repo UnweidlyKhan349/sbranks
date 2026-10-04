@@ -99,13 +99,23 @@ def choose_rows(res: dict[str, Any]) -> dict[tuple[str, str, str], dict[str, Any
     return out
 
 
-def enrich_rows(rows: dict[tuple[str, str, str], dict[str, Any]], res: dict[str, Any]) -> None:
-    """Fill estimated gp / points / tuh (est_* fields) used only for weighting the model."""
-    team_games: dict[tuple[str, str], int] = defaultdict(int)
+def enrich_rows(rows: dict[tuple[str, str, str], dict[str, Any]], res: dict[str, Any],
+                tourns: dict[str, registry.Tournament]) -> None:
+    """Fill estimated gp / points / tuh (est_* fields) used for weighting the model and display.
+
+    * gp: the player's games, else the team's games in the row's scope (rr / playoff / all).
+    * points: tossup points, else ppg * gp. Tournaments whose YAML sets
+      ``stats_rate_basis: {overall: 20, subject: 4}`` report ppg as points per N tossups heard;
+      those rates are converted with the estimated tossups heard instead.
+    * tuh: tossups heard, else gp * (median tossups heard per game for that tournament/subject).
+    """
+    team_games: dict[tuple[str, str, str], int] = defaultdict(int)
     for g in res["games"]:
         if not g["forfeit"]:
-            team_games[(g["tournament_id"], g["team1"])] += 1
-            team_games[(g["tournament_id"], g["team2"])] += 1
+            scope = "rr" if g["stage"] == "rr" else "playoff"
+            for t in (g["team1"], g["team2"]):
+                team_games[(g["tournament_id"], t, scope)] += 1
+                team_games[(g["tournament_id"], t, "all")] += 1
     ratio: dict[tuple[str, str], list[float]] = defaultdict(list)
     gratio: dict[str, list[float]] = defaultdict(list)
     gps: dict[str, list[float]] = defaultdict(list)
@@ -117,15 +127,23 @@ def enrich_rows(rows: dict[tuple[str, str, str], dict[str, Any]], res: dict[str,
                 gratio[subj].append(r["tuh"] / r["gp"])
     gdef = {s: statistics.median(v) for s, v in gratio.items() if v}
     for (tid, pid, subj), r in rows.items():
-        gp = r["gp"] or team_games.get((tid, r["team_id"])) or (statistics.median(gps[tid]) if gps[tid] else None)
-        pts = r["points"]
-        if pts is None and r["ppg"] is not None and gp:
-            pts = r["ppg"] * gp
+        gp = r["gp"] or team_games.get((tid, r["team_id"], r["scope"])) or team_games.get((tid, r["team_id"], "all")) \
+            or (statistics.median(gps[tid]) if gps[tid] else None)
         tuh = r["tuh"]
         if not tuh and gp:
             per = ratio.get((tid, subj))
             rate = statistics.median(per) if per else gdef.get(subj, DEFAULT_TUH_PER_GAME if subj == "overall" else DEFAULT_TUH_PER_GAME / 6)
             tuh = gp * rate
+        pts = r["points"]
+        basis = tourns[tid].get("stats_rate_basis")
+        if pts is None and r["ppg"] is not None:
+            if basis and tuh:
+                per_n = basis.get("overall" if subj == "overall" else "subject")
+                if per_n:
+                    pts = r["ppg"] / per_n * tuh
+                    r["ppg"] = None  # it was a rate, not points per game
+            elif gp:
+                pts = r["ppg"] * gp
         r["est_gp"], r["est_points"], r["est_tuh"] = gp, pts, tuh
 
 
@@ -152,7 +170,7 @@ def main(argv: list[str] | None = None) -> int:
     res = resolve.build()
     print(f"resolved: {len(res['schools'])} schools, {len(res['teams'])} teams, {len(res['players'])} players, "
           f"{len(res['games'])} games", flush=True)
-    tourns = {t.id: t for t in registry.all_tournaments() if t.id in {e["tournament_id"] for e in res["entries"]}}
+    tourns = {t.id: t for t in registry.all_tournaments() if t.id in set(res["tournament_ids"])}
     team_meta = {tid: {"school_id": t["school_id"], "letter": t["letter"], "composite": t["composite"]}
                  for tid, t in res["teams"].items()}
     gparams, mparams = load_params()
@@ -177,7 +195,7 @@ def main(argv: list[str] | None = None) -> int:
 
     # ---- stats-model ratings
     rows = choose_rows(res)
-    enrich_rows(rows, res)
+    enrich_rows(rows, res, tourns)
     tlist = [{"id": tid, "end_day": statsmodel.day(t.end_date), "field_strength": strength.get(tid)}
              for tid, t in tourns.items()]
     snapshot_days = sorted({x["end_day"] for x in tlist})
@@ -194,7 +212,7 @@ def main(argv: list[str] | None = None) -> int:
             if so and subj == "overall":
                 continue  # single-subject events say nothing about overall strength
             prow.append({"entity": pid, "tournament_id": tid, "y": r["est_points"] / r["est_tuh"], "w": r["est_tuh"]})
-            if subj != "overall":
+            if subj != "overall" and r["team_id"]:
                 tr = trow[(tid, r["team_id"])]
                 tr["points"] += r["est_points"]
                 tr["tuh"] = max(tr["tuh"], r["est_tuh"])

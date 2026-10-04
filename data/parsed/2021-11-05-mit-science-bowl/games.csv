@@ -1,0 +1,139 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1,rr,,1,Buchholz 1,Tesla STEM 1,,,1,0,ARTIN DIVISION
+rr2,rr,,1,Buchholz 1,Catlin Gabel,,,1,0,ARTIN DIVISION
+rr3,rr,,1,Buchholz 1,Montgomery Blair High School,,,2,0,ARTIN DIVISION
+rr4,rr,,1,Buchholz 1,Middleton,,,2,0,ARTIN DIVISION
+rr5,rr,,1,Buchholz 1,Lexington High School 1,,,1,0,ARTIN DIVISION
+rr6,rr,,1,Tesla STEM 1,Catlin Gabel,,,1,0,ARTIN DIVISION
+rr7,rr,,1,Tesla STEM 1,Montgomery Blair High School,,,1,0,ARTIN DIVISION
+rr8,rr,,1,Tesla STEM 1,Middleton,,,2,0,ARTIN DIVISION
+rr9,rr,,1,Tesla STEM 1,Lexington High School 1,,,1,0,ARTIN DIVISION
+rr10,rr,,1,Catlin Gabel,Montgomery Blair High School,,,2,0,ARTIN DIVISION
+rr11,rr,,1,Catlin Gabel,Middleton,,,T,0,ARTIN DIVISION
+rr12,rr,,1,Catlin Gabel,Lexington High School 1,,,1,0,ARTIN DIVISION
+rr13,rr,,1,Montgomery Blair High School,Middleton,,,T,0,ARTIN DIVISION
+rr14,rr,,1,Montgomery Blair High School,Lexington High School 1,,,2,0,ARTIN DIVISION
+rr15,rr,,1,Middleton,Lexington High School 1,,,2,0,ARTIN DIVISION
+rr16,rr,,1,Nashua High School South 2,Davidson Academy,,,2,0,CHOMSKY DIVISION
+rr17,rr,,1,Nashua High School South 2,Tesla STEM 2,,,2,0,CHOMSKY DIVISION
+rr18,rr,,1,Nashua High School South 2,Mira Loma,,,2,0,CHOMSKY DIVISION
+rr19,rr,,1,Nashua High School South 2,Westminster,,,2,0,CHOMSKY DIVISION
+rr20,rr,,1,Nashua High School South 2,BASIS Peoria,,,2,0,CHOMSKY DIVISION
+rr21,rr,,1,Davidson Academy,Tesla STEM 2,,,1,0,CHOMSKY DIVISION
+rr22,rr,,1,Davidson Academy,Mira Loma,,,1,0,CHOMSKY DIVISION
+rr23,rr,,1,Davidson Academy,Westminster,,,2,0,CHOMSKY DIVISION
+rr24,rr,,1,Davidson Academy,BASIS Peoria,,,2,0,CHOMSKY DIVISION
+rr25,rr,,1,Tesla STEM 2,Mira Loma,,,2,0,CHOMSKY DIVISION
+rr26,rr,,1,Tesla STEM 2,Westminster,,,2,0,CHOMSKY DIVISION
+rr27,rr,,1,Tesla STEM 2,BASIS Peoria,,,2,0,CHOMSKY DIVISION
+rr28,rr,,1,Mira Loma,Westminster,,,1,0,CHOMSKY DIVISION
+rr29,rr,,1,Mira Loma,BASIS Peoria,,,1,0,CHOMSKY DIVISION
+rr30,rr,,1,Westminster,BASIS Peoria,,,2,0,CHOMSKY DIVISION
+rr31,rr,,1,Basis Independent Silicon Valley,Newtown High School,,,1,0,DUFLO DIVISION
+rr32,rr,,1,Basis Independent Silicon Valley,Whitney High School,,,1,0,DUFLO DIVISION
+rr33,rr,,1,Basis Independent Silicon Valley,Ames,,,1,0,DUFLO DIVISION
+rr34,rr,,1,Basis Independent Silicon Valley,Sacramento Country Day School,,,1,0,DUFLO DIVISION
+rr35,rr,,1,Basis Independent Silicon Valley,Dulles,,,2,0,DUFLO DIVISION
+rr36,rr,,1,Newtown High School,Whitney High School,,,2,0,DUFLO DIVISION
+rr37,rr,,1,Newtown High School,Ames,,,2,0,DUFLO DIVISION
+rr38,rr,,1,Newtown High School,Sacramento Country Day School,,,2,0,DUFLO DIVISION
+rr39,rr,,1,Newtown High School,Dulles,,,2,0,DUFLO DIVISION
+rr40,rr,,1,Whitney High School,Ames,,,2,0,DUFLO DIVISION
+rr41,rr,,1,Whitney High School,Sacramento Country Day School,,,2,0,DUFLO DIVISION
+rr42,rr,,1,Whitney High School,Dulles,,,2,0,DUFLO DIVISION
+rr43,rr,,1,Ames,Sacramento Country Day School,,,1,0,DUFLO DIVISION
+rr44,rr,,1,Ames,Dulles,,,1,0,DUFLO DIVISION
+rr45,rr,,1,Sacramento Country Day School,Dulles,,,2,0,DUFLO DIVISION
+rr46,rr,,1,North Hollywood 2,Van Nuys,,,1,0,KETTERLE DIVISION
+rr47,rr,,1,North Hollywood 2,Wayzata High School,,,2,0,KETTERLE DIVISION
+rr48,rr,,1,North Hollywood 2,Centennial High School,,,2,0,KETTERLE DIVISION
+rr49,rr,,1,North Hollywood 2,Palo Alto High School,,,1,0,KETTERLE DIVISION
+rr50,rr,,1,North Hollywood 2,University High School,,,2,0,KETTERLE DIVISION
+rr51,rr,,1,Van Nuys,Wayzata High School,,,2,0,KETTERLE DIVISION
+rr52,rr,,1,Van Nuys,Centennial High School,,,2,0,KETTERLE DIVISION
+rr53,rr,,1,Van Nuys,Palo Alto High School,,,2,0,KETTERLE DIVISION
+rr54,rr,,1,Van Nuys,University High School,,,2,0,KETTERLE DIVISION
+rr55,rr,,1,Wayzata High School,Centennial High School,,,2,0,KETTERLE DIVISION
+rr56,rr,,1,Wayzata High School,Palo Alto High School,,,1,0,KETTERLE DIVISION
+rr57,rr,,1,Wayzata High School,University High School,,,2,0,KETTERLE DIVISION
+rr58,rr,,1,Centennial High School,Palo Alto High School,,,1,0,KETTERLE DIVISION
+rr59,rr,,1,Centennial High School,University High School,,,1,0,KETTERLE DIVISION
+rr60,rr,,1,Palo Alto High School,University High School,,,2,0,KETTERLE DIVISION
+rr61,rr,,1,Lexington High School 2,Iolani School,,,1,0,LANDER DIVISION
+rr62,rr,,1,Lexington High School 2,Livingston High School,,,1,0,LANDER DIVISION
+rr63,rr,,1,Lexington High School 2,Brookfield Central HS 2,,,1,0,LANDER DIVISION
+rr64,rr,,1,Lexington High School 2,Naperville North 2,,,1,0,LANDER DIVISION
+rr65,rr,,1,Lexington High School 2,Conestoga High School 1,,,1,0,LANDER DIVISION
+rr66,rr,,1,Iolani School,Livingston High School,,,1,0,LANDER DIVISION
+rr67,rr,,1,Iolani School,Brookfield Central HS 2,,,1,0,LANDER DIVISION
+rr68,rr,,1,Iolani School,Naperville North 2,,,1,0,LANDER DIVISION
+rr69,rr,,1,Iolani School,Conestoga High School 1,,,1,0,LANDER DIVISION
+rr70,rr,,1,Livingston High School,Brookfield Central HS 2,,,1,0,LANDER DIVISION
+rr71,rr,,1,Livingston High School,Naperville North 2,,,2,0,LANDER DIVISION
+rr72,rr,,1,Livingston High School,Conestoga High School 1,,,1,0,LANDER DIVISION
+rr73,rr,,1,Brookfield Central HS 2,Naperville North 2,,,1,0,LANDER DIVISION
+rr74,rr,,1,Brookfield Central HS 2,Conestoga High School 1,,,1,0,LANDER DIVISION
+rr75,rr,,1,Naperville North 2,Conestoga High School 1,,,1,0,LANDER DIVISION
+rr76,rr,,1,North Hollywood 1,John A. Ferguson Sr. High School,,,1,0,MONIZ DIVISION
+rr77,rr,,1,North Hollywood 1,Ed. W. Clark High,,,1,0,MONIZ DIVISION
+rr78,rr,,1,North Hollywood 1,Nashua High School South 1,,,1,0,MONIZ DIVISION
+rr79,rr,,1,North Hollywood 1,Foothill High School,,,1,0,MONIZ DIVISION
+rr80,rr,,1,North Hollywood 1,Beckman High School,,,1,0,MONIZ DIVISION
+rr81,rr,,1,John A. Ferguson Sr. High School,Ed. W. Clark High,,,2,0,MONIZ DIVISION
+rr82,rr,,1,John A. Ferguson Sr. High School,Nashua High School South 1,,,2,0,MONIZ DIVISION
+rr83,rr,,1,John A. Ferguson Sr. High School,Foothill High School,,,2,0,MONIZ DIVISION
+rr84,rr,,1,John A. Ferguson Sr. High School,Beckman High School,,,1,0,MONIZ DIVISION
+rr85,rr,,1,Ed. W. Clark High,Nashua High School South 1,,,2,0,MONIZ DIVISION
+rr86,rr,,1,Ed. W. Clark High,Foothill High School,,,2,0,MONIZ DIVISION
+rr87,rr,,1,Ed. W. Clark High,Beckman High School,,,1,0,MONIZ DIVISION
+rr88,rr,,1,Nashua High School South 1,Foothill High School,,,2,0,MONIZ DIVISION
+rr89,rr,,1,Nashua High School South 1,Beckman High School,,,1,0,MONIZ DIVISION
+rr90,rr,,1,Foothill High School,Beckman High School,,,1,0,MONIZ DIVISION
+rr91,rr,,1,Hunter College High School,Buchholz 2,,,T,0,RIVEST DIVISION
+rr92,rr,,1,Hunter College High School,John P. Stevens,,,2,0,RIVEST DIVISION
+rr93,rr,,1,Hunter College High School,Brookfield Central HS 1,,,2,0,RIVEST DIVISION
+rr94,rr,,1,Hunter College High School,Conestoga High School 2,,,1,0,RIVEST DIVISION
+rr95,rr,,1,Hunter College High School,Naperville North High School 1,,,1,0,RIVEST DIVISION
+rr96,rr,,1,Buchholz 2,John P. Stevens,,,2,0,RIVEST DIVISION
+rr97,rr,,1,Buchholz 2,Brookfield Central HS 1,,,2,0,RIVEST DIVISION
+rr98,rr,,1,Buchholz 2,Conestoga High School 2,,,1,0,RIVEST DIVISION
+rr99,rr,,1,Buchholz 2,Naperville North High School 1,,,2,0,RIVEST DIVISION
+rr100,rr,,1,John P. Stevens,Brookfield Central HS 1,,,2,0,RIVEST DIVISION
+rr101,rr,,1,John P. Stevens,Conestoga High School 2,,,1,0,RIVEST DIVISION
+rr102,rr,,1,John P. Stevens,Naperville North High School 1,,,1,0,RIVEST DIVISION
+rr103,rr,,1,Brookfield Central HS 1,Conestoga High School 2,,,1,0,RIVEST DIVISION
+rr104,rr,,1,Brookfield Central HS 1,Naperville North High School 1,,,1,0,RIVEST DIVISION
+rr105,rr,,1,Conestoga High School 2,Naperville North High School 1,,,2,0,RIVEST DIVISION
+rr106,rr,,1,Arcadia High School,Enloe High School,,,1,0,SADOWAY DIVISION
+rr107,rr,,1,Arcadia High School,Lubbock High School,,,1,0,SADOWAY DIVISION
+rr108,rr,,1,Arcadia High School,Timberline High School,,,1,0,SADOWAY DIVISION
+rr109,rr,,1,Arcadia High School,Franklin Regional High School,,,1,0,SADOWAY DIVISION
+rr110,rr,,1,Enloe High School,Lubbock High School,,,1,0,SADOWAY DIVISION
+rr111,rr,,1,Enloe High School,Timberline High School,,,1,0,SADOWAY DIVISION
+rr112,rr,,1,Enloe High School,Franklin Regional High School,,,1,0,SADOWAY DIVISION
+rr113,rr,,1,Lubbock High School,Timberline High School,,,2,0,SADOWAY DIVISION
+rr114,rr,,1,Lubbock High School,Franklin Regional High School,,,2,0,SADOWAY DIVISION
+rr115,rr,,1,Timberline High School,Franklin Regional High School,,,2,0,SADOWAY DIVISION
+de-B17,playoff,ROUND SIX,11,Basis Independent Silicon Valley,Centennial High School,32,96,2,0,
+de-B25,playoff,ROUND SIX,11,Lexington High School 2,North Hollywood 1,82,32,1,0,
+de-B33,playoff,ROUND SIX,11,Brookfield Central HS 1,Arcadia High School,40,50,2,0,
+de-B43,playoff,ROUND SIX,11,Buchholz 1,BASIS Peoria,46,80,2,0,
+de-B51,playoff,ROUND SIX,11,Ames,University High School,126,8,1,0,
+de-B59,playoff,ROUND SIX,11,Iolani School,Foothill High School,48,46,1,0,
+de-B67,playoff,ROUND SIX,11,John P. Stevens,Enloe High School,56,48,1,0,
+de-B9,playoff,ROUND SIX,11,Middleton,Mira Loma,72,56,1,0,
+de-D13,playoff,ROUND SEVEN,12,Middleton,Centennial High School,44,102,2,0,
+de-D29,playoff,ROUND SEVEN,12,Lexington High School 2,Arcadia High School,56,62,2,0,
+de-D41,playoff,ROUND SEVEN,12,Brookfield Central HS 1,BASIS Peoria,72,56,1,0,
+de-D49,playoff,ROUND SEVEN,12,North Hollywood 1,Ames,34,80,2,0,
+de-D57,playoff,ROUND SEVEN,12,Basis Independent Silicon Valley,Iolani School,66,18,1,0,
+de-D65,playoff,ROUND SEVEN,12,Mira Loma,John P. Stevens,48,56,2,0,
+de-F21,playoff,ROUND EIGHT,13,Centennial High School,Arcadia High School,74,62,1,0,
+de-F45,playoff,ROUND EIGHT,13,Brookfield Central HS 1,Ames,74,52,1,0,
+de-F61,playoff,ROUND EIGHT,13,Basis Independent Silicon Valley,John P. Stevens,54,52,1,0,
+de-H42,playoff,ROUND NINE,14,Middleton,Brookfield Central HS 1,66,60,1,0,
+de-H58,playoff,ROUND NINE,14,Lexington High School 2,Basis Independent Silicon Valley,58,72,2,0,
+de-J50,playoff,ROUND TEN,15,Middleton,Basis Independent Silicon Valley,38,72,2,0,
+de-L45,playoff,ROUND ELEVEN,16,Arcadia High School,Basis Independent Silicon Valley,30,66,2,0,
+de-N33,playoff,ROUND TWELVE,17,Centennial High School,Basis Independent Silicon Valley,26,42,2,0,
+de-P40,playoff,ROUND THIRTEEN,18,Basis Independent Silicon Valley,Centennial High School,44,26,1,0,

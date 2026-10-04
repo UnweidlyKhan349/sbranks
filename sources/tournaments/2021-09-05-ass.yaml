@@ -18,10 +18,33 @@ sources:
   sheet_id: 1ohAxKDFJ_HOj-8W6j1mCMtwKElT6wh6AbI_9jM_1up0
   url: https://docs.google.com/spreadsheets/d/1ohAxKDFJ_HOj-8W6j1mCMtwKElT6wh6AbI_9jM_1up0/edit#gid=920507017
   file: results.xlsx
-- kind: drive_folder
-  role: stats
+- kind: manual
+  role: stats-index
+  file: drive_folder.html
   url: https://drive.google.com/drive/folders/1i503auhxz08piG5xjfGrSoUGY-Ahz3L0
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+  note: folder listing saved from https://drive.google.com/embeddedfolderview?id=1i503auhxz08piG5xjfGrSoUGY-Ahz3L0
+- kind: gsheet
+  role: stats
+  sheet_id: 1it2w0Siij0Qf6RJIRaWtvzrObTeWQAeTG5otEd3Wjyw
+  url: https://docs.google.com/spreadsheets/d/1it2w0Siij0Qf6RJIRaWtvzrObTeWQAeTG5otEd3Wjyw/edit
+  file: stats_combined.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 16auqBq_m7VNEcPdAkmRUNjw8GQijFLY_e0KkR1fpssQ
+  url: https://docs.google.com/spreadsheets/d/16auqBq_m7VNEcPdAkmRUNjw8GQijFLY_e0KkR1fpssQ/edit
+  file: stats_de.xlsx
+- kind: gsheet
+  role: stats
+  sheet_id: 1CQerS3R5R3qkcgVO-wWwBS0RsHfJGEmg0oOWms1v5uk
+  url: https://docs.google.com/spreadsheets/d/1CQerS3R5R3qkcgVO-wWwBS0RsHfJGEmg0oOWms1v5uk/edit
+  file: stats_rr.xlsx
+parser: g4_ass:parse
+parser_options:
+  de_games:
+  - DE3|E13|E15|G14
+  - Final|G6|G14|I10
+status: parsed
+notes: 15 round-robin games, 4 scored DE games and 2 winner-only DE games (DE3 and the final; Lexington champion). Stats sheets
+  fetched from the Drive folder (RR, DE, combined = RR + DE). Players are listed by first name/handle without teams; membership
+  was reconstructed as the unique partition that reproduces every team total (4/-4/X per subject in both the RR and DE sheets),
+  and player stats are written per phase.

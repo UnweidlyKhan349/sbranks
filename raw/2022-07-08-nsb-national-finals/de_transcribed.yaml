@@ -1,0 +1,25 @@
+# Hand transcription of the HS double-elimination brackets in de_brackets.jpg
+# (https://science.osti.gov/-/media/wdts/nsb/images/2022-Finals/Score-Brackets/2022-NSB-Round-Robin-Results---No-Loss-Bracket_Page_1.jpg,
+#  left half "High School Double Elimination No-Loss Bracket" and top right "High School Double Elimination One-Loss Bracket").
+# The image has no text layer. Team names are the bracket's short names; "Ranking #n" is the round-robin seed
+# (the Seed column of round_robin.html). Rounds are the bracket's own time-slot numbers.
+# GM-8 (Monday final) has no winner drawn on the image (it was published before the final); the winner comes from
+# the DOE release winners_release.html (Lynbrook High School won the 2022 NSB over Mission San Jose). Lynbrook entered
+# GM-8 unbeaten, so the "if necessary" GM-9 was not played.
+label_kind: seed
+champion: Lynbrook
+games:
+- {game: '1', round: 1, bracket: no-loss, team1: Montgomery Blair, label1: 'Ranking #1', team2: Lynbrook, label2: 'Ranking #8', winner: Lynbrook}
+- {game: '2', round: 1, bracket: no-loss, team1: Dulles, label1: 'Ranking #4', team2: Ames, label2: 'Ranking #5', winner: Dulles}
+- {game: '3', round: 1, bracket: no-loss, team1: Lexington, label1: 'Ranking #3', team2: Tesla STEM, label2: 'Ranking #6', winner: Lexington}
+- {game: '4', round: 1, bracket: no-loss, team1: Buchholz, label1: 'Ranking #2', team2: Mission San Jose, label2: 'Ranking #7', winner: Mission San Jose}
+- {game: '5', round: 2, bracket: no-loss, team1: Lynbrook, label1: Winner GM-1, team2: Dulles, label2: Winner GM-2, winner: Lynbrook}
+- {game: '6', round: 2, bracket: no-loss, team1: Lexington, label1: Winner GM-3, team2: Mission San Jose, label2: Winner GM-4, winner: Mission San Jose}
+- {game: 'A', round: 2, bracket: one-loss, team1: Montgomery Blair, label1: One-Loss from GM-1, team2: Ames, label2: One-Loss from GM-2, winner: Montgomery Blair}
+- {game: 'B', round: 2, bracket: one-loss, team1: Tesla STEM, label1: One-Loss from GM-3, team2: Buchholz, label2: One-Loss from GM-4, winner: Tesla STEM}
+- {game: 'C', round: 3, bracket: one-loss, team1: Lexington, label1: One-Loss from GM-6, team2: Montgomery Blair, label2: Winner GM-A, winner: Montgomery Blair}
+- {game: 'D', round: 3, bracket: one-loss, team1: Tesla STEM, label1: Winner GM-B, team2: Dulles, label2: One-Loss from GM-5, winner: Tesla STEM}
+- {game: '7', round: 4, bracket: no-loss, team1: Lynbrook, label1: Winner GM-5, team2: Mission San Jose, label2: Winner GM-6, winner: Lynbrook}
+- {game: 'E', round: 4, bracket: one-loss, team1: Montgomery Blair, label1: Winner GM-C, team2: Tesla STEM, label2: Winner GM-D, winner: Tesla STEM}
+- {game: 'F', round: 5, bracket: one-loss, team1: Mission San Jose, label1: One-Loss from GM-7, team2: Tesla STEM, label2: Winner GM-E, winner: Mission San Jose}
+- {game: '8', round: 6, bracket: final, team1: Mission San Jose, label1: Winner GM-F, team2: Lynbrook, label2: Winner GM-7, winner: Lynbrook}

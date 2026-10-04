@@ -1,0 +1,70 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,1,1,Hwite Bread,Portola,138,58,1,0,"(1,1) Apaira Room 1"
+g2,rr,2,2,Middletong B,Portola,46,96,2,0,"(1,1) Apaira Room 1"
+g3,rr,3,3,Portola,Centennial A,12,140,2,0,"(1,1) Apaira Room 1"
+g4,rr,4,4,Centennial A,Cadmium Arsenide,106,80,1,0,"(1,1) Apaira Room 1"
+g5,rr,5,5,Cadmium Arsenide,Portola,86,100,2,0,"(1,1) Apaira Room 1"
+g6,rr,1,1,Middletong B,Centennial A,30,132,2,0,"(1,2) Apaira Room 2"
+g7,rr,2,2,Cadmium Arsenide,Hwite Bread,44,152,2,0,"(1,2) Apaira Room 2"
+g8,rr,3,3,Middletong B,Cadmium Arsenide,70,44,1,0,"(1,2) Apaira Room 2"
+g9,rr,4,4,Middletong B,Hwite Bread,38,100,2,0,"(1,2) Apaira Room 2"
+g10,rr,5,5,Centennial A,Hwite Bread,128,104,1,0,"(1,2) Apaira Room 2"
+g11,rr,1,1,Montongbery Bleir,Basis Peoria,158,128,1,0,"(2,1) Beau Room 1"
+g12,rr,2,2,Shenendehowa,Basis Peoria,78,146,2,0,"(2,1) Beau Room 1"
+g13,rr,3,3,Basis Peoria,Geo Fam,98,100,2,0,"(2,1) Beau Room 1"
+g14,rr,4,4,Geo Fam,Montongbery Bleir,76,92,2,0,"(2,1) Beau Room 1"
+g15,rr,5,5,The Borons,Geo Fam,96,124,2,0,"(2,1) Beau Room 1"
+g16,rr,1,1,Shenendehowa,Geo Fam,146,92,1,0,"(2,2) Beau Room 2"
+g17,rr,2,2,The Borons,Montongbery Bleir,84,142,2,0,"(2,2) Beau Room 2"
+g18,rr,3,3,Shenendehowa,The Borons,94,84,1,0,"(2,2) Beau Room 2"
+g19,rr,4,4,Basis Peoria,The Borons,48,68,2,0,"(2,2) Beau Room 2"
+g20,rr,5,5,Montongbery Bleir,Shenendehowa,206,12,1,0,"(2,2) Beau Room 2"
+g21,rr,1,1,Naperville North,:flushed:,100,100,T,0,"(3,1) Cho Room 1"
+g22,rr,2,2,Middletong A,Naperville North,64,152,2,0,"(3,1) Cho Room 1"
+g23,rr,3,3,Naperville North,Whitney Wildcats,88,72,1,0,"(3,1) Cho Room 1"
+g24,rr,4,4,Naperville North,Britney Spears' Guide to Semiconductor Physics,50,116,2,0,"(3,1) Cho Room 1"
+g25,rr,5,5,Whitney Wildcats,:flushed:,16,194,2,0,"(3,1) Cho Room 1"
+g26,rr,1,1,Whitney Wildcats,Middletong A,40,94,2,0,"(3,2) Cho Room 2"
+g27,rr,2,2,Britney Spears' Guide to Semiconductor Physics,Whitney Wildcats,200,72,1,0,"(3,2) Cho Room 2"
+g28,rr,3,3,Britney Spears' Guide to Semiconductor Physics,:flushed:,158,42,1,0,"(3,2) Cho Room 2"
+g29,rr,4,4,Middletong A,:flushed:,30,78,2,0,"(3,2) Cho Room 2"
+g30,rr,5,5,Middletong A,Britney Spears' Guide to Semiconductor Physics,26,136,2,0,"(3,2) Cho Room 2"
+g31,rr,1,1,Easthill,Timberline,152,56,1,0,"(4,1) Dragon Room 1"
+g32,rr,2,2,Timberline,Dulles,80,138,2,0,"(4,1) Dragon Room 1"
+g33,rr,3,3,Easthill,Dulles,82,128,2,0,"(4,1) Dragon Room 1"
+g34,rr,4,4,Easthill,Centennial B,148,34,1,0,"(4,1) Dragon Room 1"
+g35,rr,5,5,Foothill,Easthill,42,124,2,0,"(4,1) Dragon Room 1"
+g36,rr,1,1,Dulles,Foothill,116,110,1,0,"(4,2) Dragon Room 2"
+g37,rr,2,2,Foothill,Centennial B,76,20,1,0,"(4,2) Dragon Room 2"
+g38,rr,3,3,Centennial B,Timberline,58,90,2,0,"(4,2) Dragon Room 2"
+g39,rr,4,4,Foothill,Timberline,52,46,1,0,"(4,2) Dragon Room 2"
+g40,rr,5,5,Centennial B,Dulles,52,148,2,0,"(4,2) Dragon Room 2"
+g41,playoff,DE R1,6,Britney Spears' Guide to Semiconductor Physics,Middletong B,156,12,1,0,Rhydon 1
+g42,playoff,DE R1,6,Naperville North,Geo Fam,62,70,2,0,Rhydon 2
+g43,playoff,DE R1,6,Centennial A,Basis Peoria,66,72,2,0,Wendy 1
+g44,playoff,DE R1,6,Easthill,Portola,144,8,1,0,Wendy 2
+g45,playoff,DE R1,6,Dulles,Timberline,52,80,2,0,Odyssey 1
+g46,playoff,DE R1,6,Hwite Bread,Foothill,114,48,1,0,Odyssey 2
+g47,playoff,DE R1,6,:flushed:,Shenendehowa,72,94,2,0,Goblin 1
+g48,playoff,DE R1,6,Montongbery Bleir,Middletong A,136,30,1,0,Goblin 2
+g49,playoff,DE R2,7,Britney Spears' Guide to Semiconductor Physics,Geo Fam,142,36,1,0,Rhydon 1
+g50,playoff,DE R2,7,Basis Peoria,Easthill,78,162,2,0,Rhydon 2
+g51,playoff,DE R2,7,Timberline,Hwite Bread,84,104,2,0,Wendy 1
+g52,playoff,DE R2,7,Shenendehowa,Montongbery Bleir,92,94,2,0,Wendy 2
+g53,playoff,DE R2,7,Middletong B,Naperville North,8,130,2,0,Odyssey 1
+g54,playoff,DE R2,7,Centennial A,Portola,114,26,1,0,Odyssey 2
+g55,playoff,DE R2,7,Dulles,Foothill,108,82,1,0,Goblin 1
+g56,playoff,DE R2,7,:flushed:,Middletong A,132,66,1,0,Goblin 2
+g57,playoff,DE R3,8,Shenendehowa,Naperville North,46,54,2,0,Rhydon 1
+g58,playoff,DE R3,8,Timberline,Centennial A,42,76,2,0,Wendy 1
+g59,playoff,DE R3,8,Basis Peoria,Dulles,22,40,2,0,Odyssey 1
+g60,playoff,DE R3,8,Geo Fam,:flushed:,30,98,2,0,Goblin 1
+g61,playoff,DE R4,9,Britney Spears' Guide to Semiconductor Physics,Easthill,38,84,2,0,Rhydon 1
+g62,playoff,DE R4,9,Hwite Bread,Montongbery Bleir,,,1,0,Wendy 1; win/loss only
+g63,playoff,DE R4,9,Naperville North,Centennial A,34,40,2,0,Odyssey 1
+g64,playoff,DE R4,9,Dulles,:flushed:,76,58,1,0,Goblin 1
+g65,playoff,DE R5,10,Montongbery Bleir,Centennial A,66,40,1,0,Rhydon 1
+g66,playoff,DE R5,10,Britney Spears' Guide to Semiconductor Physics,Dulles,72,62,1,0,Wendy 1
+g67,playoff,DE R6,11,Easthill,Hwite Bread,44,54,2,0,Rhydon 1
+g68,playoff,DE R6,11,Montongbery Bleir,Britney Spears' Guide to Semiconductor Physics,40,36,1,0,Wendy 1
+g69,playoff,DE R7,12,Easthill,Montongbery Bleir,24,20,1,0,Wendy 1

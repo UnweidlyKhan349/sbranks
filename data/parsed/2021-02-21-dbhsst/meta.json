@@ -1,0 +1,28 @@
+{
+  "tournament_id": "2021-02-21-dbhsst",
+  "counts": {
+    "teams": 18,
+    "games": 45,
+    "games_with_scores": 39,
+    "player_stat_rows": 462,
+    "players": 77,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "2: Stuyvesant High School vs Whitney HS: source score 56-56; winner per source Stuyvesant High School",
+    "Blue Jay match 4: Quail Valley MS L 130-84: score written winner-first; swapped",
+    "2 players fit several teams and were skipped: Dhurva (Martin Luther King High School/Winston Churchill Ms B), Rami (Martin Luther King High School/Winston Churchill Ms B)",
+    "5 players with no buzzes could not be placed on a team: Aleena, Eshni, Wither, Grace, Olivia"
+  ],
+  "parser": "g3_online:parse_dbhsst2021"
+}

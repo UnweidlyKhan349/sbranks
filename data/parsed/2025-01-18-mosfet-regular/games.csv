@@ -1,0 +1,95 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,Round 1,1,Mt. Ararat A,AMSA B,46,26,1,0,Arsenic
+g2,rr,Round 2,2,Mt. Ararat A,Brooklyn Tech A,36,144,2,0,Arsenic
+g3,rr,Round 3,3,AMSA B,Brooklyn Tech A,26,184,2,0,Arsenic
+g4,rr,Round 1,1,AMSA A,Huron,54,226,2,0,Boron
+g5,rr,Round 2,2,AMSA A,Princeton,26,116,2,0,Boron
+g6,rr,Round 3,3,AMSA A,Mt. Ararat B,72,12,1,0,Boron
+g7,rr,Round 3,3,Huron,Princeton,194,66,1,0,Boron
+g8,rr,Round 2,2,Huron,Mt. Ararat B,182,36,1,0,Boron
+g9,rr,Round 1,1,Princeton,Mt. Ararat B,174,18,1,0,Boron
+g10,rr,Round 2,2,Oak Creek,Ladue,30,222,2,0,Carbon
+g11,rr,Round 3,3,Oak Creek,Cape Elizabeth,26,52,2,0,Carbon
+g12,rr,Round 1,1,Ladue,Cape Elizabeth,242,58,1,0,Carbon
+g13,rr,Round 1,1,Coral Academy,IMSA A,122,58,1,0,Dubnium
+g14,rr,Round 3,3,Coral Academy,AHS Broward B,48,148,2,0,Dubnium
+g15,rr,Round 2,2,IMSA A,AHS Broward B,60,100,2,0,Dubnium
+g16,rr,Round 1,1,Bentonville,AHS Broward A,58,232,2,0,Europium
+g17,rr,Round 2,2,Bentonville,Hopkins B,52,78,2,0,Europium
+g18,rr,Round 3,3,AHS Broward A,Hopkins B,198,90,1,0,Europium
+g19,rr,Round 1,1,Hopkins A,Buchholz,208,76,1,0,Fluorine
+g20,rr,Round 2,2,Hopkins A,Brooklyn Tech B,222,12,1,0,Fluorine
+g21,rr,Round 3,3,Hopkins A,Cedar Falls,190,82,1,0,Fluorine
+g22,rr,Round 3,3,Buchholz,Brooklyn Tech B,156,8,1,0,Fluorine
+g23,rr,Round 2,2,Buchholz,Cedar Falls,126,94,1,0,Fluorine
+g24,rr,Round 1,1,Brooklyn Tech B,Cedar Falls,50,138,2,0,Fluorine
+g25,rr,Round 1,1,Waynflete,Westview,42,20,1,0,Gold
+g26,rr,Round 2,2,Waynflete,Churchill A,34,106,2,0,Gold
+g27,rr,Round 3,3,Waynflete,Research Triangle,12,160,2,0,Gold
+g28,rr,Round 3,3,Westview,Churchill A,24,206,2,0,Gold
+g29,rr,Round 2,2,Westview,Research Triangle,48,120,2,0,Gold
+g30,rr,Round 1,1,Churchill A,Research Triangle,212,72,1,0,Gold
+g31,rr,Round 1,1,Olathe North,Minnetonka,44,206,2,0,Helium
+g32,rr,Round 2,2,Olathe North,Madison West,36,180,2,0,Helium
+g33,rr,Round 3,3,Olathe North,Churchill B,44,94,2,0,Helium
+g34,rr,Round 3,3,Minnetonka,Madison West,164,136,1,0,Helium
+g35,rr,Round 2,2,Minnetonka,Churchill B,136,78,1,0,Helium
+g36,rr,Round 1,1,Madison West,Churchill B,180,60,1,0,Helium
+g37,rr,Round 5,5,Ladue,Hopkins A,202,82,1,0,Apatite
+g38,rr,Round 6,6,Ladue,Churchill A,106,108,2,0,Apatite
+g39,rr,Round 7,7,Ladue,AHS Broward B,104,94,1,0,Apatite
+g40,rr,Round 7,7,Hopkins A,Churchill A,126,16,1,0,Apatite
+g41,rr,Round 6,6,Hopkins A,AHS Broward B,120,98,1,0,Apatite
+g42,rr,Round 5,5,Churchill A,AHS Broward B,82,134,2,0,Apatite
+g43,rr,Round 5,5,AHS Broward A,Huron,98,136,2,0,Beryl
+g44,rr,Round 6,6,AHS Broward A,Minnetonka,170,66,1,0,Beryl
+g45,rr,Round 7,7,AHS Broward A,Brooklyn Tech A,134,24,1,0,Beryl
+g46,rr,Round 7,7,Huron,Minnetonka,150,58,1,0,Beryl
+g47,rr,Round 6,6,Huron,Brooklyn Tech A,130,22,1,0,Beryl
+g48,rr,Round 5,5,Minnetonka,Brooklyn Tech A,118,68,1,0,Beryl
+g49,rr,Round 4,4,Buchholz,Research Triangle,72,92,2,0,Calcite
+g50,rr,Round 6,6,Buchholz,Hopkins B,56,112,2,0,Calcite
+g51,rr,Round 7,7,Buchholz,Mt. Ararat A,86,16,1,0,Calcite
+g52,rr,Round 7,7,Research Triangle,Hopkins B,22,66,2,0,Calcite
+g53,rr,Round 6,6,Research Triangle,Mt. Ararat A,82,30,1,0,Calcite
+g54,rr,Round 4,4,Hopkins B,Mt. Ararat A,184,30,1,0,Calcite
+g55,rr,Round 4,4,Madison West,Princeton,70,140,2,0,Dolomite
+g56,rr,Round 6,6,Madison West,Coral Academy,122,22,1,0,Dolomite
+g57,rr,Round 7,7,Madison West,Cape Elizabeth,100,16,1,0,Dolomite
+g58,rr,Round 7,7,Princeton,Coral Academy,36,110,2,0,Dolomite
+g59,rr,Round 6,6,Princeton,Cape Elizabeth,74,48,1,0,Dolomite
+g60,rr,Round 4,4,Coral Academy,Cape Elizabeth,112,36,1,0,Dolomite
+g61,rr,Round 4,4,Cedar Falls,IMSA A,78,70,1,0,Epidote
+g62,rr,Round 5,5,Cedar Falls,AMSA A,76,60,1,0,Epidote
+g63,rr,Round 7,7,Cedar Falls,Oak Creek,30,22,1,0,Epidote
+g64,rr,Round 7,7,IMSA A,AMSA A,48,40,1,0,Epidote
+g65,rr,Round 5,5,IMSA A,Oak Creek,90,62,1,0,Epidote
+g66,rr,Round 4,4,AMSA A,Oak Creek,126,22,1,0,Epidote
+g67,rr,Round 4,4,Churchill B,Bentonville,30,102,2,0,Feldspar
+g68,rr,Round 5,5,Churchill B,Waynflete,76,36,1,0,Feldspar
+g69,rr,Round 7,7,Churchill B,AMSA B,76,30,1,0,Feldspar
+g70,rr,Round 7,7,Bentonville,Waynflete,16,12,1,0,Feldspar
+g71,rr,Round 5,5,Bentonville,AMSA B,48,52,2,0,Feldspar
+g72,rr,Round 4,4,Waynflete,AMSA B,32,36,2,0,Feldspar
+g73,rr,Round 4,4,Olathe North,Westview,76,44,1,0,Gypsum
+g74,rr,Round 5,5,Olathe North,Brooklyn Tech B,94,38,1,0,Gypsum
+g75,rr,Round 6,6,Olathe North,Mt. Ararat B,48,20,1,0,Gypsum
+g76,rr,Round 6,6,Westview,Brooklyn Tech B,36,82,2,0,Gypsum
+g77,rr,Round 5,5,Westview,Mt. Ararat B,66,20,1,0,Gypsum
+g78,rr,Round 4,4,Brooklyn Tech B,Mt. Ararat B,26,54,2,0,Gypsum
+de-B10,playoff,Round of 16,8,Brooklyn Tech A,Hopkins B,50,64,2,0,
+de-B14,playoff,Round of 16,8,AHS Broward A,Buchholz,154,60,1,0,
+de-B18,playoff,Round of 16,8,AHS Broward B,Princeton,104,62,1,0,
+de-B22,playoff,Round of 16,8,Huron,Churchill B,104,26,1,0,
+de-B26,playoff,Round of 16,8,Churchill A,Madison West,68,76,2,0,
+de-B30,playoff,Round of 16,8,Hopkins A,Coral Academy,94,38,1,0,
+de-B34,playoff,Round of 16,8,Minnetonka,Research Triangle,106,46,1,0,
+de-B6,playoff,Round of 16,8,Ladue,Cedar Falls,138,12,1,0,
+de-E16,playoff,Quarterfinals,9,AHS Broward A,AHS Broward B,146,58,1,0,
+de-E24,playoff,Quarterfinals,9,Huron,Madison West,82,54,1,0,
+de-E32,playoff,Quarterfinals,9,Hopkins A,Minnetonka,78,66,1,0,
+de-E8,playoff,Quarterfinals,9,Ladue,Hopkins B,82,32,1,0,
+de-H12,playoff,Semifinals,10,Ladue,AHS Broward A,122,30,1,0,
+de-H28,playoff,Semifinals,10,Huron,Hopkins A,60,106,2,0,
+de-K20,playoff,Finals,11,Ladue,Hopkins A,78,64,1,0,
+de-K35,playoff,3rd Place,11,AHS Broward A,Huron,106,82,1,0,

@@ -1,0 +1,1201 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+g1,Enloe A,other,42,12,30,3,0
+g1,Enloe A,math,42,12,30,3,0
+g1,Enloe A,chemistry,56,16,40,4,0
+g1,Enloe A,ess,56,16,40,4,0
+g1,Enloe A,biology,46,16,30,4,0
+g1,Enloe A,physics,18,8,10,2,1
+g1,Lakeside B,other,0,0,0,0,0
+g1,Lakeside B,math,0,0,0,0,0
+g1,Lakeside B,chemistry,0,0,0,0,0
+g1,Lakeside B,ess,0,0,0,0,0
+g1,Lakeside B,biology,0,0,0,0,0
+g1,Lakeside B,physics,8,8,0,1,0
+g2,Rock Bridge A,other,0,0,0,0,0
+g2,Rock Bridge A,math,12,12,0,3,0
+g2,Rock Bridge A,chemistry,0,0,0,0,0
+g2,Rock Bridge A,ess,4,4,0,1,0
+g2,Rock Bridge A,biology,0,0,0,0,0
+g2,Rock Bridge A,physics,4,4,0,1,0
+g2,Roosevelt B,other,8,8,0,2,0
+g2,Roosevelt B,math,4,4,0,1,0
+g2,Roosevelt B,chemistry,18,8,10,2,0
+g2,Roosevelt B,ess,4,4,0,1,0
+g2,Roosevelt B,biology,0,0,0,0,0
+g2,Roosevelt B,physics,18,8,10,2,0
+g3,Canyon Crest B,other,16,16,0,2,0
+g3,Canyon Crest B,math,0,0,0,0,0
+g3,Canyon Crest B,chemistry,18,8,10,2,0
+g3,Canyon Crest B,ess,14,4,10,1,0
+g3,Canyon Crest B,biology,18,8,10,1,0
+g3,Canyon Crest B,physics,8,8,0,1,0
+g3,MSJ A,other,14,4,10,1,2
+g3,MSJ A,math,22,12,10,3,0
+g3,MSJ A,chemistry,28,8,20,2,0
+g3,MSJ A,ess,32,12,20,3,0
+g3,MSJ A,biology,32,12,20,3,1
+g3,MSJ A,physics,42,12,30,3,1
+g4,Pali,other,18,8,10,2,0
+g4,Pali,math,18,8,10,2,0
+g4,Pali,chemistry,28,8,20,2,0
+g4,Pali,ess,32,12,20,3,0
+g4,Pali,biology,22,12,10,3,0
+g4,Pali,physics,4,4,0,1,0
+g4,Rock Bridge B,other,0,0,0,0,0
+g4,Rock Bridge B,math,0,0,0,0,0
+g4,Rock Bridge B,chemistry,0,0,0,0,0
+g4,Rock Bridge B,ess,0,0,0,0,0
+g4,Rock Bridge B,biology,0,0,0,0,0
+g4,Rock Bridge B,physics,0,0,0,0,0
+g5,Amador Valley B,other,14,4,10,1,0
+g5,Amador Valley B,math,14,4,10,1,0
+g5,Amador Valley B,chemistry,14,4,10,1,0
+g5,Amador Valley B,ess,14,4,10,1,0
+g5,Amador Valley B,biology,0,0,0,0,0
+g5,Amador Valley B,physics,0,0,0,0,0
+g5,Lakeside A,other,32,12,20,3,0
+g5,Lakeside A,math,14,4,10,1,0
+g5,Lakeside A,chemistry,32,12,20,3,0
+g5,Lakeside A,ess,32,12,20,3,0
+g5,Lakeside A,biology,32,12,20,3,0
+g5,Lakeside A,physics,36,16,20,4,0
+g6,Pullman B,other,0,0,0,0,0
+g6,Pullman B,math,4,4,0,1,1
+g6,Pullman B,chemistry,18,8,10,2,0
+g6,Pullman B,ess,22,12,10,3,0
+g6,Pullman B,biology,14,4,10,1,0
+g6,Pullman B,physics,4,4,0,1,0
+g6,Roosevelt A,other,28,8,20,2,0
+g6,Roosevelt A,math,12,12,0,2,0
+g6,Roosevelt A,chemistry,14,4,10,1,0
+g6,Roosevelt A,ess,14,4,10,1,0
+g6,Roosevelt A,biology,28,8,20,2,0
+g6,Roosevelt A,physics,12,12,0,3,0
+g7,American B,other,14,4,10,1,0
+g7,American B,math,0,0,0,0,0
+g7,American B,chemistry,14,4,10,1,0
+g7,American B,ess,32,12,20,3,0
+g7,American B,biology,0,0,0,0,0
+g7,American B,physics,22,12,10,3,0
+g7,Bentonville,other,18,8,10,2,0
+g7,Bentonville,math,18,8,10,2,0
+g7,Bentonville,chemistry,28,8,20,2,0
+g7,Bentonville,ess,4,4,0,1,0
+g7,Bentonville,biology,36,16,20,4,0
+g7,Bentonville,physics,14,4,10,1,0
+g8,NCSSM A,other,14,4,10,1,0
+g8,NCSSM A,math,56,16,40,4,0
+g8,NCSSM A,chemistry,28,8,20,2,0
+g8,NCSSM A,ess,28,8,20,2,0
+g8,NCSSM A,biology,22,12,10,2,1
+g8,NCSSM A,physics,26,16,10,4,0
+g8,Wayzata C,other,8,8,0,2,0
+g8,Wayzata C,math,0,0,0,0,0
+g8,Wayzata C,chemistry,18,8,10,2,0
+g8,Wayzata C,ess,0,0,0,0,0
+g8,Wayzata C,biology,8,8,0,1,1
+g8,Wayzata C,physics,0,0,0,0,0
+g9,Amador Valley A,other,14,4,10,1,2
+g9,Amador Valley A,math,28,8,20,2,0
+g9,Amador Valley A,chemistry,42,12,30,3,0
+g9,Amador Valley A,ess,46,16,30,4,0
+g9,Amador Valley A,biology,32,12,20,3,0
+g9,Amador Valley A,physics,8,8,0,2,1
+g9,Interlake C,other,50,20,30,3,0
+g9,Interlake C,math,4,4,0,1,0
+g9,Interlake C,chemistry,14,4,10,1,0
+g9,Interlake C,ess,0,0,0,0,0
+g9,Interlake C,biology,4,4,0,1,0
+g9,Interlake C,physics,4,4,0,0,0
+g10,MSJ B,other,8,8,0,0,0
+g10,MSJ B,math,32,12,20,2,0
+g10,MSJ B,chemistry,14,4,10,1,0
+g10,MSJ B,ess,28,8,20,2,0
+g10,MSJ B,biology,18,8,10,2,0
+g10,MSJ B,physics,22,12,10,3,0
+g10,Tesla STEM A,other,28,8,20,2,2
+g10,Tesla STEM A,math,14,4,10,1,1
+g10,Tesla STEM A,chemistry,42,12,30,3,0
+g10,Tesla STEM A,ess,28,8,20,2,0
+g10,Tesla STEM A,biology,18,8,10,2,0
+g10,Tesla STEM A,physics,14,4,10,1,0
+g11,American A,other,28,8,20,2,1
+g11,American A,math,56,16,40,4,0
+g11,American A,chemistry,18,8,10,2,1
+g11,American A,ess,42,12,30,3,0
+g11,American A,biology,8,8,0,2,1
+g11,American A,physics,22,12,10,2,1
+g11,Baulkham Hills,other,8,8,0,1,0
+g11,Baulkham Hills,math,0,0,0,0,0
+g11,Baulkham Hills,chemistry,18,8,10,1,0
+g11,Baulkham Hills,ess,0,0,0,0,0
+g11,Baulkham Hills,biology,18,8,10,1,0
+g11,Baulkham Hills,physics,8,8,0,1,1
+g12,James Ruse C,other,4,4,0,0,0
+g12,James Ruse C,math,14,4,10,1,0
+g12,James Ruse C,chemistry,0,0,0,0,0
+g12,James Ruse C,ess,0,0,0,0,0
+g12,James Ruse C,biology,0,0,0,0,0
+g12,James Ruse C,physics,0,0,0,0,0
+g12,Wayzata A,other,18,8,10,2,1
+g12,Wayzata A,math,18,8,10,2,0
+g12,Wayzata A,chemistry,42,12,30,3,0
+g12,Wayzata A,ess,18,8,10,2,0
+g12,Wayzata A,biology,56,16,40,4,0
+g12,Wayzata A,physics,46,16,30,4,0
+g13,Interlake A,other,28,8,20,2,0
+g13,Interlake A,math,14,4,10,1,0
+g13,Interlake A,chemistry,32,12,20,3,0
+g13,Interlake A,ess,50,20,30,4,0
+g13,Interlake A,biology,46,16,30,3,0
+g13,Interlake A,physics,8,8,0,2,0
+g13,James Ruse D,other,4,4,0,1,0
+g13,James Ruse D,math,4,4,0,1,0
+g13,James Ruse D,chemistry,0,0,0,0,0
+g13,James Ruse D,ess,0,0,0,0,1
+g13,James Ruse D,biology,0,0,0,0,1
+g13,James Ruse D,physics,0,0,0,0,0
+g14,Venice,other,18,8,10,1,1
+g14,Venice,math,32,12,20,3,0
+g14,Venice,chemistry,18,8,10,2,0
+g14,Venice,ess,42,12,30,3,0
+g14,Venice,biology,32,12,20,3,0
+g14,Venice,physics,32,12,20,3,0
+g14,Wayzata B,other,18,8,10,1,1
+g14,Wayzata B,math,0,0,0,0,0
+g14,Wayzata B,chemistry,14,4,10,1,0
+g14,Wayzata B,ess,4,4,0,1,0
+g14,Wayzata B,biology,4,4,0,1,0
+g14,Wayzata B,physics,4,4,0,1,0
+g15,Fossil Ridge,other,14,4,10,1,0
+g15,Fossil Ridge,math,42,12,30,3,0
+g15,Fossil Ridge,chemistry,14,4,10,1,0
+g15,Fossil Ridge,ess,14,4,10,1,1
+g15,Fossil Ridge,biology,26,16,10,2,0
+g15,Fossil Ridge,physics,26,16,10,3,0
+g15,Interlake D,other,42,12,30,3,0
+g15,Interlake D,math,14,4,10,1,0
+g15,Interlake D,chemistry,28,8,20,2,0
+g15,Interlake D,ess,36,16,20,3,0
+g15,Interlake D,biology,14,4,10,1,2
+g15,Interlake D,physics,4,4,0,1,1
+g16,NCSSM B,other,46,16,30,4,0
+g16,NCSSM B,math,18,8,10,2,1
+g16,NCSSM B,chemistry,46,16,30,4,0
+g16,NCSSM B,ess,28,8,20,2,0
+g16,NCSSM B,biology,42,12,30,3,0
+g16,NCSSM B,physics,32,12,20,3,0
+g16,Tesla STEM B,other,0,0,0,0,0
+g16,Tesla STEM B,math,4,4,0,0,0
+g16,Tesla STEM B,chemistry,0,0,0,0,0
+g16,Tesla STEM B,ess,14,4,10,1,0
+g16,Tesla STEM B,biology,4,4,0,1,0
+g16,Tesla STEM B,physics,4,4,0,1,0
+g17,Lakeside B,other,14,4,10,1,0
+g17,Lakeside B,math,26,16,10,4,0
+g17,Lakeside B,chemistry,4,4,0,1,0
+g17,Lakeside B,ess,4,4,0,1,0
+g17,Lakeside B,biology,0,0,0,0,0
+g17,Lakeside B,physics,0,0,0,0,0
+g17,Roosevelt B,other,14,4,10,1,0
+g17,Roosevelt B,math,0,0,0,0,0
+g17,Roosevelt B,chemistry,8,8,0,2,0
+g17,Roosevelt B,ess,18,8,10,2,0
+g17,Roosevelt B,biology,4,4,0,1,0
+g17,Roosevelt B,physics,8,8,0,2,0
+g18,Pullman A,other,42,12,30,3,0
+g18,Pullman A,math,56,16,40,4,0
+g18,Pullman A,chemistry,28,8,20,2,0
+g18,Pullman A,ess,22,12,10,3,0
+g18,Pullman A,biology,42,12,30,3,0
+g18,Pullman A,physics,22,12,10,3,0
+g18,Rock Bridge A,other,0,0,0,0,0
+g18,Rock Bridge A,math,0,0,0,0,0
+g18,Rock Bridge A,chemistry,18,8,10,2,0
+g18,Rock Bridge A,ess,0,0,0,0,0
+g18,Rock Bridge A,biology,0,0,0,0,0
+g18,Rock Bridge A,physics,0,0,0,0,0
+g19,MSJ A,other,42,12,30,3,1
+g19,MSJ A,math,42,12,30,3,1
+g19,MSJ A,chemistry,42,12,30,3,0
+g19,MSJ A,ess,46,16,30,4,0
+g19,MSJ A,biology,56,16,40,4,0
+g19,MSJ A,physics,32,12,20,3,0
+g19,Rock Bridge B,other,4,4,0,0,0
+g19,Rock Bridge B,math,4,4,0,0,0
+g19,Rock Bridge B,chemistry,0,0,0,0,0
+g19,Rock Bridge B,ess,0,0,0,0,0
+g19,Rock Bridge B,biology,0,0,0,0,0
+g19,Rock Bridge B,physics,0,0,0,0,0
+g20,North ID STEM,other,4,4,0,0,0
+g20,North ID STEM,math,4,4,0,1,0
+g20,North ID STEM,chemistry,4,4,0,1,0
+g20,North ID STEM,ess,0,0,0,0,0
+g20,North ID STEM,biology,0,0,0,0,0
+g20,North ID STEM,physics,0,0,0,0,0
+g20,Pali,other,14,4,10,1,1
+g20,Pali,math,18,8,10,2,0
+g20,Pali,chemistry,0,0,0,0,0
+g20,Pali,ess,4,4,0,1,0
+g20,Pali,biology,4,4,0,1,0
+g20,Pali,physics,8,8,0,2,0
+g21,Lakeside A,other,32,12,20,3,0
+g21,Lakeside A,math,42,12,30,3,1
+g21,Lakeside A,chemistry,32,12,20,3,0
+g21,Lakeside A,ess,46,16,30,4,0
+g21,Lakeside A,biology,22,12,10,3,0
+g21,Lakeside A,physics,32,12,20,3,0
+g21,Roosevelt A,other,0,0,0,0,0
+g21,Roosevelt A,math,8,8,0,1,0
+g21,Roosevelt A,chemistry,0,0,0,0,0
+g21,Roosevelt A,ess,0,0,0,0,0
+g21,Roosevelt A,biology,0,0,0,0,0
+g21,Roosevelt A,physics,0,0,0,0,0
+g22,NoHo A,other,42,12,30,3,0
+g22,NoHo A,math,36,16,20,3,0
+g22,NoHo A,chemistry,46,16,30,4,0
+g22,NoHo A,ess,56,16,40,4,0
+g22,NoHo A,biology,46,16,30,4,0
+g22,NoHo A,physics,22,12,10,3,0
+g22,Pullman B,other,14,4,10,1,0
+g22,Pullman B,math,0,0,0,0,1
+g22,Pullman B,chemistry,0,0,0,0,0
+g22,Pullman B,ess,0,0,0,0,0
+g22,Pullman B,biology,0,0,0,0,0
+g22,Pullman B,physics,0,0,0,0,0
+g23,Bentonville,other,32,12,20,3,0
+g23,Bentonville,math,4,4,0,1,1
+g23,Bentonville,chemistry,18,8,10,2,0
+g23,Bentonville,ess,4,4,0,1,0
+g23,Bentonville,biology,14,4,10,1,0
+g23,Bentonville,physics,8,8,0,2,0
+g23,Wayzata C,other,14,4,10,1,0
+g23,Wayzata C,math,18,8,10,1,0
+g23,Wayzata C,chemistry,4,4,0,1,0
+g23,Wayzata C,ess,32,12,20,3,0
+g23,Wayzata C,biology,8,8,0,2,0
+g23,Wayzata C,physics,0,0,0,0,0
+g24,Canyon Crest A,other,14,4,10,1,1
+g24,Canyon Crest A,math,28,8,20,2,0
+g24,Canyon Crest A,chemistry,56,16,40,4,0
+g24,Canyon Crest A,ess,42,12,30,3,0
+g24,Canyon Crest A,biology,28,8,20,2,0
+g24,Canyon Crest A,physics,0,0,0,0,0
+g24,NCSSM A,other,32,12,20,2,0
+g24,NCSSM A,math,28,8,20,2,0
+g24,NCSSM A,chemistry,0,0,0,0,0
+g24,NCSSM A,ess,0,0,0,0,0
+g24,NCSSM A,biology,28,8,20,2,0
+g24,NCSSM A,physics,32,12,20,3,0
+g25,Interlake C,other,0,0,0,0,0
+g25,Interlake C,math,0,0,0,0,1
+g25,Interlake C,chemistry,0,0,0,0,0
+g25,Interlake C,ess,0,0,0,0,0
+g25,Interlake C,biology,14,4,10,1,1
+g25,Interlake C,physics,4,4,0,1,0
+g25,Tesla STEM A,other,56,16,40,4,0
+g25,Tesla STEM A,math,60,20,40,4,0
+g25,Tesla STEM A,chemistry,56,16,40,4,0
+g25,Tesla STEM A,ess,56,16,40,4,0
+g25,Tesla STEM A,biology,22,12,10,2,0
+g25,Tesla STEM A,physics,28,8,20,2,0
+g26,James Ruse B,other,0,0,0,0,0
+g26,James Ruse B,math,4,4,0,0,0
+g26,James Ruse B,chemistry,0,0,0,0,0
+g26,James Ruse B,ess,4,4,0,1,0
+g26,James Ruse B,biology,14,4,10,1,1
+g26,James Ruse B,physics,0,0,0,0,0
+g26,MSJ B,other,42,12,30,3,0
+g26,MSJ B,math,32,12,20,3,1
+g26,MSJ B,chemistry,46,16,30,4,0
+g26,MSJ B,ess,14,4,10,1,0
+g26,MSJ B,biology,8,8,0,1,0
+g26,MSJ B,physics,42,12,30,3,0
+g27,Baulkham Hills,other,14,4,10,1,0
+g27,Baulkham Hills,math,0,0,0,0,0
+g27,Baulkham Hills,chemistry,18,8,10,2,0
+g27,Baulkham Hills,ess,0,0,0,0,0
+g27,Baulkham Hills,biology,0,0,0,0,0
+g27,Baulkham Hills,physics,0,0,0,0,0
+g27,Wayzata A,other,28,8,20,2,0
+g27,Wayzata A,math,42,12,30,3,0
+g27,Wayzata A,chemistry,28,8,20,2,0
+g27,Wayzata A,ess,32,12,20,3,0
+g27,Wayzata A,biology,56,16,40,4,0
+g27,Wayzata A,physics,42,12,30,3,0
+g28,Enloe B,other,28,8,20,2,0
+g28,Enloe B,math,28,8,20,2,0
+g28,Enloe B,chemistry,42,12,30,3,0
+g28,Enloe B,ess,56,16,40,4,0
+g28,Enloe B,biology,42,12,30,3,0
+g28,Enloe B,physics,32,12,20,3,0
+g28,James Ruse C,other,0,0,0,0,0
+g28,James Ruse C,math,18,8,10,2,0
+g28,James Ruse C,chemistry,0,0,0,0,0
+g28,James Ruse C,ess,0,0,0,0,0
+g28,James Ruse C,biology,0,0,0,0,0
+g28,James Ruse C,physics,0,0,0,0,0
+g29,James Ruse D,other,4,4,0,1,0
+g29,James Ruse D,math,8,8,0,1,0
+g29,James Ruse D,chemistry,0,0,0,0,0
+g29,James Ruse D,ess,4,4,0,1,0
+g29,James Ruse D,biology,14,4,10,1,0
+g29,James Ruse D,physics,0,0,0,0,0
+g29,Wayzata B,other,28,8,20,2,0
+g29,Wayzata B,math,22,12,10,3,1
+g29,Wayzata B,chemistry,42,12,30,3,0
+g29,Wayzata B,ess,18,8,10,2,0
+g29,Wayzata B,biology,22,12,10,3,0
+g29,Wayzata B,physics,8,8,0,2,0
+g30,NoHo B,other,28,8,20,2,0
+g30,NoHo B,math,28,8,20,2,0
+g30,NoHo B,chemistry,32,12,20,3,0
+g30,NoHo B,ess,14,4,10,1,0
+g30,NoHo B,biology,0,0,0,0,0
+g30,NoHo B,physics,28,8,20,2,0
+g30,Venice,other,28,8,20,2,0
+g30,Venice,math,8,8,0,2,0
+g30,Venice,chemistry,4,4,0,1,0
+g30,Venice,ess,32,12,20,3,0
+g30,Venice,biology,46,16,30,4,0
+g30,Venice,physics,14,4,10,1,0
+g31,Interlake D,other,56,16,40,4,0
+g31,Interlake D,math,42,12,30,3,0
+g31,Interlake D,chemistry,46,16,30,4,0
+g31,Interlake D,ess,56,16,40,4,0
+g31,Interlake D,biology,26,16,10,4,0
+g31,Interlake D,physics,32,12,20,3,0
+g31,Tesla STEM B,other,0,0,0,0,0
+g31,Tesla STEM B,math,0,0,0,0,0
+g31,Tesla STEM B,chemistry,0,0,0,0,0
+g31,Tesla STEM B,ess,0,0,0,0,0
+g31,Tesla STEM B,biology,0,0,0,0,0
+g31,Tesla STEM B,physics,0,0,0,0,0
+g32,James Ruse A,other,4,4,0,1,0
+g32,James Ruse A,math,8,8,0,1,0
+g32,James Ruse A,chemistry,0,0,0,0,0
+g32,James Ruse A,ess,0,0,0,0,0
+g32,James Ruse A,biology,14,4,10,1,0
+g32,James Ruse A,physics,0,0,0,0,0
+g32,NCSSM B,other,42,12,30,3,0
+g32,NCSSM B,math,28,8,20,2,1
+g32,NCSSM B,chemistry,56,16,40,4,0
+g32,NCSSM B,ess,46,16,30,4,0
+g32,NCSSM B,biology,32,12,20,3,0
+g32,NCSSM B,physics,18,8,10,2,0
+g33,Enloe A,other,42,12,30,3,1
+g33,Enloe A,math,56,16,40,4,0
+g33,Enloe A,chemistry,56,16,40,4,0
+g33,Enloe A,ess,42,12,30,3,0
+g33,Enloe A,biology,42,12,30,3,0
+g33,Enloe A,physics,14,4,10,1,1
+g33,Roosevelt B,other,4,4,0,0,0
+g33,Roosevelt B,math,0,0,0,0,0
+g33,Roosevelt B,chemistry,0,0,0,0,0
+g33,Roosevelt B,ess,4,4,0,1,0
+g33,Roosevelt B,biology,0,0,0,0,0
+g33,Roosevelt B,physics,4,4,0,0,0
+g34,Lakeside B,other,0,0,0,0,0
+g34,Lakeside B,math,0,0,0,0,0
+g34,Lakeside B,chemistry,4,4,0,0,0
+g34,Lakeside B,ess,4,4,0,1,0
+g34,Lakeside B,biology,0,0,0,0,0
+g34,Lakeside B,physics,0,0,0,0,0
+g34,Pullman A,other,42,12,30,3,0
+g34,Pullman A,math,56,16,40,4,0
+g34,Pullman A,chemistry,28,8,20,2,1
+g34,Pullman A,ess,14,4,10,1,0
+g34,Pullman A,biology,26,16,10,4,0
+g34,Pullman A,physics,14,4,10,1,0
+g35,Canyon Crest B,other,28,8,20,2,0
+g35,Canyon Crest B,math,56,16,40,4,0
+g35,Canyon Crest B,chemistry,28,8,20,2,0
+g35,Canyon Crest B,ess,28,8,20,2,0
+g35,Canyon Crest B,biology,14,4,10,1,0
+g35,Canyon Crest B,physics,0,0,0,0,0
+g35,Rock Bridge B,other,0,0,0,0,0
+g35,Rock Bridge B,math,0,0,0,0,0
+g35,Rock Bridge B,chemistry,0,0,0,0,0
+g35,Rock Bridge B,ess,0,0,0,0,0
+g35,Rock Bridge B,biology,0,0,0,0,0
+g35,Rock Bridge B,physics,0,0,0,0,0
+g36,MSJ A,other,28,8,20,2,1
+g36,MSJ A,math,42,12,30,3,1
+g36,MSJ A,chemistry,46,16,30,4,0
+g36,MSJ A,ess,42,12,30,3,1
+g36,MSJ A,biology,14,4,10,1,2
+g36,MSJ A,physics,14,4,10,1,1
+g36,North ID STEM,other,18,8,10,1,0
+g36,North ID STEM,math,4,4,0,0,0
+g36,North ID STEM,chemistry,0,0,0,0,0
+g36,North ID STEM,ess,4,4,0,0,0
+g36,North ID STEM,biology,22,12,10,1,0
+g36,North ID STEM,physics,8,8,0,1,0
+g37,Amador Valley B,other,14,4,10,1,0
+g37,Amador Valley B,math,32,12,20,3,0
+g37,Amador Valley B,chemistry,42,12,30,3,1
+g37,Amador Valley B,ess,8,8,0,2,0
+g37,Amador Valley B,biology,0,0,0,0,0
+g37,Amador Valley B,physics,0,0,0,0,0
+g37,Roosevelt A,other,14,4,10,1,0
+g37,Roosevelt A,math,0,0,0,0,0
+g37,Roosevelt A,chemistry,4,4,0,0,0
+g37,Roosevelt A,ess,14,4,10,1,0
+g37,Roosevelt A,biology,12,12,0,3,0
+g37,Roosevelt A,physics,14,4,10,1,0
+g38,Lakeside A,other,0,0,0,0,1
+g38,Lakeside A,math,32,12,20,3,0
+g38,Lakeside A,chemistry,32,12,20,3,0
+g38,Lakeside A,ess,28,8,20,2,0
+g38,Lakeside A,biology,14,4,10,1,0
+g38,Lakeside A,physics,18,8,10,2,0
+g38,NoHo A,other,32,12,20,2,0
+g38,NoHo A,math,14,4,10,1,0
+g38,NoHo A,chemistry,14,4,10,1,0
+g38,NoHo A,ess,28,8,20,2,0
+g38,NoHo A,biology,28,8,20,2,0
+g38,NoHo A,physics,28,8,20,2,0
+g39,American B,other,0,0,0,0,0
+g39,American B,math,22,12,10,3,0
+g39,American B,chemistry,14,4,10,1,0
+g39,American B,ess,0,0,0,0,0
+g39,American B,biology,14,4,10,1,0
+g39,American B,physics,0,0,0,0,0
+g39,Wayzata C,other,18,8,10,2,0
+g39,Wayzata C,math,4,4,0,1,0
+g39,Wayzata C,chemistry,4,4,0,1,0
+g39,Wayzata C,ess,36,16,20,4,0
+g39,Wayzata C,biology,4,4,0,1,0
+g39,Wayzata C,physics,14,4,10,1,0
+g40,Bentonville,other,18,8,10,1,0
+g40,Bentonville,math,8,8,0,1,0
+g40,Bentonville,chemistry,0,0,0,0,0
+g40,Bentonville,ess,4,4,0,1,0
+g40,Bentonville,biology,4,4,0,1,0
+g40,Bentonville,physics,0,0,0,0,0
+g40,Canyon Crest A,other,14,4,10,1,1
+g40,Canyon Crest A,math,28,8,20,2,1
+g40,Canyon Crest A,chemistry,56,16,40,4,0
+g40,Canyon Crest A,ess,42,12,30,3,0
+g40,Canyon Crest A,biology,18,8,10,2,0
+g40,Canyon Crest A,physics,14,4,10,1,0
+g41,Amador Valley A,other,28,8,20,2,1
+g41,Amador Valley A,math,28,8,20,2,0
+g41,Amador Valley A,chemistry,0,0,0,0,1
+g41,Amador Valley A,ess,4,4,0,1,0
+g41,Amador Valley A,biology,42,12,30,3,1
+g41,Amador Valley A,physics,0,0,0,0,0
+g41,Tesla STEM A,other,8,8,0,1,0
+g41,Tesla STEM A,math,28,8,20,2,0
+g41,Tesla STEM A,chemistry,60,20,40,4,0
+g41,Tesla STEM A,ess,32,12,20,3,0
+g41,Tesla STEM A,biology,4,4,0,0,0
+g41,Tesla STEM A,physics,14,4,10,1,0
+g42,Interlake C,other,18,8,10,2,1
+g42,Interlake C,math,32,12,20,3,1
+g42,Interlake C,chemistry,14,4,10,1,0
+g42,Interlake C,ess,18,8,10,2,0
+g42,Interlake C,biology,32,12,20,3,1
+g42,Interlake C,physics,14,4,10,1,1
+g42,James Ruse B,other,18,8,10,1,0
+g42,James Ruse B,math,18,8,10,1,0
+g42,James Ruse B,chemistry,42,12,30,3,0
+g42,James Ruse B,ess,0,0,0,0,0
+g42,James Ruse B,biology,8,8,0,1,0
+g42,James Ruse B,physics,4,4,0,0,0
+g43,American A,other,4,4,0,0,1
+g43,American A,math,14,4,10,1,0
+g43,American A,chemistry,4,4,0,1,0
+g43,American A,ess,18,8,10,2,0
+g43,American A,biology,14,4,10,1,1
+g43,American A,physics,14,4,10,1,0
+g43,Wayzata A,other,46,16,30,3,1
+g43,Wayzata A,math,42,12,30,3,0
+g43,Wayzata A,chemistry,42,12,30,3,0
+g43,Wayzata A,ess,28,8,20,2,0
+g43,Wayzata A,biology,36,16,20,3,0
+g43,Wayzata A,physics,18,8,10,2,0
+g44,Baulkham Hills,other,4,4,0,0,0
+g44,Baulkham Hills,math,32,12,20,3,0
+g44,Baulkham Hills,chemistry,18,8,10,2,0
+g44,Baulkham Hills,ess,0,0,0,0,0
+g44,Baulkham Hills,biology,0,0,0,0,0
+g44,Baulkham Hills,physics,4,4,0,1,0
+g44,Enloe B,other,28,8,20,2,1
+g44,Enloe B,math,4,4,0,1,0
+g44,Enloe B,chemistry,28,8,20,2,0
+g44,Enloe B,ess,46,16,30,4,0
+g44,Enloe B,biology,56,16,40,4,0
+g44,Enloe B,physics,14,4,10,1,0
+g45,Interlake A,other,8,8,0,1,0
+g45,Interlake A,math,40,20,20,4,0
+g45,Interlake A,chemistry,46,16,30,4,0
+g45,Interlake A,ess,18,8,10,2,0
+g45,Interlake A,biology,42,12,30,3,0
+g45,Interlake A,physics,14,4,10,1,0
+g45,Wayzata B,other,14,4,10,1,1
+g45,Wayzata B,math,0,0,0,0,1
+g45,Wayzata B,chemistry,0,0,0,0,0
+g45,Wayzata B,ess,4,4,0,1,0
+g45,Wayzata B,biology,14,4,10,1,0
+g45,Wayzata B,physics,14,4,10,1,0
+g46,James Ruse D,other,8,8,0,1,0
+g46,James Ruse D,math,0,0,0,0,0
+g46,James Ruse D,chemistry,4,4,0,1,0
+g46,James Ruse D,ess,0,0,0,0,1
+g46,James Ruse D,biology,0,0,0,0,0
+g46,James Ruse D,physics,0,0,0,0,0
+g46,NoHo B,other,28,8,20,2,1
+g46,NoHo B,math,56,16,40,4,0
+g46,NoHo B,chemistry,28,8,20,2,0
+g46,NoHo B,ess,26,16,10,3,0
+g46,NoHo B,biology,18,8,10,2,0
+g46,NoHo B,physics,28,8,20,2,0
+g48,Interlake D,other,28,8,20,2,1
+g48,Interlake D,math,28,8,20,2,0
+g48,Interlake D,chemistry,28,8,20,2,1
+g48,Interlake D,ess,32,12,20,3,0
+g48,Interlake D,biology,56,16,40,4,0
+g48,Interlake D,physics,28,8,20,2,1
+g48,James Ruse A,other,4,4,0,0,0
+g48,James Ruse A,math,18,8,10,2,0
+g48,James Ruse A,chemistry,32,12,20,2,0
+g48,James Ruse A,ess,0,0,0,0,0
+g48,James Ruse A,biology,0,0,0,0,0
+g48,James Ruse A,physics,4,4,0,0,0
+g49,Enloe A,other,42,12,30,3,1
+g49,Enloe A,math,18,8,10,2,2
+g49,Enloe A,chemistry,42,12,30,3,0
+g49,Enloe A,ess,56,16,40,4,0
+g49,Enloe A,biology,56,16,40,4,0
+g49,Enloe A,physics,42,12,30,3,0
+g49,Rock Bridge A,other,4,4,0,0,0
+g49,Rock Bridge A,math,12,12,0,1,0
+g49,Rock Bridge A,chemistry,14,4,10,1,0
+g49,Rock Bridge A,ess,0,0,0,0,0
+g49,Rock Bridge A,biology,0,0,0,0,0
+g49,Rock Bridge A,physics,4,4,0,1,0
+g50,Pullman A,other,46,16,30,3,1
+g50,Pullman A,math,22,12,10,3,0
+g50,Pullman A,chemistry,4,4,0,1,0
+g50,Pullman A,ess,18,8,10,2,0
+g50,Pullman A,biology,36,16,20,4,0
+g50,Pullman A,physics,18,8,10,2,0
+g50,Roosevelt B,other,4,4,0,0,1
+g50,Roosevelt B,math,0,0,0,0,0
+g50,Roosevelt B,chemistry,4,4,0,1,0
+g50,Roosevelt B,ess,14,4,10,1,0
+g50,Roosevelt B,biology,0,0,0,0,0
+g50,Roosevelt B,physics,0,0,0,0,0
+g51,Canyon Crest B,other,30,20,10,4,0
+g51,Canyon Crest B,math,12,12,0,3,0
+g51,Canyon Crest B,chemistry,0,0,0,0,0
+g51,Canyon Crest B,ess,32,12,20,3,0
+g51,Canyon Crest B,biology,14,4,10,1,0
+g51,Canyon Crest B,physics,28,8,20,2,0
+g51,Pali,other,0,0,0,0,1
+g51,Pali,math,4,4,0,1,0
+g51,Pali,chemistry,0,0,0,0,0
+g51,Pali,ess,4,4,0,1,0
+g51,Pali,biology,8,8,0,2,0
+g51,Pali,physics,0,0,0,0,0
+g52,North ID STEM,other,0,0,0,0,0
+g52,North ID STEM,math,0,0,0,0,0
+g52,North ID STEM,chemistry,0,0,0,0,0
+g52,North ID STEM,ess,18,8,10,2,0
+g52,North ID STEM,biology,14,4,10,1,0
+g52,North ID STEM,physics,0,0,0,0,0
+g52,Rock Bridge B,other,4,4,0,1,0
+g52,Rock Bridge B,math,4,4,0,1,0
+g52,Rock Bridge B,chemistry,0,0,0,0,0
+g52,Rock Bridge B,ess,0,0,0,0,0
+g52,Rock Bridge B,biology,22,12,10,3,0
+g52,Rock Bridge B,physics,0,0,0,0,0
+g53,Amador Valley B,other,22,12,10,3,1
+g53,Amador Valley B,math,32,12,20,3,0
+g53,Amador Valley B,chemistry,0,0,0,0,0
+g53,Amador Valley B,ess,4,4,0,1,0
+g53,Amador Valley B,biology,14,4,10,1,0
+g53,Amador Valley B,physics,28,8,20,2,1
+g53,Pullman B,other,8,8,0,1,0
+g53,Pullman B,math,0,0,0,0,0
+g53,Pullman B,chemistry,4,4,0,1,0
+g53,Pullman B,ess,8,8,0,2,0
+g53,Pullman B,biology,8,8,0,2,0
+g53,Pullman B,physics,8,8,0,1,0
+g54,NoHo A,other,56,16,40,4,0
+g54,NoHo A,math,28,8,20,2,0
+g54,NoHo A,chemistry,26,16,10,3,0
+g54,NoHo A,ess,42,12,30,3,0
+g54,NoHo A,biology,56,16,40,4,0
+g54,NoHo A,physics,18,8,10,2,0
+g54,Roosevelt A,other,0,0,0,0,0
+g54,Roosevelt A,math,8,8,0,2,0
+g54,Roosevelt A,chemistry,0,0,0,0,1
+g54,Roosevelt A,ess,14,4,10,1,0
+g54,Roosevelt A,biology,0,0,0,0,0
+g54,Roosevelt A,physics,0,0,0,0,0
+g55,American B,other,4,4,0,1,1
+g55,American B,math,4,4,0,1,1
+g55,American B,chemistry,8,8,0,1,0
+g55,American B,ess,14,4,10,1,0
+g55,American B,biology,0,0,0,0,0
+g55,American B,physics,8,8,0,1,0
+g55,NCSSM A,other,22,12,10,2,0
+g55,NCSSM A,math,36,16,20,3,0
+g55,NCSSM A,chemistry,32,12,20,3,1
+g55,NCSSM A,ess,22,12,10,3,0
+g55,NCSSM A,biology,22,12,10,3,0
+g55,NCSSM A,physics,18,8,10,2,1
+g56,Canyon Crest A,other,36,16,20,3,1
+g56,Canyon Crest A,math,32,12,20,3,0
+g56,Canyon Crest A,chemistry,42,12,30,3,0
+g56,Canyon Crest A,ess,36,16,20,4,0
+g56,Canyon Crest A,biology,14,4,10,1,0
+g56,Canyon Crest A,physics,32,12,20,3,0
+g56,Wayzata C,other,18,8,10,1,1
+g56,Wayzata C,math,0,0,0,0,0
+g56,Wayzata C,chemistry,0,0,0,0,0
+g56,Wayzata C,ess,0,0,0,0,0
+g56,Wayzata C,biology,8,8,0,2,0
+g56,Wayzata C,physics,4,4,0,1,0
+g57,Amador Valley A,other,4,4,0,1,0
+g57,Amador Valley A,math,4,4,0,1,0
+g57,Amador Valley A,chemistry,22,12,10,2,0
+g57,Amador Valley A,ess,14,4,10,1,1
+g57,Amador Valley A,biology,14,4,10,1,0
+g57,Amador Valley A,physics,22,12,10,2,1
+g57,MSJ B,other,42,12,30,3,0
+g57,MSJ B,math,12,12,0,3,0
+g57,MSJ B,chemistry,4,4,0,1,1
+g57,MSJ B,ess,26,16,10,3,0
+g57,MSJ B,biology,18,8,10,2,0
+g57,MSJ B,physics,18,8,10,1,1
+g58,James Ruse B,other,8,8,0,2,0
+g58,James Ruse B,math,4,4,0,1,0
+g58,James Ruse B,chemistry,12,12,0,2,0
+g58,James Ruse B,ess,0,0,0,0,0
+g58,James Ruse B,biology,4,4,0,1,0
+g58,James Ruse B,physics,0,0,0,0,0
+g58,Tesla STEM A,other,28,8,20,2,0
+g58,Tesla STEM A,math,32,12,20,3,0
+g58,Tesla STEM A,chemistry,28,8,20,2,1
+g58,Tesla STEM A,ess,46,16,30,4,0
+g58,Tesla STEM A,biology,14,4,10,1,0
+g58,Tesla STEM A,physics,56,16,40,4,0
+g59,American A,other,28,8,20,2,0
+g59,American A,math,4,4,0,1,1
+g59,American A,chemistry,28,8,20,2,0
+g59,American A,ess,36,16,20,4,0
+g59,American A,biology,0,0,0,0,0
+g59,American A,physics,22,12,10,2,1
+g59,James Ruse C,other,8,8,0,2,0
+g59,James Ruse C,math,12,12,0,2,0
+g59,James Ruse C,chemistry,4,4,0,1,0
+g59,James Ruse C,ess,0,0,0,0,0
+g59,James Ruse C,biology,12,12,0,3,0
+g59,James Ruse C,physics,8,8,0,1,1
+g60,Enloe B,other,42,12,30,3,0
+g60,Enloe B,math,4,4,0,1,0
+g60,Enloe B,chemistry,4,4,0,1,0
+g60,Enloe B,ess,28,8,20,2,0
+g60,Enloe B,biology,32,12,20,3,0
+g60,Enloe B,physics,4,4,0,1,1
+g60,Wayzata A,other,14,4,10,1,0
+g60,Wayzata A,math,22,12,10,3,0
+g60,Wayzata A,chemistry,22,12,10,3,0
+g60,Wayzata A,ess,18,8,10,2,0
+g60,Wayzata A,biology,14,4,10,1,0
+g60,Wayzata A,physics,46,16,30,3,0
+g61,Interlake A,other,44,24,20,4,0
+g61,Interlake A,math,18,8,10,2,0
+g61,Interlake A,chemistry,8,8,0,2,0
+g61,Interlake A,ess,32,12,20,3,0
+g61,Interlake A,biology,28,8,20,2,0
+g61,Interlake A,physics,4,4,0,1,0
+g61,Venice,other,0,0,0,0,2
+g61,Venice,math,8,8,0,2,0
+g61,Venice,chemistry,28,8,20,2,0
+g61,Venice,ess,14,4,10,1,0
+g61,Venice,biology,28,8,20,2,0
+g61,Venice,physics,18,8,10,2,0
+g62,NoHo B,other,18,8,10,2,1
+g62,NoHo B,math,12,12,0,2,0
+g62,NoHo B,chemistry,4,4,0,1,0
+g62,NoHo B,ess,36,16,20,3,0
+g62,NoHo B,biology,18,8,10,2,0
+g62,NoHo B,physics,32,12,20,3,0
+g62,Wayzata B,other,22,12,10,2,0
+g62,Wayzata B,math,4,4,0,1,1
+g62,Wayzata B,chemistry,18,8,10,2,0
+g62,Wayzata B,ess,14,4,10,1,1
+g62,Wayzata B,biology,8,8,0,2,0
+g62,Wayzata B,physics,14,4,10,1,0
+g63,Fossil Ridge,other,32,12,20,3,0
+g63,Fossil Ridge,math,8,8,0,2,0
+g63,Fossil Ridge,chemistry,8,8,0,1,1
+g63,Fossil Ridge,ess,14,4,10,1,0
+g63,Fossil Ridge,biology,0,0,0,0,0
+g63,Fossil Ridge,physics,18,8,10,2,0
+g63,NCSSM B,other,4,4,0,1,0
+g63,NCSSM B,math,18,8,10,2,0
+g63,NCSSM B,chemistry,26,16,10,3,1
+g63,NCSSM B,ess,22,12,10,3,0
+g63,NCSSM B,biology,22,12,10,3,0
+g63,NCSSM B,physics,18,8,10,2,0
+g65,Enloe A,other,14,4,10,1,0
+g65,Enloe A,math,42,12,30,3,0
+g65,Enloe A,chemistry,36,16,20,3,1
+g65,Enloe A,ess,28,8,20,2,1
+g65,Enloe A,biology,36,16,20,3,0
+g65,Enloe A,physics,46,16,30,4,0
+g65,Pullman A,other,18,8,10,2,0
+g65,Pullman A,math,14,4,10,1,0
+g65,Pullman A,chemistry,8,8,0,1,1
+g65,Pullman A,ess,18,8,10,1,0
+g65,Pullman A,biology,4,4,0,1,1
+g65,Pullman A,physics,0,0,0,0,0
+g66,Lakeside B,other,4,4,0,1,0
+g66,Lakeside B,math,8,8,0,2,0
+g66,Lakeside B,chemistry,4,4,0,1,0
+g66,Lakeside B,ess,8,8,0,2,0
+g66,Lakeside B,biology,0,0,0,0,0
+g66,Lakeside B,physics,4,4,0,1,0
+g66,Rock Bridge A,other,4,4,0,1,0
+g66,Rock Bridge A,math,0,0,0,0,0
+g66,Rock Bridge A,chemistry,14,4,10,1,0
+g66,Rock Bridge A,ess,0,0,0,0,0
+g66,Rock Bridge A,biology,4,4,0,1,0
+g66,Rock Bridge A,physics,4,4,0,1,0
+g67,Canyon Crest B,other,12,12,0,3,0
+g67,Canyon Crest B,math,42,12,30,3,0
+g67,Canyon Crest B,chemistry,8,8,0,2,0
+g67,Canyon Crest B,ess,28,8,20,2,0
+g67,Canyon Crest B,biology,0,0,0,0,0
+g67,Canyon Crest B,physics,22,12,10,3,0
+g67,North ID STEM,other,4,4,0,1,0
+g67,North ID STEM,math,0,0,0,0,0
+g67,North ID STEM,chemistry,8,8,0,2,0
+g67,North ID STEM,ess,14,4,10,1,0
+g67,North ID STEM,biology,4,4,0,1,0
+g67,North ID STEM,physics,0,0,0,0,0
+g68,MSJ A,other,18,8,10,2,1
+g68,MSJ A,math,18,8,10,2,0
+g68,MSJ A,chemistry,42,12,30,3,0
+g68,MSJ A,ess,42,12,30,3,0
+g68,MSJ A,biology,42,12,30,3,0
+g68,MSJ A,physics,42,12,30,3,0
+g68,Pali,other,32,12,20,2,0
+g68,Pali,math,4,4,0,1,0
+g68,Pali,chemistry,0,0,0,0,0
+g68,Pali,ess,0,0,0,0,0
+g68,Pali,biology,0,0,0,0,0
+g68,Pali,physics,14,4,10,1,0
+g69,Amador Valley B,other,14,4,10,1,1
+g69,Amador Valley B,math,14,4,10,1,0
+g69,Amador Valley B,chemistry,0,0,0,0,1
+g69,Amador Valley B,ess,4,4,0,0,0
+g69,Amador Valley B,biology,0,0,0,0,0
+g69,Amador Valley B,physics,4,4,0,1,0
+g69,NoHo A,other,22,12,10,2,0
+g69,NoHo A,math,22,12,10,3,0
+g69,NoHo A,chemistry,36,16,20,3,0
+g69,NoHo A,ess,42,12,30,3,1
+g69,NoHo A,biology,56,16,40,4,0
+g69,NoHo A,physics,32,12,20,3,0
+g70,Lakeside A,other,42,12,30,3,0
+g70,Lakeside A,math,4,4,0,1,0
+g70,Lakeside A,chemistry,22,12,10,3,0
+g70,Lakeside A,ess,42,12,30,3,0
+g70,Lakeside A,biology,16,16,0,3,0
+g70,Lakeside A,physics,32,12,20,3,0
+g70,Pullman B,other,4,4,0,1,0
+g70,Pullman B,math,18,8,10,2,0
+g70,Pullman B,chemistry,4,4,0,1,0
+g70,Pullman B,ess,4,4,0,1,0
+g70,Pullman B,biology,0,0,0,0,1
+g70,Pullman B,physics,0,0,0,0,0
+g71,American B,other,4,4,0,1,0
+g71,American B,math,18,8,10,2,0
+g71,American B,chemistry,0,0,0,0,0
+g71,American B,ess,4,4,0,1,0
+g71,American B,biology,0,0,0,0,0
+g71,American B,physics,4,4,0,1,0
+g71,Canyon Crest A,other,22,12,10,3,0
+g71,Canyon Crest A,math,18,8,10,2,0
+g71,Canyon Crest A,chemistry,32,12,20,3,0
+g71,Canyon Crest A,ess,14,4,10,1,0
+g71,Canyon Crest A,biology,18,8,10,2,0
+g71,Canyon Crest A,physics,0,0,0,0,0
+g72,Bentonville,other,4,4,0,1,1
+g72,Bentonville,math,0,0,0,0,0
+g72,Bentonville,chemistry,0,0,0,0,0
+g72,Bentonville,ess,14,4,10,1,0
+g72,Bentonville,biology,0,0,0,0,0
+g72,Bentonville,physics,0,0,0,0,0
+g72,NCSSM A,other,32,12,20,2,0
+g72,NCSSM A,math,46,16,30,4,0
+g72,NCSSM A,chemistry,18,8,10,2,0
+g72,NCSSM A,ess,14,4,10,1,0
+g72,NCSSM A,biology,36,16,20,4,0
+g72,NCSSM A,physics,46,16,30,4,0
+g73,Amador Valley A,other,18,8,10,2,0
+g73,Amador Valley A,math,18,8,10,2,0
+g73,Amador Valley A,chemistry,8,8,0,2,0
+g73,Amador Valley A,ess,22,12,10,3,0
+g73,Amador Valley A,biology,22,12,10,2,0
+g73,Amador Valley A,physics,8,8,0,2,2
+g73,James Ruse B,other,4,4,0,1,0
+g73,James Ruse B,math,4,4,0,1,0
+g73,James Ruse B,chemistry,0,0,0,0,0
+g73,James Ruse B,ess,0,0,0,0,0
+g73,James Ruse B,biology,0,0,0,0,1
+g73,James Ruse B,physics,8,8,0,0,0
+g74,Interlake C,other,32,12,20,2,1
+g74,Interlake C,math,28,8,20,2,1
+g74,Interlake C,chemistry,8,8,0,2,0
+g74,Interlake C,ess,4,4,0,1,0
+g74,Interlake C,biology,56,16,40,4,0
+g74,Interlake C,physics,4,4,0,1,0
+g74,MSJ B,other,18,8,10,1,1
+g74,MSJ B,math,22,12,10,2,0
+g74,MSJ B,chemistry,4,4,0,1,0
+g74,MSJ B,ess,28,8,20,2,0
+g74,MSJ B,biology,0,0,0,0,0
+g74,MSJ B,physics,32,12,20,3,0
+g75,American A,other,14,4,10,1,0
+g75,American A,math,8,8,0,2,0
+g75,American A,chemistry,18,8,10,2,1
+g75,American A,ess,0,0,0,0,0
+g75,American A,biology,14,4,10,1,0
+g75,American A,physics,0,0,0,0,0
+g75,Enloe B,other,42,12,30,3,0
+g75,Enloe B,math,18,8,10,2,0
+g75,Enloe B,chemistry,18,8,10,1,0
+g75,Enloe B,ess,46,16,30,4,0
+g75,Enloe B,biology,32,12,20,3,0
+g75,Enloe B,physics,46,16,30,4,0
+g76,Baulkham Hills,other,18,8,10,2,0
+g76,Baulkham Hills,math,4,4,0,1,0
+g76,Baulkham Hills,chemistry,18,8,10,2,0
+g76,Baulkham Hills,ess,18,8,10,2,0
+g76,Baulkham Hills,biology,0,0,0,0,0
+g76,Baulkham Hills,physics,4,4,0,1,0
+g76,James Ruse C,other,0,0,0,0,0
+g76,James Ruse C,math,18,8,10,2,0
+g76,James Ruse C,chemistry,4,4,0,1,0
+g76,James Ruse C,ess,0,0,0,0,0
+g76,James Ruse C,biology,4,4,0,1,0
+g76,James Ruse C,physics,18,8,10,2,0
+g77,Interlake A,other,40,20,20,4,0
+g77,Interlake A,math,28,8,20,2,0
+g77,Interlake A,chemistry,28,8,20,2,0
+g77,Interlake A,ess,0,0,0,0,0
+g77,Interlake A,biology,32,12,20,3,0
+g77,Interlake A,physics,14,4,10,1,0
+g77,NoHo B,other,0,0,0,0,1
+g77,NoHo B,math,14,4,10,1,0
+g77,NoHo B,chemistry,4,4,0,1,0
+g77,NoHo B,ess,18,8,10,2,0
+g77,NoHo B,biology,4,4,0,1,0
+g77,NoHo B,physics,32,12,20,3,0
+g78,James Ruse D,other,18,8,10,1,0
+g78,James Ruse D,math,4,4,0,1,0
+g78,James Ruse D,chemistry,0,0,0,0,0
+g78,James Ruse D,ess,0,0,0,0,0
+g78,James Ruse D,biology,4,4,0,0,0
+g78,James Ruse D,physics,0,0,0,0,0
+g78,Venice,other,8,8,0,2,1
+g78,Venice,math,32,12,20,3,0
+g78,Venice,chemistry,46,16,30,4,0
+g78,Venice,ess,32,12,20,3,0
+g78,Venice,biology,42,12,30,3,1
+g78,Venice,physics,42,12,30,3,0
+g79,Fossil Ridge,other,22,12,10,3,0
+g79,Fossil Ridge,math,42,12,30,3,0
+g79,Fossil Ridge,chemistry,32,12,20,3,0
+g79,Fossil Ridge,ess,22,12,10,2,0
+g79,Fossil Ridge,biology,4,4,0,1,0
+g79,Fossil Ridge,physics,42,12,30,3,0
+g79,James Ruse A,other,0,0,0,0,0
+g79,James Ruse A,math,0,0,0,0,0
+g79,James Ruse A,chemistry,4,4,0,1,0
+g79,James Ruse A,ess,14,4,10,1,1
+g79,James Ruse A,biology,14,4,10,1,0
+g79,James Ruse A,physics,0,0,0,0,0
+g80,Interlake D,other,4,4,0,1,0
+g80,Interlake D,math,18,8,10,2,0
+g80,Interlake D,chemistry,46,16,30,4,0
+g80,Interlake D,ess,56,16,40,4,0
+g80,Interlake D,biology,22,12,10,2,0
+g80,Interlake D,physics,22,12,10,2,0
+g80,NCSSM B,other,28,8,20,2,0
+g80,NCSSM B,math,14,4,10,1,0
+g80,NCSSM B,chemistry,0,0,0,0,0
+g80,NCSSM B,ess,0,0,0,0,0
+g80,NCSSM B,biology,18,8,10,2,1
+g80,NCSSM B,physics,0,0,0,0,1
+g81,Enloe A,other,36,16,20,3,0
+g81,Enloe A,math,18,8,10,1,0
+g81,Enloe A,chemistry,14,4,10,1,0
+g81,Enloe A,ess,42,12,30,3,0
+g81,Enloe A,biology,4,4,0,1,1
+g81,Enloe A,physics,18,8,10,1,1
+g81,Interlake A,other,0,0,0,0,1
+g81,Interlake A,math,28,8,20,2,1
+g81,Interlake A,chemistry,8,8,0,2,0
+g81,Interlake A,ess,14,4,10,1,0
+g81,Interlake A,biology,36,16,20,3,0
+g81,Interlake A,physics,36,16,20,3,1
+g82,Wayzata A,other,36,16,20,3,0
+g82,Wayzata A,math,32,12,20,3,1
+g82,Wayzata A,chemistry,28,8,20,2,0
+g82,Wayzata A,ess,26,16,10,3,0
+g82,Wayzata A,biology,42,12,30,3,1
+g82,Wayzata A,physics,14,4,10,1,1
+g82,Tesla STEM A,other,0,0,0,0,1
+g82,Tesla STEM A,math,18,8,10,1,0
+g82,Tesla STEM A,chemistry,18,8,10,2,0
+g82,Tesla STEM A,ess,0,0,0,0,1
+g82,Tesla STEM A,biology,4,4,0,0,0
+g82,Tesla STEM A,physics,18,8,10,1,0
+g83,NoHo A,other,18,8,10,2,1
+g83,NoHo A,math,14,4,10,1,1
+g83,NoHo A,chemistry,28,8,20,2,0
+g83,NoHo A,ess,42,12,30,3,0
+g83,NoHo A,biology,14,4,10,1,0
+g83,NoHo A,physics,28,8,20,2,1
+g83,Canyon Crest A,other,32,12,20,2,0
+g83,Canyon Crest A,math,32,12,20,2,0
+g83,Canyon Crest A,chemistry,18,8,10,2,0
+g83,Canyon Crest A,ess,14,4,10,1,0
+g83,Canyon Crest A,biology,8,8,0,2,0
+g83,Canyon Crest A,physics,18,8,10,1,0
+g84,MSJ A,other,32,12,20,2,0
+g84,MSJ A,math,56,16,40,4,0
+g84,MSJ A,chemistry,28,8,20,2,1
+g84,MSJ A,ess,32,12,20,2,1
+g84,MSJ A,biology,18,8,10,1,0
+g84,MSJ A,physics,32,12,20,3,0
+g84,Interlake D,other,0,0,0,0,1
+g84,Interlake D,math,0,0,0,0,0
+g84,Interlake D,chemistry,32,12,20,2,0
+g84,Interlake D,ess,18,8,10,1,1
+g84,Interlake D,biology,22,12,10,3,1
+g84,Interlake D,physics,0,0,0,0,0
+g85,Enloe B,other,8,8,0,1,0
+g85,Enloe B,math,42,12,30,3,0
+g85,Enloe B,chemistry,4,4,0,1,0
+g85,Enloe B,ess,14,4,10,1,0
+g85,Enloe B,biology,14,4,10,1,0
+g85,Enloe B,physics,14,4,10,1,1
+g85,Canyon Crest B,other,14,4,10,1,1
+g85,Canyon Crest B,math,14,4,10,1,0
+g85,Canyon Crest B,chemistry,0,0,0,0,0
+g85,Canyon Crest B,ess,28,8,20,2,0
+g85,Canyon Crest B,biology,0,0,0,0,0
+g85,Canyon Crest B,physics,18,8,10,1,0
+g86,Venice,other,0,0,0,0,1
+g86,Venice,math,14,4,10,1,0
+g86,Venice,chemistry,4,4,0,1,0
+g86,Venice,ess,0,0,0,0,0
+g86,Venice,biology,14,4,10,1,0
+g86,Venice,physics,28,8,20,2,0
+g86,Pullman A,other,8,8,0,1,0
+g86,Pullman A,math,42,12,30,3,0
+g86,Pullman A,chemistry,0,0,0,0,0
+g86,Pullman A,ess,4,4,0,1,0
+g86,Pullman A,biology,0,0,0,0,0
+g86,Pullman A,physics,0,0,0,0,0
+g87,Lakeside A,other,14,4,10,1,2
+g87,Lakeside A,math,42,12,30,3,0
+g87,Lakeside A,chemistry,18,8,10,2,0
+g87,Lakeside A,ess,18,8,10,2,1
+g87,Lakeside A,biology,4,4,0,0,0
+g87,Lakeside A,physics,32,12,20,2,0
+g87,NCSSM B,other,22,12,10,1,0
+g87,NCSSM B,math,14,4,10,1,0
+g87,NCSSM B,chemistry,0,0,0,0,0
+g87,NCSSM B,ess,8,8,0,1,0
+g87,NCSSM B,biology,18,8,10,2,1
+g87,NCSSM B,physics,4,4,0,1,1
+g88,NCSSM A,other,18,8,10,2,0
+g88,NCSSM A,math,28,8,20,2,0
+g88,NCSSM A,chemistry,8,8,0,2,0
+g88,NCSSM A,ess,8,8,0,2,0
+g88,NCSSM A,biology,22,12,10,3,0
+g88,NCSSM A,physics,28,8,20,2,0
+g88,MSJ B,other,14,4,10,1,0
+g88,MSJ B,math,28,8,20,2,0
+g88,MSJ B,chemistry,4,4,0,1,0
+g88,MSJ B,ess,0,0,0,0,0
+g88,MSJ B,biology,0,0,0,0,0
+g88,MSJ B,physics,18,8,10,2,0
+g89,Interlake A,other,0,0,0,0,1
+g89,Interlake A,math,14,4,10,1,0
+g89,Interlake A,chemistry,4,4,0,1,0
+g89,Interlake A,ess,14,4,10,1,0
+g89,Interlake A,biology,12,12,0,2,0
+g89,Interlake A,physics,4,4,0,1,1
+g89,Enloe B,other,50,20,30,4,0
+g89,Enloe B,math,28,8,20,2,0
+g89,Enloe B,chemistry,28,8,20,2,0
+g89,Enloe B,ess,18,8,10,2,0
+g89,Enloe B,biology,4,4,0,1,1
+g89,Enloe B,physics,22,12,10,2,0
+g90,Tesla STEM A,other,42,12,30,3,0
+g90,Tesla STEM A,math,28,8,20,2,0
+g90,Tesla STEM A,chemistry,42,12,30,3,0
+g90,Tesla STEM A,ess,32,12,20,2,0
+g90,Tesla STEM A,biology,0,0,0,0,0
+g90,Tesla STEM A,physics,42,12,30,3,0
+g90,Venice,other,14,4,10,1,0
+g90,Venice,math,4,4,0,1,0
+g90,Venice,chemistry,4,4,0,1,0
+g90,Venice,ess,18,8,10,2,1
+g90,Venice,biology,28,8,20,2,0
+g90,Venice,physics,0,0,0,0,0
+g91,Canyon Crest A,other,18,8,10,2,1
+g91,Canyon Crest A,math,14,4,10,1,0
+g91,Canyon Crest A,chemistry,4,4,0,1,0
+g91,Canyon Crest A,ess,28,8,20,2,0
+g91,Canyon Crest A,biology,0,0,0,0,0
+g91,Canyon Crest A,physics,0,0,0,0,0
+g91,Lakeside A,other,32,12,20,2,0
+g91,Lakeside A,math,42,12,30,3,0
+g91,Lakeside A,chemistry,28,8,20,2,0
+g91,Lakeside A,ess,18,8,10,2,0
+g91,Lakeside A,biology,4,4,0,1,0
+g91,Lakeside A,physics,18,8,10,2,0
+g92,Interlake D,other,18,8,10,2,0
+g92,Interlake D,math,0,0,0,0,0
+g92,Interlake D,chemistry,18,8,10,2,0
+g92,Interlake D,ess,46,16,30,3,0
+g92,Interlake D,biology,28,8,20,2,0
+g92,Interlake D,physics,4,4,0,1,1
+g92,NCSSM A,other,28,8,20,2,0
+g92,NCSSM A,math,32,12,20,3,0
+g92,NCSSM A,chemistry,28,8,20,2,0
+g92,NCSSM A,ess,4,4,0,1,1
+g92,NCSSM A,biology,0,0,0,0,0
+g92,NCSSM A,physics,22,12,10,2,0
+g93,Enloe A,other,18,8,10,2,0
+g93,Enloe A,math,18,8,10,1,0
+g93,Enloe A,chemistry,28,8,20,2,0
+g93,Enloe A,ess,42,12,30,3,0
+g93,Enloe A,biology,14,4,10,1,1
+g93,Enloe A,physics,18,8,10,1,1
+g93,Wayzata A,other,14,4,10,1,0
+g93,Wayzata A,math,8,8,0,2,1
+g93,Wayzata A,chemistry,14,4,10,1,0
+g93,Wayzata A,ess,4,4,0,1,0
+g93,Wayzata A,biology,32,12,20,2,0
+g93,Wayzata A,physics,46,16,30,3,1
+g94,NoHo A,other,32,12,20,3,0
+g94,NoHo A,math,0,0,0,0,0
+g94,NoHo A,chemistry,28,8,20,2,1
+g94,NoHo A,ess,42,12,30,3,0
+g94,NoHo A,biology,46,16,30,3,0
+g94,NoHo A,physics,18,8,10,1,0
+g94,MSJ A,other,14,4,10,1,0
+g94,MSJ A,math,46,16,30,4,0
+g94,MSJ A,chemistry,32,12,20,2,0
+g94,MSJ A,ess,0,0,0,0,0
+g94,MSJ A,biology,14,4,10,1,1
+g94,MSJ A,physics,42,12,30,3,1
+g95,Enloe B,other,4,4,0,1,0
+g95,Enloe B,math,28,8,20,2,1
+g95,Enloe B,chemistry,26,16,10,2,0
+g95,Enloe B,ess,8,8,0,2,0
+g95,Enloe B,biology,22,12,10,3,1
+g95,Enloe B,physics,14,4,10,1,0
+g95,Tesla STEM A,other,14,4,10,1,0
+g95,Tesla STEM A,math,22,12,10,2,0
+g95,Tesla STEM A,chemistry,28,8,20,2,2
+g95,Tesla STEM A,ess,28,8,20,2,0
+g95,Tesla STEM A,biology,18,8,10,1,0
+g95,Tesla STEM A,physics,42,12,30,3,0
+g96,Lakeside A,other,18,8,10,2,0
+g96,Lakeside A,math,0,0,0,0,1
+g96,Lakeside A,chemistry,8,8,0,1,0
+g96,Lakeside A,ess,40,20,20,4,0
+g96,Lakeside A,biology,14,4,10,1,0
+g96,Lakeside A,physics,0,0,0,0,1
+g96,NCSSM A,other,14,4,10,1,0
+g96,NCSSM A,math,50,20,30,4,0
+g96,NCSSM A,chemistry,32,12,20,3,1
+g96,NCSSM A,ess,0,0,0,0,1
+g96,NCSSM A,biology,22,12,10,3,0
+g96,NCSSM A,physics,26,16,10,3,0
+g97,MSJ A,other,14,4,10,1,1
+g97,MSJ A,math,18,8,10,1,1
+g97,MSJ A,chemistry,32,12,20,3,0
+g97,MSJ A,ess,28,8,20,2,0
+g97,MSJ A,biology,22,12,10,3,0
+g97,MSJ A,physics,8,8,0,1,1
+g97,Tesla STEM A,other,18,8,10,1,0
+g97,Tesla STEM A,math,32,12,20,2,1
+g97,Tesla STEM A,chemistry,4,4,0,1,0
+g97,Tesla STEM A,ess,28,8,20,2,0
+g97,Tesla STEM A,biology,0,0,0,0,0
+g97,Tesla STEM A,physics,46,16,30,3,1
+g98,Wayzata A,other,22,12,10,2,0
+g98,Wayzata A,math,14,4,10,1,0
+g98,Wayzata A,chemistry,4,4,0,1,0
+g98,Wayzata A,ess,28,8,20,2,0
+g98,Wayzata A,biology,4,4,0,0,2
+g98,Wayzata A,physics,0,0,0,0,0
+g98,NCSSM A,other,0,0,0,0,1
+g98,NCSSM A,math,4,4,0,1,0
+g98,NCSSM A,chemistry,8,8,0,2,0
+g98,NCSSM A,ess,0,0,0,0,0
+g98,NCSSM A,biology,26,16,10,2,1
+g98,NCSSM A,physics,46,16,30,4,0
+g99,Enloe A,other,4,4,0,1,0
+g99,Enloe A,math,22,12,10,3,0
+g99,Enloe A,chemistry,46,16,30,3,0
+g99,Enloe A,ess,4,4,0,1,1
+g99,Enloe A,biology,8,8,0,1,0
+g99,Enloe A,physics,36,16,20,3,0
+g99,NoHo A,other,28,8,20,2,0
+g99,NoHo A,math,4,4,0,1,0
+g99,NoHo A,chemistry,14,4,10,1,1
+g99,NoHo A,ess,46,16,30,3,0
+g99,NoHo A,biology,28,8,20,2,1
+g99,NoHo A,physics,4,4,0,1,1
+g100,Tesla STEM A,other,14,4,10,1,0
+g100,Tesla STEM A,math,14,4,10,1,0
+g100,Tesla STEM A,chemistry,60,20,40,4,0
+g100,Tesla STEM A,ess,12,12,0,3,0
+g100,Tesla STEM A,biology,4,4,0,1,1
+g100,Tesla STEM A,physics,4,4,0,1,0
+g100,NCSSM A,other,14,4,10,1,0
+g100,NCSSM A,math,8,8,0,2,0
+g100,NCSSM A,chemistry,0,0,0,0,1
+g100,NCSSM A,ess,4,4,0,1,0
+g100,NCSSM A,biology,22,12,10,2,0
+g100,NCSSM A,physics,22,12,10,3,0
+g101,Enloe A,other,0,0,0,0,0
+g101,Enloe A,math,36,16,20,4,0
+g101,Enloe A,chemistry,14,4,10,1,1
+g101,Enloe A,ess,4,4,0,1,1
+g101,Enloe A,biology,32,12,20,2,0
+g101,Enloe A,physics,4,4,0,1,1
+g101,Tesla STEM A,other,14,4,10,1,0
+g101,Tesla STEM A,math,0,0,0,0,0
+g101,Tesla STEM A,chemistry,36,16,20,3,0
+g101,Tesla STEM A,ess,26,16,10,3,0
+g101,Tesla STEM A,biology,4,4,0,1,1
+g101,Tesla STEM A,physics,18,8,10,1,0
+g102,NoHo A,other,18,8,10,2,0
+g102,NoHo A,math,14,4,10,1,0
+g102,NoHo A,chemistry,28,8,20,2,1
+g102,NoHo A,ess,42,12,30,3,0
+g102,NoHo A,biology,42,12,30,3,0
+g102,NoHo A,physics,12,12,0,3,0
+g102,Tesla STEM A,other,8,8,0,2,0
+g102,Tesla STEM A,math,4,4,0,1,0
+g102,Tesla STEM A,chemistry,18,8,10,1,0
+g102,Tesla STEM A,ess,0,0,0,0,0
+g102,Tesla STEM A,biology,4,4,0,1,0
+g102,Tesla STEM A,physics,14,4,10,1,0

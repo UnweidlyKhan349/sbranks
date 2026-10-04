@@ -1,0 +1,31 @@
+{
+  "tournament_id": "2025-12-06-berkeley-science-bowl",
+  "counts": {
+    "teams": 47,
+    "games": 199,
+    "games_with_scores": 195,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 1308,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": true,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "RR2 Davidson A 218.0 - Saint Francis 38.0: question grid does not reproduce the score; no subject breakdown",
+    "RR3 Davidson A 224.0 - Mountain House 22.0: question grid does not reproduce the score; no subject breakdown",
+    "RR3 Cupertino B 30.0 - Dougherty Valley B 136.0: question grid does not reproduce the score; no subject breakdown",
+    "RR3 BASIS Silicon Valley B 106.0 - Quarry Lane A 22.0: question grid does not reproduce the score; no subject breakdown",
+    "RR4 Archbishop Mitty 114.0 - BASIS Silicon Valley A 126.0: question grid does not reproduce the score; no subject breakdown",
+    "RR5 Brooklyn 12.0 - BASIS Silicon Valley B 92.0: question grid does not reproduce the score; no subject breakdown",
+    "Swiss rounds ['Swiss 5'] have no scores"
+  ],
+  "parser": "g5_berkeley25:parse"
+}

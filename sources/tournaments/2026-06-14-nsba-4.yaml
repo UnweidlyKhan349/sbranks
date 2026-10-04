@@ -2,7 +2,7 @@ id: 2026-06-14-nsba-4
 name: NSBA 4
 date: '2026-06-14'
 end_date: '2026-08-30'
-season: 2025-26
+season: 2026-27
 location: Online
 online: true
 division: HS
@@ -17,9 +17,19 @@ sources:
   role: results+stats
   slug: nsba-4
   url: https://isobowl.com/premier/tournaments/nsba-4/standings
+- kind: manual
+  role: crosscheck
+  file: isobowl/stats_page.txt
+  url: https://isobowl.com/premier/tournaments/nsba-4/stats
+  note: 'rendered team + individual stats tables (Playwright: pipeline/parsers/tools/g1_render_page.js); used only to cross-check
+    (pipeline/parsers/tools/g1_check_isobowl.py)'
 parser: g1_isobowl:parse
 parser_options:
   name_overrides:
     mingworm captain: dea
-status: todo
-notes: ''
+status: parsed
+notes: 'ISOBowl API (online league): all 49 games (7 conference RR rounds + QF/SF/Final) with per-question logs -> per-player
+  per-subject stats with TUH, team_game_subjects, player_game_stats; computer science -> ''other''. Cross-checked against
+  the isobowl.com stats page: all 14 teams match; individual rows match except intended merges (two accounts each for Abhinav
+  A/Gid, Nihar B/Uncs, Rehan/CZZ) and Eric L (buzzed once without being listed active; the page omits him but counts his tossup
+  for the team). Mingworms players used shared ''mingworm N'' accounts; their typed display names are used.'

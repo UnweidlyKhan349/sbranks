@@ -1,0 +1,40 @@
+{
+  "tournament_id": "2026-01-10-aves-2",
+  "counts": {
+    "teams": 71,
+    "games": 220,
+    "games_with_scores": 220,
+    "player_stat_rows": 2772,
+    "players": 317,
+    "team_game_subject_rows": 2200,
+    "player_game_stat_rows": 4329
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [
+    "RR game 458 BISV 3 vs University 1 not played (grid shows '-')",
+    "RR game 459 BISV 3 vs Harvard Westlake 1 not played (grid shows '-')",
+    "RR game 460 BISV 3 vs North Hollywood 2 not played (grid shows '-')",
+    "RR game 461 BISV 3 vs WWPS 1 not played (grid shows '-')",
+    "RR game 462 BISV 3 vs Jericho 2 not played (grid shows '-')",
+    "merged 2 accounts named 'Rhea Bhadange' on Academies of Loudoun",
+    "merged 2 accounts named 'Kenneth Michel' on BRMHS 2",
+    "merged 2 accounts named 'Aryan Deshmukh' on CCA 2",
+    "merged 2 accounts named 'Ishan Anne' on Collierville 2",
+    "merged 2 accounts named 'Aryan Ahire' on John P. Stevens",
+    "merged 2 accounts named 'Sreehaas Mannepalli' on John P. Stevens",
+    "merged 2 accounts named 'Abhiraam Girish' on MSJ 3",
+    "merged 3 accounts named 'Dakshaganesh Akunuru' on North Hollywood 2",
+    "merged 3 accounts named 'Jamir Campbell' on Research Triangle",
+    "merged 2 accounts named 'Shayan Guior' on Research Triangle",
+    "merged 2 accounts named 'Chaniel Kpekpe' on Whitney Young 1"
+  ],
+  "parser": "g1_eyrie:parse"
+}

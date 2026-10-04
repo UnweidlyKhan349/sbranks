@@ -9,9 +9,9 @@ division: HS
 include: true
 exclude_reason: null
 kind: invitational
-level: standard
+level: advanced
 subject_only: null
-question_set: null
+question_set: olympus-2023
 sources:
 - kind: url
   role: results
@@ -31,7 +31,19 @@ sources:
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRYe77bW91jFvvXuzII8jNyxbeHa8g_bxqhlxgwuInT7nDdmBOwhaitcq4tsruaFXKM0NoLMbn8a6Kp/pub?output=xlsx
   file: stats_sheet.xlsx
   note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_ignis:parse_online
+parser_options:
+  schools:
+    NoHo: North Hollywood High School
+    Centennial: Centennial High School
+    Mira Loma: Mira Loma High School
+    Dulles: Dulles High School
+  states:
+    NoHo: CA
+    Centennial: MD
+    Mira Loma: CA
+    Dulles: TX
+status: parsed
+notes: National-level Olympus set (X-Risk -> 'other'), 48 invited teams. RR divisions + double elimination (finals played
+  twice). Per-game subject points and player buzzes from the buzz log; MSMS's side was never logged (it scored 0-4 in all
+  games), so only its opponents' per-game data exist. Player totals with full names from the account list.

@@ -23,7 +23,13 @@ sources:
   sheet_id: 1mOKnaq0-nSvL863-SrAN8x5zWR9AsgE6qOelC1GFNRQ
   url: https://docs.google.com/spreadsheets/d/1mOKnaq0-nSvL863-SrAN8x5zWR9AsgE6qOelC1GFNRQ/edit?usp=sharing
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_bsb:parse_texas_2025
+parser_options:
+  forfeit_codes:
+  - L4
+status: parsed
+notes: 48 teams in 8 pools of 6 (RR Tables grids, rounds from RR Games) plus the 30-game DE bracket (Mission San Jose beat
+  Frazer in the final). Player stats from the MODAQ export tabs for RR and DE separately, per subject with subject TUH (no
+  energy category); corrects/negs/0s derived exactly from GP, buzzes, PPG, NPG and accuracy. Everett Evergreen MS (L4) forfeited
+  every RR game (0-178 in the grid, stored as forfeits); two players' DE rows were dropped because their games exceed their
+  team's DE games; Redmond/Everett Evergreen MS are middle-school teams entered in this HS field.

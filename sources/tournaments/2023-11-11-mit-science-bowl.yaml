@@ -18,7 +18,44 @@ sources:
   sheet_id: 1HcmdA4lmlFEzSLPoYxIQA2TbeFz4iSZv002rDs5Song
   url: https://docs.google.com/spreadsheets/d/1HcmdA4lmlFEzSLPoYxIQA2TbeFz4iSZv002rDs5Song/edit#gid=1191694692
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mit:parse
+parser_options:
+  brackets:
+  - tab: Double Elimination
+    header_row: 0
+    strip:
+    - ^(Winner|Loser|Lower) of [WL]\d+:\s*
+    extra_rounds:
+      DE8: 18
+    games:
+    - W1 | DE1 | B6 | B8 | C7
+    - W2 | DE1 | B10 | B12 | C11
+    - W3 | DE1 | B20 | B22 | C21
+    - W4 | DE1 | B24 | B26 | C25
+    - W5 | DE2 | B4 | C7 | D6
+    - W6 | DE2 | C11 | B14 | D12
+    - W7 | DE2 | B18 | C21 | D20
+    - W8 | DE2 | C25 | B28 | D26
+    - L1 | DE2 | C35 | C37 | D36
+    - L2 | DE2 | C39 | C41 | D40
+    - W9 | DE3 | D6 | D12 | E9
+    - W10 | DE3 | D20 | D26 | E23
+    - L3 | DE3 | D36 | D40 | E38
+    - L4 | DE3 | D43 | D45 | E44
+    - L5 | DE3 | D48 | D50 | E49
+    - W11 | DE4 | E9 | E23 | F16
+    - L6 | DE4 | E33 | E38 | F36
+    - L7 | DE4 | E44 | E49 | F47
+    - L8 | DE5 | F31 | F36 | G34
+    - L9 | DE5 | F47 | E53 | G50
+    - L10 | DE6 | G34 | G50 | H43
+    - Final 1 | DE7 | F16 | H43 | I27
+    - Final 2 | DE8 | F16 | H43 | =University
+  label_check: true
+  aliases:
+    Westminster: Westminster 1
+status: parsed
+notes: Results only. Round-robin grids give win/tie/loss codes only. The 12-team double-elimination bracket (winners only)
+  is checked against all 32 'Winner of / Loser of' labels. The sheet names only University (one-loss side) as champion over
+  undefeated Lexington, so the second final (DE8) is inferred. Group E's tiebreak (Southern Pirates 1 over Enloe HS B) is
+  not recorded as a game.

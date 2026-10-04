@@ -23,7 +23,10 @@ sources:
   sheet_id: 1ZNmI5PtUwu6gqVRhZadluGzDl31OXrZyZ8K0z6pOLgM
   url: https://docs.google.com/spreadsheets/d/1ZNmI5PtUwu6gqVRhZadluGzDl31OXrZyZ8K0z6pOLgM/edit?usp=drivesdk
   file: stats.xlsx
-parser: null
+parser: g5_berkeley25:parse
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: '199 games: 115 RR (rounds recovered from the per-team question grid, which reproduces 109 scores exactly), the 30-game
+  DE bracket and 54 Swiss-consolation games (rounds 1-4 incl. 4 forfeits; round 5 has no scores). Team subject points per
+  RR game from ''All RR Questions'' (109 games). Player PPG leaderboards use abbreviated names and per-game stat scores (not
+  points) without teams, so no player stats are exported; the backend is private.'

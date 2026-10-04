@@ -1,0 +1,50 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1-august-12,rr,RR1,1,Poolesville Sigmas,Lexington A,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr1-august-34,rr,RR1,1,Buchholz 2,Niskayuna A,,,2,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr1-august-56,rr,RR1,1,Richard Montgomery A,Shen,,,2,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr2-august-13,rr,RR2,2,Poolesville Sigmas,Buchholz 2,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr2-august-25,rr,RR2,2,Lexington A,Richard Montgomery A,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr3-august-14,rr,RR3,3,Poolesville Sigmas,Niskayuna A,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr3-august-35,rr,RR3,3,Buchholz 2,Richard Montgomery A,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr4-august-15,rr,RR4,4,Poolesville Sigmas,Richard Montgomery A,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr4-august-36,rr,RR4,4,Buchholz 2,Shen,,,2,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr5-august-23,rr,RR5,5,Lexington A,Buchholz 2,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr5-august-16,rr,RR5,5,Poolesville Sigmas,Shen,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr5-august-45,rr,RR5,5,Niskayuna A,Richard Montgomery A,,,1,0,result deduced from the final standings (2 consistent outcome sets agree); no score
+rr1-betty-12,rr,RR1,1,Emmyversity,Lakeside 1,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr1-betty-34,rr,RR1,1,Buchholz 1,Redmond 1,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr1-betty-56,rr,RR1,1,Dulles B,Davidson B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr2-betty-13,rr,RR2,2,Emmyversity,Buchholz 1,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr2-betty-25,rr,RR2,2,Lakeside 1,Dulles B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr2-betty-46,rr,RR2,2,Redmond 1,Davidson B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr3-betty-14,rr,RR3,3,Emmyversity,Redmond 1,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr3-betty-35,rr,RR3,3,Buchholz 1,Dulles B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr3-betty-26,rr,RR3,3,Lakeside 1,Davidson B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr4-betty-15,rr,RR4,4,Emmyversity,Dulles B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr4-betty-24,rr,RR4,4,Lakeside 1,Redmond 1,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr4-betty-36,rr,RR4,4,Buchholz 1,Davidson B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr5-betty-23,rr,RR5,5,Lakeside 1,Buchholz 1,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr5-betty-16,rr,RR5,5,Emmyversity,Davidson B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+rr5-betty-45,rr,RR5,5,Redmond 1,Dulles B,,,1,0,result deduced from the final standings (1 consistent outcome sets agree); no score
+de-B4,playoff,DE1,100,Emmyversity,Lexington A,10,72,2,0,
+de-B8,playoff,DE1,100,Amador Valley A,Middleton 1,14,44,2,0,
+de-B12,playoff,DE1,100,Poolesville Sigmas,TJHSST A,14,22,2,0,
+de-B16,playoff,DE1,100,Lakeside 1,Brookfield A,22,78,2,0,
+de-B21,playoff,DE1,100,Buchholz 1,Mira Loma,18,40,2,0,
+de-B25,playoff,DE1,100,Enloe A,Niskayuna A,22,32,2,0,
+de-B29,playoff,DE1,100,Canyon Crest 1,Redmond 1,54,14,1,0,
+de-B33,playoff,DE1,100,Shen,Foothill A,18,30,2,0,
+de-E20,playoff,DE2,101,Lakeside 1,Mira Loma,58,24,1,0,
+de-E24,playoff,DE2,101,Poolesville Sigmas,Niskayuna A,40,22,1,0,
+de-E28,playoff,DE2,101,Amador Valley A,Canyon Crest 1,50,58,2,0,
+de-E32,playoff,DE2,101,Emmyversity,Foothill A,84,36,1,0,
+de-G5,playoff,DE 3,102,Lexington A,Middleton 1,68,62,1,0,
+de-G13,playoff,DE 3,102,TJHSST A,Brookfield A,18,76,2,0,
+de-G21,playoff,DE 3,102,Lakeside 1,Poolesville Sigmas,34,18,1,0,
+de-G29,playoff,DE 3,102,Canyon Crest 1,Emmyversity,34,26,1,0,
+de-J19,playoff,DE4,103,Middleton 1,Lakeside 1,68,24,1,0,
+de-J27,playoff,DE4,103,TJHSST A,Canyon Crest 1,30,20,1,0,
+de-L7,playoff,DE5,104,Lexington A,Brookfield A,52,18,1,0,
+de-L21,playoff,DE5,104,Middleton 1,TJHSST A,26,12,1,0,
+de-N17,playoff,DE6,105,Brookfield A,Middleton 1,46,22,1,0,
+de-P11,playoff,DE7,106,Lexington A,Brookfield A,58,16,1,0,

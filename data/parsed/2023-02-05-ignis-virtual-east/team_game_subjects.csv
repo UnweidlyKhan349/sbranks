@@ -1,0 +1,2281 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+g1,BOW A,other,8,8,0,2,0
+g1,BOW A,math,0,0,0,0,0
+g1,BOW A,chemistry,18,8,10,2,0
+g1,BOW A,ess,14,4,10,1,0
+g1,BOW A,biology,0,0,0,0,0
+g1,BOW A,physics,4,4,0,1,0
+g1,Brooklyn Tech D,other,0,0,0,0,0
+g1,Brooklyn Tech D,math,0,0,0,0,0
+g1,Brooklyn Tech D,chemistry,0,0,0,0,0
+g1,Brooklyn Tech D,ess,18,8,10,2,0
+g1,Brooklyn Tech D,biology,8,8,0,2,0
+g1,Brooklyn Tech D,physics,4,4,0,1,0
+g2,Buchholz A,other,18,8,10,2,0
+g2,Buchholz A,math,14,4,10,1,1
+g2,Buchholz A,chemistry,32,12,20,3,0
+g2,Buchholz A,ess,56,16,40,4,0
+g2,Buchholz A,biology,56,16,40,4,0
+g2,Buchholz A,physics,36,16,20,4,0
+g2,RMHS B,other,14,4,10,1,0
+g2,RMHS B,math,8,8,0,1,0
+g2,RMHS B,chemistry,14,4,10,1,0
+g2,RMHS B,ess,0,0,0,0,0
+g2,RMHS B,biology,0,0,0,0,0
+g2,RMHS B,physics,0,0,0,0,0
+g3,MCA,other,32,12,20,3,0
+g3,MCA,math,4,4,0,1,1
+g3,MCA,chemistry,42,12,30,3,0
+g3,MCA,ess,18,8,10,2,0
+g3,MCA,biology,42,12,30,3,0
+g3,MCA,physics,32,12,20,3,0
+g3,Poolesville B,other,8,8,0,2,0
+g3,Poolesville B,math,26,16,10,3,0
+g3,Poolesville B,chemistry,0,0,0,0,0
+g3,Poolesville B,ess,8,8,0,2,0
+g3,Poolesville B,biology,0,0,0,0,0
+g3,Poolesville B,physics,4,4,0,1,0
+g4,AMSA B,other,8,8,0,2,0
+g4,AMSA B,math,14,4,10,1,0
+g4,AMSA B,chemistry,18,8,10,2,0
+g4,AMSA B,ess,8,8,0,2,0
+g4,AMSA B,biology,18,8,10,2,0
+g4,AMSA B,physics,4,4,0,1,0
+g4,BOW B,other,0,0,0,0,0
+g4,BOW B,math,4,4,0,1,0
+g4,BOW B,chemistry,0,0,0,0,0
+g4,BOW B,ess,0,0,0,0,0
+g4,BOW B,biology,0,0,0,0,0
+g4,BOW B,physics,0,0,0,0,0
+g5,Tupelo,other,36,16,20,2,0
+g5,Tupelo,math,28,8,20,2,0
+g5,Tupelo,chemistry,4,4,0,0,0
+g5,Tupelo,ess,4,4,0,1,0
+g5,Tupelo,biology,0,0,0,0,0
+g5,Tupelo,physics,8,8,0,1,0
+g5,Westminster,other,4,4,0,1,2
+g5,Westminster,math,14,4,10,1,0
+g5,Westminster,chemistry,42,12,30,3,1
+g5,Westminster,ess,28,8,20,2,0
+g5,Westminster,biology,56,16,40,4,0
+g5,Westminster,physics,32,12,20,3,1
+g6,AHS Broward A,other,26,16,10,4,0
+g6,AHS Broward A,math,28,8,20,2,0
+g6,AHS Broward A,chemistry,42,12,30,3,0
+g6,AHS Broward A,ess,28,8,20,2,0
+g6,AHS Broward A,biology,36,16,20,4,0
+g6,AHS Broward A,physics,36,16,20,4,0
+g6,Glastonbury B,other,0,0,0,0,0
+g6,Glastonbury B,math,0,0,0,0,0
+g6,Glastonbury B,chemistry,0,0,0,0,0
+g6,Glastonbury B,ess,0,0,0,0,0
+g6,Glastonbury B,biology,0,0,0,0,0
+g6,Glastonbury B,physics,0,0,0,0,0
+g7,Lindbergh B,other,4,4,0,1,0
+g7,Lindbergh B,math,14,4,10,1,0
+g7,Lindbergh B,chemistry,4,4,0,1,0
+g7,Lindbergh B,ess,0,0,0,0,0
+g7,Lindbergh B,biology,0,0,0,0,0
+g7,Lindbergh B,physics,8,8,0,1,0
+g7,SCDS,other,4,4,0,1,0
+g7,SCDS,math,8,8,0,2,0
+g7,SCDS,chemistry,4,4,0,1,0
+g7,SCDS,ess,46,16,30,4,0
+g7,SCDS,biology,8,8,0,2,0
+g7,SCDS,physics,4,4,0,1,1
+g8,AHS Broward B,other,14,4,10,1,1
+g8,AHS Broward B,math,28,8,20,2,0
+g8,AHS Broward B,chemistry,28,8,20,2,0
+g8,AHS Broward B,ess,14,4,10,1,0
+g8,AHS Broward B,biology,36,16,20,4,0
+g8,AHS Broward B,physics,26,16,10,4,0
+g8,Brooklyn Tech B,other,22,12,10,2,0
+g8,Brooklyn Tech B,math,0,0,0,0,0
+g8,Brooklyn Tech B,chemistry,4,4,0,1,0
+g8,Brooklyn Tech B,ess,8,8,0,2,0
+g8,Brooklyn Tech B,biology,0,0,0,0,0
+g8,Brooklyn Tech B,physics,0,0,0,0,0
+g9,Longwood,other,18,8,10,1,0
+g9,Longwood,math,4,4,0,1,0
+g9,Longwood,chemistry,0,0,0,0,0
+g9,Longwood,ess,4,4,0,1,0
+g9,Longwood,biology,0,0,0,0,0
+g9,Longwood,physics,12,12,0,2,0
+g9,Rickards,other,14,4,10,1,1
+g9,Rickards,math,4,4,0,1,0
+g9,Rickards,chemistry,22,12,10,3,0
+g9,Rickards,ess,18,8,10,2,0
+g9,Rickards,biology,32,12,20,3,0
+g9,Rickards,physics,4,4,0,1,1
+g10,ASFA A,other,0,0,0,0,1
+g10,ASFA A,math,28,8,20,2,0
+g10,ASFA A,chemistry,0,0,0,0,1
+g10,ASFA A,ess,4,4,0,1,0
+g10,ASFA A,biology,14,4,10,1,1
+g10,ASFA A,physics,0,0,0,0,2
+g10,Blair A,other,50,20,30,4,0
+g10,Blair A,math,28,8,20,2,0
+g10,Blair A,chemistry,60,20,40,4,0
+g10,Blair A,ess,42,12,30,3,0
+g10,Blair A,biology,36,16,20,3,0
+g10,Blair A,physics,44,24,20,4,0
+g11,Maryville A,other,28,8,20,2,0
+g11,Maryville A,math,4,4,0,1,0
+g11,Maryville A,chemistry,18,8,10,2,0
+g11,Maryville A,ess,8,8,0,2,0
+g11,Maryville A,biology,12,12,0,3,0
+g11,Maryville A,physics,8,8,0,2,0
+g11,Wayland B,other,4,4,0,1,0
+g11,Wayland B,math,0,0,0,0,0
+g11,Wayland B,chemistry,4,4,0,1,0
+g11,Wayland B,ess,4,4,0,1,0
+g11,Wayland B,biology,0,0,0,0,0
+g11,Wayland B,physics,4,4,0,1,0
+g12,Dulles A,other,18,8,10,2,0
+g12,Dulles A,math,56,16,40,4,0
+g12,Dulles A,chemistry,40,20,20,3,0
+g12,Dulles A,ess,56,16,40,4,0
+g12,Dulles A,biology,42,12,30,3,0
+g12,Dulles A,physics,42,12,30,3,0
+g12,Grand Oaks,other,4,4,0,1,0
+g12,Grand Oaks,math,0,0,0,0,0
+g12,Grand Oaks,chemistry,0,0,0,0,2
+g12,Grand Oaks,ess,0,0,0,0,0
+g12,Grand Oaks,biology,4,4,0,1,0
+g12,Grand Oaks,physics,4,4,0,1,0
+g13,Maryville B,other,14,4,10,1,0
+g13,Maryville B,math,14,4,10,1,0
+g13,Maryville B,chemistry,42,12,30,3,0
+g13,Maryville B,ess,22,12,10,3,0
+g13,Maryville B,biology,46,16,30,4,0
+g13,Maryville B,physics,4,4,0,1,1
+g13,Princeton,other,18,8,10,2,0
+g13,Princeton,math,4,4,0,1,0
+g13,Princeton,chemistry,4,4,0,1,0
+g13,Princeton,ess,4,4,0,1,0
+g13,Princeton,biology,0,0,0,0,0
+g13,Princeton,physics,36,16,20,3,0
+g14,BRHS,other,14,4,10,1,0
+g14,BRHS,math,0,0,0,0,1
+g14,BRHS,chemistry,32,12,20,3,0
+g14,BRHS,ess,32,12,20,3,0
+g14,BRHS,biology,18,8,10,2,0
+g14,BRHS,physics,14,4,10,1,0
+g14,Edison B,other,18,8,10,2,0
+g14,Edison B,math,22,12,10,2,0
+g14,Edison B,chemistry,0,0,0,0,0
+g14,Edison B,ess,14,4,10,1,0
+g14,Edison B,biology,18,8,10,2,0
+g14,Edison B,physics,12,12,0,3,0
+g15,JP Stevens A,other,42,12,30,3,1
+g15,JP Stevens A,math,4,4,0,1,0
+g15,JP Stevens A,chemistry,42,12,30,3,0
+g15,JP Stevens A,ess,32,12,20,3,0
+g15,JP Stevens A,biology,50,20,30,4,0
+g15,JP Stevens A,physics,36,16,20,4,0
+g15,Wayland A,other,4,4,0,0,0
+g15,Wayland A,math,32,12,20,3,0
+g15,Wayland A,chemistry,4,4,0,1,0
+g15,Wayland A,ess,0,0,0,0,0
+g15,Wayland A,biology,0,0,0,0,1
+g15,Wayland A,physics,0,0,0,0,0
+g16,AMSA A,other,4,4,0,1,0
+g16,AMSA A,math,14,4,10,1,0
+g16,AMSA A,chemistry,0,0,0,0,0
+g16,AMSA A,ess,0,0,0,0,0
+g16,AMSA A,biology,0,0,0,0,0
+g16,AMSA A,physics,8,8,0,1,0
+g16,Blair C,other,18,8,10,2,0
+g16,Blair C,math,28,8,20,2,0
+g16,Blair C,chemistry,36,16,20,4,0
+g16,Blair C,ess,22,12,10,3,0
+g16,Blair C,biology,28,8,20,2,0
+g16,Blair C,physics,32,12,20,3,1
+g17,Fayetteville,other,14,4,10,1,1
+g17,Fayetteville,math,42,12,30,3,0
+g17,Fayetteville,chemistry,18,8,10,2,0
+g17,Fayetteville,ess,18,8,10,2,0
+g17,Fayetteville,biology,14,4,10,1,0
+g17,Fayetteville,physics,36,16,20,4,0
+g17,Liberty A,other,22,12,10,2,0
+g17,Liberty A,math,0,0,0,0,0
+g17,Liberty A,chemistry,8,8,0,2,0
+g17,Liberty A,ess,14,4,10,1,0
+g17,Liberty A,biology,28,8,20,2,0
+g17,Liberty A,physics,0,0,0,0,0
+g18,JP Stevens B,other,4,4,0,1,1
+g18,JP Stevens B,math,12,12,0,3,0
+g18,JP Stevens B,chemistry,14,4,10,1,0
+g18,JP Stevens B,ess,0,0,0,0,0
+g18,JP Stevens B,biology,28,8,20,2,0
+g18,JP Stevens B,physics,18,8,10,2,1
+g18,Liberty B,other,8,8,0,1,0
+g18,Liberty B,math,0,0,0,0,0
+g18,Liberty B,chemistry,4,4,0,1,0
+g18,Liberty B,ess,8,8,0,2,0
+g18,Liberty B,biology,4,4,0,1,0
+g18,Liberty B,physics,8,8,0,1,0
+g19,POBJFK,other,0,0,0,0,0
+g19,POBJFK,math,18,8,10,2,0
+g19,POBJFK,chemistry,4,4,0,1,0
+g19,POBJFK,ess,0,0,0,0,0
+g19,POBJFK,biology,4,4,0,0,0
+g19,POBJFK,physics,16,16,0,2,0
+g19,RMHS A,other,28,8,20,2,0
+g19,RMHS A,math,14,4,10,1,0
+g19,RMHS A,chemistry,32,12,20,3,0
+g19,RMHS A,ess,42,12,30,3,0
+g19,RMHS A,biology,28,8,20,2,1
+g19,RMHS A,physics,8,8,0,2,2
+g20,Collierville,other,46,16,30,3,0
+g20,Collierville,math,22,12,10,2,0
+g20,Collierville,chemistry,28,8,20,2,0
+g20,Collierville,ess,42,12,30,3,0
+g20,Collierville,biology,32,12,20,3,0
+g20,Collierville,physics,30,20,10,3,0
+g20,Edison A,other,0,0,0,0,1
+g20,Edison A,math,14,4,10,1,1
+g20,Edison A,chemistry,18,8,10,2,0
+g20,Edison A,ess,4,4,0,1,0
+g20,Edison A,biology,4,4,0,1,0
+g20,Edison A,physics,0,0,0,0,2
+g21,Naperville North B,other,14,4,10,1,1
+g21,Naperville North B,math,8,8,0,1,0
+g21,Naperville North B,chemistry,8,8,0,2,0
+g21,Naperville North B,ess,14,4,10,1,0
+g21,Naperville North B,biology,0,0,0,0,0
+g21,Naperville North B,physics,0,0,0,0,0
+g21,RMHS C,other,8,8,0,1,0
+g21,RMHS C,math,0,0,0,0,1
+g21,RMHS C,chemistry,14,4,10,1,0
+g21,RMHS C,ess,4,4,0,1,0
+g21,RMHS C,biology,8,8,0,2,0
+g21,RMHS C,physics,4,4,0,1,0
+g22,ASFA B,other,22,12,10,3,0
+g22,ASFA B,math,14,4,10,1,1
+g22,ASFA B,chemistry,18,8,10,2,0
+g22,ASFA B,ess,8,8,0,2,0
+g22,ASFA B,biology,8,8,0,2,1
+g22,ASFA B,physics,4,4,0,1,2
+g22,Brooklyn Tech C,other,0,0,0,0,0
+g22,Brooklyn Tech C,math,12,12,0,2,0
+g22,Brooklyn Tech C,chemistry,4,4,0,1,0
+g22,Brooklyn Tech C,ess,4,4,0,1,0
+g22,Brooklyn Tech C,biology,22,12,10,2,0
+g22,Brooklyn Tech C,physics,8,8,0,0,0
+g23,MSMS,other,42,12,30,3,0
+g23,MSMS,math,32,12,20,3,0
+g23,MSMS,chemistry,14,4,10,1,0
+g23,MSMS,ess,42,12,30,3,0
+g23,MSMS,biology,56,16,40,4,0
+g23,MSMS,physics,26,16,10,4,0
+g23,New Canaan,other,4,4,0,1,0
+g23,New Canaan,math,0,0,0,0,0
+g23,New Canaan,chemistry,32,12,20,3,0
+g23,New Canaan,ess,0,0,0,0,0
+g23,New Canaan,biology,0,0,0,0,0
+g23,New Canaan,physics,0,0,0,0,0
+g24,Blair B,other,18,8,10,2,0
+g24,Blair B,math,14,4,10,1,1
+g24,Blair B,chemistry,28,8,20,2,0
+g24,Blair B,ess,28,8,20,2,0
+g24,Blair B,biology,42,12,30,3,1
+g24,Blair B,physics,18,8,10,2,0
+g24,Bob Jones,other,18,8,10,2,0
+g24,Bob Jones,math,32,12,20,2,0
+g24,Bob Jones,chemistry,8,8,0,2,0
+g24,Bob Jones,ess,14,4,10,1,0
+g24,Bob Jones,biology,18,8,10,1,0
+g24,Bob Jones,physics,8,8,0,2,0
+g25,JP Stevens C,other,14,4,10,1,1
+g25,JP Stevens C,math,4,4,0,1,0
+g25,JP Stevens C,chemistry,0,0,0,0,0
+g25,JP Stevens C,ess,0,0,0,0,0
+g25,JP Stevens C,biology,14,4,10,1,1
+g25,JP Stevens C,physics,4,4,0,1,0
+g25,Ladue,other,32,12,20,2,0
+g25,Ladue,math,14,4,10,1,0
+g25,Ladue,chemistry,46,16,30,4,0
+g25,Ladue,ess,36,16,20,4,0
+g25,Ladue,biology,36,16,20,3,0
+g25,Ladue,physics,22,12,10,3,0
+g26,AMSA C,other,0,0,0,0,0
+g26,AMSA C,math,0,0,0,0,0
+g26,AMSA C,chemistry,0,0,0,0,0
+g26,AMSA C,ess,0,0,0,0,0
+g26,AMSA C,biology,0,0,0,0,0
+g26,AMSA C,physics,0,0,0,0,0
+g26,Lexington B,other,32,12,20,3,0
+g26,Lexington B,math,56,16,40,4,0
+g26,Lexington B,chemistry,42,12,30,3,0
+g26,Lexington B,ess,42,12,30,3,0
+g26,Lexington B,biology,32,12,20,3,0
+g26,Lexington B,physics,36,16,20,4,0
+g27,Poolesville A,other,4,4,0,1,1
+g27,Poolesville A,math,14,4,10,1,0
+g27,Poolesville A,chemistry,28,8,20,2,0
+g27,Poolesville A,ess,14,4,10,1,0
+g27,Poolesville A,biology,4,4,0,1,0
+g27,Poolesville A,physics,22,12,10,2,1
+g27,PRISMS,other,4,4,0,0,0
+g27,PRISMS,math,32,12,20,3,0
+g27,PRISMS,chemistry,28,8,20,2,0
+g27,PRISMS,ess,18,8,10,2,0
+g27,PRISMS,biology,42,12,30,3,0
+g27,PRISMS,physics,12,12,0,2,1
+g28,Brooklyn Tech A,other,8,8,0,1,0
+g28,Brooklyn Tech A,math,18,8,10,2,0
+g28,Brooklyn Tech A,chemistry,18,8,10,2,0
+g28,Brooklyn Tech A,ess,4,4,0,0,0
+g28,Brooklyn Tech A,biology,14,4,10,1,0
+g28,Brooklyn Tech A,physics,0,0,0,0,0
+g28,Buchholz B,other,28,8,20,2,1
+g28,Buchholz B,math,18,8,10,2,0
+g28,Buchholz B,chemistry,14,4,10,1,0
+g28,Buchholz B,ess,18,8,10,2,1
+g28,Buchholz B,biology,22,12,10,3,0
+g28,Buchholz B,physics,12,12,0,3,0
+g29,Maryville C,other,32,12,20,2,0
+g29,Maryville C,math,22,12,10,3,0
+g29,Maryville C,chemistry,42,12,30,3,0
+g29,Maryville C,ess,18,8,10,2,0
+g29,Maryville C,biology,8,8,0,1,0
+g29,Maryville C,physics,18,8,10,2,0
+g29,Quail Valley,other,0,0,0,0,1
+g29,Quail Valley,math,0,0,0,0,0
+g29,Quail Valley,chemistry,4,4,0,1,0
+g29,Quail Valley,ess,14,4,10,1,0
+g29,Quail Valley,biology,18,8,10,2,1
+g29,Quail Valley,physics,0,0,0,0,0
+g30,BOW A,other,32,12,20,2,0
+g30,BOW A,math,26,16,10,4,0
+g30,BOW A,chemistry,0,0,0,0,0
+g30,BOW A,ess,8,8,0,2,0
+g30,BOW A,biology,0,0,0,0,0
+g30,BOW A,physics,0,0,0,0,0
+g30,RMHS B,other,14,4,10,1,1
+g30,RMHS B,math,0,0,0,0,0
+g30,RMHS B,chemistry,0,0,0,0,0
+g30,RMHS B,ess,14,4,10,1,0
+g30,RMHS B,biology,28,8,20,2,0
+g30,RMHS B,physics,4,4,0,1,0
+g31,Brooklyn Tech D,other,4,4,0,1,0
+g31,Brooklyn Tech D,math,0,0,0,0,0
+g31,Brooklyn Tech D,chemistry,0,0,0,0,0
+g31,Brooklyn Tech D,ess,0,0,0,0,0
+g31,Brooklyn Tech D,biology,0,0,0,0,0
+g31,Brooklyn Tech D,physics,4,4,0,1,0
+g31,Poolesville B,other,42,12,30,3,0
+g31,Poolesville B,math,22,12,10,3,0
+g31,Poolesville B,chemistry,4,4,0,1,0
+g31,Poolesville B,ess,28,8,20,2,0
+g31,Poolesville B,biology,4,4,0,1,0
+g31,Poolesville B,physics,8,8,0,2,0
+g32,Buchholz A,other,42,12,30,3,0
+g32,Buchholz A,math,56,16,40,4,0
+g32,Buchholz A,chemistry,32,12,20,3,0
+g32,Buchholz A,ess,46,16,30,4,0
+g32,Buchholz A,biology,42,12,30,3,0
+g32,Buchholz A,physics,28,8,20,2,1
+g32,MCA,other,14,4,10,1,0
+g32,MCA,math,0,0,0,0,0
+g32,MCA,chemistry,14,4,10,1,0
+g32,MCA,ess,0,0,0,0,0
+g32,MCA,biology,14,4,10,1,0
+g32,MCA,physics,8,8,0,1,0
+g33,BOW B,other,0,0,0,0,0
+g33,BOW B,math,0,0,0,0,0
+g33,BOW B,chemistry,0,0,0,0,0
+g33,BOW B,ess,0,0,0,0,0
+g33,BOW B,biology,0,0,0,0,0
+g33,BOW B,physics,0,0,0,0,0
+g33,Westminster,other,42,12,30,3,0
+g33,Westminster,math,46,16,30,4,0
+g33,Westminster,chemistry,46,16,30,4,0
+g33,Westminster,ess,56,16,40,4,0
+g33,Westminster,biology,56,16,40,4,0
+g33,Westminster,physics,32,12,20,3,0
+g34,Lindbergh A,other,32,12,20,3,0
+g34,Lindbergh A,math,36,16,20,4,0
+g34,Lindbergh A,chemistry,28,8,20,2,0
+g34,Lindbergh A,ess,8,8,0,2,0
+g34,Lindbergh A,biology,4,4,0,1,0
+g34,Lindbergh A,physics,4,4,0,1,0
+g34,Tupelo,other,14,4,10,1,0
+g34,Tupelo,math,0,0,0,0,0
+g34,Tupelo,chemistry,18,8,10,2,0
+g34,Tupelo,ess,14,4,10,1,0
+g34,Tupelo,biology,18,8,10,2,0
+g34,Tupelo,physics,4,4,0,1,0
+g35,Glastonbury B,other,0,0,0,0,0
+g35,Glastonbury B,math,4,4,0,1,0
+g35,Glastonbury B,chemistry,0,0,0,0,0
+g35,Glastonbury B,ess,0,0,0,0,0
+g35,Glastonbury B,biology,4,4,0,1,0
+g35,Glastonbury B,physics,8,8,0,2,0
+g35,SCDS,other,42,12,30,3,0
+g35,SCDS,math,14,4,10,1,0
+g35,SCDS,chemistry,28,8,20,2,0
+g35,SCDS,ess,46,16,30,4,0
+g35,SCDS,biology,0,0,0,0,0
+g35,SCDS,physics,0,0,0,0,0
+g36,Lexington A,other,56,16,40,4,0
+g36,Lexington A,math,56,16,40,4,0
+g36,Lexington A,chemistry,56,16,40,4,0
+g36,Lexington A,ess,46,16,30,4,0
+g36,Lexington A,biology,28,8,20,2,0
+g36,Lexington A,physics,18,8,10,2,0
+g36,Lindbergh B,other,0,0,0,0,0
+g36,Lindbergh B,math,0,0,0,0,0
+g36,Lindbergh B,chemistry,0,0,0,0,0
+g36,Lindbergh B,ess,0,0,0,0,0
+g36,Lindbergh B,biology,0,0,0,0,0
+g36,Lindbergh B,physics,0,0,0,0,0
+g37,Brooklyn Tech B,other,4,4,0,1,0
+g37,Brooklyn Tech B,math,4,4,0,1,0
+g37,Brooklyn Tech B,chemistry,0,0,0,0,0
+g37,Brooklyn Tech B,ess,0,0,0,0,0
+g37,Brooklyn Tech B,biology,14,4,10,1,0
+g37,Brooklyn Tech B,physics,0,0,0,0,0
+g37,Rickards,other,18,8,10,2,0
+g37,Rickards,math,32,12,20,3,0
+g37,Rickards,chemistry,8,8,0,2,0
+g37,Rickards,ess,18,8,10,2,0
+g37,Rickards,biology,42,12,30,3,0
+g37,Rickards,physics,32,12,20,3,0
+g38,Centennial,other,56,16,40,4,0
+g38,Centennial,math,14,4,10,1,1
+g38,Centennial,chemistry,56,16,40,4,0
+g38,Centennial,ess,36,16,20,4,0
+g38,Centennial,biology,56,16,40,4,0
+g38,Centennial,physics,32,12,20,3,0
+g38,Longwood,other,0,0,0,0,0
+g38,Longwood,math,22,12,10,2,0
+g38,Longwood,chemistry,0,0,0,0,0
+g38,Longwood,ess,0,0,0,0,0
+g38,Longwood,biology,0,0,0,0,0
+g38,Longwood,physics,0,0,0,0,0
+g39,Blair A,other,56,16,40,4,0
+g39,Blair A,math,42,12,30,3,1
+g39,Blair A,chemistry,42,12,30,3,1
+g39,Blair A,ess,42,12,30,3,1
+g39,Blair A,biology,56,16,40,4,0
+g39,Blair A,physics,28,8,20,2,0
+g39,Wayland B,other,0,0,0,0,0
+g39,Wayland B,math,8,8,0,1,0
+g39,Wayland B,chemistry,4,4,0,0,0
+g39,Wayland B,ess,4,4,0,0,0
+g39,Wayland B,biology,0,0,0,0,0
+g39,Wayland B,physics,4,4,0,1,0
+g40,Iolani B,other,32,12,20,3,0
+g40,Iolani B,math,18,8,10,2,0
+g40,Iolani B,chemistry,14,4,10,1,0
+g40,Iolani B,ess,4,4,0,1,0
+g40,Iolani B,biology,0,0,0,0,0
+g40,Iolani B,physics,8,8,0,2,0
+g40,Maryville A,other,14,4,10,1,0
+g40,Maryville A,math,4,4,0,1,0
+g40,Maryville A,chemistry,28,8,20,2,0
+g40,Maryville A,ess,18,8,10,2,0
+g40,Maryville A,biology,28,8,20,2,0
+g40,Maryville A,physics,0,0,0,0,0
+g41,Grand Oaks,other,14,4,10,1,0
+g41,Grand Oaks,math,0,0,0,0,0
+g41,Grand Oaks,chemistry,18,8,10,2,0
+g41,Grand Oaks,ess,0,0,0,0,0
+g41,Grand Oaks,biology,0,0,0,0,0
+g41,Grand Oaks,physics,14,4,10,1,0
+g41,Princeton,other,32,12,20,3,0
+g41,Princeton,math,28,8,20,2,0
+g41,Princeton,chemistry,28,8,20,2,0
+g41,Princeton,ess,4,4,0,1,0
+g41,Princeton,biology,42,12,30,3,0
+g41,Princeton,physics,18,8,10,2,0
+g42,Green Hope B,other,46,16,30,3,0
+g42,Green Hope B,math,14,4,10,1,1
+g42,Green Hope B,chemistry,22,12,10,2,0
+g42,Green Hope B,ess,22,12,10,3,0
+g42,Green Hope B,biology,8,8,0,1,0
+g42,Green Hope B,physics,32,12,20,3,0
+g42,Maryville B,other,14,4,10,1,1
+g42,Maryville B,math,22,12,10,2,0
+g42,Maryville B,chemistry,28,8,20,2,1
+g42,Maryville B,ess,4,4,0,1,0
+g42,Maryville B,biology,14,4,10,1,1
+g42,Maryville B,physics,4,4,0,1,0
+g43,Edison B,other,18,8,10,2,0
+g43,Edison B,math,28,8,20,2,0
+g43,Edison B,chemistry,14,4,10,1,0
+g43,Edison B,ess,18,8,10,2,0
+g43,Edison B,biology,4,4,0,1,0
+g43,Edison B,physics,18,8,10,2,0
+g43,Wayland A,other,0,0,0,0,0
+g43,Wayland A,math,28,8,20,2,0
+g43,Wayland A,chemistry,4,4,0,1,0
+g43,Wayland A,ess,0,0,0,0,0
+g43,Wayland A,biology,32,12,20,3,0
+g43,Wayland A,physics,4,4,0,1,0
+g44,John Adams,other,0,0,0,0,0
+g44,John Adams,math,4,4,0,1,0
+g44,John Adams,chemistry,4,4,0,0,0
+g44,John Adams,ess,4,4,0,1,0
+g44,John Adams,biology,0,0,0,0,0
+g44,John Adams,physics,0,0,0,0,0
+g44,JP Stevens A,other,56,16,40,4,0
+g44,JP Stevens A,math,42,12,30,3,0
+g44,JP Stevens A,chemistry,42,12,30,3,1
+g44,JP Stevens A,ess,32,12,20,3,0
+g44,JP Stevens A,biology,46,16,30,4,0
+g44,JP Stevens A,physics,8,8,0,2,0
+g45,Blair C,other,28,8,20,2,0
+g45,Blair C,math,42,12,30,3,0
+g45,Blair C,chemistry,42,12,30,3,0
+g45,Blair C,ess,32,12,20,3,0
+g45,Blair C,biology,4,4,0,1,0
+g45,Blair C,physics,4,4,0,1,1
+g45,Liberty A,other,18,8,10,2,0
+g45,Liberty A,math,4,4,0,1,0
+g45,Liberty A,chemistry,4,4,0,1,0
+g45,Liberty A,ess,4,4,0,1,0
+g45,Liberty A,biology,14,4,10,1,0
+g45,Liberty A,physics,4,4,0,0,0
+g46,duPont Manual,other,28,8,20,2,0
+g46,duPont Manual,math,32,12,20,2,2
+g46,duPont Manual,chemistry,46,16,30,4,0
+g46,duPont Manual,ess,18,8,10,2,0
+g46,duPont Manual,biology,22,12,10,3,0
+g46,duPont Manual,physics,8,8,0,2,0
+g46,Fayetteville,other,28,8,20,2,0
+g46,Fayetteville,math,8,8,0,0,1
+g46,Fayetteville,chemistry,0,0,0,0,0
+g46,Fayetteville,ess,14,4,10,1,0
+g46,Fayetteville,biology,4,4,0,1,0
+g46,Fayetteville,physics,28,8,20,2,0
+g47,Liberty B,other,0,0,0,0,1
+g47,Liberty B,math,0,0,0,0,0
+g47,Liberty B,chemistry,4,4,0,0,0
+g47,Liberty B,ess,0,0,0,0,0
+g47,Liberty B,biology,0,0,0,0,0
+g47,Liberty B,physics,0,0,0,0,0
+g47,RMHS A,other,46,16,30,3,0
+g47,RMHS A,math,56,16,40,4,0
+g47,RMHS A,chemistry,32,12,20,3,1
+g47,RMHS A,ess,12,12,0,3,0
+g47,RMHS A,biology,32,12,20,3,0
+g47,RMHS A,physics,22,12,10,3,0
+g48,Naperville North A,other,4,4,0,1,0
+g48,Naperville North A,math,0,0,0,0,0
+g48,Naperville North A,chemistry,46,16,30,4,0
+g48,Naperville North A,ess,14,4,10,1,0
+g48,Naperville North A,biology,18,8,10,2,0
+g48,Naperville North A,physics,0,0,0,0,0
+g48,POBJFK,other,4,4,0,1,0
+g48,POBJFK,math,32,12,20,3,0
+g48,POBJFK,chemistry,0,0,0,0,0
+g48,POBJFK,ess,0,0,0,0,0
+g48,POBJFK,biology,4,4,0,1,0
+g48,POBJFK,physics,28,8,20,2,0
+g49,Edison A,other,18,8,10,2,0
+g49,Edison A,math,14,4,10,1,0
+g49,Edison A,chemistry,14,4,10,1,0
+g49,Edison A,ess,50,20,30,4,0
+g49,Edison A,biology,22,12,10,2,0
+g49,Edison A,physics,8,8,0,2,0
+g49,RMHS C,other,14,4,10,1,0
+g49,RMHS C,math,4,4,0,1,0
+g49,RMHS C,chemistry,4,4,0,1,0
+g49,RMHS C,ess,0,0,0,0,1
+g49,RMHS C,biology,0,0,0,0,1
+g49,RMHS C,physics,0,0,0,0,0
+g50,Green Hope A,other,28,8,20,2,0
+g50,Green Hope A,math,22,12,10,3,0
+g50,Green Hope A,chemistry,32,12,20,3,0
+g50,Green Hope A,ess,50,20,30,4,0
+g50,Green Hope A,biology,32,12,20,3,0
+g50,Green Hope A,physics,32,12,20,3,0
+g50,Naperville North B,other,0,0,0,0,0
+g50,Naperville North B,math,0,0,0,0,0
+g50,Naperville North B,chemistry,0,0,0,0,0
+g50,Naperville North B,ess,0,0,0,0,1
+g50,Naperville North B,biology,0,0,0,0,0
+g50,Naperville North B,physics,0,0,0,0,0
+g51,Brooklyn Tech C,other,14,4,10,1,0
+g51,Brooklyn Tech C,math,8,8,0,2,0
+g51,Brooklyn Tech C,chemistry,14,4,10,1,0
+g51,Brooklyn Tech C,ess,0,0,0,0,0
+g51,Brooklyn Tech C,biology,0,0,0,0,0
+g51,Brooklyn Tech C,physics,4,4,0,1,0
+g51,New Canaan,other,14,4,10,1,0
+g51,New Canaan,math,14,4,10,1,0
+g51,New Canaan,chemistry,28,8,20,2,0
+g51,New Canaan,ess,18,8,10,2,0
+g51,New Canaan,biology,14,4,10,1,0
+g51,New Canaan,physics,4,4,0,1,0
+g52,Iolani A,other,14,4,10,1,0
+g52,Iolani A,math,32,12,20,3,1
+g52,Iolani A,chemistry,14,4,10,1,0
+g52,Iolani A,ess,32,12,20,3,0
+g52,Iolani A,biology,0,0,0,0,0
+g52,Iolani A,physics,28,8,20,2,0
+g52,MSMS,other,28,8,20,2,0
+g52,MSMS,math,8,8,0,1,0
+g52,MSMS,chemistry,42,12,30,3,0
+g52,MSMS,ess,18,8,10,2,0
+g52,MSMS,biology,46,16,30,4,0
+g52,MSMS,physics,4,4,0,1,0
+g53,Bob Jones,other,14,4,10,1,0
+g53,Bob Jones,math,50,20,30,3,0
+g53,Bob Jones,chemistry,0,0,0,0,1
+g53,Bob Jones,ess,22,12,10,3,0
+g53,Bob Jones,biology,36,16,20,3,0
+g53,Bob Jones,physics,14,4,10,1,0
+g53,Ladue,other,42,12,30,3,0
+g53,Ladue,math,14,4,10,1,2
+g53,Ladue,chemistry,60,20,40,4,0
+g53,Ladue,ess,14,4,10,1,0
+g53,Ladue,biology,0,0,0,0,1
+g53,Ladue,physics,18,8,10,2,0
+g54,Canterbury,other,8,8,0,1,0
+g54,Canterbury,math,14,4,10,1,0
+g54,Canterbury,chemistry,0,0,0,0,0
+g54,Canterbury,ess,4,4,0,1,0
+g54,Canterbury,biology,0,0,0,0,0
+g54,Canterbury,physics,4,4,0,1,0
+g54,JP Stevens C,other,4,4,0,1,1
+g54,JP Stevens C,math,8,8,0,2,0
+g54,JP Stevens C,chemistry,0,0,0,0,0
+g54,JP Stevens C,ess,0,0,0,0,0
+g54,JP Stevens C,biology,28,8,20,2,0
+g54,JP Stevens C,physics,8,8,0,2,0
+g55,Lexington B,other,14,4,10,1,0
+g55,Lexington B,math,14,4,10,1,2
+g55,Lexington B,chemistry,14,4,10,1,0
+g55,Lexington B,ess,22,12,10,3,1
+g55,Lexington B,biology,8,8,0,2,1
+g55,Lexington B,physics,14,4,10,1,0
+g55,PRISMS,other,4,4,0,1,0
+g55,PRISMS,math,40,20,20,3,0
+g55,PRISMS,chemistry,42,12,30,3,0
+g55,PRISMS,ess,18,8,10,1,0
+g55,PRISMS,biology,4,4,0,0,0
+g55,PRISMS,physics,18,8,10,2,0
+g56,Northville,other,0,0,0,0,0
+g56,Northville,math,22,12,10,1,0
+g56,Northville,chemistry,4,4,0,1,0
+g56,Northville,ess,4,4,0,1,0
+g56,Northville,biology,18,8,10,1,0
+g56,Northville,physics,0,0,0,0,0
+g56,Poolesville A,other,46,16,30,4,0
+g56,Poolesville A,math,28,8,20,2,2
+g56,Poolesville A,chemistry,28,8,20,2,0
+g56,Poolesville A,ess,22,12,10,3,0
+g56,Poolesville A,biology,18,8,10,2,1
+g56,Poolesville A,physics,32,12,20,3,0
+g57,Buchholz B,other,42,12,30,3,0
+g57,Buchholz B,math,4,4,0,0,1
+g57,Buchholz B,chemistry,42,12,30,3,0
+g57,Buchholz B,ess,22,12,10,3,0
+g57,Buchholz B,biology,14,4,10,1,0
+g57,Buchholz B,physics,22,12,10,3,0
+g57,Quail Valley,other,0,0,0,0,0
+g57,Quail Valley,math,46,16,30,3,1
+g57,Quail Valley,chemistry,14,4,10,1,0
+g57,Quail Valley,ess,4,4,0,1,0
+g57,Quail Valley,biology,4,4,0,1,0
+g57,Quail Valley,physics,0,0,0,0,0
+g58,Glastonbury A,other,18,8,10,2,0
+g58,Glastonbury A,math,32,12,20,2,0
+g58,Glastonbury A,chemistry,46,16,30,3,0
+g58,Glastonbury A,ess,32,12,20,3,0
+g58,Glastonbury A,biology,0,0,0,0,0
+g58,Glastonbury A,physics,12,12,0,3,0
+g58,Maryville C,other,18,8,10,2,0
+g58,Maryville C,math,4,4,0,1,1
+g58,Maryville C,chemistry,0,0,0,0,1
+g58,Maryville C,ess,0,0,0,0,0
+g58,Maryville C,biology,8,8,0,2,0
+g58,Maryville C,physics,0,0,0,0,0
+g59,BOW A,other,14,4,10,1,0
+g59,BOW A,math,32,12,20,3,0
+g59,BOW A,chemistry,0,0,0,0,0
+g59,BOW A,ess,12,12,0,3,0
+g59,BOW A,biology,0,0,0,0,0
+g59,BOW A,physics,4,4,0,1,0
+g59,Poolesville B,other,4,4,0,1,0
+g59,Poolesville B,math,14,4,10,1,0
+g59,Poolesville B,chemistry,22,12,10,3,0
+g59,Poolesville B,ess,4,4,0,1,0
+g59,Poolesville B,biology,14,4,10,1,0
+g59,Poolesville B,physics,0,0,0,0,0
+g60,Brooklyn Tech D,other,0,0,0,0,0
+g60,Brooklyn Tech D,math,0,0,0,0,0
+g60,Brooklyn Tech D,chemistry,4,4,0,0,0
+g60,Brooklyn Tech D,ess,0,0,0,0,0
+g60,Brooklyn Tech D,biology,0,0,0,0,0
+g60,Brooklyn Tech D,physics,0,0,0,0,0
+g60,Buchholz A,other,36,16,20,4,0
+g60,Buchholz A,math,42,12,30,3,0
+g60,Buchholz A,chemistry,42,12,30,3,1
+g60,Buchholz A,ess,18,8,10,2,0
+g60,Buchholz A,biology,32,12,20,3,0
+g60,Buchholz A,physics,42,12,30,3,0
+g61,MCA,other,18,8,10,2,0
+g61,MCA,math,46,16,30,4,0
+g61,MCA,chemistry,8,8,0,2,0
+g61,MCA,ess,46,16,30,4,0
+g61,MCA,biology,14,4,10,1,1
+g61,MCA,physics,4,4,0,1,0
+g61,RMHS B,other,14,4,10,1,0
+g61,RMHS B,math,0,0,0,0,0
+g61,RMHS B,chemistry,0,0,0,0,0
+g61,RMHS B,ess,0,0,0,0,0
+g61,RMHS B,biology,8,8,0,1,0
+g61,RMHS B,physics,0,0,0,0,0
+g62,AMSA B,other,4,4,0,1,0
+g62,AMSA B,math,0,0,0,0,0
+g62,AMSA B,chemistry,0,0,0,0,0
+g62,AMSA B,ess,4,4,0,1,0
+g62,AMSA B,biology,4,4,0,1,0
+g62,AMSA B,physics,0,0,0,0,0
+g62,Westminster,other,28,8,20,2,0
+g62,Westminster,math,56,16,40,4,0
+g62,Westminster,chemistry,46,16,30,4,0
+g62,Westminster,ess,42,12,30,3,0
+g62,Westminster,biology,42,12,30,3,0
+g62,Westminster,physics,28,8,20,2,0
+g63,BOW B,other,0,0,0,0,0
+g63,BOW B,math,4,4,0,1,0
+g63,BOW B,chemistry,0,0,0,0,0
+g63,BOW B,ess,4,4,0,1,0
+g63,BOW B,biology,4,4,0,1,0
+g63,BOW B,physics,14,4,10,1,0
+g63,Lindbergh A,other,28,8,20,2,0
+g63,Lindbergh A,math,22,12,10,3,0
+g63,Lindbergh A,chemistry,32,12,20,3,0
+g63,Lindbergh A,ess,18,8,10,2,0
+g63,Lindbergh A,biology,32,12,20,3,0
+g63,Lindbergh A,physics,14,4,10,1,0
+g64,AHS Broward A,other,14,4,10,1,0
+g64,AHS Broward A,math,28,8,20,2,0
+g64,AHS Broward A,chemistry,56,16,40,4,0
+g64,AHS Broward A,ess,14,4,10,1,0
+g64,AHS Broward A,biology,22,12,10,2,0
+g64,AHS Broward A,physics,14,4,10,1,0
+g64,SCDS,other,28,8,20,2,0
+g64,SCDS,math,18,8,10,2,0
+g64,SCDS,chemistry,0,0,0,0,0
+g64,SCDS,ess,42,12,30,3,0
+g64,SCDS,biology,14,4,10,1,1
+g64,SCDS,physics,0,0,0,0,0
+g65,Glastonbury B,other,16,16,0,1,0
+g65,Glastonbury B,math,0,0,0,0,0
+g65,Glastonbury B,chemistry,0,0,0,0,0
+g65,Glastonbury B,ess,0,0,0,0,0
+g65,Glastonbury B,biology,4,4,0,1,0
+g65,Glastonbury B,physics,14,4,10,1,0
+g65,Lexington A,other,14,4,10,1,3
+g65,Lexington A,math,56,16,40,4,0
+g65,Lexington A,chemistry,28,8,20,2,0
+g65,Lexington A,ess,46,16,30,4,0
+g65,Lexington A,biology,18,8,10,2,0
+g65,Lexington A,physics,14,4,10,1,0
+g66,AHS Broward B,other,14,4,10,1,0
+g66,AHS Broward B,math,28,8,20,2,0
+g66,AHS Broward B,chemistry,14,4,10,1,1
+g66,AHS Broward B,ess,16,16,0,3,0
+g66,AHS Broward B,biology,14,4,10,1,0
+g66,AHS Broward B,physics,0,0,0,0,0
+g66,Rickards,other,8,8,0,2,0
+g66,Rickards,math,4,4,0,1,0
+g66,Rickards,chemistry,8,8,0,1,0
+g66,Rickards,ess,0,0,0,0,1
+g66,Rickards,biology,32,12,20,3,0
+g66,Rickards,physics,0,0,0,0,0
+g67,Brooklyn Tech B,other,0,0,0,0,0
+g67,Brooklyn Tech B,math,0,0,0,0,0
+g67,Brooklyn Tech B,chemistry,0,0,0,0,0
+g67,Brooklyn Tech B,ess,4,4,0,1,0
+g67,Brooklyn Tech B,biology,4,4,0,0,0
+g67,Brooklyn Tech B,physics,0,0,0,0,0
+g67,Centennial,other,42,12,30,3,0
+g67,Centennial,math,46,16,30,4,0
+g67,Centennial,chemistry,56,16,40,4,0
+g67,Centennial,ess,32,12,20,3,0
+g67,Centennial,biology,42,12,30,3,1
+g67,Centennial,physics,28,8,20,2,0
+g68,ASFA A,other,14,4,10,1,1
+g68,ASFA A,math,46,16,30,4,0
+g68,ASFA A,chemistry,28,8,20,2,0
+g68,ASFA A,ess,28,8,20,2,0
+g68,ASFA A,biology,4,4,0,1,1
+g68,ASFA A,physics,14,4,10,1,0
+g68,Wayland B,other,4,4,0,0,0
+g68,Wayland B,math,0,0,0,0,0
+g68,Wayland B,chemistry,4,4,0,1,0
+g68,Wayland B,ess,14,4,10,1,0
+g68,Wayland B,biology,18,8,10,1,0
+g68,Wayland B,physics,0,0,0,0,0
+g69,Blair A,other,42,12,30,3,1
+g69,Blair A,math,28,8,20,2,1
+g69,Blair A,chemistry,56,16,40,4,0
+g69,Blair A,ess,28,8,20,2,1
+g69,Blair A,biology,42,12,30,3,1
+g69,Blair A,physics,14,4,10,1,1
+g69,Iolani B,other,4,4,0,0,0
+g69,Iolani B,math,12,12,0,2,0
+g69,Iolani B,chemistry,0,0,0,0,0
+g69,Iolani B,ess,12,12,0,2,0
+g69,Iolani B,biology,8,8,0,1,0
+g69,Iolani B,physics,18,8,10,1,0
+g70,Dulles A,other,28,8,20,2,2
+g70,Dulles A,math,28,8,20,2,0
+g70,Dulles A,chemistry,60,20,40,4,0
+g70,Dulles A,ess,46,16,30,4,0
+g70,Dulles A,biology,18,8,10,2,0
+g70,Dulles A,physics,28,8,20,2,0
+g70,Princeton,other,22,12,10,1,0
+g70,Princeton,math,18,8,10,2,0
+g70,Princeton,chemistry,0,0,0,0,1
+g70,Princeton,ess,0,0,0,0,0
+g70,Princeton,biology,28,8,20,2,0
+g70,Princeton,physics,0,0,0,0,0
+g71,Grand Oaks,other,0,0,0,0,0
+g71,Grand Oaks,math,4,4,0,1,0
+g71,Grand Oaks,chemistry,14,4,10,1,0
+g71,Grand Oaks,ess,4,4,0,1,0
+g71,Grand Oaks,biology,14,4,10,1,1
+g71,Grand Oaks,physics,18,8,10,1,0
+g71,Green Hope B,other,28,8,20,2,0
+g71,Green Hope B,math,8,8,0,2,0
+g71,Green Hope B,chemistry,28,8,20,2,0
+g71,Green Hope B,ess,18,8,10,2,0
+g71,Green Hope B,biology,4,4,0,0,0
+g71,Green Hope B,physics,14,4,10,1,1
+g72,BRHS,other,28,8,20,2,0
+g72,BRHS,math,22,12,10,3,0
+g72,BRHS,chemistry,14,4,10,1,0
+g72,BRHS,ess,4,4,0,1,0
+g72,BRHS,biology,18,8,10,2,0
+g72,BRHS,physics,0,0,0,0,0
+g72,Wayland A,other,14,4,10,1,0
+g72,Wayland A,math,14,4,10,1,0
+g72,Wayland A,chemistry,42,12,30,3,0
+g72,Wayland A,ess,8,8,0,2,0
+g72,Wayland A,biology,0,0,0,0,0
+g72,Wayland A,physics,18,8,10,2,0
+g73,Edison B,other,28,8,20,2,0
+g73,Edison B,math,18,8,10,1,0
+g73,Edison B,chemistry,18,8,10,2,0
+g73,Edison B,ess,4,4,0,1,0
+g73,Edison B,biology,46,16,30,4,0
+g73,Edison B,physics,4,4,0,1,0
+g73,John Adams,other,0,0,0,0,0
+g73,John Adams,math,18,8,10,2,1
+g73,John Adams,chemistry,14,4,10,1,0
+g73,John Adams,ess,12,12,0,3,0
+g73,John Adams,biology,0,0,0,0,0
+g73,John Adams,physics,0,0,0,0,0
+g74,AMSA A,other,0,0,0,0,0
+g74,AMSA A,math,8,8,0,2,0
+g74,AMSA A,chemistry,4,4,0,1,0
+g74,AMSA A,ess,0,0,0,0,0
+g74,AMSA A,biology,4,4,0,1,0
+g74,AMSA A,physics,0,0,0,0,0
+g74,Liberty A,other,18,8,10,2,0
+g74,Liberty A,math,4,4,0,1,0
+g74,Liberty A,chemistry,8,8,0,2,0
+g74,Liberty A,ess,32,12,20,3,0
+g74,Liberty A,biology,0,0,0,0,0
+g74,Liberty A,physics,0,0,0,0,0
+g75,Blair C,other,0,0,0,0,1
+g75,Blair C,math,42,12,30,3,0
+g75,Blair C,chemistry,28,8,20,2,0
+g75,Blair C,ess,0,0,0,0,1
+g75,Blair C,biology,0,0,0,0,1
+g75,Blair C,physics,18,8,10,1,0
+g75,duPont Manual,other,46,16,30,3,0
+g75,duPont Manual,math,14,4,10,1,0
+g75,duPont Manual,chemistry,18,8,10,2,0
+g75,duPont Manual,ess,8,8,0,1,0
+g75,duPont Manual,biology,60,20,40,4,0
+g75,duPont Manual,physics,14,4,10,1,1
+g76,JP Stevens B,other,8,8,0,1,0
+g76,JP Stevens B,math,0,0,0,0,0
+g76,JP Stevens B,chemistry,18,8,10,1,0
+g76,JP Stevens B,ess,8,8,0,2,0
+g76,JP Stevens B,biology,4,4,0,0,0
+g76,JP Stevens B,physics,4,4,0,1,0
+g76,RMHS A,other,14,4,10,1,1
+g76,RMHS A,math,46,16,30,4,0
+g76,RMHS A,chemistry,14,4,10,1,1
+g76,RMHS A,ess,18,8,10,2,0
+g76,RMHS A,biology,32,12,20,3,1
+g76,RMHS A,physics,0,0,0,0,0
+g77,Liberty B,other,4,4,0,1,0
+g77,Liberty B,math,4,4,0,1,1
+g77,Liberty B,chemistry,4,4,0,1,0
+g77,Liberty B,ess,8,8,0,2,0
+g77,Liberty B,biology,0,0,0,0,1
+g77,Liberty B,physics,4,4,0,1,0
+g77,Naperville North A,other,14,4,10,1,0
+g77,Naperville North A,math,8,8,0,1,0
+g77,Naperville North A,chemistry,14,4,10,1,0
+g77,Naperville North A,ess,4,4,0,1,0
+g77,Naperville North A,biology,26,16,10,3,0
+g77,Naperville North A,physics,0,0,0,0,0
+g78,Collierville,other,0,0,0,0,0
+g78,Collierville,math,4,4,0,1,0
+g78,Collierville,chemistry,32,12,20,3,0
+g78,Collierville,ess,28,8,20,2,0
+g78,Collierville,biology,22,12,10,2,1
+g78,Collierville,physics,0,0,0,0,0
+g78,RMHS C,other,8,8,0,2,0
+g78,RMHS C,math,8,8,0,2,0
+g78,RMHS C,chemistry,4,4,0,1,0
+g78,RMHS C,ess,0,0,0,0,0
+g78,RMHS C,biology,4,4,0,0,1
+g78,RMHS C,physics,0,0,0,0,0
+g79,Edison A,other,0,0,0,0,0
+g79,Edison A,math,4,4,0,1,0
+g79,Edison A,chemistry,0,0,0,0,0
+g79,Edison A,ess,4,4,0,1,0
+g79,Edison A,biology,14,4,10,1,0
+g79,Edison A,physics,14,4,10,1,0
+g79,Green Hope A,other,42,12,30,3,0
+g79,Green Hope A,math,18,8,10,2,0
+g79,Green Hope A,chemistry,46,16,30,4,0
+g79,Green Hope A,ess,42,12,30,3,0
+g79,Green Hope A,biology,18,8,10,2,0
+g79,Green Hope A,physics,14,4,10,1,0
+g80,ASFA B,other,0,0,0,0,1
+g80,ASFA B,math,32,12,20,3,0
+g80,ASFA B,chemistry,0,0,0,0,1
+g80,ASFA B,ess,18,8,10,2,0
+g80,ASFA B,biology,22,12,10,2,1
+g80,ASFA B,physics,0,0,0,0,0
+g80,New Canaan,other,32,12,20,2,0
+g80,New Canaan,math,0,0,0,0,0
+g80,New Canaan,chemistry,22,12,10,2,0
+g80,New Canaan,ess,4,4,0,1,0
+g80,New Canaan,biology,18,8,10,1,1
+g80,New Canaan,physics,4,4,0,1,0
+g81,Brooklyn Tech C,other,0,0,0,0,0
+g81,Brooklyn Tech C,math,4,4,0,1,0
+g81,Brooklyn Tech C,chemistry,4,4,0,1,0
+g81,Brooklyn Tech C,ess,0,0,0,0,0
+g81,Brooklyn Tech C,biology,4,4,0,1,0
+g81,Brooklyn Tech C,physics,0,0,0,0,0
+g81,Iolani A,other,18,8,10,2,0
+g81,Iolani A,math,42,12,30,3,0
+g81,Iolani A,chemistry,28,8,20,2,0
+g81,Iolani A,ess,36,16,20,4,0
+g81,Iolani A,biology,32,12,20,3,0
+g81,Iolani A,physics,14,4,10,1,0
+g82,Blair B,other,0,0,0,0,2
+g82,Blair B,math,14,4,10,1,0
+g82,Blair B,chemistry,28,8,20,2,0
+g82,Blair B,ess,22,12,10,2,0
+g82,Blair B,biology,42,12,30,3,1
+g82,Blair B,physics,0,0,0,0,0
+g82,Ladue,other,36,16,20,2,0
+g82,Ladue,math,32,12,20,3,0
+g82,Ladue,chemistry,28,8,20,2,0
+g82,Ladue,ess,4,4,0,1,1
+g82,Ladue,biology,8,8,0,1,0
+g82,Ladue,physics,42,12,30,3,0
+g83,Bob Jones,other,28,8,20,2,0
+g83,Bob Jones,math,56,16,40,4,0
+g83,Bob Jones,chemistry,32,12,20,3,0
+g83,Bob Jones,ess,8,8,0,2,0
+g83,Bob Jones,biology,14,4,10,1,1
+g83,Bob Jones,physics,14,4,10,1,0
+g83,Canterbury,other,0,0,0,0,0
+g83,Canterbury,math,0,0,0,0,0
+g83,Canterbury,chemistry,14,4,10,1,0
+g83,Canterbury,ess,4,4,0,1,0
+g83,Canterbury,biology,4,4,0,0,0
+g83,Canterbury,physics,14,4,10,1,0
+g84,AMSA C,other,0,0,0,0,1
+g84,AMSA C,math,4,4,0,1,0
+g84,AMSA C,chemistry,0,0,0,0,0
+g84,AMSA C,ess,8,8,0,2,0
+g84,AMSA C,biology,0,0,0,0,1
+g84,AMSA C,physics,0,0,0,0,0
+g84,PRISMS,other,32,12,20,2,0
+g84,PRISMS,math,42,12,30,3,0
+g84,PRISMS,chemistry,42,12,30,3,0
+g84,PRISMS,ess,8,8,0,2,0
+g84,PRISMS,biology,32,12,20,2,0
+g84,PRISMS,physics,14,4,10,1,0
+g85,Lexington B,other,28,8,20,2,0
+g85,Lexington B,math,42,12,30,3,0
+g85,Lexington B,chemistry,60,20,40,4,0
+g85,Lexington B,ess,42,12,30,3,0
+g85,Lexington B,biology,28,8,20,2,1
+g85,Lexington B,physics,14,4,10,1,0
+g85,Northville,other,0,0,0,0,0
+g85,Northville,math,4,4,0,1,0
+g85,Northville,chemistry,0,0,0,0,1
+g85,Northville,ess,14,4,10,1,0
+g85,Northville,biology,22,12,10,2,0
+g85,Northville,physics,0,0,0,0,0
+g86,Brooklyn Tech A,other,12,12,0,2,0
+g86,Brooklyn Tech A,math,18,8,10,2,0
+g86,Brooklyn Tech A,chemistry,4,4,0,1,0
+g86,Brooklyn Tech A,ess,0,0,0,0,0
+g86,Brooklyn Tech A,biology,42,12,30,3,0
+g86,Brooklyn Tech A,physics,0,0,0,0,0
+g86,Quail Valley,other,0,0,0,0,1
+g86,Quail Valley,math,8,8,0,2,0
+g86,Quail Valley,chemistry,4,4,0,1,0
+g86,Quail Valley,ess,22,12,10,3,0
+g86,Quail Valley,biology,4,4,0,1,0
+g86,Quail Valley,physics,14,4,10,1,0
+g87,Buchholz B,other,32,12,20,2,1
+g87,Buchholz B,math,46,16,30,4,0
+g87,Buchholz B,chemistry,28,8,20,2,1
+g87,Buchholz B,ess,4,4,0,1,0
+g87,Buchholz B,biology,14,4,10,1,0
+g87,Buchholz B,physics,14,4,10,1,0
+g87,Glastonbury A,other,4,4,0,0,1
+g87,Glastonbury A,math,0,0,0,0,0
+g87,Glastonbury A,chemistry,32,12,20,2,0
+g87,Glastonbury A,ess,28,8,20,2,0
+g87,Glastonbury A,biology,28,8,20,2,0
+g87,Glastonbury A,physics,4,4,0,1,0
+g88,BOW A,other,4,4,0,1,0
+g88,BOW A,math,0,0,0,0,0
+g88,BOW A,chemistry,0,0,0,0,0
+g88,BOW A,ess,4,4,0,1,0
+g88,BOW A,biology,18,8,10,2,0
+g88,BOW A,physics,0,0,0,0,0
+g88,MCA,other,22,12,10,3,0
+g88,MCA,math,32,12,20,3,0
+g88,MCA,chemistry,26,16,10,4,0
+g88,MCA,ess,18,8,10,2,0
+g88,MCA,biology,4,4,0,1,0
+g88,MCA,physics,36,16,20,4,0
+g89,Brooklyn Tech D,other,8,8,0,1,0
+g89,Brooklyn Tech D,math,4,4,0,1,0
+g89,Brooklyn Tech D,chemistry,4,4,0,1,0
+g89,Brooklyn Tech D,ess,0,0,0,0,0
+g89,Brooklyn Tech D,biology,4,4,0,1,0
+g89,Brooklyn Tech D,physics,0,0,0,0,0
+g89,RMHS B,other,18,8,10,2,1
+g89,RMHS B,math,4,4,0,1,0
+g89,RMHS B,chemistry,0,0,0,0,0
+g89,RMHS B,ess,22,12,10,3,0
+g89,RMHS B,biology,0,0,0,0,0
+g89,RMHS B,physics,4,4,0,1,0
+g90,Buchholz A,other,46,16,30,4,0
+g90,Buchholz A,math,36,16,20,4,0
+g90,Buchholz A,chemistry,28,8,20,2,0
+g90,Buchholz A,ess,28,8,20,2,1
+g90,Buchholz A,biology,56,16,40,4,0
+g90,Buchholz A,physics,28,8,20,2,1
+g90,Poolesville B,other,0,0,0,0,0
+g90,Poolesville B,math,0,0,0,0,0
+g90,Poolesville B,chemistry,18,8,10,2,0
+g90,Poolesville B,ess,18,8,10,1,0
+g90,Poolesville B,biology,0,0,0,0,0
+g90,Poolesville B,physics,8,8,0,1,0
+g91,AMSA B,other,4,4,0,1,0
+g91,AMSA B,math,0,0,0,0,0
+g91,AMSA B,chemistry,0,0,0,0,0
+g91,AMSA B,ess,18,8,10,1,0
+g91,AMSA B,biology,4,4,0,1,0
+g91,AMSA B,physics,0,0,0,0,0
+g91,Tupelo,other,42,12,30,3,0
+g91,Tupelo,math,4,4,0,1,0
+g91,Tupelo,chemistry,14,4,10,1,0
+g91,Tupelo,ess,18,8,10,2,1
+g91,Tupelo,biology,8,8,0,2,0
+g91,Tupelo,physics,14,4,10,1,0
+g92,Lindbergh A,other,14,4,10,1,0
+g92,Lindbergh A,math,14,4,10,1,0
+g92,Lindbergh A,chemistry,0,0,0,0,0
+g92,Lindbergh A,ess,0,0,0,0,0
+g92,Lindbergh A,biology,4,4,0,0,0
+g92,Lindbergh A,physics,0,0,0,0,1
+g92,Westminster,other,32,12,20,3,0
+g92,Westminster,math,22,12,10,3,0
+g92,Westminster,chemistry,36,16,20,4,0
+g92,Westminster,ess,32,12,20,3,0
+g92,Westminster,biology,42,12,30,3,1
+g92,Westminster,physics,46,16,30,3,0
+g93,AHS Broward A,other,32,12,20,3,0
+g93,AHS Broward A,math,12,12,0,3,0
+g93,AHS Broward A,chemistry,36,16,20,4,0
+g93,AHS Broward A,ess,22,12,10,2,0
+g93,AHS Broward A,biology,32,12,20,3,0
+g93,AHS Broward A,physics,28,8,20,2,0
+g93,Lindbergh B,other,14,4,10,1,0
+g93,Lindbergh B,math,0,0,0,0,0
+g93,Lindbergh B,chemistry,0,0,0,0,0
+g93,Lindbergh B,ess,4,4,0,1,1
+g93,Lindbergh B,biology,4,4,0,1,0
+g93,Lindbergh B,physics,14,4,10,1,0
+g94,Lexington A,other,42,12,30,3,0
+g94,Lexington A,math,18,8,10,2,1
+g94,Lexington A,chemistry,18,8,10,2,1
+g94,Lexington A,ess,42,12,30,3,0
+g94,Lexington A,biology,46,16,30,3,0
+g94,Lexington A,physics,46,16,30,4,0
+g94,SCDS,other,14,4,10,1,0
+g94,SCDS,math,8,8,0,1,0
+g94,SCDS,chemistry,22,12,10,2,0
+g94,SCDS,ess,0,0,0,0,0
+g94,SCDS,biology,0,0,0,0,1
+g94,SCDS,physics,0,0,0,0,0
+g95,AHS Broward B,other,32,12,20,3,0
+g95,AHS Broward B,math,8,8,0,1,0
+g95,AHS Broward B,chemistry,14,4,10,1,0
+g95,AHS Broward B,ess,0,0,0,0,0
+g95,AHS Broward B,biology,32,12,20,3,0
+g95,AHS Broward B,physics,0,0,0,0,0
+g95,Longwood,other,0,0,0,0,0
+g95,Longwood,math,8,8,0,2,1
+g95,Longwood,chemistry,0,0,0,0,0
+g95,Longwood,ess,22,12,10,3,0
+g95,Longwood,biology,4,4,0,1,0
+g95,Longwood,physics,14,4,10,1,0
+g96,Centennial,other,32,12,20,3,0
+g96,Centennial,math,18,8,10,2,0
+g96,Centennial,chemistry,46,16,30,4,0
+g96,Centennial,ess,32,12,20,3,0
+g96,Centennial,biology,32,12,20,3,0
+g96,Centennial,physics,56,16,40,4,0
+g96,Rickards,other,4,4,0,1,0
+g96,Rickards,math,8,8,0,2,0
+g96,Rickards,chemistry,0,0,0,0,0
+g96,Rickards,ess,14,4,10,1,0
+g96,Rickards,biology,0,0,0,0,0
+g96,Rickards,physics,0,0,0,0,0
+g97,ASFA A,other,40,20,20,3,0
+g97,ASFA A,math,22,12,10,3,0
+g97,ASFA A,chemistry,8,8,0,2,1
+g97,ASFA A,ess,18,8,10,1,0
+g97,ASFA A,biology,8,8,0,2,0
+g97,ASFA A,physics,4,4,0,1,1
+g97,Maryville A,other,4,4,0,1,2
+g97,Maryville A,math,0,0,0,0,0
+g97,Maryville A,chemistry,18,8,10,1,0
+g97,Maryville A,ess,14,4,10,1,1
+g97,Maryville A,biology,0,0,0,0,0
+g97,Maryville A,physics,18,8,10,1,0
+g98,Iolani B,other,28,8,20,2,1
+g98,Iolani B,math,8,8,0,2,0
+g98,Iolani B,chemistry,0,0,0,0,0
+g98,Iolani B,ess,18,8,10,2,0
+g98,Iolani B,biology,4,4,0,1,0
+g98,Iolani B,physics,0,0,0,0,0
+g98,Wayland B,other,8,8,0,1,0
+g98,Wayland B,math,4,4,0,1,0
+g98,Wayland B,chemistry,4,4,0,1,0
+g98,Wayland B,ess,4,4,0,1,0
+g98,Wayland B,biology,8,8,0,2,0
+g98,Wayland B,physics,0,0,0,0,0
+g99,Dulles A,other,22,12,10,2,0
+g99,Dulles A,math,8,8,0,2,1
+g99,Dulles A,chemistry,50,20,30,3,0
+g99,Dulles A,ess,32,12,20,3,0
+g99,Dulles A,biology,0,0,0,0,0
+g99,Dulles A,physics,14,4,10,1,2
+g99,Maryville B,other,18,8,10,2,1
+g99,Maryville B,math,4,4,0,0,0
+g99,Maryville B,chemistry,0,0,0,0,2
+g99,Maryville B,ess,14,4,10,1,0
+g99,Maryville B,biology,32,12,20,3,0
+g99,Maryville B,physics,26,16,10,2,0
+g100,Green Hope B,other,32,12,20,3,0
+g100,Green Hope B,math,4,4,0,1,1
+g100,Green Hope B,chemistry,4,4,0,1,0
+g100,Green Hope B,ess,46,16,30,4,0
+g100,Green Hope B,biology,4,4,0,1,0
+g100,Green Hope B,physics,8,8,0,1,0
+g100,Princeton,other,14,4,10,1,0
+g100,Princeton,math,8,8,0,1,0
+g100,Princeton,chemistry,4,4,0,1,0
+g100,Princeton,ess,0,0,0,0,0
+g100,Princeton,biology,8,8,0,2,0
+g100,Princeton,physics,4,4,0,1,1
+g101,BRHS,other,0,0,0,0,0
+g101,BRHS,math,12,12,0,3,1
+g101,BRHS,chemistry,4,4,0,1,0
+g101,BRHS,ess,0,0,0,0,0
+g101,BRHS,biology,12,12,0,1,0
+g101,BRHS,physics,0,0,0,0,0
+g101,JP Stevens A,other,56,16,40,4,0
+g101,JP Stevens A,math,8,8,0,1,0
+g101,JP Stevens A,chemistry,8,8,0,2,0
+g101,JP Stevens A,ess,46,16,30,4,0
+g101,JP Stevens A,biology,28,8,20,2,2
+g101,JP Stevens A,physics,42,12,30,3,0
+g102,John Adams,other,14,4,10,1,1
+g102,John Adams,math,0,0,0,0,0
+g102,John Adams,chemistry,4,4,0,1,0
+g102,John Adams,ess,18,8,10,2,0
+g102,John Adams,biology,32,12,20,2,0
+g102,John Adams,physics,4,4,0,1,0
+g102,Wayland A,other,32,12,20,2,0
+g102,Wayland A,math,12,12,0,3,0
+g102,Wayland A,chemistry,8,8,0,2,0
+g102,Wayland A,ess,8,8,0,2,0
+g102,Wayland A,biology,14,4,10,1,1
+g102,Wayland A,physics,0,0,0,0,0
+g103,AMSA A,other,4,4,0,1,1
+g103,AMSA A,math,0,0,0,0,0
+g103,AMSA A,chemistry,4,4,0,1,0
+g103,AMSA A,ess,8,8,0,2,0
+g103,AMSA A,biology,4,4,0,1,0
+g103,AMSA A,physics,0,0,0,0,0
+g103,Fayetteville,other,32,12,20,2,0
+g103,Fayetteville,math,12,12,0,3,0
+g103,Fayetteville,chemistry,14,4,10,1,0
+g103,Fayetteville,ess,4,4,0,1,0
+g103,Fayetteville,biology,4,4,0,1,0
+g103,Fayetteville,physics,32,12,20,3,0
+g104,duPont Manual,other,36,16,20,3,0
+g104,duPont Manual,math,18,8,10,2,1
+g104,duPont Manual,chemistry,22,12,10,3,0
+g104,duPont Manual,ess,4,4,0,1,0
+g104,duPont Manual,biology,56,16,40,4,0
+g104,duPont Manual,physics,14,4,10,1,2
+g104,Liberty A,other,4,4,0,1,1
+g104,Liberty A,math,12,12,0,2,0
+g104,Liberty A,chemistry,0,0,0,0,0
+g104,Liberty A,ess,18,8,10,2,0
+g104,Liberty A,biology,0,0,0,0,0
+g104,Liberty A,physics,26,16,10,2,0
+g105,JP Stevens B,other,4,4,0,1,0
+g105,JP Stevens B,math,0,0,0,0,0
+g105,JP Stevens B,chemistry,0,0,0,0,0
+g105,JP Stevens B,ess,28,8,20,2,0
+g105,JP Stevens B,biology,8,8,0,2,0
+g105,JP Stevens B,physics,0,0,0,0,0
+g105,POBJFK,other,22,12,10,3,0
+g105,POBJFK,math,22,12,10,3,0
+g105,POBJFK,chemistry,14,4,10,1,0
+g105,POBJFK,ess,8,8,0,2,0
+g105,POBJFK,biology,4,4,0,1,0
+g105,POBJFK,physics,4,4,0,1,0
+g106,Naperville North A,other,14,4,10,1,0
+g106,Naperville North A,math,0,0,0,0,0
+g106,Naperville North A,chemistry,4,4,0,1,0
+g106,Naperville North A,ess,8,8,0,2,0
+g106,Naperville North A,biology,18,8,10,1,0
+g106,Naperville North A,physics,0,0,0,0,0
+g106,RMHS A,other,28,8,20,2,0
+g106,RMHS A,math,16,16,0,4,0
+g106,RMHS A,chemistry,4,4,0,1,0
+g106,RMHS A,ess,14,4,10,1,0
+g106,RMHS A,biology,28,8,20,2,1
+g106,RMHS A,physics,28,8,20,2,0
+g107,Collierville,other,22,12,10,3,0
+g107,Collierville,math,4,4,0,1,0
+g107,Collierville,chemistry,12,12,0,2,0
+g107,Collierville,ess,42,12,30,3,0
+g107,Collierville,biology,46,16,30,4,0
+g107,Collierville,physics,4,4,0,1,0
+g107,Naperville North B,other,4,4,0,1,0
+g107,Naperville North B,math,18,8,10,2,0
+g107,Naperville North B,chemistry,4,4,0,1,1
+g107,Naperville North B,ess,14,4,10,1,0
+g107,Naperville North B,biology,0,0,0,0,0
+g107,Naperville North B,physics,32,12,20,3,0
+g108,Green Hope A,other,32,12,20,3,0
+g108,Green Hope A,math,4,4,0,1,0
+g108,Green Hope A,chemistry,12,12,0,3,0
+g108,Green Hope A,ess,32,12,20,3,1
+g108,Green Hope A,biology,28,8,20,2,0
+g108,Green Hope A,physics,46,16,30,4,0
+g108,RMHS C,other,14,4,10,1,0
+g108,RMHS C,math,0,0,0,0,0
+g108,RMHS C,chemistry,0,0,0,0,0
+g108,RMHS C,ess,4,4,0,0,0
+g108,RMHS C,biology,4,4,0,1,0
+g108,RMHS C,physics,0,0,0,0,0
+g109,ASFA B,other,18,8,10,1,0
+g109,ASFA B,math,4,4,0,1,0
+g109,ASFA B,chemistry,8,8,0,2,0
+g109,ASFA B,ess,0,0,0,0,0
+g109,ASFA B,biology,18,8,10,1,0
+g109,ASFA B,physics,14,4,10,1,0
+g109,MSMS,other,32,12,20,3,1
+g109,MSMS,math,8,8,0,2,0
+g109,MSMS,chemistry,18,8,10,2,0
+g109,MSMS,ess,46,16,30,4,0
+g109,MSMS,biology,8,8,0,2,1
+g109,MSMS,physics,14,4,10,1,0
+g110,Iolani A,other,26,16,10,4,0
+g110,Iolani A,math,26,16,10,4,0
+g110,Iolani A,chemistry,12,12,0,3,0
+g110,Iolani A,ess,42,12,30,3,0
+g110,Iolani A,biology,4,4,0,1,0
+g110,Iolani A,physics,28,8,20,2,0
+g110,New Canaan,other,0,0,0,0,0
+g110,New Canaan,math,0,0,0,0,0
+g110,New Canaan,chemistry,4,4,0,1,0
+g110,New Canaan,ess,4,4,0,1,0
+g110,New Canaan,biology,18,8,10,2,0
+g110,New Canaan,physics,4,4,0,1,0
+g111,Blair B,other,28,8,20,2,2
+g111,Blair B,math,32,12,20,3,1
+g111,Blair B,chemistry,14,4,10,1,0
+g111,Blair B,ess,32,12,20,3,0
+g111,Blair B,biology,36,16,20,4,0
+g111,Blair B,physics,18,8,10,2,1
+g111,JP Stevens C,other,8,8,0,0,0
+g111,JP Stevens C,math,4,4,0,0,0
+g111,JP Stevens C,chemistry,8,8,0,2,0
+g111,JP Stevens C,ess,14,4,10,1,0
+g111,JP Stevens C,biology,0,0,0,0,0
+g111,JP Stevens C,physics,18,8,10,1,0
+g112,Canterbury,other,0,0,0,0,0
+g112,Canterbury,math,0,0,0,0,0
+g112,Canterbury,chemistry,4,4,0,1,0
+g112,Canterbury,ess,18,8,10,2,0
+g112,Canterbury,biology,0,0,0,0,0
+g112,Canterbury,physics,4,4,0,1,0
+g112,Ladue,other,36,16,20,4,0
+g112,Ladue,math,36,16,20,4,0
+g112,Ladue,chemistry,28,8,20,2,0
+g112,Ladue,ess,8,8,0,2,0
+g112,Ladue,biology,32,12,20,3,0
+g112,Ladue,physics,28,8,20,2,0
+g113,AMSA C,other,4,4,0,0,1
+g113,AMSA C,math,0,0,0,0,0
+g113,AMSA C,chemistry,14,4,10,1,0
+g113,AMSA C,ess,0,0,0,0,1
+g113,AMSA C,biology,4,4,0,1,0
+g113,AMSA C,physics,4,4,0,1,0
+g113,Poolesville A,other,46,16,30,3,1
+g113,Poolesville A,math,22,12,10,3,0
+g113,Poolesville A,chemistry,18,8,10,2,0
+g113,Poolesville A,ess,40,20,20,4,0
+g113,Poolesville A,biology,14,4,10,1,0
+g113,Poolesville A,physics,28,8,20,2,0
+g114,Northville,other,36,16,20,3,0
+g114,Northville,math,0,0,0,0,1
+g114,Northville,chemistry,0,0,0,0,1
+g114,Northville,ess,14,4,10,1,0
+g114,Northville,biology,0,0,0,0,0
+g114,Northville,physics,14,4,10,1,0
+g114,PRISMS,other,14,4,10,1,1
+g114,PRISMS,math,50,20,30,4,0
+g114,PRISMS,chemistry,50,20,30,4,0
+g114,PRISMS,ess,22,12,10,3,0
+g114,PRISMS,biology,8,8,0,2,0
+g114,PRISMS,physics,18,8,10,2,0
+g115,Brooklyn Tech A,other,4,4,0,1,0
+g115,Brooklyn Tech A,math,4,4,0,0,0
+g115,Brooklyn Tech A,chemistry,4,4,0,1,0
+g115,Brooklyn Tech A,ess,32,12,20,3,0
+g115,Brooklyn Tech A,biology,28,8,20,2,1
+g115,Brooklyn Tech A,physics,0,0,0,0,0
+g115,Maryville C,other,8,8,0,2,0
+g115,Maryville C,math,4,4,0,1,1
+g115,Maryville C,chemistry,8,8,0,2,0
+g115,Maryville C,ess,4,4,0,1,0
+g115,Maryville C,biology,4,4,0,0,0
+g115,Maryville C,physics,4,4,0,1,0
+g116,Glastonbury A,other,28,8,20,2,0
+g116,Glastonbury A,math,12,12,0,3,0
+g116,Glastonbury A,chemistry,28,8,20,2,0
+g116,Glastonbury A,ess,28,8,20,2,0
+g116,Glastonbury A,biology,28,8,20,2,0
+g116,Glastonbury A,physics,28,8,20,2,0
+g116,Quail Valley,other,14,4,10,1,0
+g116,Quail Valley,math,4,4,0,1,0
+g116,Quail Valley,chemistry,0,0,0,0,0
+g116,Quail Valley,ess,18,8,10,2,0
+g116,Quail Valley,biology,4,4,0,1,0
+g116,Quail Valley,physics,4,4,0,1,0
+g117,BOW A,other,4,4,0,0,0
+g117,BOW A,math,0,0,0,0,1
+g117,BOW A,chemistry,0,0,0,0,0
+g117,BOW A,ess,4,4,0,0,1
+g117,BOW A,biology,0,0,0,0,0
+g117,BOW A,physics,4,4,0,0,1
+g117,Buchholz A,other,28,8,20,2,1
+g117,Buchholz A,math,50,20,30,4,0
+g117,Buchholz A,chemistry,42,12,30,3,0
+g117,Buchholz A,ess,46,16,30,3,1
+g117,Buchholz A,biology,56,16,40,4,0
+g117,Buchholz A,physics,22,12,10,2,1
+g118,Brooklyn Tech D,other,0,0,0,0,0
+g118,Brooklyn Tech D,math,0,0,0,0,0
+g118,Brooklyn Tech D,chemistry,4,4,0,1,0
+g118,Brooklyn Tech D,ess,0,0,0,0,0
+g118,Brooklyn Tech D,biology,0,0,0,0,0
+g118,Brooklyn Tech D,physics,4,4,0,1,0
+g118,MCA,other,32,12,20,3,0
+g118,MCA,math,12,12,0,3,0
+g118,MCA,chemistry,8,8,0,2,0
+g118,MCA,ess,18,8,10,2,0
+g118,MCA,biology,22,12,10,3,0
+g118,MCA,physics,8,8,0,2,0
+g119,Poolesville B,other,4,4,0,1,0
+g119,Poolesville B,math,14,4,10,1,0
+g119,Poolesville B,chemistry,4,4,0,1,0
+g119,Poolesville B,ess,0,0,0,0,0
+g119,Poolesville B,biology,4,4,0,1,0
+g119,Poolesville B,physics,0,0,0,0,0
+g119,RMHS B,other,28,8,20,2,0
+g119,RMHS B,math,8,8,0,2,0
+g119,RMHS B,chemistry,8,8,0,2,0
+g119,RMHS B,ess,32,12,20,3,0
+g119,RMHS B,biology,0,0,0,0,0
+g119,RMHS B,physics,8,8,0,2,0
+g120,AMSA B,other,4,4,0,0,0
+g120,AMSA B,math,0,0,0,0,0
+g120,AMSA B,chemistry,4,4,0,1,0
+g120,AMSA B,ess,4,4,0,1,0
+g120,AMSA B,biology,14,4,10,1,0
+g120,AMSA B,physics,4,4,0,1,1
+g120,Lindbergh A,other,4,4,0,1,1
+g120,Lindbergh A,math,18,8,10,2,0
+g120,Lindbergh A,chemistry,8,8,0,2,0
+g120,Lindbergh A,ess,8,8,0,2,0
+g120,Lindbergh A,biology,0,0,0,0,0
+g120,Lindbergh A,physics,32,12,20,2,0
+g121,BOW B,other,4,4,0,1,0
+g121,BOW B,math,0,0,0,0,0
+g121,BOW B,chemistry,0,0,0,0,0
+g121,BOW B,ess,0,0,0,0,0
+g121,BOW B,biology,0,0,0,0,0
+g121,BOW B,physics,0,0,0,0,0
+g121,Tupelo,other,28,8,20,2,0
+g121,Tupelo,math,12,12,0,3,0
+g121,Tupelo,chemistry,28,8,20,2,0
+g121,Tupelo,ess,28,8,20,2,0
+g121,Tupelo,biology,22,12,10,3,0
+g121,Tupelo,physics,36,16,20,4,0
+g122,AHS Broward A,other,14,4,10,1,0
+g122,AHS Broward A,math,4,4,0,1,0
+g122,AHS Broward A,chemistry,18,8,10,2,0
+g122,AHS Broward A,ess,0,0,0,0,0
+g122,AHS Broward A,biology,0,0,0,0,0
+g122,AHS Broward A,physics,0,0,0,0,0
+g122,Lexington A,other,22,12,10,3,0
+g122,Lexington A,math,22,12,10,3,0
+g122,Lexington A,chemistry,28,8,20,2,0
+g122,Lexington A,ess,42,12,30,3,0
+g122,Lexington A,biology,56,16,40,4,0
+g122,Lexington A,physics,46,16,30,4,0
+g123,Glastonbury B,other,18,8,10,2,0
+g123,Glastonbury B,math,0,0,0,0,0
+g123,Glastonbury B,chemistry,0,0,0,0,0
+g123,Glastonbury B,ess,0,0,0,0,0
+g123,Glastonbury B,biology,14,4,10,1,0
+g123,Glastonbury B,physics,18,8,10,2,0
+g123,Lindbergh B,other,14,4,10,1,0
+g123,Lindbergh B,math,8,8,0,2,0
+g123,Lindbergh B,chemistry,18,8,10,2,0
+g123,Lindbergh B,ess,4,4,0,1,0
+g123,Lindbergh B,biology,0,0,0,0,0
+g123,Lindbergh B,physics,0,0,0,0,0
+g124,AHS Broward B,other,14,4,10,1,0
+g124,AHS Broward B,math,18,8,10,2,0
+g124,AHS Broward B,chemistry,0,0,0,0,0
+g124,AHS Broward B,ess,14,4,10,1,0
+g124,AHS Broward B,biology,0,0,0,0,0
+g124,AHS Broward B,physics,28,8,20,2,0
+g124,Centennial,other,8,8,0,2,0
+g124,Centennial,math,28,8,20,2,0
+g124,Centennial,chemistry,56,16,40,4,0
+g124,Centennial,ess,28,8,20,2,0
+g124,Centennial,biology,46,16,30,4,0
+g124,Centennial,physics,18,8,10,2,0
+g125,Brooklyn Tech B,other,4,4,0,1,0
+g125,Brooklyn Tech B,math,8,8,0,2,0
+g125,Brooklyn Tech B,chemistry,4,4,0,1,0
+g125,Brooklyn Tech B,ess,4,4,0,1,0
+g125,Brooklyn Tech B,biology,0,0,0,0,0
+g125,Brooklyn Tech B,physics,4,4,0,1,0
+g125,Longwood,other,14,4,10,1,0
+g125,Longwood,math,0,0,0,0,0
+g125,Longwood,chemistry,18,8,10,2,0
+g125,Longwood,ess,8,8,0,2,0
+g125,Longwood,biology,18,8,10,2,0
+g125,Longwood,physics,8,8,0,2,0
+g126,ASFA A,other,32,12,20,3,0
+g126,ASFA A,math,46,16,30,4,0
+g126,ASFA A,chemistry,28,8,20,2,0
+g126,ASFA A,ess,22,12,10,3,0
+g126,ASFA A,biology,8,8,0,2,0
+g126,ASFA A,physics,4,4,0,0,1
+g126,Iolani B,other,14,4,10,1,0
+g126,Iolani B,math,0,0,0,0,0
+g126,Iolani B,chemistry,4,4,0,1,0
+g126,Iolani B,ess,0,0,0,0,0
+g126,Iolani B,biology,4,4,0,1,0
+g126,Iolani B,physics,18,8,10,1,1
+g127,Blair A,other,18,8,10,2,1
+g127,Blair A,math,28,8,20,2,0
+g127,Blair A,chemistry,56,16,40,4,0
+g127,Blair A,ess,14,4,10,1,1
+g127,Blair A,biology,56,16,40,4,0
+g127,Blair A,physics,46,16,30,4,0
+g127,Maryville A,other,8,8,0,1,0
+g127,Maryville A,math,0,0,0,0,0
+g127,Maryville A,chemistry,0,0,0,0,0
+g127,Maryville A,ess,8,8,0,1,0
+g127,Maryville A,biology,0,0,0,0,0
+g127,Maryville A,physics,0,0,0,0,0
+g128,Dulles A,other,26,16,10,4,0
+g128,Dulles A,math,28,8,20,2,0
+g128,Dulles A,chemistry,46,16,30,3,1
+g128,Dulles A,ess,28,8,20,2,0
+g128,Dulles A,biology,28,8,20,2,0
+g128,Dulles A,physics,32,12,20,3,1
+g128,Green Hope B,other,0,0,0,0,0
+g128,Green Hope B,math,28,8,20,2,0
+g128,Green Hope B,chemistry,8,8,0,1,1
+g128,Green Hope B,ess,14,4,10,1,0
+g128,Green Hope B,biology,14,4,10,1,0
+g128,Green Hope B,physics,8,8,0,1,0
+g129,Grand Oaks,other,14,4,10,1,0
+g129,Grand Oaks,math,0,0,0,0,0
+g129,Grand Oaks,chemistry,26,16,10,4,0
+g129,Grand Oaks,ess,4,4,0,1,0
+g129,Grand Oaks,biology,0,0,0,0,0
+g129,Grand Oaks,physics,4,4,0,1,1
+g129,Maryville B,other,18,8,10,2,0
+g129,Maryville B,math,8,8,0,2,0
+g129,Maryville B,chemistry,0,0,0,0,0
+g129,Maryville B,ess,18,8,10,2,0
+g129,Maryville B,biology,22,12,10,3,0
+g129,Maryville B,physics,8,8,0,1,0
+g130,BRHS,other,18,8,10,2,0
+g130,BRHS,math,4,4,0,1,0
+g130,BRHS,chemistry,4,4,0,1,0
+g130,BRHS,ess,0,0,0,0,0
+g130,BRHS,biology,4,4,0,1,1
+g130,BRHS,physics,0,0,0,0,0
+g130,John Adams,other,18,8,10,2,0
+g130,John Adams,math,4,4,0,1,0
+g130,John Adams,chemistry,4,4,0,1,0
+g130,John Adams,ess,28,8,20,2,0
+g130,John Adams,biology,8,8,0,1,0
+g130,John Adams,physics,22,12,10,3,0
+g131,Edison B,other,18,8,10,2,0
+g131,Edison B,math,8,8,0,2,0
+g131,Edison B,chemistry,14,4,10,1,0
+g131,Edison B,ess,0,0,0,0,0
+g131,Edison B,biology,8,8,0,1,0
+g131,Edison B,physics,4,4,0,0,0
+g131,JP Stevens A,other,4,4,0,1,0
+g131,JP Stevens A,math,4,4,0,1,0
+g131,JP Stevens A,chemistry,42,12,30,3,0
+g131,JP Stevens A,ess,32,12,20,3,0
+g131,JP Stevens A,biology,42,12,30,3,1
+g131,JP Stevens A,physics,28,8,20,2,1
+g132,AMSA A,other,0,0,0,0,0
+g132,AMSA A,math,0,0,0,0,0
+g132,AMSA A,chemistry,18,8,10,2,0
+g132,AMSA A,ess,0,0,0,0,1
+g132,AMSA A,biology,4,4,0,0,0
+g132,AMSA A,physics,18,8,10,2,0
+g132,duPont Manual,other,32,12,20,3,0
+g132,duPont Manual,math,46,16,30,4,0
+g132,duPont Manual,chemistry,4,4,0,1,0
+g132,duPont Manual,ess,8,8,0,1,0
+g132,duPont Manual,biology,18,8,10,2,1
+g132,duPont Manual,physics,0,0,0,0,0
+g133,Blair C,other,0,0,0,0,0
+g133,Blair C,math,32,12,20,3,0
+g133,Blair C,chemistry,4,4,0,1,0
+g133,Blair C,ess,0,0,0,0,0
+g133,Blair C,biology,4,4,0,1,0
+g133,Blair C,physics,42,12,30,3,0
+g133,Fayetteville,other,22,12,10,3,0
+g133,Fayetteville,math,0,0,0,0,0
+g133,Fayetteville,chemistry,18,8,10,2,0
+g133,Fayetteville,ess,0,0,0,0,0
+g133,Fayetteville,biology,4,4,0,1,0
+g133,Fayetteville,physics,4,4,0,1,0
+g134,JP Stevens B,other,32,12,20,3,0
+g134,JP Stevens B,math,12,12,0,3,0
+g134,JP Stevens B,chemistry,4,4,0,1,0
+g134,JP Stevens B,ess,0,0,0,0,0
+g134,JP Stevens B,biology,4,4,0,1,0
+g134,JP Stevens B,physics,18,8,10,2,0
+g134,Naperville North A,other,0,0,0,0,0
+g134,Naperville North A,math,0,0,0,0,0
+g134,Naperville North A,chemistry,28,8,20,2,0
+g134,Naperville North A,ess,18,8,10,2,0
+g134,Naperville North A,biology,8,8,0,2,0
+g134,Naperville North A,physics,18,8,10,2,0
+g135,Liberty B,other,4,4,0,1,0
+g135,Liberty B,math,0,0,0,0,0
+g135,Liberty B,chemistry,4,4,0,1,0
+g135,Liberty B,ess,0,0,0,0,1
+g135,Liberty B,biology,8,8,0,1,0
+g135,Liberty B,physics,0,0,0,0,0
+g135,POBJFK,other,0,0,0,0,0
+g135,POBJFK,math,22,12,10,3,0
+g135,POBJFK,chemistry,4,4,0,1,0
+g135,POBJFK,ess,4,4,0,0,0
+g135,POBJFK,biology,14,4,10,1,1
+g135,POBJFK,physics,14,4,10,1,0
+g136,Collierville,other,14,4,10,1,0
+g136,Collierville,math,4,4,0,1,0
+g136,Collierville,chemistry,0,0,0,0,0
+g136,Collierville,ess,0,0,0,0,1
+g136,Collierville,biology,14,4,10,1,0
+g136,Collierville,physics,0,0,0,0,0
+g136,Green Hope A,other,42,12,30,3,0
+g136,Green Hope A,math,18,8,10,2,0
+g136,Green Hope A,chemistry,46,16,30,4,0
+g136,Green Hope A,ess,50,20,30,4,0
+g136,Green Hope A,biology,32,12,20,3,0
+g136,Green Hope A,physics,42,12,30,3,0
+g137,Edison A,other,22,12,10,3,0
+g137,Edison A,math,4,4,0,1,0
+g137,Edison A,chemistry,14,4,10,1,0
+g137,Edison A,ess,22,12,10,3,0
+g137,Edison A,biology,0,0,0,0,0
+g137,Edison A,physics,0,0,0,0,0
+g137,Naperville North B,other,0,0,0,0,0
+g137,Naperville North B,math,22,12,10,3,0
+g137,Naperville North B,chemistry,32,12,20,3,0
+g137,Naperville North B,ess,0,0,0,0,0
+g137,Naperville North B,biology,26,16,10,4,0
+g137,Naperville North B,physics,32,12,20,3,0
+g138,ASFA B,other,32,12,20,3,0
+g138,ASFA B,math,14,4,10,1,0
+g138,ASFA B,chemistry,28,8,20,2,0
+g138,ASFA B,ess,4,4,0,1,0
+g138,ASFA B,biology,18,8,10,2,0
+g138,ASFA B,physics,18,8,10,2,0
+g138,Iolani A,other,0,0,0,0,0
+g138,Iolani A,math,22,12,10,3,0
+g138,Iolani A,chemistry,18,8,10,2,0
+g138,Iolani A,ess,28,8,20,2,0
+g138,Iolani A,biology,4,4,0,1,0
+g138,Iolani A,physics,18,8,10,2,0
+g139,Brooklyn Tech C,other,8,8,0,1,0
+g139,Brooklyn Tech C,math,0,0,0,0,0
+g139,Brooklyn Tech C,chemistry,0,0,0,0,0
+g139,Brooklyn Tech C,ess,0,0,0,0,0
+g139,Brooklyn Tech C,biology,0,0,0,0,0
+g139,Brooklyn Tech C,physics,4,4,0,1,0
+g139,MSMS,other,4,4,0,1,1
+g139,MSMS,math,18,8,10,2,0
+g139,MSMS,chemistry,18,8,10,2,0
+g139,MSMS,ess,32,12,20,3,0
+g139,MSMS,biology,28,8,20,2,0
+g139,MSMS,physics,32,12,20,3,0
+g140,Blair B,other,32,12,20,3,1
+g140,Blair B,math,42,12,30,3,0
+g140,Blair B,chemistry,60,20,40,4,0
+g140,Blair B,ess,46,16,30,4,0
+g140,Blair B,biology,32,12,20,3,0
+g140,Blair B,physics,4,4,0,1,0
+g140,Canterbury,other,4,4,0,0,0
+g140,Canterbury,math,0,0,0,0,0
+g140,Canterbury,chemistry,0,0,0,0,1
+g140,Canterbury,ess,0,0,0,0,0
+g140,Canterbury,biology,0,0,0,0,0
+g140,Canterbury,physics,8,8,0,2,0
+g141,Bob Jones,other,18,8,10,2,0
+g141,Bob Jones,math,22,12,10,3,0
+g141,Bob Jones,chemistry,4,4,0,1,0
+g141,Bob Jones,ess,14,4,10,1,0
+g141,Bob Jones,biology,18,8,10,2,0
+g141,Bob Jones,physics,8,8,0,2,0
+g141,JP Stevens C,other,4,4,0,1,0
+g141,JP Stevens C,math,0,0,0,0,0
+g141,JP Stevens C,chemistry,4,4,0,1,0
+g141,JP Stevens C,ess,8,8,0,2,0
+g141,JP Stevens C,biology,4,4,0,1,0
+g141,JP Stevens C,physics,4,4,0,1,0
+g142,AMSA C,other,4,4,0,1,0
+g142,AMSA C,math,4,4,0,1,0
+g142,AMSA C,chemistry,8,8,0,2,0
+g142,AMSA C,ess,0,0,0,0,0
+g142,AMSA C,biology,0,0,0,0,0
+g142,AMSA C,physics,0,0,0,0,0
+g142,Northville,other,28,8,20,2,0
+g142,Northville,math,18,8,10,2,0
+g142,Northville,chemistry,0,0,0,0,0
+g142,Northville,ess,32,12,20,3,0
+g142,Northville,biology,36,16,20,4,0
+g142,Northville,physics,36,16,20,4,0
+g143,Lexington B,other,18,8,10,2,0
+g143,Lexington B,math,32,12,20,2,0
+g143,Lexington B,chemistry,18,8,10,2,0
+g143,Lexington B,ess,60,20,40,4,0
+g143,Lexington B,biology,26,16,10,4,0
+g143,Lexington B,physics,32,12,20,2,0
+g143,Poolesville A,other,14,4,10,1,0
+g143,Poolesville A,math,14,4,10,1,1
+g143,Poolesville A,chemistry,18,8,10,2,0
+g143,Poolesville A,ess,0,0,0,0,1
+g143,Poolesville A,biology,0,0,0,0,0
+g143,Poolesville A,physics,18,8,10,2,1
+g144,Brooklyn Tech A,other,0,0,0,0,0
+g144,Brooklyn Tech A,math,0,0,0,0,0
+g144,Brooklyn Tech A,chemistry,14,4,10,1,0
+g144,Brooklyn Tech A,ess,8,8,0,1,0
+g144,Brooklyn Tech A,biology,18,8,10,2,0
+g144,Brooklyn Tech A,physics,0,0,0,0,0
+g144,Glastonbury A,other,22,12,10,3,0
+g144,Glastonbury A,math,28,8,20,2,0
+g144,Glastonbury A,chemistry,18,8,10,2,0
+g144,Glastonbury A,ess,28,8,20,2,1
+g144,Glastonbury A,biology,4,4,0,1,0
+g144,Glastonbury A,physics,28,8,20,2,0
+g145,Buchholz B,other,28,8,20,2,1
+g145,Buchholz B,math,46,16,30,4,0
+g145,Buchholz B,chemistry,8,8,0,2,0
+g145,Buchholz B,ess,18,8,10,2,0
+g145,Buchholz B,biology,28,8,20,2,1
+g145,Buchholz B,physics,18,8,10,2,0
+g145,Maryville C,other,8,8,0,1,0
+g145,Maryville C,math,0,0,0,0,0
+g145,Maryville C,chemistry,0,0,0,0,0
+g145,Maryville C,ess,0,0,0,0,0
+g145,Maryville C,biology,4,4,0,0,0
+g145,Maryville C,physics,0,0,0,0,0
+g146,Blair A,other,8,8,0,1,1
+g146,Blair A,math,32,12,20,2,0
+g146,Blair A,chemistry,50,20,30,4,0
+g146,Blair A,ess,32,12,20,2,0
+g146,Blair A,biology,0,0,0,0,1
+g146,Blair A,physics,32,12,20,2,0
+g146,Blair B,other,18,8,10,1,1
+g146,Blair B,math,28,8,20,2,1
+g146,Blair B,chemistry,0,0,0,0,1
+g146,Blair B,ess,14,4,10,1,1
+g146,Blair B,biology,50,20,30,4,0
+g146,Blair B,physics,0,0,0,0,1
+g147,Green Hope A,other,14,4,10,1,0
+g147,Green Hope A,math,28,8,20,2,0
+g147,Green Hope A,chemistry,0,0,0,0,0
+g147,Green Hope A,ess,42,12,30,3,1
+g147,Green Hope A,biology,18,8,10,2,1
+g147,Green Hope A,physics,18,8,10,1,0
+g147,Ladue,other,4,4,0,1,0
+g147,Ladue,math,14,4,10,1,0
+g147,Ladue,chemistry,28,8,20,2,0
+g147,Ladue,ess,4,4,0,0,0
+g147,Ladue,biology,8,8,0,1,0
+g147,Ladue,physics,4,4,0,1,1
+g148,Centennial,other,32,12,20,3,0
+g148,Centennial,math,28,8,20,2,0
+g148,Centennial,chemistry,46,16,30,4,0
+g148,Centennial,ess,8,8,0,2,0
+g148,Centennial,biology,42,12,30,3,0
+g148,Centennial,physics,42,12,30,3,0
+g148,duPont Manual,other,14,4,10,1,0
+g148,duPont Manual,math,28,8,20,2,0
+g148,duPont Manual,chemistry,0,0,0,0,0
+g148,duPont Manual,ess,4,4,0,1,0
+g148,duPont Manual,biology,14,4,10,1,0
+g148,duPont Manual,physics,0,0,0,0,0
+g149,Lexington A,other,32,12,20,3,0
+g149,Lexington A,math,42,12,30,3,0
+g149,Lexington A,chemistry,0,0,0,0,1
+g149,Lexington A,ess,32,12,20,3,1
+g149,Lexington A,biology,28,8,20,2,1
+g149,Lexington A,physics,0,0,0,0,1
+g149,PRISMS,other,14,4,10,1,0
+g149,PRISMS,math,14,4,10,1,0
+g149,PRISMS,chemistry,22,12,10,2,0
+g149,PRISMS,ess,4,4,0,0,0
+g149,PRISMS,biology,4,4,0,0,0
+g149,PRISMS,physics,20,20,0,4,0
+g150,Buchholz A,other,14,4,10,1,1
+g150,Buchholz A,math,60,20,40,4,0
+g150,Buchholz A,chemistry,32,12,20,3,0
+g150,Buchholz A,ess,28,8,20,2,0
+g150,Buchholz A,biology,28,8,20,2,0
+g150,Buchholz A,physics,18,8,10,2,2
+g150,Lexington B,other,22,12,10,2,0
+g150,Lexington B,math,0,0,0,0,1
+g150,Lexington B,chemistry,4,4,0,1,0
+g150,Lexington B,ess,18,8,10,2,0
+g150,Lexington B,biology,18,8,10,2,0
+g150,Lexington B,physics,22,12,10,1,0
+g151,JP Stevens A,other,18,8,10,2,1
+g151,JP Stevens A,math,14,4,10,1,0
+g151,JP Stevens A,chemistry,14,4,10,1,0
+g151,JP Stevens A,ess,14,4,10,1,0
+g151,JP Stevens A,biology,22,12,10,3,0
+g151,JP Stevens A,physics,18,8,10,1,1
+g151,MSMS,other,4,4,0,0,0
+g151,MSMS,math,0,0,0,0,0
+g151,MSMS,chemistry,22,12,10,3,0
+g151,MSMS,ess,42,12,30,3,0
+g151,MSMS,biology,0,0,0,0,0
+g151,MSMS,physics,4,4,0,0,1
+g152,Westminster,other,36,16,20,3,0
+g152,Westminster,math,14,4,10,1,0
+g152,Westminster,chemistry,46,16,30,3,0
+g152,Westminster,ess,28,8,20,2,2
+g152,Westminster,biology,36,16,20,3,0
+g152,Westminster,physics,32,12,20,2,0
+g152,Buchholz B,other,0,0,0,0,1
+g152,Buchholz B,math,42,12,30,3,0
+g152,Buchholz B,chemistry,0,0,0,0,1
+g152,Buchholz B,ess,12,12,0,1,0
+g152,Buchholz B,biology,0,0,0,0,1
+g152,Buchholz B,physics,14,4,10,1,1
+g153,Dulles A,other,0,0,0,0,1
+g153,Dulles A,math,42,12,30,3,0
+g153,Dulles A,chemistry,32,12,20,2,0
+g153,Dulles A,ess,22,12,10,3,1
+g153,Dulles A,biology,28,8,20,2,1
+g153,Dulles A,physics,56,16,40,4,0
+g153,RMHS A,other,8,8,0,1,0
+g153,RMHS A,math,14,4,10,1,0
+g153,RMHS A,chemistry,0,0,0,0,1
+g153,RMHS A,ess,4,4,0,0,0
+g153,RMHS A,biology,8,8,0,1,0
+g153,RMHS A,physics,0,0,0,0,0
+g154,AHS Broward A,other,28,8,20,2,0
+g154,AHS Broward A,math,42,12,30,3,0
+g154,AHS Broward A,chemistry,26,16,10,3,0
+g154,AHS Broward A,ess,4,4,0,0,0
+g154,AHS Broward A,biology,4,4,0,0,0
+g154,AHS Broward A,physics,28,8,20,2,0
+g154,Maryville B,other,4,4,0,1,0
+g154,Maryville B,math,4,4,0,1,0
+g154,Maryville B,chemistry,0,0,0,0,1
+g154,Maryville B,ess,4,4,0,1,1
+g154,Maryville B,biology,8,8,0,2,1
+g154,Maryville B,physics,0,0,0,0,0
+g155,Green Hope B,other,4,4,0,1,0
+g155,Green Hope B,math,0,0,0,0,0
+g155,Green Hope B,chemistry,18,8,10,2,0
+g155,Green Hope B,ess,0,0,0,0,2
+g155,Green Hope B,biology,14,4,10,1,0
+g155,Green Hope B,physics,0,0,0,0,1
+g155,AHS Broward B,other,4,4,0,1,0
+g155,AHS Broward B,math,42,12,30,3,0
+g155,AHS Broward B,chemistry,4,4,0,1,0
+g155,AHS Broward B,ess,8,8,0,0,0
+g155,AHS Broward B,biology,4,4,0,1,0
+g155,AHS Broward B,physics,8,8,0,1,0
+g156,Blair C,other,22,12,10,1,0
+g156,Blair C,math,14,4,10,1,0
+g156,Blair C,chemistry,32,12,20,3,0
+g156,Blair C,ess,4,4,0,1,0
+g156,Blair C,biology,0,0,0,0,0
+g156,Blair C,physics,28,8,20,2,0
+g156,Poolesville A,other,4,4,0,1,2
+g156,Poolesville A,math,42,12,30,3,0
+g156,Poolesville A,chemistry,0,0,0,0,0
+g156,Poolesville A,ess,4,4,0,1,0
+g156,Poolesville A,biology,14,4,10,1,0
+g156,Poolesville A,physics,0,0,0,0,0
+g157,MCA,other,18,8,10,2,0
+g157,MCA,math,4,4,0,1,0
+g157,MCA,chemistry,4,4,0,1,0
+g157,MCA,ess,4,4,0,1,1
+g157,MCA,biology,8,8,0,2,0
+g157,MCA,physics,0,0,0,0,0
+g157,Naperville North A,other,4,4,0,1,0
+g157,Naperville North A,math,14,4,10,1,0
+g157,Naperville North A,chemistry,14,4,10,1,0
+g157,Naperville North A,ess,18,8,10,1,0
+g157,Naperville North A,biology,14,4,10,1,0
+g157,Naperville North A,physics,4,4,0,1,0
+g158,Iolani A,other,0,0,0,0,0
+g158,Iolani A,math,32,12,20,2,0
+g158,Iolani A,chemistry,14,4,10,1,0
+g158,Iolani A,ess,32,12,20,3,1
+g158,Iolani A,biology,0,0,0,0,1
+g158,Iolani A,physics,28,8,20,2,0
+g158,Tupelo,other,4,4,0,1,0
+g158,Tupelo,math,28,8,20,2,1
+g158,Tupelo,chemistry,32,12,20,3,0
+g158,Tupelo,ess,8,8,0,1,0
+g158,Tupelo,biology,8,8,0,1,0
+g158,Tupelo,physics,0,0,0,0,0
+g159,ASFA A,other,32,12,20,3,0
+g159,ASFA A,math,42,12,30,3,0
+g159,ASFA A,chemistry,4,4,0,0,0
+g159,ASFA A,ess,4,4,0,1,0
+g159,ASFA A,biology,32,12,20,3,0
+g159,ASFA A,physics,22,12,10,3,0
+g159,Lindbergh A,other,0,0,0,0,0
+g159,Lindbergh A,math,0,0,0,0,0
+g159,Lindbergh A,chemistry,4,4,0,1,1
+g159,Lindbergh A,ess,18,8,10,2,0
+g159,Lindbergh A,biology,0,0,0,0,0
+g159,Lindbergh A,physics,0,0,0,0,0
+g160,Glastonbury A,other,4,4,0,1,0
+g160,Glastonbury A,math,32,12,20,2,0
+g160,Glastonbury A,chemistry,4,4,0,1,0
+g160,Glastonbury A,ess,18,8,10,2,0
+g160,Glastonbury A,biology,18,8,10,2,0
+g160,Glastonbury A,physics,18,8,10,2,0
+g160,Bob Jones,other,14,4,10,1,0
+g160,Bob Jones,math,28,8,20,2,1
+g160,Bob Jones,chemistry,0,0,0,0,0
+g160,Bob Jones,ess,4,4,0,1,0
+g160,Bob Jones,biology,0,0,0,0,0
+g160,Bob Jones,physics,0,0,0,0,0
+g161,Collierville,other,0,0,0,0,0
+g161,Collierville,math,0,0,0,0,0
+g161,Collierville,chemistry,4,4,0,1,0
+g161,Collierville,ess,28,8,20,2,1
+g161,Collierville,biology,22,12,10,3,0
+g161,Collierville,physics,14,4,10,1,0
+g161,Edison B,other,4,4,0,1,0
+g161,Edison B,math,14,4,10,1,0
+g161,Edison B,chemistry,0,0,0,0,0
+g161,Edison B,ess,8,8,0,1,0
+g161,Edison B,biology,4,4,0,1,0
+g161,Edison B,physics,0,0,0,0,0
+g162,Blair B,other,32,12,20,3,0
+g162,Blair B,math,14,4,10,1,1
+g162,Blair B,chemistry,18,8,10,2,0
+g162,Blair B,ess,14,4,10,1,1
+g162,Blair B,biology,46,16,30,3,1
+g162,Blair B,physics,4,4,0,1,0
+g162,AHS Broward A,other,14,4,10,1,0
+g162,AHS Broward A,math,12,12,0,2,0
+g162,AHS Broward A,chemistry,14,4,10,1,0
+g162,AHS Broward A,ess,18,8,10,1,0
+g162,AHS Broward A,biology,8,8,0,1,1
+g162,AHS Broward A,physics,18,8,10,2,0
+g163,Ladue,other,46,16,30,4,0
+g163,Ladue,math,14,4,10,1,0
+g163,Ladue,chemistry,42,12,30,3,0
+g163,Ladue,ess,8,8,0,2,0
+g163,Ladue,biology,0,0,0,0,0
+g163,Ladue,physics,18,8,10,2,0
+g163,AHS Broward B,other,0,0,0,0,0
+g163,AHS Broward B,math,32,12,20,3,0
+g163,AHS Broward B,chemistry,4,4,0,1,0
+g163,AHS Broward B,ess,0,0,0,0,0
+g163,AHS Broward B,biology,4,4,0,1,0
+g163,AHS Broward B,physics,0,0,0,0,0
+g164,duPont Manual,other,22,12,10,3,0
+g164,duPont Manual,math,0,0,0,0,1
+g164,duPont Manual,chemistry,36,16,20,4,0
+g164,duPont Manual,ess,4,4,0,1,0
+g164,duPont Manual,biology,0,0,0,0,1
+g164,duPont Manual,physics,0,0,0,0,0
+g164,Blair C,other,0,0,0,0,0
+g164,Blair C,math,36,16,20,3,0
+g164,Blair C,chemistry,0,0,0,0,0
+g164,Blair C,ess,8,8,0,2,0
+g164,Blair C,biology,8,8,0,1,0
+g164,Blair C,physics,14,4,10,1,0
+g165,PRISMS,other,32,12,20,3,0
+g165,PRISMS,math,56,16,40,4,0
+g165,PRISMS,chemistry,18,8,10,2,0
+g165,PRISMS,ess,14,4,10,1,0
+g165,PRISMS,biology,4,4,0,1,0
+g165,PRISMS,physics,4,4,0,1,0
+g165,Naperville North A,other,0,0,0,0,0
+g165,Naperville North A,math,0,0,0,0,0
+g165,Naperville North A,chemistry,8,8,0,2,0
+g165,Naperville North A,ess,4,4,0,1,0
+g165,Naperville North A,biology,4,4,0,1,0
+g165,Naperville North A,physics,0,0,0,0,0
+g166,Lexington B,other,56,16,40,4,0
+g166,Lexington B,math,28,8,20,2,0
+g166,Lexington B,chemistry,8,8,0,2,0
+g166,Lexington B,ess,28,8,20,2,0
+g166,Lexington B,biology,0,0,0,0,0
+g166,Lexington B,physics,0,0,0,0,0
+g166,Iolani A,other,0,0,0,0,0
+g166,Iolani A,math,28,8,20,2,0
+g166,Iolani A,chemistry,4,4,0,1,0
+g166,Iolani A,ess,28,8,20,2,0
+g166,Iolani A,biology,0,0,0,0,0
+g166,Iolani A,physics,46,16,30,4,0
+g167,MSMS,other,18,8,10,1,0
+g167,MSMS,math,4,4,0,1,0
+g167,MSMS,chemistry,0,0,0,0,0
+g167,MSMS,ess,32,12,20,3,0
+g167,MSMS,biology,4,4,0,0,1
+g167,MSMS,physics,8,8,0,1,0
+g167,ASFA A,other,42,12,30,3,1
+g167,ASFA A,math,28,8,20,2,0
+g167,ASFA A,chemistry,32,12,20,3,0
+g167,ASFA A,ess,14,4,10,1,0
+g167,ASFA A,biology,4,4,0,0,1
+g167,ASFA A,physics,28,8,20,2,1
+g169,RMHS A,other,28,8,20,2,0
+g169,RMHS A,math,32,12,20,3,0
+g169,RMHS A,chemistry,4,4,0,1,0
+g169,RMHS A,ess,0,0,0,0,0
+g169,RMHS A,biology,0,0,0,0,1
+g169,RMHS A,physics,4,4,0,1,0
+g169,Collierville,other,4,4,0,1,0
+g169,Collierville,math,0,0,0,0,0
+g169,Collierville,chemistry,18,8,10,2,0
+g169,Collierville,ess,42,12,30,3,0
+g169,Collierville,biology,18,8,10,1,0
+g169,Collierville,physics,4,4,0,1,0
+g170,Blair A,other,18,8,10,2,1
+g170,Blair A,math,42,12,30,3,0
+g170,Blair A,chemistry,56,16,40,4,0
+g170,Blair A,ess,18,8,10,2,1
+g170,Blair A,biology,46,16,30,3,1
+g170,Blair A,physics,42,12,30,3,1
+g170,Green Hope A,other,18,8,10,1,0
+g170,Green Hope A,math,4,4,0,1,0
+g170,Green Hope A,chemistry,0,0,0,0,0
+g170,Green Hope A,ess,18,8,10,1,0
+g170,Green Hope A,biology,4,4,0,0,1
+g170,Green Hope A,physics,18,8,10,1,0
+g171,Centennial,other,0,0,0,0,1
+g171,Centennial,math,4,4,0,1,1
+g171,Centennial,chemistry,32,12,20,3,0
+g171,Centennial,ess,16,16,0,3,0
+g171,Centennial,biology,14,4,10,1,1
+g171,Centennial,physics,46,16,30,3,0
+g171,Lexington A,other,36,16,20,3,0
+g171,Lexington A,math,46,16,30,3,0
+g171,Lexington A,chemistry,4,4,0,1,0
+g171,Lexington A,ess,0,0,0,0,1
+g171,Lexington A,biology,46,16,30,3,0
+g171,Lexington A,physics,14,4,10,1,1
+g172,Buchholz A,other,26,16,10,2,0
+g172,Buchholz A,math,60,20,40,4,0
+g172,Buchholz A,chemistry,28,8,20,2,1
+g172,Buchholz A,ess,14,4,10,1,1
+g172,Buchholz A,biology,46,16,30,3,1
+g172,Buchholz A,physics,18,8,10,2,0
+g172,JP Stevens A,other,4,4,0,1,2
+g172,JP Stevens A,math,0,0,0,0,1
+g172,JP Stevens A,chemistry,8,8,0,1,0
+g172,JP Stevens A,ess,8,8,0,1,0
+g172,JP Stevens A,biology,18,8,10,1,1
+g172,JP Stevens A,physics,4,4,0,1,0
+g173,Westminster,other,28,8,20,2,1
+g173,Westminster,math,4,4,0,1,1
+g173,Westminster,chemistry,18,8,10,1,0
+g173,Westminster,ess,28,8,20,2,0
+g173,Westminster,biology,18,8,10,2,1
+g173,Westminster,physics,28,8,20,2,1
+g173,Dulles A,other,4,4,0,0,0
+g173,Dulles A,math,36,16,20,3,0
+g173,Dulles A,chemistry,42,12,30,3,1
+g173,Dulles A,ess,18,8,10,2,0
+g173,Dulles A,biology,32,12,20,2,0
+g173,Dulles A,physics,32,12,20,2,0
+g174,Blair B,other,28,8,20,2,1
+g174,Blair B,math,4,4,0,1,1
+g174,Blair B,chemistry,4,4,0,1,0
+g174,Blair B,ess,18,8,10,2,0
+g174,Blair B,biology,14,4,10,1,2
+g174,Blair B,physics,14,4,10,1,1
+g174,Ladue,other,8,8,0,1,0
+g174,Ladue,math,36,16,20,3,0
+g174,Ladue,chemistry,28,8,20,2,0
+g174,Ladue,ess,18,8,10,2,0
+g174,Ladue,biology,22,12,10,1,0
+g174,Ladue,physics,46,16,30,3,0
+g175,Blair C,other,18,8,10,2,0
+g175,Blair C,math,32,12,20,3,1
+g175,Blair C,chemistry,0,0,0,0,0
+g175,Blair C,ess,4,4,0,1,0
+g175,Blair C,biology,22,12,10,2,0
+g175,Blair C,physics,18,8,10,2,1
+g175,PRISMS,other,0,0,0,0,0
+g175,PRISMS,math,8,8,0,1,0
+g175,PRISMS,chemistry,28,8,20,2,0
+g175,PRISMS,ess,4,4,0,1,0
+g175,PRISMS,biology,14,4,10,1,1
+g175,PRISMS,physics,18,8,10,1,0
+g176,Lexington B,other,8,8,0,2,0
+g176,Lexington B,math,36,16,20,3,0
+g176,Lexington B,chemistry,4,4,0,1,0
+g176,Lexington B,ess,8,8,0,2,1
+g176,Lexington B,biology,8,8,0,2,1
+g176,Lexington B,physics,4,4,0,1,0
+g176,ASFA A,other,8,8,0,2,0
+g176,ASFA A,math,14,4,10,1,1
+g176,ASFA A,chemistry,4,4,0,1,0
+g176,ASFA A,ess,8,8,0,1,0
+g176,ASFA A,biology,18,8,10,1,0
+g176,ASFA A,physics,28,8,20,2,0
+g178,Westminster,other,14,4,10,1,0
+g178,Westminster,math,4,4,0,1,0
+g178,Westminster,chemistry,22,12,10,2,1
+g178,Westminster,ess,18,8,10,2,0
+g178,Westminster,biology,26,16,10,4,0
+g178,Westminster,physics,32,12,20,3,0
+g178,Ladue,other,4,4,0,1,0
+g178,Ladue,math,18,8,10,2,0
+g178,Ladue,chemistry,22,12,10,2,1
+g178,Ladue,ess,4,4,0,1,0
+g178,Ladue,biology,0,0,0,0,0
+g178,Ladue,physics,14,4,10,1,0
+g179,JP Stevens A,other,14,4,10,1,0
+g179,JP Stevens A,math,0,0,0,0,1
+g179,JP Stevens A,chemistry,18,8,10,2,1
+g179,JP Stevens A,ess,8,8,0,2,0
+g179,JP Stevens A,biology,22,12,10,3,0
+g179,JP Stevens A,physics,26,16,10,3,0
+g179,Blair C,other,8,8,0,2,0
+g179,Blair C,math,18,8,10,1,0
+g179,Blair C,chemistry,4,4,0,0,0
+g179,Blair C,ess,18,8,10,2,0
+g179,Blair C,biology,0,0,0,0,0
+g179,Blair C,physics,0,0,0,0,1
+g180,Centennial,other,4,4,0,1,0
+g180,Centennial,math,8,8,0,1,0
+g180,Centennial,chemistry,60,20,40,4,0
+g180,Centennial,ess,14,4,10,1,1
+g180,Centennial,biology,18,8,10,2,1
+g180,Centennial,physics,46,16,30,3,0
+g180,ASFA A,other,28,8,20,2,0
+g180,ASFA A,math,4,4,0,1,1
+g180,ASFA A,chemistry,0,0,0,0,1
+g180,ASFA A,ess,12,12,0,2,0
+g180,ASFA A,biology,8,8,0,1,0
+g180,ASFA A,physics,4,4,0,1,1
+g181,Green Hope A,other,14,4,10,1,0
+g181,Green Hope A,math,18,8,10,2,0
+g181,Green Hope A,chemistry,4,4,0,1,0
+g181,Green Hope A,ess,0,0,0,0,0
+g181,Green Hope A,biology,4,4,0,1,0
+g181,Green Hope A,physics,28,8,20,2,1
+g181,Collierville,other,14,4,10,1,0
+g181,Collierville,math,4,4,0,1,0
+g181,Collierville,chemistry,8,8,0,2,0
+g181,Collierville,ess,22,12,10,3,0
+g181,Collierville,biology,4,4,0,1,0
+g181,Collierville,physics,18,8,10,1,0
+g182,Blair A,other,22,12,10,2,0
+g182,Blair A,math,4,4,0,1,1
+g182,Blair A,chemistry,46,16,30,3,1
+g182,Blair A,ess,28,8,20,2,0
+g182,Blair A,biology,28,8,20,2,1
+g182,Blair A,physics,22,12,10,3,1
+g182,Lexington A,other,18,8,10,2,1
+g182,Lexington A,math,26,16,10,3,0
+g182,Lexington A,chemistry,18,8,10,1,1
+g182,Lexington A,ess,28,8,20,2,0
+g182,Lexington A,biology,12,12,0,2,0
+g182,Lexington A,physics,8,8,0,1,0
+g183,Buchholz A,other,12,12,0,2,0
+g183,Buchholz A,math,12,12,0,2,0
+g183,Buchholz A,chemistry,18,8,10,1,1
+g183,Buchholz A,ess,32,12,20,3,0
+g183,Buchholz A,biology,8,8,0,1,0
+g183,Buchholz A,physics,4,4,0,1,1
+g183,Dulles A,other,14,4,10,1,1
+g183,Dulles A,math,14,4,10,1,1
+g183,Dulles A,chemistry,46,16,30,3,1
+g183,Dulles A,ess,4,4,0,1,0
+g183,Dulles A,biology,28,8,20,2,1
+g183,Dulles A,physics,36,16,20,3,0
+g184,Westminster,other,14,4,10,1,0
+g184,Westminster,math,12,12,0,3,0
+g184,Westminster,chemistry,14,4,10,1,2
+g184,Westminster,ess,22,12,10,3,0
+g184,Westminster,biology,44,24,20,4,0
+g184,Westminster,physics,4,4,0,1,0
+g184,JP Stevens A,other,18,8,10,2,0
+g184,JP Stevens A,math,0,0,0,0,0
+g184,JP Stevens A,chemistry,50,20,30,3,0
+g184,JP Stevens A,ess,14,4,10,1,0
+g184,JP Stevens A,biology,0,0,0,0,2
+g184,JP Stevens A,physics,28,8,20,2,0
+g185,Centennial,other,28,8,20,2,0
+g185,Centennial,math,12,12,0,3,0
+g185,Centennial,chemistry,46,16,30,4,0
+g185,Centennial,ess,4,4,0,1,1
+g185,Centennial,biology,8,8,0,2,0
+g185,Centennial,physics,22,12,10,3,1
+g185,Collierville,other,4,4,0,1,0
+g185,Collierville,math,0,0,0,0,0
+g185,Collierville,chemistry,0,0,0,0,0
+g185,Collierville,ess,12,12,0,2,0
+g185,Collierville,biology,4,4,0,1,0
+g185,Collierville,physics,4,4,0,0,0
+g186,Lexington A,other,28,8,20,2,0
+g186,Lexington A,math,46,16,30,4,0
+g186,Lexington A,chemistry,12,12,0,2,0
+g186,Lexington A,ess,32,12,20,2,1
+g186,Lexington A,biology,50,20,30,4,0
+g186,Lexington A,physics,22,12,10,2,0
+g186,Westminster,other,0,0,0,0,0
+g186,Westminster,math,0,0,0,0,0
+g186,Westminster,chemistry,18,8,10,2,1
+g186,Westminster,ess,22,12,10,2,1
+g186,Westminster,biology,0,0,0,0,1
+g186,Westminster,physics,8,8,0,2,1
+g187,Buchholz A,other,4,4,0,1,1
+g187,Buchholz A,math,46,16,30,4,0
+g187,Buchholz A,chemistry,4,4,0,1,0
+g187,Buchholz A,ess,14,4,10,1,3
+g187,Buchholz A,biology,18,8,10,2,1
+g187,Buchholz A,physics,14,4,10,1,1
+g187,Centennial,other,8,8,0,1,0
+g187,Centennial,math,0,0,0,0,0
+g187,Centennial,chemistry,32,12,20,3,0
+g187,Centennial,ess,30,20,10,2,0
+g187,Centennial,biology,12,12,0,2,0
+g187,Centennial,physics,36,16,20,3,0
+g188,Blair A,other,8,8,0,2,1
+g188,Blair A,math,4,4,0,1,0
+g188,Blair A,chemistry,18,8,10,2,0
+g188,Blair A,ess,0,0,0,0,0
+g188,Blair A,biology,46,16,30,4,0
+g188,Blair A,physics,0,0,0,0,1
+g188,Dulles A,other,32,12,20,2,0
+g188,Dulles A,math,4,4,0,1,0
+g188,Dulles A,chemistry,28,8,20,2,0
+g188,Dulles A,ess,18,8,10,2,0
+g188,Dulles A,biology,0,0,0,0,0
+g188,Dulles A,physics,22,12,10,2,0
+g189,Lexington A,other,14,4,10,1,0
+g189,Lexington A,math,4,4,0,1,0
+g189,Lexington A,chemistry,0,0,0,0,1
+g189,Lexington A,ess,28,8,20,2,0
+g189,Lexington A,biology,42,12,30,3,1
+g189,Lexington A,physics,32,12,20,2,0
+g189,Centennial,other,12,12,0,3,0
+g189,Centennial,math,0,0,0,0,0
+g189,Centennial,chemistry,40,20,20,4,0
+g189,Centennial,ess,4,4,0,1,0
+g189,Centennial,biology,18,8,10,1,0
+g189,Centennial,physics,4,4,0,1,1
+g190,Blair A,other,14,4,10,1,0
+g190,Blair A,math,28,8,20,2,0
+g190,Blair A,chemistry,8,8,0,2,1
+g190,Blair A,ess,22,12,10,2,0
+g190,Blair A,biology,18,8,10,2,0
+g190,Blair A,physics,0,0,0,0,1
+g190,Lexington A,other,32,12,20,3,0
+g190,Lexington A,math,4,4,0,1,0
+g190,Lexington A,chemistry,4,4,0,0,0
+g190,Lexington A,ess,18,8,10,2,1
+g190,Lexington A,biology,28,8,20,2,0
+g190,Lexington A,physics,20,20,0,4,0
+g191,Dulles A,other,4,4,0,1,1
+g191,Dulles A,math,16,16,0,3,0
+g191,Dulles A,chemistry,32,12,20,3,1
+g191,Dulles A,ess,4,4,0,1,0
+g191,Dulles A,biology,16,16,0,3,0
+g191,Dulles A,physics,0,0,0,0,0
+g191,Lexington A,other,46,16,30,3,0
+g191,Lexington A,math,4,4,0,1,1
+g191,Lexington A,chemistry,4,4,0,0,0
+g191,Lexington A,ess,18,8,10,2,0
+g191,Lexington A,biology,14,4,10,1,1
+g191,Lexington A,physics,12,12,0,3,0
+g192,Dulles A,other,14,4,10,1,0
+g192,Dulles A,math,32,12,20,3,0
+g192,Dulles A,chemistry,46,16,30,4,0
+g192,Dulles A,ess,18,8,10,2,0
+g192,Dulles A,biology,4,4,0,1,0
+g192,Dulles A,physics,4,4,0,1,0
+g192,Lexington A,other,18,8,10,2,0
+g192,Lexington A,math,0,0,0,0,0
+g192,Lexington A,chemistry,0,0,0,0,0
+g192,Lexington A,ess,28,8,20,2,0
+g192,Lexington A,biology,8,8,0,2,0
+g192,Lexington A,physics,18,8,10,2,0

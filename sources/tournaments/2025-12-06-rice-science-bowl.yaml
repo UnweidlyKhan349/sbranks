@@ -18,7 +18,9 @@ sources:
   sheet_id: 1jyj6Rwihc5R3n-8u3Jcq45Xge5tu6dbSw1q315u9dUk
   url: https://docs.google.com/spreadsheets/d/1jyj6Rwihc5R3n-8u3Jcq45Xge5tu6dbSw1q315u9dUk/edit?gid=1885827931#gid=1885827931
   file: results.xlsx
-parser: null
+parser: g5_berkeley_rr:parse
 parser_options: {}
-status: todo
-notes: ''
+status: parsed
+notes: '45 games: 25 RR (2 divisions, byes skipped; opponents rebuilt from mirrored scores) and the 20-game DE bracket (byes
+  skipped; DE scores are low as recorded). Team subject tossups/bonuses/negs per RR game. Player stats are only stat-score
+  MVP tabs (not convertible), so only rosters from the check-in tab are kept.'

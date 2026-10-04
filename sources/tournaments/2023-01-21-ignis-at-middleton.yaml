@@ -11,7 +11,7 @@ exclude_reason: null
 kind: invitational
 level: standard
 subject_only: null
-question_set: null
+question_set: ignis-2023
 sources:
 - kind: url
   role: results
@@ -31,7 +31,18 @@ sources:
   url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS2DbHGC4fn9DpKw_zsgrLS5J-zLwvTJYhMQOeVjRt-iWPTEFCm6SY3R0x-GD5dfkBrOW4nLlp0RX2l/pub?output=xlsx
   file: stats_sheet.xlsx
   note: Published Google Sheet embedded (iframe) in stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_ignis:parse_inperson
+parser_options:
+  rr_tab: Round Robin
+  de_tab: Double Elimination
+  aliases:
+    West: Madison West
+  schools:
+    Brookfield: Brookfield Central High School
+    Middleton A: Middleton High School
+    Whitney Young: Whitney M. Young Magnet High School
+status: parsed
+notes: Ignis set (X-Risk -> 'other'). Two round-robin stages (rounds 1-3 pools, rounds 4-5 re-seeded groups), double-elimination
+  bracket, plus one consolation game (Middleton B vs Middleton C) that appears only in the stats sheet. Per-game subject points
+  and player buzzes; player totals per category (first names only); 'West' in the stats = Madison West. Team PPG/bonus totals
+  match the source.

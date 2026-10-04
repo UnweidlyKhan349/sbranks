@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyrie</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M3 13h2v8H3zm4-8h2v13H7zm4-2h2v15h-2zm4 4h2v11h-2zm4-2h2v13h-2z" />
+                    </svg>
+                </div>
+                <span class="logo-text">Eyrie</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/rrscores">RR Scores</a></li>
+                <li><a href="/rrrank">RR Rankings</a></li>
+                <li><a href="/debracket">DE Bracket</a></li>
+                <li><a href="/sebracket">SE Bracket</a></li>
+                <li><a href="/stats">Stats</a></li>
+                <li><a href="/schedule">Schedule</a></li>
+                <li><a href="/games">Games</a></li>
+                <li><a href="/logout">Logout</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <ul class="nav-links-mobile" id="navLinksMobile">
+            <li><a href="/">Home</a></li>
+            <li><a href="/rrscores">RR Scores</a></li>
+            <li><a href="/rrrank">RR Rankings</a></li>
+            <li><a href="/debracket">DE Bracket</a></li>
+            <li><a href="/sebracket">SE Bracket</a></li>
+            <li><a href="/stats">Stats</a></li>
+            <li><a href="/schedule">Schedule</a></li>
+            <li><a href="/games">Games</a></li>
+            <li><a href="/logout">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        
+<section class="user-stats-page">
+    <div class="container" style="max-width: 800px; margin: auto; padding: 20px; color: #fff;">
+        <br><br><br>
+        <div class="profile-header" style="text-align: center; margin-bottom: 40px;">
+            <h1 class="user-name">Mahdi Khan</h1>
+            <div class="user-role" style="color: #8b949e; font-size: 1.1em;">
+                
+                Jericho 1
+                
+            </div>
+        </div>
+
+        <div class="stats-card">
+            <h2 class="card-title" style="text-align: center; margin-bottom: 20px; color: #58a6ff;">Performance
+                Breakdown</h2>
+            <table class="detail-table">
+                <thead>
+                    <tr>
+                        <th style="text-align: left;">Category</th>
+                        <th>PPG</th>
+                        <th>NPG</th>
+                        <th>Total Points</th>
+                        <th>Halves Played</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr class="overall-row">
+                        <td
+                            style="text-align: left; font-weight: bold; color: #58a6ff;">
+                            Overall</td>
+                        <td class="stat-val">9.6</td>
+                        <td class="stat-val" style="color: #ff7b72;">0.0</td>
+                        <td class="stat-val">48</td>
+                        <td class="stat-val">10</td>
+                    </tr>
+                    
+                    <tr class="">
+                        <td
+                            style="text-align: left; font-weight: bold; color: #c9d1d9;">
+                            Biology</td>
+                        <td class="stat-val">0.0</td>
+                        <td class="stat-val" style="color: #ff7b72;">0.0</td>
+                        <td class="stat-val">0</td>
+                        <td class="stat-val">10</td>
+                    </tr>
+                    
+                    <tr class="">
+                        <td
+                            style="text-align: left; font-weight: bold; color: #c9d1d9;">
+                            Math</td>
+                        <td class="stat-val">3.2</td>
+                        <td class="stat-val" style="color: #ff7b72;">0.0</td>
+                        <td class="stat-val">16</td>
+                        <td class="stat-val">10</td>
+                    </tr>
+                    
+                    <tr class="">
+                        <td
+                            style="text-align: left; font-weight: bold; color: #c9d1d9;">
+                            Chemistry</td>
+                        <td class="stat-val">0.8</td>
+                        <td class="stat-val" style="color: #ff7b72;">0.0</td>
+                        <td class="stat-val">4</td>
+                        <td class="stat-val">10</td>
+                    </tr>
+                    
+                    <tr class="">
+                        <td
+                            style="text-align: left; font-weight: bold; color: #c9d1d9;">
+                            ESS</td>
+                        <td class="stat-val">2.4</td>
+                        <td class="stat-val" style="color: #ff7b72;">0.0</td>
+                        <td class="stat-val">12</td>
+                        <td class="stat-val">10</td>
+                    </tr>
+                    
+                    <tr class="">
+                        <td
+                            style="text-align: left; font-weight: bold; color: #c9d1d9;">
+                            Physics</td>
+                        <td class="stat-val">3.2</td>
+                        <td class="stat-val" style="color: #ff7b72;">0.0</td>
+                        <td class="stat-val">16</td>
+                        <td class="stat-val">10</td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="/stats" class="back-link">← Back to Tournament Stats</a>
+        </div>
+    </div>
+</section>
+
+<style>
+    body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+    }
+
+    .user-name {
+        font-size: 2.5em;
+        margin-bottom: 5px;
+    }
+
+    .stats-card {
+        background-color: #161b22;
+        border: 1px solid #30363d;
+        border-radius: 12px;
+        padding: 30px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    }
+
+    .detail-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .detail-table th {
+        text-align: center;
+        padding: 12px;
+        color: #8b949e;
+        border-bottom: 2px solid #30363d;
+    }
+
+    .detail-table td {
+        padding: 15px;
+        text-align: center;
+        border-bottom: 1px solid #21262d;
+        font-size: 1.1em;
+    }
+
+    .overall-row {
+        background-color: rgba(88, 166, 255, 0.1);
+        font-weight: bold;
+    }
+
+    .detail-table tr:last-child td {
+        border-bottom: none;
+    }
+
+    .back-link {
+        color: #58a6ff;
+        text-decoration: none;
+        font-size: 1.1em;
+    }
+
+    .back-link:hover {
+        text-decoration: underline;
+    }
+</style>
+
+    </main>
+</body>
+
+</html>

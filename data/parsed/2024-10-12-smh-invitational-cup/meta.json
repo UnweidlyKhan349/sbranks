@@ -1,0 +1,41 @@
+{
+  "tournament_id": "2024-10-12-smh-invitational-cup",
+  "counts": {
+    "teams": 48,
+    "games": 143,
+    "games_with_scores": 143,
+    "player_stat_rows": 1201,
+    "players": 201,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "Individual Biology Stats 'c4 avani a [c4 arcadia]': accuracy 0.6153846154 * buzzes 13 != correct 9",
+    "Individual Biology Stats 'g1 rohan a [g1 madison west 1]': points/negs not exactly derivable (points 12.0, negs 1.875)",
+    "Individual Biology Stats 'g6 edward s [g6 oak avenue 1]': points 5 not a multiple of 4; kept as given, no correct/negs",
+    "Individual Chemistry Stats 'c4 ethan w [c4 arcadia]': points/negs not exactly derivable (points 28.0, negs 2.5)",
+    "Individual Chemistry Stats 'c3 aarav j [c3 amador valley]': points/negs not exactly derivable (points 8.0, negs 2.5)",
+    "Individual Physics Stats 'c4 herrick w [c4 arcadia]': points/negs not exactly derivable (points 28.0, negs 1.25)",
+    "Individual Physics Stats 'e4 jeffrey l [e4 msj 1]': points/negs not exactly derivable (points 4.5, negs 0.0)",
+    "Individual Earth and Space Stat 'c4 maxwell k [c4 arcadia]': points/negs not exactly derivable (points 20.0, negs 2.68)",
+    "Individual Earth and Space Stat 'c4 ethan w [c4 arcadia]': points 10 not a multiple of 4; kept as given, no correct/negs",
+    "Individual Earth and Space Stat 'c4 avani a [c4 arcadia]': points 5 not a multiple of 4; kept as given, no correct/negs",
+    "Individual Math Stats 'g1 bryant y [g1 madison west 1]': points/negs not exactly derivable (points -9.0, negs 2.25)",
+    "Individual Overall Stats 'c4 ethan w [c4 arcadia]': points/negs not exactly derivable (points 68.0, negs 2.5)",
+    "Individual Overall Stats 'c3 aarav j [c3 amador valley]': points/negs not exactly derivable (points 60.0, negs 2.5)",
+    "Individual Overall Stats 'c4 herrick w [c4 arcadia]': points/negs not exactly derivable (points 36.0, negs 1.25)",
+    "Individual Overall Stats 'c4 avani a [c4 arcadia]': accuracy 0.385 * buzzes 17 != correct 9",
+    "Individual Overall Stats 'c4 maxwell k [c4 arcadia]': points/negs not exactly derivable (points 20.0, negs 2.68)",
+    "Individual Overall Stats 'c3 helaina h [c3 amador valley]': points/negs not exactly derivable (points 10.68, negs 0.0)"
+  ],
+  "parser": "g4_smh:parse_cup"
+}

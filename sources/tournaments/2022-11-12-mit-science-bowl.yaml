@@ -18,7 +18,27 @@ sources:
   sheet_id: 1jTaXnVAjwWXhs1sJQnsiwLFy5iVC7oSpwkj-Nj1CpLg
   url: https://docs.google.com/spreadsheets/d/1jTaXnVAjwWXhs1sJQnsiwLFy5iVC7oSpwkj-Nj1CpLg/edit#gid=1196445981
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g6_mit:parse
+parser_options:
+  brackets:
+  - tab: Double Elimination
+    header_row: 1
+    strip:
+    - ^(S\d+|F\d+|L\d+)\s+(Winner\s+|Loser\s+)?
+    games:
+    - 1AB | DE Round 1 | C6 | C8 | E7
+    - 1CD | DE Round 1 | C14 | C16 | E15
+    - 2AB | DE Round 1 | C21 | C23 | E22
+    - 2CD | DE Round 1 | C29 | C31 | E30
+    - S1 | DE Round 2 | E7 | C10 | F9
+    - S2 | DE Round 2 | E22 | C25 | F24
+    - S3 | DE Round 2 | E30 | E34 | F32
+    - F1 | DE Round 3 | F9 | E15 | G12
+    - S23 | DE Round 3 | F24 | F32 | G28
+    - F2 | DE Round 3 | E37 | F41 | G39
+    - L1 | DE Round 4 | G28 | G39 | I33
+    - L2 | DE Round 5 | I33 | G43 | K38
+    - Final | DE Round 6 | G12 | K38 | N24
+status: parsed
+notes: Results only (no stats published). Round-robin grids give win/tie/loss codes only. The 10-team double-elimination bracket
+  (winners only) is reconstructed from its labelled slots (1AB, S1, F1, L1, ...); EHS 1 won undefeated.

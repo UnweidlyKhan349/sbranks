@@ -22,7 +22,11 @@ sources:
   role: stats
   url: https://csb.clementsjets.org/stats
   file: stats.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g1_clements:parse
+parser_options:
+  aliases:
+    NoHo 2: Noho 2
+status: partial
+notes: 'Only the results sheet''s DE4-DE9 bracket is available: 11 games among the top 8 with winners only (no scores); MSJ
+  champion over Blair (bracket reset). The round robin, DE1-3 and all stats were on csb.clementsjets.org, which reset the
+  connection on every attempt (curl, http, headless browser).'

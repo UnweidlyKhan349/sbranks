@@ -1,0 +1,122 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+i1,rr,RR1,1,Mission San Jose B,Palo Alto B,126,18,1,0,division A
+i2,rr,RR1,1,Saint Francis,Dougherty Valley A,114,82,1,0,division A
+i3,rr,RR1,1,BASIS Independent B,Stanford Online,48,76,2,0,division A
+i4,rr,RR1,1,California B,North Hollywood,26,202,2,0,division B
+i5,rr,RR1,1,Irvington,Monta Vista A,36,162,2,0,division B
+i6,rr,RR1,1,Amador Valley A,Foothill B,188,60,1,0,division B
+i7,rr,RR1,1,Cupertino B,Lynbrook B,24,134,2,0,division C
+i8,rr,RR1,1,Mira Loma A,Amador Valley B,162,32,1,0,division C
+i9,rr,RR1,1,Archbishop Mitty B,Canyon Crest A,26,184,2,0,division C
+i10,rr,RR1,1,Monta Vista B,Canyon Crest B,54,76,2,0,division D
+i11,rr,RR1,1,Palo Alto A,Lynbrook A,72,212,2,0,division D
+i12,rr,RR1,1,Arnold O. Beckman A,BASIS Independent A,22,136,2,0,division D
+i13,rr,RR1,1,Mission San Jose A,Saratoga,152,116,1,0,division E
+i14,rr,RR1,1,California A,Abraham Lincoln,54,8,1,0,division E
+i15,rr,RR1,1,Archbishop Mitty A,Lynbrook C,60,130,2,0,division E
+i16,rr,RR1,1,Dougherty Valley B,Foothill A,44,62,2,0,division F
+i17,rr,RR1,1,Mira Loma B,American B,104,44,1,0,division F
+i18,rr,RR1,1,American A,Cupertino A,72,148,2,0,division F
+i19,rr,RR2,2,Mission San Jose B,Dougherty Valley A,136,84,1,0,division A
+i20,rr,RR2,2,BASIS Independent B,Palo Alto B,80,64,1,0,division A
+i21,rr,RR2,2,Saint Francis,Stanford Online,140,22,1,0,division A
+i22,rr,RR2,2,California B,Monta Vista A,40,130,2,0,division B
+i23,rr,RR2,2,Amador Valley A,North Hollywood,168,96,1,0,division B
+i24,rr,RR2,2,Irvington,Foothill B,52,98,2,0,division B
+i25,rr,RR2,2,Cupertino B,Amador Valley B,70,62,1,0,division C
+i26,rr,RR2,2,Archbishop Mitty B,Lynbrook B,60,180,2,0,division C
+i27,rr,RR2,2,Mira Loma A,Canyon Crest A,96,142,2,0,division C
+i28,rr,RR2,2,Monta Vista B,Lynbrook A,30,186,2,0,division D
+i29,rr,RR2,2,Arnold O. Beckman A,Canyon Crest B,40,102,2,0,division D
+i30,rr,RR2,2,Palo Alto A,BASIS Independent A,44,90,2,0,division D
+i31,rr,RR2,2,Mission San Jose A,Abraham Lincoln,216,8,1,0,division E
+i32,rr,RR2,2,Archbishop Mitty A,Saratoga,68,118,2,0,division E
+i33,rr,RR2,2,California A,Lynbrook C,36,170,2,0,division E
+i34,rr,RR2,2,Dougherty Valley B,American B,104,54,1,0,division F
+i35,rr,RR2,2,American A,Foothill A,142,40,1,0,division F
+i36,rr,RR2,2,Mira Loma B,Cupertino A,44,132,2,0,division F
+i37,rr,RR3,3,Stanford Online,Dougherty Valley A,84,90,2,0,division A
+i38,rr,RR3,3,Mission San Jose B,BASIS Independent B,144,32,1,0,division A
+i39,rr,RR3,3,Saint Francis,Palo Alto B,106,48,1,0,division A
+i40,rr,RR3,3,Foothill B,Monta Vista A,74,106,2,0,division B
+i41,rr,RR3,3,California B,Amador Valley A,76,124,2,0,division B
+i42,rr,RR3,3,Irvington,North Hollywood,16,218,2,0,division B
+i43,rr,RR3,3,Canyon Crest A,Amador Valley B,192,26,1,0,division C
+i44,rr,RR3,3,Cupertino B,Archbishop Mitty B,36,90,2,0,division C
+i45,rr,RR3,3,Mira Loma A,Lynbrook B,166,68,1,0,division C
+i46,rr,RR3,3,BASIS Independent A,Lynbrook A,70,158,2,0,division D
+i47,rr,RR3,3,Monta Vista B,Arnold O. Beckman A,40,72,2,0,division D
+i48,rr,RR3,3,Palo Alto A,Canyon Crest B,118,68,1,0,division D
+i49,rr,RR3,3,Lynbrook C,Abraham Lincoln,168,8,1,0,division E
+i50,rr,RR3,3,Mission San Jose A,Archbishop Mitty A,212,28,1,0,division E
+i51,rr,RR3,3,California A,Saratoga,82,106,2,0,division E
+i52,rr,RR3,3,Cupertino A,American B,94,50,1,0,division F
+i53,rr,RR3,3,Dougherty Valley B,American A,32,102,2,0,division F
+i54,rr,RR3,3,Mira Loma B,Foothill A,62,90,2,0,division F
+i55,rr,RR4,4,Saint Francis,BASIS Independent B,74,24,1,0,division A
+i56,rr,RR4,4,Mission San Jose B,Stanford Online,134,52,1,0,division A
+i57,rr,RR4,4,Dougherty Valley A,Palo Alto B,68,46,1,0,division A
+i58,rr,RR4,4,Irvington,Amador Valley A,16,138,2,0,division B
+i59,rr,RR4,4,California B,Foothill B,34,62,2,0,division B
+i60,rr,RR4,4,Monta Vista A,North Hollywood,60,136,2,0,division B
+i61,rr,RR4,4,Mira Loma A,Archbishop Mitty B,146,4,1,0,division C
+i62,rr,RR4,4,Cupertino B,Canyon Crest A,12,154,2,0,division C
+i63,rr,RR4,4,Amador Valley B,Lynbrook B,34,70,2,0,division C
+i64,rr,RR4,4,Palo Alto A,Arnold O. Beckman A,84,30,1,0,division D
+i65,rr,RR4,4,Monta Vista B,BASIS Independent A,4,106,2,0,division D
+i66,rr,RR4,4,Lynbrook A,Canyon Crest B,126,58,1,0,division D
+i67,rr,RR4,4,California A,Archbishop Mitty A,44,56,2,0,division E
+i68,rr,RR4,4,Mission San Jose A,Lynbrook C,120,70,1,0,division E
+i69,rr,RR4,4,Abraham Lincoln,Saratoga,24,64,2,0,division E
+i70,rr,RR4,4,Mira Loma B,American A,56,28,1,0,division F
+i71,rr,RR4,4,Dougherty Valley B,Cupertino A,12,154,2,0,division F
+i72,rr,RR4,4,American B,Foothill A,28,16,1,0,division F
+i73,rr,RR5,5,BASIS Independent B,Dougherty Valley A,16,102,2,0,division A
+i74,rr,RR5,5,Stanford Online,Palo Alto B,68,62,1,0,division A
+i75,rr,RR5,5,Mission San Jose B,Saint Francis,114,100,1,0,division A
+i76,rr,RR5,5,Amador Valley A,Monta Vista A,154,46,1,0,division B
+i77,rr,RR5,5,Foothill B,North Hollywood,32,196,2,0,division B
+i78,rr,RR5,5,California B,Irvington,58,22,1,0,division B
+i79,rr,RR5,5,Archbishop Mitty B,Amador Valley B,78,20,1,0,division C
+i80,rr,RR5,5,Canyon Crest A,Lynbrook B,146,76,1,0,division C
+i81,rr,RR5,5,Cupertino B,Mira Loma A,18,146,2,0,division C
+i82,rr,RR5,5,Arnold O. Beckman A,Lynbrook A,12,160,2,0,division D
+i83,rr,RR5,5,BASIS Independent A,Canyon Crest B,40,104,2,0,division D
+i84,rr,RR5,5,Monta Vista B,Palo Alto A,54,98,2,0,division D
+i85,rr,RR5,5,Archbishop Mitty A,Abraham Lincoln,58,16,1,0,division E
+i86,rr,RR5,5,Lynbrook C,Saratoga,80,78,1,0,division E
+i87,rr,RR5,5,Mission San Jose A,California A,142,40,1,0,division E
+i88,rr,RR5,5,American A,American B,52,38,1,0,division F
+i89,rr,RR5,5,Cupertino A,Foothill A,98,42,1,0,division F
+i90,rr,RR5,5,Dougherty Valley B,Mira Loma B,16,42,2,0,division F
+i91,playoff,DE1,6,Mission San Jose A,American A,102,44,1,0,
+i92,playoff,DE1,6,Mira Loma A,Lynbrook C,132,54,1,0,
+i93,playoff,DE1,6,North Hollywood,Monta Vista A,202,26,1,0,
+i94,playoff,DE1,6,Lynbrook B,Amador Valley A,58,130,2,0,
+i95,playoff,DE1,6,Canyon Crest A,Dougherty Valley A,156,68,1,0,
+i96,playoff,DE1,6,Mission San Jose B,Saratoga,132,72,1,0,
+i97,playoff,DE1,6,Cupertino A,Saint Francis,112,62,1,0,
+i98,playoff,DE1,6,BASIS Independent A,Lynbrook A,74,110,2,0,
+i99,playoff,DE2,7,Mission San Jose A,Mira Loma A,78,70,1,0,
+i100,playoff,DE2,7,North Hollywood,Amador Valley A,136,66,1,0,
+i101,playoff,DE2,7,Canyon Crest A,Mission San Jose B,86,76,1,0,
+i102,playoff,DE2,7,Cupertino A,Lynbrook A,54,126,2,0,
+i103,playoff,DE2,7,American A,Lynbrook C,24,20,1,0,
+i104,playoff,DE2,7,Monta Vista A,Lynbrook B,88,76,1,0,
+i105,playoff,DE2,7,Dougherty Valley A,Saratoga,70,68,1,0,
+i106,playoff,DE2,7,Saint Francis,BASIS Independent A,76,88,2,0,
+i107,playoff,DE3,8,Mira Loma A,American A,94,40,1,0,
+i108,playoff,DE3,8,Amador Valley A,Monta Vista A,144,40,1,0,
+i109,playoff,DE3,8,Mission San Jose B,Dougherty Valley A,88,56,1,0,
+i110,playoff,DE3,8,Cupertino A,BASIS Independent A,90,40,1,0,
+i111,playoff,DE4,9,Mission San Jose A,North Hollywood,102,72,1,0,
+i112,playoff,DE4,9,Canyon Crest A,Lynbrook A,94,92,1,0,
+i113,playoff,DE4,9,Mira Loma A,Amador Valley A,154,18,1,0,
+i114,playoff,DE4,9,Mission San Jose B,Cupertino A,38,106,2,0,
+i115,playoff,DE5,10,North Hollywood,Mira Loma A,94,66,1,0,
+i116,playoff,DE5,10,Lynbrook A,Cupertino A,62,98,2,0,
+i117,playoff,DE6,11,Mission San Jose A,Canyon Crest A,102,40,1,0,
+i118,playoff,DE6,11,North Hollywood,Cupertino A,114,36,1,0,
+i119,playoff,DE7,12,Canyon Crest A,North Hollywood,20,90,2,0,
+i120,playoff,Final,13,Mission San Jose A,North Hollywood,42,58,2,0,
+i121,playoff,Final 2,14,Mission San Jose A,North Hollywood,,,1,1,North Hollywood forfeited the bracket-reset final

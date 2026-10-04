@@ -1,0 +1,22 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+rr1-12,rr,RR1,1,Lexington,Mira Loma,162,32,1,0,
+rr1-13,rr,RR1,1,Dulles,Blair,58,104,2,0,
+rr1-14,rr,RR1,1,Tesla Stem,Basis,156,36,1,0,
+rr2-12,rr,RR2,2,Dulles,Tesla Stem,94,86,1,0,
+rr2-13,rr,RR2,2,Mira Loma,Basis,90,42,1,0,
+rr2-14,rr,RR2,2,Lexington,Blair,112,50,1,0,
+rr3-12,rr,RR3,3,Lexington,Basis,84,72,1,0,
+rr3-13,rr,RR3,3,Tesla Stem,Blair,62,132,2,0,
+rr3-14,rr,RR3,3,Mira Loma,Dulles,130,52,1,0,
+rr4-12,rr,RR4,4,Mira Loma,Blair,74,94,2,0,
+rr4-13,rr,RR4,4,Lexington,Tesla Stem,28,126,2,0,
+rr4-14,rr,RR4,4,Dulles,Basis,76,84,2,0,
+rr5-12,rr,RR5,5,Basis,Blair,54,112,2,0,
+rr5-13,rr,RR5,5,Lexington,Dulles,102,56,1,0,
+rr5-14,rr,RR5,5,Mira Loma,Tesla Stem,56,58,2,0,
+de-A3,playoff,DE1,10,Lexington,Mira Loma,48,56,2,0,
+de-A7,playoff,DE1,10,Blair,Tesla Stem,56,70,2,0,
+de-C4,playoff,DE2,11,Mira Loma,Tesla Stem,50,38,1,0,
+de-C12,playoff,DE2,11,Lexington,Blair,80,30,1,0,
+de-E13,playoff,DE3,12,Tesla Stem,Lexington,,,2,0,winner from the bracket (G14); no score recorded
+de-G6,playoff,Final,13,Mira Loma,Lexington,,,2,0,winner from the bracket (I10); no score recorded

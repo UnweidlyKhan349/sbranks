@@ -23,7 +23,15 @@ sources:
   sheet_id: 1hgLRgHUu8JcRPuAihcCMob_3h9Y6wRCPrUy_ZkleC2A
   url: https://docs.google.com/spreadsheets/d/1hgLRgHUu8JcRPuAihcCMob_3h9Y6wRCPrUy_ZkleC2A/edit?usp=sharing
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g7_icsbt:parse
+parser_options:
+  stats: true
+  de_rows:
+  - 2
+  - 60
+  de_embedded_scores: true
+status: parsed
+notes: 29 teams in 5 pools (RR Scores grids, rounds from the schedule codes) plus 22 DE games (NOHO 1 beat MSJ 1 in the final;
+  Frazer over Palo Alto is recorded without scores). RR-only player stats per subject (C/I/P/TUH/Games/Total Points; no energy).
+  VMATHS's fifth game is listed under uncoded names (Shaun(VMATHS), Uddip Kashyap, ...), which were merged into the matching
+  coded players; anonymous MODAQ ids and an unknown 'a6' code were skipped.

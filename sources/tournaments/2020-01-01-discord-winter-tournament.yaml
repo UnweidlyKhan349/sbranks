@@ -18,7 +18,9 @@ sources:
   sheet_id: 1OFcII45QGCmZbe7ZOrokY5OMCL_H03cKrgqU1PK12Y4
   url: https://docs.google.com/spreadsheets/d/1OFcII45QGCmZbe7ZOrokY5OMCL_H03cKrgqU1PK12Y4/edit#gid=1692538233
   file: results.xlsx
-parser: null
+parser: g3_online:parse_discord_winter
 parser_options: {}
-status: todo
-notes: ''
+status: partial
+notes: Source has only team standings (W-L totals, no game-by-game results) and individual tossup stats (GP/TUH/4/-4/points),
+  so no games were extracted; 41 player rows for 9 Discord pickup teams. Player names are Discord handles as written; rosters
+  come from the hidden Field tab.

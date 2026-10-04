@@ -1,0 +1,1189 @@
+player,team,scope,subject,gp,tuh,correct,zeros,negs,points,ppg
+kian d,School of Geology,rr,overall,,,,,,,31.1898
+kian d,School of Geology,rr,biology,,,,,,,12.5217
+kian d,School of Geology,rr,chemistry,,,,,,,8.67
+kian d,School of Geology,rr,physics,,,,,,,4
+kian d,School of Geology,rr,math,,,,,,,1.38783
+kian d,School of Geology,rr,ess,,,,,,,4.67
+suzuko o,North Hollywood 1,rr,overall,,,,,,,30.7692
+suzuko o,North Hollywood 1,rr,biology,,,,,,,12
+suzuko o,North Hollywood 1,rr,chemistry,,,,,,,4
+suzuko o,North Hollywood 1,rr,physics,,,,,,,7.46667
+suzuko o,North Hollywood 1,rr,math,,,,,,,-1.06667
+suzuko o,North Hollywood 1,rr,ess,,,,,,,8
+sohil r,Lynbrook 1,rr,overall,,,,,,,23.4323
+sohil r,Lynbrook 1,rr,biology,,,,,,,3.0025
+sohil r,Lynbrook 1,rr,chemistry,,,,,,,5.9975
+sohil r,Lynbrook 1,rr,physics,,,,,,,8
+sohil r,Lynbrook 1,rr,math,,,,,,,11.9975
+sohil r,Lynbrook 1,rr,ess,,,,,,,0
+akhil b,ASFA,rr,overall,,,,,,,22.4
+akhil b,ASFA,rr,biology,,,,,,,4.8
+akhil b,ASFA,rr,chemistry,,,,,,,5.6
+akhil b,ASFA,rr,physics,,,,,,,0
+akhil b,ASFA,rr,math,,,,,,,3.2
+akhil b,ASFA,rr,ess,,,,,,,8.42105
+ferris l,Northwood High School,rr,overall,,,,,,,20
+ferris l,Northwood High School,rr,biology,,,,,,,12
+ferris l,Northwood High School,rr,chemistry,,,,,,,6.4
+ferris l,Northwood High School,rr,physics,,,,,,,0
+ferris l,Northwood High School,rr,math,,,,,,,0
+ferris l,Northwood High School,rr,ess,,,,,,,1.6
+chris w,BASIS Chandler 2,rr,overall,,,,,,,19.3939
+chris w,BASIS Chandler 2,rr,biology,,,,,,,0.8
+chris w,BASIS Chandler 2,rr,chemistry,,,,,,,3.04762
+chris w,BASIS Chandler 2,rr,physics,,,,,,,8
+chris w,BASIS Chandler 2,rr,math,,,,,,,5.89474
+chris w,BASIS Chandler 2,rr,ess,,,,,,,1.68421
+andrew w,Palo Alto,rr,overall,,,,,,,16.8421
+andrew w,Palo Alto,rr,biology,,,,,,,0
+andrew w,Palo Alto,rr,chemistry,,,,,,,5.05263
+andrew w,Palo Alto,rr,physics,,,,,,,6.4
+andrew w,Palo Alto,rr,math,,,,,,,6.22222
+andrew w,Palo Alto,rr,ess,,,,,,,-0.888889
+edwin g,The Frazer School,rr,overall,,,,,,,16
+edwin g,The Frazer School,rr,biology,,,,,,,0
+edwin g,The Frazer School,rr,chemistry,,,,,,,4
+edwin g,The Frazer School,rr,physics,,,,,,,6
+edwin g,The Frazer School,rr,math,,,,,,,6
+edwin g,The Frazer School,rr,ess,,,,,,,0
+nihar b,BASIS Chandler 1,rr,overall,,,,,,,15
+nihar b,BASIS Chandler 1,rr,biology,,,,,,,14.4
+nihar b,BASIS Chandler 1,rr,chemistry,,,,,,,0
+nihar b,BASIS Chandler 1,rr,physics,,,,,,,0
+nihar b,BASIS Chandler 1,rr,math,,,,,,,0
+nihar b,BASIS Chandler 1,rr,ess,,,,,,,0
+shaun i,VMATHS,rr,overall,,,,,,,14.5455
+shaun i,VMATHS,rr,biology,,,,,,,3.55556
+shaun i,VMATHS,rr,chemistry,,,,,,,6.4
+shaun i,VMATHS,rr,physics,,,,,,,1.6
+shaun i,VMATHS,rr,math,,,,,,,0
+shaun i,VMATHS,rr,ess,,,,,,,3.04762
+ethan w,Arcadia High School 1,rr,overall,,,,,,,13.0612
+ethan w,Arcadia High School 1,rr,biology,,,,,,,5.05263
+ethan w,Arcadia High School 1,rr,chemistry,,,,,,,4.8
+ethan w,Arcadia High School 1,rr,physics,,,,,,,1.6
+ethan w,Arcadia High School 1,rr,math,,,,,,,0.842105
+ethan w,Arcadia High School 1,rr,ess,,,,,,,0.8
+abhinav krishna s,Mira Loma High School,rr,overall,,,,,,,12.9313
+abhinav krishna s,Mira Loma High School,rr,biology,,,,,,,1.598
+abhinav krishna s,Mira Loma High School,rr,chemistry,,,,,,,8.8
+abhinav krishna s,Mira Loma High School,rr,physics,,,,,,,0.798
+abhinav krishna s,Mira Loma High School,rr,math,,,,,,,0
+abhinav krishna s,Mira Loma High School,rr,ess,,,,,,,1.6
+sanjay o,WWPS 1,rr,overall,,,,,,,12.802
+sanjay o,WWPS 1,rr,biology,,,,,,,0
+sanjay o,WWPS 1,rr,chemistry,,,,,,,9.6
+sanjay o,WWPS 1,rr,physics,,,,,,,2.402
+sanjay o,WWPS 1,rr,math,,,,,,,0.8
+sanjay o,WWPS 1,rr,ess,,,,,,,0
+adrian b,South Texas ISD Science Academy,rr,overall,,,,,,,12.8
+adrian b,South Texas ISD Science Academy,rr,biology,,,,,,,5.6
+adrian b,South Texas ISD Science Academy,rr,chemistry,,,,,,,2.4
+adrian b,South Texas ISD Science Academy,rr,physics,,,,,,,3.2
+adrian b,South Texas ISD Science Academy,rr,math,,,,,,,1.6
+adrian b,South Texas ISD Science Academy,rr,ess,,,,,,,0
+shannon i,Orange County School of the Arts,rr,overall,,,,,,,12.4675
+shannon i,Orange County School of the Arts,rr,biology,,,,,,,1.06667
+shannon i,Orange County School of the Arts,rr,chemistry,,,,,,,8
+shannon i,Orange County School of the Arts,rr,physics,,,,,,,0
+shannon i,Orange County School of the Arts,rr,math,,,,,,,0
+shannon i,Orange County School of the Arts,rr,ess,,,,,,,3.2
+troy g,Harvard Westlake,rr,overall,,,,,,,12.2449
+troy g,Harvard Westlake,rr,biology,,,,,,,2.52632
+troy g,Harvard Westlake,rr,chemistry,,,,,,,4
+troy g,Harvard Westlake,rr,physics,,,,,,,1.6
+troy g,Harvard Westlake,rr,math,,,,,,,-0.8
+troy g,Harvard Westlake,rr,ess,,,,,,,5.05263
+Liran Z,Jericho High School,rr,overall,,,,,,,12.2449
+Liran Z,Jericho High School,rr,biology,,,,,,,0
+Liran Z,Jericho High School,rr,chemistry,,,,,,,0
+Liran Z,Jericho High School,rr,physics,,,,,,,3.2
+Liran Z,Jericho High School,rr,math,,,,,,,8.38095
+Liran Z,Jericho High School,rr,ess,,,,,,,0
+kevin w,Arcadia High School 2,rr,overall,,,,,,,12.2034
+kevin w,Arcadia High School 2,rr,biology,,,,,,,5.33333
+kevin w,Arcadia High School 2,rr,chemistry,,,,,,,2.66667
+kevin w,Arcadia High School 2,rr,physics,,,,,,,4.36364
+kevin w,Arcadia High School 2,rr,math,,,,,,,0
+kevin w,Arcadia High School 2,rr,ess,,,,,,,0
+shubam v,College Park High School,rr,overall,,,,,,,12.1212
+shubam v,College Park High School,rr,biology,,,,,,,0
+shubam v,College Park High School,rr,chemistry,,,,,,,4.8
+shubam v,College Park High School,rr,physics,,,,,,,4
+shubam v,College Park High School,rr,math,,,,,,,-0.8
+shubam v,College Park High School,rr,ess,,,,,,,4.21053
+lucas q,BISV,rr,overall,,,,,,,12.1212
+lucas q,BISV,rr,biology,,,,,,,0
+lucas q,BISV,rr,chemistry,,,,,,,8.57143
+lucas q,BISV,rr,physics,,,,,,,2.10526
+lucas q,BISV,rr,math,,,,,,,1.05263
+lucas q,BISV,rr,ess,,,,,,,3.15789
+allen f,Lexington High School,rr,overall,,,,,,,11.6256
+allen f,Lexington High School,rr,biology,,,,,,,5.56348
+allen f,Lexington High School,rr,chemistry,,,,,,,0.666667
+allen f,Lexington High School,rr,physics,,,,,,,2.00167
+allen f,Lexington High School,rr,math,,,,,,,1.33167
+allen f,Lexington High School,rr,ess,,,,,,,2.18
+Helen W,Jericho High School,rr,overall,,,,,,,11.4286
+Helen W,Jericho High School,rr,biology,,,,,,,7.2
+Helen W,Jericho High School,rr,chemistry,,,,,,,0
+Helen W,Jericho High School,rr,physics,,,,,,,0
+Helen W,Jericho High School,rr,math,,,,,,,0
+Helen W,Jericho High School,rr,ess,,,,,,,4.70588
+abhinav a,WWPS 2,rr,overall,,,,,,,11.3131
+abhinav a,WWPS 2,rr,biology,,,,,,,5.6
+abhinav a,WWPS 2,rr,chemistry,,,,,,,2.28571
+abhinav a,WWPS 2,rr,physics,,,,,,,0
+abhinav a,WWPS 2,rr,math,,,,,,,0
+abhinav a,WWPS 2,rr,ess,,,,,,,3.36842
+sola m,Iolani School 1,rr,overall,,,,,,,11.273
+sola m,Iolani School 1,rr,biology,,,,,,,1.00125
+sola m,Iolani School 1,rr,chemistry,,,,,,,0
+sola m,Iolani School 1,rr,physics,,,,,,,2
+sola m,Iolani School 1,rr,math,,,,,,,3.50125
+sola m,Iolani School 1,rr,ess,,,,,,,4.8
+mary p,Baton Rouge Magnet High School,rr,overall,,,,,,,11
+mary p,Baton Rouge Magnet High School,rr,biology,,,,,,,0
+mary p,Baton Rouge Magnet High School,rr,chemistry,,,,,,,1
+mary p,Baton Rouge Magnet High School,rr,physics,,,,,,,0
+mary p,Baton Rouge Magnet High School,rr,math,,,,,,,0
+mary p,Baton Rouge Magnet High School,rr,ess,,,,,,,10
+paxton l,Arcadia High School 1,rr,overall,,,,,,,10.6122
+paxton l,Arcadia High School 1,rr,biology,,,,,,,1.68421
+paxton l,Arcadia High School 1,rr,chemistry,,,,,,,4.8
+paxton l,Arcadia High School 1,rr,physics,,,,,,,0.8
+paxton l,Arcadia High School 1,rr,math,,,,,,,0
+paxton l,Arcadia High School 1,rr,ess,,,,,,,3.2
+Ryan T,Jericho High School,rr,overall,,,,,,,10.6122
+Ryan T,Jericho High School,rr,biology,,,,,,,0.8
+Ryan T,Jericho High School,rr,chemistry,,,,,,,8.8
+Ryan T,Jericho High School,rr,physics,,,,,,,0
+Ryan T,Jericho High School,rr,math,,,,,,,0
+Ryan T,Jericho High School,rr,ess,,,,,,,0.941176
+camille p,Hunter College High School,rr,overall,,,,,,,10.5051
+camille p,Hunter College High School,rr,biology,,,,,,,2.4
+camille p,Hunter College High School,rr,chemistry,,,,,,,0
+camille p,Hunter College High School,rr,physics,,,,,,,0
+camille p,Hunter College High School,rr,math,,,,,,,0
+camille p,Hunter College High School,rr,ess,,,,,,,8.42105
+hrishi b,Thomas Jefferson 1,rr,overall,,,,,,,10.5051
+hrishi b,Thomas Jefferson 1,rr,biology,,,,,,,0.8
+hrishi b,Thomas Jefferson 1,rr,chemistry,,,,,,,6.09524
+hrishi b,Thomas Jefferson 1,rr,physics,,,,,,,0.842105
+hrishi b,Thomas Jefferson 1,rr,math,,,,,,,1.6
+hrishi b,Thomas Jefferson 1,rr,ess,,,,,,,0.842105
+jayson z,Plano West Senior High,rr,overall,,,,,,,10.4
+jayson z,Plano West Senior High,rr,biology,,,,,,,2
+jayson z,Plano West Senior High,rr,chemistry,,,,,,,5
+jayson z,Plano West Senior High,rr,physics,,,,,,,1
+jayson z,Plano West Senior High,rr,math,,,,,,,4
+jayson z,Plano West Senior High,rr,ess,,,,,,,1
+aqil t,Lubbock High School,rr,overall,,,,,,,10.3896
+aqil t,Lubbock High School,rr,biology,,,,,,,0
+aqil t,Lubbock High School,rr,chemistry,,,,,,,3
+aqil t,Lubbock High School,rr,physics,,,,,,,1
+aqil t,Lubbock High School,rr,math,,,,,,,0
+aqil t,Lubbock High School,rr,ess,,,,,,,6.85714
+ishan a,Collierville,rr,overall,,,,,,,10.2564
+ishan a,Collierville,rr,biology,,,,,,,0
+ishan a,Collierville,rr,chemistry,,,,,,,2.0025
+ishan a,Collierville,rr,physics,,,,,,,4.26667
+ishan a,Collierville,rr,math,,,,,,,2.0025
+ishan a,Collierville,rr,ess,,,,,,,0.9975
+varyan j,BASIS Chandler 1,rr,overall,,,,,,,10
+varyan j,BASIS Chandler 1,rr,biology,,,,,,,0
+varyan j,BASIS Chandler 1,rr,chemistry,,,,,,,0.888889
+varyan j,BASIS Chandler 1,rr,physics,,,,,,,0
+varyan j,BASIS Chandler 1,rr,math,,,,,,,3.36842
+varyan j,BASIS Chandler 1,rr,ess,,,,,,,6.22222
+ziang z,Baton Rouge Magnet High School,rr,overall,,,,,,,10
+ziang z,Baton Rouge Magnet High School,rr,biology,,,,,,,2
+ziang z,Baton Rouge Magnet High School,rr,chemistry,,,,,,,0
+ziang z,Baton Rouge Magnet High School,rr,physics,,,,,,,3
+ziang z,Baton Rouge Magnet High School,rr,math,,,,,,,5
+ziang z,Baton Rouge Magnet High School,rr,ess,,,,,,,0
+varun g,VMATHS,rr,overall,,,,,,,9.69697
+varun g,VMATHS,rr,biology,,,,,,,0
+varun g,VMATHS,rr,chemistry,,,,,,,0.8
+varun g,VMATHS,rr,physics,,,,,,,0.8
+varun g,VMATHS,rr,math,,,,,,,8
+varun g,VMATHS,rr,ess,,,,,,,0
+shreshta p,Bridgeland High School,rr,overall,,,,,,,9.3617
+shreshta p,Bridgeland High School,rr,biology,,,,,,,1.68421
+shreshta p,Bridgeland High School,rr,chemistry,,,,,,,0.888889
+shreshta p,Bridgeland High School,rr,physics,,,,,,,0.842105
+shreshta p,Bridgeland High School,rr,math,,,,,,,3.36842
+shreshta p,Bridgeland High School,rr,ess,,,,,,,2.52632
+aryan s,Orange County School of the Arts,rr,overall,,,,,,,9.35065
+aryan s,Orange County School of the Arts,rr,biology,,,,,,,0
+aryan s,Orange County School of the Arts,rr,chemistry,,,,,,,0
+aryan s,Orange County School of the Arts,rr,physics,,,,,,,4.26667
+aryan s,Orange County School of the Arts,rr,math,,,,,,,4.26667
+aryan s,Orange County School of the Arts,rr,ess,,,,,,,1.06667
+min s,Iolani School 1,rr,overall,,,,,,,9.33167
+min s,Iolani School 1,rr,biology,,,,,,,0.665
+min s,Iolani School 1,rr,chemistry,,,,,,,8.00167
+min s,Iolani School 1,rr,physics,,,,,,,0.665
+min s,Iolani School 1,rr,math,,,,,,,0
+min s,Iolani School 1,rr,ess,,,,,,,0
+Larry D,Morgantown High School,rr,overall,,,,,,,9.14286
+Larry D,Morgantown High School,rr,biology,,,,,,,2.28571
+Larry D,Morgantown High School,rr,chemistry,,,,,,,4.57143
+Larry D,Morgantown High School,rr,physics,,,,,,,0
+Larry D,Morgantown High School,rr,math,,,,,,,2.28571
+Larry D,Morgantown High School,rr,ess,,,,,,,0
+naoto h,Iolani School 2,rr,overall,,,,,,,8.97959
+naoto h,Iolani School 2,rr,biology,,,,,,,0.8
+naoto h,Iolani School 2,rr,chemistry,,,,,,,6.4
+naoto h,Iolani School 2,rr,physics,,,,,,,0
+naoto h,Iolani School 2,rr,math,,,,,,,0
+naoto h,Iolani School 2,rr,ess,,,,,,,1.68421
+philip k,Lynbrook 1,rr,overall,,,,,,,8.88889
+philip k,Lynbrook 1,rr,biology,,,,,,,0.8
+philip k,Lynbrook 1,rr,chemistry,,,,,,,0
+philip k,Lynbrook 1,rr,physics,,,,,,,0.8
+philip k,Lynbrook 1,rr,math,,,,,,,0
+philip k,Lynbrook 1,rr,ess,,,,,,,7.57895
+kensuke o,North Hollywood 2,rr,overall,,,,,,,8.88889
+kensuke o,North Hollywood 2,rr,biology,,,,,,,1.6
+kensuke o,North Hollywood 2,rr,chemistry,,,,,,,1.68421
+kensuke o,North Hollywood 2,rr,physics,,,,,,,1.6
+kensuke o,North Hollywood 2,rr,math,,,,,,,0
+kensuke o,North Hollywood 2,rr,ess,,,,,,,4
+larry z,BISV,rr,overall,,,,,,,8.88889
+larry z,BISV,rr,biology,,,,,,,7.61905
+larry z,BISV,rr,chemistry,,,,,,,0
+larry z,BISV,rr,physics,,,,,,,0
+larry z,BISV,rr,math,,,,,,,0
+larry z,BISV,rr,ess,,,,,,,0.842105
+william j,Lexington High School,rr,overall,,,,,,,8.88889
+william j,Lexington High School,rr,biology,,,,,,,0
+william j,Lexington High School,rr,chemistry,,,,,,,6.4
+william j,Lexington High School,rr,physics,,,,,,,1.6
+william j,Lexington High School,rr,math,,,,,,,0.761905
+william j,Lexington High School,rr,ess,,,,,,,0
+arjun d,WWPS 1,rr,overall,,,,,,,8.8
+arjun d,WWPS 1,rr,biology,,,,,,,6.398
+arjun d,WWPS 1,rr,chemistry,,,,,,,0.798
+arjun d,WWPS 1,rr,physics,,,,,,,0.8
+arjun d,WWPS 1,rr,math,,,,,,,0
+arjun d,WWPS 1,rr,ess,,,,,,,0.798
+vincent q,Bridgeland High School,rr,overall,,,,,,,8.42105
+vincent q,Bridgeland High School,rr,biology,,,,,,,4
+vincent q,Bridgeland High School,rr,chemistry,,,,,,,0
+vincent q,Bridgeland High School,rr,physics,,,,,,,0
+vincent q,Bridgeland High School,rr,math,,,,,,,0
+vincent q,Bridgeland High School,rr,ess,,,,,,,4
+min s,Westview High School 2,rr,overall,,,,,,,8.42105
+min s,Westview High School 2,rr,biology,,,,,,,0
+min s,Westview High School 2,rr,chemistry,,,,,,,8
+min s,Westview High School 2,rr,physics,,,,,,,0
+min s,Westview High School 2,rr,math,,,,,,,0
+min s,Westview High School 2,rr,ess,,,,,,,0
+praneel a,BASIS Chandler 1,rr,overall,,,,,,,8.33333
+praneel a,BASIS Chandler 1,rr,biology,,,,,,,0
+praneel a,BASIS Chandler 1,rr,chemistry,,,,,,,2.66667
+praneel a,BASIS Chandler 1,rr,physics,,,,,,,3.80952
+praneel a,BASIS Chandler 1,rr,math,,,,,,,-1.68421
+praneel a,BASIS Chandler 1,rr,ess,,,,,,,3.55556
+seonho c,Lubbock High School,rr,overall,,,,,,,8.31169
+seonho c,Lubbock High School,rr,biology,,,,,,,0
+seonho c,Lubbock High School,rr,chemistry,,,,,,,1
+seonho c,Lubbock High School,rr,physics,,,,,,,7
+seonho c,Lubbock High School,rr,math,,,,,,,0
+seonho c,Lubbock High School,rr,ess,,,,,,,0
+sunnyguppi,Morgantown High School,rr,overall,,,,,,,8.14722
+sunnyguppi,Morgantown High School,rr,biology,,,,,,,3.53297
+sunnyguppi,Morgantown High School,rr,chemistry,,,,,,,1.45238
+sunnyguppi,Morgantown High School,rr,physics,,,,,,,0.821429
+sunnyguppi,Morgantown High School,rr,math,,,,,,,0.580513
+sunnyguppi,Morgantown High School,rr,ess,,,,,,,1.76667
+sophia g,Thomas Jefferson 1,rr,overall,,,,,,,8.08081
+sophia g,Thomas Jefferson 1,rr,biology,,,,,,,6.4
+sophia g,Thomas Jefferson 1,rr,chemistry,,,,,,,-0.761905
+sophia g,Thomas Jefferson 1,rr,physics,,,,,,,0
+sophia g,Thomas Jefferson 1,rr,math,,,,,,,0
+sophia g,Thomas Jefferson 1,rr,ess,,,,,,,2.52632
+jake r,North Hollywood 2,rr,overall,,,,,,,8.08081
+jake r,North Hollywood 2,rr,biology,,,,,,,5.6
+jake r,North Hollywood 2,rr,chemistry,,,,,,,2.52632
+jake r,North Hollywood 2,rr,physics,,,,,,,0
+jake r,North Hollywood 2,rr,math,,,,,,,0
+jake r,North Hollywood 2,rr,ess,,,,,,,0
+vincent q,Lynbrook 2,rr,overall,,,,,,,8.08
+vincent q,Lynbrook 2,rr,biology,,,,,,,0.8
+vincent q,Lynbrook 2,rr,chemistry,,,,,,,0
+vincent q,Lynbrook 2,rr,physics,,,,,,,0
+vincent q,Lynbrook 2,rr,math,,,,,,,0
+vincent q,Lynbrook 2,rr,ess,,,,,,,8
+samuel d,WWPS 2,rr,overall,,,,,,,8.07879
+samuel d,WWPS 2,rr,biology,,,,,,,0
+samuel d,WWPS 2,rr,chemistry,,,,,,,2.28381
+samuel d,WWPS 2,rr,physics,,,,,,,0.84
+samuel d,WWPS 2,rr,math,,,,,,,4.802
+samuel d,WWPS 2,rr,ess,,,,,,,0
+alex l,Madison West,rr,overall,,,,,,,8
+alex l,Madison West,rr,biology,,,,,,,0
+alex l,Madison West,rr,chemistry,,,,,,,0
+alex l,Madison West,rr,physics,,,,,,,0.8
+alex l,Madison West,rr,math,,,,,,,0.842105
+alex l,Madison West,rr,ess,,,,,,,6.4
+Darsh T,Westview High School 1,rr,overall,,,,,,,8
+Darsh T,Westview High School 1,rr,biology,,,,,,,0
+Darsh T,Westview High School 1,rr,chemistry,,,,,,,0
+Darsh T,Westview High School 1,rr,physics,,,,,,,4
+Darsh T,Westview High School 1,rr,math,,,,,,,0
+Darsh T,Westview High School 1,rr,ess,,,,,,,4
+joshua h,Jericho High School 2,rr,overall,,,,,,,8
+joshua h,Jericho High School 2,rr,biology,,,,,,,0.8
+joshua h,Jericho High School 2,rr,chemistry,,,,,,,4
+joshua h,Jericho High School 2,rr,physics,,,,,,,0.8
+joshua h,Jericho High School 2,rr,math,,,,,,,0
+joshua h,Jericho High School 2,rr,ess,,,,,,,2.4
+gabe l,Hunter College High School,rr,overall,,,,,,,8
+gabe l,Hunter College High School,rr,biology,,,,,,,0
+gabe l,Hunter College High School,rr,chemistry,,,,,,,1.33333
+gabe l,Hunter College High School,rr,physics,,,,,,,1.33333
+gabe l,Hunter College High School,rr,math,,,,,,,5.33333
+gabe l,Hunter College High School,rr,ess,,,,,,,0
+rohan a,Madison West,rr,overall,,,,,,,8
+rohan a,Madison West,rr,biology,,,,,,,10
+rohan a,Madison West,rr,chemistry,,,,,,,0
+rohan a,Madison West,rr,physics,,,,,,,0
+rohan a,Madison West,rr,math,,,,,,,0
+rohan a,Madison West,rr,ess,,,,,,,0
+robert y,Lynbrook 2,rr,overall,,,,,,,7.57027
+robert y,Lynbrook 2,rr,biology,,,,,,,2.0025
+robert y,Lynbrook 2,rr,chemistry,,,,,,,3.2
+robert y,Lynbrook 2,rr,physics,,,,,,,1.0025
+robert y,Lynbrook 2,rr,math,,,,,,,1.22769
+robert y,Lynbrook 2,rr,ess,,,,,,,0
+samy e,Chattahoochee High School,rr,overall,,,,,,,7.42268
+samy e,Chattahoochee High School,rr,biology,,,,,,,3.36842
+samy e,Chattahoochee High School,rr,chemistry,,,,,,,0.8
+samy e,Chattahoochee High School,rr,physics,,,,,,,3.2
+samy e,Chattahoochee High School,rr,math,,,,,,,0.8
+samy e,Chattahoochee High School,rr,ess,,,,,,,-0.888889
+dennis j,WWPS 2,rr,overall,,,,,,,7.27273
+dennis j,WWPS 2,rr,biology,,,,,,,0
+dennis j,WWPS 2,rr,chemistry,,,,,,,0.761905
+dennis j,WWPS 2,rr,physics,,,,,,,5.05474
+dennis j,WWPS 2,rr,math,,,,,,,0.798
+dennis j,WWPS 2,rr,ess,,,,,,,0.842105
+sophia f,Lynbrook 1,rr,overall,,,,,,,7.27273
+sophia f,Lynbrook 1,rr,biology,,,,,,,0
+sophia f,Lynbrook 1,rr,chemistry,,,,,,,7.2
+sophia f,Lynbrook 1,rr,physics,,,,,,,0
+sophia f,Lynbrook 1,rr,math,,,,,,,0
+sophia f,Lynbrook 1,rr,ess,,,,,,,0
+daniel w,Plano West Senior High,rr,overall,,,,,,,7.2
+daniel w,Plano West Senior High,rr,biology,,,,,,,3.998
+daniel w,Plano West Senior High,rr,chemistry,,,,,,,0.8
+daniel w,Plano West Senior High,rr,physics,,,,,,,0
+daniel w,Plano West Senior High,rr,math,,,,,,,0
+daniel w,Plano West Senior High,rr,ess,,,,,,,2.402
+patrick l,North Hollywood 1,rr,overall,,,,,,,7.17949
+patrick l,North Hollywood 1,rr,biology,,,,,,,0
+patrick l,North Hollywood 1,rr,chemistry,,,,,,,0
+patrick l,North Hollywood 1,rr,physics,,,,,,,0
+patrick l,North Hollywood 1,rr,math,,,,,,,7.46667
+patrick l,North Hollywood 1,rr,ess,,,,,,,0
+saahil d,Eastlake High School,rr,overall,,,,,,,7.08861
+saahil d,Eastlake High School,rr,biology,,,,,,,2
+saahil d,Eastlake High School,rr,chemistry,,,,,,,2
+saahil d,Eastlake High School,rr,physics,,,,,,,2
+saahil d,Eastlake High School,rr,math,,,,,,,0
+saahil d,Eastlake High School,rr,ess,,,,,,,1.06667
+henry k,Orange County School of the Arts,rr,overall,,,,,,,7.01754
+henry k,Orange County School of the Arts,rr,biology,,,,,,,7.27273
+henry k,Orange County School of the Arts,rr,chemistry,,,,,,,0
+henry k,Orange County School of the Arts,rr,physics,,,,,,,0
+henry k,Orange County School of the Arts,rr,math,,,,,,,0
+henry k,Orange County School of the Arts,rr,ess,,,,,,,0
+matthew y,Lynbrook 1,rr,overall,,,,,,,7
+matthew y,Lynbrook 1,rr,biology,,,,,,,4.9975
+matthew y,Lynbrook 1,rr,chemistry,,,,,,,0
+matthew y,Lynbrook 1,rr,physics,,,,,,,0
+matthew y,Lynbrook 1,rr,math,,,,,,,0
+matthew y,Lynbrook 1,rr,ess,,,,,,,2.0025
+connor z,North Hollywood 1,rr,overall,,,,,,,6.89655
+connor z,North Hollywood 1,rr,biology,,,,,,,0
+connor z,North Hollywood 1,rr,chemistry,,,,,,,8
+connor z,North Hollywood 1,rr,physics,,,,,,,-1.45455
+connor z,North Hollywood 1,rr,math,,,,,,,0
+connor z,North Hollywood 1,rr,ess,,,,,,,0
+christine c,Hunter College High School,rr,overall,,,,,,,6.66667
+christine c,Hunter College High School,rr,biology,,,,,,,2.66667
+christine c,Hunter College High School,rr,chemistry,,,,,,,1.33333
+christine c,Hunter College High School,rr,physics,,,,,,,2.66667
+christine c,Hunter College High School,rr,math,,,,,,,0
+christine c,Hunter College High School,rr,ess,,,,,,,0
+shaleen b,Chattahoochee High School,rr,overall,,,,,,,6.59794
+shaleen b,Chattahoochee High School,rr,biology,,,,,,,0
+shaleen b,Chattahoochee High School,rr,chemistry,,,,,,,0.8
+shaleen b,Chattahoochee High School,rr,physics,,,,,,,0.8
+shaleen b,Chattahoochee High School,rr,math,,,,,,,0
+shaleen b,Chattahoochee High School,rr,ess,,,,,,,5.33333
+Ayan D,Bridgeland High School 2,rr,overall,,,,,,,6.46465
+Ayan D,Bridgeland High School 2,rr,biology,,,,,,,0
+Ayan D,Bridgeland High School 2,rr,chemistry,,,,,,,2.4
+Ayan D,Bridgeland High School 2,rr,physics,,,,,,,0.8
+Ayan D,Bridgeland High School 2,rr,math,,,,,,,0.761905
+Ayan D,Bridgeland High School 2,rr,ess,,,,,,,2.52632
+nathan l,Thomas Jefferson 1,rr,overall,,,,,,,6.46465
+nathan l,Thomas Jefferson 1,rr,biology,,,,,,,0
+nathan l,Thomas Jefferson 1,rr,chemistry,,,,,,,0
+nathan l,Thomas Jefferson 1,rr,physics,,,,,,,3.36842
+nathan l,Thomas Jefferson 1,rr,math,,,,,,,2.4
+nathan l,Thomas Jefferson 1,rr,ess,,,,,,,0.842105
+alex h,Iolani School 2,rr,overall,,,,,,,6.15385
+alex h,Iolani School 2,rr,biology,,,,,,,0
+alex h,Iolani School 2,rr,chemistry,,,,,,,0
+alex h,Iolani School 2,rr,physics,,,,,,,0
+alex h,Iolani School 2,rr,math,,,,,,,6
+alex h,Iolani School 2,rr,ess,,,,,,,0
+vittal k,Westview High School 2,rr,overall,,,,,,,6
+vittal k,Westview High School 2,rr,biology,,,,,,,0
+vittal k,Westview High School 2,rr,chemistry,,,,,,,1
+vittal k,Westview High School 2,rr,physics,,,,,,,1
+vittal k,Westview High School 2,rr,math,,,,,,,2
+vittal k,Westview High School 2,rr,ess,,,,,,,2
+bowen l,Jericho High School 2,rr,overall,,,,,,,6
+bowen l,Jericho High School 2,rr,biology,,,,,,,0
+bowen l,Jericho High School 2,rr,chemistry,,,,,,,4
+bowen l,Jericho High School 2,rr,physics,,,,,,,0
+bowen l,Jericho High School 2,rr,math,,,,,,,0
+bowen l,Jericho High School 2,rr,ess,,,,,,,2
+kevin w,Arcadia High School 1,rr,overall,,,,,,,6
+kevin w,Arcadia High School 1,rr,biology,,,,,,,0
+kevin w,Arcadia High School 1,rr,chemistry,,,,,,,2
+kevin w,Arcadia High School 1,rr,physics,,,,,,,0
+kevin w,Arcadia High School 1,rr,math,,,,,,,4
+kevin w,Arcadia High School 1,rr,ess,,,,,,,0
+travis d,Punahou School,rr,overall,,,,,,,5.95957
+travis d,Punahou School,rr,biology,,,,,,,0
+travis d,Punahou School,rr,chemistry,,,,,,,1.68421
+travis d,Punahou School,rr,physics,,,,,,,0
+travis d,Punahou School,rr,math,,,,,,,0
+travis d,Punahou School,rr,ess,,,,,,,4.21263
+William T,Morgantown High School,rr,overall,,,,,,,5.89684
+William T,Morgantown High School,rr,biology,,,,,,,0
+William T,Morgantown High School,rr,chemistry,,,,,,,1.68421
+William T,Morgantown High School,rr,physics,,,,,,,1.77556
+William T,Morgantown High School,rr,math,,,,,,,0
+William T,Morgantown High School,rr,ess,,,,,,,2.52421
+christopher c,Arcadia High School 2,rr,overall,,,,,,,5.81818
+christopher c,Arcadia High School 2,rr,biology,,,,,,,0
+christopher c,Arcadia High School 2,rr,chemistry,,,,,,,1.45455
+christopher c,Arcadia High School 2,rr,physics,,,,,,,1.77778
+christopher c,Arcadia High School 2,rr,math,,,,,,,1.6
+christopher c,Arcadia High School 2,rr,ess,,,,,,,1.33333
+Jai S,Westview High School 1,rr,overall,,,,,,,5.71429
+Jai S,Westview High School 1,rr,biology,,,,,,,1.6
+Jai S,Westview High School 1,rr,chemistry,,,,,,,0
+Jai S,Westview High School 1,rr,physics,,,,,,,-0.8
+Jai S,Westview High School 1,rr,math,,,,,,,0.842105
+Jai S,Westview High School 1,rr,ess,,,,,,,4.21053
+thaman v,Thomas Jefferson 2,rr,overall,,,,,,,5.71429
+thaman v,Thomas Jefferson 2,rr,biology,,,,,,,3.202
+thaman v,Thomas Jefferson 2,rr,chemistry,,,,,,,1.6
+thaman v,Thomas Jefferson 2,rr,physics,,,,,,,0
+thaman v,Thomas Jefferson 2,rr,math,,,,,,,0
+thaman v,Thomas Jefferson 2,rr,ess,,,,,,,0.84
+Sudeep S,Mira Loma High School 2,rr,overall,,,,,,,5.71143
+Sudeep S,Mira Loma High School 2,rr,biology,,,,,,,0
+Sudeep S,Mira Loma High School 2,rr,chemistry,,,,,,,0
+Sudeep S,Mira Loma High School 2,rr,physics,,,,,,,4.00333
+Sudeep S,Mira Loma High School 2,rr,math,,,,,,,1.33
+Sudeep S,Mira Loma High School 2,rr,ess,,,,,,,1.064
+raaghav n,Lubbock High School,rr,overall,,,,,,,5.61404
+raaghav n,Lubbock High School,rr,biology,,,,,,,4
+raaghav n,Lubbock High School,rr,chemistry,,,,,,,1.33333
+raaghav n,Lubbock High School,rr,physics,,,,,,,0
+raaghav n,Lubbock High School,rr,math,,,,,,,0
+raaghav n,Lubbock High School,rr,ess,,,,,,,0
+eric l,The Frazer School,rr,overall,,,,,,,5.6
+eric l,The Frazer School,rr,biology,,,,,,,-0.8
+eric l,The Frazer School,rr,chemistry,,,,,,,0.8
+eric l,The Frazer School,rr,physics,,,,,,,2.4
+eric l,The Frazer School,rr,math,,,,,,,0.8
+eric l,The Frazer School,rr,ess,,,,,,,2.4
+anthony c,Westview High School 2,rr,overall,,,,,,,5.6
+anthony c,Westview High School 2,rr,biology,,,,,,,3.2
+anthony c,Westview High School 2,rr,chemistry,,,,,,,0
+anthony c,Westview High School 2,rr,physics,,,,,,,1.6
+anthony c,Westview High School 2,rr,math,,,,,,,0
+anthony c,Westview High School 2,rr,ess,,,,,,,0.8
+cherry b,Collierville,rr,overall,,,,,,,5.51724
+cherry b,Collierville,rr,biology,,,,,,,0
+cherry b,Collierville,rr,chemistry,,,,,,,2.66667
+cherry b,Collierville,rr,physics,,,,,,,0
+cherry b,Collierville,rr,math,,,,,,,0
+cherry b,Collierville,rr,ess,,,,,,,2.66667
+yash n,Eastlake High School,rr,overall,,,,,,,5.42034
+yash n,Eastlake High School,rr,biology,,,,,,,0
+yash n,Eastlake High School,rr,chemistry,,,,,,,0
+yash n,Eastlake High School,rr,physics,,,,,,,0
+yash n,Eastlake High School,rr,math,,,,,,,0
+yash n,Eastlake High School,rr,ess,,,,,,,5.81455
+anika j,Arcadia High School 2,rr,overall,,,,,,,5.33333
+anika j,Arcadia High School 2,rr,biology,,,,,,,0
+anika j,Arcadia High School 2,rr,chemistry,,,,,,,2.13333
+anika j,Arcadia High School 2,rr,physics,,,,,,,0
+anika j,Arcadia High School 2,rr,math,,,,,,,0
+anika j,Arcadia High School 2,rr,ess,,,,,,,3
+ved p,Chattahoochee High School,rr,overall,,,,,,,5.33333
+ved p,Chattahoochee High School,rr,biology,,,,,,,0
+ved p,Chattahoochee High School,rr,chemistry,,,,,,,4
+ved p,Chattahoochee High School,rr,physics,,,,,,,0
+ved p,Chattahoochee High School,rr,math,,,,,,,0
+ved p,Chattahoochee High School,rr,ess,,,,,,,1.45455
+larry d,Morgantown High School,rr,overall,,,,,,,5.33333
+larry d,Morgantown High School,rr,biology,,,,,,,2.46154
+larry d,Morgantown High School,rr,chemistry,,,,,,,2.66667
+larry d,Morgantown High School,rr,physics,,,,,,,0
+larry d,Morgantown High School,rr,math,,,,,,,0
+larry d,Morgantown High School,rr,ess,,,,,,,0
+lishan p,Lubbock High School,rr,overall,,,,,,,5.19481
+lishan p,Lubbock High School,rr,biology,,,,,,,0
+lishan p,Lubbock High School,rr,chemistry,,,,,,,4
+lishan p,Lubbock High School,rr,physics,,,,,,,0
+lishan p,Lubbock High School,rr,math,,,,,,,1.06667
+lishan p,Lubbock High School,rr,ess,,,,,,,0
+aaron c,BISV,rr,overall,,,,,,,5
+aaron c,BISV,rr,biology,,,,,,,0
+aaron c,BISV,rr,chemistry,,,,,,,0
+aaron c,BISV,rr,physics,,,,,,,0
+aaron c,BISV,rr,math,,,,,,,1.06667
+aaron c,BISV,rr,ess,,,,,,,4
+rosa l,Cupertino High School,rr,overall,,,,,,,5
+rosa l,Cupertino High School,rr,biology,,,,,,,4
+rosa l,Cupertino High School,rr,chemistry,,,,,,,0
+rosa l,Cupertino High School,rr,physics,,,,,,,0
+rosa l,Cupertino High School,rr,math,,,,,,,0
+rosa l,Cupertino High School,rr,ess,,,,,,,1
+uddip k,VMATHS,rr,overall,,,,,,,4.84848
+uddip k,VMATHS,rr,biology,,,,,,,5.33333
+uddip k,VMATHS,rr,chemistry,,,,,,,0
+uddip k,VMATHS,rr,physics,,,,,,,-0.8
+uddip k,VMATHS,rr,math,,,,,,,0
+uddip k,VMATHS,rr,ess,,,,,,,0.761905
+andres f,Hunter College High School,rr,overall,,,,,,,4.84848
+andres f,Hunter College High School,rr,biology,,,,,,,0.8
+andres f,Hunter College High School,rr,chemistry,,,,,,,2.4
+andres f,Hunter College High School,rr,physics,,,,,,,0.8
+andres f,Hunter College High School,rr,math,,,,,,,0.8
+andres f,Hunter College High School,rr,ess,,,,,,,0
+bryant y,Madison West,rr,overall,,,,,,,4.8
+bryant y,Madison West,rr,biology,,,,,,,0
+bryant y,Madison West,rr,chemistry,,,,,,,0
+bryant y,Madison West,rr,physics,,,,,,,1.6
+bryant y,Madison West,rr,math,,,,,,,3.36842
+bryant y,Madison West,rr,ess,,,,,,,0
+osric d,South Texas ISD Science Academy,rr,overall,,,,,,,4.8
+osric d,South Texas ISD Science Academy,rr,biology,,,,,,,0
+osric d,South Texas ISD Science Academy,rr,chemistry,,,,,,,2.4
+osric d,South Texas ISD Science Academy,rr,physics,,,,,,,2.4
+osric d,South Texas ISD Science Academy,rr,math,,,,,,,0
+osric d,South Texas ISD Science Academy,rr,ess,,,,,,,0
+kapilan k,Mira Loma High School 2,rr,overall,,,,,,,4.57429
+kapilan k,Mira Loma High School 2,rr,biology,,,,,,,0.9975
+kapilan k,Mira Loma High School 2,rr,chemistry,,,,,,,1.064
+kapilan k,Mira Loma High School 2,rr,physics,,,,,,,1.33333
+kapilan k,Mira Loma High School 2,rr,math,,,,,,,0
+kapilan k,Mira Loma High School 2,rr,ess,,,,,,,1.06667
+ryan w,Lynbrook 2,rr,overall,,,,,,,4.32432
+ryan w,Lynbrook 2,rr,biology,,,,,,,0
+ryan w,Lynbrook 2,rr,chemistry,,,,,,,-1.06667
+ryan w,Lynbrook 2,rr,physics,,,,,,,0
+ryan w,Lynbrook 2,rr,math,,,,,,,6.15385
+ryan w,Lynbrook 2,rr,ess,,,,,,,0
+tahmeed s,Collierville,rr,overall,,,,,,,4.21053
+tahmeed s,Collierville,rr,biology,,,,,,,2.28571
+tahmeed s,Collierville,rr,chemistry,,,,,,,0
+tahmeed s,Collierville,rr,physics,,,,,,,0
+tahmeed s,Collierville,rr,math,,,,,,,2
+tahmeed s,Collierville,rr,ess,,,,,,,0
+donovan b,Harvard Westlake,rr,overall,,,,,,,4.21053
+donovan b,Harvard Westlake,rr,biology,,,,,,,4
+donovan b,Harvard Westlake,rr,chemistry,,,,,,,0
+donovan b,Harvard Westlake,rr,physics,,,,,,,0
+donovan b,Harvard Westlake,rr,math,,,,,,,0
+donovan b,Harvard Westlake,rr,ess,,,,,,,0
+ilia m,Chattahoochee High School,rr,overall,,,,,,,4.10256
+ilia m,Chattahoochee High School,rr,biology,,,,,,,1.06667
+ilia m,Chattahoochee High School,rr,chemistry,,,,,,,0
+ilia m,Chattahoochee High School,rr,physics,,,,,,,1
+ilia m,Chattahoochee High School,rr,math,,,,,,,1
+ilia m,Chattahoochee High School,rr,ess,,,,,,,1.06667
+kunwoo y,Thomas Jefferson 2,rr,overall,,,,,,,4.08367
+kunwoo y,Thomas Jefferson 2,rr,biology,,,,,,,0
+kunwoo y,Thomas Jefferson 2,rr,chemistry,,,,,,,1.6
+kunwoo y,Thomas Jefferson 2,rr,physics,,,,,,,0
+kunwoo y,Thomas Jefferson 2,rr,math,,,,,,,0
+kunwoo y,Thomas Jefferson 2,rr,ess,,,,,,,2.52842
+Austin T,Westview High School 1,rr,overall,,,,,,,4.08163
+Austin T,Westview High School 1,rr,biology,,,,,,,0
+Austin T,Westview High School 1,rr,chemistry,,,,,,,1.6
+Austin T,Westview High School 1,rr,physics,,,,,,,1.6
+Austin T,Westview High School 1,rr,math,,,,,,,0.842105
+Austin T,Westview High School 1,rr,ess,,,,,,,0
+hong jin k,Iolani School 2,rr,overall,,,,,,,4.08163
+hong jin k,Iolani School 2,rr,biology,,,,,,,0
+hong jin k,Iolani School 2,rr,chemistry,,,,,,,0
+hong jin k,Iolani School 2,rr,physics,,,,,,,2.4
+hong jin k,Iolani School 2,rr,math,,,,,,,2.52632
+hong jin k,Iolani School 2,rr,ess,,,,,,,-0.842105
+jeeva k,Mira Loma High School,rr,overall,,,,,,,4.0678
+jeeva k,Mira Loma High School,rr,biology,,,,,,,0
+jeeva k,Mira Loma High School,rr,chemistry,,,,,,,0
+jeeva k,Mira Loma High School,rr,physics,,,,,,,0
+jeeva k,Mira Loma High School,rr,math,,,,,,,0
+jeeva k,Mira Loma High School,rr,ess,,,,,,,4
+Saamik A,Eastlake High School,rr,overall,,,,,,,4.0678
+Saamik A,Eastlake High School,rr,biology,,,,,,,0
+Saamik A,Eastlake High School,rr,chemistry,,,,,,,0
+Saamik A,Eastlake High School,rr,physics,,,,,,,0
+Saamik A,Eastlake High School,rr,math,,,,,,,4
+Saamik A,Eastlake High School,rr,ess,,,,,,,0
+mike d,Harvard Westlake,rr,overall,,,,,,,4.05063
+mike d,Harvard Westlake,rr,biology,,,,,,,0
+mike d,Harvard Westlake,rr,chemistry,,,,,,,0
+mike d,Harvard Westlake,rr,physics,,,,,,,2
+mike d,Harvard Westlake,rr,math,,,,,,,2
+mike d,Harvard Westlake,rr,ess,,,,,,,0
+Srikar Karri,Bridgeland High School 2,rr,overall,,,,,,,4.0404
+Srikar Karri,Bridgeland High School 2,rr,biology,,,,,,,0.842105
+Srikar Karri,Bridgeland High School 2,rr,chemistry,,,,,,,0
+Srikar Karri,Bridgeland High School 2,rr,physics,,,,,,,0.8
+Srikar Karri,Bridgeland High School 2,rr,math,,,,,,,1.52381
+Srikar Karri,Bridgeland High School 2,rr,ess,,,,,,,0.842105
+elena h,Orange County School of the Arts,rr,overall,,,,,,,4
+elena h,Orange County School of the Arts,rr,biology,,,,,,,0
+elena h,Orange County School of the Arts,rr,chemistry,,,,,,,0
+elena h,Orange County School of the Arts,rr,physics,,,,,,,0
+elena h,Orange County School of the Arts,rr,math,,,,,,,0
+elena h,Orange County School of the Arts,rr,ess,,,,,,,4
+jaganesh r,The Frazer School,rr,overall,,,,,,,4
+jaganesh r,The Frazer School,rr,biology,,,,,,,0
+jaganesh r,The Frazer School,rr,chemistry,,,,,,,0
+jaganesh r,The Frazer School,rr,physics,,,,,,,0
+jaganesh r,The Frazer School,rr,math,,,,,,,0
+jaganesh r,The Frazer School,rr,ess,,,,,,,4
+jacob g,Palo Alto,rr,overall,,,,,,,4
+jacob g,Palo Alto,rr,biology,,,,,,,0
+jacob g,Palo Alto,rr,chemistry,,,,,,,0
+jacob g,Palo Alto,rr,physics,,,,,,,0
+jacob g,Palo Alto,rr,math,,,,,,,0
+jacob g,Palo Alto,rr,ess,,,,,,,4
+aarav g,Irvington High School,rr,overall,,,,,,,4
+aarav g,Irvington High School,rr,biology,,,,,,,0
+aarav g,Irvington High School,rr,chemistry,,,,,,,0
+aarav g,Irvington High School,rr,physics,,,,,,,0
+aarav g,Irvington High School,rr,math,,,,,,,3.2
+aarav g,Irvington High School,rr,ess,,,,,,,1
+bhaskar m,Baton Rouge Magnet High School,rr,overall,,,,,,,4
+bhaskar m,Baton Rouge Magnet High School,rr,biology,,,,,,,1
+bhaskar m,Baton Rouge Magnet High School,rr,chemistry,,,,,,,2
+bhaskar m,Baton Rouge Magnet High School,rr,physics,,,,,,,0
+bhaskar m,Baton Rouge Magnet High School,rr,math,,,,,,,0
+bhaskar m,Baton Rouge Magnet High School,rr,ess,,,,,,,1
+aditya d,South Texas ISD Science Academy,rr,overall,,,,,,,4
+aditya d,South Texas ISD Science Academy,rr,biology,,,,,,,0.8
+aditya d,South Texas ISD Science Academy,rr,chemistry,,,,,,,3.2
+aditya d,South Texas ISD Science Academy,rr,physics,,,,,,,-0.8
+aditya d,South Texas ISD Science Academy,rr,math,,,,,,,0
+aditya d,South Texas ISD Science Academy,rr,ess,,,,,,,0.842105
+Aariv A.,Irvington High School,rr,overall,,,,,,,4
+Aariv A.,Irvington High School,rr,biology,,,,,,,0
+Aariv A.,Irvington High School,rr,chemistry,,,,,,,0.941176
+Aariv A.,Irvington High School,rr,physics,,,,,,,0
+Aariv A.,Irvington High School,rr,math,,,,,,,3.2
+Aariv A.,Irvington High School,rr,ess,,,,,,,0
+olivia f,Jericho High School 2,rr,overall,,,,,,,4
+olivia f,Jericho High School 2,rr,biology,,,,,,,0
+olivia f,Jericho High School 2,rr,chemistry,,,,,,,1
+olivia f,Jericho High School 2,rr,physics,,,,,,,1
+olivia f,Jericho High School 2,rr,math,,,,,,,2
+olivia f,Jericho High School 2,rr,ess,,,,,,,0
+albert c,ASFA,rr,overall,,,,,,,4
+albert c,ASFA,rr,biology,,,,,,,0
+albert c,ASFA,rr,chemistry,,,,,,,0
+albert c,ASFA,rr,physics,,,,,,,2.4
+albert c,ASFA,rr,math,,,,,,,1.6
+albert c,ASFA,rr,ess,,,,,,,0
+Tovy G.,The Frazer School,rr,overall,,,,,,,4
+Tovy G.,The Frazer School,rr,biology,,,,,,,0
+Tovy G.,The Frazer School,rr,chemistry,,,,,,,0
+Tovy G.,The Frazer School,rr,physics,,,,,,,4
+Tovy G.,The Frazer School,rr,math,,,,,,,0
+Tovy G.,The Frazer School,rr,ess,,,,,,,0
+anmy t,Madison West,rr,overall,,,,,,,4
+anmy t,Madison West,rr,biology,,,,,,,0
+anmy t,Madison West,rr,chemistry,,,,,,,2.46154
+anmy t,Madison West,rr,physics,,,,,,,1.33333
+anmy t,Madison West,rr,math,,,,,,,0
+anmy t,Madison West,rr,ess,,,,,,,0
+advait a,Westview High School 2,rr,overall,,,,,,,4
+advait a,Westview High School 2,rr,biology,,,,,,,0
+advait a,Westview High School 2,rr,chemistry,,,,,,,4
+advait a,Westview High School 2,rr,physics,,,,,,,2
+advait a,Westview High School 2,rr,math,,,,,,,-2
+advait a,Westview High School 2,rr,ess,,,,,,,0
+carson p,Bridgeland High School,rr,overall,,,,,,,3.40426
+carson p,Bridgeland High School,rr,biology,,,,,,,0
+carson p,Bridgeland High School,rr,chemistry,,,,,,,1.77778
+carson p,Bridgeland High School,rr,physics,,,,,,,0.842105
+carson p,Bridgeland High School,rr,math,,,,,,,0.842105
+carson p,Bridgeland High School,rr,ess,,,,,,,0
+luke i,Punahou School,rr,overall,,,,,,,3.28767
+luke i,Punahou School,rr,biology,,,,,,,3.2
+luke i,Punahou School,rr,chemistry,,,,,,,0
+luke i,Punahou School,rr,physics,,,,,,,0
+luke i,Punahou School,rr,math,,,,,,,0
+luke i,Punahou School,rr,ess,,,,,,,0
+Mahdi K,Jericho High School,rr,overall,,,,,,,3.26531
+Mahdi K,Jericho High School,rr,biology,,,,,,,0.8
+Mahdi K,Jericho High School,rr,chemistry,,,,,,,0
+Mahdi K,Jericho High School,rr,physics,,,,,,,0.8
+Mahdi K,Jericho High School,rr,math,,,,,,,0.761905
+Mahdi K,Jericho High School,rr,ess,,,,,,,0.941176
+Yatharth M,Palm Desert High School,rr,overall,,,,,,,3.23232
+Yatharth M,Palm Desert High School,rr,biology,,,,,,,0
+Yatharth M,Palm Desert High School,rr,chemistry,,,,,,,0.8
+Yatharth M,Palm Desert High School,rr,physics,,,,,,,0.8
+Yatharth M,Palm Desert High School,rr,math,,,,,,,1.6
+Yatharth M,Palm Desert High School,rr,ess,,,,,,,0
+Samuel H,Palm Desert High School,rr,overall,,,,,,,3.23232
+Samuel H,Palm Desert High School,rr,biology,,,,,,,0.8
+Samuel H,Palm Desert High School,rr,chemistry,,,,,,,2.4
+Samuel H,Palm Desert High School,rr,physics,,,,,,,0
+Samuel H,Palm Desert High School,rr,math,,,,,,,0.8
+Samuel H,Palm Desert High School,rr,ess,,,,,,,-0.842105
+gyan c,WWPS 1,rr,overall,,,,,,,3.202
+gyan c,WWPS 1,rr,biology,,,,,,,0
+gyan c,WWPS 1,rr,chemistry,,,,,,,0
+gyan c,WWPS 1,rr,physics,,,,,,,0
+gyan c,WWPS 1,rr,math,,,,,,,0
+gyan c,WWPS 1,rr,ess,,,,,,,3.202
+Gabriella L,Irvington High School,rr,overall,,,,,,,3.2
+Gabriella L,Irvington High School,rr,biology,,,,,,,1.6
+Gabriella L,Irvington High School,rr,chemistry,,,,,,,0.761905
+Gabriella L,Irvington High School,rr,physics,,,,,,,0
+Gabriella L,Irvington High School,rr,math,,,,,,,0
+Gabriella L,Irvington High School,rr,ess,,,,,,,0.8
+armaan d,Orange County School of the Arts,rr,overall,,,,,,,2.80702
+armaan d,Orange County School of the Arts,rr,biology,,,,,,,0
+armaan d,Orange County School of the Arts,rr,chemistry,,,,,,,0
+armaan d,Orange County School of the Arts,rr,physics,,,,,,,0
+armaan d,Orange County School of the Arts,rr,math,,,,,,,0
+armaan d,Orange County School of the Arts,rr,ess,,,,,,,2.90909
+elaine c,Cupertino High School,rr,overall,,,,,,,2.75862
+elaine c,Cupertino High School,rr,biology,,,,,,,0
+elaine c,Cupertino High School,rr,chemistry,,,,,,,0
+elaine c,Cupertino High School,rr,physics,,,,,,,1.33333
+elaine c,Cupertino High School,rr,math,,,,,,,0
+elaine c,Cupertino High School,rr,ess,,,,,,,1.45455
+Lisa c,Harvard Westlake,rr,overall,,,,,,,2.75862
+Lisa c,Harvard Westlake,rr,biology,,,,,,,1.45455
+Lisa c,Harvard Westlake,rr,chemistry,,,,,,,2.66667
+Lisa c,Harvard Westlake,rr,physics,,,,,,,-1.33333
+Lisa c,Harvard Westlake,rr,math,,,,,,,0
+Lisa c,Harvard Westlake,rr,ess,,,,,,,0
+jacob l,Collierville,rr,overall,,,,,,,2.75862
+jacob l,Collierville,rr,biology,,,,,,,0
+jacob l,Collierville,rr,chemistry,,,,,,,2.66667
+jacob l,Collierville,rr,physics,,,,,,,0
+jacob l,Collierville,rr,math,,,,,,,1.33333
+jacob l,Collierville,rr,ess,,,,,,,-1.33333
+juyang l,Lexington High School,rr,overall,,,,,,,2.71186
+juyang l,Lexington High School,rr,biology,,,,,,,0
+juyang l,Lexington High School,rr,chemistry,,,,,,,0
+juyang l,Lexington High School,rr,physics,,,,,,,0
+juyang l,Lexington High School,rr,math,,,,,,,0
+juyang l,Lexington High School,rr,ess,,,,,,,3.2
+aarnav p,Chattahoochee High School,rr,overall,,,,,,,2.71186
+aarnav p,Chattahoochee High School,rr,biology,,,,,,,4
+aarnav p,Chattahoochee High School,rr,chemistry,,,,,,,0
+aarnav p,Chattahoochee High School,rr,physics,,,,,,,0
+aarnav p,Chattahoochee High School,rr,math,,,,,,,0
+aarnav p,Chattahoochee High School,rr,ess,,,,,,,-1.6
+rohan g,School of Geology,rr,overall,,,,,,,2.67
+rohan g,School of Geology,rr,biology,,,,,,,0
+rohan g,School of Geology,rr,chemistry,,,,,,,-1.33
+rohan g,School of Geology,rr,physics,,,,,,,1.33
+rohan g,School of Geology,rr,math,,,,,,,2.67
+rohan g,School of Geology,rr,ess,,,,,,,0
+shaan p,College Park High School,rr,overall,,,,,,,2.66667
+shaan p,College Park High School,rr,biology,,,,,,,0
+shaan p,College Park High School,rr,chemistry,,,,,,,0
+shaan p,College Park High School,rr,physics,,,,,,,0
+shaan p,College Park High School,rr,math,,,,,,,0
+shaan p,College Park High School,rr,ess,,,,,,,2.66667
+monish s,WWPS 1,rr,overall,,,,,,,2.66667
+monish s,WWPS 1,rr,biology,,,,,,,0
+monish s,WWPS 1,rr,chemistry,,,,,,,0
+monish s,WWPS 1,rr,physics,,,,,,,-1.33333
+monish s,WWPS 1,rr,math,,,,,,,4
+monish s,WWPS 1,rr,ess,,,,,,,0
+saketh k,College Park High School,rr,overall,,,,,,,2.66667
+saketh k,College Park High School,rr,biology,,,,,,,3.33333
+saketh k,College Park High School,rr,chemistry,,,,,,,0
+saketh k,College Park High School,rr,physics,,,,,,,0
+saketh k,College Park High School,rr,math,,,,,,,0
+saketh k,College Park High School,rr,ess,,,,,,,0
+kainoa t,Punahou School,rr,overall,,,,,,,2.55532
+kainoa t,Punahou School,rr,biology,,,,,,,0
+kainoa t,Punahou School,rr,chemistry,,,,,,,1.68211
+kainoa t,Punahou School,rr,physics,,,,,,,0.886667
+kainoa t,Punahou School,rr,math,,,,,,,0
+kainoa t,Punahou School,rr,ess,,,,,,,0
+Gurucharan C,Westview High School 1,rr,overall,,,,,,,2.44898
+Gurucharan C,Westview High School 1,rr,biology,,,,,,,2.4
+Gurucharan C,Westview High School 1,rr,chemistry,,,,,,,0
+Gurucharan C,Westview High School 1,rr,physics,,,,,,,0
+Gurucharan C,Westview High School 1,rr,math,,,,,,,0
+Gurucharan C,Westview High School 1,rr,ess,,,,,,,0
+bryan n,Mira Loma High School,rr,overall,,,,,,,2.42626
+bryan n,Mira Loma High School,rr,biology,,,,,,,0
+bryan n,Mira Loma High School,rr,chemistry,,,,,,,0
+bryan n,Mira Loma High School,rr,physics,,,,,,,-0.798
+bryan n,Mira Loma High School,rr,math,,,,,,,0
+bryan n,Mira Loma High School,rr,ess,,,,,,,3.2
+Siddu J,Palm Desert High School,rr,overall,,,,,,,2.42424
+Siddu J,Palm Desert High School,rr,biology,,,,,,,0
+Siddu J,Palm Desert High School,rr,chemistry,,,,,,,0
+Siddu J,Palm Desert High School,rr,physics,,,,,,,1.6
+Siddu J,Palm Desert High School,rr,math,,,,,,,0
+Siddu J,Palm Desert High School,rr,ess,,,,,,,0.842105
+rohan b,Thomas Jefferson 1,rr,overall,,,,,,,2.42424
+rohan b,Thomas Jefferson 1,rr,biology,,,,,,,0
+rohan b,Thomas Jefferson 1,rr,chemistry,,,,,,,1.52381
+rohan b,Thomas Jefferson 1,rr,physics,,,,,,,0
+rohan b,Thomas Jefferson 1,rr,math,,,,,,,0
+rohan b,Thomas Jefferson 1,rr,ess,,,,,,,0.842105
+ben d,Bridgeland High School,rr,overall,,,,,,,2.42424
+ben d,Bridgeland High School,rr,biology,,,,,,,0
+ben d,Bridgeland High School,rr,chemistry,,,,,,,0
+ben d,Bridgeland High School,rr,physics,,,,,,,0
+ben d,Bridgeland High School,rr,math,,,,,,,2.66667
+ben d,Bridgeland High School,rr,ess,,,,,,,0
+minghao g,North Hollywood 2,rr,overall,,,,,,,2.42424
+minghao g,North Hollywood 2,rr,biology,,,,,,,0
+minghao g,North Hollywood 2,rr,chemistry,,,,,,,0
+minghao g,North Hollywood 2,rr,physics,,,,,,,0
+minghao g,North Hollywood 2,rr,math,,,,,,,2.4
+minghao g,North Hollywood 2,rr,ess,,,,,,,0
+aarush p,WWPS 1,rr,overall,,,,,,,2.402
+aarush p,WWPS 1,rr,biology,,,,,,,0
+aarush p,WWPS 1,rr,chemistry,,,,,,,0
+aarush p,WWPS 1,rr,physics,,,,,,,0
+aarush p,WWPS 1,rr,math,,,,,,,2.402
+aarush p,WWPS 1,rr,ess,,,,,,,0
+advik s,ASFA,rr,overall,,,,,,,2.4
+advik s,ASFA,rr,biology,,,,,,,0.8
+advik s,ASFA,rr,chemistry,,,,,,,0
+advik s,ASFA,rr,physics,,,,,,,0
+advik s,ASFA,rr,math,,,,,,,1.6
+advik s,ASFA,rr,ess,,,,,,,0
+abhiram k,Irvington High School,rr,overall,,,,,,,2.4
+abhiram k,Irvington High School,rr,biology,,,,,,,0
+abhiram k,Irvington High School,rr,chemistry,,,,,,,0
+abhiram k,Irvington High School,rr,physics,,,,,,,2.4
+abhiram k,Irvington High School,rr,math,,,,,,,0
+abhiram k,Irvington High School,rr,ess,,,,,,,0
+rohith g,Mira Loma High School 2,rr,overall,,,,,,,2.28286
+rohith g,Mira Loma High School 2,rr,biology,,,,,,,1.9975
+rohith g,Mira Loma High School 2,rr,chemistry,,,,,,,0
+rohith g,Mira Loma High School 2,rr,physics,,,,,,,0
+rohith g,Mira Loma High School 2,rr,math,,,,,,,0
+rohith g,Mira Loma High School 2,rr,ess,,,,,,,0
+sidh k,Bridgeland High School,rr,overall,,,,,,,2.19178
+sidh k,Bridgeland High School,rr,biology,,,,,,,0
+sidh k,Bridgeland High School,rr,chemistry,,,,,,,0
+sidh k,Bridgeland High School,rr,physics,,,,,,,1.06667
+sidh k,Bridgeland High School,rr,math,,,,,,,0
+sidh k,Bridgeland High School,rr,ess,,,,,,,1.06667
+kush g,Lynbrook 2,rr,overall,,,,,,,2.16216
+kush g,Lynbrook 2,rr,biology,,,,,,,0
+kush g,Lynbrook 2,rr,chemistry,,,,,,,0
+kush g,Lynbrook 2,rr,physics,,,,,,,2
+kush g,Lynbrook 2,rr,math,,,,,,,0
+kush g,Lynbrook 2,rr,ess,,,,,,,0
+anya s,Cupertino High School,rr,overall,,,,,,,2.10526
+anya s,Cupertino High School,rr,biology,,,,,,,0
+anya s,Cupertino High School,rr,chemistry,,,,,,,0
+anya s,Cupertino High School,rr,physics,,,,,,,0
+anya s,Cupertino High School,rr,math,,,,,,,0
+anya s,Cupertino High School,rr,ess,,,,,,,2.28571
+peter y,Iolani School 2,rr,overall,,,,,,,2.05128
+peter y,Iolani School 2,rr,biology,,,,,,,0
+peter y,Iolani School 2,rr,chemistry,,,,,,,0
+peter y,Iolani School 2,rr,physics,,,,,,,0
+peter y,Iolani School 2,rr,math,,,,,,,0
+peter y,Iolani School 2,rr,ess,,,,,,,2.13333
+jaanya a,Cupertino High School,rr,overall,,,,,,,2.05128
+jaanya a,Cupertino High School,rr,biology,,,,,,,1.25
+jaanya a,Cupertino High School,rr,chemistry,,,,,,,0
+jaanya a,Cupertino High School,rr,physics,,,,,,,0
+jaanya a,Cupertino High School,rr,math,,,,,,,0
+jaanya a,Cupertino High School,rr,ess,,,,,,,1.33333
+zanda z,BISV,rr,overall,,,,,,,2.05128
+zanda z,BISV,rr,biology,,,,,,,0
+zanda z,BISV,rr,chemistry,,,,,,,0
+zanda z,BISV,rr,physics,,,,,,,0
+zanda z,BISV,rr,math,,,,,,,2
+zanda z,BISV,rr,ess,,,,,,,0
+haru g,Iolani School 1,rr,overall,,,,,,,2.05128
+haru g,Iolani School 1,rr,biology,,,,,,,2
+haru g,Iolani School 1,rr,chemistry,,,,,,,0
+haru g,Iolani School 1,rr,physics,,,,,,,0
+haru g,Iolani School 1,rr,math,,,,,,,0
+haru g,Iolani School 1,rr,ess,,,,,,,0
+Isabella M,The Frazer School,rr,overall,,,,,,,2
+Isabella M,The Frazer School,rr,biology,,,,,,,0
+Isabella M,The Frazer School,rr,chemistry,,,,,,,0
+Isabella M,The Frazer School,rr,physics,,,,,,,0
+Isabella M,The Frazer School,rr,math,,,,,,,0
+Isabella M,The Frazer School,rr,ess,,,,,,,2
+alli wang,Northwood High School,rr,overall,,,,,,,2
+alli wang,Northwood High School,rr,biology,,,,,,,0
+alli wang,Northwood High School,rr,chemistry,,,,,,,0
+alli wang,Northwood High School,rr,physics,,,,,,,0
+alli wang,Northwood High School,rr,math,,,,,,,0
+alli wang,Northwood High School,rr,ess,,,,,,,2
+marty h,VMATHS,rr,overall,,,,,,,2
+marty h,VMATHS,rr,biology,,,,,,,0
+marty h,VMATHS,rr,chemistry,,,,,,,0
+marty h,VMATHS,rr,physics,,,,,,,1
+marty h,VMATHS,rr,math,,,,,,,1
+marty h,VMATHS,rr,ess,,,,,,,0
+skyler b,ASFA,rr,overall,,,,,,,2
+skyler b,ASFA,rr,biology,,,,,,,0
+skyler b,ASFA,rr,chemistry,,,,,,,0
+skyler b,ASFA,rr,physics,,,,,,,2
+skyler b,ASFA,rr,math,,,,,,,0
+skyler b,ASFA,rr,ess,,,,,,,0
+daniel y,Iolani School 1,rr,overall,,,,,,,2
+daniel y,Iolani School 1,rr,biology,,,,,,,0
+daniel y,Iolani School 1,rr,chemistry,,,,,,,0
+daniel y,Iolani School 1,rr,physics,,,,,,,2
+daniel y,Iolani School 1,rr,math,,,,,,,0
+daniel y,Iolani School 1,rr,ess,,,,,,,0
+abhay a,Thomas Jefferson 2,rr,overall,,,,,,,1.63061
+abhay a,Thomas Jefferson 2,rr,biology,,,,,,,0
+abhay a,Thomas Jefferson 2,rr,chemistry,,,,,,,0.798
+abhay a,Thomas Jefferson 2,rr,physics,,,,,,,0.8
+abhay a,Thomas Jefferson 2,rr,math,,,,,,,0
+abhay a,Thomas Jefferson 2,rr,ess,,,,,,,0
+charles h,North Hollywood 2,rr,overall,,,,,,,1.61616
+charles h,North Hollywood 2,rr,biology,,,,,,,0
+charles h,North Hollywood 2,rr,chemistry,,,,,,,0.842105
+charles h,North Hollywood 2,rr,physics,,,,,,,0.8
+charles h,North Hollywood 2,rr,math,,,,,,,0
+charles h,North Hollywood 2,rr,ess,,,,,,,0
+decong z,Northwood High School,rr,overall,,,,,,,1.6
+decong z,Northwood High School,rr,biology,,,,,,,0
+decong z,Northwood High School,rr,chemistry,,,,,,,0
+decong z,Northwood High School,rr,physics,,,,,,,0.8
+decong z,Northwood High School,rr,math,,,,,,,0.8
+decong z,Northwood High School,rr,ess,,,,,,,0
+Arman T,Harvard Westlake,rr,overall,,,,,,,1.35593
+Arman T,Harvard Westlake,rr,biology,,,,,,,1.45455
+Arman T,Harvard Westlake,rr,chemistry,,,,,,,0
+Arman T,Harvard Westlake,rr,physics,,,,,,,0
+Arman T,Harvard Westlake,rr,math,,,,,,,0
+Arman T,Harvard Westlake,rr,ess,,,,,,,0
+Prachi A,Palm Desert High School,rr,overall,,,,,,,1.35593
+Prachi A,Palm Desert High School,rr,biology,,,,,,,1.33333
+Prachi A,Palm Desert High School,rr,chemistry,,,,,,,0
+Prachi A,Palm Desert High School,rr,physics,,,,,,,0
+Prachi A,Palm Desert High School,rr,math,,,,,,,0
+Prachi A,Palm Desert High School,rr,ess,,,,,,,0
+Shivam C,Eastlake High School,rr,overall,,,,,,,1.35254
+Shivam C,Eastlake High School,rr,biology,,,,,,,0
+Shivam C,Eastlake High School,rr,chemistry,,,,,,,0
+Shivam C,Eastlake High School,rr,physics,,,,,,,0
+Shivam C,Eastlake High School,rr,math,,,,,,,1.33
+Shivam C,Eastlake High School,rr,ess,,,,,,,0
+Neal Kedia,Eastlake High School,rr,overall,,,,,,,1.35254
+Neal Kedia,Eastlake High School,rr,biology,,,,,,,1.33
+Neal Kedia,Eastlake High School,rr,chemistry,,,,,,,0
+Neal Kedia,Eastlake High School,rr,physics,,,,,,,0
+Neal Kedia,Eastlake High School,rr,math,,,,,,,0
+Neal Kedia,Eastlake High School,rr,ess,,,,,,,0
+akhil m,WWPS 2,rr,overall,,,,,,,1.33333
+akhil m,WWPS 2,rr,biology,,,,,,,0
+akhil m,WWPS 2,rr,chemistry,,,,,,,1.33333
+akhil m,WWPS 2,rr,physics,,,,,,,0
+akhil m,WWPS 2,rr,math,,,,,,,0
+akhil m,WWPS 2,rr,ess,,,,,,,0
+sayan s,Palo Alto,rr,overall,,,,,,,1.06667
+sayan s,Palo Alto,rr,biology,,,,,,,0
+sayan s,Palo Alto,rr,chemistry,,,,,,,0
+sayan s,Palo Alto,rr,physics,,,,,,,-1
+sayan s,Palo Alto,rr,math,,,,,,,2.28571
+sayan s,Palo Alto,rr,ess,,,,,,,0
+avan g,Thomas Jefferson 2,rr,overall,,,,,,,1.02564
+avan g,Thomas Jefferson 2,rr,biology,,,,,,,0
+avan g,Thomas Jefferson 2,rr,chemistry,,,,,,,0
+avan g,Thomas Jefferson 2,rr,physics,,,,,,,1.25
+avan g,Thomas Jefferson 2,rr,math,,,,,,,-1.33333
+avan g,Thomas Jefferson 2,rr,ess,,,,,,,1.33333
+eunho n,Cupertino High School,rr,overall,,,,,,,1.02564
+eunho n,Cupertino High School,rr,biology,,,,,,,0
+eunho n,Cupertino High School,rr,chemistry,,,,,,,1.25
+eunho n,Cupertino High School,rr,physics,,,,,,,0
+eunho n,Cupertino High School,rr,math,,,,,,,0
+eunho n,Cupertino High School,rr,ess,,,,,,,0
+krish s,Mira Loma High School,rr,overall,,,,,,,1.01013
+krish s,Mira Loma High School,rr,biology,,,,,,,0.9975
+krish s,Mira Loma High School,rr,chemistry,,,,,,,0
+krish s,Mira Loma High School,rr,physics,,,,,,,0
+krish s,Mira Loma High School,rr,math,,,,,,,0
+krish s,Mira Loma High School,rr,ess,,,,,,,0
+Lisa X,Westview High School 2,rr,overall,,,,,,,1
+Lisa X,Westview High School 2,rr,biology,,,,,,,0
+Lisa X,Westview High School 2,rr,chemistry,,,,,,,1
+Lisa X,Westview High School 2,rr,physics,,,,,,,0
+Lisa X,Westview High School 2,rr,math,,,,,,,0
+Lisa X,Westview High School 2,rr,ess,,,,,,,0
+audrey p,Jericho High School 2,rr,overall,,,,,,,0
+audrey p,Jericho High School 2,rr,biology,,,,,,,-2
+audrey p,Jericho High School 2,rr,chemistry,,,,,,,0
+audrey p,Jericho High School 2,rr,physics,,,,,,,0
+audrey p,Jericho High School 2,rr,math,,,,,,,0
+audrey p,Jericho High School 2,rr,ess,,,,,,,2
+andrew z,College Park High School,rr,overall,,,,,,,0
+andrew z,College Park High School,rr,biology,,,,,,,0
+andrew z,College Park High School,rr,chemistry,,,,,,,0
+andrew z,College Park High School,rr,physics,,,,,,,-1.33333
+andrew z,College Park High School,rr,math,,,,,,,1.33333
+andrew z,College Park High School,rr,ess,,,,,,,0
+rishabh g,Baton Rouge Magnet High School,rr,overall,,,,,,,0
+rishabh g,Baton Rouge Magnet High School,rr,biology,,,,,,,0
+rishabh g,Baton Rouge Magnet High School,rr,chemistry,,,,,,,0
+rishabh g,Baton Rouge Magnet High School,rr,physics,,,,,,,-1.33333
+rishabh g,Baton Rouge Magnet High School,rr,math,,,,,,,1.33333
+rishabh g,Baton Rouge Magnet High School,rr,ess,,,,,,,0
+john b k,Mira Loma High School 2,rr,overall,,,,,,,0
+john b k,Mira Loma High School 2,rr,biology,,,,,,,0
+john b k,Mira Loma High School 2,rr,chemistry,,,,,,,0
+john b k,Mira Loma High School 2,rr,physics,,,,,,,0
+john b k,Mira Loma High School 2,rr,math,,,,,,,0
+john b k,Mira Loma High School 2,rr,ess,,,,,,,0
+alex z,Plano West Senior High,rr,overall,,,,,,,0
+alex z,Plano West Senior High,rr,biology,,,,,,,0
+alex z,Plano West Senior High,rr,chemistry,,,,,,,0
+alex z,Plano West Senior High,rr,physics,,,,,,,0
+alex z,Plano West Senior High,rr,math,,,,,,,0
+alex z,Plano West Senior High,rr,ess,,,,,,,0
+Sanjana B,Westview High School 2,rr,overall,,,,,,,0
+Sanjana B,Westview High School 2,rr,biology,,,,,,,0
+Sanjana B,Westview High School 2,rr,chemistry,,,,,,,0
+Sanjana B,Westview High School 2,rr,physics,,,,,,,0
+Sanjana B,Westview High School 2,rr,math,,,,,,,0
+Sanjana B,Westview High School 2,rr,ess,,,,,,,0
+Jessie C,Harvard Westlake,rr,overall,,,,,,,0
+Jessie C,Harvard Westlake,rr,biology,,,,,,,0
+Jessie C,Harvard Westlake,rr,chemistry,,,,,,,0
+Jessie C,Harvard Westlake,rr,physics,,,,,,,0
+Jessie C,Harvard Westlake,rr,math,,,,,,,0
+Jessie C,Harvard Westlake,rr,ess,,,,,,,0
+Kaylee T,Bridgeland High School 2,rr,overall,,,,,,,0
+Kaylee T,Bridgeland High School 2,rr,biology,,,,,,,0
+Kaylee T,Bridgeland High School 2,rr,chemistry,,,,,,,0
+Kaylee T,Bridgeland High School 2,rr,physics,,,,,,,0
+Kaylee T,Bridgeland High School 2,rr,math,,,,,,,0
+Kaylee T,Bridgeland High School 2,rr,ess,,,,,,,0
+santiago o,South Texas ISD Science Academy,rr,overall,,,,,,,0
+santiago o,South Texas ISD Science Academy,rr,biology,,,,,,,0
+santiago o,South Texas ISD Science Academy,rr,chemistry,,,,,,,0
+santiago o,South Texas ISD Science Academy,rr,physics,,,,,,,0
+santiago o,South Texas ISD Science Academy,rr,math,,,,,,,0
+santiago o,South Texas ISD Science Academy,rr,ess,,,,,,,0
+eli l,Madison West,rr,overall,,,,,,,0
+eli l,Madison West,rr,biology,,,,,,,0
+eli l,Madison West,rr,chemistry,,,,,,,0
+eli l,Madison West,rr,physics,,,,,,,0
+eli l,Madison West,rr,math,,,,,,,0
+eli l,Madison West,rr,ess,,,,,,,0
+benjamin m,Hunter College High School,rr,overall,,,,,,,0
+benjamin m,Hunter College High School,rr,biology,,,,,,,0
+benjamin m,Hunter College High School,rr,chemistry,,,,,,,0
+benjamin m,Hunter College High School,rr,physics,,,,,,,0
+benjamin m,Hunter College High School,rr,math,,,,,,,0
+benjamin m,Hunter College High School,rr,ess,,,,,,,0
+alli w,Northwood High School,rr,overall,,,,,,,0
+alli w,Northwood High School,rr,biology,,,,,,,0
+alli w,Northwood High School,rr,chemistry,,,,,,,0
+alli w,Northwood High School,rr,physics,,,,,,,0
+alli w,Northwood High School,rr,math,,,,,,,0
+alli w,Northwood High School,rr,ess,,,,,,,0
+kevin c,Northwood High School,rr,overall,,,,,,,0
+kevin c,Northwood High School,rr,biology,,,,,,,0
+kevin c,Northwood High School,rr,chemistry,,,,,,,0
+kevin c,Northwood High School,rr,physics,,,,,,,0
+kevin c,Northwood High School,rr,math,,,,,,,0
+kevin c,Northwood High School,rr,ess,,,,,,,0
+henry z,Arcadia High School 1,rr,overall,,,,,,,0
+henry z,Arcadia High School 1,rr,biology,,,,,,,0
+henry z,Arcadia High School 1,rr,chemistry,,,,,,,0
+henry z,Arcadia High School 1,rr,physics,,,,,,,0
+henry z,Arcadia High School 1,rr,math,,,,,,,0
+henry z,Arcadia High School 1,rr,ess,,,,,,,0
+johnson p,Arcadia High School 1,rr,overall,,,,,,,0
+johnson p,Arcadia High School 1,rr,biology,,,,,,,0
+johnson p,Arcadia High School 1,rr,chemistry,,,,,,,0
+johnson p,Arcadia High School 1,rr,physics,,,,,,,0
+johnson p,Arcadia High School 1,rr,math,,,,,,,0
+johnson p,Arcadia High School 1,rr,ess,,,,,,,0
+jeremy y,Palo Alto,rr,overall,,,,,,,0
+jeremy y,Palo Alto,rr,biology,,,,,,,0
+jeremy y,Palo Alto,rr,chemistry,,,,,,,0
+jeremy y,Palo Alto,rr,physics,,,,,,,0
+jeremy y,Palo Alto,rr,math,,,,,,,0
+jeremy y,Palo Alto,rr,ess,,,,,,,0
+gloria h,Morgantown High School,rr,overall,,,,,,,0
+gloria h,Morgantown High School,rr,biology,,,,,,,0
+gloria h,Morgantown High School,rr,chemistry,,,,,,,0
+gloria h,Morgantown High School,rr,physics,,,,,,,0
+gloria h,Morgantown High School,rr,math,,,,,,,0
+gloria h,Morgantown High School,rr,ess,,,,,,,0
+Arya.R,Irvington High School,rr,overall,,,,,,,0
+Arya.R,Irvington High School,rr,biology,,,,,,,0
+Arya.R,Irvington High School,rr,chemistry,,,,,,,0
+Arya.R,Irvington High School,rr,physics,,,,,,,0
+Arya.R,Irvington High School,rr,math,,,,,,,0
+Arya.R,Irvington High School,rr,ess,,,,,,,0
+simon z,Lexington High School,rr,overall,,,,,,,0
+simon z,Lexington High School,rr,biology,,,,,,,1.33333
+simon z,Lexington High School,rr,chemistry,,,,,,,-1.33333
+simon z,Lexington High School,rr,physics,,,,,,,0
+simon z,Lexington High School,rr,math,,,,,,,0
+simon z,Lexington High School,rr,ess,,,,,,,0
+minh n,Punahou School,rr,overall,,,,,,,0
+minh n,Punahou School,rr,biology,,,,,,,1.45455
+minh n,Punahou School,rr,chemistry,,,,,,,-1.45455
+minh n,Punahou School,rr,physics,,,,,,,0
+minh n,Punahou School,rr,math,,,,,,,0
+minh n,Punahou School,rr,ess,,,,,,,0
+nathaniel o,North Hollywood 1,rr,overall,,,,,,,0
+nathaniel o,North Hollywood 1,rr,biology,,,,,,,0
+nathaniel o,North Hollywood 1,rr,chemistry,,,,,,,4
+nathaniel o,North Hollywood 1,rr,physics,,,,,,,-4
+nathaniel o,North Hollywood 1,rr,math,,,,,,,0
+nathaniel o,North Hollywood 1,rr,ess,,,,,,,0
+jamie w,Arcadia High School 2,rr,overall,,,,,,,0
+jamie w,Arcadia High School 2,rr,biology,,,,,,,1.77778
+jamie w,Arcadia High School 2,rr,chemistry,,,,,,,0
+jamie w,Arcadia High School 2,rr,physics,,,,,,,0
+jamie w,Arcadia High School 2,rr,math,,,,,,,0
+jamie w,Arcadia High School 2,rr,ess,,,,,,,-2
+jonathan y,Palo Alto,rr,overall,,,,,,,-1.33333
+jonathan y,Palo Alto,rr,biology,,,,,,,0
+jonathan y,Palo Alto,rr,chemistry,,,,,,,0
+jonathan y,Palo Alto,rr,physics,,,,,,,0
+jonathan y,Palo Alto,rr,math,,,,,,,0
+jonathan y,Palo Alto,rr,ess,,,,,,,-1.33333

@@ -22,7 +22,13 @@ sources:
   role: stats
   url: https://prometheus.science/s/CAST-Stats.xlsx
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g2_esbot:parse_cast
+parser_options:
+  schools:
+    Hwite Bread 1: Mira Loma High School
+    Hwite Bread 2: Mira Loma High School
+status: partial
+notes: 'Games only: 4 prelim pools (36 games; no round numbers) and knockout rounds (octo/quarterfinals with scores; semifinal
+  winners taken from the Round of 2 tab, no scores; final result not published, omitted). The CAST stats xlsx lists players
+  by first name without teams, so player stats were not written. ''Hwite Bread 1/2'' are Mira Loma (the stats sheet calls
+  them Mira Loma 1/2).'

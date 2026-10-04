@@ -1,0 +1,18 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,,1,Io Physics,Io Earth,134,36,1,0,pool Campbell; round not recorded
+g2,rr,,1,Io Physics,Mililani,172,8,1,0,pool Campbell; round not recorded
+g3,rr,,1,Io Physics,Punahou 8ths,112,32,1,0,pool Campbell; round not recorded
+g4,rr,,1,Io Earth,Mililani,68,42,1,0,pool Campbell; round not recorded
+g5,rr,,1,Io Earth,Punahou 8ths,82,36,1,0,pool Campbell; round not recorded
+g6,rr,,1,Mililani,Punahou 8ths,52,32,1,0,pool Campbell; round not recorded
+g7,rr,,1,Punahou Beta Pleated Sheets,Io Space,126,30,1,0,pool Urry; round not recorded
+g8,rr,,1,Punahou Beta Pleated Sheets,Io Math,72,60,1,0,pool Urry; round not recorded
+g9,rr,,1,Punahou Beta Pleated Sheets,Punahou Basalt,56,48,1,0,pool Urry; round not recorded
+g10,rr,,1,Io Space,Io Math,56,24,1,0,pool Urry; round not recorded
+g11,rr,,1,Io Space,Punahou Basalt,94,26,1,0,pool Urry; round not recorded
+g12,rr,,1,Io Math,Punahou Basalt,38,68,2,0,pool Urry; round not recorded
+g13,playoff,QF,4,Io Space,Punahou Basalt,32,66,2,0,
+g14,playoff,QF,4,Mililani,Io Earth,,,2,0,no score entered; winner from bracket advancement
+g15,playoff,SF,5,Punahou Beta Pleated Sheets,Io Earth,40,30,1,0,
+g16,playoff,SF,5,Io Physics,Punahou Basalt,96,20,1,0,
+g17,playoff,Final,6,Punahou Beta Pleated Sheets,Io Physics,80,30,1,0,score not in the bracket sheet; from the source's scoreboard

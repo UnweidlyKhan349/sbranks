@@ -18,7 +18,11 @@ sources:
   sheet_id: 1dCUhkYYl558NAR-r5M8pAi8evmyeKaHw
   url: https://docs.google.com/spreadsheets/d/1dCUhkYYl558NAR-r5M8pAi8evmyeKaHw/edit#gid=118416428
   file: results.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: g5_bracket_only:parse
+parser_options:
+  tab: BSB DE Bracket
+  unscored_winners:
+    Mira Loma|Cupertino A: Mira Loma
+status: partial
+notes: 'Only the 16-team double-elimination bracket survives (31 games; 2 without scores - winners from bracket advancement).
+  The round-robin/wild-card tabs contain only #REF! errors, so RR results and all stats are missing.'

@@ -1,0 +1,27 @@
+{
+  "tournament_id": "2022-12-01-wsbt",
+  "counts": {
+    "teams": 98,
+    "games": 46,
+    "games_with_scores": 40,
+    "player_stat_rows": 2051,
+    "players": 293,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "L4: Westminster vs Mira Loma B: source score 80-80; winner per source Mira Loma B",
+    "10 players fit several teams and were skipped: Aaron0109#6251 (D.A.R.N/Koch Snowflakes), Birdnhorse789#4944 (Pikmd/Yeetus Thy Fetus), Dusty Peanut#2894 (Pikmd/Yeetus Thy Fetus), Fifamercy#5299 (Campbell Soup/D.A.R.N), Jackydubs#0001 (Ghs/Yeetus Thy Fetus), Minsoe#1533 (Campbell Soup/D.A.R.N), Pikachu_Hat_Kid#8003 (D.A.R.N/Koch Snowflakes), Robynest#6625 (River-Hawks-A/Scioly), Yeetus Thy Fetus#9143 (Ghs/Yeetus Thy Fetus), Zy#9554 (River-Hawks-A/Scioly)",
+    "12 players with no buzzes could not be placed on a team: Arku#7780, Coolgreen#2674, Sumirkat#6152, Theman1483#3141, #Washingmachine#1580, Rom#0385, Richardlll#5843, Treefallgap#0407, Arjunkie#5771, V_Chocolate#1728, Geetimuss#1828, Tennis#6994"
+  ],
+  "parser": "g3_online:parse_wsbt"
+}

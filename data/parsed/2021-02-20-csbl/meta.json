@@ -1,0 +1,25 @@
+{
+  "tournament_id": "2021-02-20-csbl",
+  "counts": {
+    "teams": 22,
+    "games": 57,
+    "games_with_scores": 53,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "group C: 2 pairings fit the results; games whose round is ambiguous are kept with their (certain) result but without scores"
+  ],
+  "parser": "g3_online:parse_csbl2021"
+}

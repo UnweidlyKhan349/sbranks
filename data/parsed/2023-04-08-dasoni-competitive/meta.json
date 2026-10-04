@@ -1,0 +1,30 @@
+{
+  "tournament_id": "2023-04-08-dasoni-competitive",
+  "counts": {
+    "teams": 14,
+    "games": 26,
+    "games_with_scores": 18,
+    "player_stat_rows": 0,
+    "players": 0,
+    "team_game_subject_rows": 0,
+    "player_game_stat_rows": 0
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": false,
+    "player_subject_stats": false,
+    "player_tuh": false,
+    "team_game_subjects": false,
+    "player_game_stats": false
+  },
+  "warnings": [
+    "Lakeside A RR1 (W 98.0) had no opponent in slot 1; not recorded",
+    "Dulles RR3 (W 136.0) had no opponent in slot 3; not recorded",
+    "MSJ B RR2 (W 50.0) had no opponent in slot 2; not recorded",
+    "Enloe A RR1 (W 98.0) had no opponent in slot 2; not recorded",
+    "Niskayuna RR3 (W 12.0) had no opponent in slot 4; not recorded",
+    "Iolani RR2 (W 42.0) had no opponent in slot 3; not recorded"
+  ],
+  "parser": "g4_dasoni:parse_2023_competitive"
+}

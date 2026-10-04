@@ -1,0 +1,43 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+RR-high-school-1-2,rr,High School,1,Ames High School,Buchholz High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-1-3,rr,High School,1,Ames High School,Dulles High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-1-4,rr,High School,1,Ames High School,Lexington High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-1-5,rr,High School,1,Ames High School,Lynbrook High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-1-6,rr,High School,1,Ames High School,Mission San Jose High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-1-7,rr,High School,1,Ames High School,Montgomery Blair High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-1-8,rr,High School,1,Ames High School,Tesla STEM High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-2-3,rr,High School,1,Buchholz High School,Dulles High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-2-4,rr,High School,1,Buchholz High School,Lexington High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-2-5,rr,High School,1,Buchholz High School,Lynbrook High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-2-6,rr,High School,1,Buchholz High School,Mission San Jose High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-2-7,rr,High School,1,Buchholz High School,Montgomery Blair High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-2-8,rr,High School,1,Buchholz High School,Tesla STEM High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-3-4,rr,High School,1,Dulles High School,Lexington High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-3-5,rr,High School,1,Dulles High School,Lynbrook High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-3-6,rr,High School,1,Dulles High School,Mission San Jose High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-3-7,rr,High School,1,Dulles High School,Montgomery Blair High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-3-8,rr,High School,1,Dulles High School,Tesla STEM High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-4-5,rr,High School,1,Lexington High School,Lynbrook High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-4-6,rr,High School,1,Lexington High School,Mission San Jose High School,,,T,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-4-7,rr,High School,1,Lexington High School,Montgomery Blair High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-4-8,rr,High School,1,Lexington High School,Tesla STEM High School,,,1,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-5-6,rr,High School,1,Lynbrook High School,Mission San Jose High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-5-7,rr,High School,1,Lynbrook High School,Montgomery Blair High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-5-8,rr,High School,1,Lynbrook High School,Tesla STEM High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-6-7,rr,High School,1,Mission San Jose High School,Montgomery Blair High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-6-8,rr,High School,1,Mission San Jose High School,Tesla STEM High School,,,2,0,High School division; 2/1/0 grid (no scores)
+RR-high-school-7-8,rr,High School,1,Montgomery Blair High School,Tesla STEM High School,,,1,0,High School division; 2/1/0 grid (no scores)
+GM-1,playoff,DE1,11,Montgomery Blair High School,Lynbrook High School,,,2,0,no-loss bracket; Ranking #1 vs Ranking #8
+GM-2,playoff,DE1,11,Dulles High School,Ames High School,,,1,0,no-loss bracket; Ranking #4 vs Ranking #5
+GM-3,playoff,DE1,11,Lexington High School,Tesla STEM High School,,,1,0,no-loss bracket; Ranking #3 vs Ranking #6
+GM-4,playoff,DE1,11,Buchholz High School,Mission San Jose High School,,,2,0,no-loss bracket; Ranking #2 vs Ranking #7
+GM-5,playoff,DE2,12,Lynbrook High School,Dulles High School,,,1,0,no-loss bracket; Winner GM-1 vs Winner GM-2
+GM-6,playoff,DE2,12,Lexington High School,Mission San Jose High School,,,2,0,no-loss bracket; Winner GM-3 vs Winner GM-4
+GM-A,playoff,DE2,12,Montgomery Blair High School,Ames High School,,,1,0,one-loss bracket; One-Loss from GM-1 vs One-Loss from GM-2
+GM-B,playoff,DE2,12,Tesla STEM High School,Buchholz High School,,,1,0,one-loss bracket; One-Loss from GM-3 vs One-Loss from GM-4
+GM-C,playoff,DE3,13,Lexington High School,Montgomery Blair High School,,,2,0,one-loss bracket; One-Loss from GM-6 vs Winner GM-A
+GM-D,playoff,DE3,13,Tesla STEM High School,Dulles High School,,,1,0,one-loss bracket; Winner GM-B vs One-Loss from GM-5
+GM-7,playoff,DE4,14,Lynbrook High School,Mission San Jose High School,,,1,0,no-loss bracket; Winner GM-5 vs Winner GM-6
+GM-E,playoff,DE4,14,Montgomery Blair High School,Tesla STEM High School,,,2,0,one-loss bracket; Winner GM-C vs Winner GM-D
+GM-F,playoff,DE5,15,Mission San Jose High School,Tesla STEM High School,,,1,0,one-loss bracket; One-Loss from GM-7 vs Winner GM-E
+GM-8,playoff,DE6,16,Mission San Jose High School,Lynbrook High School,,,2,0,final bracket; Winner GM-F vs Winner GM-7

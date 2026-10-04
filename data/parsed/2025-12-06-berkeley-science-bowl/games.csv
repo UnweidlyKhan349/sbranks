@@ -1,0 +1,200 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Davidson A,Quarry Lane B,236,22,1,0,division A
+g2,rr,RR1,1,Lynbrook A,Saint Francis,198,46,1,0,division A
+g3,rr,RR1,1,Mountain House,Homestead,78,82,2,0,division A
+g4,rr,RR1,1,Abraham Lincoln,University B,50,104,2,0,division B
+g5,rr,RR1,1,Amador Valley B,Irvington A,138,64,1,0,division B
+g6,rr,RR1,1,BASIS Fremont,Dougherty Valley A,68,194,2,0,division B
+g7,rr,RR1,1,Davidson B,Stanford Online,160,60,1,0,division C
+g8,rr,RR1,1,Folsom City,University A,110,196,2,0,division C
+g9,rr,RR1,1,Irvington B,Mira Loma,40,118,2,0,division C
+g10,rr,RR1,1,Foothill B,Portola,34,170,2,0,division D
+g11,rr,RR1,1,North Hollywood B,Palo Alto A,132,140,2,0,division D
+g12,rr,RR1,1,San Gabriel,Palo Alto B,212,4,1,0,division E
+g13,rr,RR1,1,Archbishop Mitty,Dougherty Valley B,86,124,2,0,division E
+g14,rr,RR1,1,BASIS Silicon Valley A,Cupertino B,184,16,1,0,division E
+g15,rr,RR1,1,Brooklyn,Quarry Lane A,16,122,2,0,division F
+g16,rr,RR1,1,BASIS Silicon Valley B,North Hollywood A,44,232,2,0,division F
+g17,rr,RR1,1,Canyon Crest,Cupertino A,128,48,1,0,division F
+g18,rr,RR1,1,Arnold O. Beckman,Tokay,146,30,1,0,division G
+g19,rr,RR1,1,Iolani,Saratoga A,138,110,1,0,division G
+g20,rr,RR1,1,Lynbrook B,Mission San Jose A,66,204,2,0,division G
+g21,rr,RR1,1,Amador Valley A,Saratoga B,192,38,1,0,division H
+g22,rr,RR1,1,Mission San Jose B,Hillsdale,156,56,1,0,division H
+g23,rr,RR1,1,Brave Christian,Foothill A,26,156,2,0,division H
+g24,rr,RR2,2,Davidson A,Saint Francis,218,38,1,0,division A
+g25,rr,RR2,2,Mountain House,Quarry Lane B,102,50,1,0,division A
+g26,rr,RR2,2,Lynbrook A,Homestead,214,58,1,0,division A
+g27,rr,RR2,2,Abraham Lincoln,Irvington A,34,80,2,0,division B
+g28,rr,RR2,2,BASIS Fremont,University B,82,122,2,0,division B
+g29,rr,RR2,2,Amador Valley B,Dougherty Valley A,48,168,2,0,division B
+g30,rr,RR2,2,Davidson B,University A,90,174,2,0,division C
+g31,rr,RR2,2,Irvington B,Stanford Online,36,96,2,0,division C
+g32,rr,RR2,2,Folsom City,Mira Loma,86,76,1,0,division C
+g33,rr,RR2,2,Chico,Portola,8,184,2,0,division D
+g34,rr,RR2,2,Foothill B,Palo Alto A,18,210,2,0,division D
+g35,rr,RR2,2,San Gabriel,Dougherty Valley B,146,90,1,0,division E
+g36,rr,RR2,2,BASIS Silicon Valley A,Palo Alto B,170,20,1,0,division E
+g37,rr,RR2,2,Archbishop Mitty,Cupertino B,188,54,1,0,division E
+g38,rr,RR2,2,Brooklyn,North Hollywood A,16,202,2,0,division F
+g39,rr,RR2,2,Canyon Crest,Quarry Lane A,150,34,1,0,division F
+g40,rr,RR2,2,BASIS Silicon Valley B,Cupertino A,62,82,2,0,division F
+g41,rr,RR2,2,Arnold O. Beckman,Saratoga A,72,96,2,0,division G
+g42,rr,RR2,2,Lynbrook B,Tokay,194,26,1,0,division G
+g43,rr,RR2,2,Iolani,Mission San Jose A,102,204,2,0,division G
+g44,rr,RR2,2,Amador Valley A,Hillsdale,248,26,1,0,division H
+g45,rr,RR2,2,Brave Christian,Saratoga B,8,184,2,0,division H
+g46,rr,RR2,2,Mission San Jose B,Foothill A,128,90,1,0,division H
+g47,rr,RR3,3,Homestead,Saint Francis,36,122,2,0,division A
+g48,rr,RR3,3,Davidson A,Mountain House,224,22,1,0,division A
+g49,rr,RR3,3,Lynbrook A,Quarry Lane B,194,62,1,0,division A
+g50,rr,RR3,3,Dougherty Valley A,Irvington A,52,70,2,0,division B
+g51,rr,RR3,3,Abraham Lincoln,BASIS Fremont,12,184,2,0,division B
+g52,rr,RR3,3,Amador Valley B,University B,50,138,2,0,division B
+g53,rr,RR3,3,Mira Loma,University A,22,254,2,0,division C
+g54,rr,RR3,3,Davidson B,Irvington B,112,48,1,0,division C
+g55,rr,RR3,3,Folsom City,Stanford Online,108,38,1,0,division C
+g56,rr,RR3,3,Palo Alto A,Portola,156,66,1,0,division D
+g57,rr,RR3,3,Chico,North Hollywood B,44,194,2,0,division D
+g58,rr,RR3,3,Cupertino B,Dougherty Valley B,30,136,2,0,division E
+g59,rr,RR3,3,San Gabriel,BASIS Silicon Valley A,90,86,1,0,division E
+g60,rr,RR3,3,Archbishop Mitty,Palo Alto B,216,26,1,0,division E
+g61,rr,RR3,3,Cupertino A,North Hollywood A,26,220,2,0,division F
+g62,rr,RR3,3,Brooklyn,Canyon Crest,16,164,2,0,division F
+g63,rr,RR3,3,BASIS Silicon Valley B,Quarry Lane A,106,22,1,0,division F
+g64,rr,RR3,3,Mission San Jose A,Saratoga A,134,64,1,0,division G
+g65,rr,RR3,3,Arnold O. Beckman,Lynbrook B,76,144,2,0,division G
+g66,rr,RR3,3,Iolani,Tokay,158,68,1,0,division G
+g67,rr,RR3,3,Foothill A,Hillsdale,190,30,1,0,division H
+g68,rr,RR3,3,Amador Valley A,Brave Christian,190,34,1,0,division H
+g69,rr,RR3,3,Mission San Jose B,Saratoga B,94,86,1,0,division H
+g70,rr,RR4,4,Lynbrook A,Mountain House,212,46,1,0,division A
+g71,rr,RR4,4,Davidson A,Homestead,136,56,1,0,division A
+g72,rr,RR4,4,Saint Francis,Quarry Lane B,74,42,1,0,division A
+g73,rr,RR4,4,Amador Valley B,BASIS Fremont,56,66,2,0,division B
+g74,rr,RR4,4,Abraham Lincoln,Dougherty Valley A,24,164,2,0,division B
+g75,rr,RR4,4,Irvington A,University B,70,78,2,0,division B
+g76,rr,RR4,4,Folsom City,Irvington B,120,34,1,0,division C
+g77,rr,RR4,4,Davidson B,Mira Loma,40,118,2,0,division C
+g78,rr,RR4,4,University A,Stanford Online,156,56,1,0,division C
+g79,rr,RR4,4,Foothill B,North Hollywood B,8,160,2,0,division D
+g80,rr,RR4,4,Chico,Palo Alto A,24,166,2,0,division D
+g81,rr,RR4,4,Archbishop Mitty,BASIS Silicon Valley A,114,126,2,0,division E
+g82,rr,RR4,4,San Gabriel,Cupertino B,102,46,1,0,division E
+g83,rr,RR4,4,Dougherty Valley B,Palo Alto B,112,30,1,0,division E
+g84,rr,RR4,4,BASIS Silicon Valley B,Canyon Crest,72,96,2,0,division F
+g85,rr,RR4,4,Brooklyn,Cupertino A,22,88,2,0,division F
+g86,rr,RR4,4,North Hollywood A,Quarry Lane A,188,12,1,0,division F
+g87,rr,RR4,4,Iolani,Lynbrook B,90,114,2,0,division G
+g88,rr,RR4,4,Arnold O. Beckman,Mission San Jose A,60,174,2,0,division G
+g89,rr,RR4,4,Saratoga A,Tokay,178,44,1,0,division G
+g90,rr,RR4,4,Mission San Jose B,Brave Christian,142,24,1,0,division H
+g91,rr,RR4,4,Amador Valley A,Foothill A,128,120,1,0,division H
+g92,rr,RR4,4,Hillsdale,Saratoga B,38,166,2,0,division H
+g93,rr,RR5,5,Mountain House,Saint Francis,100,62,1,0,division A
+g94,rr,RR5,5,Homestead,Quarry Lane B,42,76,2,0,division A
+g95,rr,RR5,5,Davidson A,Lynbrook A,144,122,1,0,division A
+g96,rr,RR5,5,BASIS Fremont,Irvington A,68,80,2,0,division B
+g97,rr,RR5,5,Dougherty Valley A,University B,142,44,1,0,division B
+g98,rr,RR5,5,Abraham Lincoln,Amador Valley B,54,40,1,0,division B
+g99,rr,RR5,5,Irvington B,University A,60,172,2,0,division C
+g100,rr,RR5,5,Mira Loma,Stanford Online,136,66,1,0,division C
+g101,rr,RR5,5,Davidson B,Folsom City,64,102,2,0,division C
+g102,rr,RR5,5,North Hollywood B,Portola,202,12,1,0,division D
+g103,rr,RR5,5,Chico,Foothill B,46,94,2,0,division D
+g104,rr,RR5,5,BASIS Silicon Valley A,Dougherty Valley B,74,100,2,0,division E
+g105,rr,RR5,5,Cupertino B,Palo Alto B,40,48,2,0,division E
+g106,rr,RR5,5,San Gabriel,Archbishop Mitty,76,174,2,0,division E
+g107,rr,RR5,5,Canyon Crest,North Hollywood A,70,202,2,0,division F
+g108,rr,RR5,5,Cupertino A,Quarry Lane A,76,108,2,0,division F
+g109,rr,RR5,5,Brooklyn,BASIS Silicon Valley B,12,92,2,0,division F
+g110,rr,RR5,5,Lynbrook B,Saratoga A,218,32,1,0,division G
+g111,rr,RR5,5,Mission San Jose A,Tokay,148,90,1,0,division G
+g112,rr,RR5,5,Arnold O. Beckman,Iolani,56,150,2,0,division G
+g113,rr,RR5,5,Brave Christian,Hillsdale,12,56,2,0,division H
+g114,rr,RR5,5,Foothill A,Saratoga B,68,180,2,0,division H
+g115,rr,RR5,5,Amador Valley A,Mission San Jose B,230,26,1,0,division H
+g116,playoff,DE1,6,North Hollywood A,University B,172,38,1,0,
+g117,playoff,DE1,6,North Hollywood B,Dougherty Valley A,134,54,1,0,
+g118,playoff,DE1,6,Palo Alto A,San Gabriel,154,42,1,0,
+g119,playoff,DE1,6,Saratoga B,University A,80,96,2,0,
+g120,playoff,DE1,6,Davidson A,Folsom City,126,76,1,0,
+g121,playoff,DE1,6,Mission San Jose A,Archbishop Mitty,124,118,1,0,
+g122,playoff,DE1,6,Lynbrook A,Lynbrook B,172,36,1,0,
+g123,playoff,DE1,6,Canyon Crest,Amador Valley A,50,170,2,0,
+g124,playoff,DE2,7,North Hollywood A,North Hollywood B,108,60,1,0,
+g125,playoff,DE2,7,Palo Alto A,University A,108,110,2,0,
+g126,playoff,DE2,7,Davidson A,Mission San Jose A,140,124,1,0,
+g127,playoff,DE2,7,Lynbrook A,Amador Valley A,184,50,1,0,
+g128,playoff,DE2,7,University B,Dougherty Valley A,36,110,2,0,
+g129,playoff,DE2,7,San Gabriel,Saratoga B,72,66,1,0,
+g130,playoff,DE2,7,Folsom City,Archbishop Mitty,66,74,2,0,
+g131,playoff,DE2,7,Lynbrook B,Canyon Crest,120,20,1,0,
+g132,playoff,DE3,8,Amador Valley A,Dougherty Valley A,84,62,1,0,
+g133,playoff,DE3,8,Mission San Jose A,San Gabriel,114,58,1,0,
+g134,playoff,DE3,8,Palo Alto A,Archbishop Mitty,72,46,1,0,
+g135,playoff,DE3,8,North Hollywood B,Lynbrook B,52,70,2,0,
+g136,playoff,DE4,9,North Hollywood A,University A,156,58,1,0,
+g137,playoff,DE4,9,Davidson A,Lynbrook A,94,68,1,0,
+g138,playoff,DE4,9,Amador Valley A,Mission San Jose A,96,114,2,0,
+g139,playoff,DE4,9,Palo Alto A,Lynbrook B,68,74,2,0,
+g140,playoff,DE5,10,Lynbrook A,Mission San Jose A,88,82,1,0,
+g141,playoff,DE5,10,University A,Lynbrook B,82,20,1,0,
+g142,playoff,DE6,11,North Hollywood A,Davidson A,48,56,2,0,
+g143,playoff,DE6,11,Lynbrook A,University A,38,52,2,0,
+g144,playoff,DE7,12,North Hollywood A,University A,64,66,2,0,
+g145,playoff,Final,13,Davidson A,University A,68,58,1,0,
+g146,consolation,Swiss 1,6,BASIS Silicon Valley A,Cupertino A,112,58,1,0,
+g147,consolation,Swiss 1,6,Iolani,Stanford Online,122,30,1,0,
+g148,consolation,Swiss 1,6,Dougherty Valley B,Homestead,42,48,2,0,
+g149,consolation,Swiss 1,6,Mission San Jose B,Quarry Lane B,62,58,1,0,
+g150,consolation,Swiss 1,6,Portola,Quarry Lane A,72,16,1,0,
+g151,consolation,Swiss 1,6,Mira Loma,Hillsdale,72,38,1,0,
+g152,consolation,Swiss 1,6,Saratoga A,Abraham Lincoln,104,8,1,0,
+g153,consolation,Swiss 1,6,BASIS Fremont,Tokay,52,22,1,0,
+g154,consolation,Swiss 1,6,Davidson B,Cupertino B,108,24,1,0,
+g155,consolation,Swiss 1,6,Mountain House,Palo Alto B,58,42,1,0,
+g156,consolation,Swiss 1,6,Saint Francis,Irvington B,72,12,1,0,
+g157,consolation,Swiss 1,6,Arnold O. Beckman,Chico,,,1,1,forfeit (scored +/-1e99 in the sheet)
+g158,consolation,Swiss 1,6,BASIS Silicon Valley B,Amador Valley B,16,26,2,0,
+g159,consolation,Swiss 2,7,Mira Loma,Amador Valley B,18,34,2,0,
+g160,consolation,Swiss 2,7,Stanford Online,Palo Alto B,66,16,1,0,
+g161,consolation,Swiss 2,7,Iolani,Mountain House,60,54,1,0,
+g162,consolation,Swiss 2,7,Arnold O. Beckman,Abraham Lincoln,40,46,2,0,
+g163,consolation,Swiss 2,7,BASIS Silicon Valley B,Tokay,26,34,2,0,
+g164,consolation,Swiss 2,7,Saratoga A,Homestead,20,56,2,0,
+g165,consolation,Swiss 2,7,Cupertino A,Cupertino B,42,30,1,0,
+g166,consolation,Swiss 2,7,Quarry Lane B,Irvington B,,,1,1,forfeit (scored +/-1e99 in the sheet)
+g167,consolation,Swiss 2,7,Dougherty Valley B,BASIS Fremont,48,20,1,0,
+g168,consolation,Swiss 2,7,BASIS Silicon Valley A,Davidson B,62,98,2,0,
+g169,consolation,Swiss 2,7,Portola,Hillsdale,52,22,1,0,
+g170,consolation,Swiss 2,7,Mission San Jose B,Saint Francis,94,16,1,0,
+g171,consolation,Swiss 3,8,Saratoga B,Portola,90,80,1,0,
+g172,consolation,Swiss 3,8,Folsom City,Davidson B,60,52,1,0,
+g173,consolation,Swiss 3,8,University B,Amador Valley B,104,56,1,0,
+g174,consolation,Swiss 3,8,Canyon Crest,Homestead,44,58,2,0,
+g175,consolation,Swiss 3,8,Iolani,Dougherty Valley B,118,78,1,0,
+g176,consolation,Swiss 3,8,Mission San Jose B,BASIS Silicon Valley A,68,110,2,0,
+g177,consolation,Swiss 3,8,Mira Loma,Cupertino A,54,70,2,0,
+g178,consolation,Swiss 3,8,Saratoga A,Stanford Online,88,42,1,0,
+g179,consolation,Swiss 3,8,BASIS Fremont,Quarry Lane A,102,8,1,0,
+g180,consolation,Swiss 3,8,Mountain House,Abraham Lincoln,98,12,1,0,
+g181,consolation,Swiss 3,8,Saint Francis,Tokay,,,2,1,forfeit (scored +/-1e99 in the sheet)
+g182,consolation,Swiss 3,8,Arnold O. Beckman,Irvington B,60,52,1,0,
+g183,consolation,Swiss 3,8,BASIS Silicon Valley B,Cupertino B,108,22,1,0,
+g184,consolation,Swiss 3,8,Quarry Lane B,Palo Alto B,28,52,2,0,
+g185,consolation,Swiss 4,9,Dougherty Valley A,Folsom City,84,76,1,0,
+g186,consolation,Swiss 4,9,North Hollywood B,University B,78,72,1,0,
+g187,consolation,Swiss 4,9,Archbishop Mitty,Iolani,72,74,2,0,
+g188,consolation,Swiss 4,9,San Gabriel,Homestead,,,2,1,forfeit (scored +/-1e99 in the sheet)
+g189,consolation,Swiss 4,9,Saratoga B,BASIS Silicon Valley A,86,74,1,0,
+g190,consolation,Swiss 4,9,Canyon Crest,Saratoga A,78,82,2,0,
+g191,consolation,Swiss 4,9,Mission San Jose B,BASIS Fremont,106,34,1,0,
+g192,consolation,Swiss 4,9,Portola,Mountain House,52,90,2,0,
+g193,consolation,Swiss 4,9,Davidson B,Arnold O. Beckman,98,52,1,0,
+g194,consolation,Swiss 4,9,Amador Valley B,Cupertino A,38,56,2,0,
+g195,consolation,Swiss 4,9,Dougherty Valley B,Tokay,66,20,1,0,
+g196,consolation,Swiss 4,9,Stanford Online,BASIS Silicon Valley B,70,26,1,0,
+g197,consolation,Swiss 4,9,Quarry Lane A,Hillsdale,38,52,2,0,
+g198,consolation,Swiss 4,9,Irvington B,Palo Alto B,24,52,2,0,
+g199,consolation,Swiss 4,9,Quarry Lane B,Cupertino B,50,30,1,0,

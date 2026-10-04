@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import re
 import shutil
 from collections import Counter, defaultdict
 from typing import Any
@@ -104,7 +105,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
                 ("ppg", r["ppg"])) if v is not None}
             if r["gp"] is None and r["est_gp"] is not None:
                 pr["s"][r["subject"]]["gp_est"] = True
-            roster[r["team_id"]][t.season].add(pid)
+            if r["team_id"]:
+                roster[r["team_id"]][t.season].add(pid)
         team_rows = []
         for e in entries_by_t[tid]:
             r = rec.get(e["team_id"], {"w": 0, "l": 0, "t": 0, "pf": 0.0, "pa": 0.0, "gs": 0, "g": 0})
@@ -112,9 +114,9 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
                    "ppg": _r(r["pf"] / r["gs"]) if r["gs"] else None,
                    "papg": _r(r["pa"] / r["gs"]) if r["gs"] else None}
             team_rows.append(row)
-            team_tourn_summary[e["team_id"]].append({"t": tid, "d": tdate[tid], **{k: row[k] for k in ("w", "l", "t", "g", "ppg")},
-                                                     "champ": champion == e["team_id"]})
-        team_rows.sort(key=lambda x: (-(x["w"] + 0.5 * x["t"]), -(x["ppg"] or -999)))
+            team_tourn_summary[e["team_id"]].append({"t": tid, "d": tdate[tid], "w": row["w"], "l": row["l"], "tie": row["t"],
+                                                     "g": row["g"], "ppg": row["ppg"], "champ": champion == e["team_id"]})
+        team_rows.sort(key=lambda x: (-(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999)))
         cov = _coverage(tid)
         meta = {
             "id": tid, "name": t.name, "date": t.date.isoformat(), "end": t.end_date.isoformat(),
@@ -124,6 +126,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             "n_teams": len(team_rows), "n_games": len(gl), "n_scored": sum(1 for g in gl if g.get("score1") is not None),
             "n_players": len(prow), "strength": _r(strength.get(tid)), "champion": champion,
             "rated": not t.get("subject_only") and not t.get("individual"),
+            "individual": bool(t.get("individual")),
             "coverage": cov, "set": t.get("question_set"),
             "sources": [{"role": s.get("role"), "kind": s.get("kind"), "url": s.get("url")} for s in t.sources if s.get("url")],
         }
@@ -182,6 +185,10 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
                 games_by_team[g[me]].append({"t": tid, "d": tdate[tid], "seq": g["seq"], "st": g["stage"], "rd": g["round"],
                                              "o": g[opp], "s": g.get(sm), "os": g.get(so), "r": res_, "p": _r(p, 3),
                                              "ff": bool(g.get("forfeit"))})
+    rows_by_team: dict[str, list[tuple[tuple[str, str, str], dict[str, Any]]]] = defaultdict(list)
+    for k, r in rows.items():
+        if r["team_id"]:
+            rows_by_team[r["team_id"]].append((k, r))
     for tm, info in teams.items():
         s = st.get(tm)
         h = hist.get(tm, [])
@@ -207,10 +214,12 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             "games": sorted(games_by_team[tm], key=lambda x: (x["d"], x["t"], x["seq"])),
             "tournaments": sorted(team_tourn_summary[tm], key=lambda x: x["d"]),
             "roster": {season: sorted(p) for season, p in sorted(roster[tm].items())},
+            "coverage": _team_coverage(rows_by_team.get(tm, []), tourns),
             "subj_history": {sj: [{"d": _date(x["day"]), "r": x["rating"], "se": x["se"]}
                                   for x in m["history"].get(tm, [])] for sj, m in team_models.items() if m["history"].get(tm)},
         }
-    teams_out.sort(key=lambda x: (x["r"] is None, -(x["r"] or 0)))
+    # ties in the rounded rating keep the order of the unrounded one (so ranks read 1, 2, 3...)
+    teams_out.sort(key=lambda x: (x["r"] is None, -(x["r"] or 0), x["rank_all"] or 0))
     _write("teams.json", teams_out)
     for sh, d in team_details.items():
         _write(f"teams/{sh}.json", d)
@@ -242,7 +251,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     teammates: dict[str, Counter[str]] = defaultdict(Counter)
     team_t_players: dict[tuple[str, str], set[str]] = defaultdict(set)
     for (tid, pid, subj), r in rows.items():
-        team_t_players[(tid, r["team_id"])].add(pid)
+        if r["team_id"]:
+            team_t_players[(tid, r["team_id"])].add(pid)
     for (tid, tm), ps in team_t_players.items():
         for a in ps:
             for b in ps:
@@ -267,7 +277,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
         o = subj.get("overall")
         best_subject = max(((sj, v["r"]) for sj, v in subj.items() if sj != "overall" and v["n"] >= 8),
                            key=lambda kv: kv[1], default=(None, None))[0]
-        team_ids = sorted({r["team_id"] for r in prs})
+        team_ids = sorted({r["team_id"] for r in prs if r["team_id"]})
         sch = schools.get(p.get("school_id")) if p.get("school_id") else None
         last = tdate[tids[-1]] if tids else None
         hist_all = pm["overall"]["history"].get(pid, [])
@@ -278,6 +288,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             "n_t": len(tids), "gp": _r(tot_gp, 0), "pts": _r(tot_pts, 0), "ppg": _r(tot_pts / tot_gp) if tot_gp else None,
             "ptuh": _r(tot_pts_tuh / tot_tuh, 3) if tot_tuh else None, "first": tdate[tids[0]] if tids else None, "last": last,
             "best": best_subject, "peak": _r(max((x["rating"] for x in hist_all), default=None)),
+            "trend": [_r(x["rating"]) for x in hist_all[-12:]],
             "subj": {k: v for k, v in subj.items() if k != "overall"},
             "aliases": p.get("aliases", []),
         })
@@ -295,14 +306,16 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             "stats": sorted(stats.values(), key=lambda x: x["d"]),
             "teammates": [b for b, _ in teammates[pid].most_common(12)],
         }
-    players_out.sort(key=lambda x: (x["r"] is None, -(x["r"] or 0)))
+    raw_overall = pm["overall"]["entities"]
+    players_out.sort(key=lambda x: (x["r"] is None, -(x["r"] or 0),
+                                    -raw_overall[x["id"]]["rating"] if x["id"] in raw_overall else 0))
     _write("players.json", players_out)
     for sh, d in player_details.items():
         _write(f"players/{sh}.json", d)
 
     # ------------------------------------------------------------------ nationals + meta
-    winners = _load_ref("nsb_winners.yaml") or []
-    _write("nationals.json", {"winners": winners, "finishes": nsb,
+    winners = _norm_winners(_load_ref("nsb_winners.yaml") or [], schools)
+    _write("nationals.json", {"winners": winners, "finishes": _link_finishes(nsb, res),
                               "tournaments": [t["id"] for t in tournaments_out if t.get("kind") == "nationals"]})
     counts = {"tournaments": sum(1 for t in tournaments_out if not t.get("no_data")),
               "tournaments_listed": len(tournaments_out), "games": len(res["games"]),
@@ -321,16 +334,41 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     print(f"exported: {counts}")
 
 
+_CONSOLATION = re.compile(r"3rd|third|bronze|consolation|\bplace\b|placement", re.I)
+
+
 def _champion(gl: list[dict[str, Any]]) -> str | None:
-    po = [g for g in gl if g["stage"] == "playoff" and not g.get("forfeit")]
+    """Winner of the final playoff game, or None when the final is not in the data.
+
+    Forfeit-flagged games count here (their winner still advanced). Third-place / consolation
+    games are ignored. The result is rejected (None) when the last playoff round holds games
+    between different pairs of teams (the final was not recorded) or when another playoff team finished with fewer
+    playoff losses than the would-be champion (e.g. a double-elimination final with no result,
+    where the last recorded game is the losers' bracket final)."""
+    po = [g for g in gl if g["stage"] == "playoff" and g["result"] in ("1", "2", "T")
+          and not _CONSOLATION.search(str(g.get("round") or ""))]
     if not po:
         return None
-    last = max(po, key=lambda g: (g["seq"], g["game_id"]))
-    if last["result"] == "1":
-        return last["team1"]
-    if last["result"] == "2":
-        return last["team2"]
-    return None
+    top = max(g["seq"] for g in po)
+    finals = [g for g in po if g["seq"] == top]
+    # one final, or a series between the same two teams (finals played twice, best of three)
+    if len({frozenset((g["team1"], g["team2"])) for g in finals}) != 1:
+        return None
+    last = max(finals, key=lambda g: [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", str(g["game_id"]))])
+    if last["result"] not in ("1", "2"):
+        return None
+    champ = last["team1"] if last["result"] == "1" else last["team2"]
+    losses: Counter[str] = Counter()
+    teams: set[str] = set()
+    for g in po:
+        teams.update((g["team1"], g["team2"]))
+        if g["result"] == "1":
+            losses[g["team2"]] += 1
+        elif g["result"] == "2":
+            losses[g["team1"]] += 1
+    if any(losses[t] < losses[champ] for t in teams if t != champ):
+        return None
+    return champ
 
 
 def _coverage(tid: str) -> dict[str, Any]:
@@ -356,4 +394,90 @@ def _nsb_by_school(nsb: dict[str, Any], res: dict[str, Any]) -> dict[str, list[d
             sid = raw_to_school.get((str(year), it.get("team")))
             if sid:
                 out[sid].append({"year": int(year), "finish": it.get("finish")})
+    return out
+
+
+def _team_coverage(team_rows: list[tuple[tuple[str, str, str], dict[str, Any]]],
+                   tourns: dict[str, registry.Tournament]) -> dict[str, Any] | None:
+    """Roster x subject tossup points for the team's latest season with per-subject player stats.
+
+    ``team_rows`` are the team's (tournament, player, subject) stat rows. Single-subject events
+    are left out (they would swamp one column)."""
+    by_season: dict[str, dict[str, dict[str, Any]]] = defaultdict(dict)
+    subj_seasons: set[str] = set()
+    for (tid, pid, subj), r in team_rows:
+        if tourns[tid].get("subject_only"):
+            continue
+        season = tourns[tid].season
+        e = by_season[season].setdefault(pid, {"p": pid, "gp": 0.0, "tids": set(), "pts": {}})
+        pts = r["points"] if r["points"] is not None else r["est_points"]
+        if pts is not None:
+            e["pts"][subj] = e["pts"].get(subj, 0.0) + pts
+        if subj == "overall":
+            e["gp"] += (r["gp"] if r["gp"] is not None else r["est_gp"]) or 0
+            e["tids"].add(tid)
+        elif subj in SUBJECTS:
+            subj_seasons.add(season)
+    if not subj_seasons:
+        return None
+    season = max(subj_seasons)
+    players = []
+    for e in by_season[season].values():
+        players.append({"p": e["p"], "gp": _r(e["gp"], 0), "n_t": len(e["tids"]),
+                        "pts": {k: _r(v, 0) for k, v in e["pts"].items() if k in ("overall", *SUBJECTS)}})
+    players.sort(key=lambda x: -(x["pts"].get("overall") or sum(x["pts"].values())))
+    return {"season": season, "players": players}
+
+
+def _norm_name(x: Any) -> str:
+    import re
+    s = str(x or "").lower().replace("&", "and")
+    s = re.sub(r"\b(high school|high|school|hs|academy|the)\b", " ", s)
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+def _norm_winners(winners: list[dict[str, Any]], schools: dict[str, Any]) -> list[dict[str, Any]]:
+    """Pass the reference list through, adding `school` (a school id) when the champion's name
+    matches a known school exactly after light normalisation."""
+    by_name: dict[str, str] = {}
+    for sid, sch in schools.items():
+        if sch.get("composite"):
+            continue
+        for nm in (sch.get("name"), sch.get("short")):
+            if nm:
+                by_name.setdefault(_norm_name(nm), sid)
+    out = []
+    for w in winners or []:
+        if not isinstance(w, dict):
+            continue
+        w = dict(w)
+        champ = w.get("champion") or w.get("winner") or w.get("school") or w.get("team")
+        champ = champ if isinstance(champ, str) else None
+        sid = by_name.get(_norm_name(champ)) if champ else None
+        if sid and "school_id" not in w:
+            w["school_id"] = sid
+        out.append(w)
+    out.sort(key=lambda w: -int(w.get("year") or 0))
+    return out
+
+
+def _link_finishes(nsb: dict[str, Any], res: dict[str, Any]) -> dict[str, list[dict[str, Any]]]:
+    """Add `tm` (team id) and `school_id` to NSB finishes when the Nationals entry resolves."""
+    raw_to_team = {}
+    for e in res["entries"]:
+        if "nsb-national-finals" in e["tournament_id"]:
+            raw_to_team[(e["tournament_id"][:4], e["raw_name"])] = e["team_id"]
+    out: dict[str, list[dict[str, Any]]] = {}
+    for year, items in (nsb or {}).items():
+        lst = []
+        for it in items or []:
+            if not isinstance(it, dict):
+                continue
+            it = dict(it)
+            tm = raw_to_team.get((str(year), it.get("team")))
+            if tm:
+                it["tm"] = tm
+                it["school_id"] = res["teams"][tm]["school_id"]
+            lst.append(it)
+        out[str(year)] = lst
     return out
