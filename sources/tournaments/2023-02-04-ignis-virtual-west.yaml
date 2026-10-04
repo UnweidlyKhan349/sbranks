@@ -21,6 +21,16 @@ sources:
   role: stats
   url: https://prometheus.science/virtual/statistics
   file: stats.html
+- kind: url
+  role: results
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQM65teNAIJNitEvO1jrr_idCkUZsbSC2QE-4EfRaBMAgW_uhCk7tKb2QC2CdSFpj1kv6wTJjEEbWPQ/pub?output=xlsx
+  file: results_sheet.xlsx
+  note: Published Google Sheet embedded (iframe) in results.html
+- kind: url
+  role: stats
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRWTJ2HSdJxZg4kYmy0nEInaylba3V92iucPjmAzhDBKMQlIk3y7JdfE-hlsB0b1CW9vF3_J7X6nI_A/pub?output=xlsx
+  file: stats_sheet.xlsx
+  note: Published Google Sheet embedded (iframe) in stats.html
 parser: null
 parser_options: {}
 status: todo

@@ -1,0 +1,25 @@
+{
+  "tournament_id": "2026-08-29-isobowl-invitational-tournament-hs",
+  "counts": {
+    "teams": 21,
+    "games": 75,
+    "games_with_scores": 75,
+    "player_stat_rows": 651,
+    "players": 93,
+    "team_game_subject_rows": 900,
+    "player_game_stat_rows": 1841
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [
+    "game dde9a871 BISV B 74-74 VMATHS: bracket advanced BISV B (manual decision)"
+  ],
+  "parser": "g1_isobowl:parse"
+}

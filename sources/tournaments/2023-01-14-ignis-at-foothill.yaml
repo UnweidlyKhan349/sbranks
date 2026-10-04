@@ -21,6 +21,16 @@ sources:
   role: stats
   url: https://prometheus.science/foothill/statistics
   file: stats.html
+- kind: url
+  role: results
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTXlXv31IpP7dyIuxg3t_tY3FYepB6os6C9JRnn-gVusypL0UFXiBsgBx92OVcpNy30zKZfGjJIfVss/pub?output=xlsx
+  file: results_sheet.xlsx
+  note: Published Google Sheet embedded (iframe) in results.html
+- kind: url
+  role: stats
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRKb_cX7u67QzY1WXGNKAqA6dwdBra2DPfcskS1-wO6BdUM3wSb0rQoTxVFBET7443aHHxN8bNuXghj/pub?output=xlsx
+  file: stats_sheet.xlsx
+  note: Published Google Sheet embedded (iframe) in stats.html
 parser: null
 parser_options: {}
 status: todo

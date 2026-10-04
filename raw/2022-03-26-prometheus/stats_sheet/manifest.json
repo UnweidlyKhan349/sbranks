@@ -1,0 +1,53 @@
+{
+  "pubhtml": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT5SvZ6CbMM1ez9v0dTOEP28BSZjo2HRuPxGtv_8exCxt8tOd-8uErgv121v-aYYV0J-G2W_WSiXWez/pubhtml",
+  "tabs": [
+    {
+      "name": "Total Stats",
+      "gid": "1787668269",
+      "csv": "1787668269.csv",
+      "html": "1787668269.html"
+    },
+    {
+      "name": "Team Stats",
+      "gid": "1962774305",
+      "csv": "1962774305.csv",
+      "html": "1962774305.html"
+    },
+    {
+      "name": "Longtermism",
+      "gid": "964631028",
+      "csv": "964631028.csv",
+      "html": "964631028.html"
+    },
+    {
+      "name": "Math",
+      "gid": "317628108",
+      "csv": "317628108.csv",
+      "html": "317628108.html"
+    },
+    {
+      "name": "Chemistry",
+      "gid": "1091389212",
+      "csv": "1091389212.csv",
+      "html": "1091389212.html"
+    },
+    {
+      "name": "Earth and Space",
+      "gid": "350098036",
+      "csv": "350098036.csv",
+      "html": "350098036.html"
+    },
+    {
+      "name": "Biology",
+      "gid": "1918263630",
+      "csv": "1918263630.csv",
+      "html": "1918263630.html"
+    },
+    {
+      "name": "Physics",
+      "gid": "2066141447",
+      "csv": "2066141447.csv",
+      "html": "2066141447.html"
+    }
+  ]
+}

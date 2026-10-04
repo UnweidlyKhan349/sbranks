@@ -1,0 +1,1186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyrie</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M3 13h2v8H3zm4-8h2v13H7zm4-2h2v15h-2zm4 4h2v11h-2zm4-2h2v13h-2z" />
+                    </svg>
+                </div>
+                <span class="logo-text">Eyrie</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/sebracket">SE Bracket</a></li>
+                <li><a href="/login">Login</a></li>
+                <li><a href="/signup">Signup</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <ul class="nav-links-mobile" id="navLinksMobile">
+            <li><a href="/">Home</a></li>
+            <li><a href="/sebracket">SE Bracket</a></li>
+            <li><a href="/login">Login</a></li>
+            <li><a href="/signup">Signup</a></li>
+        </ul>
+    </nav>
+    <main>
+        
+
+<div class="game-layout">
+  
+  <section class="dashboard-section">
+    <div class="dashboard-container">
+      <br><br><br><br>
+      <h2 class="section-title">
+        Iolani School 1 vs Bridgeland
+      </h2>
+      <br><br>
+      <div class="scoreboard">
+        <div class="team-score" id="scoreA">Iolani School 1: 0</div>
+        <div class="team-score" id="scoreB">Bridgeland: 0</div>
+      </div>
+
+      
+
+      <!-- Timers Section -->
+      
+
+      <style>
+        .timer-container {
+          display: flex;
+          gap: 10px;
+          justify-content: center;
+          align-items: center;
+          margin-bottom: 10px;
+        }
+
+        .timer-btn {
+          background-color: #6c757d;
+          color: white;
+          border: none;
+          padding: 10px 15px;
+          border-radius: 5px;
+          cursor: pointer;
+          font-size: 1em;
+          transition: background 0.2s;
+        }
+
+        .timer-btn:hover {
+          background-color: #5a6268;
+        }
+
+        .reset-timer-btn {
+          background-color: #dc3545;
+          color: white;
+          border: none;
+          padding: 5px 10px;
+          border-radius: 5px;
+          cursor: pointer;
+          font-size: 0.9em;
+        }
+
+        .timer-display {
+          font-size: 2em;
+          font-weight: bold;
+          color: #333;
+          width: 60px;
+          text-align: center;
+          margin-left: 10px;
+          font-family: monospace;
+        }
+      </style>
+
+      <div class="table-wrapper">
+        <table class="game-table">
+          <thead>
+            <tr>
+              <th>Q#</th>
+              <th>Cat</th>
+              
+              <th class="vertical-name">Daniel</th>
+
+              
+              <th class="vertical-name">Keene</th>
+
+              
+              <th class="vertical-name">Min</th>
+
+              
+              <th class="vertical-name">Sola</th>
+
+              
+              <th>Bonus</th>
+              
+              <th class="vertical-name">Advaith</th>
+              
+              <th class="vertical-name">Ben</th>
+              
+              <th class="vertical-name">Carson</th>
+              
+              <th class="vertical-name">Shreshta</th>
+              
+              <th>Bonus</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+            
+            <tr data-q="0">
+              <td class="num">1</td>
+              <td class="cat">B</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="1">
+              <td class="num">2</td>
+              <td class="cat">M</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="2">
+              <td class="num">3</td>
+              <td class="cat">C</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="3">
+              <td class="num">4</td>
+              <td class="cat">E</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="4">
+              <td class="num">5</td>
+              <td class="cat">P</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="5">
+              <td class="num">6</td>
+              <td class="cat">B</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="6">
+              <td class="num">7</td>
+              <td class="cat">M</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="7">
+              <td class="num">8</td>
+              <td class="cat">C</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="8">
+              <td class="num">9</td>
+              <td class="cat">E</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="9">
+              <td class="num">10</td>
+              <td class="cat">P</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="10">
+              <td class="num">11</td>
+              <td class="cat">B</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="11">
+              <td class="num">12</td>
+              <td class="cat">M</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="12">
+              <td class="num">13</td>
+              <td class="cat">C</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="13">
+              <td class="num">14</td>
+              <td class="cat">E</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="14">
+              <td class="num">15</td>
+              <td class="cat">P</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="15">
+              <td class="num">16</td>
+              <td class="cat">B</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="16">
+              <td class="num">17</td>
+              <td class="cat">M</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="17">
+              <td class="num">18</td>
+              <td class="cat">C</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="18">
+              <td class="num">19</td>
+              <td class="cat">E</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+            <tr data-q="19">
+              <td class="num">20</td>
+              <td class="cat">P</td>
+
+              
+              <td class="cell player" data-team="a" data-user="84"></td>
+              
+              <td class="cell player" data-team="a" data-user="184"></td>
+              
+              <td class="cell player" data-team="a" data-user="229"></td>
+              
+              <td class="cell player" data-team="a" data-user="441"></td>
+              
+              <td class="cell bonus" data-team="a"></td>
+
+              
+              <td class="cell player" data-team="b" data-user="149"></td>
+              
+              <td class="cell player" data-team="b" data-user="223"></td>
+              
+              <td class="cell player" data-team="b" data-user="226"></td>
+              
+              <td class="cell player" data-team="b" data-user="304"></td>
+              
+              <td class="cell bonus" data-team="b"></td>
+            </tr>
+            
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+
+    
+
+  </section>
+
+  
+</div>
+
+<style>
+  .dashboard-section {
+    padding: 20px;
+    flex-grow: 1;
+  }
+
+  .game-layout {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-top: 80px;
+  }
+
+  .reminders-sidebar,
+  .participation-sidebar {
+    width: 280px;
+    background: #fff;
+    padding: 20px;
+    height: calc(100vh - 80px);
+    position: sticky;
+    top: 80px;
+    overflow-y: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    color: #000;
+  }
+
+  .reminders-sidebar {
+    border-right: 1px solid #eee;
+  }
+
+  .participation-sidebar {
+    border-left: 1px solid #eee;
+  }
+
+  .reminders-sidebar h3 {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+  }
+
+  .reminders-sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .reminders-sidebar li {
+    margin-bottom: 12px;
+    font-size: 0.9em;
+    line-height: 1.4;
+    padding-left: 20px;
+    position: relative;
+  }
+
+  .reminders-sidebar li::before {
+    content: "•";
+    color: #007bff;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+  }
+
+  @media (max-width: 1200px) {
+    .game-layout {
+      flex-direction: column;
+    }
+
+    .reminders-sidebar,
+    .participation-sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+      top: 0;
+      border: none;
+      border-bottom: 1px solid #eee;
+    }
+  }
+
+  .participation-sidebar h3 {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    color: #28a745;
+    border-bottom: 2px solid #28a745;
+    padding-bottom: 5px;
+  }
+
+  .team-p h4 {
+    font-size: 0.9em;
+    margin: 10px 0 5px;
+  }
+
+  .team-p table {
+    width: 100%;
+    font-size: 0.85em;
+  }
+
+  .team-p td {
+    padding: 2px 5px;
+  }
+
+  .dashboard-container {
+    max-width: 1200px;
+    margin: auto;
+  }
+
+  .section-title {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .scoreboard {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+  .table-wrapper {
+    overflow-x: auto;
+  }
+
+  .game-table th,
+  .game-table td {
+    border: 1px solid #ccc;
+    padding: 4px 6px;
+    text-align: center;
+    width: 35px;
+    /* Increased from 20px */
+    font-size: 0.9em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .game-table {
+    border-collapse: collapse;
+    width: auto;
+    max-width: fit-content;
+    margin: 0 auto;
+    table-layout: fixed;
+  }
+
+  .vertical-name {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    padding: 2px;
+    width: 25px;
+    white-space: nowrap;
+  }
+
+  .cat {
+    width: 35px;
+  }
+
+  .num {
+    width: 35px;
+  }
+
+  .cell {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .cell.bonus {
+    width: 40px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+
+  .control-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+  }
+
+  .control-btn:hover {
+    background-color: #0056b3;
+  }
+
+  /* Score-based coloring */
+  .cell.score-4 {
+    background-color: #28a745 !important;
+    color: white;
+  }
+
+  .cell.score-neg4 {
+    background-color: #dc3545 !important;
+    color: white;
+  }
+
+  .cell.score-0 {
+    background-color: #ffffff !important;
+    color: #333;
+  }
+
+  .cell.score-10 {
+    background-color: #28a745 !important;
+    color: white;
+  }
+</style>
+
+<script>
+  const gameId = 529;
+  let questions = [{"bonus_b": 10, "category": "B", "team_a": {"441": 0}, "team_b": {"223": 4}}, {"bonus_b": 0, "category": "M", "team_a": {"441": 0}, "team_b": {"223": 4}}, {"bonus_a": 0, "category": "C", "team_a": {"441": 4}, "team_b": {}}, {"bonus_b": 10, "category": "E", "team_a": {"84": 0}, "team_b": {"223": 4}}, {"category": "P", "team_a": {"84": -4}, "team_b": {"223": -4}}, {"category": "B", "team_a": {"441": 0}, "team_b": {"304": 0}}, {"bonus_b": 0, "category": "M", "team_a": {"441": 0}, "team_b": {"226": 4}}, {"bonus_b": 0, "category": "C", "team_a": {}, "team_b": {"223": 4}}, {"category": "E", "team_a": {"441": 0}, "team_b": {"223": 0}}, {"bonus_b": 10, "category": "P", "team_a": {"441": 0}, "team_b": {"223": 4}}, {"bonus_b": 10, "category": "B", "team_a": {}, "team_b": {"226": 4}}, {"bonus_a": 10, "category": "M", "team_a": {"441": 4}, "team_b": {}}, {"bonus_a": 10, "category": "C", "team_a": {"84": 4}, "team_b": {}}, {"bonus_a": 0, "category": "E", "team_a": {"441": 4}, "team_b": {}}, {"category": "P", "team_a": {"84": 0}, "team_b": {"223": 0}}, {"bonus_b": 10, "category": "B", "team_a": {}, "team_b": {"149": 4}}, {"bonus_a": 10, "category": "M", "team_a": {"441": 4}, "team_b": {}}, {"bonus_b": 10, "category": "C", "team_a": {"184": 0}, "team_b": {"223": 4}}, {"category": "E", "team_a": {"441": 0}, "team_b": {"223": 0}}, {"bonus_a": 0, "category": "P", "team_a": {"84": 4}, "team_b": {}}];
+  const teamAPlayers = [84, 184, 229, 441];
+  const teamBPlayers = [149, 223, 226, 304];
+  const isMod = false;
+  const isAdmin = false;
+  const isStarted = true;
+  const isFinished = true;
+  let participation = {};
+
+  // Initialize participation checkboxes
+  function initParticipation() {
+    if (!participation.H1) participation.H1 = [];
+    if (!participation.H2) participation.H2 = [];
+
+    document.querySelectorAll(".part-check").forEach(cb => {
+      const uid = parseInt(cb.dataset.user);
+      const half = cb.dataset.half;
+      if (participation[half].includes(uid)) {
+        cb.checked = true;
+      }
+
+      if (!isMod && !isAdmin) {
+        cb.disabled = true;
+      }
+
+      cb.addEventListener("change", () => {
+        if (cb.checked) {
+          if (!participation[half].includes(uid)) participation[half].push(uid);
+        } else {
+          participation[half] = participation[half].filter(id => id !== uid);
+        }
+        saveParticipation();
+      });
+    });
+  }
+
+  function saveParticipation() {
+    fetch(`/game/${gameId}/save`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        participation
+      })
+    });
+  }
+
+  // Populate table with existing values
+  function populateTable() {
+    document.querySelectorAll("td.player").forEach(cell => {
+      const q = parseInt(cell.parentElement.dataset.q);
+      const team = cell.dataset.team;
+      const user = cell.dataset.user;
+      if (!questions[q][`team_${team}`]) questions[q][`team_${team}`] = {};
+      const val = questions[q][`team_${team}`][user];
+
+      cell.classList.remove("score-4", "score-neg4", "score-0");
+      if (val === 4) cell.classList.add("score-4");
+      else if (val === -4) cell.classList.add("score-neg4");
+      else if (val === 0) cell.classList.add("score-0");
+
+      cell.textContent = val === 0 ? "0" : (val || "");
+    });
+    document.querySelectorAll("td.bonus").forEach(cell => {
+      const q = parseInt(cell.parentElement.dataset.q);
+      const team = cell.dataset.team;
+      const key = team === "a" ? "bonus_a" : "bonus_b";
+      const val = questions[q][key];
+
+      cell.classList.remove("score-10", "score-0");
+      if (val === 10) cell.classList.add("score-10");
+      else if (val === 0) cell.classList.add("score-0");
+
+      cell.textContent = (val === undefined || val === null) ? "" : val;
+    });
+  }
+
+  // Update overall scores
+  function updateScore() {
+    let a = 0, b = 0;
+
+    questions.forEach(q => {
+      for (let v of Object.values(q.team_a)) a += v;
+      for (let v of Object.values(q.team_b)) b += v;
+      a += q.bonus_a || 0;
+      b += q.bonus_b || 0;
+    });
+
+    // Update DOM
+    document.getElementById("scoreA").textContent =
+      "Iolani School 1: " + a;
+    document.getElementById("scoreB").textContent =
+      "Bridgeland: " + b;
+
+    // Save the cumulative scores to the game object
+    fetch(`/game/${gameId}/save`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ questions, score_a: a, score_b: b })
+    });
+  }
+
+  // Determine if user can edit
+  // Admins can always edit.
+  // Mods can edit ONLY if Started AND Not Finished.
+  let canEdit = false;
+  if (isAdmin) {
+    canEdit = true;
+  } else if (isMod) {
+    if (isStarted && !isFinished) {
+      canEdit = true;
+    }
+  }
+
+  // Handle cell clicks
+  if (canEdit) {
+    document.querySelectorAll(".player").forEach(cell => {
+      cell.addEventListener("click", () => {
+        const q = parseInt(cell.parentElement.dataset.q);
+        const team = cell.dataset.team;
+        const user = cell.dataset.user;
+        let cur = questions[q][`team_${team}`][user];
+        // Cycle: undefined/empty -> 4 -> -4 -> 0 -> undefined/empty
+        let next;
+        if (cur === undefined || cur === null) next = 4;
+        else if (cur === 4) next = -4;
+        else if (cur === -4) next = 0;
+        else next = undefined; // 0 -> clear
+
+        if (next === undefined) delete questions[q][`team_${team}`][user];
+        else questions[q][`team_${team}`][user] = next;
+
+        populateTable();
+        updateScore();
+        // autosave removed
+      });
+    });
+
+    document.querySelectorAll(".bonus").forEach(cell => {
+      cell.addEventListener("click", () => {
+        const q = parseInt(cell.parentElement.dataset.q);
+        const team = cell.dataset.team;
+        const key = team === "a" ? "bonus_a" : "bonus_b";
+        let cur = questions[q][key];
+
+        // Cycle: undefined -> 10 -> 0 -> undefined
+        let next;
+        if (cur === undefined || cur === null) next = 10;
+        else if (cur === 10) next = 0;
+        else next = undefined;
+
+        if (next === undefined) delete questions[q][key];
+        else questions[q][key] = next;
+
+        populateTable();
+        updateScore();
+        // autosave removed
+      });
+    });
+  }
+
+  // Controls (Start/Finish) still controlled by isMod generally, 
+  // but typically only mods/admins see them anyway.
+  if (isMod) {
+    const startBtn = document.getElementById("startGameBtn");
+    const finishBtn = document.getElementById("finishGameBtn");
+    const statusDiv = document.getElementById("gameStatus");
+
+    if (startBtn) {
+      startBtn.addEventListener("click", () => {
+        if (confirm("Start this game?")) {
+          fetch(`/game/${gameId}/save`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ started: true })
+          }).then(res => res.json()).then(data => {
+            if (data.success) {
+              location.reload();
+            }
+          });
+        }
+      });
+    }
+
+    if (finishBtn) {
+      finishBtn.addEventListener("click", () => {
+        if (confirm("Finish this game? This will finalize the score.")) {
+          fetch(`/game/${gameId}/save`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ finished: true })
+          }).then(res => res.json()).then(data => {
+            if (data.success) {
+              location.reload();
+            }
+          });
+        }
+      });
+    }
+  }
+  // Initialize table
+  populateTable();
+  updateScore();
+  initParticipation();
+  // Timer Logic
+  let timerInterval = null;
+
+  function startTimer(seconds) {
+    clearInterval(timerInterval);
+    const display = document.getElementById('timerDisplay');
+    let timeLeft = seconds;
+
+    display.textContent = timeLeft;
+    display.style.color = '#007bff'; // Blue when running
+
+    timerInterval = setInterval(() => {
+      timeLeft--;
+      display.textContent = timeLeft;
+      if (timeLeft <= 0) {
+        clearInterval(timerInterval);
+        display.textContent = "0";
+        display.style.color = '#dc3545'; // Red when done
+      }
+    }, 1000);
+  }
+
+  function resetTimer() {
+    clearInterval(timerInterval);
+    const display = document.getElementById('timerDisplay');
+    display.textContent = "00";
+    display.style.color = '#333';
+  }
+
+  // Polling Logic
+  async function pollForUpdates() {
+    try {
+      const res = await fetch(`/game/${gameId}/json`);
+      const data = await res.json();
+
+      // Check if game status or question count changed
+      if (data.started !== isStarted || data.finished !== isFinished || data.questions.length !== questions.length) {
+        location.reload();
+        return;
+      }
+
+      // check if questions or participation changed
+      const qChanged = JSON.stringify(data.questions) !== JSON.stringify(questions);
+      const pChanged = JSON.stringify(data.participation) !== JSON.stringify(participation);
+
+      if (qChanged || pChanged) {
+        questions = data.questions;
+        participation = data.participation;
+        populateTable();
+        updateScore();
+      }
+    } catch (e) {
+      console.error("Polling failed:", e);
+    }
+  }
+
+  // Start polling
+  setInterval(pollForUpdates, 3000);
+
+  async function addTiebreaker() {
+    if (!confirm("Are you sure you want to add 5 questions?")) return;
+    const res = await fetch(`/game/${gameId}/tiebreaker`, { method: "POST" });
+    if (res.ok) {
+      location.reload();
+    } else {
+      alert("Failed to add questions.");
+    }
+  }
+</script>
+
+
+    </main>
+</body>
+
+</html>

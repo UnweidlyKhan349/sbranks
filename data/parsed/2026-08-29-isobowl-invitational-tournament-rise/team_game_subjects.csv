@@ -1,0 +1,445 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+03361a6a,Collierville C,biology,0,0,0,0,0
+03361a6a,Collierville C,chemistry,4,4,0,1,0
+03361a6a,Collierville C,ess,4,4,0,1,0
+03361a6a,Collierville C,math,14,4,10,1,0
+03361a6a,Collierville C,other,14,4,10,1,0
+03361a6a,Collierville C,physics,0,0,0,0,0
+03361a6a,TMSA,biology,18,8,10,2,0
+03361a6a,TMSA,chemistry,4,4,0,1,0
+03361a6a,TMSA,ess,4,4,0,1,0
+03361a6a,TMSA,math,0,0,0,0,0
+03361a6a,TMSA,other,0,0,0,0,0
+03361a6a,TMSA,physics,0,0,0,0,0
+73b3deb2,BI Fremont HS,biology,14,4,10,1,0
+73b3deb2,BI Fremont HS,chemistry,4,4,0,1,0
+73b3deb2,BI Fremont HS,ess,0,0,0,0,0
+73b3deb2,BI Fremont HS,math,0,0,0,0,0
+73b3deb2,BI Fremont HS,other,4,4,0,1,0
+73b3deb2,BI Fremont HS,physics,4,4,0,1,0
+73b3deb2,BISV C,biology,-4,-4,0,0,1
+73b3deb2,BISV C,chemistry,4,4,0,1,0
+73b3deb2,BISV C,ess,4,4,0,1,0
+73b3deb2,BISV C,math,18,8,10,2,0
+73b3deb2,BISV C,other,24,4,20,2,1
+73b3deb2,BISV C,physics,0,0,0,0,0
+b6b2add2,Lambert,biology,4,4,0,2,1
+b6b2add2,Lambert,chemistry,4,4,0,1,0
+b6b2add2,Lambert,ess,-4,-4,0,0,1
+b6b2add2,Lambert,math,4,4,0,1,0
+b6b2add2,Lambert,other,0,0,0,0,0
+b6b2add2,Lambert,physics,0,0,0,0,0
+b6b2add2,Punahou,biology,0,0,0,1,1
+b6b2add2,Punahou,chemistry,4,4,0,1,0
+b6b2add2,Punahou,ess,4,4,0,1,0
+b6b2add2,Punahou,math,0,0,0,0,0
+b6b2add2,Punahou,other,4,4,0,1,0
+b6b2add2,Punahou,physics,4,4,0,1,0
+db741186,Bridgeland B,biology,14,4,10,1,0
+db741186,Bridgeland B,chemistry,0,0,0,0,0
+db741186,Bridgeland B,ess,4,4,0,1,0
+db741186,Bridgeland B,math,4,4,0,1,0
+db741186,Bridgeland B,other,18,8,10,2,0
+db741186,Bridgeland B,physics,0,0,0,0,0
+db741186,Collierville A,biology,0,0,0,0,0
+db741186,Collierville A,chemistry,8,8,0,2,0
+db741186,Collierville A,ess,4,4,0,1,0
+db741186,Collierville A,math,14,4,10,1,0
+db741186,Collierville A,other,4,4,0,1,0
+db741186,Collierville A,physics,4,4,0,1,0
+e0b8a790,Arcadia B,biology,10,0,10,1,1
+e0b8a790,Arcadia B,chemistry,0,0,0,0,0
+e0b8a790,Arcadia B,ess,4,4,0,1,0
+e0b8a790,Arcadia B,math,0,0,0,0,0
+e0b8a790,Arcadia B,other,0,0,0,0,0
+e0b8a790,Arcadia B,physics,0,0,0,0,0
+e0b8a790,Bridgeland A,biology,4,4,0,1,0
+e0b8a790,Bridgeland A,chemistry,4,4,0,1,0
+e0b8a790,Bridgeland A,ess,0,0,0,0,0
+e0b8a790,Bridgeland A,math,0,0,0,0,0
+e0b8a790,Bridgeland A,other,18,8,10,2,0
+e0b8a790,Bridgeland A,physics,0,0,0,0,0
+f4a98246,Canyon Crest B,biology,-4,-4,0,0,1
+f4a98246,Canyon Crest B,chemistry,0,0,0,0,0
+f4a98246,Canyon Crest B,ess,0,0,0,0,0
+f4a98246,Canyon Crest B,math,14,4,10,1,0
+f4a98246,Canyon Crest B,other,4,4,0,1,0
+f4a98246,Canyon Crest B,physics,0,0,0,0,0
+f4a98246,Collierville B,biology,12,12,0,3,0
+f4a98246,Collierville B,chemistry,4,4,0,1,0
+f4a98246,Collierville B,ess,8,8,0,2,0
+f4a98246,Collierville B,math,14,4,10,1,0
+f4a98246,Collierville B,other,0,0,0,0,0
+f4a98246,Collierville B,physics,0,0,0,0,0
+1499be7b,BISV C,biology,4,4,0,1,0
+1499be7b,BISV C,chemistry,4,4,0,1,0
+1499be7b,BISV C,ess,14,4,10,1,0
+1499be7b,BISV C,math,4,4,0,1,0
+1499be7b,BISV C,other,46,16,30,4,0
+1499be7b,BISV C,physics,0,0,0,1,1
+1499be7b,Bridgeland B,biology,18,8,10,2,0
+1499be7b,Bridgeland B,chemistry,0,0,0,0,0
+1499be7b,Bridgeland B,ess,4,4,0,1,0
+1499be7b,Bridgeland B,math,8,8,0,2,0
+1499be7b,Bridgeland B,other,0,0,0,0,0
+1499be7b,Bridgeland B,physics,22,12,10,3,0
+152fa6c0,Collierville C,biology,0,0,0,0,0
+152fa6c0,Collierville C,chemistry,4,4,0,1,0
+152fa6c0,Collierville C,ess,4,4,0,1,0
+152fa6c0,Collierville C,math,0,0,0,0,0
+152fa6c0,Collierville C,other,4,4,0,1,0
+152fa6c0,Collierville C,physics,10,0,10,1,1
+152fa6c0,Punahou,biology,26,16,10,4,0
+152fa6c0,Punahou,chemistry,18,8,10,2,0
+152fa6c0,Punahou,ess,0,0,0,0,0
+152fa6c0,Punahou,math,22,12,10,3,0
+152fa6c0,Punahou,other,8,8,0,2,0
+152fa6c0,Punahou,physics,0,0,0,0,0
+2c088feb,Lambert,biology,32,12,20,3,0
+2c088feb,Lambert,chemistry,32,12,20,3,0
+2c088feb,Lambert,ess,0,0,0,0,0
+2c088feb,Lambert,math,14,4,10,1,0
+2c088feb,Lambert,other,4,4,0,1,0
+2c088feb,Lambert,physics,10,0,10,1,1
+2c088feb,TMSA,biology,10,0,10,1,1
+2c088feb,TMSA,chemistry,0,0,0,0,0
+2c088feb,TMSA,ess,8,8,0,2,0
+2c088feb,TMSA,math,4,4,0,1,0
+2c088feb,TMSA,other,8,8,0,2,0
+2c088feb,TMSA,physics,0,0,0,0,0
+67fb91ed,Bridgeland A,biology,8,8,0,2,0
+67fb91ed,Bridgeland A,chemistry,0,0,0,0,0
+67fb91ed,Bridgeland A,ess,18,8,10,2,0
+67fb91ed,Bridgeland A,math,0,0,0,0,0
+67fb91ed,Bridgeland A,other,-4,-4,0,0,1
+67fb91ed,Bridgeland A,physics,0,0,0,0,0
+67fb91ed,Canyon Crest B,biology,0,0,0,0,0
+67fb91ed,Canyon Crest B,chemistry,14,4,10,1,0
+67fb91ed,Canyon Crest B,ess,0,0,0,0,0
+67fb91ed,Canyon Crest B,math,14,4,10,1,0
+67fb91ed,Canyon Crest B,other,18,8,10,2,0
+67fb91ed,Canyon Crest B,physics,4,4,0,1,0
+74eeed2b,Arcadia B,biology,4,4,0,1,0
+74eeed2b,Arcadia B,chemistry,18,8,10,2,0
+74eeed2b,Arcadia B,ess,0,0,0,0,0
+74eeed2b,Arcadia B,math,0,0,0,0,0
+74eeed2b,Arcadia B,other,4,4,0,1,0
+74eeed2b,Arcadia B,physics,4,4,0,1,0
+74eeed2b,Collierville B,biology,8,8,0,2,0
+74eeed2b,Collierville B,chemistry,0,0,0,0,0
+74eeed2b,Collierville B,ess,8,8,0,2,0
+74eeed2b,Collierville B,math,14,4,10,1,0
+74eeed2b,Collierville B,other,8,8,0,2,0
+74eeed2b,Collierville B,physics,-4,-4,0,0,1
+88c63184,BI Fremont HS,biology,18,8,10,2,0
+88c63184,BI Fremont HS,chemistry,12,12,0,3,0
+88c63184,BI Fremont HS,ess,4,4,0,1,0
+88c63184,BI Fremont HS,math,4,4,0,1,0
+88c63184,BI Fremont HS,other,4,4,0,1,0
+88c63184,BI Fremont HS,physics,10,0,10,1,1
+88c63184,Jordan,biology,4,4,0,1,0
+88c63184,Jordan,chemistry,0,0,0,0,0
+88c63184,Jordan,ess,0,0,0,0,0
+88c63184,Jordan,math,4,4,0,1,0
+88c63184,Jordan,other,12,12,0,3,0
+88c63184,Jordan,physics,0,0,0,1,1
+23503800,Collierville C,biology,14,4,10,1,0
+23503800,Collierville C,chemistry,4,4,0,1,0
+23503800,Collierville C,ess,0,0,0,0,0
+23503800,Collierville C,math,0,0,0,0,0
+23503800,Collierville C,other,4,4,0,1,0
+23503800,Collierville C,physics,14,4,10,1,0
+23503800,Lambert,biology,18,8,10,2,0
+23503800,Lambert,chemistry,14,4,10,2,1
+23503800,Lambert,ess,4,4,0,1,0
+23503800,Lambert,math,36,16,20,4,0
+23503800,Lambert,other,0,0,0,1,1
+23503800,Lambert,physics,18,8,10,2,0
+2c9e7064,BI Fremont HS,biology,14,4,10,1,0
+2c9e7064,BI Fremont HS,chemistry,4,4,0,1,0
+2c9e7064,BI Fremont HS,ess,14,4,10,1,0
+2c9e7064,BI Fremont HS,math,0,0,0,0,0
+2c9e7064,BI Fremont HS,other,14,4,10,1,0
+2c9e7064,BI Fremont HS,physics,28,8,20,2,0
+2c9e7064,Collierville A,biology,18,8,10,2,0
+2c9e7064,Collierville A,chemistry,18,8,10,2,0
+2c9e7064,Collierville A,ess,4,4,0,1,0
+2c9e7064,Collierville A,math,36,16,20,4,0
+2c9e7064,Collierville A,other,4,4,0,1,0
+2c9e7064,Collierville A,physics,0,0,0,1,1
+36a688cf,BISV C,biology,4,4,0,1,0
+36a688cf,BISV C,chemistry,4,4,0,1,0
+36a688cf,BISV C,ess,0,0,0,0,0
+36a688cf,BISV C,math,12,12,0,3,0
+36a688cf,BISV C,other,14,4,10,1,0
+36a688cf,BISV C,physics,18,8,10,2,0
+36a688cf,Jordan,biology,14,4,10,1,0
+36a688cf,Jordan,chemistry,0,0,0,0,0
+36a688cf,Jordan,ess,14,4,10,1,0
+36a688cf,Jordan,math,4,4,0,1,0
+36a688cf,Jordan,other,8,8,0,2,0
+36a688cf,Jordan,physics,0,0,0,0,0
+5a9bf79f,Arcadia B,biology,4,4,0,1,0
+5a9bf79f,Arcadia B,chemistry,0,0,0,0,0
+5a9bf79f,Arcadia B,ess,14,4,10,1,0
+5a9bf79f,Arcadia B,math,8,8,0,2,0
+5a9bf79f,Arcadia B,other,0,0,0,0,0
+5a9bf79f,Arcadia B,physics,4,4,0,1,0
+5a9bf79f,Canyon Crest B,biology,0,0,0,0,0
+5a9bf79f,Canyon Crest B,chemistry,0,0,0,0,0
+5a9bf79f,Canyon Crest B,ess,0,0,0,0,0
+5a9bf79f,Canyon Crest B,math,18,8,10,2,0
+5a9bf79f,Canyon Crest B,other,4,4,0,1,0
+5a9bf79f,Canyon Crest B,physics,14,4,10,1,0
+74587065,Punahou,biology,8,8,0,2,0
+74587065,Punahou,chemistry,4,4,0,1,0
+74587065,Punahou,ess,14,4,10,1,0
+74587065,Punahou,math,4,4,0,1,0
+74587065,Punahou,other,4,4,0,1,0
+74587065,Punahou,physics,8,8,0,2,0
+74587065,TMSA,biology,18,8,10,2,0
+74587065,TMSA,chemistry,4,4,0,1,0
+74587065,TMSA,ess,0,0,0,0,0
+74587065,TMSA,math,18,8,10,2,0
+74587065,TMSA,other,4,4,0,1,0
+74587065,TMSA,physics,14,4,10,1,0
+cef82d1a,Bridgeland A,biology,28,8,20,2,0
+cef82d1a,Bridgeland A,chemistry,4,4,0,1,0
+cef82d1a,Bridgeland A,ess,0,0,0,0,0
+cef82d1a,Bridgeland A,math,0,0,0,0,0
+cef82d1a,Bridgeland A,other,4,4,0,1,0
+cef82d1a,Bridgeland A,physics,0,0,0,0,0
+cef82d1a,Collierville B,biology,0,0,0,0,0
+cef82d1a,Collierville B,chemistry,0,0,0,0,0
+cef82d1a,Collierville B,ess,18,8,10,2,0
+cef82d1a,Collierville B,math,8,8,0,2,0
+cef82d1a,Collierville B,other,4,4,0,1,0
+cef82d1a,Collierville B,physics,18,8,10,2,0
+3f35ce03,Collierville A,biology,4,4,0,1,0
+3f35ce03,Collierville A,chemistry,-4,-4,0,0,1
+3f35ce03,Collierville A,ess,4,4,0,1,0
+3f35ce03,Collierville A,math,0,0,0,0,0
+3f35ce03,Collierville A,other,8,8,0,2,0
+3f35ce03,Collierville A,physics,8,8,0,2,0
+3f35ce03,Jordan,biology,14,4,10,1,0
+3f35ce03,Jordan,chemistry,8,8,0,2,0
+3f35ce03,Jordan,ess,0,0,0,0,0
+3f35ce03,Jordan,math,12,12,0,3,0
+3f35ce03,Jordan,other,4,4,0,1,0
+3f35ce03,Jordan,physics,0,0,0,0,0
+97f1551f,BI Fremont HS,biology,14,4,10,1,0
+97f1551f,BI Fremont HS,chemistry,4,4,0,1,0
+97f1551f,BI Fremont HS,ess,18,8,10,2,0
+97f1551f,BI Fremont HS,math,0,0,0,1,1
+97f1551f,BI Fremont HS,other,22,12,10,3,0
+97f1551f,BI Fremont HS,physics,0,0,0,1,1
+97f1551f,Bridgeland B,biology,4,4,0,1,0
+97f1551f,Bridgeland B,chemistry,4,4,0,1,0
+97f1551f,Bridgeland B,ess,14,4,10,1,0
+97f1551f,Bridgeland B,math,18,8,10,3,1
+97f1551f,Bridgeland B,other,0,0,0,0,0
+97f1551f,Bridgeland B,physics,4,4,0,1,0
+014b1c7b,BISV C,biology,4,4,0,1,0
+014b1c7b,BISV C,chemistry,0,0,0,0,0
+014b1c7b,BISV C,ess,-4,-4,0,0,1
+014b1c7b,BISV C,math,18,8,10,2,0
+014b1c7b,BISV C,other,56,16,40,4,0
+014b1c7b,BISV C,physics,4,4,0,1,0
+014b1c7b,Collierville A,biology,14,4,10,1,0
+014b1c7b,Collierville A,chemistry,0,0,0,0,0
+014b1c7b,Collierville A,ess,0,0,0,0,0
+014b1c7b,Collierville A,math,4,4,0,1,0
+014b1c7b,Collierville A,other,0,0,0,0,0
+014b1c7b,Collierville A,physics,0,0,0,0,0
+43ce8010,Bridgeland B,biology,4,4,0,1,0
+43ce8010,Bridgeland B,chemistry,0,0,0,0,0
+43ce8010,Bridgeland B,ess,4,4,0,1,0
+43ce8010,Bridgeland B,math,8,8,0,2,0
+43ce8010,Bridgeland B,other,18,8,10,2,0
+43ce8010,Bridgeland B,physics,4,4,0,1,0
+43ce8010,Jordan,biology,14,4,10,1,0
+43ce8010,Jordan,chemistry,22,12,10,3,0
+43ce8010,Jordan,ess,4,4,0,1,0
+43ce8010,Jordan,math,8,8,0,2,0
+43ce8010,Jordan,other,4,4,0,1,0
+43ce8010,Jordan,physics,14,4,10,1,0
+16b2317e,BI Fremont HS,biology,28,8,20,2,0
+16b2317e,BI Fremont HS,chemistry,8,8,0,2,0
+16b2317e,BI Fremont HS,ess,8,8,0,2,0
+16b2317e,BI Fremont HS,math,4,4,0,1,0
+16b2317e,BI Fremont HS,other,0,0,0,0,0
+16b2317e,BI Fremont HS,physics,14,4,10,1,0
+16b2317e,Lambert,biology,18,8,10,2,0
+16b2317e,Lambert,chemistry,18,8,10,2,0
+16b2317e,Lambert,ess,4,4,0,1,0
+16b2317e,Lambert,math,0,0,0,0,0
+16b2317e,Lambert,other,12,12,0,3,0
+16b2317e,Lambert,physics,0,0,0,1,1
+5c5dac17,Collierville B,biology,42,12,30,3,0
+5c5dac17,Collierville B,chemistry,14,4,10,1,0
+5c5dac17,Collierville B,ess,4,4,0,1,0
+5c5dac17,Collierville B,math,0,0,0,0,0
+5c5dac17,Collierville B,other,4,4,0,1,0
+5c5dac17,Collierville B,physics,0,0,0,0,0
+5c5dac17,Jordan,biology,14,4,10,1,0
+5c5dac17,Jordan,chemistry,14,4,10,1,0
+5c5dac17,Jordan,ess,8,8,0,2,0
+5c5dac17,Jordan,math,18,8,10,2,0
+5c5dac17,Jordan,other,0,0,0,0,0
+5c5dac17,Jordan,physics,8,8,0,2,0
+8bad3092,BISV C,biology,0,0,0,0,0
+8bad3092,BISV C,chemistry,0,0,0,0,0
+8bad3092,BISV C,ess,0,0,0,1,1
+8bad3092,BISV C,math,4,4,0,1,0
+8bad3092,BISV C,other,18,8,10,2,0
+8bad3092,BISV C,physics,0,0,0,0,0
+8bad3092,TMSA,biology,46,16,30,4,0
+8bad3092,TMSA,chemistry,4,4,0,1,0
+8bad3092,TMSA,ess,4,4,0,1,0
+8bad3092,TMSA,math,0,0,0,1,1
+8bad3092,TMSA,other,4,4,0,1,0
+8bad3092,TMSA,physics,4,4,0,1,0
+e806b260,Canyon Crest B,biology,28,8,20,2,0
+e806b260,Canyon Crest B,chemistry,4,4,0,1,0
+e806b260,Canyon Crest B,ess,0,0,0,0,0
+e806b260,Canyon Crest B,math,0,0,0,0,0
+e806b260,Canyon Crest B,other,4,4,0,1,0
+e806b260,Canyon Crest B,physics,0,0,0,0,0
+e806b260,Punahou,biology,18,8,10,2,0
+e806b260,Punahou,chemistry,0,0,0,0,0
+e806b260,Punahou,ess,8,8,0,2,0
+e806b260,Punahou,math,4,4,0,1,0
+e806b260,Punahou,other,0,0,0,0,0
+e806b260,Punahou,physics,4,4,0,1,0
+4c895740,Jordan,biology,0,0,0,0,0
+4c895740,Jordan,chemistry,8,8,0,2,0
+4c895740,Jordan,ess,8,8,0,2,0
+4c895740,Jordan,math,-4,-4,0,0,1
+4c895740,Jordan,other,0,0,0,0,0
+4c895740,Jordan,physics,8,8,0,2,0
+4c895740,Lambert,biology,14,4,10,1,0
+4c895740,Lambert,chemistry,0,0,0,1,1
+4c895740,Lambert,ess,4,4,0,1,0
+4c895740,Lambert,math,32,12,20,3,0
+4c895740,Lambert,other,0,0,0,0,0
+4c895740,Lambert,physics,-4,-4,0,0,1
+8674dd7c,BI Fremont HS,biology,4,4,0,1,0
+8674dd7c,BI Fremont HS,chemistry,8,8,0,2,0
+8674dd7c,BI Fremont HS,ess,4,4,0,1,0
+8674dd7c,BI Fremont HS,math,4,4,0,1,0
+8674dd7c,BI Fremont HS,other,8,8,0,2,0
+8674dd7c,BI Fremont HS,physics,4,4,0,1,0
+8674dd7c,Collierville B,biology,14,4,10,1,0
+8674dd7c,Collierville B,chemistry,0,0,0,1,1
+8674dd7c,Collierville B,ess,0,0,0,0,0
+8674dd7c,Collierville B,math,0,0,0,0,0
+8674dd7c,Collierville B,other,0,0,0,0,0
+8674dd7c,Collierville B,physics,-4,-4,0,0,1
+da9b5774,Canyon Crest B,biology,22,12,10,3,0
+da9b5774,Canyon Crest B,chemistry,4,4,0,1,0
+da9b5774,Canyon Crest B,ess,0,0,0,0,0
+da9b5774,Canyon Crest B,math,0,0,0,0,0
+da9b5774,Canyon Crest B,other,0,0,0,0,0
+da9b5774,Canyon Crest B,physics,0,0,0,0,0
+da9b5774,TMSA,biology,-4,-4,0,0,1
+da9b5774,TMSA,chemistry,-4,-4,0,0,1
+da9b5774,TMSA,ess,32,12,20,3,0
+da9b5774,TMSA,math,12,12,0,3,0
+da9b5774,TMSA,other,4,4,0,1,0
+da9b5774,TMSA,physics,14,4,10,1,0
+f6d74811,BISV C,biology,18,8,10,2,0
+f6d74811,BISV C,chemistry,0,0,0,0,0
+f6d74811,BISV C,ess,4,4,0,1,0
+f6d74811,BISV C,math,4,4,0,1,0
+f6d74811,BISV C,other,14,4,10,1,0
+f6d74811,BISV C,physics,14,4,10,1,0
+f6d74811,Punahou,biology,4,4,0,1,0
+f6d74811,Punahou,chemistry,0,0,0,1,1
+f6d74811,Punahou,ess,14,4,10,1,0
+f6d74811,Punahou,math,0,0,0,0,0
+f6d74811,Punahou,other,0,0,0,0,0
+f6d74811,Punahou,physics,0,0,0,0,0
+21803a4e,Canyon Crest B,biology,0,0,0,0,0
+21803a4e,Canyon Crest B,chemistry,8,8,0,2,0
+21803a4e,Canyon Crest B,ess,0,0,0,0,0
+21803a4e,Canyon Crest B,math,4,4,0,1,0
+21803a4e,Canyon Crest B,other,4,4,0,1,0
+21803a4e,Canyon Crest B,physics,0,0,0,0,0
+21803a4e,Lambert,biology,42,12,30,3,0
+21803a4e,Lambert,chemistry,14,4,10,1,0
+21803a4e,Lambert,ess,8,8,0,2,0
+21803a4e,Lambert,math,0,0,0,0,0
+21803a4e,Lambert,other,14,4,10,1,0
+21803a4e,Lambert,physics,22,12,10,3,0
+fe9846aa,BISV C,biology,4,4,0,1,0
+fe9846aa,BISV C,chemistry,4,4,0,1,0
+fe9846aa,BISV C,ess,18,8,10,2,0
+fe9846aa,BISV C,math,0,0,0,1,1
+fe9846aa,BISV C,other,28,8,20,2,0
+fe9846aa,BISV C,physics,14,4,10,1,0
+fe9846aa,Collierville B,biology,4,4,0,1,0
+fe9846aa,Collierville B,chemistry,0,0,0,0,0
+fe9846aa,Collierville B,ess,8,8,0,2,0
+fe9846aa,Collierville B,math,0,0,0,0,0
+fe9846aa,Collierville B,other,4,4,0,1,0
+fe9846aa,Collierville B,physics,8,8,0,2,0
+8ade1476,BISV C,biology,0,0,0,0,0
+8ade1476,BISV C,chemistry,0,0,0,0,0
+8ade1476,BISV C,ess,4,4,0,1,0
+8ade1476,BISV C,math,8,8,0,2,0
+8ade1476,BISV C,other,18,8,10,2,0
+8ade1476,BISV C,physics,14,4,10,1,0
+8ade1476,Lambert,biology,32,12,20,3,0
+8ade1476,Lambert,chemistry,16,16,0,4,0
+8ade1476,Lambert,ess,0,0,0,1,1
+8ade1476,Lambert,math,0,0,0,1,1
+8ade1476,Lambert,other,0,0,0,0,0
+8ade1476,Lambert,physics,4,4,0,1,0
+9e6498d3,BI Fremont HS,biology,-4,-4,0,0,1
+9e6498d3,BI Fremont HS,chemistry,4,4,0,1,0
+9e6498d3,BI Fremont HS,ess,4,4,0,2,1
+9e6498d3,BI Fremont HS,math,4,4,0,1,0
+9e6498d3,BI Fremont HS,other,-4,-4,0,0,1
+9e6498d3,BI Fremont HS,physics,4,4,0,1,0
+9e6498d3,TMSA,biology,26,16,10,4,0
+9e6498d3,TMSA,chemistry,0,0,0,1,1
+9e6498d3,TMSA,ess,0,0,0,0,0
+9e6498d3,TMSA,math,8,8,0,2,0
+9e6498d3,TMSA,other,0,0,0,0,0
+9e6498d3,TMSA,physics,4,4,0,1,0
+4ffdda93,BI Fremont HS,biology,14,4,10,1,0
+4ffdda93,BI Fremont HS,chemistry,4,4,0,1,0
+4ffdda93,BI Fremont HS,ess,-8,-8,0,0,2
+4ffdda93,BI Fremont HS,math,4,4,0,1,0
+4ffdda93,BI Fremont HS,other,0,0,0,0,0
+4ffdda93,BI Fremont HS,physics,4,4,0,1,0
+4ffdda93,Lambert,biology,4,4,0,1,0
+4ffdda93,Lambert,chemistry,24,4,20,2,1
+4ffdda93,Lambert,ess,4,4,0,1,0
+4ffdda93,Lambert,math,4,4,0,1,0
+4ffdda93,Lambert,other,0,0,0,0,0
+4ffdda93,Lambert,physics,4,4,0,1,0
+4b9f759f,Lambert,biology,-4,-4,0,1,2
+4b9f759f,Lambert,chemistry,14,4,10,1,0
+4b9f759f,Lambert,ess,18,8,10,2,0
+4b9f759f,Lambert,math,0,0,0,1,1
+4b9f759f,Lambert,other,4,4,0,1,0
+4b9f759f,Lambert,physics,4,4,0,1,0
+4b9f759f,TMSA,biology,0,0,0,1,1
+4b9f759f,TMSA,chemistry,0,0,0,0,0
+4b9f759f,TMSA,ess,0,0,0,0,0
+4b9f759f,TMSA,math,4,4,0,1,0
+4b9f759f,TMSA,other,0,0,0,0,0
+4b9f759f,TMSA,physics,0,0,0,0,0
+859d1244,Lambert,biology,26,16,10,4,0
+859d1244,Lambert,chemistry,36,16,20,4,0
+859d1244,Lambert,ess,14,4,10,1,0
+859d1244,Lambert,math,4,4,0,1,0
+859d1244,Lambert,other,0,0,0,0,0
+859d1244,Lambert,physics,0,0,0,0,0
+859d1244,TMSA,biology,0,0,0,0,0
+859d1244,TMSA,chemistry,0,0,0,0,0
+859d1244,TMSA,ess,4,4,0,1,0
+859d1244,TMSA,math,8,8,0,2,0
+859d1244,TMSA,other,0,0,0,0,0
+859d1244,TMSA,physics,0,0,0,0,0

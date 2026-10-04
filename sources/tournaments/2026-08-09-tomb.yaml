@@ -17,7 +17,8 @@ sources:
   role: results+stats
   slug: trio-online-math-bowl-tomb
   url: https://isobowl.com/premier/tournaments/trio-online-math-bowl-tomb/standings
-parser: null
-parser_options: {}
+parser: g1_isobowl:parse
+parser_options:
+  subject_override: math
 status: todo
 notes: ''

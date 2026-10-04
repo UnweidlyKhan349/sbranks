@@ -1,0 +1,246 @@
+=== initial
+ISOBowl
+DATABASE
+BUZZER
+SCRIMMAGE
+PREMIER
+SIGN IN
+ICSBT 3
+OCT 11
+·
+ICSBT
+LEXINGTON ONLINE SCIBOWL TOURNAMENT 3
+OCT 18
+·
+Lexington HS
+← Premier
+
+Jun 14 – Aug 30, 2026 · 14 teams
+
+NSBA 4
+
+STATUS
+
+COMPLETED
+
+CHAMPION — WEILORDS
+
+Hub
+Stats
+Teams
+Packets
+Stage
+All stages
+Stage
+Subject
+All subjects
+Subject
+Team
+All Teams
+Team
+Rate N
+Rate N
+Team
+Individual
+TEAM
+	GP
+	W
+	L
+	PF
+	PA
+	TUH
+	PPTUH
+	COR
+	INC
+	NEG
+
+Weilords	9	8	1	814	518	210	3.9	105	24	24
+Mingworms	9	6	3	818	484	208	3.9	103	30	31
+DANK	8	6	2	608	556	185	3.3	78	31	21
+Cryofornia Gurls	8	5	3	702	488	186	3.8	89	29	21
+CZZ	7	4	3	520	578	163	3.2	63	26	13
+Ferroasumin	7	3	4	536	594	162	3.3	64	23	15
+Uncs	7	3	4	534	628	161	3.3	68	26	17
+Seanjay	6	3	3	468	490	138	3.4	59	17	17
+(Stitch)^2	7	3	4	430	596	162	2.7	67	17	32
+Ponnor St. Germain	6	2	4	546	462	139	3.9	67	13	13
+Gid	6	2	4	416	610	138	3.0	53	19	24
+Hellcats	6	2	4	370	540	138	2.7	51	19	21
+Fez_Keyreb	6	1	5	554	576	138	4.0	57	13	11
+Jonathan	6	1	5	356	552	140	2.5	55	7	36
+
+ISOBowl — The Science Bowl Hub
+
+Question Database
+·
+Buzzer Rooms
+·
+Scrimmage
+·
+Premier
+·
+My Teams
+Changelog
+·
+For IT administrators
+·
+Discord
+·
+Sign in
+=== after click Individual
+ISOBowl
+DATABASE
+BUZZER
+SCRIMMAGE
+PREMIER
+SIGN IN
+ICSBT 3
+OCT 11
+·
+ICSBT
+LEXINGTON ONLINE SCIBOWL TOURNAMENT 3
+OCT 18
+·
+Lexington HS
+← Premier
+
+Jun 14 – Aug 30, 2026 · 14 teams
+
+NSBA 4
+
+STATUS
+
+COMPLETED
+
+CHAMPION — WEILORDS
+
+Hub
+Stats
+Teams
+Packets
+Stage
+All stages
+Stage
+Subject
+All subjects
+Subject
+Team
+All Teams
+Team
+Rate N
+Rate N
+Team
+Individual
+PLAYER
+	TEAM
+	GP
+	TUH
+	PTS
+	PPTUH
+	COR
+	INC
+	NEG
+
+Arjun D [WWPS]	(Stitch)^2	6	131	48	0.4	14	3	2
+pancreas uvula	(Stitch)^2	7	162	44	0.3	28	5	17
+AlexL	(Stitch)^2	7	150	28	0.2	8	0	1
+Ryan K [Blair Clemens]	(Stitch)^2	7	162	20	0.1	10	5	5
+henry	(Stitch)^2	3	58	0	0.0	0	0	0
+Sam E	(Stitch)^2	7	162	0	0.0	7	4	7
+Edward	Cryofornia Gurls	8	186	116	0.6	36	22	7
+suzuko	Cryofornia Gurls	8	186	92	0.5	28	5	5
+EN2K	Cryofornia Gurls	8	186	24	0.1	10	0	4
+Ethan Wang	Cryofornia Gurls	8	186	24	0.1	11	2	5
+shamp0	Cryofornia Gurls	2	21	8	0.4	2	0	0
+seonhoc	Cryofornia Gurls	7	142	4	0.0	1	0	0
+vishnu m	CZZ	6	139	104	0.7	31	17	5
+Achuth	CZZ	7	163	28	0.2	8	1	1
+anish a	CZZ	3	70	24	0.3	7	4	1
+Charles	CZZ	7	163	24	0.1	11	1	5
+lysine	CZZ	6	130	20	0.2	6	3	1
+Rehan	CZZ	1	12	0	0.0	0	0	0
+Rehan	CZZ	1	23	0	0.0	0	0	0
+Varyan J	DANK	8	175	84	0.5	31	11	10
+Lishan P	DANK	8	185	80	0.4	21	9	1
+Dennis J	DANK	8	185	32	0.2	10	2	2
+khio	DANK	8	162	28	0.2	8	6	1
+cysteine	DANK	6	139	4	0.0	8	3	7
+Sriman D	DANK	4	57	0	0.0	0	0	0
+Lucas	Ferroasumin	7	162	108	0.7	30	9	3
+Angelina Y	Ferroasumin	7	162	52	0.3	15	2	2
+Advai S	Ferroasumin	7	162	20	0.1	8	2	3
+Kevin F	Ferroasumin	5	115	12	0.1	9	3	6
+Likhith M [Gargy B	Ferroasumin	3	68	4	0.1	2	7	1
+Santhosh	Ferroasumin	1	23	0	0.0	0	0	0
+Advik S	Fez_Keyreb	4	92	56	0.6	16	2	2
+Chris W	Fez_Keyreb	6	138	40	0.3	16	3	6
+Justin K	Fez_Keyreb	5	115	40	0.3	11	4	1
+Aldric B	Fez_Keyreb	3	69	36	0.5	9	1	0
+Shubam	Fez_Keyreb	5	104	12	0.1	5	2	2
+nathaniel o	Fez_Keyreb	1	11	0	0.0	0	1	0
+Harry Gao	Gid	5	115	72	0.6	21	8	3
+William Jung	Gid	6	127	24	0.2	12	3	6
+William W	Gid	6	138	24	0.2	8	0	2
+Monish S	Gid	6	138	8	0.1	8	4	6
+Abhinav A	Gid	2	46	0	0.0	1	2	1
+Abhinav A	Gid	4	92	-12	-0.1	3	2	6
+Eric L	Hellcats	5	115	40	0.3	16	3	6
+dynomite	Hellcats	5	96	32	0.3	9	3	1
+VarunMATHs	Hellcats	5	115	32	0.3	9	5	1
+Agamotto	Hellcats	3	69	8	0.1	3	1	1
+ishaan k	Hellcats	6	138	8	0.1	14	7	12
+RIsh	Hellcats	3	69	0	0.0	0	0	0
+potential man	Jonathan	6	140	40	0.3	24	3	14
+Patrick Liang	Jonathan	5	111	24	0.2	6	0	0
+bora	Jonathan	6	140	12	0.1	13	1	10
+jagss8	Jonathan	5	93	8	0.1	5	2	3
+Dennis	Jonathan	5	100	-4	-0.0	1	0	2
+kensuke o	Jonathan	5	116	-4	-0.0	6	1	7
+mingworm 5	Mingworms	7	162	104	0.6	37	2	11
+mingworm 2	Mingworms	8	185	96	0.5	37	10	13
+mingworm 1	Mingworms	8	115	40	0.3	10	2	0
+mingworm 4	Mingworms	8	171	32	0.2	10	3	2
+mingworm 3	Mingworms	8	153	20	0.1	6	9	1
+mingworm captain	Mingworms	8	185	-4	-0.0	3	4	4
+Kian D [SOG]	Ponnor St. Germain	6	136	136	1.0	40	6	6
+snapninja	Ponnor St. Germain	6	139	48	0.3	14	0	2
+dannyridel	Ponnor St. Germain	6	139	28	0.2	11	7	4
+Minghao G	Ponnor St. Germain	5	116	4	0.0	1	0	0
+Nithin	Ponnor St. Germain	5	71	0	0.0	0	0	0
+vockey	Ponnor St. Germain	5	71	0	0.0	1	0	1
+shean F	Seanjay	6	138	68	0.5	21	3	4
+Riyan N	Seanjay	6	138	44	0.3	11	5	0
+Sanjay Suresh	Seanjay	5	115	28	0.2	11	6	4
+Travis D	Seanjay	6	138	28	0.2	9	2	2
+Sanjay O	Seanjay	6	138	0	0.0	7	1	7
+Rohan G	Uncs	5	115	80	0.7	29	7	9
+Jianyu	Uncs	5	115	48	0.4	13	6	1
+Daniel Y	Uncs	6	138	32	0.2	14	10	6
+Pravira	Uncs	6	138	24	0.2	6	0	0
+Nihar B [TO/Mod]	Uncs	1	23	12	0.5	3	0	0
+Nihar B [Test]	Uncs	4	81	8	0.1	3	3	1
+akhil	Weilords	9	210	148	0.7	51	11	14
+Sohil	Weilords	9	210	108	0.5	31	12	4
+jake r	Weilords	9	196	28	0.1	10	0	3
+Kavin Anreddy	Weilords	9	187	24	0.1	6	0	0
+aeromonas	Weilords	9	210	12	0.1	6	1	3
+alex	Weilords	3	37	4	0.1	1	0	0
+
+ISOBowl — The Science Bowl Hub
+
+Question Database
+·
+Buzzer Rooms
+·
+Scrimmage
+·
+Premier
+·
+My Teams
+Changelog
+·
+For IT administrators
+·
+Discord
+·
+Sign in

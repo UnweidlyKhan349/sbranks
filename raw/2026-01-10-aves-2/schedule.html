@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyrie</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M3 13h2v8H3zm4-8h2v13H7zm4-2h2v15h-2zm4 4h2v11h-2zm4-2h2v13h-2z" />
+                    </svg>
+                </div>
+                <span class="logo-text">Eyrie</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/rrscores">RR Scores</a></li>
+                <li><a href="/rrrank">RR Rankings</a></li>
+                <li><a href="/debracket">DE Bracket</a></li>
+                <li><a href="/sebracket">SE Bracket</a></li>
+                <li><a href="/stats">Stats</a></li>
+                <li><a href="/schedule">Schedule</a></li>
+                <li><a href="/games">Games</a></li>
+                <li><a href="/logout">Logout</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <ul class="nav-links-mobile" id="navLinksMobile">
+            <li><a href="/">Home</a></li>
+            <li><a href="/rrscores">RR Scores</a></li>
+            <li><a href="/rrrank">RR Rankings</a></li>
+            <li><a href="/debracket">DE Bracket</a></li>
+            <li><a href="/sebracket">SE Bracket</a></li>
+            <li><a href="/stats">Stats</a></li>
+            <li><a href="/schedule">Schedule</a></li>
+            <li><a href="/games">Games</a></li>
+            <li><a href="/logout">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        
+<section class="schedule-page">
+    <div class="container" style="max-width: 1400px; margin: auto; padding: 20px; color: #fff;">
+        <br><br><br><br>
+        <h1 class="page-title" style="text-align: center; margin-bottom: 30px;">Tournament Schedule</h1>
+
+        <div class="schedule-container"
+            style="background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 10px;">
+            <iframe
+                src=https://docs.google.com/spreadsheets/d/1aoTu_d9iDFMe6rEXC81L55RiNHMJK8-TbCQOAI4ioV8/edit?gid=1256848458#gid=1256848458"
+                style="width: 100%; height: 1500px; border: none; border-radius: 4px;" scrolling="no"></iframe>
+        </div>
+
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="https://docs.google.com/spreadsheets/d/1aoTu_d9iDFMe6rEXC81L55RiNHMJK8-TbCQOAI4ioV8/edit?gid=1256848458#gid=1256848458"
+                target="_blank" style="color: #58a6ff; text-decoration: none;">View full spreadsheet in new tab ↗</a>
+        </div>
+    </div>
+</section>
+
+<style>
+    body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+    }
+</style>
+
+    </main>
+</body>
+
+</html>

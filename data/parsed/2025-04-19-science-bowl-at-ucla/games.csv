@@ -1,0 +1,65 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Diamond Bar,Troy,88,134,2,0,pool Antares
+g2,rr,RR5,5,Diamond Bar,South Pasadena,76,100,2,0,pool Antares
+g3,rr,RR4,4,Diamond Bar,OCSA,38,100,2,0,pool Antares
+g4,rr,RR3,3,Diamond Bar,Portola,56,72,2,0,pool Antares
+g5,rr,RR3,3,Troy,South Pasadena,214,32,1,0,pool Antares
+g6,rr,RR5,5,Troy,OCSA,202,18,1,0,pool Antares
+g7,rr,RR2,2,Troy,Portola,152,82,1,0,pool Antares
+g8,rr,RR2,2,South Pasadena,OCSA,16,184,2,0,pool Antares
+g9,rr,RR4,4,South Pasadena,Portola,88,114,2,0,pool Antares
+g10,rr,RR1,1,OCSA,Portola,82,94,2,0,pool Antares
+g11,rr,RR1,1,Palm Desert,Santa Monica,30,164,2,0,pool Bellatrix
+g12,rr,RR5,5,Palm Desert,San Marino,46,182,2,0,pool Bellatrix
+g13,rr,RR4,4,Palm Desert,Palos Verdes,48,90,2,0,pool Bellatrix
+g14,rr,RR3,3,Palm Desert,Northwood,44,122,2,0,pool Bellatrix
+g15,rr,RR3,3,Santa Monica,San Marino,156,114,1,0,pool Bellatrix
+g16,rr,RR5,5,Santa Monica,Palos Verdes,102,100,1,0,pool Bellatrix
+g17,rr,RR2,2,Santa Monica,Northwood,146,46,1,0,pool Bellatrix
+g18,rr,RR2,2,San Marino,Palos Verdes,106,82,1,0,pool Bellatrix
+g19,rr,RR4,4,San Marino,Northwood,152,42,1,0,pool Bellatrix
+g20,rr,RR1,1,Palos Verdes,Northwood,68,64,1,0,pool Bellatrix
+g21,rr,RR1,1,La Canada,Aquinas,62,68,2,0,pool Copernicus
+g22,rr,RR5,5,La Canada,Arcadia 1,80,122,2,0,pool Copernicus
+g23,rr,RR4,4,La Canada,Walnut,64,76,2,0,pool Copernicus
+g24,rr,RR3,3,La Canada,Beckman,60,112,2,0,pool Copernicus
+g25,rr,RR2,2,La Canada,University,34,270,2,0,pool Copernicus
+g26,rr,RR3,3,Aquinas,Arcadia 1,28,170,2,0,pool Copernicus
+g27,rr,RR5,5,Aquinas,Walnut,44,142,2,0,pool Copernicus
+g28,rr,RR2,2,Aquinas,Beckman,36,118,2,0,pool Copernicus
+g29,rr,RR4,4,Aquinas,University,24,230,2,0,pool Copernicus
+g30,rr,RR2,2,Arcadia 1,Walnut,146,76,1,0,pool Copernicus
+g31,rr,RR4,4,Arcadia 1,Beckman,86,132,2,0,pool Copernicus
+g32,rr,RR1,1,Arcadia 1,University,86,164,2,0,pool Copernicus
+g33,rr,RR1,1,Walnut,Beckman,60,136,2,0,pool Copernicus
+g34,rr,RR3,3,Walnut,University,66,212,2,0,pool Copernicus
+g35,rr,RR5,5,Beckman,University,94,164,2,0,pool Copernicus
+g36,rr,RR1,1,Temple City,Whitney,94,148,2,0,pool Diadem
+g37,rr,RR5,5,Temple City,Arcadia 2,108,66,1,0,pool Diadem
+g38,rr,RR4,4,Temple City,Simi Valley,66,44,1,0,pool Diadem
+g39,rr,RR3,3,Temple City,Marshall,164,64,1,0,pool Diadem
+g40,rr,RR2,2,Temple City,St. Margaret's,102,64,1,0,pool Diadem
+g41,rr,RR3,3,Whitney,Arcadia 2,128,72,1,0,pool Diadem
+g42,rr,RR5,5,Whitney,Simi Valley,168,22,1,0,pool Diadem
+g43,rr,RR2,2,Whitney,Marshall,152,54,1,0,pool Diadem
+g44,rr,RR4,4,Whitney,St. Margaret's,134,58,1,0,pool Diadem
+g45,rr,RR2,2,Arcadia 2,Simi Valley,140,12,1,0,pool Diadem
+g46,rr,RR4,4,Arcadia 2,Marshall,68,72,2,0,pool Diadem
+g47,rr,RR1,1,Arcadia 2,St. Margaret's,62,108,2,0,pool Diadem
+g48,rr,RR1,1,Simi Valley,Marshall,20,98,2,0,pool Diadem
+g49,rr,RR3,3,Simi Valley,St. Margaret's,36,144,2,0,pool Diadem
+g50,rr,RR5,5,Marshall,St. Margaret's,40,104,2,0,pool Diadem
+g51,playoff,DE1,6,University,Portola,210,64,1,0,
+g52,playoff,DE1,6,San Marino,Santa Monica,96,44,1,0,
+g53,playoff,DE1,6,Whitney,Beckman,78,72,1,0,
+g54,playoff,DE1,6,Temple City,Troy,54,152,2,0,
+g55,playoff,DE2,7,University,San Marino,172,112,1,0,
+g56,playoff,DE2,7,Whitney,Troy,122,92,1,0,
+g57,playoff,DE2,7,Santa Monica,Portola,84,78,1,0,
+g58,playoff,DE2,7,Temple City,Beckman,56,76,2,0,
+g59,playoff,DE3,8,Troy,Santa Monica,156,76,1,0,
+g60,playoff,DE3,8,San Marino,Beckman,68,88,2,0,
+g61,playoff,DE4,9,University,Whitney,134,126,1,0,
+g62,playoff,DE4,9,Troy,Beckman,138,50,1,0,
+g63,playoff,DE5,10,Whitney,Troy,54,162,2,0,
+g64,playoff,Final,11,University,Troy,150,114,1,0,

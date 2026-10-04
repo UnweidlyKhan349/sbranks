@@ -23,7 +23,9 @@ sources:
   sheet_id: 18yB5OY7JungPUrXYCXbfsUdmdsl9I_750z1fYXlR0_c
   url: https://docs.google.com/spreadsheets/d/18yB5OY7JungPUrXYCXbfsUdmdsl9I_750z1fYXlR0_c/edit?gid=849644313#gid=849644313
   file: stats.xlsx
-parser: null
-parser_options: {}
+parser: g5_stanford_template:parse
+parser_options:
+  stats: stats.xlsx
+  raw_check: true
 status: todo
 notes: ''

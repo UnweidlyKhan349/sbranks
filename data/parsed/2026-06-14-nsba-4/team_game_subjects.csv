@@ -1,0 +1,589 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+11d4d4ac,Mingworms,biology,22,12,10,3,0
+11d4d4ac,Mingworms,chemistry,14,4,10,1,0
+11d4d4ac,Mingworms,ess,8,8,0,2,0
+11d4d4ac,Mingworms,math,0,0,0,0,0
+11d4d4ac,Mingworms,other,4,4,0,1,0
+11d4d4ac,Mingworms,physics,0,0,0,2,2
+11d4d4ac,Uncs,biology,0,0,0,0,0
+11d4d4ac,Uncs,chemistry,18,8,10,3,1
+11d4d4ac,Uncs,ess,18,8,10,2,0
+11d4d4ac,Uncs,math,18,8,10,2,0
+11d4d4ac,Uncs,other,28,8,20,2,0
+11d4d4ac,Uncs,physics,14,4,10,2,1
+2ba0bb4d,Ferroasumin,biology,36,16,20,4,0
+2ba0bb4d,Ferroasumin,chemistry,4,4,0,2,1
+2ba0bb4d,Ferroasumin,ess,56,16,40,4,0
+2ba0bb4d,Ferroasumin,math,10,0,10,1,1
+2ba0bb4d,Ferroasumin,other,0,0,0,0,0
+2ba0bb4d,Ferroasumin,physics,32,12,20,3,0
+2ba0bb4d,Gid,biology,0,0,0,0,0
+2ba0bb4d,Gid,chemistry,20,0,20,2,2
+2ba0bb4d,Gid,ess,-4,-4,0,0,1
+2ba0bb4d,Gid,math,0,0,0,1,1
+2ba0bb4d,Gid,other,4,4,0,1,0
+2ba0bb4d,Gid,physics,0,0,0,1,1
+36760730,DANK,biology,10,0,10,1,1
+36760730,DANK,chemistry,28,8,20,2,0
+36760730,DANK,ess,8,8,0,2,0
+36760730,DANK,math,18,8,10,2,0
+36760730,DANK,other,14,4,10,1,0
+36760730,DANK,physics,14,4,10,2,1
+36760730,Seanjay,biology,22,12,10,3,0
+36760730,Seanjay,chemistry,14,4,10,2,1
+36760730,Seanjay,ess,14,4,10,1,0
+36760730,Seanjay,math,4,4,0,1,0
+36760730,Seanjay,other,8,8,0,2,0
+36760730,Seanjay,physics,10,0,10,2,2
+3f0244c0,Hellcats,biology,46,16,30,4,0
+3f0244c0,Hellcats,chemistry,14,4,10,1,0
+3f0244c0,Hellcats,ess,14,4,10,2,1
+3f0244c0,Hellcats,math,14,4,10,2,1
+3f0244c0,Hellcats,other,14,4,10,1,0
+3f0244c0,Hellcats,physics,18,8,10,2,0
+3f0244c0,Ponnor St. Germain,biology,0,0,0,0,0
+3f0244c0,Ponnor St. Germain,chemistry,32,12,20,3,0
+3f0244c0,Ponnor St. Germain,ess,18,8,10,2,0
+3f0244c0,Ponnor St. Germain,math,18,8,10,2,0
+3f0244c0,Ponnor St. Germain,other,14,4,10,1,0
+3f0244c0,Ponnor St. Germain,physics,10,0,10,1,1
+6c664b41,Cryofornia Gurls,biology,4,4,0,1,0
+6c664b41,Cryofornia Gurls,chemistry,12,12,0,3,0
+6c664b41,Cryofornia Gurls,ess,4,4,0,1,0
+6c664b41,Cryofornia Gurls,math,14,4,10,1,0
+6c664b41,Cryofornia Gurls,other,22,12,10,3,0
+6c664b41,Cryofornia Gurls,physics,42,12,30,3,0
+6c664b41,Weilords,biology,32,12,20,3,0
+6c664b41,Weilords,chemistry,14,4,10,1,0
+6c664b41,Weilords,ess,32,12,20,3,0
+6c664b41,Weilords,math,0,0,0,1,1
+6c664b41,Weilords,other,0,0,0,0,0
+6c664b41,Weilords,physics,-4,-4,0,0,1
+93fb4a40,(Stitch)^2,biology,22,12,10,3,0
+93fb4a40,(Stitch)^2,chemistry,10,0,10,1,1
+93fb4a40,(Stitch)^2,ess,-4,-4,0,0,1
+93fb4a40,(Stitch)^2,math,14,4,10,1,0
+93fb4a40,(Stitch)^2,other,8,8,0,2,0
+93fb4a40,(Stitch)^2,physics,18,8,10,3,1
+93fb4a40,CZZ,biology,-4,-4,0,0,1
+93fb4a40,CZZ,chemistry,18,8,10,2,0
+93fb4a40,CZZ,ess,36,16,20,4,0
+93fb4a40,CZZ,math,22,12,10,3,0
+93fb4a40,CZZ,other,10,0,10,1,1
+93fb4a40,CZZ,physics,10,0,10,1,1
+3040da9c,CZZ,biology,14,4,10,1,0
+3040da9c,CZZ,chemistry,0,0,0,0,0
+3040da9c,CZZ,ess,14,4,10,1,0
+3040da9c,CZZ,math,26,16,10,4,0
+3040da9c,CZZ,other,14,4,10,1,0
+3040da9c,CZZ,physics,24,4,20,2,1
+3040da9c,Ponnor St. Germain,biology,18,8,10,2,0
+3040da9c,Ponnor St. Germain,chemistry,18,8,10,3,1
+3040da9c,Ponnor St. Germain,ess,38,8,30,3,1
+3040da9c,Ponnor St. Germain,math,-4,-4,0,0,1
+3040da9c,Ponnor St. Germain,other,12,12,0,3,0
+3040da9c,Ponnor St. Germain,physics,4,4,0,1,0
+848d3df4,Gid,biology,14,4,10,1,0
+848d3df4,Gid,chemistry,22,12,10,3,0
+848d3df4,Gid,ess,18,8,10,2,0
+848d3df4,Gid,math,28,8,20,2,0
+848d3df4,Gid,other,4,4,0,1,0
+848d3df4,Gid,physics,26,16,10,4,0
+848d3df4,Seanjay,biology,18,8,10,2,0
+848d3df4,Seanjay,chemistry,0,0,0,1,1
+848d3df4,Seanjay,ess,24,4,20,2,1
+848d3df4,Seanjay,math,-4,-4,0,1,2
+848d3df4,Seanjay,other,32,12,20,3,0
+848d3df4,Seanjay,physics,-4,-4,0,0,1
+8c7ea503,Jonathan,biology,6,-4,10,1,2
+8c7ea503,Jonathan,chemistry,-4,-4,0,1,2
+8c7ea503,Jonathan,ess,10,0,10,1,1
+8c7ea503,Jonathan,math,18,8,10,2,0
+8c7ea503,Jonathan,other,24,4,20,2,1
+8c7ea503,Jonathan,physics,0,0,0,1,1
+8c7ea503,Weilords,biology,42,12,30,3,0
+8c7ea503,Weilords,chemistry,28,8,20,2,0
+8c7ea503,Weilords,ess,8,8,0,2,0
+8c7ea503,Weilords,math,8,8,0,2,0
+8c7ea503,Weilords,other,4,4,0,1,0
+8c7ea503,Weilords,physics,18,8,10,2,0
+8ced12c4,DANK,biology,28,8,20,2,0
+8ced12c4,DANK,chemistry,18,8,10,2,0
+8ced12c4,DANK,ess,18,8,10,2,0
+8ced12c4,DANK,math,-4,-4,0,1,2
+8ced12c4,DANK,other,0,0,0,1,1
+8ced12c4,DANK,physics,0,0,0,0,0
+8ced12c4,Uncs,biology,0,0,0,0,0
+8ced12c4,Uncs,chemistry,0,0,0,0,0
+8ced12c4,Uncs,ess,14,4,10,2,1
+8ced12c4,Uncs,math,12,12,0,3,0
+8ced12c4,Uncs,other,14,4,10,1,0
+8ced12c4,Uncs,physics,8,8,0,2,0
+a3ef6a67,Fez_Keyreb,biology,0,0,0,0,0
+a3ef6a67,Fez_Keyreb,chemistry,4,4,0,1,0
+a3ef6a67,Fez_Keyreb,ess,32,12,20,3,0
+a3ef6a67,Fez_Keyreb,math,10,0,10,1,1
+a3ef6a67,Fez_Keyreb,other,4,4,0,1,0
+a3ef6a67,Fez_Keyreb,physics,0,0,0,0,0
+a3ef6a67,Mingworms,biology,56,16,40,4,0
+a3ef6a67,Mingworms,chemistry,18,8,10,2,0
+a3ef6a67,Mingworms,ess,10,0,10,1,1
+a3ef6a67,Mingworms,math,8,8,0,2,0
+a3ef6a67,Mingworms,other,24,4,20,2,1
+a3ef6a67,Mingworms,physics,14,4,10,2,1
+ae320d53,Cryofornia Gurls,biology,32,12,20,3,0
+ae320d53,Cryofornia Gurls,chemistry,-8,-8,0,1,3
+ae320d53,Cryofornia Gurls,ess,42,12,30,3,0
+ae320d53,Cryofornia Gurls,math,0,0,0,2,2
+ae320d53,Cryofornia Gurls,other,0,0,0,1,1
+ae320d53,Cryofornia Gurls,physics,4,4,0,1,0
+ae320d53,Hellcats,biology,10,0,10,1,1
+ae320d53,Hellcats,chemistry,22,12,10,3,0
+ae320d53,Hellcats,ess,-8,-8,0,0,2
+ae320d53,Hellcats,math,10,0,10,1,1
+ae320d53,Hellcats,other,18,8,10,2,0
+ae320d53,Hellcats,physics,32,12,20,3,0
+0f41e9ff,DANK,biology,4,4,0,1,0
+0f41e9ff,DANK,chemistry,4,4,0,1,0
+0f41e9ff,DANK,ess,56,16,40,4,0
+0f41e9ff,DANK,math,4,4,0,1,0
+0f41e9ff,DANK,other,22,12,10,3,0
+0f41e9ff,DANK,physics,8,8,0,2,0
+0f41e9ff,Fez_Keyreb,biology,18,8,10,2,0
+0f41e9ff,Fez_Keyreb,chemistry,28,8,20,2,0
+0f41e9ff,Fez_Keyreb,ess,0,0,0,0,0
+0f41e9ff,Fez_Keyreb,math,14,4,10,2,1
+0f41e9ff,Fez_Keyreb,other,-8,-8,0,0,2
+0f41e9ff,Fez_Keyreb,physics,10,0,10,1,1
+330c2401,Hellcats,biology,18,8,10,2,0
+330c2401,Hellcats,chemistry,10,0,10,1,1
+330c2401,Hellcats,ess,14,4,10,2,1
+330c2401,Hellcats,math,4,4,0,1,0
+330c2401,Hellcats,other,8,8,0,2,0
+330c2401,Hellcats,physics,0,0,0,0,0
+330c2401,Jonathan,biology,10,0,10,2,2
+330c2401,Jonathan,chemistry,42,12,30,3,0
+330c2401,Jonathan,ess,28,8,20,2,0
+330c2401,Jonathan,math,-4,-4,0,1,2
+330c2401,Jonathan,other,-8,-8,0,0,2
+330c2401,Jonathan,physics,4,4,0,2,1
+56df556f,CZZ,biology,4,4,0,1,0
+56df556f,CZZ,chemistry,0,0,0,0,0
+56df556f,CZZ,ess,14,4,10,1,0
+56df556f,CZZ,math,14,4,10,2,1
+56df556f,CZZ,other,4,4,0,1,0
+56df556f,CZZ,physics,14,4,10,1,0
+56df556f,Cryofornia Gurls,biology,14,4,10,2,1
+56df556f,Cryofornia Gurls,chemistry,46,16,30,4,0
+56df556f,Cryofornia Gurls,ess,42,12,30,3,0
+56df556f,Cryofornia Gurls,math,0,0,0,1,1
+56df556f,Cryofornia Gurls,other,4,4,0,1,0
+56df556f,Cryofornia Gurls,physics,4,4,0,1,0
+9a124a62,(Stitch)^2,biology,0,0,0,1,1
+9a124a62,(Stitch)^2,chemistry,0,0,0,1,1
+9a124a62,(Stitch)^2,ess,-12,-12,0,0,3
+9a124a62,(Stitch)^2,math,-4,-4,0,1,2
+9a124a62,(Stitch)^2,other,-4,-4,0,0,1
+9a124a62,(Stitch)^2,physics,6,-4,10,1,2
+9a124a62,Ponnor St. Germain,biology,22,12,10,3,0
+9a124a62,Ponnor St. Germain,chemistry,42,12,30,3,0
+9a124a62,Ponnor St. Germain,ess,46,16,30,4,0
+9a124a62,Ponnor St. Germain,math,18,8,10,2,0
+9a124a62,Ponnor St. Germain,other,0,0,0,1,1
+9a124a62,Ponnor St. Germain,physics,22,12,10,3,0
+cb7d0d9c,Ferroasumin,biology,28,8,20,2,0
+cb7d0d9c,Ferroasumin,chemistry,0,0,0,0,0
+cb7d0d9c,Ferroasumin,ess,-4,-4,0,0,1
+cb7d0d9c,Ferroasumin,math,6,-4,10,1,2
+cb7d0d9c,Ferroasumin,other,4,4,0,1,0
+cb7d0d9c,Ferroasumin,physics,32,12,20,3,0
+cb7d0d9c,Seanjay,biology,4,4,0,2,1
+cb7d0d9c,Seanjay,chemistry,36,16,20,4,0
+cb7d0d9c,Seanjay,ess,38,8,30,3,1
+cb7d0d9c,Seanjay,math,4,4,0,1,0
+cb7d0d9c,Seanjay,other,14,4,10,1,0
+cb7d0d9c,Seanjay,physics,0,0,0,0,0
+ec3d2610,Gid,biology,-4,-4,0,0,1
+ec3d2610,Gid,chemistry,42,12,30,3,0
+ec3d2610,Gid,ess,-4,-4,0,1,2
+ec3d2610,Gid,math,24,4,20,2,1
+ec3d2610,Gid,other,0,0,0,1,1
+ec3d2610,Gid,physics,42,12,30,3,0
+ec3d2610,Uncs,biology,32,12,20,3,0
+ec3d2610,Uncs,chemistry,0,0,0,1,1
+ec3d2610,Uncs,ess,32,12,20,3,0
+ec3d2610,Uncs,math,0,0,0,0,0
+ec3d2610,Uncs,other,0,0,0,1,1
+ec3d2610,Uncs,physics,14,4,10,1,0
+1efec1d9,(Stitch)^2,biology,38,8,30,3,1
+1efec1d9,(Stitch)^2,chemistry,26,16,10,4,0
+1efec1d9,(Stitch)^2,ess,0,0,0,2,2
+1efec1d9,(Stitch)^2,math,-4,-4,0,0,1
+1efec1d9,(Stitch)^2,other,0,0,0,1,1
+1efec1d9,(Stitch)^2,physics,4,4,0,2,1
+1efec1d9,Cryofornia Gurls,biology,-4,-4,0,1,2
+1efec1d9,Cryofornia Gurls,chemistry,0,0,0,0,0
+1efec1d9,Cryofornia Gurls,ess,-4,-4,0,0,1
+1efec1d9,Cryofornia Gurls,math,36,16,20,4,0
+1efec1d9,Cryofornia Gurls,other,18,8,10,2,0
+1efec1d9,Cryofornia Gurls,physics,14,4,10,2,1
+4d9e304e,Hellcats,biology,8,8,0,2,0
+4d9e304e,Hellcats,chemistry,-4,-4,0,0,1
+4d9e304e,Hellcats,ess,14,4,10,2,1
+4d9e304e,Hellcats,math,0,0,0,2,2
+4d9e304e,Hellcats,other,0,0,0,0,0
+4d9e304e,Hellcats,physics,18,8,10,2,0
+4d9e304e,Weilords,biology,2,-8,10,1,3
+4d9e304e,Weilords,chemistry,36,16,20,4,0
+4d9e304e,Weilords,ess,24,4,20,2,1
+4d9e304e,Weilords,math,8,8,0,2,0
+4d9e304e,Weilords,other,32,12,20,3,0
+4d9e304e,Weilords,physics,0,0,0,1,1
+62851f77,DANK,biology,-8,-8,0,0,2
+62851f77,DANK,chemistry,0,0,0,0,0
+62851f77,DANK,ess,0,0,0,1,1
+62851f77,DANK,math,8,8,0,2,0
+62851f77,DANK,other,-12,-12,0,0,3
+62851f77,DANK,physics,14,4,10,2,1
+62851f77,Mingworms,biology,38,8,30,3,1
+62851f77,Mingworms,chemistry,28,8,20,3,1
+62851f77,Mingworms,ess,28,8,20,3,1
+62851f77,Mingworms,math,4,4,0,1,0
+62851f77,Mingworms,other,46,16,30,4,0
+62851f77,Mingworms,physics,0,0,0,1,1
+942dd9f3,CZZ,biology,18,8,10,2,0
+942dd9f3,CZZ,chemistry,18,8,10,2,0
+942dd9f3,CZZ,ess,4,4,0,1,0
+942dd9f3,CZZ,math,18,8,10,2,0
+942dd9f3,CZZ,other,14,4,10,1,0
+942dd9f3,CZZ,physics,28,8,20,2,0
+942dd9f3,Jonathan,biology,24,4,20,2,1
+942dd9f3,Jonathan,chemistry,14,4,10,2,1
+942dd9f3,Jonathan,ess,10,0,10,1,1
+942dd9f3,Jonathan,math,0,0,0,0,0
+942dd9f3,Jonathan,other,22,12,10,3,0
+942dd9f3,Jonathan,physics,4,4,0,1,0
+9d493e11,Ferroasumin,biology,22,12,10,3,0
+9d493e11,Ferroasumin,chemistry,32,12,20,3,0
+9d493e11,Ferroasumin,ess,6,-4,10,1,2
+9d493e11,Ferroasumin,math,0,0,0,0,0
+9d493e11,Ferroasumin,other,4,4,0,1,0
+9d493e11,Ferroasumin,physics,32,12,20,3,0
+9d493e11,Uncs,biology,-4,-4,0,0,1
+9d493e11,Uncs,chemistry,-8,-8,0,0,2
+9d493e11,Uncs,ess,8,8,0,2,0
+9d493e11,Uncs,math,28,8,20,3,1
+9d493e11,Uncs,other,28,8,20,2,0
+9d493e11,Uncs,physics,4,4,0,1,0
+d1b110a2,Fez_Keyreb,biology,32,12,20,3,0
+d1b110a2,Fez_Keyreb,chemistry,14,4,10,1,0
+d1b110a2,Fez_Keyreb,ess,14,4,10,2,1
+d1b110a2,Fez_Keyreb,math,42,12,30,3,0
+d1b110a2,Fez_Keyreb,other,24,4,20,2,1
+d1b110a2,Fez_Keyreb,physics,14,4,10,2,1
+d1b110a2,Gid,biology,-4,-4,0,1,2
+d1b110a2,Gid,chemistry,14,4,10,1,0
+d1b110a2,Gid,ess,0,0,0,1,1
+d1b110a2,Gid,math,0,0,0,1,1
+d1b110a2,Gid,other,28,8,20,2,0
+d1b110a2,Gid,physics,-4,-4,0,1,2
+220794d8,(Stitch)^2,biology,0,0,0,0,0
+220794d8,(Stitch)^2,chemistry,28,8,20,3,1
+220794d8,(Stitch)^2,ess,18,8,10,2,0
+220794d8,(Stitch)^2,math,0,0,0,1,1
+220794d8,(Stitch)^2,other,4,4,0,1,0
+220794d8,(Stitch)^2,physics,28,8,20,2,0
+220794d8,Jonathan,biology,0,0,0,2,2
+220794d8,Jonathan,chemistry,0,0,0,0,0
+220794d8,Jonathan,ess,20,0,20,2,2
+220794d8,Jonathan,math,28,8,20,3,1
+220794d8,Jonathan,other,18,8,10,2,0
+220794d8,Jonathan,physics,-4,-4,0,0,1
+382e3c2f,Seanjay,biology,18,8,10,2,0
+382e3c2f,Seanjay,chemistry,-8,-8,0,0,2
+382e3c2f,Seanjay,ess,28,8,20,2,0
+382e3c2f,Seanjay,math,18,8,10,2,0
+382e3c2f,Seanjay,other,4,4,0,1,0
+382e3c2f,Seanjay,physics,4,4,0,1,0
+382e3c2f,Uncs,biology,4,4,0,1,0
+382e3c2f,Uncs,chemistry,22,12,10,3,0
+382e3c2f,Uncs,ess,4,4,0,2,1
+382e3c2f,Uncs,math,20,0,20,2,2
+382e3c2f,Uncs,other,8,8,0,3,1
+382e3c2f,Uncs,physics,24,4,20,2,1
+52491cfa,Cryofornia Gurls,biology,28,8,20,3,1
+52491cfa,Cryofornia Gurls,chemistry,14,4,10,2,1
+52491cfa,Cryofornia Gurls,ess,38,8,30,3,1
+52491cfa,Cryofornia Gurls,math,22,12,10,3,0
+52491cfa,Cryofornia Gurls,other,14,4,10,1,0
+52491cfa,Cryofornia Gurls,physics,18,8,10,3,1
+52491cfa,Ponnor St. Germain,biology,4,4,0,1,0
+52491cfa,Ponnor St. Germain,chemistry,0,0,0,0,0
+52491cfa,Ponnor St. Germain,ess,10,0,10,1,1
+52491cfa,Ponnor St. Germain,math,0,0,0,1,1
+52491cfa,Ponnor St. Germain,other,12,12,0,3,0
+52491cfa,Ponnor St. Germain,physics,0,0,0,0,0
+5a9dee2e,Ferroasumin,biology,0,0,0,1,1
+5a9dee2e,Ferroasumin,chemistry,28,8,20,2,0
+5a9dee2e,Ferroasumin,ess,42,12,30,3,0
+5a9dee2e,Ferroasumin,math,-4,-4,0,1,2
+5a9dee2e,Ferroasumin,other,4,4,0,1,0
+5a9dee2e,Ferroasumin,physics,28,8,20,2,0
+5a9dee2e,Fez_Keyreb,biology,28,8,20,2,0
+5a9dee2e,Fez_Keyreb,chemistry,4,4,0,1,0
+5a9dee2e,Fez_Keyreb,ess,14,4,10,1,0
+5a9dee2e,Fez_Keyreb,math,4,4,0,1,0
+5a9dee2e,Fez_Keyreb,other,22,12,10,3,0
+5a9dee2e,Fez_Keyreb,physics,24,4,20,2,1
+b4b250ff,CZZ,biology,28,8,20,2,0
+b4b250ff,CZZ,chemistry,14,4,10,1,0
+b4b250ff,CZZ,ess,0,0,0,1,1
+b4b250ff,CZZ,math,-12,-12,0,0,3
+b4b250ff,CZZ,other,-4,-4,0,0,1
+b4b250ff,CZZ,physics,14,4,10,2,1
+b4b250ff,Weilords,biology,4,4,0,2,1
+b4b250ff,Weilords,chemistry,24,4,20,2,1
+b4b250ff,Weilords,ess,28,8,20,3,1
+b4b250ff,Weilords,math,4,4,0,2,1
+b4b250ff,Weilords,other,26,16,10,4,0
+b4b250ff,Weilords,physics,24,4,20,2,1
+dc31e85b,Gid,biology,0,0,0,0,0
+dc31e85b,Gid,chemistry,42,12,30,3,0
+dc31e85b,Gid,ess,4,4,0,1,0
+dc31e85b,Gid,math,14,4,10,2,1
+dc31e85b,Gid,other,0,0,0,1,1
+dc31e85b,Gid,physics,32,12,20,3,0
+dc31e85b,Mingworms,biology,26,16,10,4,0
+dc31e85b,Mingworms,chemistry,4,4,0,1,0
+dc31e85b,Mingworms,ess,42,12,30,3,0
+dc31e85b,Mingworms,math,8,8,0,2,0
+dc31e85b,Mingworms,other,22,12,10,3,0
+dc31e85b,Mingworms,physics,0,0,0,0,0
+2486c90b,(Stitch)^2,biology,28,8,20,2,0
+2486c90b,(Stitch)^2,chemistry,-8,-8,0,0,2
+2486c90b,(Stitch)^2,ess,-4,-4,0,0,1
+2486c90b,(Stitch)^2,math,18,8,10,2,0
+2486c90b,(Stitch)^2,other,4,4,0,1,0
+2486c90b,(Stitch)^2,physics,18,8,10,3,1
+2486c90b,Weilords,biology,18,8,10,2,0
+2486c90b,Weilords,chemistry,36,16,20,4,0
+2486c90b,Weilords,ess,36,16,20,4,0
+2486c90b,Weilords,math,8,8,0,2,0
+2486c90b,Weilords,other,22,12,10,3,0
+2486c90b,Weilords,physics,-4,-4,0,0,1
+44d512bb,DANK,biology,0,0,0,1,1
+44d512bb,DANK,chemistry,22,12,10,3,0
+44d512bb,DANK,ess,22,12,10,3,0
+44d512bb,DANK,math,10,0,10,1,1
+44d512bb,DANK,other,18,8,10,2,0
+44d512bb,DANK,physics,14,4,10,1,0
+44d512bb,Gid,biology,14,4,10,1,0
+44d512bb,Gid,chemistry,-12,-12,0,0,3
+44d512bb,Gid,ess,10,0,10,1,1
+44d512bb,Gid,math,24,4,20,2,1
+44d512bb,Gid,other,0,0,0,1,1
+44d512bb,Gid,physics,22,12,10,3,0
+4918802f,CZZ,biology,42,12,30,3,0
+4918802f,CZZ,chemistry,8,8,0,2,0
+4918802f,CZZ,ess,14,4,10,1,0
+4918802f,CZZ,math,8,8,0,2,0
+4918802f,CZZ,other,22,12,10,3,0
+4918802f,CZZ,physics,4,4,0,2,1
+4918802f,Hellcats,biology,-8,-8,0,0,2
+4918802f,Hellcats,chemistry,0,0,0,1,1
+4918802f,Hellcats,ess,22,12,10,3,0
+4918802f,Hellcats,math,10,0,10,1,1
+4918802f,Hellcats,other,-4,-4,0,0,1
+4918802f,Hellcats,physics,18,8,10,2,0
+53e58134,Ferroasumin,biology,14,4,10,1,0
+53e58134,Ferroasumin,chemistry,8,8,0,2,0
+53e58134,Ferroasumin,ess,14,4,10,1,0
+53e58134,Ferroasumin,math,8,8,0,2,0
+53e58134,Ferroasumin,other,4,4,0,1,0
+53e58134,Ferroasumin,physics,0,0,0,1,1
+53e58134,Mingworms,biology,42,12,30,3,0
+53e58134,Mingworms,chemistry,14,4,10,2,1
+53e58134,Mingworms,ess,32,12,20,3,0
+53e58134,Mingworms,math,4,4,0,2,1
+53e58134,Mingworms,other,18,8,10,3,1
+53e58134,Mingworms,physics,-8,-8,0,0,2
+63b7867a,Jonathan,biology,-4,-4,0,1,2
+63b7867a,Jonathan,chemistry,2,-8,10,1,3
+63b7867a,Jonathan,ess,4,4,0,1,0
+63b7867a,Jonathan,math,2,-8,10,1,3
+63b7867a,Jonathan,other,-4,-4,0,1,2
+63b7867a,Jonathan,physics,32,12,20,3,0
+63b7867a,Ponnor St. Germain,biology,18,8,10,2,0
+63b7867a,Ponnor St. Germain,chemistry,18,8,10,3,1
+63b7867a,Ponnor St. Germain,ess,42,12,30,3,0
+63b7867a,Ponnor St. Germain,math,12,12,0,3,0
+63b7867a,Ponnor St. Germain,other,28,8,20,2,0
+63b7867a,Ponnor St. Germain,physics,4,4,0,1,0
+7c54cc6e,Fez_Keyreb,biology,18,8,10,2,0
+7c54cc6e,Fez_Keyreb,chemistry,4,4,0,1,0
+7c54cc6e,Fez_Keyreb,ess,28,8,20,2,0
+7c54cc6e,Fez_Keyreb,math,4,4,0,1,0
+7c54cc6e,Fez_Keyreb,other,18,8,10,2,0
+7c54cc6e,Fez_Keyreb,physics,12,12,0,3,0
+7c54cc6e,Seanjay,biology,20,0,20,2,2
+7c54cc6e,Seanjay,chemistry,10,0,10,1,1
+7c54cc6e,Seanjay,ess,18,8,10,2,0
+7c54cc6e,Seanjay,math,28,8,20,2,0
+7c54cc6e,Seanjay,other,8,8,0,2,0
+7c54cc6e,Seanjay,physics,4,4,0,1,0
+4c780308,Fez_Keyreb,biology,32,12,20,3,0
+4c780308,Fez_Keyreb,chemistry,14,4,10,1,0
+4c780308,Fez_Keyreb,ess,0,0,0,0,0
+4c780308,Fez_Keyreb,math,10,0,10,1,1
+4c780308,Fez_Keyreb,other,42,12,30,3,0
+4c780308,Fez_Keyreb,physics,24,4,20,2,1
+4c780308,Uncs,biology,4,4,0,1,0
+4c780308,Uncs,chemistry,14,4,10,2,1
+4c780308,Uncs,ess,46,16,30,4,0
+4c780308,Uncs,math,32,12,20,3,0
+4c780308,Uncs,other,14,4,10,1,0
+4c780308,Uncs,physics,18,8,10,2,0
+9ed4db86,Mingworms,biology,14,4,10,2,1
+9ed4db86,Mingworms,chemistry,26,16,10,4,0
+9ed4db86,Mingworms,ess,10,0,10,1,1
+9ed4db86,Mingworms,math,4,4,0,1,0
+9ed4db86,Mingworms,other,4,4,0,2,1
+9ed4db86,Mingworms,physics,-4,-4,0,0,1
+9ed4db86,Seanjay,biology,4,4,0,1,0
+9ed4db86,Seanjay,chemistry,-4,-4,0,0,1
+9ed4db86,Seanjay,ess,18,8,10,2,0
+9ed4db86,Seanjay,math,18,8,10,2,0
+9ed4db86,Seanjay,other,24,4,20,2,1
+9ed4db86,Seanjay,physics,22,12,10,3,0
+b28de357,Cryofornia Gurls,biology,0,0,0,0,0
+b28de357,Cryofornia Gurls,chemistry,14,4,10,2,1
+b28de357,Cryofornia Gurls,ess,28,8,20,2,0
+b28de357,Cryofornia Gurls,math,8,8,0,2,0
+b28de357,Cryofornia Gurls,other,36,16,20,4,0
+b28de357,Cryofornia Gurls,physics,4,4,0,1,0
+b28de357,Jonathan,biology,18,8,10,3,1
+b28de357,Jonathan,chemistry,4,4,0,2,1
+b28de357,Jonathan,ess,28,8,20,2,0
+b28de357,Jonathan,math,8,8,0,2,0
+b28de357,Jonathan,other,-4,-4,0,0,1
+b28de357,Jonathan,physics,8,8,0,2,0
+b547d293,(Stitch)^2,biology,8,8,0,2,0
+b547d293,(Stitch)^2,chemistry,-4,-4,0,1,2
+b547d293,(Stitch)^2,ess,14,4,10,2,1
+b547d293,(Stitch)^2,math,24,4,20,2,1
+b547d293,(Stitch)^2,other,22,12,10,3,0
+b547d293,(Stitch)^2,physics,42,12,30,3,0
+b547d293,Hellcats,biology,18,8,10,2,0
+b547d293,Hellcats,chemistry,10,0,10,2,2
+b547d293,Hellcats,ess,14,4,10,2,1
+b547d293,Hellcats,math,0,0,0,0,0
+b547d293,Hellcats,other,-4,-4,0,0,1
+b547d293,Hellcats,physics,0,0,0,0,0
+d0fd74f3,Ponnor St. Germain,biology,8,8,0,2,0
+d0fd74f3,Ponnor St. Germain,chemistry,-8,-8,0,1,3
+d0fd74f3,Ponnor St. Germain,ess,42,12,30,3,0
+d0fd74f3,Ponnor St. Germain,math,18,8,10,2,0
+d0fd74f3,Ponnor St. Germain,other,6,-4,10,1,2
+d0fd74f3,Ponnor St. Germain,physics,4,4,0,1,0
+d0fd74f3,Weilords,biology,0,0,0,1,1
+d0fd74f3,Weilords,chemistry,28,8,20,3,1
+d0fd74f3,Weilords,ess,0,0,0,1,1
+d0fd74f3,Weilords,math,10,0,10,1,1
+d0fd74f3,Weilords,other,42,12,30,3,0
+d0fd74f3,Weilords,physics,18,8,10,3,1
+f0f72f9c,DANK,biology,14,4,10,2,1
+f0f72f9c,DANK,chemistry,12,12,0,3,0
+f0f72f9c,DANK,ess,32,12,20,3,0
+f0f72f9c,DANK,math,26,16,10,4,0
+f0f72f9c,DANK,other,14,4,10,1,0
+f0f72f9c,DANK,physics,0,0,0,1,1
+f0f72f9c,Ferroasumin,biology,8,8,0,2,0
+f0f72f9c,Ferroasumin,chemistry,14,4,10,1,0
+f0f72f9c,Ferroasumin,ess,14,4,10,1,0
+f0f72f9c,Ferroasumin,math,-4,-4,0,0,1
+f0f72f9c,Ferroasumin,other,22,12,10,3,0
+f0f72f9c,Ferroasumin,physics,4,4,0,1,0
+06747c15,DANK,biology,42,12,30,3,0
+06747c15,DANK,chemistry,18,8,10,2,0
+06747c15,DANK,ess,46,16,30,4,0
+06747c15,DANK,math,4,4,0,1,0
+06747c15,DANK,other,14,4,10,1,0
+06747c15,DANK,physics,14,4,10,1,0
+06747c15,Uncs,biology,14,4,10,1,0
+06747c15,Uncs,chemistry,4,4,0,1,0
+06747c15,Uncs,ess,0,0,0,0,0
+06747c15,Uncs,math,14,4,10,1,0
+06747c15,Uncs,other,0,0,0,1,1
+06747c15,Uncs,physics,14,4,10,2,1
+65f50d37,CZZ,biology,4,4,0,1,0
+65f50d37,CZZ,chemistry,24,4,20,2,1
+65f50d37,CZZ,ess,8,8,0,2,0
+65f50d37,CZZ,math,4,4,0,1,0
+65f50d37,CZZ,other,0,0,0,0,0
+65f50d37,CZZ,physics,8,8,0,2,0
+65f50d37,Cryofornia Gurls,biology,28,8,20,3,1
+65f50d37,Cryofornia Gurls,chemistry,4,4,0,1,0
+65f50d37,Cryofornia Gurls,ess,24,4,20,2,1
+65f50d37,Cryofornia Gurls,math,18,8,10,2,0
+65f50d37,Cryofornia Gurls,other,0,0,0,0,0
+65f50d37,Cryofornia Gurls,physics,18,8,10,2,0
+9353d948,Ferroasumin,biology,0,0,0,0,0
+9353d948,Ferroasumin,chemistry,0,0,0,1,1
+9353d948,Ferroasumin,ess,14,4,10,2,1
+9353d948,Ferroasumin,math,18,8,10,2,0
+9353d948,Ferroasumin,other,4,4,0,1,0
+9353d948,Ferroasumin,physics,-4,-4,0,0,1
+9353d948,Mingworms,biology,46,16,30,4,0
+9353d948,Mingworms,chemistry,18,8,10,2,0
+9353d948,Mingworms,ess,20,0,20,2,2
+9353d948,Mingworms,math,0,0,0,0,0
+9353d948,Mingworms,other,14,4,10,1,0
+9353d948,Mingworms,physics,28,8,20,2,0
+e0ab984f,(Stitch)^2,biology,18,8,10,2,0
+e0ab984f,(Stitch)^2,chemistry,22,12,10,3,0
+e0ab984f,(Stitch)^2,ess,10,0,10,1,1
+e0ab984f,(Stitch)^2,math,4,4,0,2,1
+e0ab984f,(Stitch)^2,other,0,0,0,0,0
+e0ab984f,(Stitch)^2,physics,18,8,10,3,1
+e0ab984f,Weilords,biology,10,0,10,1,1
+e0ab984f,Weilords,chemistry,14,4,10,1,0
+e0ab984f,Weilords,ess,32,12,20,3,0
+e0ab984f,Weilords,math,4,4,0,1,0
+e0ab984f,Weilords,other,18,8,10,2,0
+e0ab984f,Weilords,physics,0,0,0,1,1
+032344aa,Cryofornia Gurls,biology,4,4,0,1,0
+032344aa,Cryofornia Gurls,chemistry,8,8,0,2,0
+032344aa,Cryofornia Gurls,ess,0,0,0,1,1
+032344aa,Cryofornia Gurls,math,8,8,0,2,0
+032344aa,Cryofornia Gurls,other,14,4,10,1,0
+032344aa,Cryofornia Gurls,physics,14,4,10,2,1
+032344aa,Weilords,biology,22,12,10,3,0
+032344aa,Weilords,chemistry,0,0,0,1,1
+032344aa,Weilords,ess,38,8,30,3,1
+032344aa,Weilords,math,4,4,0,1,0
+032344aa,Weilords,other,8,8,0,2,0
+032344aa,Weilords,physics,8,8,0,2,0
+ebd30cfe,DANK,biology,0,0,0,1,1
+ebd30cfe,DANK,chemistry,0,0,0,0,0
+ebd30cfe,DANK,ess,10,0,10,1,1
+ebd30cfe,DANK,math,18,8,10,2,0
+ebd30cfe,DANK,other,18,8,10,2,0
+ebd30cfe,DANK,physics,-12,-12,0,0,3
+ebd30cfe,Mingworms,biology,24,4,20,2,1
+ebd30cfe,Mingworms,chemistry,18,8,10,3,1
+ebd30cfe,Mingworms,ess,18,8,10,3,1
+ebd30cfe,Mingworms,math,0,0,0,1,1
+ebd30cfe,Mingworms,other,0,0,0,1,1
+ebd30cfe,Mingworms,physics,8,8,0,2,0
+eca85d14,Mingworms,biology,18,8,10,3,1
+eca85d14,Mingworms,chemistry,-16,-16,0,0,4
+eca85d14,Mingworms,ess,32,12,20,3,0
+eca85d14,Mingworms,math,0,0,0,0,0
+eca85d14,Mingworms,other,14,4,10,1,0
+eca85d14,Mingworms,physics,-4,-4,0,0,1
+eca85d14,Weilords,biology,0,0,0,1,1
+eca85d14,Weilords,chemistry,12,12,0,3,0
+eca85d14,Weilords,ess,-4,-4,0,0,1
+eca85d14,Weilords,math,4,4,0,1,0
+eca85d14,Weilords,other,14,4,10,1,0
+eca85d14,Weilords,physics,22,12,10,3,0

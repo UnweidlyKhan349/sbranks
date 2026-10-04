@@ -17,7 +17,9 @@ sources:
   role: results+stats
   slug: nsba-4
   url: https://isobowl.com/premier/tournaments/nsba-4/standings
-parser: null
-parser_options: {}
+parser: g1_isobowl:parse
+parser_options:
+  name_overrides:
+    mingworm captain: dea
 status: todo
 notes: ''

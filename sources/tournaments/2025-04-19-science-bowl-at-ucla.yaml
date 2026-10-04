@@ -18,7 +18,8 @@ sources:
   sheet_id: 1ZEficq-FQAT7Hv2YPWyjA43ayRLmn-eMiUy4D2IVm-s
   url: https://docs.google.com/spreadsheets/d/1ZEficq-FQAT7Hv2YPWyjA43ayRLmn-eMiUy4D2IVm-s/edit?gid=210914516#gid=210914516
   file: results.xlsx
-parser: null
-parser_options: {}
+parser: g5_stanford_template:parse
+parser_options:
+  consolation: false
 status: todo
 notes: ''

@@ -1,0 +1,25 @@
+{
+  "tournament_id": "2026-08-09-tomb",
+  "counts": {
+    "teams": 18,
+    "games": 76,
+    "games_with_scores": 76,
+    "player_stat_rows": 94,
+    "players": 47,
+    "team_game_subject_rows": 152,
+    "player_game_stat_rows": 644
+  },
+  "coverage": {
+    "games": true,
+    "scores": true,
+    "player_stats": true,
+    "player_subject_stats": true,
+    "player_tuh": true,
+    "team_game_subjects": true,
+    "player_game_stats": true
+  },
+  "warnings": [
+    "merged 2 accounts named 'marianne' on BFIT"
+  ],
+  "parser": "g1_isobowl:parse"
+}

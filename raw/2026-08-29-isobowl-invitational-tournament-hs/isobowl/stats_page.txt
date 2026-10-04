@@ -1,0 +1,262 @@
+=== initial
+ISOBowl
+DATABASE
+BUZZER
+SCRIMMAGE
+PREMIER
+SIGN IN
+ICSBT 3
+OCT 11
+·
+ICSBT
+LEXINGTON ONLINE SCIBOWL TOURNAMENT 3
+OCT 18
+·
+Lexington HS
+← Premier
+
+Aug 29, 2026 · 21 teams
+
+ISOBowl Invitational Tournament (HS Division)
+
+STATUS
+
+COMPLETED
+
+CHAMPION — WARD MELVILLE A
+
+Hub
+Stats
+Teams
+Packets
+Stage
+All stages
+Stage
+Subject
+All subjects
+Subject
+Team
+All Teams
+Team
+Rate N
+Rate N
+Team
+Individual
+TEAM
+	GP
+	W
+	L
+	PF
+	PA
+	TUH
+	PPTUH
+	COR
+	INC
+	NEG
+
+ASFA	11	9	2	954	620	264	3.6	117	58	46
+Ward Melville A	10	8	2	912	520	239	3.8	112	50	24
+North Hollywood	10	8	2	810	568	246	3.3	103	56	23
+Dheerans Establishment	9	7	2	694	476	216	3.2	87	54	31
+James Clemens	10	6	4	640	536	240	2.7	92	62	32
+BISV B	9	5	3	766	614	222	3.5	82	62	18
+Montgomery Blair	7	4	3	760	530	168	4.5	84	18	19
+University	7	4	3	560	456	168	3.3	72	27	22
+Ultimate Uzbeks	8	4	4	462	476	192	2.4	62	57	9
+Eastlake	8	3	5	474	586	191	2.5	64	52	18
+Mira Loma	7	3	4	416	476	168	2.5	55	41	16
+NCSSM	8	3	4	416	584	192	2.2	64	57	20
+Arcadia A	7	2	5	384	532	168	2.3	49	41	8
+VMATHS	6	2	3	362	422	144	2.5	51	45	13
+Dulles	6	1	5	364	502	144	2.5	49	24	18
+Wayzata	6	1	4	322	496	144	2.2	45	35	12
+Lexington	5	1	4	244	480	120	2.0	39	32	13
+Clovis North	4	1	3	238	300	96	2.5	30	41	8
+Camas	4	1	3	176	342	96	1.8	22	26	3
+BISV A	4	0	4	170	374	96	1.8	24	24	4
+Middleton	4	0	4	102	336	96	1.1	22	24	9
+
+ISOBowl — The Science Bowl Hub
+
+Question Database
+·
+Buzzer Rooms
+·
+Scrimmage
+·
+Premier
+·
+My Teams
+Changelog
+·
+For IT administrators
+·
+Discord
+·
+Sign in
+=== after click Individual
+ISOBowl
+DATABASE
+BUZZER
+SCRIMMAGE
+PREMIER
+SIGN IN
+ICSBT 3
+OCT 11
+·
+ICSBT
+LEXINGTON ONLINE SCIBOWL TOURNAMENT 3
+OCT 18
+·
+Lexington HS
+← Premier
+
+Aug 29, 2026 · 21 teams
+
+ISOBowl Invitational Tournament (HS Division)
+
+STATUS
+
+COMPLETED
+
+CHAMPION — WARD MELVILLE A
+
+Hub
+Stats
+Teams
+Packets
+Stage
+All stages
+Stage
+Subject
+All subjects
+Subject
+Team
+All Teams
+Team
+Rate N
+Rate N
+Team
+Individual
+PLAYER
+	TEAM
+	GP
+	TUH
+	PTS
+	PPTUH
+	COR
+	INC
+	NEG
+
+Ethan Wang	Arcadia A	7	168	72	0.4	24	19	6
+Austin Z	Arcadia A	6	144	36	0.3	9	9	0
+Paxton Lin	Arcadia A	7	168	28	0.2	9	7	2
+Brandon Z	Arcadia A	5	120	16	0.1	4	5	0
+Shannon H.	Arcadia A	5	108	12	0.1	3	1	0
+akhil	ASFA	11	264	148	0.6	73	41	36
+Advik S	ASFA	11	264	120	0.5	37	11	7
+skyler	ASFA	4	96	12	0.1	6	6	3
+alexp	ASFA	7	168	4	0.0	1	0	0
+Aaron Cohen	BISV A	4	96	32	0.3	8	14	0
+Liam T	BISV A	4	96	28	0.3	11	8	4
+Ethan Guo	BISV A	4	96	20	0.2	5	2	0
+Zimeng Dou	BISV A	4	96	0	0.0	0	0	0
+Lucas Quan	BISV B	9	222	120	0.5	43	30	13
+Tanuj	BISV B	9	222	76	0.3	20	27	1
+larry zhao	BISV B	9	222	56	0.3	18	4	4
+Aaron Cohen	BISV B	3	78	4	0.1	1	1	0
+alex	Camas	4	96	44	0.5	11	15	0
+Kevin	Camas	4	96	16	0.2	4	5	0
+eric	Camas	4	96	12	0.1	3	5	0
+Nanu	Camas	4	96	4	0.0	4	1	3
+Achuth	Clovis North	4	96	60	0.6	16	15	1
+majed	Clovis North	4	96	16	0.2	9	21	5
+Ayush	Clovis North	1	12	4	0.3	1	1	0
+Ishan	Clovis North	4	84	4	0.0	3	2	2
+Meera	Clovis North	4	96	4	0.0	1	2	0
+Ryan K	Dheerans Establishment	9	216	124	0.6	49	16	18
+Riyan N	Dheerans Establishment	9	216	40	0.2	18	23	8
+Nimit A	Dheerans Establishment	9	216	32	0.1	13	9	5
+Yunay	Dheerans Establishment	6	120	16	0.1	4	5	0
+quantumConjectures	Dheerans Establishment	3	60	12	0.2	3	1	0
+Shruthi R	Dulles	5	108	44	0.4	11	2	0
+Arnav D	Dulles	3	60	36	0.6	11	2	2
+ronster	Dulles	6	144	28	0.2	10	4	3
+ThePleiades	Dulles	5	120	12	0.1	7	7	4
+vegetables	Dulles	6	144	4	0.0	10	9	9
+saahil	Eastlake	8	191	80	0.4	31	22	11
+I-Be-Profen	Eastlake	8	191	36	0.2	10	10	1
+timbuktuchensa	Eastlake	7	167	36	0.2	11	8	2
+Shivam Chowdhary	Eastlake	8	191	32	0.2	12	12	4
+Praneel A	James Clemens	10	240	140	0.6	62	44	27
+heidi	James Clemens	10	240	64	0.3	17	6	1
+i_study_rocks	James Clemens	10	240	28	0.1	10	9	3
+Andrew T	James Clemens	7	168	8	0.0	3	3	1
+filthy	Lexington	5	120	60	0.5	16	9	1
+Houwen	Lexington	4	84	20	0.2	5	7	0
+Vince	Lexington	5	120	16	0.1	10	9	6
+Sriman D	Lexington	5	109	8	0.1	7	7	5
+Andrea X	Lexington	3	60	0	0.0	1	0	1
+matthew w [middletong]	Middleton	4	96	24	0.3	8	8	2
+Alex D [Middletong]	Middleton	4	96	20	0.2	11	7	6
+arjun s	Middleton	4	96	8	0.1	3	8	1
+ArthurW middleton	Middleton	4	96	0	0.0	0	1	0
+Kavin Anreddy	Mira Loma	7	168	72	0.4	18	8	0
+Abhinav S [MLHS]	Mira Loma	7	168	60	0.4	28	27	13
+Joshua	Mira Loma	7	168	16	0.1	6	0	2
+Namish Dour	Mira Loma	7	168	8	0.0	3	6	1
+aeromonas	Montgomery Blair	7	168	204	1.2	56	11	5
+eggo	Montgomery Blair	7	168	32	0.2	9	0	1
+Samuel W	Montgomery Blair	7	168	16	0.1	13	6	9
+henry	Montgomery Blair	3	72	12	0.2	6	0	3
+Adoniya Yohannes	Montgomery Blair	4	96	-4	-0.0	0	1	1
+67	NCSSM	8	192	128	0.7	39	20	7
+Sohum	NCSSM	8	180	32	0.2	10	13	2
+Tiger	NCSSM	8	192	16	0.1	8	16	4
+Kevin Yang	NCSSM	8	180	0	0.0	7	8	7
+Siva	NCSSM	1	12	0	0.0	0	0	0
+Charles H	North Hollywood	10	234	144	0.6	40	23	4
+kensuke o	North Hollywood	10	222	92	0.4	33	20	10
+jake r	North Hollywood	10	234	52	0.2	21	7	8
+Minghao G	North Hollywood	7	156	24	0.2	7	3	1
+hayden O	North Hollywood	7	138	8	0.1	2	3	0
+Dr. Math	Ultimate Uzbeks	8	192	184	1.0	52	44	6
+Ibrohim	Ultimate Uzbeks	8	192	16	0.1	5	7	1
+Justin Jin	Ultimate Uzbeks	6	131	12	0.1	5	0	2
+Adhrit M	Ultimate Uzbeks	1	24	0	0.0	0	0	0
+Arnav K	Ultimate Uzbeks	8	192	0	0.0	0	6	0
+Timothy C	University	7	168	124	0.7	42	12	11
+Carl	University	7	168	28	0.2	13	9	6
+Priya K	University	7	168	24	0.1	10	2	4
+Stephanie Y	University	7	168	24	0.1	7	4	1
+uddip k [VMATHs]	VMATHS	6	144	64	0.4	19	21	3
+VarunMATHs	VMATHS	6	144	48	0.3	13	2	1
+Shaun I[VMATHS]	VMATHS	6	144	40	0.3	17	22	7
+Gennady C	VMATHS	6	84	0	0.0	0	0	0
+marty h [VMATHs]	VMATHS	5	60	0	0.0	2	0	2
+Harry G	Ward Melville A	10	239	256	1.1	79	46	15
+Eric L	Ward Melville A	7	167	96	0.6	33	4	9
+Arnav Hiremath	Wayzata	6	144	60	0.4	20	16	5
+Ethan Sun	Wayzata	5	120	52	0.4	15	10	2
+Min-Yi Cao	Wayzata	4	96	8	0.1	2	0	0
+Pranav Kolavennu	Wayzata	5	120	8	0.1	4	3	2
+Raghav K [Wayzata CMS]	Wayzata	5	108	4	0.0	4	6	3
+
+ISOBowl — The Science Bowl Hub
+
+Question Database
+·
+Buzzer Rooms
+·
+Scrimmage
+·
+Premier
+·
+My Teams
+Changelog
+·
+For IT administrators
+·
+Discord
+·
+Sign in

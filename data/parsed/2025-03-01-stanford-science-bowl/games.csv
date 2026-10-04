@@ -1,0 +1,149 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Albany A,BASIS Silicon Valley,8,142,2,0,pool Acacia
+g2,rr,RR5,5,Albany A,Cupertino B,56,68,2,0,pool Acacia
+g3,rr,RR4,4,Albany A,Davidson B,38,86,2,0,pool Acacia
+g4,rr,RR3,3,Albany A,Logan,66,52,1,0,pool Acacia
+g5,rr,RR2,2,Albany A,Mission San Jose A,28,238,2,0,pool Acacia
+g6,rr,RR3,3,BASIS Silicon Valley,Cupertino B,156,4,1,0,pool Acacia
+g7,rr,RR5,5,BASIS Silicon Valley,Davidson B,110,82,1,0,pool Acacia
+g8,rr,RR2,2,BASIS Silicon Valley,Logan,164,8,1,0,pool Acacia
+g9,rr,RR4,4,BASIS Silicon Valley,Mission San Jose A,124,156,2,0,pool Acacia
+g10,rr,RR2,2,Cupertino B,Davidson B,56,114,2,0,pool Acacia
+g11,rr,RR4,4,Cupertino B,Logan,46,26,1,0,pool Acacia
+g12,rr,RR1,1,Cupertino B,Mission San Jose A,86,144,2,0,pool Acacia
+g13,rr,RR1,1,Davidson B,Logan,156,30,1,0,pool Acacia
+g14,rr,RR3,3,Davidson B,Mission San Jose A,114,186,2,0,pool Acacia
+g15,rr,RR5,5,Logan,Mission San Jose A,40,152,2,0,pool Acacia
+g16,rr,RR1,1,A-Tech B,Dougherty Valley A,40,134,2,0,pool Baobab
+g17,rr,RR5,5,A-Tech B,Irvington,8,132,2,0,pool Baobab
+g18,rr,RR4,4,A-Tech B,Lynbrook A,0,220,2,0,pool Baobab
+g19,rr,RR3,3,A-Tech B,Quarry Lane B,34,22,1,0,pool Baobab
+g20,rr,RR2,2,A-Tech B,Saratoga,42,190,2,0,pool Baobab
+g21,rr,RR3,3,Dougherty Valley A,Irvington,86,120,2,0,pool Baobab
+g22,rr,RR5,5,Dougherty Valley A,Lynbrook A,64,214,2,0,pool Baobab
+g23,rr,RR2,2,Dougherty Valley A,Quarry Lane B,64,34,1,0,pool Baobab
+g24,rr,RR4,4,Dougherty Valley A,Saratoga,64,132,2,0,pool Baobab
+g25,rr,RR2,2,Irvington,Lynbrook A,56,198,2,0,pool Baobab
+g26,rr,RR4,4,Irvington,Quarry Lane B,140,8,1,0,pool Baobab
+g27,rr,RR1,1,Irvington,Saratoga,112,138,2,0,pool Baobab
+g28,rr,RR1,1,Lynbrook A,Quarry Lane B,232,4,1,0,pool Baobab
+g29,rr,RR3,3,Lynbrook A,Saratoga,188,86,1,0,pool Baobab
+g30,rr,RR5,5,Quarry Lane B,Saratoga,40,158,2,0,pool Baobab
+g31,rr,RR1,1,A-Tech A,AVHS,76,138,2,0,pool Cypress
+g32,rr,RR5,5,A-Tech A,Foothill B,72,68,1,0,pool Cypress
+g33,rr,RR4,4,A-Tech A,Los Gatos,54,82,2,0,pool Cypress
+g34,rr,RR3,3,A-Tech A,Lynbrook B,62,94,2,0,pool Cypress
+g35,rr,RR2,2,A-Tech A,Stanford Online,56,56,T,0,pool Cypress
+g36,rr,RR3,3,AVHS,Foothill B,180,20,1,0,pool Cypress
+g37,rr,RR5,5,AVHS,Los Gatos,148,24,1,0,pool Cypress
+g38,rr,RR2,2,AVHS,Lynbrook B,160,80,1,0,pool Cypress
+g39,rr,RR4,4,AVHS,Stanford Online,170,44,1,0,pool Cypress
+g40,rr,RR2,2,Foothill B,Los Gatos,42,34,1,0,pool Cypress
+g41,rr,RR4,4,Foothill B,Lynbrook B,30,232,2,0,pool Cypress
+g42,rr,RR1,1,Foothill B,Stanford Online,60,58,1,0,pool Cypress
+g43,rr,RR1,1,Los Gatos,Lynbrook B,62,146,2,0,pool Cypress
+g44,rr,RR3,3,Los Gatos,Stanford Online,54,76,2,0,pool Cypress
+g45,rr,RR5,5,Lynbrook B,Stanford Online,164,54,1,0,pool Cypress
+g46,rr,RR1,1,California A,Davidson A,28,184,2,0,pool Dogwood
+g47,rr,RR5,5,California A,Harker,66,80,2,0,pool Dogwood
+g48,rr,RR4,4,California A,Homestead,86,16,1,0,pool Dogwood
+g49,rr,RR3,3,California A,Mission San Jose B,70,104,2,0,pool Dogwood
+g50,rr,RR2,2,California A,San Mateo,52,54,2,0,pool Dogwood
+g51,rr,RR3,3,Davidson A,Harker,188,44,1,0,pool Dogwood
+g52,rr,RR5,5,Davidson A,Homestead,174,20,1,0,pool Dogwood
+g53,rr,RR2,2,Davidson A,Mission San Jose B,126,126,T,0,pool Dogwood
+g54,rr,RR4,4,Davidson A,San Mateo,226,12,1,0,pool Dogwood
+g55,rr,RR2,2,Harker,Homestead,104,80,1,0,pool Dogwood
+g56,rr,RR4,4,Harker,Mission San Jose B,54,186,2,0,pool Dogwood
+g57,rr,RR1,1,Harker,San Mateo,122,8,1,0,pool Dogwood
+g58,rr,RR1,1,Homestead,Mission San Jose B,38,162,2,0,pool Dogwood
+g59,rr,RR3,3,Homestead,San Mateo,76,26,1,0,pool Dogwood
+g60,rr,RR5,5,Mission San Jose B,San Mateo,184,22,1,0,pool Dogwood
+g61,rr,RR1,1,American,California B,140,4,1,0,pool Eucalyptus
+g62,rr,RR5,5,American,Cupertino A,128,76,1,0,pool Eucalyptus
+g63,rr,RR4,4,American,Gunn,140,58,1,0,pool Eucalyptus
+g64,rr,RR3,3,American,Middleton,72,192,2,0,pool Eucalyptus
+g65,rr,RR2,2,American,Quarry Lane A,96,28,1,0,pool Eucalyptus
+g66,rr,RR3,3,California B,Cupertino A,12,144,2,0,pool Eucalyptus
+g67,rr,RR5,5,California B,Gunn,4,118,2,0,pool Eucalyptus
+g68,rr,RR2,2,California B,Middleton,8,232,2,0,pool Eucalyptus
+g69,rr,RR4,4,California B,Quarry Lane A,22,40,2,0,pool Eucalyptus
+g70,rr,RR2,2,Cupertino A,Gunn,164,58,1,0,pool Eucalyptus
+g71,rr,RR4,4,Cupertino A,Middleton,86,154,2,0,pool Eucalyptus
+g72,rr,RR1,1,Cupertino A,Quarry Lane A,100,26,1,0,pool Eucalyptus
+g73,rr,RR1,1,Gunn,Middleton,30,212,2,0,pool Eucalyptus
+g74,rr,RR3,3,Gunn,Quarry Lane A,40,32,1,0,pool Eucalyptus
+g75,rr,RR5,5,Middleton,Quarry Lane A,228,12,1,0,pool Eucalyptus
+g76,rr,RR1,1,Albany B,Clovis North,18,178,2,0,pool Fir
+g77,rr,RR5,5,Albany B,Dougherty Valley B,8,110,2,0,pool Fir
+g78,rr,RR4,4,Albany B,Foothill A,50,136,2,0,pool Fir
+g79,rr,RR3,3,Albany B,Palo Alto,22,198,2,0,pool Fir
+g80,rr,RR2,2,Albany B,Saint Francis,26,100,2,0,pool Fir
+g81,rr,RR3,3,Clovis North,Dougherty Valley B,120,34,1,0,pool Fir
+g82,rr,RR5,5,Clovis North,Foothill A,86,124,2,0,pool Fir
+g83,rr,RR2,2,Clovis North,Palo Alto,146,100,1,0,pool Fir
+g84,rr,RR4,4,Clovis North,Saint Francis,94,84,1,0,pool Fir
+g85,rr,RR2,2,Dougherty Valley B,Foothill A,64,160,2,0,pool Fir
+g86,rr,RR4,4,Dougherty Valley B,Palo Alto,48,128,2,0,pool Fir
+g87,rr,RR1,1,Dougherty Valley B,Saint Francis,124,64,1,0,pool Fir
+g88,rr,RR1,1,Foothill A,Palo Alto,80,150,2,0,pool Fir
+g89,rr,RR3,3,Foothill A,Saint Francis,132,18,1,0,pool Fir
+g90,rr,RR5,5,Palo Alto,Saint Francis,182,34,1,0,pool Fir
+g91,consolation,Consolation 1,6,Dougherty Valley A,Foothill B,100,22,1,0,pool Ginkgo
+g92,consolation,Consolation 2,7,Dougherty Valley A,Gunn,48,8,1,0,pool Ginkgo
+g93,consolation,Consolation 3,8,Dougherty Valley A,Harker,38,4,1,0,pool Ginkgo
+g94,consolation,Consolation 3,8,Foothill B,Gunn,12,8,1,0,pool Ginkgo
+g95,consolation,Consolation 2,7,Foothill B,Harker,60,56,1,0,pool Ginkgo
+g96,consolation,Consolation 1,6,Gunn,Harker,46,44,1,0,pool Ginkgo
+g97,consolation,Consolation 1,6,A-Tech A,California A,34,46,2,0,pool Hazel
+g98,consolation,Consolation 2,7,A-Tech A,Cupertino B,58,52,1,0,pool Hazel
+g99,consolation,Consolation 3,8,A-Tech A,Dougherty Valley B,24,26,2,0,pool Hazel
+g100,consolation,Consolation 3,8,California A,Cupertino B,30,66,2,0,pool Hazel
+g101,consolation,Consolation 2,7,California A,Dougherty Valley B,54,62,2,0,pool Hazel
+g102,consolation,Consolation 1,6,Cupertino B,Dougherty Valley B,70,56,1,0,pool Hazel
+g103,consolation,Consolation 1,6,Albany A,Homestead,48,54,2,0,pool Ironwood
+g104,consolation,Consolation 3,8,Albany A,Stanford Online,30,16,1,0,pool Ironwood
+g105,consolation,Consolation 2,7,Homestead,Stanford Online,34,32,1,0,pool Ironwood
+g106,consolation,Consolation 1,6,A-Tech B,Los Gatos,34,30,1,0,pool Juniper
+g107,consolation,Consolation 2,7,A-Tech B,Quarry Lane A,22,20,1,0,pool Juniper
+g108,consolation,Consolation 3,8,A-Tech B,San Mateo,12,22,2,0,pool Juniper
+g109,consolation,Consolation 3,8,Los Gatos,Quarry Lane A,26,30,2,0,pool Juniper
+g110,consolation,Consolation 2,7,Los Gatos,San Mateo,40,48,2,0,pool Juniper
+g111,consolation,Consolation 1,6,Quarry Lane A,San Mateo,26,8,1,0,pool Juniper
+g112,consolation,Consolation 1,6,Albany B,California B,34,44,2,0,pool Kaki
+g113,consolation,Consolation 2,7,Albany B,Logan,18,38,2,0,pool Kaki
+g114,consolation,Consolation 3,8,Albany B,Quarry Lane B,16,20,2,0,pool Kaki
+g115,consolation,Consolation 3,8,California B,Logan,28,0,1,0,pool Kaki
+g116,consolation,Consolation 2,7,California B,Quarry Lane B,26,32,2,0,pool Kaki
+g117,consolation,Consolation 1,6,Logan,Quarry Lane B,52,22,1,0,pool Kaki
+g118,playoff,DE1,6,Lynbrook A,Davidson B,192,52,1,0,
+g119,playoff,DE1,6,Lynbrook B,Saratoga,110,72,1,0,
+g120,playoff,DE1,6,Davidson A,Clovis North,152,82,1,0,
+g121,playoff,DE1,6,AVHS,American,150,78,1,0,
+g122,playoff,DE1,6,Middleton,Irvington,212,40,1,0,
+g123,playoff,DE1,6,Mission San Jose B,BASIS Silicon Valley,54,130,2,0,
+g124,playoff,DE1,6,Mission San Jose A,Cupertino A,132,112,1,0,
+g125,playoff,DE1,6,Palo Alto,Foothill A,146,134,1,0,
+g126,playoff,DE2,7,Lynbrook A,Lynbrook B,206,54,1,0,
+g127,playoff,DE2,7,Davidson A,AVHS,48,152,2,0,
+g128,playoff,DE2,7,Middleton,BASIS Silicon Valley,106,58,1,0,
+g129,playoff,DE2,7,Mission San Jose A,Palo Alto,150,110,1,0,
+g130,playoff,DE2,7,Davidson B,Saratoga,96,110,2,0,
+g131,playoff,DE2,7,Clovis North,American,80,62,1,0,
+g132,playoff,DE2,7,Irvington,Mission San Jose B,80,78,1,0,
+g133,playoff,DE2,7,Cupertino A,Foothill A,60,78,2,0,
+g134,playoff,DE3,8,Palo Alto,Saratoga,62,54,1,0,
+g135,playoff,DE3,8,BASIS Silicon Valley,Clovis North,56,60,2,0,
+g136,playoff,DE3,8,Lynbrook B,Irvington,80,44,1,0,
+g137,playoff,DE3,8,Davidson A,Foothill A,94,46,1,0,
+g138,playoff,DE4,9,Lynbrook A,AVHS,106,98,1,0,
+g139,playoff,DE4,9,Middleton,Mission San Jose A,128,94,1,0,
+g140,playoff,DE4,9,Palo Alto,Clovis North,78,30,1,0,
+g141,playoff,DE4,9,Lynbrook B,Davidson A,34,96,2,0,
+g142,playoff,DE5,10,AVHS,Palo Alto,64,72,2,0,
+g143,playoff,DE5,10,Mission San Jose A,Davidson A,158,52,1,0,
+g144,playoff,DE6,11,Lynbrook A,Middleton,70,84,2,0,
+g145,playoff,DE6,11,Palo Alto,Mission San Jose A,74,102,2,0,
+g146,playoff,DE7,12,Lynbrook A,Mission San Jose A,56,76,2,0,
+g147,playoff,Final,13,Middleton,Mission San Jose A,58,116,2,0,
+g148,playoff,Final 2,14,Middleton,Mission San Jose A,52,94,2,0,

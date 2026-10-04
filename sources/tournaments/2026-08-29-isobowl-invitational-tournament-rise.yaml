@@ -17,7 +17,9 @@ sources:
   role: results+stats
   slug: isobowl-invitational-tournament-rise-division
   url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament-rise-division/standings
-parser: null
-parser_options: {}
+parser: g1_isobowl:parse
+parser_options:
+  name_overrides:
+    Duck: Rishabh
 status: todo
 notes: ''

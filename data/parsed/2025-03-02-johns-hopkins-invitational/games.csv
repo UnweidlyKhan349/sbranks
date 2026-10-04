@@ -1,0 +1,92 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,RR1,1,Plainsboro Knights,West Windsor-Plainsboro HS South B,114,124,2,0,pool A
+g2,rr,RR2,2,Plainsboro Knights,The Wilberforce School A,174,44,1,0,pool A
+g3,rr,RR3,3,Plainsboro Knights,BASIS Independent McLean,160,12,1,0,pool A
+g4,rr,RR4,4,Plainsboro Knights,Thomas S Wootton High School A,138,52,1,0,pool A
+g5,rr,RR5,5,Plainsboro Knights,Wheaton High School B,156,30,1,0,pool A
+g6,rr,RR3,3,West Windsor-Plainsboro HS South B,The Wilberforce School A,136,44,1,0,pool A
+g7,rr,RR4,4,West Windsor-Plainsboro HS South B,BASIS Independent McLean,174,8,1,0,pool A
+g8,rr,RR5,5,West Windsor-Plainsboro HS South B,Thomas S Wootton High School A,160,16,1,0,pool A
+g9,rr,RR2,2,West Windsor-Plainsboro HS South B,Wheaton High School B,150,28,1,0,pool A
+g10,rr,RR5,5,The Wilberforce School A,BASIS Independent McLean,66,26,1,0,pool A
+g11,rr,RR1,1,The Wilberforce School A,Thomas S Wootton High School A,90,26,1,0,pool A
+g12,rr,RR4,4,The Wilberforce School A,Wheaton High School B,80,68,1,0,pool A
+g13,rr,RR2,2,BASIS Independent McLean,Thomas S Wootton High School A,4,64,2,0,pool A
+g14,rr,RR1,1,BASIS Independent McLean,Wheaton High School B,18,62,2,0,pool A
+g15,rr,RR3,3,Thomas S Wootton High School A,Wheaton High School B,66,42,1,0,pool A
+g16,rr,RR1,1,Centennial High School A,Alexandria City High School,112,4,1,0,pool B
+g17,rr,RR2,2,Centennial High School A,Thomas Jefferson HS for Science and Technology B,96,90,1,0,pool B
+g18,rr,RR3,3,Centennial High School A,Beltway Blazers B,114,96,1,0,pool B
+g19,rr,RR4,4,Centennial High School A,West Windsor-Plainsboro HS South A,106,124,2,0,pool B
+g20,rr,RR5,5,Centennial High School A,Wheaton High School A,80,58,1,0,pool B
+g21,rr,RR3,3,Alexandria City High School,Thomas Jefferson HS for Science and Technology B,38,100,2,0,pool B
+g22,rr,RR4,4,Alexandria City High School,Beltway Blazers B,12,94,2,0,pool B
+g23,rr,RR5,5,Alexandria City High School,West Windsor-Plainsboro HS South A,8,186,2,0,pool B
+g24,rr,RR2,2,Alexandria City High School,Wheaton High School A,12,56,2,0,pool B
+g25,rr,RR5,5,Thomas Jefferson HS for Science and Technology B,Beltway Blazers B,82,92,2,0,pool B
+g26,rr,RR1,1,Thomas Jefferson HS for Science and Technology B,West Windsor-Plainsboro HS South A,82,134,2,0,pool B
+g27,rr,RR4,4,Thomas Jefferson HS for Science and Technology B,Wheaton High School A,62,86,2,0,pool B
+g28,rr,RR2,2,Beltway Blazers B,West Windsor-Plainsboro HS South A,110,102,1,0,pool B
+g29,rr,RR1,1,Beltway Blazers B,Wheaton High School A,96,42,1,0,pool B
+g30,rr,RR3,3,West Windsor-Plainsboro HS South A,Wheaton High School A,152,38,1,0,pool B
+g31,rr,RR1,1,Deep Run High School,Richard Montgomery,68,124,2,0,pool C
+g32,rr,RR2,2,Deep Run High School,John R. Lewis High School,88,24,1,0,pool C
+g33,rr,RR3,3,Deep Run High School,Westtown School A,28,62,2,0,pool C
+g34,rr,RR4,4,Deep Run High School,The Wilberforce School B,122,22,1,0,pool C
+g35,rr,RR5,5,Deep Run High School,Thomas Jefferson HS for Science and Technology A,48,168,2,0,pool C
+g36,rr,RR3,3,Richard Montgomery,John R. Lewis High School,118,24,1,0,pool C
+g37,rr,RR4,4,Richard Montgomery,Westtown School A,170,26,1,0,pool C
+g38,rr,RR5,5,Richard Montgomery,The Wilberforce School B,152,8,1,0,pool C
+g39,rr,RR2,2,Richard Montgomery,Thomas Jefferson HS for Science and Technology A,96,126,2,0,pool C
+g40,rr,RR5,5,John R. Lewis High School,Westtown School A,20,56,2,0,pool C
+g41,rr,RR1,1,John R. Lewis High School,The Wilberforce School B,24,22,1,0,pool C
+g42,rr,RR4,4,John R. Lewis High School,Thomas Jefferson HS for Science and Technology A,46,160,2,0,pool C
+g43,rr,RR2,2,Westtown School A,The Wilberforce School B,26,34,2,0,pool C
+g44,rr,RR1,1,Westtown School A,Thomas Jefferson HS for Science and Technology A,48,136,2,0,pool C
+g45,rr,RR3,3,The Wilberforce School B,Thomas Jefferson HS for Science and Technology A,38,186,2,0,pool C
+g46,rr,RR1,1,Centennial High School B,Beltway Blazers A,8,254,2,0,pool D
+g47,rr,RR2,2,Centennial High School B,Winston Churchill High School,44,88,2,0,pool D
+g48,rr,RR3,3,Centennial High School B,Westtown School B,54,58,2,0,pool D
+g49,rr,RR4,4,Centennial High School B,Centreville High School A,26,68,2,0,pool D
+g50,rr,RR5,5,Centennial High School B,Poolesville High School,18,134,2,0,pool D
+g51,rr,RR3,3,Beltway Blazers A,Winston Churchill High School,224,4,1,0,pool D
+g52,rr,RR4,4,Beltway Blazers A,Westtown School B,250,8,1,0,pool D
+g53,rr,RR5,5,Beltway Blazers A,Centreville High School A,222,46,1,0,pool D
+g54,rr,RR2,2,Beltway Blazers A,Poolesville High School,224,54,1,0,pool D
+g55,rr,RR5,5,Winston Churchill High School,Westtown School B,58,18,1,0,pool D
+g56,rr,RR1,1,Winston Churchill High School,Centreville High School A,46,100,2,0,pool D
+g57,rr,RR4,4,Winston Churchill High School,Poolesville High School,52,106,2,0,pool D
+g58,rr,RR2,2,Westtown School B,Centreville High School A,40,68,2,0,pool D
+g59,rr,RR1,1,Westtown School B,Poolesville High School,58,122,2,0,pool D
+g60,rr,RR3,3,Centreville High School A,Poolesville High School,40,184,2,0,pool D
+g61,playoff,DE1,6,Beltway Blazers A,Westtown School A,218,30,1,0,
+g62,playoff,DE1,6,Centennial High School A,Beltway Blazers B,66,108,2,0,
+g63,playoff,DE1,6,Plainsboro Knights,Wheaton High School A,94,8,1,0,
+g64,playoff,DE1,6,West Windsor-Plainsboro HS South A,Deep Run High School,98,94,1,0,
+g65,playoff,DE1,6,Thomas Jefferson HS for Science and Technology A,Thomas S Wootton High School A,100,60,1,0,
+g66,playoff,DE1,6,Poolesville High School,The Wilberforce School A,98,22,1,0,
+g67,playoff,DE1,6,West Windsor-Plainsboro HS South B,Winston Churchill High School,134,68,1,0,
+g68,playoff,DE1,6,Richard Montgomery,Centreville High School A,106,16,1,0,
+g69,playoff,DE2,7,Beltway Blazers A,Beltway Blazers B,198,28,1,0,
+g70,playoff,DE2,7,Plainsboro Knights,West Windsor-Plainsboro HS South A,50,126,2,0,
+g71,playoff,DE2,7,Thomas Jefferson HS for Science and Technology A,Poolesville High School,178,48,1,0,
+g72,playoff,DE2,7,West Windsor-Plainsboro HS South B,Richard Montgomery,104,66,1,0,
+g73,playoff,DE2,7,Westtown School A,Centennial High School A,24,62,2,0,
+g74,playoff,DE2,7,Wheaton High School A,Deep Run High School,42,44,2,0,
+g75,playoff,DE2,7,Thomas S Wootton High School A,The Wilberforce School A,8,52,2,0,
+g76,playoff,DE2,7,Winston Churchill High School,Centreville High School A,30,56,2,0,
+g77,playoff,DE3,8,Richard Montgomery,Centennial High School A,108,26,1,0,
+g78,playoff,DE3,8,Poolesville High School,Deep Run High School,102,22,1,0,
+g79,playoff,DE3,8,Plainsboro Knights,The Wilberforce School A,144,8,1,0,
+g80,playoff,DE3,8,Beltway Blazers B,Centreville High School A,32,20,1,0,
+g81,playoff,DE4,9,Beltway Blazers A,West Windsor-Plainsboro HS South A,182,22,1,0,
+g82,playoff,DE4,9,Thomas Jefferson HS for Science and Technology A,West Windsor-Plainsboro HS South B,66,80,2,0,
+g83,playoff,DE4,9,Richard Montgomery,Poolesville High School,52,34,1,0,
+g84,playoff,DE4,9,Plainsboro Knights,Beltway Blazers B,34,68,2,0,
+g85,playoff,DE5,10,West Windsor-Plainsboro HS South A,Richard Montgomery,86,28,1,0,
+g86,playoff,DE5,10,Thomas Jefferson HS for Science and Technology A,Beltway Blazers B,82,24,1,0,
+g87,playoff,DE6,11,Beltway Blazers A,West Windsor-Plainsboro HS South B,106,92,1,0,
+g88,playoff,DE6,11,West Windsor-Plainsboro HS South A,Thomas Jefferson HS for Science and Technology A,38,98,2,0,
+g89,playoff,DE7,12,West Windsor-Plainsboro HS South B,Thomas Jefferson HS for Science and Technology A,42,66,2,0,
+g90,playoff,Final,13,Beltway Blazers A,Thomas Jefferson HS for Science and Technology A,76,90,2,0,
+g91,playoff,Final 2,14,Beltway Blazers A,Thomas Jefferson HS for Science and Technology A,110,16,1,0,

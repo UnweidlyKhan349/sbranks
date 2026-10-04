@@ -23,7 +23,7 @@ sources:
   sheet_id: 1dLmTbSxYyGYvhHAKMbQVivxPj8q-2iA7N3Lijw4xbWY
   url: https://docs.google.com/spreadsheets/d/1dLmTbSxYyGYvhHAKMbQVivxPj8q-2iA7N3Lijw4xbWY/edit?gid=0#gid=0
   file: stats.xlsx
-parser: null
+parser: g5_jhu:parse
 parser_options: {}
 status: todo
 notes: ''

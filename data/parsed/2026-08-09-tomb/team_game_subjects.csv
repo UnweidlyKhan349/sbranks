@@ -1,0 +1,153 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+084bfdf9,Dulles Dolls,math,114,24,90,9,3
+084bfdf9,Indeterminate,math,144,44,100,11,0
+1cc7f12d,Orang,math,160,40,120,12,2
+1cc7f12d,Sticks and Bricks,math,108,28,80,8,1
+1dc345ba,"Carl, Friedrich, and Gauss",math,38,8,30,3,1
+1dc345ba,Doral Kong Kribbers,math,182,52,130,15,2
+29964fe7,Ainai72,math,108,28,80,9,2
+29964fe7,FXX,math,104,24,80,10,4
+4076b38c,Hills Academy,math,90,20,70,8,3
+4076b38c,Lebron to the 76ers,math,146,36,110,11,2
+55719747,BFIT,math,56,16,40,6,2
+55719747,Long Live Luggy,math,114,24,90,12,6
+ab25aba5,CatGPT,math,12,12,0,3,0
+ab25aba5,Idk,math,170,40,130,14,4
+db8d9a15,83% WADF,math,122,32,90,10,2
+db8d9a15,School of Geometry,math,120,20,100,10,5
+eafbb996,Math Nexus,math,150,40,110,12,2
+eafbb996,Mathlete,math,74,24,50,6,0
+0c77b809,Dulles Dolls,math,82,32,50,8,0
+0c77b809,Hills Academy,math,130,40,90,12,2
+2407b987,Lebron to the 76ers,math,102,32,70,10,2
+2407b987,Orang,math,132,32,100,10,2
+3872b1dd,Ainai72,math,36,-4,40,5,6
+3872b1dd,Mathlete,math,146,56,90,14,0
+6106835c,Idk,math,126,36,90,12,3
+6106835c,Math Nexus,math,38,8,30,6,4
+61c2afa6,Indeterminate,math,102,32,70,8,0
+61c2afa6,Sticks and Bricks,math,122,32,90,11,3
+652ee940,BFIT,math,12,12,0,3,0
+652ee940,Doral Kong Kribbers,math,176,56,120,16,2
+8828a289,Long Live Luggy,math,58,8,50,5,3
+8828a289,School of Geometry,math,156,56,100,15,1
+a33b4758,83% WADF,math,210,60,150,17,2
+a33b4758,"Carl, Friedrich, and Gauss",math,18,8,10,2,0
+b22c3dbb,CatGPT,math,34,24,10,6,0
+b22c3dbb,FXX,math,116,36,80,12,3
+0a3af8ba,Hills Academy,math,108,28,80,9,2
+0a3af8ba,Orang,math,126,36,90,11,2
+294b2694,"Carl, Friedrich, and Gauss",math,22,12,10,4,1
+294b2694,Long Live Luggy,math,128,28,100,13,6
+5939e30c,FXX,math,70,20,50,8,3
+5939e30c,Mathlete,math,102,32,70,9,1
+62f5b6cc,Dulles Dolls,math,112,32,80,10,2
+62f5b6cc,Sticks and Bricks,math,92,32,60,10,2
+7d0eaee8,83% WADF,math,132,32,100,11,3
+7d0eaee8,Doral Kong Kribbers,math,86,36,50,9,0
+a9517947,Ainai72,math,64,24,40,8,2
+a9517947,Idk,math,60,20,40,9,4
+b9eb2f0c,Indeterminate,math,84,24,60,7,1
+b9eb2f0c,Lebron to the 76ers,math,104,24,80,11,5
+e9d0f360,BFIT,math,22,12,10,4,1
+e9d0f360,School of Geometry,math,154,24,130,13,7
+f5292ad0,CatGPT,math,96,36,60,9,0
+f5292ad0,Math Nexus,math,26,16,10,7,3
+0660cd19,Dulles Dolls,math,80,20,60,7,2
+0660cd19,Lebron to the 76ers,math,122,32,90,11,3
+141a5c3f,83% WADF,math,158,48,110,15,3
+141a5c3f,BFIT,math,10,0,10,2,2
+7076abcc,"Carl, Friedrich, and Gauss",math,8,8,0,3,1
+7076abcc,School of Geometry,math,106,16,90,11,7
+75b63223,Doral Kong Kribbers,math,70,20,50,8,3
+75b63223,Long Live Luggy,math,68,8,60,7,5
+8fd7edb0,FXX,math,34,24,10,7,1
+8fd7edb0,Idk,math,86,16,70,9,5
+c02f56fa,Indeterminate,math,40,20,20,5,0
+c02f56fa,Orang,math,170,40,130,13,3
+cc428755,CatGPT,math,8,8,0,2,0
+cc428755,Mathlete,math,78,48,30,13,1
+e9f0de24,Ainai72,math,86,36,50,9,0
+e9f0de24,Math Nexus,math,48,8,40,6,4
+ed55b75a,Hills Academy,math,110,20,90,10,5
+ed55b75a,Sticks and Bricks,math,104,24,80,9,3
+05c6441a,Ainai72,math,72,32,40,9,1
+05c6441a,CatGPT,math,16,16,0,4,0
+298205dd,FXX,math,86,16,70,8,4
+298205dd,Math Nexus,math,64,24,40,7,1
+7708bcb6,Doral Kong Kribbers,math,50,20,30,7,2
+7708bcb6,School of Geometry,math,98,28,70,12,5
+7ecd75ae,Hills Academy,math,126,36,90,13,4
+7ecd75ae,Indeterminate,math,46,16,30,5,1
+a07f4833,Lebron to the 76ers,math,60,20,40,9,4
+a07f4833,Sticks and Bricks,math,48,28,20,9,2
+b88f005e,Dulles Dolls,math,32,12,20,3,0
+b88f005e,Orang,math,152,52,100,15,2
+d28a505e,83% WADF,math,150,60,90,15,0
+d28a505e,Long Live Luggy,math,44,4,40,5,4
+e45653f0,Idk,math,56,16,40,8,4
+e45653f0,Mathlete,math,36,16,20,5,1
+f6e38a03,BFIT,math,16,16,0,5,1
+f6e38a03,"Carl, Friedrich, and Gauss",math,-4,-4,0,1,2
+0417c717,Lebron to the 76ers,math,122,32,90,11,3
+0417c717,Sticks and Bricks,math,22,12,10,5,2
+16cf2666,Ainai72,math,74,44,30,11,0
+16cf2666,FXX,math,36,16,20,6,2
+3fe9f851,Dulles Dolls,math,48,28,20,8,1
+3fe9f851,School of Geometry,math,90,20,70,11,6
+80730a1c,Doral Kong Kribbers,math,82,32,50,9,1
+80730a1c,Mathlete,math,38,28,10,8,1
+b94e0d9a,Idk,math,66,36,30,12,3
+b94e0d9a,Math Nexus,math,18,8,10,3,1
+cbd0f4ed,Hills Academy,math,136,56,80,15,1
+cbd0f4ed,Long Live Luggy,math,34,4,30,4,3
+d33a2dad,Indeterminate,math,26,16,10,4,0
+d33a2dad,Orang,math,146,56,90,15,1
+e8dc522b,83% WADF,math,126,56,70,15,1
+e8dc522b,CatGPT,math,-4,-4,0,1,2
+18cef965,Indeterminate,math,60,20,40,6,1
+18cef965,Long Live Luggy,math,84,24,60,8,2
+1be71b8d,CatGPT,math,4,4,0,1,0
+1be71b8d,Mathlete,math,66,36,30,9,0
+27765861,Dulles Dolls,math,58,28,30,9,2
+27765861,Sticks and Bricks,math,24,4,20,4,3
+4213a2e0,83% WADF,math,38,8,30,6,4
+4213a2e0,Doral Kong Kribbers,math,56,36,20,10,1
+562d4306,Hills Academy,math,42,12,30,6,3
+562d4306,Orang,math,96,36,60,10,1
+a5f01fda,Lebron to the 76ers,math,74,24,50,8,2
+a5f01fda,School of Geometry,math,96,36,60,12,3
+dd7f7eb2,Ainai72,math,52,32,20,10,2
+dd7f7eb2,Idk,math,18,8,10,4,2
+e1bca7fc,FXX,math,104,44,60,13,2
+e1bca7fc,Math Nexus,math,-4,-4,0,1,2
+33036b15,Dulles Dolls,math,16,16,0,5,1
+33036b15,Hills Academy,math,76,36,40,11,2
+732c40cc,Idk,math,8,8,0,3,1
+732c40cc,Mathlete,math,6,-4,10,2,3
+a178ec73,83% WADF,math,54,24,30,6,0
+a178ec73,FXX,math,52,32,20,9,1
+f6e68fdf,Lebron to the 76ers,math,110,40,70,12,2
+f6e68fdf,Long Live Luggy,math,10,0,10,5,5
+49f59c34,Ainai72,math,36,16,20,4,0
+49f59c34,Orang,math,82,52,30,14,1
+6e828925,83% WADF,math,42,32,10,10,2
+6e828925,Lebron to the 76ers,math,78,28,50,8,1
+9c41afd8,Hills Academy,math,34,24,10,9,3
+9c41afd8,Idk,math,10,0,10,3,3
+d265d49a,Doral Kong Kribbers,math,30,20,10,5,0
+d265d49a,School of Geometry,math,64,24,40,11,5
+abab8d33,Ainai72,math,46,36,10,9,0
+abab8d33,Hills Academy,math,28,8,20,4,2
+b9705600,Doral Kong Kribbers,math,70,20,50,6,1
+b9705600,Lebron to the 76ers,math,66,36,30,10,1
+b099e080,Ainai72,math,52,32,20,8,0
+b099e080,Doral Kong Kribbers,math,16,16,0,4,0
+fda1ae09,Orang,math,46,16,30,9,5
+fda1ae09,School of Geometry,math,72,32,40,10,2
+480b26a7,Ainai72,math,18,8,10,4,2
+480b26a7,Orang,math,92,32,60,10,2
+90b0ccd4,Orang,math,92,32,60,9,1
+90b0ccd4,School of Geometry,math,-12,-12,0,2,5
+b852162a,Orang,math,10,0,10,7,7
+b852162a,School of Geometry,math,30,20,10,8,3

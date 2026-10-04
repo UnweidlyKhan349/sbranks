@@ -22,6 +22,12 @@ sources:
   sheet_id: 1s15wI02Dj3JtZ7ctmel7JNKm5rElNhT3MSogr2u2eNc
   url: https://docs.google.com/spreadsheets/d/1s15wI02Dj3JtZ7ctmel7JNKm5rElNhT3MSogr2u2eNc/edit?gid=403952224#gid=403952224
   file: stats.xlsx
+- kind: gsheet
+  role: results+scoresheets
+  sheet_id: 1hF3sefURNb_ssJk7SkIRKX6ByBcDxRkk4SZazZtucFY
+  url: https://docs.google.com/spreadsheets/d/1hF3sefURNb_ssJk7SkIRKX6ByBcDxRkk4SZazZtucFY/edit
+  file: backend.xlsx
+  note: scoring backend referenced by IMPORTRANGE in stats.xlsx; public
 parser: null
 parser_options: {}
 status: todo

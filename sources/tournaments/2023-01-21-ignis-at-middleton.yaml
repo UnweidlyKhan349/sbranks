@@ -21,6 +21,16 @@ sources:
   role: stats
   url: https://prometheus.science/middleton/statistics
   file: stats.html
+- kind: url
+  role: results
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTR98zc2VTh5GaYl7ziMmTA9Mwpqj0CRyMEbEaBdQnOWSfD3wtMAiqBqmDfT1VjxPuyBp_Q2kxCB-dL/pub?output=xlsx
+  file: results_sheet.xlsx
+  note: Published Google Sheet embedded (iframe) in results.html
+- kind: url
+  role: stats
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS2DbHGC4fn9DpKw_zsgrLS5J-zLwvTJYhMQOeVjRt-iWPTEFCm6SY3R0x-GD5dfkBrOW4nLlp0RX2l/pub?output=xlsx
+  file: stats_sheet.xlsx
+  note: Published Google Sheet embedded (iframe) in stats.html
 parser: null
 parser_options: {}
 status: todo

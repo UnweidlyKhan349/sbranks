@@ -1,0 +1,214 @@
+=== initial
+ISOBowl
+DATABASE
+BUZZER
+SCRIMMAGE
+PREMIER
+SIGN IN
+ICSBT 3
+OCT 11
+·
+ICSBT
+LEXINGTON ONLINE SCIBOWL TOURNAMENT 3
+OCT 18
+·
+Lexington HS
+← Premier
+
+Aug 9, 2026 · 18 teams
+
+Trio Online Math Bowl
+
+STATUS
+
+COMPLETED
+
+CHAMPION — SCHOOL OF GEOMETRY
+
+Hub
+Stats
+Teams
+Packets
+Stage
+All stages
+Stage
+Subject
+All subjects
+Subject
+Team
+All Teams
+Team
+Rate N
+Rate N
+Team
+Individual
+TEAM
+	GP
+	W
+	L
+	PF
+	PA
+	TUH
+	PPTUH
+	COR
+	INC
+	NEG
+
+Orang	12	10	2	1304	602	240	5.4	135	32	29
+School of Geometry	11	9	2	974	560	220	4.4	115	22	49
+Ainai72	11	8	3	644	646	220	2.9	86	38	15
+83% WADF	9	7	2	1032	460	180	5.7	105	17	17
+Lebron to the 76ers	10	7	3	984	674	200	4.9	101	21	25
+Hills Academy	10	6	4	880	706	200	4.4	97	33	27
+Doral Kong Kribbers	10	6	4	818	606	200	4.1	89	34	12
+Idk	9	6	3	600	294	180	3.3	74	47	29
+Mathlete	8	4	4	546	414	160	3.4	66	42	7
+FXX	8	3	5	602	518	160	3.8	73	26	20
+Long Live Luggy	8	3	5	540	760	160	3.4	59	15	34
+Dulles Dolls	8	2	6	542	830	160	3.4	59	17	11
+Sticks and Bricks	7	1	6	520	724	140	3.7	56	15	16
+Indeterminate	7	1	6	502	866	140	3.6	46	10	3
+Math Nexus	7	1	6	340	638	140	2.4	42	30	17
+CatGPT	7	1	6	166	654	140	1.2	26	28	2
+BFIT	5	1	4	116	598	100	1.2	20	18	6
+Carl, Friedrich, and Gauss	5	0	5	82	642	100	0.8	13	24	5
+
+ISOBowl — The Science Bowl Hub
+
+Question Database
+·
+Buzzer Rooms
+·
+Scrimmage
+·
+Premier
+·
+My Teams
+Changelog
+·
+For IT administrators
+·
+Discord
+·
+Sign in
+=== after click Individual
+ISOBowl
+DATABASE
+BUZZER
+SCRIMMAGE
+PREMIER
+SIGN IN
+ICSBT 3
+OCT 11
+·
+ICSBT
+LEXINGTON ONLINE SCIBOWL TOURNAMENT 3
+OCT 18
+·
+Lexington HS
+← Premier
+
+Aug 9, 2026 · 18 teams
+
+Trio Online Math Bowl
+
+STATUS
+
+COMPLETED
+
+CHAMPION — SCHOOL OF GEOMETRY
+
+Hub
+Stats
+Teams
+Packets
+Stage
+All stages
+Stage
+Subject
+All subjects
+Subject
+Team
+All Teams
+Team
+Rate N
+Rate N
+Team
+Individual
+PLAYER
+	TEAM
+	GP
+	TUH
+	PTS
+	PPTUH
+	COR
+	INC
+	NEG
+
+WADF Secretary	83% WADF	9	180	188	1.0	50	11	3
+WADF Witch Hunter	83% WADF	9	180	104	0.6	39	4	13
+WADF Treasurer	83% WADF	9	180	60	0.3	16	2	1
+Max T	Ainai72	11	220	128	0.6	37	13	5
+james w	Ainai72	11	220	80	0.4	23	9	3
+Karam Gill	Ainai72	11	220	76	0.3	26	16	7
+tixkdm	BFIT	5	100	40	0.4	13	9	3
+afstoecker	BFIT	5	100	8	0.1	3	2	1
+marianne	BFIT	3	60	4	0.1	2	2	1
+marianne	BFIT	2	40	4	0.1	2	5	1
+Jacob	Carl, Friedrich, and Gauss	5	100	16	0.2	5	13	1
+Isaac	Carl, Friedrich, and Gauss	5	100	12	0.1	4	2	1
+Sanjeev	Carl, Friedrich, and Gauss	5	100	4	0.0	4	9	3
+Achuth	CatGPT	5	100	72	0.7	20	18	2
+Sujit	CatGPT	7	140	24	0.2	6	10	0
+Abhishek C	Doral Kong Kribbers	10	200	272	1.4	78	34	10
+Ulduar	Doral Kong Kribbers	10	200	20	0.1	6	0	1
+Shrey H	Doral Kong Kribbers	10	200	16	0.1	5	0	1
+Arnav D	Dulles Dolls	8	160	128	0.8	42	14	10
+Shruthi R	Dulles Dolls	8	160	44	0.3	11	1	0
+vegetables	Dulles Dolls	8	160	20	0.1	6	2	1
+Sam E	FXX	8	160	140	0.9	52	16	17
+yaoi	FXX	5	100	64	0.6	17	7	1
+Mont	FXX	6	110	8	0.1	4	3	2
+Sohil	Hills Academy	10	200	280	1.4	97	33	27
+ishaan kabra [idk]	Idk	9	180	100	0.6	43	21	18
+Varyan J	Idk	8	150	80	0.5	31	26	11
+Patrick L	Indeterminate	7	140	152	1.1	41	10	3
+Kevin Lu	Indeterminate	7	140	12	0.1	3	0	0
+jayden	Indeterminate	7	140	8	0.1	2	0	0
+rbo	Lebron to the 76ers	10	200	164	0.8	49	8	8
+Minghao G	Lebron to the 76ers	10	200	76	0.4	19	2	0
+vockey	Lebron to the 76ers	10	200	64	0.3	33	11	17
+Advik	Long Live Luggy	8	160	108	0.7	38	9	11
+Raymond	Long Live Luggy	7	140	0	0.0	4	0	4
+akhil	Long Live Luggy	8	160	-8	-0.1	17	6	19
+Dennis J	Math Nexus	7	140	96	0.7	39	28	15
+Akhil M	Math Nexus	6	120	4	0.0	2	1	1
+Ishaan R	Math Nexus	6	120	0	0.0	1	1	1
+Anish	Mathlete	8	160	236	1.5	66	42	7
+alexcess	Orang	12	240	284	1.2	99	23	28
+Krithik	Orang	12	240	140	0.6	36	9	1
+Rohan G [SOG]	School of Geometry	11	220	200	0.9	92	18	42
+Mekaylin D [SOG]	School of Geometry	3	50	24	0.5	8	0	2
+Vishnu M [SOG]	School of Geometry	7	121	24	0.2	9	2	3
+Kian D [SOG]	School of Geometry	5	100	16	0.2	6	2	2
+Jai M	Sticks and Bricks	7	140	84	0.6	29	7	8
+hiperson	Sticks and Bricks	7	140	76	0.5	27	8	8
+
+ISOBowl — The Science Bowl Hub
+
+Question Database
+·
+Buzzer Rooms
+·
+Scrimmage
+·
+Premier
+·
+My Teams
+Changelog
+·
+For IT administrators
+·
+Discord
+·
+Sign in

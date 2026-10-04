@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RR Rankings</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f4f4f9;
+            /* Match previous pages */
+            color: #333;
+            padding-top: 100px;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .rank-table {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .rank-table th,
+        .rank-table td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .rank-table th {
+            background-color: #ffe0b2;
+            /* Or matching theme */
+            font-weight: bold;
+            color: #000;
+        }
+
+        .rank-table tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        .rank-col {
+            width: 60px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .score-col {
+            text-align: right;
+            font-family: monospace;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation (Assuming same valid nav from rrscores is desired) -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M3 13h2v8H3zm4-8h2v13H7zm4-2h2v15h-2zm4 4h2v11h-2zm4-2h2v13h-2z" />
+                    </svg>
+                </div>
+                <span class="logo-text">Eyrie</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <!-- Depending on auth state, but nav links were: -->
+                
+                <li><a href="/login">Login</a></li>
+                <li><a href="/signup">Signup</a></li>
+                
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <ul class="nav-links-mobile" id="navLinksMobile">
+            <li><a href="/">Home</a></li>
+            
+            <li><a href="/login">Login</a></li>
+            <li><a href="/signup">Signup</a></li>
+            
+        </ul>
+    </nav>
+
+    <h1>RR Rankings</h1>
+
+    
+    <table class="rank-table">
+        <thead>
+            <tr>
+                <th class="rank-col">Rank</th>
+                <th>Team</th>
+                <th>Group</th>
+                <th class="score-col">Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td class="rank-col">1</td>
+                <td>Mission San Jose 1</td>
+                <td>Kites</td>
+                <td class="score-col">1350.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">2</td>
+                <td>The Frazer School 1</td>
+                <td>Hornbills</td>
+                <td class="score-col">1304.50</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">3</td>
+                <td>Blair 1</td>
+                <td>Lapwings</td>
+                <td class="score-col">1296.20</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">4</td>
+                <td>Ward Melville 1</td>
+                <td>Godwits</td>
+                <td class="score-col">1188.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">5</td>
+                <td>Palo Alto 1</td>
+                <td>Egrets</td>
+                <td class="score-col">1165.00</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">6</td>
+                <td>Throrthwood Tottenham</td>
+                <td>Lapwings</td>
+                <td class="score-col">1134.20</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">7</td>
+                <td>North Hollywood 1</td>
+                <td>Egrets</td>
+                <td class="score-col">1123.00</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">8</td>
+                <td>ASFA 1</td>
+                <td>Jacanas</td>
+                <td class="score-col">1111.60</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">9</td>
+                <td>Davidson Academy</td>
+                <td>Avadavats</td>
+                <td class="score-col">1061.40</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">10</td>
+                <td>BISV 1</td>
+                <td>Ibises</td>
+                <td class="score-col">1046.10</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">11</td>
+                <td>James Clemens</td>
+                <td>Dovekies</td>
+                <td class="score-col">998.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">12</td>
+                <td>Ladue</td>
+                <td>Dovekies</td>
+                <td class="score-col">998.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">13</td>
+                <td>Lakeside 1</td>
+                <td>Bellbirds</td>
+                <td class="score-col">984.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">14</td>
+                <td>West Windsor-Plainsboro North</td>
+                <td>Avadavats</td>
+                <td class="score-col">983.40</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">15</td>
+                <td>Hunter College 1</td>
+                <td>Condors</td>
+                <td class="score-col">963.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">16</td>
+                <td>Wayzata</td>
+                <td>Condors</td>
+                <td class="score-col">959.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">17</td>
+                <td>Mission San Jose 2</td>
+                <td>Condors</td>
+                <td class="score-col">947.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">18</td>
+                <td>North Hollywood 2</td>
+                <td>Frigatebirds</td>
+                <td class="score-col">940.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">19</td>
+                <td>Blair 2</td>
+                <td>Bellbirds</td>
+                <td class="score-col">926.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">20</td>
+                <td>Thomas Jefferson 1</td>
+                <td>Ibises</td>
+                <td class="score-col">886.10</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">21</td>
+                <td>WWPS 1</td>
+                <td>Frigatebirds</td>
+                <td class="score-col">885.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">22</td>
+                <td>Jericho 1</td>
+                <td>Kites</td>
+                <td class="score-col">880.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">23</td>
+                <td>Punahou</td>
+                <td>Ibises</td>
+                <td class="score-col">878.10</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">24</td>
+                <td>School of Astronomy</td>
+                <td>Hornbills</td>
+                <td class="score-col">836.50</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">25</td>
+                <td>OCSA</td>
+                <td>Godwits</td>
+                <td class="score-col">802.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">26</td>
+                <td>MSJ 3</td>
+                <td>Dovekies</td>
+                <td class="score-col">790.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">27</td>
+                <td>VMATHs</td>
+                <td>Bellbirds</td>
+                <td class="score-col">786.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">28</td>
+                <td>Clovis North High</td>
+                <td>Bellbirds</td>
+                <td class="score-col">784.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">29</td>
+                <td>Temple City</td>
+                <td>Avadavats</td>
+                <td class="score-col">773.40</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">30</td>
+                <td>University 1</td>
+                <td>Frigatebirds</td>
+                <td class="score-col">725.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">31</td>
+                <td>AHB 1</td>
+                <td>Godwits</td>
+                <td class="score-col">706.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">32</td>
+                <td>Arcadia 1</td>
+                <td>Dovekies</td>
+                <td class="score-col">644.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">33</td>
+                <td>BRMHS 1</td>
+                <td>Ibises</td>
+                <td class="score-col">630.10</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">34</td>
+                <td>Lexington</td>
+                <td>Lapwings</td>
+                <td class="score-col">628.20</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">35</td>
+                <td>Collierville 1</td>
+                <td>Condors</td>
+                <td class="score-col">585.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">36</td>
+                <td>CCA 1</td>
+                <td>Avadavats</td>
+                <td class="score-col">577.40</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">37</td>
+                <td>Princeton</td>
+                <td>Egrets</td>
+                <td class="score-col">577.00</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">38</td>
+                <td>CCA 2</td>
+                <td>Kites</td>
+                <td class="score-col">566.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">39</td>
+                <td>Eastlake</td>
+                <td>Hornbills</td>
+                <td class="score-col">534.50</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">40</td>
+                <td>WWPS 2</td>
+                <td>Jacanas</td>
+                <td class="score-col">525.60</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">41</td>
+                <td>BRMHS 2</td>
+                <td>Egrets</td>
+                <td class="score-col">511.00</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">42</td>
+                <td>Lynbrook 1</td>
+                <td>Hornbills</td>
+                <td class="score-col">502.50</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">43</td>
+                <td>BISV 2</td>
+                <td>Godwits</td>
+                <td class="score-col">492.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">44</td>
+                <td>College Park</td>
+                <td>Jacanas</td>
+                <td class="score-col">479.60</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">45</td>
+                <td>University 2</td>
+                <td>Hornbills</td>
+                <td class="score-col">460.50</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">46</td>
+                <td>Whitney Young 1</td>
+                <td>Godwits</td>
+                <td class="score-col">446.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">47</td>
+                <td>Bridgeland</td>
+                <td>Jacanas</td>
+                <td class="score-col">439.60</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">48</td>
+                <td>Ward Melville 2</td>
+                <td>Avadavats</td>
+                <td class="score-col">423.40</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">49</td>
+                <td>State College Area 1</td>
+                <td>Hornbills</td>
+                <td class="score-col">418.50</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">50</td>
+                <td>Harvard Westlake 1</td>
+                <td>Frigatebirds</td>
+                <td class="score-col">392.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">51</td>
+                <td>Iolani School 1</td>
+                <td>Jacanas</td>
+                <td class="score-col">381.60</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">52</td>
+                <td>Research Triangle</td>
+                <td>Bellbirds</td>
+                <td class="score-col">368.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">53</td>
+                <td>Arcadia 2</td>
+                <td>Ibises</td>
+                <td class="score-col">366.10</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">54</td>
+                <td>BASIS Independent Fremont</td>
+                <td>Egrets</td>
+                <td class="score-col">365.00</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">55</td>
+                <td>BUMSJK</td>
+                <td>Lapwings</td>
+                <td class="score-col">358.20</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">56</td>
+                <td>Whitney Young 2</td>
+                <td>Kites</td>
+                <td class="score-col">348.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">57</td>
+                <td>Camas</td>
+                <td>Condors</td>
+                <td class="score-col">345.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">58</td>
+                <td>Harvard Westlake 2</td>
+                <td>Kites</td>
+                <td class="score-col">344.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">59</td>
+                <td>Troy 1</td>
+                <td>Bellbirds</td>
+                <td class="score-col">338.30</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">60</td>
+                <td>Westview 1</td>
+                <td>Dovekies</td>
+                <td class="score-col">302.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">61</td>
+                <td>IMSA 2</td>
+                <td>Lapwings</td>
+                <td class="score-col">280.20</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">62</td>
+                <td>IMSA 1</td>
+                <td>Condors</td>
+                <td class="score-col">259.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">63</td>
+                <td>Academies of Loudoun</td>
+                <td>Kites</td>
+                <td class="score-col">246.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">64</td>
+                <td>Collierville 2</td>
+                <td>Ibises</td>
+                <td class="score-col">246.10</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">65</td>
+                <td>Blair 3</td>
+                <td>Godwits</td>
+                <td class="score-col">242.70</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">66</td>
+                <td>Cupertino 2</td>
+                <td>Egrets</td>
+                <td class="score-col">169.00</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">67</td>
+                <td>Cupertino 1</td>
+                <td>Avadavats</td>
+                <td class="score-col">155.40</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">68</td>
+                <td>Jericho 2</td>
+                <td>Frigatebirds</td>
+                <td class="score-col">147.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">69</td>
+                <td>John P. Stevens</td>
+                <td>Dovekies</td>
+                <td class="score-col">118.80</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">70</td>
+                <td>State College Area 2</td>
+                <td>Lapwings</td>
+                <td class="score-col">94.20</td>
+            </tr>
+            
+            <tr>
+                <td class="rank-col">71</td>
+                <td>BISV 3</td>
+                <td>Frigatebirds</td>
+                <td class="score-col">32.80</td>
+            </tr>
+            
+        </tbody>
+    </table>
+    
+
+    <script src="/static/javasc.js"></script>
+</body>
+
+</html>

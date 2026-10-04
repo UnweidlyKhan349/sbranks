@@ -1,0 +1,17 @@
+{
+  "pubhtml": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWKALd-esT5infUw2X8X98ingdZ8R_q11cds5_w3KSx76QBWmIVC9yA8oLb3NetFwN4FNCvw3ItVMW/pubhtml",
+  "tabs": [
+    {
+      "name": "DE Results",
+      "gid": "173103064",
+      "csv": "173103064.csv",
+      "html": "173103064.html"
+    },
+    {
+      "name": "RR Scores",
+      "gid": "1499770711",
+      "csv": "1499770711.csv",
+      "html": "1499770711.html"
+    }
+  ]
+}

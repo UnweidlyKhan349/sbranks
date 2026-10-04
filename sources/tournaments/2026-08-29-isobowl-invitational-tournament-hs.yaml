@@ -17,7 +17,7 @@ sources:
   role: results+stats
   slug: isobowl-invitational-tournament
   url: https://isobowl.com/premier/tournaments/isobowl-invitational-tournament/standings
-parser: null
+parser: g1_isobowl:parse
 parser_options: {}
 status: todo
 notes: ''

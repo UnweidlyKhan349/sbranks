@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eyrie</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="/" class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M3 13h2v8H3zm4-8h2v13H7zm4-2h2v15h-2zm4 4h2v11h-2zm4-2h2v13h-2z" />
+                    </svg>
+                </div>
+                <span class="logo-text">Eyrie</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/rrscores">RR Scores</a></li>
+                <li><a href="/rrrank">RR Rankings</a></li>
+                <li><a href="/debracket">DE Bracket</a></li>
+                <li><a href="/sebracket">SE Bracket</a></li>
+                <li><a href="/stats">Stats</a></li>
+                <li><a href="/schedule">Schedule</a></li>
+                <li><a href="/games">Games</a></li>
+                <li><a href="/logout">Logout</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <ul class="nav-links-mobile" id="navLinksMobile">
+            <li><a href="/">Home</a></li>
+            <li><a href="/rrscores">RR Scores</a></li>
+            <li><a href="/rrrank">RR Rankings</a></li>
+            <li><a href="/debracket">DE Bracket</a></li>
+            <li><a href="/sebracket">SE Bracket</a></li>
+            <li><a href="/stats">Stats</a></li>
+            <li><a href="/schedule">Schedule</a></li>
+            <li><a href="/games">Games</a></li>
+            <li><a href="/logout">Logout</a></li>
+        </ul>
+    </nav>
+    <main>
+        
+<style>
+    .bracket-container {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        overflow-x: auto;
+        background-color: #f9f9f9;
+        min-height: 800px;
+    }
+
+    .bracket-label {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin: 20px 0 10px 20px;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 5px;
+        color: #000;
+    }
+
+    .round-row {
+        display: flex;
+        justify-content: flex-start;
+        gap: 50px;
+        padding-bottom: 40px;
+        overflow-x: auto;
+        padding-left: 20px;
+    }
+
+    .round-column {
+        display: flex;
+        flex-direction: column;
+        min-width: 220px;
+        height: 1000px;
+    }
+
+    .round-header {
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 0.85em;
+        color: #555;
+        border-bottom: 2px solid #007bff;
+        margin-bottom: 20px;
+    }
+
+    .matches-list {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        position: relative;
+    }
+
+    .match-card {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        background: white;
+        padding: 0;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        width: 100%;
+        font-size: 0.9em;
+        position: relative;
+        z-index: 2;
+        overflow: hidden;
+    }
+
+    /* Connectors */
+    .match-card::before,
+    .match-card::after {
+        content: '';
+        position: absolute;
+        background: #ced4da;
+        z-index: 1;
+    }
+
+    /* Connector to the right */
+    .match-card::after {
+        right: -50px;
+        top: 50%;
+        width: 50px;
+        height: 2px;
+    }
+
+    /* Vertical connector for pairs */
+    .round-column:not(:last-child) .match-card:nth-child(odd)::after {
+        height: calc(50% + 25px);
+        /* This is a rough estimate, fixed in JS or more complex CSS */
+        /* Actually, simple approach: odd matches have a line that goes down, even matches have a line that goes up */
+    }
+
+    .round-column:last-child .match-card::after {
+        display: none;
+    }
+
+    .match-card::before {
+        left: -50px;
+        top: 50%;
+        width: 50px;
+        height: 2px;
+    }
+
+    .round-column:first-child .match-card::before {
+        display: none;
+    }
+
+    /* Vertical lines to connect pairs */
+    .round-column:not(:last-child) .match-card:nth-child(odd)::after {
+        height: calc(50% + 2px);
+        /* Vertical part */
+        width: 2px;
+        right: -25px;
+        /* Halfway the gap */
+        top: 50%;
+    }
+
+    /* Vertical lines for even matches */
+    .round-column:not(:last-child) .match-card:nth-child(even)::after {
+        height: 50%;
+        width: 2px;
+        right: -25px;
+        top: 0;
+    }
+
+    /* Horizontal parts of the elbow */
+    .round-column:not(:last-child) .match-card::after {
+        content: '';
+        position: absolute;
+        background: #ced4da;
+        right: -50px;
+        top: 50%;
+        width: 25px;
+        /* Short horizontal line */
+        height: 2px;
+    }
+
+    /* The 'extension' to meet the vertical line */
+    .round-column:not(:last-child) .match-card:nth-child(odd)::before {
+        /* Not needed, used ::after for right side */
+    }
+
+    .match-header {
+        font-size: 0.7em;
+        padding: 4px 8px;
+        background: #f8f9fa;
+        color: #666;
+        border-bottom: 1px solid #eee;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .team-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 12px;
+        border-bottom: 1px solid #f8f9fa;
+        min-height: 40px;
+    }
+
+    .team-row:last-child {
+        border-bottom: none;
+    }
+
+    .score-span {
+        font-weight: bold;
+        background: #eee;
+        color: #000;
+        padding: 2px 6px;
+        border-radius: 3px;
+        min-width: 24px;
+        text-align: center;
+        font-size: 0.85em;
+    }
+
+    .admin-panel {
+        background: #fff;
+        padding: 15px;
+        margin: 20px;
+        border-radius: 8px;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .admin-group {
+        border: 1px solid #eee;
+        padding: 10px;
+        border-radius: 6px;
+        background: #fafafa;
+    }
+
+    .admin-group strong {
+        display: block;
+        margin-bottom: 5px;
+        font-size: 0.9em;
+        color: #555;
+    }
+
+    .control-btn {
+        margin: 3px;
+        font-size: 0.8em;
+        padding: 6px 12px;
+        border: 1px solid #007bff;
+        background: #fff;
+        color: #007bff;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: all 0.2s;
+    }
+
+    .control-btn:hover {
+        background: #007bff;
+        color: #fff;
+    }
+
+    h4 {
+        text-align: center;
+        margin-top: 0;
+        color: #000;
+    }
+</style>
+
+
+
+<div class="dashboard-section">
+    <h1 style="text-align:center; padding-top:20px;">Single Elimination Bracket (Seeds 17-32)</h1>
+
+    
+    
+    
+
+    
+
+    <div class="bracket-container">
+        <div class="round-row">
+            <div class="round-column">
+                <div class="round-header">Round 1</div>
+                <div class="matches-list">
+                    
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_1</span>
+        <a href="/game/571" style="text-decoration:none; color:#bbb;">#571</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/571" class="team-link">Mission San Jose 2</a>
+        <span class="score-span">102</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/571" class="team-link">Arcadia 1</a>
+        <span class="score-span">44</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_2</span>
+        <a href="/game/572" style="text-decoration:none; color:#bbb;">#572</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/572" class="team-link">School of Astronomy</a>
+        <span class="score-span">58</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/572" class="team-link">OCSA</a>
+        <span class="score-span">54</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_3</span>
+        <a href="/game/573" style="text-decoration:none; color:#bbb;">#573</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/573" class="team-link">Thomas Jefferson 1</a>
+        <span class="score-span">66</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/573" class="team-link">Temple City</a>
+        <span class="score-span">70</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_4</span>
+        <a href="/game/574" style="text-decoration:none; color:#bbb;">#574</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/574" class="team-link">WWPS 1</a>
+        <span class="score-span">0</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/574" class="team-link">Clovis North High</a>
+        <span class="score-span">4</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_5</span>
+        <a href="/game/575" style="text-decoration:none; color:#bbb;">#575</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/575" class="team-link">North Hollywood 2</a>
+        <span class="score-span">126</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/575" class="team-link">AHB 1</a>
+        <span class="score-span">36</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_6</span>
+        <a href="/game/576" style="text-decoration:none; color:#bbb;">#576</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/576" class="team-link">Punahou</a>
+        <span class="score-span">28</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/576" class="team-link">MSJ 3</a>
+        <span class="score-span">46</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_7</span>
+        <a href="/game/577" style="text-decoration:none; color:#bbb;">#577</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/577" class="team-link">Blair 2</a>
+        <span class="score-span">42</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/577" class="team-link">University 1</a>
+        <span class="score-span">40</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R1_8</span>
+        <a href="/game/578" style="text-decoration:none; color:#bbb;">#578</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/578" class="team-link">Jericho 1</a>
+        <span class="score-span">42</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/578" class="team-link">VMATHs</a>
+        <span class="score-span">74</span>
+    </div>
+    
+</div>
+
+                </div>
+            </div>
+            <div class="round-column">
+                <div class="round-header">Quarterfinals</div>
+                <div class="matches-list">
+                    
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R2_1</span>
+        <a href="/game/587" style="text-decoration:none; color:#bbb;">#587</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/587" class="team-link">Mission San Jose 2</a>
+        <span class="score-span">88</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/587" class="team-link">School of Astronomy</a>
+        <span class="score-span">20</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R2_2</span>
+        <a href="/game/588" style="text-decoration:none; color:#bbb;">#588</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/588" class="team-link">Temple City</a>
+        <span class="score-span">36</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/588" class="team-link">Clovis North High</a>
+        <span class="score-span">68</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R2_3</span>
+        <a href="/game/590" style="text-decoration:none; color:#bbb;">#590</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/590" class="team-link">North Hollywood 2</a>
+        <span class="score-span">92</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/590" class="team-link">MSJ 3</a>
+        <span class="score-span">58</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R2_4</span>
+        <a href="/game/589" style="text-decoration:none; color:#bbb;">#589</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/589" class="team-link">Blair 2</a>
+        <span class="score-span">36</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/589" class="team-link">VMATHs</a>
+        <span class="score-span">44</span>
+    </div>
+    
+</div>
+
+                </div>
+            </div>
+            <div class="round-column">
+                <div class="round-header">Semifinals</div>
+                <div class="matches-list">
+                    
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R3_1</span>
+        <a href="/game/593" style="text-decoration:none; color:#bbb;">#593</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/593" class="team-link">Mission San Jose 2</a>
+        <span class="score-span">40</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/593" class="team-link">Clovis North High</a>
+        <span class="score-span">16</span>
+    </div>
+    
+</div>
+
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R3_2</span>
+        <a href="/game/594" style="text-decoration:none; color:#bbb;">#594</a>
+    </div>
+    
+    <div class="team-row ">
+        <a href="/game/594" class="team-link">North Hollywood 2</a>
+        <span class="score-span">48</span>
+    </div>
+    <div class="team-row winner">
+        <a href="/game/594" class="team-link">VMATHs</a>
+        <span class="score-span">60</span>
+    </div>
+    
+</div>
+
+                </div>
+            </div>
+            <div class="round-column">
+                <div class="round-header">Final</div>
+                <div class="matches-list">
+                    
+
+<div class="match-card">
+    <div class="match-header">
+        <span>SE_R4_1</span>
+        <a href="/game/601" style="text-decoration:none; color:#bbb;">#601</a>
+    </div>
+    
+    <div class="team-row winner">
+        <a href="/game/601" class="team-link">Mission San Jose 2</a>
+        <span class="score-span">76</span>
+    </div>
+    <div class="team-row ">
+        <a href="/game/601" class="team-link">VMATHs</a>
+        <span class="score-span">10</span>
+    </div>
+    
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </main>
+</body>
+
+</html>

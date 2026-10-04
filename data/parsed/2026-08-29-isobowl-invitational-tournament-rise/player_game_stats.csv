@@ -1,0 +1,1003 @@
+game_id,player,team,subject,correct,negs,points
+03361a6a,Rishabh,TMSA,overall,2,0,8
+03361a6a,Rishabh,TMSA,biology,2,0,8
+03361a6a,Rishabh,TMSA,chemistry,0,0,0
+03361a6a,Sanjeev,Collierville C,overall,1,0,4
+03361a6a,Sanjeev,Collierville C,physics,0,0,0
+03361a6a,Isaac,Collierville C,overall,2,0,8
+03361a6a,Isaac,Collierville C,math,1,0,4
+03361a6a,Sanjeev,Collierville C,other,0,0,0
+03361a6a,Praneel,TMSA,overall,0,0,0
+03361a6a,Praneel,TMSA,other,0,0,0
+03361a6a,Praneel,TMSA,biology,0,0,0
+03361a6a,Aniket,TMSA,overall,2,0,8
+03361a6a,Aniket,TMSA,chemistry,1,0,4
+03361a6a,Isaac,Collierville C,chemistry,1,0,4
+03361a6a,akshat m,TMSA,overall,0,0,0
+03361a6a,akshat m,TMSA,physics,0,0,0
+03361a6a,Isaac,Collierville C,physics,0,0,0
+03361a6a,Aniket,TMSA,ess,1,0,4
+03361a6a,Sanjeev,Collierville C,ess,1,0,4
+03361a6a,Rishabh,TMSA,ess,0,0,0
+03361a6a,Rishabh,TMSA,other,0,0,0
+03361a6a,Praneel,TMSA,ess,0,0,0
+03361a6a,akshat m,TMSA,math,0,0,0
+03361a6a,Prathiksha,Collierville C,overall,1,0,4
+03361a6a,Prathiksha,Collierville C,other,1,0,4
+73b3deb2,Arjun Pandey,BI Fremont HS,overall,1,0,4
+73b3deb2,Arjun Pandey,BI Fremont HS,biology,1,0,4
+73b3deb2,Timothy Yu,BISV C,overall,4,0,16
+73b3deb2,Timothy Yu,BISV C,chemistry,1,0,4
+73b3deb2,Arjun Pandey,BI Fremont HS,chemistry,0,0,0
+73b3deb2,Arjun Pandey,BI Fremont HS,physics,0,0,0
+73b3deb2,Edward Han,BISV C,overall,2,1,4
+73b3deb2,Edward Han,BISV C,physics,0,0,0
+73b3deb2,Aarnav Rudraraju,BI Fremont HS,overall,3,0,12
+73b3deb2,Aarnav Rudraraju,BI Fremont HS,ess,0,0,0
+73b3deb2,Timothy Yu,BISV C,ess,1,0,4
+73b3deb2,Timothy Yu,BISV C,math,1,0,4
+73b3deb2,Edward Han,BISV C,other,1,1,0
+73b3deb2,Arjun Pandey,BI Fremont HS,other,0,0,0
+73b3deb2,Andrew Lao,BISV C,overall,0,1,-4
+73b3deb2,Andrew Lao,BISV C,biology,0,1,-4
+73b3deb2,Aarnav Rudraraju,BI Fremont HS,chemistry,1,0,4
+73b3deb2,Aarnav Rudraraju,BI Fremont HS,physics,1,0,4
+73b3deb2,Timothy Yu,BISV C,other,1,0,4
+73b3deb2,Aarnav Rudraraju,BI Fremont HS,biology,0,0,0
+73b3deb2,Arjun Pandey,BI Fremont HS,math,0,0,0
+73b3deb2,Edward Han,BISV C,math,1,0,4
+73b3deb2,Aarnav Rudraraju,BI Fremont HS,other,1,0,4
+b6b2add2,Rochan,Lambert,overall,1,2,-4
+b6b2add2,Rochan,Lambert,biology,1,1,0
+b6b2add2,Luke I,Punahou,overall,1,1,0
+b6b2add2,Luke I,Punahou,biology,1,1,0
+b6b2add2,Noah C,Punahou,overall,1,0,4
+b6b2add2,Noah C,Punahou,chemistry,1,0,4
+b6b2add2,viren,Lambert,overall,1,0,4
+b6b2add2,viren,Lambert,chemistry,0,0,0
+b6b2add2,viren,Lambert,physics,0,0,0
+b6b2add2,Ty Dutoit,Punahou,overall,3,0,12
+b6b2add2,Ty Dutoit,Punahou,physics,1,0,4
+b6b2add2,Ty Dutoit,Punahou,ess,1,0,4
+b6b2add2,viren,Lambert,ess,0,0,0
+b6b2add2,Noah C,Punahou,math,0,0,0
+b6b2add2,Shashank,Lambert,overall,2,0,8
+b6b2add2,Shashank,Lambert,math,1,0,4
+b6b2add2,Rochan,Lambert,other,0,0,0
+b6b2add2,Ty Dutoit,Punahou,other,1,0,4
+b6b2add2,viren,Lambert,biology,1,0,4
+b6b2add2,Shashank,Lambert,chemistry,1,0,4
+b6b2add2,Rochan,Lambert,ess,0,1,-4
+b6b2add2,Shashank,Lambert,other,0,0,0
+b6b2add2,Shashank,Lambert,physics,0,0,0
+b6b2add2,Shashank,Lambert,ess,0,0,0
+b6b2add2,Noah C,Punahou,ess,0,0,0
+db741186,Charith,Collierville A,overall,5,0,20
+db741186,Charith,Collierville A,biology,0,0,0
+db741186,jacob l,Collierville A,overall,1,0,4
+db741186,jacob l,Collierville A,chemistry,1,0,4
+db741186,Akshaj Mishra,Bridgeland B,overall,2,0,8
+db741186,Akshaj Mishra,Bridgeland B,physics,0,0,0
+db741186,Charith,Collierville A,physics,1,0,4
+db741186,Charith,Collierville A,math,1,0,4
+db741186,Charith,Collierville A,other,1,0,4
+db741186,Akshaj Mishra,Bridgeland B,other,2,0,8
+db741186,Tanav P,Collierville A,overall,0,0,0
+db741186,Tanav P,Collierville A,biology,0,0,0
+db741186,Akshaj Mishra,Bridgeland B,biology,0,0,0
+db741186,Charith,Collierville A,chemistry,1,0,4
+db741186,Charith,Collierville A,ess,1,0,4
+db741186,jacob l,Collierville A,math,0,0,0
+db741186,Jefferson,Bridgeland B,overall,3,0,12
+db741186,Jefferson,Bridgeland B,math,1,0,4
+db741186,Jefferson,Bridgeland B,biology,1,0,4
+db741186,jacob l,Collierville A,ess,0,0,0
+db741186,Kartigan S,Bridgeland B,overall,0,0,0
+db741186,Kartigan S,Bridgeland B,physics,0,0,0
+db741186,Jefferson,Bridgeland B,ess,1,0,4
+e0b8a790,frank chen,Arcadia B,overall,1,1,0
+e0b8a790,frank chen,Arcadia B,biology,1,1,0
+e0b8a790,Joshua,Bridgeland A,overall,2,0,8
+e0b8a790,Joshua,Bridgeland A,biology,1,0,4
+e0b8a790,Joshua,Bridgeland A,chemistry,1,0,4
+e0b8a790,Chris C,Arcadia B,overall,0,0,0
+e0b8a790,Chris C,Arcadia B,chemistry,0,0,0
+e0b8a790,Joshua,Bridgeland A,physics,0,0,0
+e0b8a790,Chris C,Arcadia B,physics,0,0,0
+e0b8a790,Joshua,Bridgeland A,ess,0,0,0
+e0b8a790,Joshua,Bridgeland A,math,0,0,0
+e0b8a790,frank chen,Arcadia B,other,0,0,0
+e0b8a790,Joshua,Bridgeland A,other,0,0,0
+e0b8a790,frank chen,Arcadia B,chemistry,0,0,0
+e0b8a790,Jamie W,Arcadia B,overall,1,0,4
+e0b8a790,Jamie W,Arcadia B,ess,1,0,4
+e0b8a790,Jamie W,Arcadia B,chemistry,0,0,0
+e0b8a790,Pranav Sai,Bridgeland A,overall,2,0,8
+e0b8a790,Pranav Sai,Bridgeland A,other,2,0,8
+e0b8a790,Pranav Sai,Bridgeland A,ess,0,0,0
+e0b8a790,Chris C,Arcadia B,ess,0,0,0
+f4a98246,Yihan J,Canyon Crest B,overall,0,1,-4
+f4a98246,Yihan J,Canyon Crest B,biology,0,1,-4
+f4a98246,Santhosh V,Collierville B,overall,4,0,16
+f4a98246,Santhosh V,Collierville B,biology,2,0,8
+f4a98246,Sihu Ahn,Canyon Crest B,overall,0,0,0
+f4a98246,Sihu Ahn,Canyon Crest B,chemistry,0,0,0
+f4a98246,Santhosh V,Collierville B,chemistry,1,0,4
+f4a98246,Santhosh V,Collierville B,physics,0,0,0
+f4a98246,Gavin Yang,Canyon Crest B,overall,1,0,4
+f4a98246,Gavin Yang,Canyon Crest B,physics,0,0,0
+f4a98246,Indhraneel G,Collierville B,overall,1,0,4
+f4a98246,Indhraneel G,Collierville B,math,1,0,4
+f4a98246,Gavin Yang,Canyon Crest B,other,1,0,4
+f4a98246,Tahmeed S,Collierville B,overall,1,0,4
+f4a98246,Tahmeed S,Collierville B,biology,1,0,4
+f4a98246,Angeline C,Collierville B,overall,1,0,4
+f4a98246,Angeline C,Collierville B,chemistry,0,0,0
+f4a98246,Gavin Yang,Canyon Crest B,chemistry,0,0,0
+f4a98246,Indhraneel G,Collierville B,physics,0,0,0
+f4a98246,Sihu Ahn,Canyon Crest B,physics,0,0,0
+f4a98246,Angeline C,Collierville B,ess,1,0,4
+f4a98246,Tahmeed S,Collierville B,other,0,0,0
+f4a98246,Euan Lee,Canyon Crest B,overall,0,0,0
+f4a98246,Euan Lee,Canyon Crest B,physics,0,0,0
+f4a98246,Santhosh V,Collierville B,ess,1,0,4
+f4a98246,Teddy,Canyon Crest B,overall,1,0,4
+f4a98246,Teddy,Canyon Crest B,ess,0,0,0
+f4a98246,Sihu Ahn,Canyon Crest B,math,0,0,0
+f4a98246,Indhraneel G,Collierville B,other,0,0,0
+f4a98246,Teddy,Canyon Crest B,physics,0,0,0
+f4a98246,Euan Lee,Canyon Crest B,ess,0,0,0
+f4a98246,Teddy,Canyon Crest B,math,1,0,4
+1499be7b,Andrew Lao,BISV C,overall,0,0,0
+1499be7b,Andrew Lao,BISV C,biology,0,0,0
+1499be7b,Akshaj Mishra,Bridgeland B,overall,3,0,12
+1499be7b,Akshaj Mishra,Bridgeland B,biology,2,0,8
+1499be7b,Timothy Yu,BISV C,overall,2,1,4
+1499be7b,Timothy Yu,BISV C,chemistry,0,0,0
+1499be7b,Akshaj Mishra,Bridgeland B,chemistry,0,0,0
+1499be7b,Timothy Yu,BISV C,physics,0,1,-4
+1499be7b,Jefferson,Bridgeland B,overall,5,0,20
+1499be7b,Jefferson,Bridgeland B,physics,2,0,8
+1499be7b,Timothy Yu,BISV C,ess,1,0,4
+1499be7b,Timothy Yu,BISV C,math,0,0,0
+1499be7b,Jefferson,Bridgeland B,math,2,0,8
+1499be7b,Edward Han,BISV C,overall,6,0,24
+1499be7b,Edward Han,BISV C,other,4,0,16
+1499be7b,Timothy Yu,BISV C,biology,1,0,4
+1499be7b,Steven Zhang,BISV C,overall,1,0,4
+1499be7b,Steven Zhang,BISV C,physics,1,0,4
+1499be7b,Edward Han,BISV C,math,1,0,4
+1499be7b,Kartigan S,Bridgeland B,overall,0,0,0
+1499be7b,Kartigan S,Bridgeland B,chemistry,0,0,0
+1499be7b,Akshaj Mishra,Bridgeland B,ess,0,0,0
+1499be7b,Edward Han,BISV C,chemistry,1,0,4
+1499be7b,Edward Han,BISV C,physics,0,0,0
+1499be7b,Akshaj Mishra,Bridgeland B,physics,1,0,4
+1499be7b,Jefferson,Bridgeland B,ess,1,0,4
+152fa6c0,Luke I,Punahou,overall,4,0,16
+152fa6c0,Luke I,Punahou,biology,4,0,16
+152fa6c0,Sanjeev,Collierville C,overall,4,1,12
+152fa6c0,Sanjeev,Collierville C,chemistry,1,0,4
+152fa6c0,Ty Dutoit,Punahou,overall,3,0,12
+152fa6c0,Ty Dutoit,Punahou,chemistry,1,0,4
+152fa6c0,Ty Dutoit,Punahou,physics,0,0,0
+152fa6c0,Sanjeev,Collierville C,physics,1,1,0
+152fa6c0,Sanjeev,Collierville C,ess,1,0,4
+152fa6c0,Isaac,Collierville C,overall,0,0,0
+152fa6c0,Isaac,Collierville C,math,0,0,0
+152fa6c0,Nicholas Black,Punahou,overall,2,0,8
+152fa6c0,Nicholas Black,Punahou,math,2,0,8
+152fa6c0,Noah C,Punahou,overall,2,0,8
+152fa6c0,Noah C,Punahou,other,0,0,0
+152fa6c0,Isaac,Collierville C,other,0,0,0
+152fa6c0,Noah C,Punahou,physics,0,0,0
+152fa6c0,Ty Dutoit,Punahou,ess,0,0,0
+152fa6c0,Prathiksha,Collierville C,overall,0,0,0
+152fa6c0,Prathiksha,Collierville C,other,0,0,0
+152fa6c0,Ty Dutoit,Punahou,other,2,0,8
+152fa6c0,Noah C,Punahou,chemistry,1,0,4
+152fa6c0,Noah C,Punahou,math,1,0,4
+152fa6c0,Sanjeev,Collierville C,other,1,0,4
+2c088feb,Rochan,Lambert,overall,4,0,16
+2c088feb,Rochan,Lambert,biology,2,0,8
+2c088feb,Rochan,Lambert,chemistry,1,0,4
+2c088feb,akshat m,TMSA,overall,1,0,4
+2c088feb,akshat m,TMSA,physics,0,0,0
+2c088feb,Shashank,Lambert,overall,3,1,8
+2c088feb,Shashank,Lambert,physics,1,1,0
+2c088feb,Rishabh,TMSA,overall,1,0,4
+2c088feb,Rishabh,TMSA,ess,1,0,4
+2c088feb,akshat m,TMSA,math,1,0,4
+2c088feb,Praneel,TMSA,overall,4,1,12
+2c088feb,Praneel,TMSA,other,2,0,8
+2c088feb,viren,Lambert,overall,1,0,4
+2c088feb,viren,Lambert,biology,1,0,4
+2c088feb,Frank,Lambert,overall,1,0,4
+2c088feb,Frank,Lambert,chemistry,1,0,4
+2c088feb,Shashank,Lambert,math,1,0,4
+2c088feb,Rishabh,TMSA,other,0,0,0
+2c088feb,viren,Lambert,other,0,0,0
+2c088feb,Praneel,TMSA,biology,1,1,0
+2c088feb,Rishabh,TMSA,chemistry,0,0,0
+2c088feb,Rishabh,TMSA,physics,0,0,0
+2c088feb,Shashank,Lambert,ess,0,0,0
+2c088feb,Aniket,TMSA,overall,0,0,0
+2c088feb,Aniket,TMSA,ess,0,0,0
+2c088feb,Rochan,Lambert,other,1,0,4
+2c088feb,Shashank,Lambert,chemistry,1,0,4
+2c088feb,viren,Lambert,ess,0,0,0
+2c088feb,Praneel,TMSA,ess,1,0,4
+67fb91ed,Teddy,Canyon Crest B,overall,1,0,4
+67fb91ed,Teddy,Canyon Crest B,biology,0,0,0
+67fb91ed,Joshua,Bridgeland A,overall,3,0,12
+67fb91ed,Joshua,Bridgeland A,biology,2,0,8
+67fb91ed,Joshua,Bridgeland A,chemistry,0,0,0
+67fb91ed,Sihu Ahn,Canyon Crest B,overall,1,0,4
+67fb91ed,Sihu Ahn,Canyon Crest B,chemistry,1,0,4
+67fb91ed,Joshua,Bridgeland A,physics,0,0,0
+67fb91ed,Sihu Ahn,Canyon Crest B,physics,0,0,0
+67fb91ed,Joshua,Bridgeland A,ess,1,0,4
+67fb91ed,Sihu Ahn,Canyon Crest B,math,0,0,0
+67fb91ed,Joshua,Bridgeland A,math,0,0,0
+67fb91ed,Pranav Sai,Bridgeland A,overall,1,1,0
+67fb91ed,Pranav Sai,Bridgeland A,other,0,1,-4
+67fb91ed,Teddy,Canyon Crest B,other,1,0,4
+67fb91ed,Gavin Yang,Canyon Crest B,overall,1,0,4
+67fb91ed,Gavin Yang,Canyon Crest B,ess,0,0,0
+67fb91ed,Yihan J,Canyon Crest B,overall,0,0,0
+67fb91ed,Yihan J,Canyon Crest B,math,0,0,0
+67fb91ed,Gavin Yang,Canyon Crest B,other,1,0,4
+67fb91ed,Euan Lee,Canyon Crest B,overall,2,0,8
+67fb91ed,Euan Lee,Canyon Crest B,biology,0,0,0
+67fb91ed,Pranav Sai,Bridgeland A,physics,0,0,0
+67fb91ed,Euan Lee,Canyon Crest B,physics,1,0,4
+67fb91ed,Euan Lee,Canyon Crest B,math,1,0,4
+67fb91ed,Teddy,Canyon Crest B,ess,0,0,0
+67fb91ed,Pranav Sai,Bridgeland A,ess,1,0,4
+74eeed2b,Santhosh V,Collierville B,overall,5,0,20
+74eeed2b,Santhosh V,Collierville B,biology,2,0,8
+74eeed2b,frank chen,Arcadia B,overall,3,0,12
+74eeed2b,frank chen,Arcadia B,chemistry,1,0,4
+74eeed2b,Chris C,Arcadia B,overall,2,0,8
+74eeed2b,Chris C,Arcadia B,physics,1,0,4
+74eeed2b,Jamie W,Arcadia B,overall,0,0,0
+74eeed2b,Jamie W,Arcadia B,ess,0,0,0
+74eeed2b,Santhosh V,Collierville B,ess,2,0,8
+74eeed2b,Indhraneel G,Collierville B,overall,1,0,4
+74eeed2b,Indhraneel G,Collierville B,math,1,0,4
+74eeed2b,Sophia Krum,Arcadia B,overall,0,0,0
+74eeed2b,Sophia Krum,Arcadia B,math,0,0,0
+74eeed2b,Indhraneel G,Collierville B,other,0,0,0
+74eeed2b,frank chen,Arcadia B,other,1,0,4
+74eeed2b,Tahmeed S,Collierville B,overall,1,1,0
+74eeed2b,Tahmeed S,Collierville B,physics,0,1,-4
+74eeed2b,Santhosh V,Collierville B,math,0,0,0
+74eeed2b,Santhosh V,Collierville B,other,1,0,4
+74eeed2b,frank chen,Arcadia B,biology,1,0,4
+74eeed2b,Santhosh V,Collierville B,chemistry,0,0,0
+74eeed2b,Angeline C,Collierville B,overall,0,0,0
+74eeed2b,Angeline C,Collierville B,ess,0,0,0
+74eeed2b,Chris C,Arcadia B,other,0,0,0
+74eeed2b,Chris C,Arcadia B,chemistry,1,0,4
+74eeed2b,Indhraneel G,Collierville B,physics,0,0,0
+74eeed2b,Tahmeed S,Collierville B,other,1,0,4
+88c63184,max,Jordan,overall,2,0,8
+88c63184,max,Jordan,biology,1,0,4
+88c63184,Arjun Pandey,BI Fremont HS,overall,6,0,24
+88c63184,Arjun Pandey,BI Fremont HS,chemistry,3,0,12
+88c63184,Kevin Chen,BI Fremont HS,overall,2,0,8
+88c63184,Kevin Chen,BI Fremont HS,physics,1,0,4
+88c63184,Aarnav Rudraraju,BI Fremont HS,overall,1,1,0
+88c63184,Aarnav Rudraraju,BI Fremont HS,ess,0,0,0
+88c63184,Brandon,Jordan,overall,2,0,8
+88c63184,Brandon,Jordan,ess,0,0,0
+88c63184,Avish,Jordan,overall,1,1,0
+88c63184,Avish,Jordan,other,0,0,0
+88c63184,Arjun Pandey,BI Fremont HS,other,1,0,4
+88c63184,Arjun Pandey,BI Fremont HS,biology,1,0,4
+88c63184,Aarnav Rudraraju,BI Fremont HS,chemistry,0,0,0
+88c63184,Aarnav Rudraraju,BI Fremont HS,physics,0,1,-4
+88c63184,Avish,Jordan,physics,1,1,0
+88c63184,Arjun Pandey,BI Fremont HS,math,1,0,4
+88c63184,max,Jordan,other,1,0,4
+88c63184,Aarnav Rudraraju,BI Fremont HS,biology,1,0,4
+88c63184,Arjun Pandey,BI Fremont HS,ess,0,0,0
+88c63184,William Chen,Jordan,overall,1,0,4
+88c63184,William Chen,Jordan,math,1,0,4
+88c63184,Brandon,Jordan,other,2,0,8
+88c63184,Brandon,Jordan,physics,0,0,0
+88c63184,Kevin Chen,BI Fremont HS,ess,1,0,4
+88c63184,Aarnav Rudraraju,BI Fremont HS,other,0,0,0
+23503800,viren,Lambert,overall,3,0,12
+23503800,viren,Lambert,biology,1,0,4
+23503800,Sanjeev,Collierville C,overall,3,0,12
+23503800,Sanjeev,Collierville C,chemistry,1,0,4
+23503800,Frank,Lambert,overall,2,0,8
+23503800,Frank,Lambert,chemistry,2,0,8
+23503800,Sanjeev,Collierville C,physics,1,0,4
+23503800,Sanjeev,Collierville C,ess,0,0,0
+23503800,viren,Lambert,ess,0,0,0
+23503800,Rochan,Lambert,overall,4,2,8
+23503800,Rochan,Lambert,math,2,0,8
+23503800,Rochan,Lambert,other,1,1,0
+23503800,Isaac,Collierville C,overall,1,0,4
+23503800,Isaac,Collierville C,other,1,0,4
+23503800,Rochan,Lambert,biology,1,0,4
+23503800,viren,Lambert,physics,2,0,8
+23503800,Rochan,Lambert,ess,0,0,0
+23503800,Prathiksha,Collierville C,overall,0,0,0
+23503800,Prathiksha,Collierville C,ess,0,0,0
+23503800,Shashank,Lambert,overall,3,0,12
+23503800,Shashank,Lambert,math,2,0,8
+23503800,Isaac,Collierville C,biology,0,0,0
+23503800,Shashank,Lambert,physics,0,0,0
+23503800,Shashank,Lambert,ess,1,0,4
+23503800,Sanjeev,Collierville C,biology,1,0,4
+23503800,Rochan,Lambert,chemistry,0,1,-4
+23503800,Shashank,Lambert,other,0,0,0
+2c9e7064,Tanav P,Collierville A,overall,1,0,4
+2c9e7064,Tanav P,Collierville A,biology,1,0,4
+2c9e7064,jacob l,Collierville A,overall,2,0,8
+2c9e7064,jacob l,Collierville A,chemistry,2,0,8
+2c9e7064,Charith,Collierville A,overall,8,1,28
+2c9e7064,Charith,Collierville A,physics,1,1,0
+2c9e7064,Arjun Pandey,BI Fremont HS,overall,5,0,20
+2c9e7064,Arjun Pandey,BI Fremont HS,physics,2,0,8
+2c9e7064,Kevin Chen,BI Fremont HS,overall,0,0,0
+2c9e7064,Kevin Chen,BI Fremont HS,math,0,0,0
+2c9e7064,Charith,Collierville A,math,4,0,16
+2c9e7064,Aarnav Rudraraju,BI Fremont HS,overall,1,0,4
+2c9e7064,Aarnav Rudraraju,BI Fremont HS,other,0,0,0
+2c9e7064,Charith,Collierville A,other,1,0,4
+2c9e7064,Aarnav Rudraraju,BI Fremont HS,biology,1,0,4
+2c9e7064,Arjun Pandey,BI Fremont HS,chemistry,1,0,4
+2c9e7064,Aarnav Rudraraju,BI Fremont HS,ess,0,0,0
+2c9e7064,Charith,Collierville A,ess,1,0,4
+2c9e7064,Anthony,BI Fremont HS,overall,0,0,0
+2c9e7064,Anthony,BI Fremont HS,math,0,0,0
+2c9e7064,Arjun Pandey,BI Fremont HS,other,1,0,4
+2c9e7064,Arjun Pandey,BI Fremont HS,ess,1,0,4
+2c9e7064,Kevin Chen,BI Fremont HS,biology,0,0,0
+2c9e7064,Charith,Collierville A,biology,1,0,4
+36a688cf,Edward Han,BISV C,overall,5,0,20
+36a688cf,Edward Han,BISV C,chemistry,1,0,4
+36a688cf,Edward Han,BISV C,physics,2,0,8
+36a688cf,Edward Han,BISV C,math,1,0,4
+36a688cf,Edward Han,BISV C,other,1,0,4
+36a688cf,Avish,Jordan,overall,2,0,8
+36a688cf,Avish,Jordan,other,1,0,4
+36a688cf,Andrew Lao,BISV C,overall,1,0,4
+36a688cf,Andrew Lao,BISV C,biology,1,0,4
+36a688cf,Brandon,Jordan,overall,2,0,8
+36a688cf,Brandon,Jordan,chemistry,0,0,0
+36a688cf,Timothy Yu,BISV C,overall,2,0,8
+36a688cf,Timothy Yu,BISV C,ess,0,0,0
+36a688cf,Brandon,Jordan,ess,0,0,0
+36a688cf,Timothy Yu,BISV C,math,2,0,8
+36a688cf,Brandon,Jordan,biology,1,0,4
+36a688cf,Timothy Yu,BISV C,chemistry,0,0,0
+36a688cf,Avish,Jordan,ess,1,0,4
+36a688cf,Brandon,Jordan,other,1,0,4
+36a688cf,Timothy Yu,BISV C,biology,0,0,0
+36a688cf,max,Jordan,overall,0,0,0
+36a688cf,max,Jordan,biology,0,0,0
+36a688cf,Avish,Jordan,physics,0,0,0
+36a688cf,William Chen,Jordan,overall,1,0,4
+36a688cf,William Chen,Jordan,math,1,0,4
+5a9bf79f,frank chen,Arcadia B,overall,1,0,4
+5a9bf79f,frank chen,Arcadia B,chemistry,0,0,0
+5a9bf79f,Yihan J,Canyon Crest B,overall,0,0,0
+5a9bf79f,Yihan J,Canyon Crest B,chemistry,0,0,0
+5a9bf79f,Teddy,Canyon Crest B,overall,2,0,8
+5a9bf79f,Teddy,Canyon Crest B,physics,1,0,4
+5a9bf79f,Jamie W,Arcadia B,overall,0,0,0
+5a9bf79f,Jamie W,Arcadia B,ess,0,0,0
+5a9bf79f,Gavin Yang,Canyon Crest B,overall,0,0,0
+5a9bf79f,Gavin Yang,Canyon Crest B,ess,0,0,0
+5a9bf79f,Yihan J,Canyon Crest B,math,0,0,0
+5a9bf79f,Chris C,Arcadia B,overall,3,0,12
+5a9bf79f,Chris C,Arcadia B,math,1,0,4
+5a9bf79f,Jamie W,Arcadia B,other,0,0,0
+5a9bf79f,Gavin Yang,Canyon Crest B,other,0,0,0
+5a9bf79f,Teddy,Canyon Crest B,biology,0,0,0
+5a9bf79f,frank chen,Arcadia B,biology,1,0,4
+5a9bf79f,Teddy,Canyon Crest B,chemistry,0,0,0
+5a9bf79f,Chris C,Arcadia B,physics,1,0,4
+5a9bf79f,Euan Lee,Canyon Crest B,overall,1,0,4
+5a9bf79f,Euan Lee,Canyon Crest B,ess,0,0,0
+5a9bf79f,Euan Lee,Canyon Crest B,math,1,0,4
+5a9bf79f,Sophia Krum,Arcadia B,overall,1,0,4
+5a9bf79f,Sophia Krum,Arcadia B,math,1,0,4
+5a9bf79f,Euan Lee,Canyon Crest B,biology,0,0,0
+5a9bf79f,Sihu Ahn,Canyon Crest B,overall,1,0,4
+5a9bf79f,Sihu Ahn,Canyon Crest B,chemistry,0,0,0
+5a9bf79f,Chris C,Arcadia B,chemistry,0,0,0
+5a9bf79f,Chris C,Arcadia B,ess,1,0,4
+5a9bf79f,Sihu Ahn,Canyon Crest B,math,1,0,4
+5a9bf79f,Teddy,Canyon Crest B,other,1,0,4
+5a9bf79f,Yihan J,Canyon Crest B,ess,0,0,0
+5a9bf79f,frank chen,Arcadia B,other,0,0,0
+74587065,Praneel,TMSA,overall,2,0,8
+74587065,Praneel,TMSA,biology,1,0,4
+74587065,Aniket,TMSA,overall,1,0,4
+74587065,Aniket,TMSA,chemistry,1,0,4
+74587065,akshat m,TMSA,overall,3,0,12
+74587065,akshat m,TMSA,physics,1,0,4
+74587065,Ty Dutoit,Punahou,overall,2,0,8
+74587065,Ty Dutoit,Punahou,ess,1,0,4
+74587065,akshat m,TMSA,math,2,0,8
+74587065,Noah C,Punahou,overall,3,0,12
+74587065,Noah C,Punahou,other,1,0,4
+74587065,Luke I,Punahou,overall,2,0,8
+74587065,Luke I,Punahou,biology,2,0,8
+74587065,Ty Dutoit,Punahou,chemistry,0,0,0
+74587065,Noah C,Punahou,physics,1,0,4
+74587065,Praneel,TMSA,ess,0,0,0
+74587065,Praneel,TMSA,other,1,0,4
+74587065,Rishabh,TMSA,overall,1,0,4
+74587065,Rishabh,TMSA,biology,1,0,4
+74587065,Noah C,Punahou,chemistry,1,0,4
+74587065,Ty Dutoit,Punahou,physics,1,0,4
+74587065,Noah C,Punahou,math,0,0,0
+74587065,Rishabh,TMSA,chemistry,0,0,0
+74587065,Nicholas Black,Punahou,overall,1,0,4
+74587065,Nicholas Black,Punahou,math,1,0,4
+cef82d1a,Santhosh V,Collierville B,overall,1,0,4
+cef82d1a,Santhosh V,Collierville B,biology,0,0,0
+cef82d1a,Akshaj Mishra,Bridgeland A,overall,0,0,0
+cef82d1a,Akshaj Mishra,Bridgeland A,chemistry,0,0,0
+cef82d1a,Indhraneel G,Collierville B,overall,1,0,4
+cef82d1a,Indhraneel G,Collierville B,chemistry,0,0,0
+cef82d1a,Tahmeed S,Collierville B,overall,3,0,12
+cef82d1a,Tahmeed S,Collierville B,physics,1,0,4
+cef82d1a,Santhosh V,Collierville B,ess,0,0,0
+cef82d1a,Joshua,Bridgeland A,overall,0,0,0
+cef82d1a,Joshua,Bridgeland A,ess,0,0,0
+cef82d1a,Tahmeed S,Collierville B,math,1,0,4
+cef82d1a,Joshua,Bridgeland A,math,0,0,0
+cef82d1a,Santhosh V,Collierville B,other,0,0,0
+cef82d1a,Pranav Sai,Bridgeland A,overall,1,0,4
+cef82d1a,Pranav Sai,Bridgeland A,other,1,0,4
+cef82d1a,Jefferson,Bridgeland A,overall,3,0,12
+cef82d1a,Jefferson,Bridgeland A,biology,2,0,8
+cef82d1a,Santhosh V,Collierville B,chemistry,0,0,0
+cef82d1a,Jefferson,Bridgeland A,chemistry,1,0,4
+cef82d1a,Angeline C,Collierville B,overall,2,0,8
+cef82d1a,Angeline C,Collierville B,ess,2,0,8
+cef82d1a,Pranav Sai,Bridgeland A,ess,0,0,0
+cef82d1a,Indhraneel G,Collierville B,math,1,0,4
+cef82d1a,Tahmeed S,Collierville B,biology,0,0,0
+cef82d1a,Joshua,Bridgeland A,biology,0,0,0
+cef82d1a,Joshua,Bridgeland A,chemistry,0,0,0
+cef82d1a,Santhosh V,Collierville B,physics,1,0,4
+cef82d1a,Santhosh V,Collierville B,math,0,0,0
+cef82d1a,Tahmeed S,Collierville B,other,1,0,4
+cef82d1a,Joshua,Bridgeland A,physics,0,0,0
+cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
+3f35ce03,max,Jordan,overall,1,0,4
+3f35ce03,max,Jordan,biology,1,0,4
+3f35ce03,jacob l,Collierville A,overall,0,1,-4
+3f35ce03,jacob l,Collierville A,chemistry,0,1,-4
+3f35ce03,Brandon,Jordan,overall,3,0,12
+3f35ce03,Brandon,Jordan,chemistry,2,0,8
+3f35ce03,Avish,Jordan,overall,0,0,0
+3f35ce03,Avish,Jordan,physics,0,0,0
+3f35ce03,Charith,Collierville A,overall,5,0,20
+3f35ce03,Charith,Collierville A,physics,2,0,8
+3f35ce03,jacob l,Collierville A,ess,0,0,0
+3f35ce03,Brandon,Jordan,ess,0,0,0
+3f35ce03,William Chen,Jordan,overall,3,0,12
+3f35ce03,William Chen,Jordan,math,3,0,12
+3f35ce03,Charith,Collierville A,other,2,0,8
+3f35ce03,jacob l,Collierville A,biology,0,0,0
+3f35ce03,rebecca,Collierville A,overall,0,0,0
+3f35ce03,rebecca,Collierville A,ess,0,0,0
+3f35ce03,Tanav P,Collierville A,overall,1,0,4
+3f35ce03,Tanav P,Collierville A,biology,1,0,4
+3f35ce03,Charith,Collierville A,ess,1,0,4
+3f35ce03,jacob l,Collierville A,math,0,0,0
+3f35ce03,Brandon,Jordan,other,1,0,4
+97f1551f,Kshitij,BI Fremont HS,overall,2,2,0
+97f1551f,Kshitij,BI Fremont HS,biology,1,0,4
+97f1551f,Arjun Pandey,BI Fremont HS,overall,5,0,20
+97f1551f,Arjun Pandey,BI Fremont HS,chemistry,0,0,0
+97f1551f,Advaith B,Bridgeland B,overall,2,0,8
+97f1551f,Advaith B,Bridgeland B,chemistry,0,0,0
+97f1551f,Arjun Pandey,BI Fremont HS,physics,1,0,4
+97f1551f,Arjun Pandey,BI Fremont HS,ess,1,0,4
+97f1551f,Jefferson,Bridgeland B,overall,5,0,20
+97f1551f,Jefferson,Bridgeland B,ess,1,0,4
+97f1551f,Kartigan S,Bridgeland B,overall,0,1,-4
+97f1551f,Kartigan S,Bridgeland B,math,0,1,-4
+97f1551f,Kevin Chen,BI Fremont HS,overall,2,0,8
+97f1551f,Kevin Chen,BI Fremont HS,math,1,0,4
+97f1551f,Arjun Pandey,BI Fremont HS,other,3,0,12
+97f1551f,Jefferson,Bridgeland B,chemistry,1,0,4
+97f1551f,Carson P,Bridgeland B,overall,0,0,0
+97f1551f,Carson P,Bridgeland B,physics,0,0,0
+97f1551f,Arjun Pandey,BI Fremont HS,math,0,0,0
+97f1551f,Jefferson,Bridgeland B,math,1,0,4
+97f1551f,Kartigan S,Bridgeland B,other,0,0,0
+97f1551f,Jefferson,Bridgeland B,biology,1,0,4
+97f1551f,Kshitij,BI Fremont HS,chemistry,1,0,4
+97f1551f,Kshitij,BI Fremont HS,physics,0,1,-4
+97f1551f,Jefferson,Bridgeland B,physics,1,0,4
+97f1551f,Kevin Chen,BI Fremont HS,ess,1,0,4
+97f1551f,Kshitij,BI Fremont HS,math,0,1,-4
+97f1551f,Advaith B,Bridgeland B,math,2,0,8
+97f1551f,Carson P,Bridgeland B,chemistry,0,0,0
+97f1551f,Aarnav Rudraraju,BI Fremont HS,overall,0,0,0
+97f1551f,Aarnav Rudraraju,BI Fremont HS,chemistry,0,0,0
+97f1551f,Joshua,Bridgeland B,overall,0,0,0
+97f1551f,Joshua,Bridgeland B,ess,0,0,0
+97f1551f,Aarnav Rudraraju,BI Fremont HS,math,0,0,0
+014b1c7b,Tanav P,Collierville A,overall,1,0,4
+014b1c7b,Tanav P,Collierville A,biology,1,0,4
+014b1c7b,jacob l,Collierville A,overall,0,0,0
+014b1c7b,jacob l,Collierville A,chemistry,0,0,0
+014b1c7b,Timothy Yu,BISV C,overall,1,1,0
+014b1c7b,Timothy Yu,BISV C,chemistry,0,0,0
+014b1c7b,Charith,Collierville A,overall,1,0,4
+014b1c7b,Charith,Collierville A,physics,0,0,0
+014b1c7b,Timothy Yu,BISV C,physics,0,0,0
+014b1c7b,Charith,Collierville A,ess,0,0,0
+014b1c7b,Timothy Yu,BISV C,ess,0,1,-4
+014b1c7b,Edward Han,BISV C,overall,6,0,24
+014b1c7b,Edward Han,BISV C,math,1,0,4
+014b1c7b,Edward Han,BISV C,other,4,0,16
+014b1c7b,Timothy Yu,BISV C,biology,0,0,0
+014b1c7b,Edward Han,BISV C,chemistry,0,0,0
+014b1c7b,Timothy Yu,BISV C,math,1,0,4
+014b1c7b,Andrew Lao,BISV C,overall,1,0,4
+014b1c7b,Andrew Lao,BISV C,biology,1,0,4
+014b1c7b,Charith,Collierville A,biology,0,0,0
+014b1c7b,Edward Han,BISV C,physics,1,0,4
+014b1c7b,Charith,Collierville A,math,1,0,4
+014b1c7b,Andrew Lao,BISV C,chemistry,0,0,0
+43ce8010,max,Jordan,overall,1,0,4
+43ce8010,max,Jordan,biology,1,0,4
+43ce8010,Brandon,Jordan,overall,6,0,24
+43ce8010,Brandon,Jordan,chemistry,3,0,12
+43ce8010,Avish,Jordan,overall,0,0,0
+43ce8010,Avish,Jordan,physics,0,0,0
+43ce8010,Jefferson,Bridgeland B,overall,3,0,12
+43ce8010,Jefferson,Bridgeland B,physics,1,0,4
+43ce8010,Advaith B,Bridgeland B,overall,2,0,8
+43ce8010,Advaith B,Bridgeland B,ess,1,0,4
+43ce8010,Avish,Jordan,ess,0,0,0
+43ce8010,Jefferson,Bridgeland B,math,1,0,4
+43ce8010,Brandon,Jordan,other,1,0,4
+43ce8010,Pranav Sai,Bridgeland B,overall,1,0,4
+43ce8010,Pranav Sai,Bridgeland B,other,1,0,4
+43ce8010,Brandon,Jordan,physics,1,0,4
+43ce8010,Brandon,Jordan,ess,1,0,4
+43ce8010,Brandon,Jordan,math,0,0,0
+43ce8010,Joshua,Bridgeland B,overall,1,0,4
+43ce8010,Joshua,Bridgeland B,math,1,0,4
+43ce8010,Akshaj Mishra,Bridgeland B,overall,0,0,0
+43ce8010,Akshaj Mishra,Bridgeland B,ess,0,0,0
+43ce8010,Advaith B,Bridgeland B,math,0,0,0
+43ce8010,William Chen,Jordan,overall,2,0,8
+43ce8010,William Chen,Jordan,math,2,0,8
+43ce8010,Avish,Jordan,other,0,0,0
+43ce8010,Advaith B,Bridgeland B,other,1,0,4
+43ce8010,Jefferson,Bridgeland B,biology,1,0,4
+16b2317e,Kshitij,BI Fremont HS,overall,2,0,8
+16b2317e,Kshitij,BI Fremont HS,biology,1,0,4
+16b2317e,Rochan,Lambert,overall,6,0,24
+16b2317e,Rochan,Lambert,chemistry,0,0,0
+16b2317e,Arjun Pandey,BI Fremont HS,overall,3,0,12
+16b2317e,Arjun Pandey,BI Fremont HS,chemistry,1,0,4
+16b2317e,Rochan,Lambert,physics,1,0,4
+16b2317e,Aarnav Rudraraju,BI Fremont HS,overall,2,0,8
+16b2317e,Aarnav Rudraraju,BI Fremont HS,ess,1,0,4
+16b2317e,Aarnav Rudraraju,BI Fremont HS,other,0,0,0
+16b2317e,Rochan,Lambert,other,3,0,12
+16b2317e,Aarnav Rudraraju,BI Fremont HS,biology,1,0,4
+16b2317e,Frank,Lambert,overall,2,0,8
+16b2317e,Frank,Lambert,chemistry,2,0,8
+16b2317e,Shashank,Lambert,overall,0,1,-4
+16b2317e,Shashank,Lambert,physics,0,1,-4
+16b2317e,Aarnav Rudraraju,BI Fremont HS,physics,0,0,0
+16b2317e,Arjun Pandey,BI Fremont HS,ess,1,0,4
+16b2317e,Arjun Pandey,BI Fremont HS,math,0,0,0
+16b2317e,Shashank,Lambert,math,0,0,0
+16b2317e,viren,Lambert,overall,1,0,4
+16b2317e,viren,Lambert,other,0,0,0
+16b2317e,Rochan,Lambert,biology,2,0,8
+16b2317e,Arjun Pandey,BI Fremont HS,physics,1,0,4
+16b2317e,viren,Lambert,ess,1,0,4
+16b2317e,Anthony,BI Fremont HS,overall,1,0,4
+16b2317e,Anthony,BI Fremont HS,math,1,0,4
+16b2317e,Kshitij,BI Fremont HS,chemistry,1,0,4
+16b2317e,Rochan,Lambert,ess,0,0,0
+16b2317e,viren,Lambert,math,0,0,0
+5c5dac17,Santhosh V,Collierville B,overall,3,0,12
+5c5dac17,Santhosh V,Collierville B,biology,2,0,8
+5c5dac17,jacob l,Collierville B,overall,1,0,4
+5c5dac17,jacob l,Collierville B,chemistry,1,0,4
+5c5dac17,Brandon,Jordan,overall,5,0,20
+5c5dac17,Brandon,Jordan,chemistry,1,0,4
+5c5dac17,Santhosh V,Collierville B,ess,1,0,4
+5c5dac17,Indhraneel G,Collierville B,overall,0,0,0
+5c5dac17,Indhraneel G,Collierville B,math,0,0,0
+5c5dac17,William Chen,Jordan,overall,1,0,4
+5c5dac17,William Chen,Jordan,math,1,0,4
+5c5dac17,Tahmeed S,Collierville B,overall,2,0,8
+5c5dac17,Tahmeed S,Collierville B,other,1,0,4
+5c5dac17,jacob l,Collierville B,physics,0,0,0
+5c5dac17,Avish,Jordan,overall,1,0,4
+5c5dac17,Avish,Jordan,physics,1,0,4
+5c5dac17,Avish,Jordan,ess,0,0,0
+5c5dac17,Tahmeed S,Collierville B,math,0,0,0
+5c5dac17,Brandon,Jordan,other,0,0,0
+5c5dac17,max,Jordan,overall,1,0,4
+5c5dac17,max,Jordan,biology,1,0,4
+5c5dac17,Brandon,Jordan,physics,1,0,4
+5c5dac17,Brandon,Jordan,ess,2,0,8
+5c5dac17,Brandon,Jordan,math,1,0,4
+5c5dac17,Indhraneel G,Collierville B,other,0,0,0
+5c5dac17,Tahmeed S,Collierville B,biology,1,0,4
+5c5dac17,Indhraneel G,Collierville B,physics,0,0,0
+5c5dac17,Santhosh V,Collierville B,other,0,0,0
+8bad3092,Timothy Yu,BISV C,overall,1,1,0
+8bad3092,Timothy Yu,BISV C,biology,0,0,0
+8bad3092,Praneel,TMSA,overall,4,0,16
+8bad3092,Praneel,TMSA,biology,2,0,8
+8bad3092,Timothy Yu,BISV C,chemistry,0,0,0
+8bad3092,Rishabh,TMSA,overall,2,0,8
+8bad3092,Rishabh,TMSA,chemistry,0,0,0
+8bad3092,Edward Han,BISV C,overall,3,0,12
+8bad3092,Edward Han,BISV C,physics,0,0,0
+8bad3092,Timothy Yu,BISV C,ess,1,1,0
+8bad3092,akshat m,TMSA,overall,2,1,4
+8bad3092,akshat m,TMSA,math,1,1,0
+8bad3092,Edward Han,BISV C,math,1,0,4
+8bad3092,Edward Han,BISV C,other,2,0,8
+8bad3092,Edward Han,BISV C,chemistry,0,0,0
+8bad3092,Praneel,TMSA,chemistry,0,0,0
+8bad3092,akshat m,TMSA,physics,1,0,4
+8bad3092,Rishabh,TMSA,ess,0,0,0
+8bad3092,Rishabh,TMSA,biology,2,0,8
+8bad3092,Aniket,TMSA,overall,1,0,4
+8bad3092,Aniket,TMSA,chemistry,1,0,4
+8bad3092,Praneel,TMSA,ess,1,0,4
+8bad3092,Timothy Yu,BISV C,math,0,0,0
+8bad3092,Aniket,TMSA,other,0,0,0
+8bad3092,Praneel,TMSA,other,1,0,4
+e806b260,Ty Dutoit,Punahou,overall,4,0,16
+e806b260,Ty Dutoit,Punahou,biology,2,0,8
+e806b260,Noah C,Punahou,overall,1,0,4
+e806b260,Noah C,Punahou,chemistry,0,0,0
+e806b260,Sihu Ahn,Canyon Crest B,overall,0,0,0
+e806b260,Sihu Ahn,Canyon Crest B,chemistry,0,0,0
+e806b260,Ty Dutoit,Punahou,physics,1,0,4
+e806b260,Euan Lee,Canyon Crest B,overall,1,0,4
+e806b260,Euan Lee,Canyon Crest B,ess,0,0,0
+e806b260,Noah C,Punahou,ess,1,0,4
+e806b260,Gavin Yang,Canyon Crest B,overall,0,0,0
+e806b260,Gavin Yang,Canyon Crest B,other,0,0,0
+e806b260,Ty Dutoit,Punahou,other,0,0,0
+e806b260,Sihu Ahn,Canyon Crest B,physics,0,0,0
+e806b260,Nicholas Black,Punahou,overall,1,0,4
+e806b260,Nicholas Black,Punahou,math,1,0,4
+e806b260,Euan Lee,Canyon Crest B,math,0,0,0
+e806b260,Teddy,Canyon Crest B,overall,3,0,12
+e806b260,Teddy,Canyon Crest B,biology,2,0,8
+e806b260,Euan Lee,Canyon Crest B,chemistry,1,0,4
+e806b260,Gavin Yang,Canyon Crest B,ess,0,0,0
+e806b260,Ty Dutoit,Punahou,ess,1,0,4
+e806b260,Sihu Ahn,Canyon Crest B,math,0,0,0
+e806b260,Noah C,Punahou,math,0,0,0
+e806b260,Nicholas Black,Punahou,chemistry,0,0,0
+e806b260,Noah C,Punahou,physics,0,0,0
+e806b260,Teddy,Canyon Crest B,ess,0,0,0
+e806b260,Teddy,Canyon Crest B,other,1,0,4
+4c895740,viren,Lambert,overall,2,0,8
+4c895740,viren,Lambert,biology,1,0,4
+4c895740,Shashank,Lambert,overall,3,2,4
+4c895740,Shashank,Lambert,chemistry,0,1,-4
+4c895740,Brandon,Jordan,overall,3,0,12
+4c895740,Brandon,Jordan,physics,0,0,0
+4c895740,Shashank,Lambert,physics,0,1,-4
+4c895740,viren,Lambert,ess,1,0,4
+4c895740,Shashank,Lambert,math,3,0,12
+4c895740,Rochan,Lambert,overall,0,0,0
+4c895740,Rochan,Lambert,other,0,0,0
+4c895740,Brandon,Jordan,other,0,0,0
+4c895740,Brandon,Jordan,biology,0,0,0
+4c895740,Brandon,Jordan,chemistry,2,0,8
+4c895740,Avish,Jordan,overall,3,0,12
+4c895740,Avish,Jordan,ess,1,0,4
+4c895740,viren,Lambert,other,0,0,0
+4c895740,Avish,Jordan,biology,0,0,0
+4c895740,Frank,Lambert,overall,1,0,4
+4c895740,Frank,Lambert,chemistry,1,0,4
+4c895740,Avish,Jordan,physics,2,0,8
+4c895740,Rochan,Lambert,biology,0,0,0
+4c895740,Shashank,Lambert,ess,0,0,0
+4c895740,Brandon,Jordan,ess,1,0,4
+4c895740,William Chen,Jordan,overall,0,1,-4
+4c895740,William Chen,Jordan,math,0,1,-4
+4c895740,Avish,Jordan,other,0,0,0
+4c895740,Shashank,Lambert,other,0,0,0
+8674dd7c,Santhosh V,Collierville B,overall,1,1,0
+8674dd7c,Santhosh V,Collierville B,biology,1,0,4
+8674dd7c,Santhosh V,Collierville B,chemistry,0,1,-4
+8674dd7c,Arjun Pandey,BI Fremont HS,overall,6,0,24
+8674dd7c,Arjun Pandey,BI Fremont HS,chemistry,2,0,8
+8674dd7c,Charith,Collierville B,overall,0,0,0
+8674dd7c,Charith,Collierville B,physics,0,0,0
+8674dd7c,Kevin Chen,BI Fremont HS,overall,0,0,0
+8674dd7c,Kevin Chen,BI Fremont HS,physics,0,0,0
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,overall,1,0,4
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,ess,1,0,4
+8674dd7c,Santhosh V,Collierville B,ess,0,0,0
+8674dd7c,Arjun Pandey,BI Fremont HS,math,1,0,4
+8674dd7c,Anthony,BI Fremont HS,overall,1,0,4
+8674dd7c,Anthony,BI Fremont HS,other,1,0,4
+8674dd7c,Kevin Chen,BI Fremont HS,biology,0,0,0
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,physics,0,0,0
+8674dd7c,Kevin Chen,BI Fremont HS,math,0,0,0
+8674dd7c,Charith,Collierville B,math,0,0,0
+8674dd7c,Charith,Collierville B,other,0,0,0
+8674dd7c,Arjun Pandey,BI Fremont HS,other,1,0,4
+8674dd7c,Arjun Pandey,BI Fremont HS,biology,1,0,4
+8674dd7c,jacob l,Collierville B,overall,1,0,4
+8674dd7c,jacob l,Collierville B,chemistry,1,0,4
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,chemistry,0,0,0
+8674dd7c,Tahmeed S,Collierville B,overall,0,1,-4
+8674dd7c,Tahmeed S,Collierville B,physics,0,1,-4
+8674dd7c,Arjun Pandey,BI Fremont HS,physics,1,0,4
+8674dd7c,Arjun Pandey,BI Fremont HS,ess,0,0,0
+8674dd7c,jacob l,Collierville B,ess,0,0,0
+8674dd7c,Indhraneel G,Collierville B,overall,0,0,0
+8674dd7c,Indhraneel G,Collierville B,math,0,0,0
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,other,0,0,0
+8674dd7c,Santhosh V,Collierville B,other,0,0,0
+8674dd7c,Tahmeed S,Collierville B,biology,0,0,0
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,biology,0,0,0
+8674dd7c,Santhosh V,Collierville B,physics,0,0,0
+8674dd7c,Aarnav Rudraraju,BI Fremont HS,math,0,0,0
+8674dd7c,Tahmeed S,Collierville B,math,0,0,0
+da9b5774,Teddy,Canyon Crest B,overall,0,0,0
+da9b5774,Teddy,Canyon Crest B,biology,0,0,0
+da9b5774,Aniket,TMSA,overall,1,1,0
+da9b5774,Aniket,TMSA,chemistry,0,1,-4
+da9b5774,Sihu Ahn,Canyon Crest B,overall,2,0,8
+da9b5774,Sihu Ahn,Canyon Crest B,chemistry,0,0,0
+da9b5774,akshat m,TMSA,overall,4,0,16
+da9b5774,akshat m,TMSA,physics,1,0,4
+da9b5774,Praneel,TMSA,overall,3,0,12
+da9b5774,Praneel,TMSA,ess,2,0,8
+da9b5774,Gavin Yang,Canyon Crest B,overall,0,0,0
+da9b5774,Gavin Yang,Canyon Crest B,ess,0,0,0
+da9b5774,akshat m,TMSA,math,3,0,12
+da9b5774,Praneel,TMSA,other,1,0,4
+da9b5774,Rishabh,TMSA,overall,0,1,-4
+da9b5774,Rishabh,TMSA,biology,0,1,-4
+da9b5774,Sihu Ahn,Canyon Crest B,biology,2,0,8
+da9b5774,Gavin Yang,Canyon Crest B,other,0,0,0
+da9b5774,Aniket,TMSA,physics,0,0,0
+da9b5774,Euan Lee,Canyon Crest B,overall,2,0,8
+da9b5774,Euan Lee,Canyon Crest B,physics,0,0,0
+da9b5774,Aniket,TMSA,ess,1,0,4
+da9b5774,Sihu Ahn,Canyon Crest B,other,0,0,0
+da9b5774,akshat m,TMSA,other,0,0,0
+da9b5774,Euan Lee,Canyon Crest B,biology,1,0,4
+da9b5774,Euan Lee,Canyon Crest B,chemistry,1,0,4
+da9b5774,Rishabh,TMSA,physics,0,0,0
+da9b5774,Euan Lee,Canyon Crest B,ess,0,0,0
+f6d74811,Andrew Lao,BISV C,overall,1,0,4
+f6d74811,Andrew Lao,BISV C,biology,1,0,4
+f6d74811,Ty Dutoit,Punahou,overall,2,1,4
+f6d74811,Ty Dutoit,Punahou,biology,1,0,4
+f6d74811,Ty Dutoit,Punahou,chemistry,0,1,-4
+f6d74811,Timothy Yu,BISV C,overall,3,0,12
+f6d74811,Timothy Yu,BISV C,chemistry,0,0,0
+f6d74811,Edward Han,BISV C,overall,2,0,8
+f6d74811,Edward Han,BISV C,physics,1,0,4
+f6d74811,Ty Dutoit,Punahou,physics,0,0,0
+f6d74811,Timothy Yu,BISV C,ess,1,0,4
+f6d74811,Ty Dutoit,Punahou,ess,1,0,4
+f6d74811,Timothy Yu,BISV C,math,1,0,4
+f6d74811,Edward Han,BISV C,other,1,0,4
+f6d74811,Edward Han,BISV C,math,0,0,0
+f6d74811,Ty Dutoit,Punahou,other,0,0,0
+f6d74811,Timothy Yu,BISV C,biology,1,0,4
+f6d74811,Noah C,Punahou,overall,1,0,4
+f6d74811,Noah C,Punahou,chemistry,1,0,4
+f6d74811,Noah C,Punahou,math,0,0,0
+f6d74811,Edward Han,BISV C,chemistry,0,0,0
+f6d74811,Ty Dutoit,Punahou,math,0,0,0
+f6d74811,Nicholas Black,Punahou,overall,0,0,0
+f6d74811,Nicholas Black,Punahou,other,0,0,0
+21803a4e,Rochan,Lambert,overall,5,0,20
+21803a4e,Rochan,Lambert,biology,2,0,8
+21803a4e,Frank,Lambert,overall,1,0,4
+21803a4e,Frank,Lambert,chemistry,1,0,4
+21803a4e,Sihu Ahn,Canyon Crest B,overall,2,0,8
+21803a4e,Sihu Ahn,Canyon Crest B,chemistry,1,0,4
+21803a4e,Shashank,Lambert,overall,3,0,12
+21803a4e,Shashank,Lambert,physics,3,0,12
+21803a4e,Rochan,Lambert,ess,2,0,8
+21803a4e,Sihu Ahn,Canyon Crest B,math,1,0,4
+21803a4e,Shashank,Lambert,math,0,0,0
+21803a4e,Rochan,Lambert,other,1,0,4
+21803a4e,Gavin Yang,Canyon Crest B,overall,1,0,4
+21803a4e,Gavin Yang,Canyon Crest B,other,1,0,4
+21803a4e,viren,Lambert,overall,1,0,4
+21803a4e,viren,Lambert,biology,1,0,4
+21803a4e,Sihu Ahn,Canyon Crest B,biology,0,0,0
+21803a4e,Rochan,Lambert,physics,0,0,0
+21803a4e,Sihu Ahn,Canyon Crest B,physics,0,0,0
+21803a4e,Gavin Yang,Canyon Crest B,ess,0,0,0
+21803a4e,Euan Lee,Canyon Crest B,overall,1,0,4
+21803a4e,Euan Lee,Canyon Crest B,chemistry,1,0,4
+21803a4e,Yihan J,Canyon Crest B,overall,0,0,0
+21803a4e,Yihan J,Canyon Crest B,math,0,0,0
+21803a4e,Euan Lee,Canyon Crest B,physics,0,0,0
+21803a4e,Shashank,Lambert,ess,0,0,0
+21803a4e,Euan Lee,Canyon Crest B,ess,0,0,0
+21803a4e,Euan Lee,Canyon Crest B,other,0,0,0
+fe9846aa,Timothy Yu,BISV C,overall,4,0,16
+fe9846aa,Timothy Yu,BISV C,biology,1,0,4
+fe9846aa,Santhosh V,Collierville B,overall,1,0,4
+fe9846aa,Santhosh V,Collierville B,chemistry,0,0,0
+fe9846aa,Andrew Lao,BISV C,overall,0,0,0
+fe9846aa,Andrew Lao,BISV C,chemistry,0,0,0
+fe9846aa,Charith,Collierville B,overall,5,0,20
+fe9846aa,Charith,Collierville B,physics,2,0,8
+fe9846aa,Timothy Yu,BISV C,ess,2,0,8
+fe9846aa,Charith,Collierville B,math,0,0,0
+fe9846aa,Edward Han,BISV C,overall,4,1,12
+fe9846aa,Edward Han,BISV C,math,1,1,0
+fe9846aa,Edward Han,BISV C,other,2,0,8
+fe9846aa,Andrew Lao,BISV C,biology,0,0,0
+fe9846aa,Santhosh V,Collierville B,biology,1,0,4
+fe9846aa,Timothy Yu,BISV C,chemistry,1,0,4
+fe9846aa,Tahmeed S,Collierville B,overall,0,0,0
+fe9846aa,Tahmeed S,Collierville B,math,0,0,0
+fe9846aa,Edward Han,BISV C,biology,0,0,0
+fe9846aa,Tahmeed S,Collierville B,physics,0,0,0
+fe9846aa,Charith,Collierville B,ess,2,0,8
+fe9846aa,Indhraneel G,Collierville B,overall,0,0,0
+fe9846aa,Indhraneel G,Collierville B,math,0,0,0
+fe9846aa,Tahmeed S,Collierville B,other,0,0,0
+fe9846aa,Edward Han,BISV C,physics,1,0,4
+fe9846aa,Charith,Collierville B,other,1,0,4
+8ade1476,Frank,Lambert,overall,3,0,12
+8ade1476,Frank,Lambert,chemistry,3,0,12
+8ade1476,Rochan,Lambert,overall,4,0,16
+8ade1476,Rochan,Lambert,physics,1,0,4
+8ade1476,Timothy Yu,BISV C,overall,1,0,4
+8ade1476,Timothy Yu,BISV C,ess,1,0,4
+8ade1476,Shashank,Lambert,overall,1,2,-4
+8ade1476,Shashank,Lambert,math,1,1,0
+8ade1476,Rochan,Lambert,other,0,0,0
+8ade1476,Rochan,Lambert,biology,2,0,8
+8ade1476,Edward Han,BISV C,overall,5,0,20
+8ade1476,Edward Han,BISV C,physics,1,0,4
+8ade1476,Rochan,Lambert,ess,1,0,4
+8ade1476,Edward Han,BISV C,math,2,0,8
+8ade1476,Edward Han,BISV C,other,2,0,8
+8ade1476,viren,Lambert,overall,2,0,8
+8ade1476,viren,Lambert,biology,1,0,4
+8ade1476,viren,Lambert,physics,0,0,0
+8ade1476,Shashank,Lambert,ess,0,1,-4
+8ade1476,Edward Han,BISV C,ess,0,0,0
+8ade1476,viren,Lambert,other,0,0,0
+8ade1476,viren,Lambert,chemistry,1,0,4
+9e6498d3,Rishabh,TMSA,overall,5,1,16
+9e6498d3,Rishabh,TMSA,biology,4,0,16
+9e6498d3,Arjun Pandey,BI Fremont HS,overall,2,0,8
+9e6498d3,Arjun Pandey,BI Fremont HS,physics,1,0,4
+9e6498d3,Rishabh,TMSA,physics,1,0,4
+9e6498d3,Kevin Chen,BI Fremont HS,overall,2,1,4
+9e6498d3,Kevin Chen,BI Fremont HS,ess,2,0,8
+9e6498d3,akshat m,TMSA,overall,2,0,8
+9e6498d3,akshat m,TMSA,math,2,0,8
+9e6498d3,Aarnav Rudraraju,BI Fremont HS,overall,1,2,-4
+9e6498d3,Aarnav Rudraraju,BI Fremont HS,math,1,0,4
+9e6498d3,Kevin Chen,BI Fremont HS,other,0,1,-4
+9e6498d3,Aarnav Rudraraju,BI Fremont HS,biology,0,1,-4
+9e6498d3,Arjun Pandey,BI Fremont HS,chemistry,1,0,4
+9e6498d3,Rishabh,TMSA,ess,0,0,0
+9e6498d3,Arjun Pandey,BI Fremont HS,math,0,0,0
+9e6498d3,Anthony,BI Fremont HS,overall,0,0,0
+9e6498d3,Anthony,BI Fremont HS,other,0,0,0
+9e6498d3,Rishabh,TMSA,chemistry,0,1,-4
+9e6498d3,Aarnav Rudraraju,BI Fremont HS,ess,0,1,-4
+9e6498d3,Aniket,TMSA,overall,1,0,4
+9e6498d3,Aniket,TMSA,chemistry,1,0,4
+9e6498d3,akshat m,TMSA,physics,0,0,0
+9e6498d3,Arjun Pandey,BI Fremont HS,other,0,0,0
+9e6498d3,Praneel,TMSA,overall,0,0,0
+9e6498d3,Praneel,TMSA,other,0,0,0
+4ffdda93,viren,Lambert,overall,3,1,8
+4ffdda93,viren,Lambert,biology,0,0,0
+4ffdda93,Aarnav Rudraraju,BI Fremont HS,overall,1,1,0
+4ffdda93,Aarnav Rudraraju,BI Fremont HS,biology,1,0,4
+4ffdda93,Arjun Pandey,BI Fremont HS,overall,2,0,8
+4ffdda93,Arjun Pandey,BI Fremont HS,chemistry,1,0,4
+4ffdda93,Shashank,Lambert,overall,1,0,4
+4ffdda93,Shashank,Lambert,physics,0,0,0
+4ffdda93,Aarnav Rudraraju,BI Fremont HS,physics,0,0,0
+4ffdda93,Aarnav Rudraraju,BI Fremont HS,ess,0,1,-4
+4ffdda93,Rochan,Lambert,overall,1,0,4
+4ffdda93,Rochan,Lambert,ess,0,0,0
+4ffdda93,Anthony,BI Fremont HS,overall,1,0,4
+4ffdda93,Anthony,BI Fremont HS,math,1,0,4
+4ffdda93,Shashank,Lambert,math,1,0,4
+4ffdda93,viren,Lambert,other,0,0,0
+4ffdda93,Kevin Chen,BI Fremont HS,overall,0,1,-4
+4ffdda93,Kevin Chen,BI Fremont HS,other,0,0,0
+4ffdda93,viren,Lambert,chemistry,1,1,0
+4ffdda93,viren,Lambert,physics,1,0,4
+4ffdda93,Arjun Pandey,BI Fremont HS,ess,0,0,0
+4ffdda93,viren,Lambert,ess,1,0,4
+4ffdda93,Aarnav Rudraraju,BI Fremont HS,other,0,0,0
+4ffdda93,Rochan,Lambert,other,0,0,0
+4ffdda93,Rochan,Lambert,biology,1,0,4
+4ffdda93,Arjun Pandey,BI Fremont HS,physics,1,0,4
+4ffdda93,Kevin Chen,BI Fremont HS,ess,0,1,-4
+4ffdda93,Arjun Pandey,BI Fremont HS,math,0,0,0
+4ffdda93,Frank,Lambert,overall,1,0,4
+4ffdda93,Frank,Lambert,chemistry,1,0,4
+4ffdda93,Rochan,Lambert,physics,0,0,0
+4b9f759f,Rochan,Lambert,overall,3,2,4
+4b9f759f,Rochan,Lambert,biology,1,2,-4
+4b9f759f,Frank,Lambert,overall,1,0,4
+4b9f759f,Frank,Lambert,chemistry,1,0,4
+4b9f759f,akshat m,TMSA,overall,1,0,4
+4b9f759f,akshat m,TMSA,physics,0,0,0
+4b9f759f,viren,Lambert,overall,2,1,4
+4b9f759f,viren,Lambert,physics,1,0,4
+4b9f759f,Rochan,Lambert,ess,0,0,0
+4b9f759f,akshat m,TMSA,ess,0,0,0
+4b9f759f,akshat m,TMSA,math,1,0,4
+4b9f759f,Shashank,Lambert,overall,1,0,4
+4b9f759f,Shashank,Lambert,math,0,0,0
+4b9f759f,Praneel,TMSA,overall,0,0,0
+4b9f759f,Praneel,TMSA,other,0,0,0
+4b9f759f,Rochan,Lambert,other,1,0,4
+4b9f759f,Rishabh,TMSA,overall,1,1,0
+4b9f759f,Rishabh,TMSA,biology,1,1,0
+4b9f759f,Aniket,TMSA,overall,0,0,0
+4b9f759f,Aniket,TMSA,chemistry,0,0,0
+4b9f759f,Shashank,Lambert,chemistry,0,0,0
+4b9f759f,Shashank,Lambert,physics,0,0,0
+4b9f759f,Shashank,Lambert,ess,1,0,4
+4b9f759f,Praneel,TMSA,chemistry,0,0,0
+4b9f759f,Rishabh,TMSA,ess,0,0,0
+4b9f759f,viren,Lambert,ess,1,0,4
+4b9f759f,viren,Lambert,math,0,1,-4
+4b9f759f,Praneel,TMSA,ess,0,0,0
+4b9f759f,Rochan,Lambert,math,1,0,4
+859d1244,viren,Lambert,overall,1,0,4
+859d1244,viren,Lambert,biology,1,0,4
+859d1244,Praneel,TMSA,overall,1,0,4
+859d1244,Praneel,TMSA,chemistry,0,0,0
+859d1244,Frank,Lambert,overall,2,0,8
+859d1244,Frank,Lambert,chemistry,2,0,8
+859d1244,Shashank,Lambert,overall,2,0,8
+859d1244,Shashank,Lambert,physics,0,0,0
+859d1244,akshat m,TMSA,overall,2,0,8
+859d1244,akshat m,TMSA,physics,0,0,0
+859d1244,akshat m,TMSA,math,2,0,8
+859d1244,Shashank,Lambert,math,1,0,4
+859d1244,Rochan,Lambert,overall,5,0,20
+859d1244,Rochan,Lambert,other,0,0,0
+859d1244,Praneel,TMSA,other,0,0,0
+859d1244,Rochan,Lambert,biology,3,0,12
+859d1244,Rochan,Lambert,chemistry,1,0,4
+859d1244,Rochan,Lambert,ess,1,0,4
+859d1244,Shashank,Lambert,ess,0,0,0
+859d1244,Aniket,TMSA,overall,0,0,0
+859d1244,Aniket,TMSA,ess,0,0,0
+859d1244,Rochan,Lambert,math,0,0,0
+859d1244,akshat m,TMSA,other,0,0,0
+859d1244,Shashank,Lambert,chemistry,1,0,4
+859d1244,viren,Lambert,physics,0,0,0
+859d1244,Praneel,TMSA,ess,1,0,4
+859d1244,viren,Lambert,other,0,0,0
