@@ -1,0 +1,32 @@
+id: 2026-02-28-nsb-regional-connecticut
+name: Connecticut Regional Science Bowl
+date: '2026-02-28'
+end_date: null
+season: 2025-26
+location: Storrs, CT
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: regional
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1riy79QbgAMQ7be_qPmaYXSmTEkKw3sqeqtB8mEkpKVE
+  url: https://docs.google.com/spreadsheets/d/1riy79QbgAMQ7be_qPmaYXSmTEkKw3sqeqtB8mEkpKVE/edit
+  file: results.xlsx
+- kind: url
+  role: results
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_QpmrlthkkHgqMo4cC9zZvggmLIChnKkTwQBa0GgV6GiDKxPHZb05eMJV0C840-DdsUw2ssJBM0Go/pub?output=xlsx
+  file: de.xlsx
+  note: published championship (double-elimination) scores, linked from https://vergnano.institute.uconn.edu/programs-opportunities/science-bowl/science-bowl-day-of-information/
+parser: g9_regionals:parse_ct
+parser_options:
+  canceled:
+  - Division 8
+status: parsed
+notes: DOE NSB high-school regional (UConn, Storrs). Round robin in 7 divisions (5 rounds) plus a 16-team double elimination,
+  all with scores; Greenwich HS Team 1 beat Farmington HS Team 1 in the if-necessary final. No player stats published.

@@ -95,7 +95,7 @@ new tournament. In the repository settings, set **Pages → Source** to **GitHub
    online: false
    division: HS
    include: true
-   kind: invitational          # invitational | league | nationals | scrimmage
+   kind: invitational          # invitational | league | nationals | regional | scrimmage
    level: standard             # novice | standard | advanced
    subject_only: null          # e.g. chemistry for a ChemBowl
    question_set: stanford-2026 # shared id for mirrors of the same set

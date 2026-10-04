@@ -1,0 +1,31 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,playoff,W1,11,Edinburg North HS A,STISD Health Professions A,64,44,1,0,Challonge match 1
+g2,playoff,W1,11,STISD Science Academy A,Veterans Memorial HS A,132,12,1,0,Challonge match 2
+g3,playoff,W1,11,Veterans Memorial HS B,STISD Science Academy B,44,38,1,0,Challonge match 3
+g4,playoff,W1,11,STISD Health Professions B,Ray HS A,4,66,2,0,Challonge match 4
+g5,playoff,W1,11,Lopez ECHS B,STISD Medical Professions A,36,24,1,0,Challonge match 5
+g6,playoff,W1,11,Edinburg North HS B,Ray HS B,28,24,1,0,Challonge match 6
+g7,playoff,W1,11,Lopez ECHS A,STISD World Scholars A,4,82,2,0,Challonge match 7
+g8,playoff,W1,11,UTRGV Edinburg Collegiate HS A,Mission Collegiate HS A,8,38,2,0,Challonge match 8
+g9,playoff,W2,12,Edinburg North HS A,STISD Science Academy A,44,108,2,0,Challonge match 13
+g10,playoff,W2,12,Veterans Memorial HS B,Ray HS A,26,42,2,0,Challonge match 14
+g11,playoff,W2,12,Lopez ECHS B,Edinburg North HS B,30,48,2,0,Challonge match 15
+g12,playoff,W2,12,STISD World Scholars A,Mission Collegiate HS A,12,94,2,0,Challonge match 16
+g13,playoff,L1,12,STISD Health Professions A,Veterans Memorial HS A,40,4,1,0,Challonge match 9
+g14,playoff,L1,12,STISD Science Academy B,STISD Health Professions B,16,34,2,0,Challonge match 10
+g15,playoff,L1,12,STISD Medical Professions A,Ray HS B,8,26,2,0,Challonge match 11
+g16,playoff,L1,12,Lopez ECHS A,UTRGV Edinburg Collegiate HS A,4,26,2,0,Challonge match 12
+g17,playoff,W3,13,STISD Science Academy A,Ray HS A,166,8,1,0,Challonge match 23
+g18,playoff,W3,13,Edinburg North HS B,Mission Collegiate HS A,26,72,2,0,Challonge match 24
+g19,playoff,L2,13,Edinburg North HS A,UTRGV Edinburg Collegiate HS A,114,8,1,0,Challonge match 17
+g20,playoff,L2,13,Veterans Memorial HS B,Ray HS B,44,38,1,0,Challonge match 18
+g21,playoff,L2,13,Lopez ECHS B,STISD Health Professions B,30,26,1,0,Challonge match 19
+g22,playoff,L2,13,STISD World Scholars A,STISD Health Professions A,0,78,2,0,Challonge match 20
+g23,playoff,W4,14,STISD Science Academy A,Mission Collegiate HS A,126,22,1,0,Challonge match 28
+g24,playoff,L3,14,Veterans Memorial HS B,Edinburg North HS A,20,48,2,0,Challonge match 21
+g25,playoff,L3,14,STISD Health Professions A,Lopez ECHS B,80,12,1,0,Challonge match 22
+g26,playoff,L4,15,Ray HS A,STISD Health Professions A,30,52,2,0,Challonge match 25
+g27,playoff,L4,15,Edinburg North HS B,Edinburg North HS A,38,46,2,0,Challonge match 26
+g28,playoff,L5,16,STISD Health Professions A,Edinburg North HS A,48,50,2,0,Challonge match 27
+g29,playoff,L6,17,Mission Collegiate HS A,Edinburg North HS A,26,52,2,0,Challonge match 29
+g30,playoff,Grand Final,18,STISD Science Academy A,Edinburg North HS A,82,36,1,0,Challonge match 30

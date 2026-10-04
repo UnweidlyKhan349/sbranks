@@ -1,0 +1,43 @@
+id: 2026-02-14-nsb-regional-utrgv
+name: UTRGV Regional Science Bowl
+date: '2026-02-14'
+end_date: null
+season: 2025-26
+location: Edinburg, TX
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: regional
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://challonge.com/btu4xo1i/module
+  file: challonge_module.html
+  note: Challonge embed page for https://challonge.com/btu4xo1i (linked from https://sites.google.com/view/utrgvregionalsciencebowl/home/event-score)
+parser: challonge_events:parse
+parser_options:
+  zero_zero: result
+  rename:
+    1- Edinburg North HS T1: Edinburg North HS A
+    10 - Ray HS T2: Ray HS B
+    11 - Mission Collegiate HS T1: Mission Collegiate HS A
+    12- Ray HS T1: Ray HS A
+    13- STISD Science Academy T2: STISD Science Academy B
+    14 - STISD World Scholars T1: STISD World Scholars A
+    15 - STISD Medical Professions T1: STISD Medical Professions A
+    16 - STISD Health Prof T1: STISD Health Professions A
+    2- Lopez ECHS T2: Lopez ECHS B
+    3 - Lopez ECHS T1: Lopez ECHS A
+    4- Veterans Memorial T2: Veterans Memorial HS B
+    5 - STISD Health Prof T2: STISD Health Professions B
+    6 - UTRGV Edinburg Collegiate HS T1: UTRGV Edinburg Collegiate HS A
+    7- Edinburg North HS T2: Edinburg North HS B
+    8- STISD Science Academy T1: STISD Science Academy A
+    9- Veterans Memorial HS T1: Veterans Memorial HS A
+status: partial
+notes: DOE NSB high-school regional (Rio Grande Valley, TX). 16-team double-elimination bracket from Challonge with scores;
+  no round robin or player stats published.

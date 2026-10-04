@@ -1,0 +1,137 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,rr,Round 1,1,Farmington HS 1,Ethel Walker School,260,8,1,0,", SHH 101"
+g2,rr,Round 2,2,Southington HS 1,CT IB Acad 2,84,34,1,0,", SHH 101"
+g3,rr,Round 3,3,Farmington HS 1,Loomis Chaffee 2,218,40,1,0,", SHH 101"
+g4,rr,Round 4,4,Ethel Walker School,Fairfield Ludlowe HS,8,66,2,0,", SHH 101"
+g5,rr,Round 5,5,Loomis Chaffee 2,Fairfield Ludlowe HS,114,40,1,0,", SHH 101"
+g6,rr,Round 1,1,Southington HS 1,Fairfield Ludlowe HS,166,40,1,0,", SHH 104"
+g7,rr,Round 2,2,Loomis Chaffee 2,Ethel Walker School,80,16,1,0,", SHH 104"
+g8,rr,Round 3,3,CT IB Acad 2,Fairfield Ludlowe HS,74,20,1,0,", SHH 104"
+g9,rr,Round 4,4,Farmington HS 1,CT IB Acad 2,176,16,1,0,", SHH 104"
+g10,rr,Round 5,5,Farmington HS 1,Southington HS 1,198,62,1,0,", SHH 104"
+g11,rr,Round 1,1,Loomis Chaffee 2,CT IB Acad 2,70,54,1,0,", SHH 105"
+g12,rr,Round 2,2,Farmington HS 1,Fairfield Ludlowe HS,178,34,1,0,", SHH 105"
+g13,rr,Round 3,3,Southington HS 1,Ethel Walker School,158,12,1,0,", SHH 105"
+g14,rr,Round 4,4,Loomis Chaffee 2,Southington HS 1,30,136,2,0,", SHH 105"
+g15,rr,Round 5,5,CT IB Acad 2,Ethel Walker School,48,26,1,0,", SHH 105"
+g16,rr,Round 1,1,Waterford HS 1,Conard HS 2,216,12,1,0,", SHH 106"
+g17,rr,Round 2,2,Bacon Academy,Southington HS 2,4,56,2,0,", SHH 106"
+g18,rr,Round 3,3,Waterford HS 1,South Windsor HS 2,130,58,1,0,", SHH 106"
+g19,rr,Round 4,4,Conard HS 2,Greenwich HS 3,60,20,1,0,", SHH 106"
+g20,rr,Round 5,5,South Windsor HS 2,Greenwich HS 3,86,64,1,0,", SHH 106"
+g21,rr,Round 1,1,Bacon Academy,Greenwich HS 3,48,36,1,0,", SHH 235"
+g22,rr,Round 2,2,South Windsor HS 2,Conard HS 2,60,22,1,0,", SHH 235"
+g23,rr,Round 3,3,Southington HS 2,Greenwich HS 3,42,34,1,0,", SHH 235"
+g24,rr,Round 4,4,Waterford HS 1,Southington HS 2,142,16,1,0,", SHH 235"
+g25,rr,Round 5,5,Waterford HS 1,Bacon Academy,152,38,1,0,", SHH 235"
+g26,rr,Round 1,1,South Windsor HS 2,Southington HS 2,92,22,1,0,", SHH 107"
+g27,rr,Round 2,2,Waterford HS 1,Greenwich HS 3,122,16,1,0,", SHH 107"
+g28,rr,Round 3,3,Bacon Academy,Conard HS 2,38,56,2,0,", SHH 107"
+g29,rr,Round 4,4,South Windsor HS 2,Bacon Academy,50,24,1,0,", SHH 107"
+g30,rr,Round 5,5,Southington HS 2,Conard HS 2,26,70,2,0,", SHH 107"
+g31,rr,Round 1,1,EO Smith HS 1,CT IB Acad 1,164,8,1,0,", SHH 108"
+g32,rr,Round 2,2,Amity Regional HS,East Lyme HS 2,88,36,1,0,", SHH 108"
+g33,rr,Round 3,3,EO Smith HS 1,Rocky Hill HS 2,186,40,1,0,", SHH 108"
+g34,rr,Round 4,4,CT IB Acad 1,Enfield HS 1,20,42,2,0,", SHH 108"
+g35,rr,Round 5,5,Rocky Hill HS 2,Enfield HS 1,102,32,1,0,", SHH 108"
+g36,rr,Round 1,1,Amity Regional HS,Enfield HS 1,128,22,1,0,", SHH 109"
+g37,rr,Round 2,2,Rocky Hill HS 2,CT IB Acad 1,72,4,1,0,", SHH 109"
+g38,rr,Round 3,3,East Lyme HS 2,Enfield HS 1,98,20,1,0,", SHH 109"
+g39,rr,Round 4,4,EO Smith HS 1,East Lyme HS 2,92,42,1,0,", SHH 109"
+g40,rr,Round 5,5,EO Smith HS 1,Amity Regional HS,156,92,1,0,", SHH 109"
+g41,rr,Round 1,1,Rocky Hill HS 2,East Lyme HS 2,68,44,1,0,", SHH 110"
+g42,rr,Round 2,2,EO Smith HS 1,Enfield HS 1,152,26,1,0,", SHH 110"
+g43,rr,Round 3,3,Amity Regional HS,CT IB Acad 1,76,28,1,0,", SHH 110"
+g44,rr,Round 4,4,Rocky Hill HS 2,Amity Regional HS,46,54,2,0,", SHH 110"
+g45,rr,Round 5,5,East Lyme HS 2,CT IB Acad 1,74,12,1,0,", SHH 110"
+g46,rr,Round 1,1,Greenwich HS 1,Conard HS 1,86,68,1,0,", SHH 111"
+g47,rr,Round 2,2,New Canaan HS 2,Joel Barlow HS,34,62,2,0,", SHH 111"
+g48,rr,Round 3,3,Greenwich HS 1,CT IB Acad 3,136,26,1,0,", SHH 111"
+g49,rr,Round 4,4,Conard HS 1,Fairfield Warde HS 1,24,66,2,0,", SHH 111"
+g50,rr,Round 5,5,CT IB Acad 3,Fairfield Warde HS 1,40,100,2,0,", SHH 111"
+g51,rr,Round 1,1,New Canaan HS 2,Fairfield Warde HS 1,44,72,2,0,", SHH 112"
+g52,rr,Round 2,2,CT IB Acad 3,Conard HS 1,12,64,2,0,", SHH 112"
+g53,rr,Round 3,3,Joel Barlow HS,Fairfield Warde HS 1,32,86,2,0,", SHH 112"
+g54,rr,Round 4,4,Greenwich HS 1,Joel Barlow HS,118,34,1,0,", SHH 112"
+g55,rr,Round 5,5,Greenwich HS 1,New Canaan HS 2,178,32,1,0,", SHH 112"
+g56,rr,Round 1,1,CT IB Acad 3,Joel Barlow HS,48,62,2,0,", SHH 117"
+g57,rr,Round 2,2,Greenwich HS 1,Fairfield Warde HS 1,132,46,1,0,", SHH 117"
+g58,rr,Round 3,3,New Canaan HS 2,Conard HS 1,52,72,2,0,", SHH 117"
+g59,rr,Round 4,4,CT IB Acad 3,New Canaan HS 2,20,50,2,0,", SHH 117"
+g60,rr,Round 5,5,Joel Barlow HS,Conard HS 1,58,62,2,0,", SHH 117"
+g61,rr,Round 1,1,East Lyme HS 1,Loomis Chaffee 1,66,100,2,0,", SHH 267"
+g62,rr,Round 2,2,Waterford HS 2,EO Smith HS 2,30,62,2,0,", SHH 267"
+g63,rr,Round 3,3,East Lyme HS 1,Trumbull HS 1,122,36,1,0,", SHH 267"
+g64,rr,Round 4,4,Loomis Chaffee 1,Univ HS Sci & Eng,72,74,2,0,", SHH 267"
+g65,rr,Round 5,5,Trumbull HS 1,Univ HS Sci & Eng,12,90,2,0,", SHH 267"
+g66,rr,Round 1,1,Waterford HS 2,Univ HS Sci & Eng,30,94,2,0,", SHH 268"
+g67,rr,Round 2,2,Trumbull HS 1,Loomis Chaffee 1,30,116,2,0,", SHH 268"
+g68,rr,Round 3,3,EO Smith HS 2,Univ HS Sci & Eng,34,46,2,0,", SHH 268"
+g69,rr,Round 4,4,East Lyme HS 1,EO Smith HS 2,56,76,2,0,", SHH 268"
+g70,rr,Round 5,5,East Lyme HS 1,Waterford HS 2,120,12,1,0,", SHH 268"
+g71,rr,Round 1,1,Trumbull HS 1,EO Smith HS 2,16,96,2,0,", SHH 269"
+g72,rr,Round 2,2,East Lyme HS 1,Univ HS Sci & Eng,58,68,2,0,", SHH 269"
+g73,rr,Round 3,3,Waterford HS 2,Loomis Chaffee 1,46,52,2,0,", SHH 269"
+g74,rr,Round 4,4,Trumbull HS 1,Waterford HS 2,20,50,2,0,", SHH 269"
+g75,rr,Round 5,5,EO Smith HS 2,Loomis Chaffee 1,30,128,2,0,", SHH 269"
+g76,rr,Round 1,1,Rocky Hill HS 1,New Canaan HS 1,66,78,2,0,", MONT 111"
+g77,rr,Round 2,2,Farmington HS 2,Fairfield Warde HS 2,136,8,1,0,", MONT 111"
+g78,rr,Round 3,3,Rocky Hill HS 1,Newtown HS,88,44,1,0,", MONT 111"
+g79,rr,Round 4,4,New Canaan HS 1,Enfield HS 2,72,38,1,0,", MONT 111"
+g80,rr,Round 5,5,Newtown HS,Enfield HS 2,114,34,1,0,", MONT 111"
+g81,rr,Round 1,1,Farmington HS 2,Enfield HS 2,90,16,1,0,", MONT 112"
+g82,rr,Round 2,2,Newtown HS,New Canaan HS 1,20,90,2,0,", MONT 112"
+g83,rr,Round 3,3,Fairfield Warde HS 2,Enfield HS 2,44,48,2,0,", MONT 112"
+g84,rr,Round 4,4,Rocky Hill HS 1,Fairfield Warde HS 2,106,28,1,0,", MONT 112"
+g85,rr,Round 5,5,Rocky Hill HS 1,Farmington HS 2,72,132,2,0,", MONT 112"
+g86,rr,Round 1,1,Newtown HS,Fairfield Warde HS 2,62,12,1,0,", MONT 113"
+g87,rr,Round 2,2,Rocky Hill HS 1,Enfield HS 2,126,22,1,0,", MONT 113"
+g88,rr,Round 3,3,Farmington HS 2,New Canaan HS 1,100,76,1,0,", MONT 113"
+g89,rr,Round 4,4,Newtown HS,Farmington HS 2,66,50,1,0,", MONT 113"
+g90,rr,Round 5,5,Fairfield Warde HS 2,New Canaan HS 1,54,90,2,0,", MONT 113"
+g91,rr,Round 1,1,Choate Rosemary Hall,New Canaan HS 3,34,38,2,0,", MONT 225"
+g92,rr,Round 2,2,Greenwich HS 2,South Windsor HS 1,80,58,1,0,", MONT 225"
+g93,rr,Round 3,3,Choate Rosemary Hall,Trumbull HS 2,70,46,1,0,", MONT 225"
+g94,rr,Round 4,4,New Canaan HS 3,Enfield HS 3,62,34,1,0,", MONT 225"
+g95,rr,Round 5,5,Trumbull HS 2,Enfield HS 3,66,26,1,0,", MONT 225"
+g96,rr,Round 1,1,Greenwich HS 2,Enfield HS 3,118,20,1,0,", MONT 226"
+g97,rr,Round 2,2,Trumbull HS 2,New Canaan HS 3,54,52,1,0,", MONT 226"
+g98,rr,Round 3,3,South Windsor HS 1,Enfield HS 3,32,58,2,0,", MONT 226"
+g99,rr,Round 4,4,Choate Rosemary Hall,South Windsor HS 1,52,40,1,0,", MONT 226"
+g100,rr,Round 5,5,Choate Rosemary Hall,Greenwich HS 2,48,94,2,0,", MONT 226"
+g101,rr,Round 1,1,Trumbull HS 2,South Windsor HS 1,26,54,2,0,", MONT 227"
+g102,rr,Round 2,2,Choate Rosemary Hall,Enfield HS 3,90,18,1,0,", MONT 227"
+g103,rr,Round 3,3,Greenwich HS 2,New Canaan HS 3,72,28,1,0,", MONT 227"
+g104,rr,Round 4,4,Trumbull HS 2,Greenwich HS 2,46,56,2,0,", MONT 227"
+g105,rr,Round 5,5,South Windsor HS 1,New Canaan HS 3,30,84,2,0,", MONT 227"
+g106,playoff,Double Elimination Round 1,6,Farmington HS 1,New Canaan HS 3,174,28,1,0,
+g107,playoff,Double Elimination Round 1,6,Rocky Hill HS 1,Amity Regional HS,66,78,2,0,
+g108,playoff,Double Elimination Round 1,6,Southington HS 1,Univ HS Sci & Eng,56,32,1,0,
+g109,playoff,Double Elimination Round 1,6,Fairfield Warde HS 1,Greenwich HS 1,48,104,2,0,
+g110,playoff,Double Elimination Round 1,6,EO Smith HS 1,South Windsor HS 2,146,28,1,0,
+g111,playoff,Double Elimination Round 1,6,Farmington HS 2,New Canaan HS 1,64,56,1,0,
+g112,playoff,Double Elimination Round 1,6,Loomis Chaffee 1,Greenwich HS 2,116,26,1,0,
+g113,playoff,Double Elimination Round 1,6,EO Smith HS 2,Waterford HS 1,8,164,2,0,
+g114,playoff,Double Elimination Round 2,7,Farmington HS 1,Amity Regional HS,108,42,1,0,
+g115,playoff,Double Elimination Round 2,7,Southington HS 1,Greenwich HS 1,26,140,2,0,
+g116,playoff,Double Elimination Round 2,7,EO Smith HS 1,Farmington HS 2,80,42,1,0,
+g117,playoff,Double Elimination Round 2,7,Loomis Chaffee 1,Waterford HS 1,68,94,2,0,
+g118,playoff,Double Elimination Round 2,7,New Canaan HS 3,Rocky Hill HS 1,26,80,2,0,
+g119,playoff,Double Elimination Round 2,7,Univ HS Sci & Eng,Fairfield Warde HS 1,72,30,1,0,
+g120,playoff,Double Elimination Round 2,7,South Windsor HS 2,New Canaan HS 1,68,16,1,0,
+g121,playoff,Double Elimination Round 2,7,Greenwich HS 2,EO Smith HS 2,30,88,2,0,
+g122,playoff,Double Elimination Round 3,8,Amity Regional HS,Rocky Hill HS 1,62,52,1,0,
+g123,playoff,Double Elimination Round 3,8,Southington HS 1,Univ HS Sci & Eng,76,52,1,0,
+g124,playoff,Double Elimination Round 3,8,Farmington HS 2,South Windsor HS 2,96,20,1,0,
+g125,playoff,Double Elimination Round 3,8,Loomis Chaffee 1,EO Smith HS 2,120,18,1,0,
+g126,playoff,Double Elimination Round 4,9,Farmington HS 1,Greenwich HS 1,90,94,2,0,
+g127,playoff,Double Elimination Round 4,9,EO Smith HS 1,Waterford HS 1,80,84,2,0,
+g128,playoff,Double Elimination Round 4,9,Amity Regional HS,Southington HS 1,18,104,2,0,
+g129,playoff,Double Elimination Round 4,9,Farmington HS 2,Loomis Chaffee 1,52,64,2,0,
+g130,playoff,Double Elimination Round 5,10,Farmington HS 1,Southington HS 1,138,18,1,0,
+g131,playoff,Double Elimination Round 5,10,EO Smith HS 1,Loomis Chaffee 1,80,42,1,0,
+g132,playoff,Double Elimination Round 6,11,Greenwich HS 1,Waterford HS 1,70,58,1,0,
+g133,playoff,Double Elimination Round 6,11,Farmington HS 1,EO Smith HS 1,90,48,1,0,
+g134,playoff,Championship Semi Final Round 7,12,Waterford HS 1,Farmington HS 1,58,114,2,0,
+g135,playoff,Championship Round 8,13,Greenwich HS 1,Farmington HS 1,72,88,2,0,
+g136,playoff,Championship Round 9,14,Greenwich HS 1,Farmington HS 1,118,90,1,0,

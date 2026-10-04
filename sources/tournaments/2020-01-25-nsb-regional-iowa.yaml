@@ -1,0 +1,29 @@
+id: 2020-01-25-nsb-regional-iowa
+name: Iowa Regional Science Bowl (Ames Laboratory)
+date: '2020-01-25'
+end_date: null
+season: 2019-20
+location: Ames, IA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: regional
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: url
+  role: results
+  url: https://www.ameslab.gov/sites/default/files/inline-files/2020HSSB-Resultsbracket_0.pdf
+  file: bracket.pdf
+- kind: manual
+  role: results
+  file: bracket_transcribed.yaml
+  url: https://www.ameslab.gov/sites/default/files/inline-files/2020HSSB-Resultsbracket_0.pdf
+  note: hand transcription of the bracket PDF
+parser: g9_regionals:parse_transcribed
+parser_options: {}
+status: partial
+notes: DOE NSB high-school regional for Iowa (Ames Laboratory / Iowa State). 33 schools played; only the 16-team double-elimination
+  bracket was published (30 games, all with scores). Ames beat Pleasant Valley 46-40 in the final (https://www.ameslab.gov/news/ames-high-wins-2020-high-school-science-bowl).

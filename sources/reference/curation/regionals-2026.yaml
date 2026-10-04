@@ -1,0 +1,51 @@
+# NSB high-school regionals added 2026-10 (Iowa 2020, UTRGV / Northeast / Connecticut 2026)
+schools:
+  # Iowa (Ames Laboratory regional, 2020)
+  - {id: bettendorf-high-school-ia, name: Bettendorf High School, short: Bettendorf, city: Bettendorf, state: IA, aliases: [Bettendorf]}
+  - {id: carroll-high-school-ia, name: Carroll High School, short: Carroll, city: Carroll, state: IA, aliases: [Carroll]}
+  - {id: davenport-north-high-school-ia, name: Davenport North High School, short: Davenport North, city: Davenport, state: IA, aliases: [Davenport North]}
+  - {id: central-academy-des-moines-ia, name: Central Academy, short: DM Central Academy, city: Des Moines, state: IA, aliases: [Des Moines Central]}
+  - {id: dubuque-senior-high-school-ia, name: Dubuque Senior High School, short: Dubuque Senior, city: Dubuque, state: IA, aliases: [Dubuque Sr., Dubuque Senior]}
+  - {id: earlham-high-school-ia, name: Earlham High School, short: Earlham, city: Earlham, state: IA, aliases: [Earlham]}
+  - {id: hempstead-high-school-ia, name: Hempstead High School, short: Hempstead, city: Dubuque, state: IA, aliases: [Hempstead]}
+  - {id: johnston-high-school-ia, name: Johnston High School, short: Johnston, city: Johnston, state: IA, aliases: [Johnston]}
+  - {id: liberty-high-school-ia, name: Liberty High School, short: Liberty, city: North Liberty, state: IA, aliases: []}
+  - {id: nevada-high-school-ia, name: Nevada High School, short: Nevada, city: Nevada, state: IA, aliases: []}
+  - {id: regina-high-school-ia, name: Regina Junior-Senior High School, short: Regina, city: Iowa City, state: IA, aliases: []}
+  - {id: valley-high-school-ia, name: West Des Moines Valley High School, short: WDM Valley, city: West Des Moines, state: IA, aliases: []}
+  - {id: west-delaware-high-school-ia, name: West Delaware High School, short: West Delaware, city: Manchester, state: IA, aliases: [West Delaware]}
+  # Rio Grande Valley (UTRGV regional, 2026)
+  - {id: edinburg-north-high-school-tx, name: Edinburg North High School, short: Edinburg North, city: Edinburg, state: TX, aliases: [Edinburg North HS, Edinburg North]}
+  - {id: lopez-early-college-high-school-tx, name: Lopez Early College High School, short: Lopez ECHS, city: Brownsville, state: TX, aliases: [Lopez ECHS]}
+  - {id: mission-collegiate-high-school-tx, name: Mission Collegiate High School, short: Mission Collegiate, city: Mission, state: TX, aliases: [Mission Collegiate HS]}
+  - {id: south-texas-high-school-for-health-professions-tx, name: South Texas High School for Health Professions, short: STISD Health Professions, city: Mercedes, state: TX, aliases: [STISD Health Professions]}
+  - {id: south-texas-isd-world-scholars-tx, name: South Texas ISD World Scholars, short: STISD World Scholars, city: Edinburg, state: TX, aliases: [STISD World Scholars]}
+  - {id: veterans-memorial-high-school-tx, name: Veterans Memorial High School, short: Veterans Memorial, city: Mission, state: TX, aliases: [Veterans Memorial HS]}
+  # Northeast (MIT regional, 2026)
+  - {id: pioneer-charter-school-of-science-ma, name: Pioneer Charter School of Science, short: Pioneer Charter, city: Everett, state: MA, aliases: [Pioneer Charter]}
+  # Connecticut (UConn regional, 2026)
+  - {id: bacon-academy-ct, name: Bacon Academy, short: Bacon Academy, city: Colchester, state: CT, aliases: [Bacon Academy]}
+  - {id: connecticut-ib-academy-ct, name: Connecticut IB Academy, short: CT IB Academy, city: East Hartford, state: CT, aliases: [CT IB Acad, CT IB Academy]}
+  - {id: conard-high-school-ct, name: Conard High School, short: Conard, city: West Hartford, state: CT, aliases: [Conard HS, Conard]}
+  - {id: e-o-smith-high-school-ct, name: E.O. Smith High School, short: E.O. Smith, city: Storrs, state: CT, aliases: [EO Smith HS, EO Smith, E.O. Smith]}
+  - {id: enfield-high-school-ct, name: Enfield High School, short: Enfield, city: Enfield, state: CT, aliases: [Enfield HS]}
+  - {id: ethel-walker-school-ct, name: The Ethel Walker School, short: Ethel Walker, city: Simsbury, state: CT, aliases: [Ethel Walker School]}
+  - {id: fairfield-ludlowe-high-school-ct, name: Fairfield Ludlowe High School, short: Fairfield Ludlowe, city: Fairfield, state: CT, aliases: [Fairfield Ludlowe HS, Fairfield Ludlowe]}
+  - {id: loomis-chaffee-school-ct, name: The Loomis Chaffee School, short: Loomis Chaffee, city: Windsor, state: CT, aliases: [Loomis Chaffee]}
+  - {id: rocky-hill-high-school-ct, name: Rocky Hill High School, short: Rocky Hill, city: Rocky Hill, state: CT, aliases: [Rocky Hill HS]}
+  - {id: southington-high-school-ct, name: Southington High School, short: Southington, city: Southington, state: CT, aliases: [Southington HS]}
+  - {id: trumbull-high-school-ct, name: Trumbull High School, short: Trumbull, city: Trumbull, state: CT, aliases: [Trumbull HS]}
+  - {id: waterford-high-school-ct, name: Waterford High School, short: Waterford, city: Waterford, state: CT, aliases: [Waterford HS]}
+composite: []
+overrides:
+  '2020-01-25-nsb-regional-iowa::Valley': {school: valley-high-school-ia, letter: A}
+  '2020-01-25-nsb-regional-iowa::Liberty': {school: liberty-high-school-ia, letter: A}
+  '2020-01-25-nsb-regional-iowa::Nevada': {school: nevada-high-school-ia, letter: A}
+  '2020-01-25-nsb-regional-iowa::Regina': {school: regina-high-school-ia, letter: A}
+  '2026-02-28-nsb-regional-connecticut::Univ HS Sci & Eng': {school: university-high-school-of-science-and-engineering-ct, letter: A}
+unknown:
+  - {base: Bedford, why: 'Northeast regional 2026 (MA/NH/RI/VT): Bedford HS (MA) vs Bedford HS (NH)'}
+  - {base: Cranston, why: 'Northeast regional 2026: Cranston High School East vs West (RI)'}
+  - {base: Portsmouth, why: 'Northeast regional 2026: Portsmouth HS (NH) vs (RI)'}
+  - {base: STISD Medical Professions, why: 'UTRGV regional 2026; unclear whether this is the Health Professions school (Med High) or another STISD campus'}
+  - {base: UTRGV Edinburg Collegiate HS, why: 'UTRGV regional 2026; no campus by this exact name identified'}

@@ -149,6 +149,13 @@
   aliases:
   - Arnold O. Beckman
   - Beckman
+- id: bacon-academy-ct
+  name: Bacon Academy
+  short: Bacon Academy
+  city: Colchester
+  state: CT
+  aliases:
+  - Bacon Academy
 - id: basis-chandler-az
   name: BASIS Chandler
   short: BASIS Chandler
@@ -250,6 +257,13 @@
   aliases:
   - Bethlehem
   - Bethlehem Central
+- id: bettendorf-high-school-ia
+  name: Bettendorf High School
+  short: Bettendorf
+  city: Bettendorf
+  state: IA
+  aliases:
+  - Bettendorf
 - id: billerica-memorial-high-school-ma
   name: Billerica Memorial High School
   short: Billerica
@@ -438,6 +452,13 @@
   state: IN
   aliases:
   - Carmel High School
+- id: carroll-high-school-ia
+  name: Carroll High School
+  short: Carroll
+  city: Carroll
+  state: IA
+  aliases:
+  - Carroll
 - id: catlin-gabel-school-or
   name: Catlin Gabel School
   short: Catlin Gabel
@@ -472,6 +493,13 @@
   state: OH
   aliases:
   - Centerville
+- id: central-academy-des-moines-ia
+  name: Central Academy
+  short: DM Central Academy
+  city: Des Moines
+  state: IA
+  aliases:
+  - Des Moines Central
 - id: central-high-school-ar
   name: Central High School
   short: Little Rock Central
@@ -596,6 +624,14 @@
   aliases:
   - Community Middle School
   - Community MS
+- id: conard-high-school-ct
+  name: Conard High School
+  short: Conard
+  city: West Hartford
+  state: CT
+  aliases:
+  - Conard HS
+  - Conard
 - id: concord-academy-ma
   name: Concord Academy
   short: Concord Academy
@@ -610,6 +646,14 @@
   state: PA
   aliases:
   - Conestoga High School
+- id: connecticut-ib-academy-ct
+  name: Connecticut IB Academy
+  short: CT IB Academy
+  city: East Hartford
+  state: CT
+  aliases:
+  - CT IB Acad
+  - CT IB Academy
 - id: connections-homeschool-program-ak
   name: Connections Homeschool Program
   short: Connections
@@ -645,6 +689,13 @@
   state: TX
   aliases:
   - Cypress Ranch High School
+- id: davenport-north-high-school-ia
+  name: Davenport North High School
+  short: Davenport North
+  city: Davenport
+  state: IA
+  aliases:
+  - Davenport North
 - id: davidson-fine-arts-magnet-school-ga
   name: Davidson Fine Arts Magnet School
   short: Davidson Fine Arts
@@ -683,6 +734,14 @@
   aliases:
   - Dougherty
   - Dougherty Valley High School
+- id: dubuque-senior-high-school-ia
+  name: Dubuque Senior High School
+  short: Dubuque Senior
+  city: Dubuque
+  state: IA
+  aliases:
+  - Dubuque Sr.
+  - Dubuque Senior
 - id: dulles-high-school-tx
   name: Dulles High School
   short: Dulles
@@ -697,6 +756,22 @@
   state: KY
   aliases:
   - duPont Manual
+- id: e-o-smith-high-school-ct
+  name: E.O. Smith High School
+  short: E.O. Smith
+  city: Storrs
+  state: CT
+  aliases:
+  - EO Smith HS
+  - EO Smith
+  - E.O. Smith
+- id: earlham-high-school-ia
+  name: Earlham High School
+  short: Earlham
+  city: Earlham
+  state: IA
+  aliases:
+  - Earlham
 - id: east-brunswick-high-school-nj
   name: East Brunswick High School
   short: East Brunswick
@@ -740,6 +815,14 @@
   state: NV
   aliases:
   - Ed. W. Clark High
+- id: edinburg-north-high-school-tx
+  name: Edinburg North High School
+  short: Edinburg North
+  city: Edinburg
+  state: TX
+  aliases:
+  - Edinburg North HS
+  - Edinburg North
 - id: edison-high-school-nj
   name: Edison High School
   short: Edison
@@ -761,6 +844,13 @@
   state: TX
   aliases:
   - Elkins
+- id: enfield-high-school-ct
+  name: Enfield High School
+  short: Enfield
+  city: Enfield
+  state: CT
+  aliases:
+  - Enfield HS
 - id: enloe-high-school-nc
   name: Enloe High School
   short: Enloe
@@ -768,6 +858,13 @@
   state: NC
   aliases:
   - Enloe High School
+- id: ethel-walker-school-ct
+  name: The Ethel Walker School
+  short: Ethel Walker
+  city: Simsbury
+  state: CT
+  aliases:
+  - Ethel Walker School
 - id: evergreen-middle-school-everett-wa
   name: Evergreen Middle School (Everett)
   short: Everett Evergreen MS
@@ -797,6 +894,14 @@
   state: CT
   aliases:
   - Fairchild Wheeler
+- id: fairfield-ludlowe-high-school-ct
+  name: Fairfield Ludlowe High School
+  short: Fairfield Ludlowe
+  city: Fairfield
+  state: CT
+  aliases:
+  - Fairfield Ludlowe HS
+  - Fairfield Ludlowe
 - id: fairfield-warde-high-school-ct
   name: Fairfield Warde High School
   short: Fairfield Warde
@@ -952,6 +1057,13 @@
   state: TX
   aliases:
   - Hebron
+- id: hempstead-high-school-ia
+  name: Hempstead High School
+  short: Hempstead
+  city: Dubuque
+  state: IA
+  aliases:
+  - Hempstead
 - id: henry-j-kaiser-high-school-hi
   name: Henry J. Kaiser High School
   short: Kaiser
@@ -1184,6 +1296,13 @@
   state: GA
   aliases:
   - Johns Creek
+- id: johnston-high-school-ia
+  name: Johnston High School
+  short: Johnston
+  city: Johnston
+  state: IA
+  aliases:
+  - Johnston
 - id: jonas-clarke-middle-school-ma
   name: Jonas Clarke Middle School
   short: Jonas Clarke
@@ -1292,6 +1411,12 @@
   aliases:
   - LASA
   - Liberal Arts and Sciences Academy
+- id: liberty-high-school-ia
+  name: Liberty High School
+  short: Liberty
+  city: North Liberty
+  state: IA
+  aliases: []
 - id: liberty-middle-school-al
   name: Liberty Middle School
   short: Liberty MS
@@ -1334,6 +1459,20 @@
   state: NY
   aliases:
   - Longwood
+- id: loomis-chaffee-school-ct
+  name: The Loomis Chaffee School
+  short: Loomis Chaffee
+  city: Windsor
+  state: CT
+  aliases:
+  - Loomis Chaffee
+- id: lopez-early-college-high-school-tx
+  name: Lopez Early College High School
+  short: Lopez ECHS
+  city: Brownsville
+  state: TX
+  aliases:
+  - Lopez ECHS
 - id: los-alamos-high-school-nm
   name: Los Alamos High School
   short: Los Alamos
@@ -1486,6 +1625,13 @@
   state: CA
   aliases:
   - Miramonte
+- id: mission-collegiate-high-school-tx
+  name: Mission Collegiate High School
+  short: Mission Collegiate
+  city: Mission
+  state: TX
+  aliases:
+  - Mission Collegiate HS
 - id: mission-san-jose-high-school-ca
   name: Mission San Jose High School
   short: Mission San Jose
@@ -1619,6 +1765,12 @@
   state: SC
   aliases:
   - Nation Ford
+- id: nevada-high-school-ia
+  name: Nevada High School
+  short: Nevada
+  city: Nevada
+  state: IA
+  aliases: []
 - id: new-berlin-eisenhower-middle-high-school-wi
   name: New Berlin Eisenhower Middle/High School
   short: Eisenhower
@@ -1840,6 +1992,13 @@
   state: NJ
   aliases:
   - Phillipsburg
+- id: pioneer-charter-school-of-science-ma
+  name: Pioneer Charter School of Science
+  short: Pioneer Charter
+  city: Everett
+  state: MA
+  aliases:
+  - Pioneer Charter
 - id: plano-west-senior-high-school-tx
   name: Plano West Senior High School
   short: Plano West
@@ -1930,6 +2089,12 @@
   state: TX
   aliases:
   - Ray High School
+- id: regina-high-school-ia
+  name: Regina Junior-Senior High School
+  short: Regina
+  city: Iowa City
+  state: IA
+  aliases: []
 - id: research-triangle-high-school-nc
   name: Research Triangle High School
   short: Research Triangle
@@ -1967,6 +2132,13 @@
   aliases:
   - RMSST
   - Rockdale Magnet
+- id: rocky-hill-high-school-ct
+  name: Rocky Hill High School
+  short: Rocky Hill
+  city: Rocky Hill
+  state: CT
+  aliases:
+  - Rocky Hill HS
 - id: round-rock-high-school-tx
   name: Round Rock High School
   short: Round Rock
@@ -2104,6 +2276,13 @@
   state: CA
   aliases:
   - South Pasadena
+- id: south-texas-high-school-for-health-professions-tx
+  name: South Texas High School for Health Professions
+  short: STISD Health Professions
+  city: Mercedes
+  state: TX
+  aliases:
+  - STISD Health Professions
 - id: south-texas-isd-science-academy-tx
   name: South Texas ISD Science Academy
   short: STISD Science Academy
@@ -2112,6 +2291,13 @@
   aliases:
   - South Texas ISD Science Academy
   - SciTech Dragons
+- id: south-texas-isd-world-scholars-tx
+  name: South Texas ISD World Scholars
+  short: STISD World Scholars
+  city: Edinburg
+  state: TX
+  aliases:
+  - STISD World Scholars
 - id: south-windsor-high-school-ct
   name: South Windsor High School
   short: South Windsor
@@ -2119,6 +2305,13 @@
   state: CT
   aliases:
   - South Windsor
+- id: southington-high-school-ct
+  name: Southington High School
+  short: Southington
+  city: Southington
+  state: CT
+  aliases:
+  - Southington HS
 - id: st-croix-educational-complex-high-school-vi
   name: St. Croix Educational Complex High School
   short: St. Croix Educational Complex
@@ -2351,6 +2544,13 @@
   state: MI
   aliases:
   - Troy
+- id: trumbull-high-school-ct
+  name: Trumbull High School
+  short: Trumbull
+  city: Trumbull
+  state: CT
+  aliases:
+  - Trumbull HS
 - id: tupelo-high-school-ms
   name: Tupelo High School
   short: Tupelo
@@ -2396,6 +2596,12 @@
   state: CA
   aliases:
   - Valley Christian
+- id: valley-high-school-ia
+  name: West Des Moines Valley High School
+  short: WDM Valley
+  city: West Des Moines
+  state: IA
+  aliases: []
 - id: valley-high-school-oh
   name: Valley High School
   short: Valley
@@ -2419,6 +2625,13 @@
   aliases:
   - Venice
   - Venice HS
+- id: veterans-memorial-high-school-tx
+  name: Veterans Memorial High School
+  short: Veterans Memorial
+  city: Mission
+  state: TX
+  aliases:
+  - Veterans Memorial HS
 - id: vista-del-lago-high-school-ca
   name: Vista del Lago High School
   short: Vista del Lago
@@ -2464,6 +2677,13 @@
   - Ward Melville
   - Ward Melville Senior High School
   - Ward Melville Senior High
+- id: waterford-high-school-ct
+  name: Waterford High School
+  short: Waterford
+  city: Waterford
+  state: CT
+  aliases:
+  - Waterford HS
 - id: wayland-high-school-ma
   name: Wayland High School
   short: Wayland
@@ -2485,6 +2705,13 @@
   state: MN
   aliases:
   - Wayzata
+- id: west-delaware-high-school-ia
+  name: West Delaware High School
+  short: West Delaware
+  city: Manchester
+  state: IA
+  aliases:
+  - West Delaware
 - id: west-high-school-wi
   name: West High School
   short: Madison West

@@ -1,0 +1,84 @@
+id: 2026-02-21-nsb-regional-northeast
+name: Northeast Regional Science Bowl (MIT)
+date: '2026-02-21'
+end_date: null
+season: 2025-26
+location: Cambridge, MA
+online: false
+division: HS
+include: true
+exclude_reason: null
+kind: regional
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: gsheet
+  role: results
+  sheet_id: 1BhEPjlyRKV4GCxG2IwhbosUCUYeTiom_LS1Qlu79mCQ
+  url: https://docs.google.com/spreadsheets/d/1BhEPjlyRKV4GCxG2IwhbosUCUYeTiom_LS1Qlu79mCQ/edit
+  file: results.xlsx
+  note: HS tabs 'Round Robin' and 'Double Elim' (the 'Double Elimination' tab is the middle-school event)
+parser: g9_regionals:parse_wl_grid
+parser_options:
+  de_games:
+  - - W1
+    - Lexington 1
+    - ASD 1
+    - Lexington 1
+  - - W1
+    - Phillips Exeter 2
+    - Sharon 1
+    - Phillips Exeter 2
+  - - W1
+    - Bedford 2
+    - Lexington 2
+    - Lexington 2
+  - - W1
+    - Lexington 3
+    - Phillips Exeter 1
+    - Phillips Exeter 1
+  - - L1
+    - ASD 1
+    - Sharon 1
+    - Sharon 1
+  - - L1
+    - Bedford 2
+    - Lexington 3
+    - Lexington 3
+  - - W2
+    - Lexington 1
+    - Phillips Exeter 2
+    - Lexington 1
+  - - W2
+    - Lexington 2
+    - Phillips Exeter 1
+    - Lexington 2
+  - - L2
+    - Phillips Exeter 1
+    - Sharon 1
+    - Phillips Exeter 1
+  - - L2
+    - Phillips Exeter 2
+    - Lexington 3
+    - Lexington 3
+  - - W3
+    - Lexington 1
+    - Lexington 2
+    - Lexington 1
+  - - L3
+    - Phillips Exeter 1
+    - Lexington 3
+    - Phillips Exeter 1
+  - - L4
+    - Lexington 2
+    - Phillips Exeter 1
+    - Phillips Exeter 1
+  - - Final
+    - Lexington 1
+    - Phillips Exeter 1
+    - Lexington 1
+status: partial
+notes: DOE NSB high-school regional for MA/NH/RI/VT, hosted by MIT. Round robin in 4 groups and an 8-team double elimination,
+  win/loss only (no scores were published); the bracket is transcribed from the 'Double Elim' tab. Lexington 1 beat Phillips
+  Exeter 1 in the final.

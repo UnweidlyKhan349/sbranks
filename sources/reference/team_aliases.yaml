@@ -406,6 +406,18 @@ composite:
 - zootopia
 - Zygoats
 overrides:
+  2020-01-25-nsb-regional-iowa::Liberty:
+    school: liberty-high-school-ia
+    letter: A
+  2020-01-25-nsb-regional-iowa::Nevada:
+    school: nevada-high-school-ia
+    letter: A
+  2020-01-25-nsb-regional-iowa::Regina:
+    school: regina-high-school-ia
+    letter: A
+  2020-01-25-nsb-regional-iowa::Valley:
+    school: valley-high-school-ia
+    letter: A
   2020-10-01-sbl::Ladue Blue:
     school: ladue-horton-watkins-high-school-mo
     letter: A
@@ -573,6 +585,9 @@ overrides:
     letter: A
   2026-01-18-texas-science-bowl::The Outliers:
     school: quail-valley-middle-school-tx
+    letter: A
+  2026-02-28-nsb-regional-connecticut::Univ HS Sci & Eng:
+    school: university-high-school-of-science-and-engineering-ct
     letter: A
   2026-03-01-johns-hopkins-science-bowl::Basis:
     school: basis-independent-mclean-va

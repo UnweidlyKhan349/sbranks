@@ -1,0 +1,243 @@
+# Hand transcription of bracket.pdf (Ames Lab 2020 HS Science Bowl double elimination);
+# each score is the one written beside the team in the slot feeding that match.
+games:
+- match: 1
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Hempstead
+  score1: 34
+  team2: Carroll
+  score2: 26
+- match: 2
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Johnston 2
+  score1: 18
+  team2: Pleasant Valley
+  score2: 120
+- match: 3
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Davenport North
+  score1: 30
+  team2: Cedar Falls
+  score2: 54
+- match: 4
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Liberty
+  score1: 48
+  team2: Regina
+  score2: 54
+- match: 5
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Nevada
+  score1: 20
+  team2: Earlham
+  score2: 8
+- match: 6
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Ames 1
+  score1: 146
+  team2: Dubuque Sr.
+  score2: 22
+- match: 7
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Des Moines Central
+  score1: 68
+  team2: Bettendorf
+  score2: 30
+- match: 8
+  round: W1
+  seq: 1
+  stage: playoff
+  team1: Valley
+  score1: 90
+  team2: West Delaware
+  score2: 4
+- match: 9
+  round: L1
+  seq: 2
+  stage: playoff
+  team1: Carroll
+  score1: 12
+  team2: Johnston 2
+  score2: 38
+- match: 10
+  round: L1
+  seq: 2
+  stage: playoff
+  team1: Davenport North
+  score1: 16
+  team2: Liberty
+  score2: 54
+- match: 11
+  round: L1
+  seq: 2
+  stage: playoff
+  team1: Earlham
+  score1: 16
+  team2: Dubuque Sr.
+  score2: 32
+- match: 12
+  round: L1
+  seq: 2
+  stage: playoff
+  team1: Bettendorf
+  score1: 32
+  team2: West Delaware
+  score2: 26
+- match: 13
+  round: W2
+  seq: 2
+  stage: playoff
+  team1: Hempstead
+  score1: 26
+  team2: Pleasant Valley
+  score2: 118
+- match: 14
+  round: W2
+  seq: 2
+  stage: playoff
+  team1: Cedar Falls
+  score1: 32
+  team2: Regina
+  score2: 28
+- match: 15
+  round: W2
+  seq: 2
+  stage: playoff
+  team1: Nevada
+  score1: 16
+  team2: Ames 1
+  score2: 156
+- match: 16
+  round: W2
+  seq: 2
+  stage: playoff
+  team1: Des Moines Central
+  score1: 28
+  team2: Valley
+  score2: 58
+- match: 17
+  round: L2
+  seq: 3
+  stage: playoff
+  team1: Nevada
+  score1: 30
+  team2: Johnston 2
+  score2: 46
+- match: 18
+  round: L2
+  seq: 3
+  stage: playoff
+  team1: Des Moines Central
+  score1: 34
+  team2: Liberty
+  score2: 20
+- match: 19
+  round: L2
+  seq: 3
+  stage: playoff
+  team1: Hempstead
+  score1: 24
+  team2: Dubuque Sr.
+  score2: 48
+- match: 20
+  round: L2
+  seq: 3
+  stage: playoff
+  team1: Regina
+  score1: 32
+  team2: Bettendorf
+  score2: 50
+- match: 21
+  round: W3
+  seq: 3
+  stage: playoff
+  team1: Pleasant Valley
+  score1: 160
+  team2: Cedar Falls
+  score2: 4
+- match: 22
+  round: W3
+  seq: 3
+  stage: playoff
+  team1: Ames 1
+  score1: 108
+  team2: Valley
+  score2: 22
+- match: 23
+  round: L3
+  seq: 4
+  stage: playoff
+  team1: Johnston 2
+  score1: 36
+  team2: Des Moines Central
+  score2: 44
+- match: 24
+  round: L3
+  seq: 4
+  stage: playoff
+  team1: Dubuque Sr.
+  score1: 30
+  team2: Bettendorf
+  score2: 20
+- match: 25
+  round: L4
+  seq: 5
+  stage: playoff
+  team1: Cedar Falls
+  score1: 30
+  team2: Des Moines Central
+  score2: 24
+- match: 26
+  round: L4
+  seq: 5
+  stage: playoff
+  team1: Valley
+  score1: 28
+  team2: Dubuque Sr.
+  score2: 8
+- match: 27
+  round: W4
+  seq: 5
+  stage: playoff
+  team1: Pleasant Valley
+  score1: 46
+  team2: Ames 1
+  score2: 104
+- match: 28
+  round: L5
+  seq: 6
+  stage: playoff
+  team1: Cedar Falls
+  score1: 20
+  team2: Valley
+  score2: 38
+- match: 29
+  round: L6
+  seq: 7
+  stage: playoff
+  team1: Pleasant Valley
+  score1: 94
+  team2: Valley
+  score2: 12
+- match: 30
+  round: Final
+  seq: 8
+  stage: playoff
+  team1: Ames 1
+  score1: 46
+  team2: Pleasant Valley
+  score2: 40
