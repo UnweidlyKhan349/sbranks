@@ -92,6 +92,7 @@ schools:
   - {id: crescent-valley-high-school-or, name: "Crescent Valley High School", short: "Crescent Valley", city: "Corvallis", state: OR, aliases: ["Crescent Valley High School"]}
   - {id: cupertino-high-school-ca, name: "Cupertino High School", short: "Cupertino", city: "Cupertino", state: CA, aliases: ["Cupertino"]}
   - {id: cypress-ranch-high-school-tx, name: "Cypress Ranch High School", short: "Cypress Ranch", city: "Cypress", state: TX, aliases: ["Cypress Ranch High School"]}
+  - {id: davidson-fine-arts-magnet-school-ga, name: "Davidson Fine Arts Magnet School", short: "Davidson Fine Arts", city: "Augusta", state: GA, aliases: ["Davidson Magnet", "Davidson Fine Arts"]}  # audit: unknown "Davidson Magnet" resolved; active SB school (3rd, 2025 Savannah River regional)
   - {id: deep-run-high-school-va, name: "Deep Run High School", short: "Deep Run", city: "Glen Allen", state: VA, aliases: ["Deep Run High School"]}
   - {id: diamond-bar-high-school-ca, name: "Diamond Bar High School", short: "Diamond Bar", city: "Diamond Bar", state: CA, aliases: ["Diamond Bar"]}
   - {id: doral-academy-charter-high-school-fl, name: "Doral Academy Charter High School", short: "Doral Academy", city: "Doral", state: FL, aliases: ["Doral Academy", "Doral Academy Charter High School"]}
@@ -109,7 +110,7 @@ schools:
   - {id: elkins-high-school-tx, name: "Elkins High School", short: "Elkins", city: "Missouri City", state: TX, aliases: ["Elkins"]}
   - {id: enloe-high-school-nc, name: "Enloe High School", short: "Enloe", city: "Raleigh", state: NC, aliases: ["Enloe High School"]}
   - {id: evergreen-middle-school-everett-wa, name: "Evergreen Middle School (Everett)", short: "Everett Evergreen MS", city: "Everett", state: WA, aliases: ["Everett Evergreen MS"]}
-  - {id: evergreen-middle-school-wa, name: "Evergreen Middle School", short: "Evergreen MS", city: "Redmond", state: WA, aliases: ["Evergreen"]}
+  - {id: evergreen-middle-school-wa, name: "Evergreen Middle School", short: "Evergreen MS", city: "Redmond", state: WA, aliases: ["Evergreen", "Redmond Evergreen MS"]}  # audit: was split from evergreen-middle-school-redmond-wa (same school; both rosters feed Eastlake HS)
   - {id: evergreen-valley-high-school-ca, name: "Evergreen Valley High School", short: "Evergreen Valley", city: "San Jose", state: CA, aliases: ["Evergreen Valley"]}
   - {id: fairchild-wheeler-interdistrict-magnet-campus-ct, name: "Fairchild Wheeler Interdistrict Magnet Campus", short: "Fairchild Wheeler", city: "Bridgeport", state: CT, aliases: ["Fairchild Wheeler"]}
   - {id: fairfield-warde-high-school-ct, name: "Fairfield Warde High School", short: "Fairfield Warde", city: "Fairfield", state: CT, aliases: ["Fairfield Warde High School"]}
@@ -411,7 +412,6 @@ unknown:
   - {base: "Coronado", why: "Coronado HS exists in NV/CA/TX/CO; no players"}
   - {base: "Country Day", why: "\"Country Day\" — many Country Day schools (possibly Sacramento Country Day); no players"}
   - {base: "Crestview Middle", why: "Crestview Middle School exists in several states; first names only"}
-  - {base: "Davidson Magnet", why: "Davidson Magnet (possibly Davidson Fine Arts Magnet, Augusta GA) — no evidence"}
   - {base: "Del Norte", why: "Del Norte HS exists in San Diego, Albuquerque and Crescent City; no school evidence"}
   - {base: "Easthill", why: "unrecognized name, no players"}
   - {base: "EHS", why: "ambiguous abbreviation at MIT 2022 (possibly Enloe HS) — no roster"}

@@ -645,6 +645,14 @@
   state: TX
   aliases:
   - Cypress Ranch High School
+- id: davidson-fine-arts-magnet-school-ga
+  name: Davidson Fine Arts Magnet School
+  short: Davidson Fine Arts
+  city: Augusta
+  state: GA
+  aliases:
+  - Davidson Magnet
+  - Davidson Fine Arts
 - id: deep-run-high-school-va
   name: Deep Run High School
   short: Deep Run
@@ -767,13 +775,6 @@
   state: WA
   aliases:
   - Everett Evergreen MS
-- id: evergreen-middle-school-redmond-wa
-  name: Evergreen Middle School (Redmond)
-  short: Evergreen MS (Redmond)
-  city: Redmond
-  state: WA
-  aliases:
-  - Redmond Evergreen MS
 - id: evergreen-middle-school-wa
   name: Evergreen Middle School
   short: Evergreen MS
@@ -781,6 +782,7 @@
   state: WA
   aliases:
   - Evergreen
+  - Redmond Evergreen MS
 - id: evergreen-valley-high-school-ca
   name: Evergreen Valley High School
   short: Evergreen Valley
@@ -1438,6 +1440,13 @@
   state: KY
   aliases:
   - McCracken County High School
+- id: middlesex-county-academy-for-science-mathematics-and-engineering-technologies-nj
+  name: Middlesex County Academy for Science, Mathematics and Engineering Technologies
+  short: Middlesex County Academy
+  city: Edison
+  state: NJ
+  aliases:
+  - Middlesex County Academy
 - id: middleton-high-school-wi
   name: Middleton High School
   short: Middleton
@@ -1950,6 +1959,14 @@
   state: MO
   aliases:
   - Rock Bridge
+- id: rockdale-magnet-school-for-science-and-technology-ga
+  name: Rockdale Magnet School for Science and Technology
+  short: Rockdale Magnet
+  city: Conyers
+  state: GA
+  aliases:
+  - RMSST
+  - Rockdale Magnet
 - id: round-rock-high-school-tx
   name: Round Rock High School
   short: Round Rock
@@ -2402,6 +2419,13 @@
   aliases:
   - Venice
   - Venice HS
+- id: vista-del-lago-high-school-ca
+  name: Vista del Lago High School
+  short: Vista del Lago
+  city: Folsom
+  state: CA
+  aliases:
+  - Vista del Lago
 - id: wakeland-high-school-tx
   name: Wakeland High School
   short: Wakeland

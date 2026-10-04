@@ -422,6 +422,9 @@ overrides:
   2023-02-05-ignis-virtual-east::Liberty B:
     school: liberty-middle-school-al
     letter: B
+  2023-02-05-ignis-virtual-east::MCA:
+    school: middlesex-county-academy-for-science-mathematics-and-engineering-technologies-nj
+    letter: A
   2023-04-02-olympus::Troy:
     school: troy-high-school-fullerton-ca
     letter: A

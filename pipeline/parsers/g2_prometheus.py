@@ -127,7 +127,7 @@ def parse(t: Tournament, w: TournamentWriter, aliases: dict[str, str] | None = N
         display[pid] = pname
         w.player_stat(pname, team, "overall", scope="rr", gp=tot.num(r, c["GP"]),
                       tuh=tot.num(r, c["TUH"]), correct=tot.num(r, c["TU"]),
-                      zeros=tot.num(r, c["X"]), negs=tot.num(r, c["Neg"]),
+                      zeros=_zeros(tot.num(r, c["X"]), tot.num(r, c["Neg"])), negs=tot.num(r, c["Neg"]),
                       points=tot.num(r, c["Points"]))
     for tab, subj in SUBJECT_TABS.items():
         g = st[tab]
@@ -146,7 +146,14 @@ def parse(t: Tournament, w: TournamentWriter, aliases: dict[str, str] | None = N
             # not tossups heard in that category, so it is not used for subject rows
             w.player_stat(pname, alias(g.text(r, sc["Team Name"]), aliases), subj, scope="rr",
                           gp=g.num(r, sc["GP"]), tuh=None,
-                          correct=g.num(r, sc["TU"]), zeros=g.num(r, sc["X"]),
+                          correct=g.num(r, sc["TU"]), zeros=_zeros(g.num(r, sc["X"]), g.num(r, sc["Neg"])),
                           negs=g.num(r, sc["Neg"]), points=g.num(r, sc["Points"]))
     if names:
         w.warn(f"info: {n_full} of {len(display)} players named via Google-account lookup")
+
+
+def _zeros(x: float | None, neg: float | None) -> float | None:
+    """The sheets' X column counts every incorrect buzz (#Buzz = TU + X), negs included."""
+    if x is None:
+        return None
+    return x - (neg or 0)

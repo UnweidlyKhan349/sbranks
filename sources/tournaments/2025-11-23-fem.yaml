@@ -23,6 +23,9 @@ parser_options:
   aliases:
     Aracadia 1: Arcadia High School 1
     WWPS: WWPS 1
+stats_rate_basis:
+  overall: 20
+  subject: 4
 status: parsed
 notes: '47 teams in 8 pools plus the 30-game DE (School of Geology champion; the last two games have no scores in the sheet).
   Player stats are rates only: overall ppg holds PP20TUH and subject ppg holds PP4TUH (bio/chem/phys/math/ess; no energy),

@@ -172,10 +172,12 @@ schools:
   - {id: walter-reed-middle-school-ca, name: Walter Reed Middle School, short: Walter Reed MS, city: Los Angeles, state: CA, aliases: [Walter Reed]}
   - {id: waynflete-school-me, name: Waynflete School, short: Waynflete, city: Portland, state: ME, aliases: [Waynflete]}
   - {id: wisconsin-hills-middle-school-wi, name: Wisconsin Hills Middle School, short: Wisconsin Hills MS, city: Brookfield, state: WI, aliases: [Wisconsin Hills]}
-  - {id: evergreen-middle-school-redmond-wa, name: Evergreen Middle School (Redmond), short: Evergreen MS (Redmond), city: Redmond, state: WA, aliases: [Redmond Evergreen MS]}
   - {id: martin-luther-king-high-school-ca, name: Martin Luther King High School, short: MLK, city: Riverside, state: CA, aliases: [MLK, Martin Luther King High School, Martin Luther King Jr, Martin Luther King]}
   - {id: university-high-school-of-science-and-engineering-ct, name: University High School of Science and Engineering, short: UHSSE, city: Hartford, state: CT, aliases: []}
   - {id: lakeside-high-school-evans-ga, name: Lakeside High School (Evans), short: Lakeside (GA), city: Evans, state: GA, aliases: []}
+  - {id: vista-del-lago-high-school-ca, name: Vista del Lago High School, short: Vista del Lago, city: Folsom, state: CA, aliases: [Vista del Lago]}  # audit: roster (Kavin A, Pushkal M, Satvik C) = Folsom City SB Club players
+  - {id: rockdale-magnet-school-for-science-and-technology-ga, name: Rockdale Magnet School for Science and Technology, short: Rockdale Magnet, city: Conyers, state: GA, aliases: [RMSST, Rockdale Magnet]}  # audit: RMSST is this school's standard abbreviation
+  - {id: middlesex-county-academy-for-science-mathematics-and-engineering-technologies-nj, name: "Middlesex County Academy for Science, Mathematics and Engineering Technologies", short: Middlesex County Academy, city: Edison, state: NJ, aliases: [Middlesex County Academy]}  # audit: Ignis 2023 "MCA" roster = Edison players (JP Stevens / Edison overlap)
   - {id: miramonte-high-school-ca, name: Miramonte High School, short: Miramonte, city: Orinda, state: CA, aliases: [Miramonte]}
 composite:
   - {name: law-abiding citizens, school: null}
@@ -308,6 +310,7 @@ composite:
 overrides:
   Lakeside High School: {school: lakeside-high-school-evans-ga, letter: A}
   '2021-02-20-csbl::University': {school: university-high-school-of-science-and-engineering-ct, letter: A}
+  '2023-02-05-ignis-virtual-east::MCA': {school: middlesex-county-academy-for-science-mathematics-and-engineering-technologies-nj, letter: A}
   '2021-01-24-wisc::Winston Churchill': {school: winston-churchill-middle-school-ca, letter: A}
   '2020-11-06-mit-science-bowl::LHS': {school: lexington-high-school-ma, letter: A}
   '2025-04-13-tjsbt::Princeton': {composite: true, school: princeton-international-school-of-mathematics-and-science-nj}
@@ -368,11 +371,9 @@ unknown:
   - {base: Science Academy, why: 'MIT 2020 / NSI 2023, no players; generic name'}
   - {base: Waterford, why: 'MIT Invitational 2025, no players; Waterford HS (CT) vs Waterford School (UT) vs Waterford (MI)'}
   - {base: Portsmouth, why: 'MIT 2024, no players; Portsmouth HS exists in NH and RI'}
-  - {base: MCA, why: 'Ignis Virtual East 2023; ambiguous abbreviation (Middlesex County Academy NJ?)'}
   - {base: MCVTS, why: SMH Rookie 2023; Middlesex County vocational district has several academies}
   - {base: TMSA, why: 'ambiguous abbreviation, online-only (isobowl rise / Hawaii online)'}
   - {base: TSA, why: '''TSA A/B'' (Prometheus 2022); ambiguous abbreviation, Lexington-area players'}
-  - {base: RMSST, why: '''RMSST A/B'' (SBL 2020); unknown abbreviation'}
   - {base: WM ScioBowl, why: 'MIT 2020; unknown ''WM'' school (Ward Melville? William & Mary?)'}
   - {base: MCTM Intl, why: Prometheus 2022; unknown abbreviation}
   - {base: Mengs, why: 'Brooklyn Tech Inv 2024, registered school ''Blake'' (Blake School MN vs Blake HS MD)'}
@@ -380,7 +381,6 @@ unknown:
   - {base: Maui, why: 'Prometheus 2022, first names only; Maui HS or a pickup'}
   - {base: Peter, why: bare first name (DASONI 2022)}
   - {base: South County MS, why: DBHSST 2021; several South County middle schools}
-  - {base: Vista del Lago, why: online only; Vista del Lago HS Folsom vs Moreno Valley}
   - {base: St. Mark's, why: NWI 2024; St. Mark's School of Texas vs St. Mark's School (MA)}
   - {base: Millhill, why: 'DAST 2021, no players; unknown'}
   - {base: McLean, why: 'NWI 2024 / MNSBT 2024, no players; McLean HS (VA) vs BASIS Independent McLean'}
