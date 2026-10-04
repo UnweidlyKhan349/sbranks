@@ -104,22 +104,51 @@ async function route() {
 
 // ------------------------------------------------------------------ theme toggle
 const THEME_KEY = "sbranks-theme";
+const reduceMotion = () => window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 function getTheme() {
-  try { return localStorage.getItem(THEME_KEY) || "system"; } catch { return "system"; }
+  return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
 }
-function setTheme(t) {
-  try { if (t === "system") localStorage.removeItem(THEME_KEY); else localStorage.setItem(THEME_KEY, t); } catch { /* ignore */ }
-  if (t === "system") document.documentElement.removeAttribute("data-theme");
-  else document.documentElement.setAttribute("data-theme", t);
-  renderThemeToggle();
+function applyTheme(t) {
+  document.documentElement.setAttribute("data-theme", t);
+  // update the existing button in place so its icon swap animates
+  const btn = document.querySelector("#theme-toggle .theme-btn");
+  if (!btn) return renderThemeToggle();
+  const label = `Switch to ${t === "dark" ? "light" : "dark"} theme`;
+  btn.className = `theme-btn is-${t}`;
+  btn.setAttribute("aria-label", label);
+  btn.title = label;
+}
+function setTheme(t, btn) {
+  try { localStorage.setItem(THEME_KEY, t); } catch { /* ignore */ }
+  if (reduceMotion()) { applyTheme(t); return; }
+  if (document.startViewTransition) {
+    // circular reveal of the new theme, growing from the toggle button
+    const r = btn ? btn.getBoundingClientRect() : { left: innerWidth, top: 0, width: 0, height: 0 };
+    const x = r.left + r.width / 2, y = r.top + r.height / 2;
+    const radius = Math.hypot(Math.max(x, innerWidth - x), Math.max(y, innerHeight - y));
+    const vt = document.startViewTransition(() => applyTheme(t));
+    vt.ready.then(() => {
+      document.documentElement.animate(
+        { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${radius}px at ${x}px ${y}px)`] },
+        { duration: 500, easing: "cubic-bezier(.4, 0, .2, 1)", pseudoElement: "::view-transition-new(root)" });
+    }).catch(() => {});
+    return;
+  }
+  // fallback: cross-fade colors
+  const root = document.documentElement;
+  root.classList.add("theme-anim");
+  applyTheme(t);
+  setTimeout(() => root.classList.remove("theme-anim"), 450);
 }
 function renderThemeToggle() {
   const el = document.getElementById("theme-toggle");
   const cur = getTheme();
+  const next = cur === "dark" ? "light" : "dark";
+  const label = `Switch to ${next} theme`;
   clear(el);
-  for (const [key, ic, label] of [["system", "monitor", "System theme"], ["light", "sun", "Light theme"], ["dark", "moon", "Dark theme"]]) {
-    el.appendChild(h("button", { type: "button", "aria-pressed": String(cur === key), "aria-label": label, title: label, onclick: () => setTheme(key) }, icon(ic)));
-  }
+  const btn = h("button", { type: "button", class: `theme-btn is-${cur}`, "aria-label": label, title: label, onclick: () => setTheme(getTheme() === "dark" ? "light" : "dark", btn) },
+    h("span", { class: "ti ti-sun", "aria-hidden": "true" }, icon("sun")), h("span", { class: "ti ti-moon", "aria-hidden": "true" }, icon("moon")));
+  el.appendChild(btn);
 }
 
 // ------------------------------------------------------------------ global search

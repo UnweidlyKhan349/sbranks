@@ -9,12 +9,12 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232a78d6'/%3E%3Cpath d='M8 23 L14 15 L18 19 L24 9' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="css/style.css">
 <script>
-  // Apply the saved theme before first paint (system | light | dark).
+  // Apply the theme before first paint: the saved choice (light | dark), else the device's.
   (function () {
-    try {
-      var t = localStorage.getItem("sbranks-theme");
-      if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
-    } catch (e) { /* storage unavailable: follow the system */ }
+    var t = null;
+    try { t = localStorage.getItem("sbranks-theme"); } catch (e) { /* storage unavailable */ }
+    if (t !== "light" && t !== "dark") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", t);
   })();
 </script>
 <script type="module" src="js/app.js"></script>
@@ -37,7 +37,7 @@
     </nav>
     <div class="header-tools">
       <div class="search" id="global-search"></div>
-      <div class="theme-toggle" role="group" aria-label="Color theme" id="theme-toggle"></div>
+      <div class="theme-toggle" id="theme-toggle"></div>
     </div>
   </div>
 </header>
