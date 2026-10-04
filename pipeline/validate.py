@@ -43,10 +43,12 @@ def validate_tournament(tid: str) -> list[str]:
     # The same pairing twice in one round is almost always a parsing error.
     pair_round = Counter((g["stage"], g["round"], frozenset((g["team1"], g["team2"]))) for g in games)
     for (stage, rnd, pair), n in pair_round.items():
-        if n > 1 and rnd:
+        if n > 1 and any(ch.isdigit() for ch in rnd):
             problems.append(f"pairing {sorted(pair)} appears {n}x in {stage} round {rnd}")
     # Each team should play at most once per round.
-    team_round = Counter((g["stage"], g["round"], t) for g in games if g["round"] for t in (g["team1"], g["team2"]))
+    # (round labels without a digit are group names, e.g. an NSB division, not a single round)
+    team_round = Counter((g["stage"], g["round"], t) for g in games
+                         if any(ch.isdigit() for ch in g["round"]) for t in (g["team1"], g["team2"]))
     for (stage, rnd, team), n in team_round.items():
         if n > 1:
             problems.append(f"{team!r} plays {n}x in {stage} round {rnd}")
@@ -66,9 +68,10 @@ def validate_tournament(tid: str) -> list[str]:
     for k, n in keys.items():
         if n > 1:
             problems.append(f"duplicate player stat row {k}")
+    noted = {r["team"] for r in d["teams"] if r.get("notes")}
     for t in teams:
-        if games and played[t] == 0 and not any(r["team"] == t for r in d["player_stats"]):
-            problems.append(f"team {t!r} has no games and no player stats")
+        if games and played[t] == 0 and t not in noted and not any(r["team"] == t for r in d["player_stats"]):
+            problems.append(f"team {t!r} has no games, no player stats and no note explaining why")
     return problems
 
 

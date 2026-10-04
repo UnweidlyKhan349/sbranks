@@ -30,7 +30,8 @@ characters as long as JS iterates code points with `for...of`.)
 
 ## `teams.json` — one row per team entry (school + letter, or a composite/pickup team)
 ```
-{ id, name, school, school_name, state, composite, letter,
+{ id, name, school, school_name, state, composite, letter, affiliate (composite teams: school id their
+  players mostly come from, else null),
   r, rd,                 // Glicko-2 rating and deviation (null if the team never played a rated game)
   rank,                  // rank among ranked teams (rd <= ranked_rd and active), else null
   rank_all,              // rank among all rated teams
@@ -58,7 +59,8 @@ stats (single-subject events excluded); `null` when the team has no subject stat
 
 ## `schools.json`
 ```
-{ id, name, short, city, state, curated, composite, teams: [team ids], best, nsb: [{year, finish}] }
+{ id, name, short, city, state, curated, composite, affiliate, teams: [team ids], pickup_teams: [composite team ids
+  whose players mostly come from this school], best, nsb: [{year, finish}] }
 ```
 
 ## `players.json`

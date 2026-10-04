@@ -201,6 +201,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
         row = {
             "id": tm, "name": info["name"], "school": info["school_id"], "school_name": sch["name"], "state": sch["state"],
             "composite": info["composite"], "letter": info["letter"],
+            "affiliate": sch.get("affiliate"),
             "r": _r(s.r) if s else None, "rd": _r(s.rd) if s else None,
             "rank": team_rank.get(tm), "rank_all": team_rank_all.get(tm) if s else None,
             "g": s.games if s else 0, "w": s.wins if s else 0, "l": s.losses if s else 0, "t": s.ties if s else 0,
@@ -228,13 +229,18 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     nsb = _load_ref("nsb_finishes.yaml") or {}
     nsb_by_school = _nsb_by_school(nsb, res)
     teams_by_school: dict[str, list[str]] = defaultdict(list)
+    affiliated: dict[str, list[str]] = defaultdict(list)
     for tm, info in teams.items():
         teams_by_school[info["school_id"]].append(tm)
+        aff = schools[info["school_id"]].get("affiliate")
+        if aff:
+            affiliated[aff].append(tm)
     schools_out = []
     for sid, sch in schools.items():
         tms = sorted(teams_by_school[sid])
         rated = [st[t].r for t in tms if t in st]
-        schools_out.append({**sch, "teams": tms, "best": _r(max(rated)) if rated else None,
+        schools_out.append({**sch, "teams": tms, "pickup_teams": sorted(affiliated.get(sid, [])),
+                            "best": _r(max(rated)) if rated else None,
                             "nsb": nsb_by_school.get(sid, [])})
     schools_out.sort(key=lambda x: (x["best"] is None, -(x["best"] or 0)))
     _write("schools.json", schools_out)
