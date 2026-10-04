@@ -58,8 +58,8 @@ export async function render(ctx) {
     tip: (x) => {
       const p = byX.get(x);
       return { title: tname(p.tid), sub: fmt.date(p.date), rows: [
-        { color: "var(--s1)", value: `${fmt.r(p.y)} ±${Math.round(p.rd)}`, label: "rating after" },
-        { value: fmt.signed(p.delta), label: "change" }] };
+        { color: "var(--s1)", value: `${fmt.r(p.y)} ±${Math.round(p.rd)}` },
+        { value: fmt.signed(p.delta) }] };
     },
     table: {
       columns: [
