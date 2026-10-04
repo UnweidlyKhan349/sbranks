@@ -33,14 +33,16 @@ characters as long as JS iterates code points with `for...of`.)
 { id, name, school, school_name, state, composite, letter, affiliate (composite teams: school id their
   players mostly come from, else null),
   r, rd,                 // Glicko-2 rating and deviation (null if the team never played a rated game)
-  rank,                  // rank among ranked teams (rd <= ranked_rd and active), else null
+  rank,                  // rank among ranked school teams (rd <= ranked_rd and active), else null;
+                         //   always null for pickup/composite teams, which the site hides by default
+  rank_open,             // rank among all ranked teams, pickup/composite teams included
   rank_all,              // rank among all rated teams
   g, w, l, t,            // rated games and record
   first, last,           // first/last tournament date
   seasons: [..], n_t,    // seasons played, number of tournaments
   peak,                  // highest post-tournament rating
   trend: [r, ...],       // last 12 post-tournament ratings (for sparklines)
-  subj: { <subject>: {r, se, rank, n} } }   // Elo-scaled subject ratings (n = effective tossups heard)
+  subj: { <subject>: {r, se, rank, rank_open, n} } }   // Elo-scaled subject ratings (n = effective tossups heard)
 ```
 Sorted by `r` descending (ties in the rounded `r` keep the unrounded order, so `rank` increases).
 

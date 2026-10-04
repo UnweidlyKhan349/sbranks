@@ -17,7 +17,9 @@ export async function render(ctx) {
   ctx.setTitle(t.name);
   const aff = t.affiliate ? S.byId.get(t.affiliate) || { id: t.affiliate, name: t.affiliate } : null;
   const root = h("div");
-  const nRanked = T.list.filter((x) => x.rank != null).length;
+  // school teams are ranked among school teams; pickup teams among all teams (rank_open)
+  const rk = t.composite ? "rank_open" : "rank";
+  const nRanked = T.list.filter((x) => x[rk] != null).length;
   const active = isActive(t.last, m);
 
   root.appendChild(pageHead({
@@ -38,8 +40,8 @@ export async function render(ctx) {
   const subjBest = SUBJECTS.map((x) => ({ k: x.key, v: t.subj[x.key] })).filter((x) => x.v && x.v.r != null && x.v.n >= 8).sort((a, b) => b.v.r - a.v.r)[0];
   root.appendChild(h("div", { class: "tiles" },
     tile("Rating", t.r != null ? [fmt.r(t.r), h("span", { class: "pm" }, fmt.pm(t.rd))] : "Unrated", t.r != null ? "Glicko-2 ± deviation" : "No rated games yet"),
-    tile("Rank", t.rank != null ? `#${t.rank}` : "Unranked",
-      t.rank != null ? `of ${fmt.int(nRanked)} ranked teams` : t.r == null ? "–" : !active ? "Inactive" : `Provisional (± above ${m.thresholds.ranked_rd})`),
+    tile("Rank", t[rk] != null ? `#${t[rk]}` : "Unranked",
+      t[rk] != null ? `of ${fmt.int(nRanked)} ranked teams${t.composite ? " incl. pickup teams" : ""}` : t.r == null ? "–" : !active ? "Inactive" : `Provisional (± above ${m.thresholds.ranked_rd})`),
     tile("Record", t.g ? fmt.record(t.w, t.l, t.t) : "–", `${fmt.plural(t.g, "rated game")}`),
     tile("Peak rating", fmt.r(t.peak), t.peak != null ? "after a tournament" : null),
     tile("Tournaments", fmt.int(t.n_t), t.seasons.length > 1 ? `in ${t.seasons.length} seasons` : t.seasons[0] || null),
@@ -73,7 +75,7 @@ export async function render(ctx) {
   const minN = m.thresholds.player_min_tuh;
   const cats = SUBJECTS.map((x) => {
     const v = t.subj[x.key];
-    return { key: x.key, label: x.label, sub: v ? (v.rank ? `rank ${v.rank}` : fmt.plural(v.n, "tossup")) : null };
+    return { key: x.key, label: x.label, sub: v ? (v[rk] ? `rank ${v[rk]}` : fmt.plural(v.n, "tossup")) : null };
   });
   const vals = {};
   for (const x of SUBJECTS) {
@@ -86,7 +88,7 @@ export async function render(ctx) {
       const v = t.subj[c.key];
       return v ? { title: c.label, rows: [
         { color: "var(--s1)", kind: "rect", value: `${fmt.r(v.r)} ±${Math.round(v.se)}`, label: v.n < (minN[c.key] || 25) ? "provisional" : "rating" },
-        { value: v.rank ? `#${v.rank}` : "unranked", label: "rank" },
+        { value: v[rk] ? `#${v[rk]}` : "unranked", label: "rank" },
         { value: fmt.int(v.n), label: "effective tossups heard" }] } : { title: c.label, rows: [{ value: "no data" }] };
     },
     table: {
@@ -94,7 +96,7 @@ export async function render(ctx) {
         { key: "s", label: "Subject", render: (r) => r.label },
         { key: "r", label: "Rating", num: true, render: (r) => (r.v ? fmt.r(r.v.r) : "–") },
         { key: "se", label: "±", num: true, render: (r) => (r.v ? Math.round(r.v.se) : "–") },
-        { key: "rank", label: "Rank", num: true, render: (r) => (r.v && r.v.rank ? r.v.rank : "–") },
+        { key: "rank", label: "Rank", num: true, render: (r) => (r.v && r.v[rk] ? r.v[rk] : "–") },
         { key: "n", label: "Tossups", num: true, render: (r) => (r.v ? r.v.n : "–") },
       ], rows: SUBJECTS.map((x) => ({ label: x.label, v: t.subj[x.key] })),
     },

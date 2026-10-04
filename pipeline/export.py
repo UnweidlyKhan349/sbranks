@@ -176,13 +176,19 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
         seasons_by_team[tm].add(tourns[e["tournament_id"]].season)
     active_cut = (snapshot - dt.timedelta(days=ACTIVE_DAYS)).isoformat()
     ranked_teams = [(tm, s.r) for tm, s in st.items() if s.rd <= RANKED_RD and last_by_team.get(tm, "") >= active_cut]
-    team_rank = _rank(ranked_teams)
+    # `rank` counts school teams only (pickup/composite teams are hidden by default on the site);
+    # `rank_open` counts every ranked team
+    is_comp = {tm: teams[tm]["composite"] for tm in teams}
+    team_rank = _rank([x for x in ranked_teams if not is_comp.get(x[0])])
+    team_rank_open = _rank(ranked_teams)
     team_rank_all = _rank([(tm, s.r) for tm, s in st.items()])
-    subj_rank = {}
+    subj_rank, subj_rank_open = {}, {}
     for subj, m in team_models.items():
         ents = m["entities"]
-        subj_rank[subj] = _rank([(e, v["rating"]) for e, v in ents.items()
-                                 if v["eff_weight"] >= PLAYER_MIN_WEIGHT[subj] and _date(v["last_day"]) >= active_cut])
+        ok = [(e, v["rating"]) for e, v in ents.items()
+              if v["eff_weight"] >= PLAYER_MIN_WEIGHT[subj] and _date(v["last_day"]) >= active_cut]
+        subj_rank[subj] = _rank([x for x in ok if not is_comp.get(x[0])])
+        subj_rank_open[subj] = _rank(ok)
     teams_out = []
     team_details: dict[int, dict[str, Any]] = defaultdict(dict)
     hist = gres["history"]
@@ -206,14 +212,15 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
         for sj, m in team_models.items():
             v = m["entities"].get(tm)
             if v:
-                subj[sj] = {"r": _r(v["rating"]), "se": _r(v["se"]), "rank": subj_rank[sj].get(tm), "n": round(v["eff_weight"])}
+                subj[sj] = {"r": _r(v["rating"]), "se": _r(v["se"]), "rank": subj_rank[sj].get(tm),
+                           "rank_open": subj_rank_open[sj].get(tm), "n": round(v["eff_weight"])}
         sch = schools[info["school_id"]]
         row = {
             "id": tm, "name": info["name"], "school": info["school_id"], "school_name": sch["name"], "state": sch["state"],
             "composite": info["composite"], "letter": info["letter"],
             "affiliate": sch.get("affiliate"),
             "r": _r(s.r) if s else None, "rd": _r(s.rd) if s else None,
-            "rank": team_rank.get(tm), "rank_all": team_rank_all.get(tm) if s else None,
+            "rank": team_rank.get(tm), "rank_open": team_rank_open.get(tm), "rank_all": team_rank_all.get(tm) if s else None,
             "g": s.games if s else 0, "w": s.wins if s else 0, "l": s.losses if s else 0, "t": s.ties if s else 0,
             "first": first_by_team.get(tm), "last": last_by_team.get(tm), "seasons": sorted(seasons_by_team[tm]),
             "n_t": len(team_tourn_summary[tm]), "peak": _r(max((x["r"] for x in h), default=None)),
@@ -321,7 +328,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             "history": {sj: [{"d": _date(x["day"]), "r": x["rating"], "se": x["se"]} for x in m["history"].get(pid, [])]
                         for sj, m in pm.items() if m["history"].get(pid)},
             "stats": sorted(stats.values(), key=lambda x: x["d"]),
-            "teammates": [b for b, _ in teammates[pid].most_common(12)],
+            "teammates": [b for b, _ in sorted(teammates[pid].items(), key=lambda kv: (-kv[1], kv[0]))[:12]],
         }
     raw_overall = pm["overall"]["entities"]
     players_out.sort(key=lambda x: (x["r"] is None, -(x["r"] or 0),

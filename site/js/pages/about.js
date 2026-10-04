@@ -55,7 +55,7 @@ export async function render(ctx) {
     h("h2", null, "Ranked, provisional and active"),
     h("ul", null,
       li(h("strong", null, "Active: "), `played within ${m.thresholds.active_days} days of the latest tournament in the data (${fmt.date(m.snapshot)}).`),
-      li(h("strong", null, "Ranked teams: "), `active, with a rating deviation of ${m.thresholds.ranked_rd} or less. Everyone else is shown as provisional (faded rows, “prov” tags) and has no rank number.`),
+      li(h("strong", null, "Ranked teams: "), `active, with a rating deviation of ${m.thresholds.ranked_rd} or less. Everyone else is shown as provisional (faded rows, “prov” tags) and has no rank number. Pickup and composite teams are rated but hidden from the leaderboard by default; ranks count school teams only unless you include them.`),
       li(h("strong", null, "Ranked players: "), `active, with at least ${m.thresholds.player_min_tuh.overall} effective tossups heard overall (${m.thresholds.player_min_tuh.math} per subject for subject rankings) across at least ${m.thresholds.player_min_tournaments ?? 2} tournaments, so one hot weekend is not enough to top the list.`),
       li("Faded bars in subject charts mark provisional subject ratings.")),
 

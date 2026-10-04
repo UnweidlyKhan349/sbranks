@@ -197,13 +197,14 @@ for (const [width, theme] of [[1280, "light"], [375, "light"], [375, "dark"]]) {
   await settle(page);
   if (!(await page.locator("main .page-head .badge", { hasText: /pickup/i }).count())) fail("composite team page shows no pickup badge");
   await page.screenshot({ path: join(outDir, "team-composite-1280.png"), fullPage: false });
+  // pickup teams are hidden by default; ticking the box shows them
   await page.goto(base + `#/teams?ranked=0&active=0&q=${enc(target.name)}`);
   await settle(page);
-  const before = await page.locator("main tbody tr").count();
+  const before = await page.locator("main tbody tr a", { hasText: target.name }).count();
   await page.click("label:has-text('Include pickup/composite teams') input");
   await page.waitForTimeout(200);
   const after = await page.locator("main tbody tr a", { hasText: target.name }).count();
-  if (!(before > 0 && after === 0)) fail(`pickup filter did not hide the composite team (before ${before}, after ${after})`);
+  if (!(before === 0 && after > 0)) fail(`pickup teams not hidden by default / not shown when included (before ${before}, after ${after})`);
   await ctx.close();
 }
 

@@ -57,7 +57,7 @@ export async function render(ctx) {
   if (pickups.length) {
     root.appendChild(section("Pickup teams with this school's players", "Online pickup and composite teams whose players mostly come from this school; their games count for those teams, not for the school's own entries", dataTable([
       { key: "name", label: "Team", cls: "name", sort: (t) => t.name, render: (t) => teamA(T, t.id, { pickup: false }) },
-      { key: "r", label: "Rating", num: true, sort: (t) => t.r, render: (t) => ratingCell(t.r, t.rd, { provisional: t.r != null && t.rank == null }) },
+      { key: "r", label: "Rating", num: true, sort: (t) => t.r, render: (t) => ratingCell(t.r, t.rd, { provisional: t.r != null && t.rank_open == null }) },
       { key: "rec", label: "W–L–T", num: true, sort: (t) => (t.g ? (t.w + 0.5 * t.t) / t.g : null), render: (t) => (t.g ? fmt.record(t.w, t.l, t.t) : "–") },
       { key: "n_t", label: "Tournaments", num: true, sort: (t) => t.n_t, render: (t) => t.n_t },
       { key: "last", label: "Last played", sort: (t) => t.last, defaultDir: "desc", render: (t) => h("span", { class: "nowrap" }, fmt.date(t.last)) },

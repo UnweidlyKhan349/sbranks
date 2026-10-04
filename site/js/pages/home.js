@@ -23,7 +23,8 @@ export async function render(ctx) {
   // ---- top teams / top players
   // ranked first; if fewer than 10 are ranked yet, fill with the best provisional ratings (marked)
   const fill = (list, ranked) => [...ranked, ...list.filter((x) => x.r != null && x.rank == null)].slice(0, 10);
-  const topTeamsFallback = fill(T.list, T.list.filter((t) => t.rank != null).sort((a, b) => a.rank - b.rank));
+  const schoolTeams = T.list.filter((t) => !t.composite); // pickup teams are hidden by default
+  const topTeamsFallback = fill(schoolTeams, schoolTeams.filter((t) => t.rank != null).sort((a, b) => a.rank - b.rank));
   const teamTable = dataTable([
     { key: "rank", label: "#", num: true, cls: "rank", render: (t) => t.rank ?? "–" },
     { key: "name", label: "Team", cls: "name", render: (t) => teamCell(T, t.id) },
@@ -46,7 +47,7 @@ export async function render(ctx) {
   // ---- subject leaders
   const leaders = SUBJECTS.map((sj) => {
     const p = P.list.find((x) => x.subj[sj.key] && x.subj[sj.key].rank === 1);
-    const t = T.list.find((x) => x.subj[sj.key] && x.subj[sj.key].rank === 1);
+    const t = schoolTeams.find((x) => x.subj[sj.key] && x.subj[sj.key].rank === 1);
     return h("div", { class: "card leader-card" },
       h("div", { class: "lc-head" }, h("span", { class: "swatch", style: { background: subjColor(sj.key) }, "aria-hidden": "true" }), sj.label),
       p ? h("div", { class: "lc-name" }, playerA(P, p.id)) : h("div", { class: "lc-name muted" }, "No ranked player"),

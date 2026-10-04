@@ -121,7 +121,7 @@ export async function render(ctx) {
     out.appendChild(section("Subject ratings", "Elo-scaled, 1500 = average; faded bars are provisional", h("div", { class: "card" }, subjectChart(A, B, `Subject ratings: ${A.name} vs ${B.name}`))));
     out.appendChild(section("At a glance", null, statTable([
       ["Rating", A.r != null ? `${fmt.r(A.r)} ±${Math.round(A.rd)}` : "unrated", B.r != null ? `${fmt.r(B.r)} ±${Math.round(B.rd)}` : "unrated"],
-      ["Rank", A.rank ? `#${A.rank}` : "unranked", B.rank ? `#${B.rank}` : "unranked"],
+      ["Rank", teamRank(A), teamRank(B)],
       ["Record", A.g ? fmt.record(A.w, A.l, A.t) : "–", B.g ? fmt.record(B.w, B.l, B.t) : "–"],
       ["Peak", fmt.r(A.peak), fmt.r(B.peak)],
       ["School", A.composite ? "Pickup team" : schoolA(A.school, A.school_name), B.composite ? "Pickup team" : schoolA(B.school, B.school_name)],
@@ -141,6 +141,11 @@ export async function render(ctx) {
         { key: "p", label: "Pre-game", num: true, title: `Pre-game win probability for ${A.name}`, render: (g) => fmt.pct(g.p) },
       ], h2h, { sortable: false }) : emptyState("These teams have not played each other in the recorded games.")));
     return out;
+  }
+
+  function teamRank(x) {
+    const r = x.composite ? x.rank_open : x.rank;
+    return r ? `#${r}${x.composite ? " (incl. pickups)" : ""}` : "unranked";
   }
 
   async function comparePlayers(A, B) {

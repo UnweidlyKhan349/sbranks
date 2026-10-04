@@ -15,7 +15,7 @@ export async function render(ctx) {
     season: q.get("season") || "",
     active: boolParam(q, "active", true),
     ranked: null, // resolved below (default depends on subject)
-    comp: boolParam(q, "comp", true),
+    comp: boolParam(q, "comp", false), // pickup/composite teams are hidden by default
   };
   st.ranked = boolParam(q, "ranked", st.s === "overall");
 
@@ -26,7 +26,7 @@ export async function render(ctx) {
   const root = h("div");
   root.appendChild(pageHead({
     title: "Team rankings",
-    sub: h("span", null, `${fmt.int(T.list.length)} team entries (A/B/C… teams and pickup teams). Overall ratings are Glicko-2; subject ratings are Elo-scaled points per tossup heard. `,
+    sub: h("span", null, `${fmt.int(T.list.length)} team entries (A/B/C… school teams; online pickup and composite teams are hidden unless you include them). Overall ratings are Glicko-2; subject ratings are Elo-scaled points per tossup heard. `,
       h("a", { href: "#/about" }, "Methodology")),
   }));
 
@@ -72,12 +72,16 @@ export async function render(ctx) {
     const v = t.subj[st.s];
     return v ? { r: v.r, pm: v.se, n: v.n } : null;
   }
-  function rankOf(t) { return st.s === "overall" ? t.rank : (t.subj[st.s] ? t.subj[st.s].rank : null); }
+  // with pickup teams shown, ranks count them too (rank_open); otherwise school teams only (rank)
+  function rankOf(t) {
+    const k = st.comp ? "rank_open" : "rank";
+    return st.s === "overall" ? t[k] : (t.subj[st.s] ? t.subj[st.s][k] : null);
+  }
 
   function update() {
     setQuery("/teams", {
       s: st.s === "overall" ? null : st.s, q: st.q || null, state: st.state || null, season: st.season || null,
-      active: st.active ? null : "0", ranked: st.ranked === (st.s === "overall") ? null : (st.ranked ? "1" : "0"), comp: st.comp ? null : "0",
+      active: st.active ? null : "0", ranked: st.ranked === (st.s === "overall") ? null : (st.ranked ? "1" : "0"), comp: st.comp ? "1" : null,
     });
     const terms = st.q.toLowerCase().split(/\s+/).filter(Boolean);
     const base = T.list.filter((t) => st.s === "overall" || t.subj[st.s]);
@@ -119,7 +123,7 @@ export async function render(ctx) {
     }
     const subj = st.s !== "overall";
     const columns = [
-      { key: "rank", label: "#", num: true, cls: "rank", title: "Rank among ranked teams", sort: (t) => rankOf(t), defaultDir: "asc", render: (t) => rankOf(t) ?? "–" },
+      { key: "rank", label: "#", num: true, cls: "rank", title: "Rank among ranked teams (school teams only unless pickup teams are included)", sort: (t) => rankOf(t), defaultDir: "asc", render: (t) => rankOf(t) ?? "–" },
       { key: "name", label: "Team", cls: "name", sort: (t) => t.name, render: (t) => h("div", null, teamA(T, t.id), t.state ? h("span", { class: "sub show-sm" }, t.state) : null) },
       { key: "school", label: "School", cls: "wrap", hideSm: true, sort: (t) => (t.composite ? "" : t.school_name || ""),
         render: (t) => (t.composite
