@@ -1,0 +1,36 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,playoff,W1,11,Blue Rhinobeetles,Deer Feeled,,,1,0,Challonge match 1; no score entered
+g2,playoff,W1,11,Jerry is a Nerd,Scrubby Teletubbies,,,1,0,Challonge match 2; no score entered
+g3,playoff,W1,11,IDIOM,Dear Field,,,1,0,Challonge match 3; no score entered
+g4,playoff,W1,11,Sacramento Country Day School,Squishy Cats,,,1,0,Challonge match 4; no score entered
+g5,playoff,W1,11,The Catecholamines,U-235 Soup,,,1,0,Challonge match 5; no score entered
+g6,playoff,W1,11,Galena Popsicles,Orthonormal BASIS,,,1,0,Challonge match 6; no score entered
+g7,playoff,W1,11,Banana Corp,Degenerate Matter,,,1,0,Challonge match 7; no score entered
+g8,playoff,W1,11,MSJ,Bio and Chem Players only Challenge,,,1,0,Challonge match 8; no score entered
+g9,playoff,W2,12,Blue Rhinobeetles,Jerry is a Nerd,0,72,2,0,Challonge match 18
+g10,playoff,W2,12,IDIOM,Sacramento Country Day School,18,60,2,0,Challonge match 19
+g11,playoff,W2,12,The Catecholamines,Galena Popsicles,150,28,1,0,Challonge match 20
+g12,playoff,W2,12,Banana Corp,MSJ,46,126,2,0,Challonge match 21
+g13,playoff,L1,12,Scrubby Teletubbies,William Mason,52,48,1,0,Challonge match 9
+g14,playoff,L1,12,Squishy Cats,Hopkins,64,16,1,0,Challonge match 10
+g15,playoff,L1,12,U-235 Soup,Glastonbury,56,8,1,0,Challonge match 11
+g16,playoff,L1,12,Orthonormal BASIS,Grammar Kids,122,8,1,0,Challonge match 12
+g17,playoff,L1,12,Bio and Chem Players only Challenge,Be the Block of Bread,12,76,2,0,Challonge match 13
+g18,playoff,W3,13,Jerry is a Nerd,Sacramento Country Day School,144,16,1,0,Challonge match 28
+g19,playoff,W3,13,The Catecholamines,MSJ,100,96,1,0,Challonge match 29
+g20,playoff,L2,13,Deer Feeled,Scrubby Teletubbies,54,66,2,0,Challonge match 14
+g21,playoff,L2,13,Dear Field,Squishy Cats,104,22,1,0,Challonge match 15
+g22,playoff,L2,13,Orthonormal BASIS,U-235 Soup,94,98,2,0,Challonge match 16
+g23,playoff,L2,13,Degenerate Matter,Be the Block of Bread,58,56,1,0,Challonge match 17
+g24,playoff,W4,14,Jerry is a Nerd,The Catecholamines,68,70,2,0,Challonge match 33
+g25,playoff,L3,14,Blue Rhinobeetles,U-235 Soup,,,2,0,Challonge match 22; no score entered
+g26,playoff,L3,14,IDIOM,Degenerate Matter,12,76,2,0,Challonge match 23
+g27,playoff,L3,14,Galena Popsicles,Scrubby Teletubbies,100,72,1,0,Challonge match 24
+g28,playoff,L3,14,Banana Corp,Dear Field,114,22,1,0,Challonge match 25
+g29,playoff,L4,15,Degenerate Matter,U-235 Soup,70,16,1,0,Challonge match 26
+g30,playoff,L4,15,Banana Corp,Galena Popsicles,104,40,1,0,Challonge match 27
+g31,playoff,L5,16,Sacramento Country Day School,Banana Corp,30,106,2,0,Challonge match 30
+g32,playoff,L5,16,MSJ,Degenerate Matter,,,1,0,"Challonge match 31; source score 58-58, winner by tiebreak"
+g33,playoff,L6,17,MSJ,Banana Corp,66,102,2,0,Challonge match 32
+g34,playoff,L7,18,Jerry is a Nerd,Banana Corp,16,56,2,0,Challonge match 34
+g35,playoff,Grand Final,19,The Catecholamines,Banana Corp,,,1,0,"Challonge match 35; source score 1-1, winner by tiebreak"

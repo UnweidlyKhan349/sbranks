@@ -1,0 +1,14 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,playoff,W1,11,fishnoobs,no like blue,74,84,2,0,Challonge match 1
+g2,playoff,W1,11,limitless,the other team,92,40,1,0,Challonge match 2
+g3,playoff,W1,11,r-salam,okc,1,0,1,0,Challonge match 3
+g4,playoff,W1,11,zootopia,2y4b,10,156,2,0,Challonge match 4
+g5,playoff,W1,11,boneca anuragu,usmic,124,34,1,0,Challonge match 5
+g6,playoff,W1,11,big shot,lebron,42,128,2,0,Challonge match 6
+g7,playoff,W2,12,chonk,no like blue,110,18,1,0,Challonge match 7
+g8,playoff,W2,12,limitless,r-salam,58,50,1,0,Challonge match 8
+g9,playoff,W2,12,dha wei,2y4b,96,52,1,0,Challonge match 9
+g10,playoff,W2,12,boneca anuragu,lebron,76,78,2,0,Challonge match 10
+g11,playoff,W3,13,chonk,limitless,96,20,1,0,Challonge match 11
+g12,playoff,W3,13,dha wei,lebron,74,0,1,0,Challonge match 12
+g13,playoff,W4,14,chonk,dha wei,86,30,1,0,Challonge match 13

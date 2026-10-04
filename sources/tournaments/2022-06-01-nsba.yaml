@@ -23,5 +23,5 @@ sources:
   file: stats.html
 parser: null
 parser_options: {}
-status: todo
-notes: ''
+status: unavailable
+notes: Results and stats were hosted on nsba.herokuapp.com, which no longer responds (HTTP 503); no archived copy was found.

@@ -23,5 +23,6 @@ sources:
   url: https://drive.google.com/drive/folders/1bYeVvloGyqFsAz3TZ5cAlTehkEzkGQf7?usp=sharing
 parser: null
 parser_options: {}
-status: todo
-notes: ''
+status: unavailable
+notes: Results sheet is private (HTTP 401). The linked "Statistics" Drive folder contains only the question packets (Google
+  Docs), not statistics.

@@ -20,5 +20,5 @@ sources:
   file: results.xlsx
 parser: null
 parser_options: {}
-status: todo
-notes: ''
+status: unavailable
+notes: Results sheet is private (HTTP 401).

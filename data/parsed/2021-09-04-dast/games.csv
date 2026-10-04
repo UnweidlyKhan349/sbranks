@@ -1,0 +1,23 @@
+game_id,stage,round,seq,team1,team2,score1,score2,result,forfeit,notes
+g1,playoff,W1,11,Centennial HS A,Millhill,64,48,1,0,Challonge match 1
+g2,playoff,W1,11,Chotta Bheem,Arcadia HS B,124,22,1,0,Challonge match 2
+g3,playoff,W1,11,Mira Loma HS A,Middleton HS A,54,22,1,0,Challonge match 3
+g4,playoff,W1,11,Lexington HS,Livingston HS,144,20,1,0,Challonge match 4
+g5,playoff,L1,11,Maryville HS C,Iolani HS,0,40,2,0,Challonge match 5
+g6,playoff,L1,11,Centennial HS B,Mira Loma HS B,0,100,2,0,Challonge match 6
+g7,playoff,L1,11,Maryville HS A,Van Nuys HS,48,38,1,0,Challonge match 7
+g8,playoff,L1,11,Maryville HS B,Arcadia HS A,30,86,2,0,Challonge match 8
+g9,playoff,W2,12,Centennial HS A,Chotta Bheem,20,34,2,0,Challonge match 15
+g10,playoff,W2,12,Mira Loma HS A,Lexington HS,70,46,1,0,Challonge match 16
+g11,playoff,L2,12,Livingston HS,Iolani HS,54,60,2,0,Challonge match 9
+g12,playoff,L2,12,Middleton HS A,Mira Loma HS B,50,46,1,0,Challonge match 10
+g13,playoff,L2,12,Arcadia HS B,Maryville HS A,18,34,2,0,Challonge match 11
+g14,playoff,L2,12,Millhill,Arcadia HS A,142,8,1,0,Challonge match 12
+g15,playoff,W3,13,Chotta Bheem,Mira Loma HS A,24,66,2,0,Challonge match 20
+g16,playoff,L3,13,Iolani HS,Middleton HS A,22,30,2,0,Challonge match 13
+g17,playoff,L3,13,Maryville HS A,Millhill,0,92,2,0,Challonge match 14
+g18,playoff,L4,14,Centennial HS A,Middleton HS A,40,4,1,0,Challonge match 17
+g19,playoff,L4,14,Lexington HS,Millhill,122,44,1,0,Challonge match 18
+g20,playoff,L5,15,Centennial HS A,Lexington HS,34,88,2,0,Challonge match 19
+g21,playoff,L6,16,Chotta Bheem,Lexington HS,38,102,2,0,Challonge match 21
+g22,playoff,Grand Final,17,Mira Loma HS A,Lexington HS,58,10,1,0,Challonge match 22

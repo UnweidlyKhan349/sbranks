@@ -13,15 +13,24 @@ level: standard
 subject_only: null
 question_set: null
 sources:
-- kind: challonge
+- kind: url
   role: results
-  url: https://challonge.com/66zxx0jt
+  url: https://challonge.com/66zxx0jt/module
+  file: challonge_module.html
+  note: Challonge embed page for https://challonge.com/66zxx0jt (main page is behind a Cloudflare check); contains the TournamentStore
+    JSON
 - kind: gsheet
   role: stats
   sheet_id: 16RFtbkGnCY4H-AgXdY8ulel9fCG5rHIp4U77eiywgww
   url: https://docs.google.com/spreadsheets/d/16RFtbkGnCY4H-AgXdY8ulel9fCG5rHIp4U77eiywgww/edit#gid=64972669
   file: stats.xlsx
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: challonge_events:parse
+parser_options:
+  zero_zero: result
+  stats: stats.xlsx
+  stats_scope: rr
+status: parsed
+notes: 'Playoff bracket from Challonge (35 games; 9 games have no score entered and keep the winner only). Player stats per
+  subject come from the stats workbook and cover the prelims only (6 games: 3 rounds of 2), so they are scope rr; prelim games
+  themselves are not included because only per-round point totals were published. Players are listed by first name (Discord
+  handles mapped to names where the organizers listed them).'

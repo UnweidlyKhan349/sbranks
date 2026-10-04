@@ -53,4 +53,6 @@ status: partial
 notes: 'Standard division of the shared DASONI 2022 results sheet: 39 round-robin games (6 pools; pairings from the RR Schedule
   tab matched to each team''s per-round W/L/score, all consistent) and the 22-game double-elimination bracket (seeds 9-16
   start in the loser''s bracket; one 66-66 tie, Venice A advanced). Player stats not extracted: the stats sheet lists players
-  by first name with no team column, and its team tabs do not reconcile with the player rows, so membership cannot be reconstructed.'
+  by first name with no team column, and its team tabs do not reconcile with the player rows, so membership cannot be reconstructed.
+  Player stats were not attached: the stats workbook lists players by first name with no team column, and its team totals
+  do not equal the sums of player rows exactly, so players cannot be placed on teams reliably.'

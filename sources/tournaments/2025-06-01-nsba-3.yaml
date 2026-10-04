@@ -13,10 +13,14 @@ level: standard
 subject_only: null
 question_set: null
 sources:
-- kind: challonge
+- kind: url
   role: results
-  url: https://challonge.com/5qr7sb3g/bracket
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+  url: https://challonge.com/5qr7sb3g/module
+  file: challonge_module.html
+  note: Challonge embed page for https://challonge.com/5qr7sb3g (main page is behind a Cloudflare check); contains the TournamentStore
+    JSON
+parser: challonge_events:parse
+parser_options:
+  zero_zero: result
+status: partial
+notes: Online league playoffs from Challonge (13 games). League-stage results and stats were not published.

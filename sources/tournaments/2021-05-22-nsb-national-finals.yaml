@@ -26,7 +26,18 @@ sources:
   role: results
   url: https://www.energy.gov/articles/california-and-massachusetts-schools-win-does-31st-national-science-bowlr
   file: winners_release.html
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: nsb_virtual:parse
+parser_options:
+  final:
+  - North Hollywood Senior High School
+  - Naperville North High School
+  field:
+  - - North Hollywood Senior High School
+    - North Hollywood
+    - CA
+  - - Naperville North High School
+    - Naperville
+    - IL
+status: partial
+notes: 'Virtual Finals (64 teams): simultaneous-answer preliminary and elimination rounds with no published scores; only the
+  championship match (North Hollywood over Naperville North) is head-to-head.'

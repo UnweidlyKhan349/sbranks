@@ -44,5 +44,7 @@ parser_options:
   - de_no_loss.pdf
   - de_one_loss.pdf
   champion: Lexington High School
-status: todo
-notes: ''
+status: parsed
+notes: 'Official results from science.osti.gov: one result-only game per round-robin pairing (the official grids give win/tie/loss,
+  not scores) and every double-elimination game (winners only). Round-robin grids hand-transcribed from the official screenshot
+  pdf (rr_transcribed.yaml).'

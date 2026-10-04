@@ -13,10 +13,15 @@ level: standard
 subject_only: null
 question_set: null
 sources:
-- kind: challonge
+- kind: url
   role: results
-  url: https://challonge.com/dast2021
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+  url: https://challonge.com/dast2021/module
+  file: challonge_module.html
+  note: Challonge embed page for https://challonge.com/dast2021 (main page is behind a Cloudflare check); contains the TournamentStore
+    JSON
+parser: challonge_events:parse
+parser_options:
+  zero_zero: result
+status: partial
+notes: Double-elimination bracket from Challonge (22 games with scores). No round robin or player stats were published (the
+  Drive folder holds raw scoresheets only).

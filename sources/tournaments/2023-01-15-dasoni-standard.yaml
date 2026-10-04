@@ -33,7 +33,8 @@ parser_options:
     '8': DE5
     '10': DE6
 status: partial
-notes: 48 round-robin games from the RR Results tab (3 rounds; every team's standings points match) and 17 double-elimination
+notes: '48 round-robin games from the RR Results tab (3 rounds; every team''s standings points match) and 17 double-elimination
   games; the DE final (Interlake vs Enloe B) shows neither score nor winner and is not recorded. Player stats not extracted
   (first names only, no team column, team tabs do not reconcile with player rows). The RR Pairings tab is an outdated 4-round
-  draft and is ignored.
+  draft and is ignored. Player stats were not attached: the stats workbook lists players by first name with no team column,
+  and its team totals do not equal the sums of player rows exactly, so players cannot be placed on teams reliably.'

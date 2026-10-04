@@ -1,7 +1,7 @@
 id: 2020-06-06-nsb-national-finals
 name: NSB National Finals
 date: '2020-06-06'
-end_date: null
+end_date: '2020-06-07'
 season: 2019-20
 location: Online
 online: true
@@ -43,7 +43,13 @@ sources:
   url: https://science.osti.gov/-/media/wdts/nsb/pdf/national-event/2020/Students-from-California-and-Colorado-Win-DOEs-30th-National-Science-Bo.pdf
   file: winners_release.pdf
   warm_url: https://science.osti.gov/wdts/nsb/About/Historical-Information/2020-Competition
-parser: null
-parser_options: {}
-status: todo
-notes: ''
+parser: nsb_virtual:parse
+parser_options:
+  field_pdfs:
+  - top16.pdf
+  final:
+  - Dougherty Valley High School
+  - Mira Loma High School
+status: partial
+notes: 'Virtual Finals: no head-to-head games until the championship match (Dougherty Valley over Mira Loma). The top-16 field
+  comes from DOE press releases; earlier rounds were simultaneous-answer eliminations with no published scores.'
