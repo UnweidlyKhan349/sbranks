@@ -1,0 +1,6 @@
+glicko:
+  mov_weight: 0.45
+  mov_scale: 40.0
+  rd_per_year: 120.0
+  season_regress: 0.0
+  init_rd: 300.0

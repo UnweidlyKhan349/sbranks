@@ -1,0 +1,432 @@
+# Curated team-name resolution for half-1 of the base-name list (bases "1 pound feesh" .. "Kromrey MS").
+# School ids: slugify(official name) + "-" + state (country code for non-US). Official names follow the NSB
+# National Finals list where the school appears there. Same-name schools in other states carry a
+# parenthetical qualifier in name/short (Centennial (Boise), Farmington (Utah), CBA (Lincroft)) so the
+# resolver does not see one name claimed by two schools; their ids keep the plain <name>-<state> form.
+schools:
+  - {id: abraham-lincoln-high-school-ca, name: "Abraham Lincoln High School", short: "Abraham Lincoln", city: "San Francisco", state: CA, aliases: ["Abraham Lincoln"]}
+  - {id: academies-of-loudoun-va, name: "Academies of Loudoun", short: "Academies of Loudoun", city: "Leesburg", state: VA, aliases: ["Academies of Loudoun"]}
+  - {id: academy-for-science-and-design-nh, name: "Academy for Science and Design", short: "ASD", city: "Nashua", state: NH, aliases: ["Academy for Science and Design", "ASD"]}
+  - {id: advanced-math-and-science-academy-charter-school-ma, name: "Advanced Math and Science Academy Charter School", short: "AMSA", city: "Marlborough", state: MA, aliases: ["Advanced Math Science Academy", "AMSA"]}
+  - {id: alabama-school-of-fine-arts-al, name: "Alabama School of Fine Arts", short: "ASFA", city: "Birmingham", state: AL, aliases: ["Alabama School of Fine Arts", "ASFA"]}
+  - {id: albany-high-school-ca, name: "Albany High School", short: "Albany", city: "Albany", state: CA, aliases: ["Albany"]}
+  - {id: alexandria-city-high-school-va, name: "Alexandria City High School", short: "Alexandria City", city: "Alexandria", state: VA, aliases: ["Alexandria City High School"]}
+  - {id: amador-valley-high-school-ca, name: "Amador Valley High School", short: "Amador Valley", city: "Pleasanton", state: CA, aliases: ["Amador Valley", "AVHS", "Amador"]}
+  - {id: amarillo-high-school-tx, name: "Amarillo High School", short: "Amarillo", city: "Amarillo", state: TX, aliases: ["Amarillo High School"]}
+  - {id: american-fork-high-school-ut, name: "American Fork High School", short: "American Fork", city: "American Fork", state: UT, aliases: ["American Fork High School"]}
+  - {id: american-heritage-school-fl, name: "American Heritage School", short: "American Heritage", city: "Plantation", state: FL, aliases: ["American Heritage School", "American Heritage Broward", "AHS Broward", "AHS Patriots", "AHB"]}
+  - {id: american-heritage-schools-palm-beach-fl, name: "American Heritage Schools, Palm Beach", short: "American Heritage Palm Beach", city: "Delray Beach", state: FL, aliases: ["American Heritage Schools, Palm Beach"]}
+  - {id: american-high-school-ca, name: "American High School", short: "American", city: "Fremont", state: CA, aliases: ["American"]}
+  - {id: ames-high-school-ia, name: "Ames High School", short: "Ames", city: "Ames", state: IA, aliases: ["Ames"]}
+  - {id: amity-regional-high-school-ct, name: "Amity Regional High School", short: "Amity", city: "Woodbridge", state: CT, aliases: ["Amity"]}
+  - {id: aquinas-high-school-ca, name: "Aquinas High School", short: "Aquinas", city: "San Bernardino", state: CA, aliases: ["Aquinas"]}
+  - {id: arcadia-high-school-ca, name: "Arcadia High School", short: "Arcadia", city: "Arcadia", state: CA, aliases: ["Arcadia"]}
+  - {id: archbishop-mitty-high-school-ca, name: "Archbishop Mitty High School", short: "Archbishop Mitty", city: "San Jose", state: CA, aliases: ["Archbishop Mitty"]}
+  - {id: ardsley-high-school-ny, name: "Ardsley High School", short: "Ardsley", city: "Ardsley", state: NY, aliases: ["Ardsley High School"]}
+  - {id: arnold-o-beckman-high-school-ca, name: "Arnold O. Beckman High School", short: "Beckman", city: "Irvine", state: CA, aliases: ["Arnold O. Beckman", "Beckman"]}
+  - {id: basis-chandler-az, name: "BASIS Chandler", short: "BASIS Chandler", city: "Chandler", state: AZ, aliases: ["BASIS Chandler"]}
+  - {id: basis-independent-bellevue-wa, name: "BASIS Independent Bellevue", short: "BASIS Bellevue", city: "Bellevue", state: WA, aliases: ["BASIS Bellevue"]}
+  - {id: basis-independent-fremont-ca, name: "BASIS Independent Fremont", short: "BASIS Fremont", city: "Fremont", state: CA, aliases: ["BASIS Fremont", "BASIS Fremont Upper", "Basis Independent Fremont", "BI Fremont HS"]}
+  - {id: basis-independent-mclean-va, name: "BASIS Independent McLean", short: "BASIS McLean", city: "McLean", state: VA, aliases: ["BASIS Independent McLean", "BASIS McLean"]}
+  - {id: basis-independent-silicon-valley-ca, name: "BASIS Independent Silicon Valley", short: "BISV", city: "San Jose", state: CA, aliases: ["Basis Independent Silicon Valley", "BASIS Silicon Valley", "BISV", "Basis Independent"]}
+  - {id: basis-peoria-az, name: "BASIS Peoria", short: "BASIS Peoria", city: "Peoria", state: AZ, aliases: ["BASIS Peoria"]}
+  - {id: basis-san-antonio-shavano-campus-tx, name: "BASIS San Antonio - Shavano Campus", short: "BASIS San Antonio Shavano", city: "San Antonio", state: TX, aliases: ["BASIS San Antonio - Shavano Campus", "BASIS San Antonio-Shavano"]}
+  - {id: baton-rouge-magnet-high-school-la, name: "Baton Rouge Magnet High School", short: "Baton Rouge Magnet", city: "Baton Rouge", state: LA, aliases: ["Baton Rouge Magnet High School", "BRMHS"]}
+  - {id: baulkham-hills-high-school-au, name: "Baulkham Hills High School", short: "Baulkham Hills", city: "Baulkham Hills", state: NSW, aliases: ["Baulkham Hills"]}
+  - {id: bellevue-high-school-wa, name: "Bellevue High School", short: "Bellevue", city: "Bellevue", state: WA, aliases: ["Bellevue High School"]}
+  - {id: belmont-hill-school-ma, name: "Belmont Hill School", short: "Belmont Hill", city: "Belmont", state: MA, aliases: ["Belmont Hill"]}
+  - {id: bentonville-high-school-ar, name: "Bentonville High School", short: "Bentonville", city: "Bentonville", state: AR, aliases: ["Bentonville"]}
+  - {id: bethlehem-central-high-school-ny, name: "Bethlehem Central High School", short: "Bethlehem", city: "Delmar", state: NY, aliases: ["Bethlehem", "Bethlehem Central"]}
+  - {id: billerica-memorial-high-school-ma, name: "Billerica Memorial High School", short: "Billerica", city: "Billerica", state: MA, aliases: ["Billerica Memorial High School"]}
+  - {id: billings-central-catholic-high-school-mt, name: "Billings Central Catholic High School", short: "Billings Central", city: "Billings", state: MT, aliases: ["Billings Central Catholic High School"]}
+  - {id: billings-west-high-school-mt, name: "Billings West High School", short: "Billings West", city: "Billings", state: MT, aliases: ["Billings West High School"]}
+  - {id: bismarck-high-school-nd, name: "Bismarck High School", short: "Bismarck", city: "Bismarck", state: ND, aliases: ["Bismarck High School"]}
+  - {id: blue-valley-north-high-school-ks, name: "Blue Valley North High School", short: "Blue Valley North", city: "Leawood", state: KS, aliases: ["Blue Valley North High School"]}
+  - {id: blue-valley-west-high-school-ks, name: "Blue Valley West High School", short: "Blue Valley West", city: "Overland Park", state: KS, aliases: ["Blue Valley West"]}
+  - {id: bob-jones-high-school-al, name: "Bob Jones High School", short: "Bob Jones", city: "Madison", state: AL, aliases: ["Bob Jones"]}
+  - {id: boise-senior-high-school-id, name: "Boise Senior High School", short: "Boise", city: "Boise", state: ID, aliases: ["Boise Senior High School"]}
+  - {id: boston-latin-school-ma, name: "Boston Latin School", short: "Boston Latin", city: "Boston", state: MA, aliases: ["Boston Latin School"]}
+  - {id: brave-christian-schools-ca, name: "Brave Christian Schools", short: "Brave Christian", city: "Dublin", state: CA, aliases: ["Brave Christian"]}
+  - {id: bridgeland-high-school-tx, name: "Bridgeland High School", short: "Bridgeland", city: "Cypress", state: TX, aliases: ["Bridgeland High School"]}
+  - {id: brighton-high-school-ny, name: "Brighton High School", short: "Brighton", city: "Rochester", state: NY, aliases: ["Brighton High School"]}
+  - {id: brookfield-central-high-school-wi, name: "Brookfield Central High School", short: "Brookfield Central", city: "Brookfield", state: WI, aliases: ["Brookfield", "Brookfield Central"]}
+  - {id: brookings-high-school-sd, name: "Brookings High School", short: "Brookings", city: "Brookings", state: SD, aliases: ["Brookings High School"]}
+  - {id: brooklyn-technical-high-school-ny, name: "Brooklyn Technical High School", short: "Brooklyn Tech", city: "Brooklyn", state: NY, aliases: ["Brooklyn Tech", "BTHS"]}
+  - {id: buchholz-high-school-fl, name: "Buchholz High School", short: "Buchholz", city: "Gainesville", state: FL, aliases: ["Buchholz"]}
+  - {id: burnt-hills-ballston-lake-high-school-ny, name: "Burnt Hills-Ballston Lake High School", short: "BH-BL", city: "Burnt Hills", state: NY, aliases: ["BHBL"]}
+  - {id: caddo-parish-magnet-high-school-la, name: "Caddo Parish Magnet High School", short: "Caddo Magnet", city: "Shreveport", state: LA, aliases: ["Caddo Magnet", "Caddo Parish Magnet High School"]}
+  - {id: california-high-school-ca, name: "California High School", short: "California", city: "San Ramon", state: CA, aliases: ["California"]}
+  - {id: calloway-county-high-school-ky, name: "Calloway County High School", short: "Calloway County", city: "Murray", state: KY, aliases: ["Calloway County High School"]}
+  - {id: camas-high-school-wa, name: "Camas High School", short: "Camas", city: "Camas", state: WA, aliases: ["Camas", "Camas Papermakers"]}
+  - {id: campbell-county-high-school-wy, name: "Campbell County High School", short: "Campbell County", city: "Gillette", state: WY, aliases: ["Campbell County High School"]}
+  - {id: canyon-crest-academy-ca, name: "Canyon Crest Academy", short: "Canyon Crest", city: "San Diego", state: CA, aliases: ["Canyon Crest", "Canyon Crest Academy", "CCA"]}
+  - {id: canyon-ridge-high-school-id, name: "Canyon Ridge High School", short: "Canyon Ridge", city: "Twin Falls", state: ID, aliases: ["Canyon Ridge High School"]}
+  - {id: cape-elizabeth-high-school-me, name: "Cape Elizabeth High School", short: "Cape Elizabeth", city: "Cape Elizabeth", state: ME, aliases: ["Cape Elizabeth High School"]}
+  - {id: carmel-high-school-in, name: "Carmel High School", short: "Carmel", city: "Carmel", state: IN, aliases: ["Carmel High School"]}
+  - {id: catlin-gabel-school-or, name: "Catlin Gabel School", short: "Catlin Gabel", city: "Portland", state: OR, aliases: ["Catlin Gabel"]}
+  - {id: cedar-falls-high-school-ia, name: "Cedar Falls High School", short: "Cedar Falls", city: "Cedar Falls", state: IA, aliases: ["Cedar Falls High School"]}
+  - {id: centennial-high-school-id, name: "Centennial High School (Boise)", short: "Centennial (Boise)", city: "Boise", state: ID, aliases: []}
+  - {id: centennial-high-school-md, name: "Centennial High School", short: "Centennial", city: "Ellicott City", state: MD, aliases: ["Centennial"]}
+  - {id: centerville-high-school-oh, name: "Centerville High School", short: "Centerville", city: "Centerville", state: OH, aliases: ["Centerville"]}
+  - {id: central-high-school-ar, name: "Central High School", short: "Little Rock Central", city: "Little Rock", state: AR, aliases: ["Central High School"]}
+  - {id: centreville-high-school-va, name: "Centreville High School", short: "Centreville", city: "Clifton", state: VA, aliases: ["Centreville High School"]}
+  - {id: century-high-school-nd, name: "Century High School", short: "Century", city: "Bismarck", state: ND, aliases: ["Century High School"]}
+  - {id: chattahoochee-high-school-ga, name: "Chattahoochee High School", short: "Chattahoochee", city: "Johns Creek", state: GA, aliases: ["Chattahoochee"]}
+  - {id: cheshire-high-school-ct, name: "Cheshire High School", short: "Cheshire", city: "Cheshire", state: CT, aliases: ["Cheshire"]}
+  - {id: chico-high-school-ca, name: "Chico High School", short: "Chico", city: "Chico", state: CA, aliases: ["Chico"]}
+  - {id: chillicothe-high-school-oh, name: "Chillicothe High School", short: "Chillicothe", city: "Chillicothe", state: OH, aliases: ["Chillicothe High School"]}
+  - {id: choate-rosemary-hall-ct, name: "Choate Rosemary Hall", short: "Choate", city: "Wallingford", state: CT, aliases: ["Choate", "Choate Rosemary Hall", "Choate Quail", "Choate Zebrafish"]}
+  - {id: christian-brothers-academy-nj, name: "Christian Brothers Academy (Lincroft)", short: "CBA Lincroft", city: "Lincroft", state: NJ, aliases: []}
+  - {id: christian-brothers-academy-ny, name: "Christian Brothers Academy", short: "CBA", city: "Albany", state: NY, aliases: ["CBA", "CBA Albany", "Christian Brothers Academy"]}
+  - {id: claremore-high-school-ok, name: "Claremore High School", short: "Claremore", city: "Claremore", state: OK, aliases: ["Claremore High School"]}
+  - {id: clements-high-school-tx, name: "Clements High School", short: "Clements", city: "Sugar Land", state: TX, aliases: ["Clements High School"]}
+  - {id: clovis-north-high-school-ca, name: "Clovis North High School", short: "Clovis North", city: "Fresno", state: CA, aliases: ["Clovis North"]}
+  - {id: colegio-catolico-notre-dame-pr, name: "Colegio Católico Notre Dame", short: "Colegio Notre Dame", city: "Caguas", state: PR, aliases: ["Colegio Católico Notre Dame"]}
+  - {id: collierville-high-school-tn, name: "Collierville High School", short: "Collierville", city: "Collierville", state: TN, aliases: ["Collierville"]}
+  - {id: commonwealth-school-ma, name: "Commonwealth School", short: "Commonwealth", city: "Boston", state: MA, aliases: ["Commonwealth"]}
+  - {id: community-middle-school-nj, name: "Community Middle School", short: "Community MS", city: "Plainsboro", state: NJ, aliases: ["Community Middle School", "Community MS"]}
+  - {id: concord-academy-ma, name: "Concord Academy", short: "Concord Academy", city: "Concord", state: MA, aliases: ["Concord Academy"]}
+  - {id: conestoga-high-school-pa, name: "Conestoga High School", short: "Conestoga", city: "Berwyn", state: PA, aliases: ["Conestoga High School"]}
+  - {id: connections-homeschool-program-ak, name: "Connections Homeschool Program", short: "Connections", city: "Soldotna", state: AK, aliases: ["Connections Homeschool Program"]}
+  - {id: creighton-preparatory-school-ne, name: "Creighton Preparatory School", short: "Creighton Prep", city: "Omaha", state: NE, aliases: ["Creighton Preparatory School"]}
+  - {id: crescent-valley-high-school-or, name: "Crescent Valley High School", short: "Crescent Valley", city: "Corvallis", state: OR, aliases: ["Crescent Valley High School"]}
+  - {id: cupertino-high-school-ca, name: "Cupertino High School", short: "Cupertino", city: "Cupertino", state: CA, aliases: ["Cupertino"]}
+  - {id: cypress-ranch-high-school-tx, name: "Cypress Ranch High School", short: "Cypress Ranch", city: "Cypress", state: TX, aliases: ["Cypress Ranch High School"]}
+  - {id: deep-run-high-school-va, name: "Deep Run High School", short: "Deep Run", city: "Glen Allen", state: VA, aliases: ["Deep Run High School"]}
+  - {id: diamond-bar-high-school-ca, name: "Diamond Bar High School", short: "Diamond Bar", city: "Diamond Bar", state: CA, aliases: ["Diamond Bar"]}
+  - {id: doral-academy-charter-high-school-fl, name: "Doral Academy Charter High School", short: "Doral Academy", city: "Doral", state: FL, aliases: ["Doral Academy", "Doral Academy Charter High School"]}
+  - {id: dougherty-valley-high-school-ca, name: "Dougherty Valley High School", short: "Dougherty Valley", city: "San Ramon", state: CA, aliases: ["Dougherty", "Dougherty Valley High School"]}
+  - {id: dulles-high-school-tx, name: "Dulles High School", short: "Dulles", city: "Sugar Land", state: TX, aliases: ["Dulles"]}
+  - {id: dupont-manual-high-school-ky, name: "Dupont Manual High School", short: "duPont Manual", city: "Louisville", state: KY, aliases: ["duPont Manual"]}
+  - {id: east-brunswick-high-school-nj, name: "East Brunswick High School", short: "East Brunswick", city: "East Brunswick", state: NJ, aliases: ["East Brunswick"]}
+  - {id: east-chapel-hill-high-school-nc, name: "East Chapel Hill High School", short: "East Chapel Hill", city: "Chapel Hill", state: NC, aliases: ["ECHHS"]}
+  - {id: east-lyme-high-school-ct, name: "East Lyme High School", short: "East Lyme", city: "East Lyme", state: CT, aliases: ["East Lyme High School"]}
+  - {id: eastlake-high-school-wa, name: "Eastlake High School", short: "Eastlake", city: "Sammamish", state: WA, aliases: ["Eastlake High School", "Eastlake NSB"]}
+  - {id: eastside-high-school-fl, name: "Eastside High School", short: "Eastside", city: "Gainesville", state: FL, aliases: ["Eastside High School"]}
+  - {id: ed-w-clark-high-school-nv, name: "Ed W. Clark High School", short: "Ed W. Clark", city: "Las Vegas", state: NV, aliases: ["Ed. W. Clark High"]}
+  - {id: edison-high-school-nj, name: "Edison High School", short: "Edison", city: "Edison", state: NJ, aliases: ["Edison"]}
+  - {id: el-camino-high-school-ca, name: "El Camino High School", short: "El Camino", city: "South San Francisco", state: CA, aliases: ["El Camino"]}
+  - {id: elkins-high-school-tx, name: "Elkins High School", short: "Elkins", city: "Missouri City", state: TX, aliases: ["Elkins"]}
+  - {id: enloe-high-school-nc, name: "Enloe High School", short: "Enloe", city: "Raleigh", state: NC, aliases: ["Enloe High School"]}
+  - {id: evergreen-middle-school-everett-wa, name: "Evergreen Middle School (Everett)", short: "Everett Evergreen MS", city: "Everett", state: WA, aliases: ["Everett Evergreen MS"]}
+  - {id: evergreen-middle-school-wa, name: "Evergreen Middle School", short: "Evergreen MS", city: "Redmond", state: WA, aliases: ["Evergreen"]}
+  - {id: evergreen-valley-high-school-ca, name: "Evergreen Valley High School", short: "Evergreen Valley", city: "San Jose", state: CA, aliases: ["Evergreen Valley"]}
+  - {id: fairchild-wheeler-interdistrict-magnet-campus-ct, name: "Fairchild Wheeler Interdistrict Magnet Campus", short: "Fairchild Wheeler", city: "Bridgeport", state: CT, aliases: ["Fairchild Wheeler"]}
+  - {id: fairfield-warde-high-school-ct, name: "Fairfield Warde High School", short: "Fairfield Warde", city: "Fairfield", state: CT, aliases: ["Fairfield Warde High School"]}
+  - {id: falmouth-high-school-me, name: "Falmouth High School", short: "Falmouth", city: "Falmouth", state: ME, aliases: ["Falmouth"]}
+  - {id: farmington-high-school-ct, name: "Farmington High School", short: "Farmington", city: "Farmington", state: CT, aliases: ["Farmington High School"]}
+  - {id: farmington-high-school-ut, name: "Farmington High School (Utah)", short: "Farmington (UT)", city: "Farmington", state: UT, aliases: []}
+  - {id: farragut-high-school-tn, name: "Farragut High School", short: "Farragut", city: "Knoxville", state: TN, aliases: ["Farragut High School"]}
+  - {id: fayetteville-high-school-ar, name: "Fayetteville High School", short: "Fayetteville", city: "Fayetteville", state: AR, aliases: ["Fayetteville", "Fayetteville High School East"]}
+  - {id: foothill-high-school-ca, name: "Foothill High School", short: "Foothill", city: "Pleasanton", state: CA, aliases: ["Foothill High School"]}
+  - {id: fossil-ridge-high-school-co, name: "Fossil Ridge High School", short: "Fossil Ridge", city: "Fort Collins", state: CO, aliases: ["Fossil Ridge"]}
+  - {id: francisco-bravo-medical-magnet-high-school-ca, name: "Francisco Bravo Medical Magnet High School", short: "Francisco Bravo", city: "Los Angeles", state: CA, aliases: ["Francisco Bravo"]}
+  - {id: franklin-regional-senior-high-school-pa, name: "Franklin Regional Senior High School", short: "Franklin Regional", city: "Murrysville", state: PA, aliases: ["Franklin Regional Senior High School"]}
+  - {id: friendswood-high-school-tx, name: "Friendswood High School", short: "Friendswood", city: "Friendswood", state: TX, aliases: ["Friendswood"]}
+  - {id: fusion-academy-cupertino-ca, name: "Fusion Academy Cupertino", short: "Fusion Academy Cupertino", city: "Cupertino", state: CA, aliases: ["Fusion Academy Cupertino"]}
+  - {id: gatton-academy-of-mathematics-and-science-ky, name: "Gatton Academy of Mathematics and Science", short: "Gatton Academy", city: "Bowling Green", state: KY, aliases: ["Gatton Academy"]}
+  - {id: george-whittell-high-school-nv, name: "George Whittell High School", short: "George Whittell", city: "Zephyr Cove", state: NV, aliases: ["George Whittell"]}
+  - {id: glastonbury-high-school-ct, name: "Glastonbury High School", short: "Glastonbury", city: "Glastonbury", state: CT, aliases: ["Glastonbury"]}
+  - {id: granada-hills-charter-high-school-ca, name: "Granada Hills Charter High School", short: "Granada Hills", city: "Granada Hills", state: CA, aliases: ["Granada Hills", "Granada Hills Science Bowl"]}
+  - {id: grand-oaks-high-school-tx, name: "Grand Oaks High School", short: "Grand Oaks", city: "Spring", state: TX, aliases: ["Grand Oaks"]}
+  - {id: green-hope-high-school-nc, name: "Green Hope High School", short: "Green Hope", city: "Cary", state: NC, aliases: ["Green Hope"]}
+  - {id: greenwich-high-school-ct, name: "Greenwich High School", short: "Greenwich", city: "Greenwich", state: CT, aliases: ["Greenwich"]}
+  - {id: harvard-westlake-school-ca, name: "Harvard-Westlake School", short: "Harvard-Westlake", city: "Los Angeles", state: CA, aliases: ["Harvard-Westlake"]}
+  - {id: hawken-school-oh, name: "Hawken School", short: "Hawken", city: "Gates Mills", state: OH, aliases: ["Hawken"]}
+  - {id: hebron-high-school-tx, name: "Hebron High School", short: "Hebron", city: "Carrollton", state: TX, aliases: ["Hebron"]}
+  - {id: henry-j-kaiser-high-school-hi, name: "Henry J. Kaiser High School", short: "Kaiser", city: "Honolulu", state: HI, aliases: ["Kaiser"]}
+  - {id: henry-m-gunn-high-school-ca, name: "Henry M. Gunn High School", short: "Gunn", city: "Palo Alto", state: CA, aliases: ["Gunn", "Gunn Varsity", "Henry Gunn", "GSB"]}
+  - {id: highland-park-high-school-nj, name: "Highland Park High School", short: "Highland Park", city: "Highland Park", state: NJ, aliases: ["Highland Park"]}
+  - {id: hillcrest-high-school-id, name: "Hillcrest High School", short: "Hillcrest", city: "Ammon", state: ID, aliases: ["Hillcrest High School"]}
+  - {id: hillsdale-high-school-ca, name: "Hillsdale High School", short: "Hillsdale", city: "San Mateo", state: CA, aliases: ["Hillsdale"]}
+  - {id: homestead-high-school-ca, name: "Homestead High School", short: "Homestead", city: "Cupertino", state: CA, aliases: ["Homestead"]}
+  - {id: hopkins-junior-high-school-ca, name: "Hopkins Junior High School", short: "Hopkins JHS", city: "Fremont", state: CA, aliases: []}
+  - {id: hopkins-school-ct, name: "Hopkins School", short: "Hopkins", city: "New Haven", state: CT, aliases: ["Hopkins"]}
+  - {id: hopkinton-high-school-ma, name: "Hopkinton High School", short: "Hopkinton", city: "Hopkinton", state: MA, aliases: ["Hopkinton"]}
+  - {id: horace-mann-school-ny, name: "Horace Mann School", short: "Horace Mann", city: "Bronx", state: NY, aliases: ["Horace Mann"]}
+  - {id: houston-high-school-tn, name: "Houston High School", short: "Houston", city: "Germantown", state: TN, aliases: ["Houston"]}
+  - {id: hunter-college-high-school-ny, name: "Hunter College High School", short: "Hunter", city: "New York", state: NY, aliases: ["Hunter", "Hunter College High School", "HCHS"]}
+  - {id: huron-high-school-mi, name: "Huron High School", short: "Huron", city: "Ann Arbor", state: MI, aliases: ["Huron"]}
+  - {id: illinois-mathematics-and-science-academy-il, name: "Illinois Mathematics and Science Academy", short: "IMSA", city: "Aurora", state: IL, aliases: ["IMSA"]}
+  - {id: innovation-academy-ga, name: "Innovation Academy", short: "Innovation Academy", city: "Alpharetta", state: GA, aliases: ["Innovation Academy"]}
+  - {id: interlake-high-school-wa, name: "Interlake High School", short: "Interlake", city: "Bellevue", state: WA, aliases: ["Interlake"]}
+  - {id: iolani-school-hi, name: "Iolani School", short: "Iolani", city: "Honolulu", state: HI, aliases: ["Iolani School"]}
+  - {id: irvington-high-school-ca, name: "Irvington High School", short: "Irvington", city: "Fremont", state: CA, aliases: ["Irvington"]}
+  - {id: island-trees-high-school-ny, name: "Island Trees High School", short: "Island Trees", city: "Levittown", state: NY, aliases: ["Island Trees"]}
+  - {id: james-clemens-high-school-al, name: "James Clemens High School", short: "James Clemens", city: "Madison", state: AL, aliases: ["James Clemens", "Clemens HS", "JCJets"]}
+  - {id: james-logan-high-school-ca, name: "James Logan High School", short: "James Logan", city: "Union City", state: CA, aliases: ["James Logan"]}
+  - {id: james-ruse-agricultural-high-school-au, name: "James Ruse Agricultural High School", short: "James Ruse", city: "Carlingford", state: NSW, aliases: ["James Ruse"]}
+  - {id: james-s-rickards-high-school-fl, name: "James S. Rickards High School", short: "Rickards", city: "Tallahassee", state: FL, aliases: ["James S. Rickards HS"]}
+  - {id: jericho-high-school-ny, name: "Jericho High School", short: "Jericho", city: "Jericho", state: NY, aliases: ["Jericho"]}
+  - {id: joel-barlow-high-school-ct, name: "Joel Barlow High School", short: "Joel Barlow", city: "Redding", state: CT, aliases: ["Joel Barlow"]}
+  - {id: john-a-ferguson-senior-high-school-fl, name: "John A. Ferguson Senior High School", short: "John A. Ferguson", city: "Miami", state: FL, aliases: ["John A. Ferguson Sr. High School"]}
+  - {id: john-adams-middle-school-nj, name: "John Adams Middle School", short: "John Adams MS", city: "Edison", state: NJ, aliases: ["John Adams"]}
+  - {id: john-p-stevens-high-school-nj, name: "John P. Stevens High School", short: "JP Stevens", city: "Edison", state: NJ, aliases: ["John P. Stevens", "JP Stevens"]}
+  - {id: john-r-lewis-high-school-va, name: "John R. Lewis High School", short: "John R. Lewis", city: "Springfield", state: VA, aliases: ["John R. Lewis High School"]}
+  - {id: johns-creek-high-school-ga, name: "Johns Creek High School", short: "Johns Creek", city: "Johns Creek", state: GA, aliases: ["Johns Creek"]}
+  - {id: jonas-clarke-middle-school-ma, name: "Jonas Clarke Middle School", short: "Jonas Clarke", city: "Lexington", state: MA, aliases: ["Jonas Clarke"]}
+  - {id: kelly-walsh-high-school-wy, name: "Kelly Walsh High School", short: "Kelly Walsh", city: "Casper", state: WY, aliases: ["Kelly Walsh High School"]}
+  - {id: kingswood-oxford-school-ct, name: "Kingswood Oxford School", short: "Kingswood Oxford", city: "West Hartford", state: CT, aliases: ["Kingswood Oxford"]}
+  - {id: kromrey-middle-school-wi, name: "Kromrey Middle School", short: "Kromrey MS", city: "Middleton", state: WI, aliases: ["Kromrey MS"]}
+  - {id: lynbrook-high-school-ca, name: "Lynbrook High School", short: "Lynbrook", city: "San Jose", state: CA, aliases: []}
+  - {id: mission-san-jose-high-school-ca, name: "Mission San Jose High School", short: "Mission San Jose", city: "Fremont", state: CA, aliases: []}
+  - {id: montgomery-blair-high-school-md, name: "Montgomery Blair High School", short: "Montgomery Blair", city: "Silver Spring", state: MD, aliases: ["Blair", "Beltway Blazers"]}
+  - {id: new-berlin-eisenhower-middle-high-school-wi, name: "New Berlin Eisenhower Middle/High School", short: "Eisenhower", city: "New Berlin", state: WI, aliases: ["Eisenhower"]}
+  - {id: the-bishops-school-ca, name: "The Bishop's School", short: "Bishop's", city: "La Jolla", state: CA, aliases: ["Bishop's"]}
+  - {id: the-brooklyn-latin-school-ny, name: "The Brooklyn Latin School", short: "Brooklyn Latin", city: "Brooklyn", state: NY, aliases: ["Brooklyn Latin"]}
+  - {id: the-davidson-academy-nv, name: "The Davidson Academy", short: "Davidson", city: "Reno", state: NV, aliases: ["Davidson", "The Davidson Academy"]}
+  - {id: the-frazer-school-fl, name: "The Frazer School", short: "Frazer", city: "Gainesville", state: FL, aliases: ["The Frazer School"]}
+  - {id: the-harker-school-ca, name: "The Harker School", short: "Harker", city: "San Jose", state: CA, aliases: ["The Harker School"]}
+  - {id: william-fremd-high-school-il, name: "William Fremd High School", short: "Fremd", city: "Palatine", state: IL, aliases: ["Fremd"]}
+  - {id: winston-churchill-middle-school-ca, name: "Winston Churchill Middle School", short: "Winston Churchill MS", city: "Carmichael", state: CA, aliases: []}
+composite:
+  - {name: "Aqil and Kyle", school: lubbock-high-school-tx}
+  - {name: "Barometer Juice", school: iolani-school-hi}
+  - {name: "Galena Popsicles", school: iolani-school-hi}
+  - {name: "Io Earth", school: iolani-school-hi}
+  - {name: "Io Math", school: iolani-school-hi}
+  - {name: "Io Physics", school: iolani-school-hi}
+  - {name: "Io Space", school: iolani-school-hi}
+  - {name: "Beltway Beavers", school: montgomery-blair-high-school-md}
+  - {name: "big toe", school: interlake-high-school-wa}
+  - {name: "Damon Fan Club", school: lexington-high-school-ma}
+  - {name: "Deap South", school: west-windsor-plainsboro-high-school-south-nj}
+  - {name: "Gargy Bomy", school: west-windsor-plainsboro-high-school-south-nj}
+  - {name: "Dheerans Establishment", school: deep-run-high-school-va}
+  - {name: "Doral Kong Kribbers", school: doral-academy-charter-high-school-fl}
+  - {name: "duckschist", school: collierville-high-school-tn}
+  - {name: "Dulles Dolls", school: dulles-high-school-tx}
+  - {name: "Dulles Dolls 1", school: dulles-high-school-tx}
+  - {name: "Dulles Dolls 2", school: dulles-high-school-tx}
+  - {name: "EB House", school: east-brunswick-high-school-nj}
+  - {name: "Exploding Kittens", school: arcadia-high-school-ca}
+  - {name: "Degenerate Matter", school: arcadia-high-school-ca}
+  - {name: "Foot", school: foothill-high-school-ca}
+  - {name: "Frazians", school: the-frazer-school-fl}
+  - {name: "Galena Eatrs", school: mission-san-jose-high-school-ca}
+  - {name: "Jerry is a Nerd", school: mission-san-jose-high-school-ca}
+  - {name: "Gamblers", school: the-davidson-academy-nv}
+  - {name: "helicopter helicopter", school: lynbrook-high-school-ca}
+  - {name: "Hustler's University", school: basis-chandler-az}
+  - {name: "Hwite Bread", school: mira-loma-high-school-ca}
+  - {name: "Hwite Bread 1", school: mira-loma-high-school-ca}
+  - {name: "Hwite Bread 2", school: mira-loma-high-school-ca}
+  - {name: "Hwite Bread A", school: mira-loma-high-school-ca}
+  - {name: "Hwite Bread B", school: mira-loma-high-school-ca}
+  - {name: "Hwite Bread C", school: mira-loma-high-school-ca}
+  - {name: "JETS JESTERS", school: texas-academy-of-mathematics-and-science-tx}
+  - {name: "Kiruna Scholars", school: thomas-jefferson-high-school-for-science-and-technology-va}
+  - {name: "Knights", school: west-windsor-plainsboro-high-school-north-nj}
+  - {name: "The Green And White", school: mason-high-school-oh}
+  - {name: "1 pound feesh", school: null}
+  - {name: "2y4b", school: null}
+  - {name: "5 boroughs", school: null}
+  - {name: "83% WADF", school: null}
+  - {name: "AAH", school: null}
+  - {name: "Acetylcholine", school: null}
+  - {name: "Ahhhhhh", school: null}
+  - {name: "Ainai72", school: null}
+  - {name: "AIOB", school: null}
+  - {name: "Alkane Crackers", school: null}
+  - {name: "Ammoniyum", school: null}
+  - {name: "Annor Azgha", school: null}
+  - {name: "Asle", school: null}
+  - {name: "Asle(Acid Sounds Like Electricity)", school: null}
+  - {name: "School of Astronomy", school: null}
+  - {name: "Azizam", school: null}
+  - {name: "Bamiters", school: null}
+  - {name: "Banana Corp", school: null}
+  - {name: "Bang! Boom! Bash!", school: null}
+  - {name: "Barometer Juice (Rimin..)", school: null}
+  - {name: "Be the Block of Bread", school: null}
+  - {name: "Ben", school: null}
+  - {name: "Bernoulli Bud", school: null}
+  - {name: "BFIT", school: null}
+  - {name: "Big Dippers", school: null}
+  - {name: "big shot", school: null}
+  - {name: "Bio and Chem Players only Challenge", school: null}
+  - {name: "BioBattalion", school: null}
+  - {name: "School of Biology", school: null}
+  - {name: "Blair Clemens", school: null}
+  - {name: "Blue Rhinobeetles", school: null}
+  - {name: "boneca anuragu", school: null}
+  - {name: "The Borons", school: null}
+  - {name: "Bottimus Elementary", school: null}
+  - {name: "Britney Spears' Guide to Semiconductor Physics", school: null}
+  - {name: "BUMSJK", school: null}
+  - {name: "Cadmium Arsenide", school: null}
+  - {name: "Caffeine", school: null}
+  - {name: "Caleb", school: null}
+  - {name: "Campbell Soup", school: null}
+  - {name: "Carl, Friedrich, and Gauss", school: null}
+  - {name: "The Catalysts", school: null}
+  - {name: "The Catecholamines", school: null}
+  - {name: "CatGPT", school: null}
+  - {name: "Caudates", school: null}
+  - {name: "CBT", school: null}
+  - {name: "School of Chemistry", school: null}
+  - {name: "ChemKings", school: null}
+  - {name: "Chengcheng", school: null}
+  - {name: "Cherry Bombs", school: null}
+  - {name: "Chibbles", school: null}
+  - {name: "Chicken Jockies", school: null}
+  - {name: "chonk", school: null}
+  - {name: "Chotta Bheem", school: null}
+  - {name: "chuck and larry", school: null}
+  - {name: "Cinnabar Rolls", school: null}
+  - {name: "Clang! Cloom! Clash!", school: null}
+  - {name: "Coby", school: null}
+  - {name: "Colin", school: null}
+  - {name: "Connor", school: null}
+  - {name: "Conspicuous Capybaras", school: null}
+  - {name: "Crabohydrates", school: null}
+  - {name: "Crimson-Pixels", school: null}
+  - {name: "Cryo Bout It", school: null}
+  - {name: "Cryofornia Gurls", school: null}
+  - {name: "CT warriors", school: null}
+  - {name: "CZZ", school: null}
+  - {name: "D.A.R.N", school: null}
+  - {name: "DANK", school: null}
+  - {name: "Darwin", school: null}
+  - {name: "Deadbird", school: null}
+  - {name: "Deakhil", school: null}
+  - {name: "Dear Field", school: null}
+  - {name: "Deer Feeled", school: null}
+  - {name: "dha wei", school: null}
+  - {name: "dilli", school: null}
+  - {name: "dry", school: null}
+  - {name: "Dynamic Planet Buddies", school: null}
+  - {name: "Eagle Eye", school: null}
+  - {name: "Eagle Talon", school: null}
+  - {name: "Eagle Wing", school: null}
+  - {name: "Edison Root", school: null}
+  - {name: "Edwin's Victims", school: null}
+  - {name: "Eeeeyaaaa", school: null}
+  - {name: "Emmyversity", school: null}
+  - {name: "End Game", school: null}
+  - {name: "Fantastic Four", school: null}
+  - {name: "Fatty Acid", school: null}
+  - {name: "Ferroasumin", school: null}
+  - {name: "Ferrum", school: null}
+  - {name: "Fez_Keyreb", school: null}
+  - {name: "fishnoobs", school: null}
+  - {name: "fission chips", school: null}
+  - {name: ":flushed:", school: null}
+  - {name: ":Flushed:", school: null}
+  - {name: "Folsom City", school: null}
+  - {name: "Future Campers", school: null}
+  - {name: "FXX", school: null}
+  - {name: "Gay-Lussac Goons", school: null}
+  - {name: "Geo", school: null}
+  - {name: "Geo Fam", school: null}
+  - {name: "School of Geology", school: null}
+  - {name: "School of Geometry", school: null}
+  - {name: "Gid", school: null}
+  - {name: "Grammar Kids", school: null}
+  - {name: "Grignard Gobblers", school: null}
+  - {name: "Harker Hawks", school: null}
+  - {name: "Hellcats", school: null}
+  - {name: "Hills Academy", school: null}
+  - {name: "Honeypots and Mosquitos", school: null}
+  - {name: "IDIOM", school: null}
+  - {name: "Idiom", school: null}
+  - {name: "Idk", school: null}
+  - {name: "in memorievan", school: null}
+  - {name: "Indeterminate", school: null}
+  - {name: "the Index", school: null}
+  - {name: "INDIANS", school: null}
+  - {name: "Interlakeside", school: null}
+  - {name: "Irrelevant", school: null}
+  - {name: "Isopod", school: null}
+  - {name: "Ivy Math Academy", school: null}
+  - {name: "Jahaj", school: null}
+  - {name: "Jams Knights", school: null}
+  - {name: "Jca", school: null}
+  - {name: "Jcb", school: null}
+  - {name: "Jcc", school: null}
+  - {name: "Jets Charm", school: null}
+  - {name: "Jets Strange", school: null}
+  - {name: "Jets Top", school: null}
+  - {name: "Jh King", school: null}
+  - {name: "Joe", school: null}
+  - {name: "John Hopkins", school: null}
+  - {name: "Jonathan", school: null}
+  - {name: "KJ", school: null}
+  - {name: "KJ A", school: null}
+  - {name: "KJ B", school: null}
+  - {name: "KJ Henry Math and Science Academy", school: null}
+  - {name: "Kdjhs", school: null}
+  - {name: "Kevin Qiu", school: null}
+  - {name: "@khildanny92", school: null}
+  - {name: "kirkified lordus 67", school: null}
+  - {name: "Koch Snowflakes", school: null}
+overrides:
+  "2020-12-19-mosfet::Churchill A": {school: winston-churchill-middle-school-ca, letter: A}
+  "2021-09-05-ass::Basis": {school: basis-peoria-az, letter: A}
+  "2022-01-16-dasoni-competitive::Clark": {school: ed-w-clark-high-school-nv, letter: A}
+  "2022-03-26-prometheus::Hopkins A": {school: hopkins-junior-high-school-ca, letter: A}
+  "2022-03-26-prometheus::Hopkins B": {school: hopkins-junior-high-school-ca, letter: B}
+  "2022-08-08-ssbt::Hopkins": {school: hopkins-junior-high-school-ca, letter: A}
+  "2022-11-12-mit-science-bowl::BASIS 1": {school: basis-independent-silicon-valley-ca, letter: A}
+  "2022-11-12-mit-science-bowl::BASIS 2": {school: basis-independent-silicon-valley-ca, letter: B}
+  "2022-11-12-mit-science-bowl::BASIS 3": {school: basis-independent-silicon-valley-ca, letter: C}
+  "2023-04-27-nsb-national-finals::Farmington High School": {school: farmington-high-school-ut, letter: A}
+  "2024-01-13-east-brunswick-invitational::CBA": {school: christian-brothers-academy-nj, letter: A}
+  "2024-03-23-pohaku-science-bowl::Hopkins A": {school: hopkins-junior-high-school-ca, letter: A}
+  "2024-03-23-pohaku-science-bowl::Hopkins B": {school: hopkins-junior-high-school-ca, letter: B}
+  "2024-04-25-nsb-national-finals::Centennial High School": {school: centennial-high-school-id, letter: A}
+  "2024-11-16-mit-science-bowl::Johnson": {school: lynbrook-high-school-ca, letter: A}
+  "2025-04-20-clements-invitational::Interlake": {composite: true, school: interlake-high-school-wa}
+  "2025-04-24-nsb-national-finals::Centennial High School": {school: centennial-high-school-id, letter: A}
+  "2025-10-11-icsbt-2::Johnson A": {school: lynbrook-high-school-ca, letter: A}
+  "2025-10-11-icsbt-2::Johnson B": {school: lynbrook-high-school-ca, letter: B}
+  "2025-10-26-brooklyn-tech-invitational::Galen A": {school: mission-san-jose-high-school-ca, letter: A}
+  "2026-01-18-texas-science-bowl::Galen 1": {school: mission-san-jose-high-school-ca, letter: A}
+  "2026-01-18-texas-science-bowl::Galen 2": {school: mission-san-jose-high-school-ca, letter: B}
+  "2026-03-01-johns-hopkins-science-bowl::Basis": {school: basis-independent-mclean-va, letter: A}
+  "2026-03-01-johns-hopkins-science-bowl::Eagles A": {school: enloe-high-school-nc, letter: A}
+  "2026-03-01-johns-hopkins-science-bowl::Eagles B": {school: enloe-high-school-nc, letter: B}
+  "2026-03-01-johns-hopkins-science-bowl::Eagles C": {school: enloe-high-school-nc, letter: C}
+  "2026-05-31-nssb::Galen A": {school: mission-san-jose-high-school-ca, letter: A}
+unknown:
+  - {base: "A-Tech", why: "one Stanford 2025 entry with no school column; could be Advanced Technologies Academy (Las Vegas) or a Bay Area school"}
+  - {base: "Acadia MS", why: "generic \"Acadia MS\" in one online event, first names only; location unknown"}
+  - {base: "Allen", why: "Allen (TX invitational, online) / \"Allen School\" (1 player): no school or state evidence"}
+  - {base: "Andover", why: "Phillips Academy Andover vs Andover HS (MA/MN/KS) — no evidence"}
+  - {base: "Basis", why: "bare \"Basis\": MIT 2022 / JHU 2026 / ASS 2021 handled by overrides; wsbt 2022 \"BASIS 1\" has no evidence"}
+  - {base: "Benjamin Franklin", why: "Benjamin Franklin HS exists in many cities (New Orleans, Philadelphia, ...); no evidence"}
+  - {base: "Berlin", why: "Berlin (CT/NJ/...?) at an online event, first names only"}
+  - {base: "BFHS", why: "ambiguous abbreviation, no players"}
+  - {base: "BIF", why: "ambiguous abbreviation (maybe BASIS Independent Fremont), no players"}
+  - {base: "BOW", why: "ambiguous abbreviation; rosters do not match any known school"}
+  - {base: "BRHS", why: "BRHS = Bridgewater-Raritan / Broad Run / ...; no school evidence"}
+  - {base: "Brooklyn", why: "\"Brooklyn High School\" at Berkeley 2025 — no such NorCal school known"}
+  - {base: "BTA", why: "ambiguous abbreviation at MIT 2024 (maybe Boston Trinity Academy)"}
+  - {base: "Canterbury", why: "several Canterbury Schools (FL/CT/IN/NC); no evidence"}
+  - {base: "CCP", why: "ambiguous abbreviation, no players"}
+  - {base: "Churchill", why: "bare \"Churchill\": mosfet 2020 entry is Winston Churchill MS (override); other entries have no players"}
+  - {base: "College Park High School", why: "College Park HS exists in The Woodlands TX and Pleasant Hill CA; no evidence"}
+  - {base: "Coral Academy", why: "Coral Academy of Science has Las Vegas and Reno campuses; cannot tell which"}
+  - {base: "Coral", why: "Coral Academy of Science has Las Vegas and Reno campuses; cannot tell which"}
+  - {base: "Coronado", why: "Coronado HS exists in NV/CA/TX/CO; no players"}
+  - {base: "Country Day", why: "\"Country Day\" — many Country Day schools (possibly Sacramento Country Day); no players"}
+  - {base: "Crestview Middle", why: "Crestview Middle School exists in several states; first names only"}
+  - {base: "Davidson Magnet", why: "Davidson Magnet (possibly Davidson Fine Arts Magnet, Augusta GA) — no evidence"}
+  - {base: "Del Norte", why: "Del Norte HS exists in San Diego, Albuquerque and Crescent City; no school evidence"}
+  - {base: "Easthill", why: "unrecognized name, no players"}
+  - {base: "EHS", why: "ambiguous abbreviation at MIT 2022 (possibly Enloe HS) — no roster"}
+  - {base: "ENHS", why: "ambiguous abbreviation (online, Texas event)"}
+  - {base: "Fairview", why: "Fairview HS (Boulder CO and many others); discord handles only"}
+  - {base: "Franklin", why: "bare \"Franklin\", first names only"}
+  - {base: "Frost", why: "ambiguous name, no players"}
+  - {base: "Ghs", why: "ambiguous abbreviation (Glastonbury/Greenwich HS?)"}
+  - {base: "Grayson", why: "Grayson HS (GA) or other; first names only"}
+  - {base: "Greenhills", why: "Greenhills School (MI) vs Greenhills HS (OH); no evidence"}
+  - {base: "Hamilton", why: "bare \"Hamilton\", no players"}
+  - {base: "Harrison", why: "bare \"Harrison\", first names only"}
+  - {base: "HAUSCR", why: "unrecognized abbreviation at MIT 2023"}
+  - {base: "HHR", why: "unrecognized abbreviation, first names only"}
+  - {base: "Hillsborough", why: "Hillsborough HS (NJ) vs Hillsborough HS (Tampa FL); first names only"}
+  - {base: "Huskies", why: "mascot-only name, no players"}
+  - {base: "JAMS", why: "ambiguous abbreviation, no players"}
+  - {base: "Jordan", why: "Jordan HS exists in TX/CA/UT/NC; first names only"}

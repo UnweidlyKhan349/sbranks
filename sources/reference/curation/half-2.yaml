@@ -1,0 +1,386 @@
+# half-2 team-name curation (sources/reference/curation/half-2.yaml)
+schools:
+  - {id: north-hollywood-senior-high-school-ca, name: North Hollywood Senior High School, short: North Hollywood, city: North Hollywood, state: CA, aliases: [North Hollywood High School, Noho, NoHo, North Hollywood, North Hollywood Senior High School]}
+  - {id: lexington-high-school-ma, name: Lexington High School, short: Lexington, city: Lexington, state: MA, aliases: [Lexington, Lexington HS]}
+  - {id: lynbrook-high-school-ca, name: Lynbrook High School, short: Lynbrook, city: San Jose, state: CA, aliases: [Lynbrook, Lynbrook HS, Lynbroke]}
+  - {id: mira-loma-high-school-ca, name: Mira Loma High School, short: Mira Loma, city: Sacramento, state: CA, aliases: [Mira Loma High School, Mira Loma, Mira Loma HS]}
+  - {id: mission-san-jose-high-school-ca, name: Mission San Jose High School, short: Mission San Jose, city: Fremont, state: CA, aliases: [Mission San Jose, MSJ]}
+  - {id: palo-alto-high-school-ca, name: Palo Alto High School, short: Palo Alto, city: Palo Alto, state: CA, aliases: [Palo Alto High School, Palo Alto]}
+  - {id: university-high-school-ca, name: University High School, short: University, city: Irvine, state: CA, aliases: [University High School, University, University HS]}
+  - {id: lakeside-school-wa, name: Lakeside School, short: Lakeside, city: Seattle, state: WA, aliases: [Lakeside]}
+  - {id: middleton-high-school-wi, name: Middleton High School, short: Middleton, city: Middleton, state: WI, aliases: [Middleton, Middletong, Middleton Team]}
+  - {id: ward-melville-high-school-ny, name: Ward Melville High School, short: Ward Melville, city: East Setauket, state: NY, aliases: [Ward Melville, Ward Melville Senior High School, Ward Melville Senior High]}
+  - {id: west-windsor-plainsboro-high-school-south-nj, name: West Windsor-Plainsboro High School South, short: WW-P South, city: West Windsor, state: NJ, aliases: [WWPS, West Windsor-Plainsboro SOUTH, West Windsor Plainsboro South, West Windsor-Plainsboro HS South, Southern Pirates, WWPHSS]}
+  - {id: west-windsor-plainsboro-high-school-north-nj, name: West Windsor-Plainsboro High School North, short: WW-P North, city: Plainsboro, state: NJ, aliases: [WWPN, West Windsor-Plainsboro North, WWP North, Plainsboro, Plainsboro Knights]}
+  - {id: montgomery-blair-high-school-md, name: Montgomery Blair High School, short: Montgomery Blair, city: Silver Spring, state: MD, aliases: [Montgomery Blair High School, Montgomery Blair, Montgomery Blair HS]}
+  - {id: niskayuna-high-school-ny, name: Niskayuna High School, short: Niskayuna, city: Niskayuna, state: NY, aliases: [Niskayuna, Niskayuna Highschool]}
+  - {id: wayzata-high-school-mn, name: Wayzata High School, short: Wayzata, city: Plymouth, state: MN, aliases: [Wayzata]}
+  - {id: saratoga-high-school-ca, name: Saratoga High School, short: Saratoga, city: Saratoga, state: CA, aliases: [Saratoga]}
+  - {id: naperville-north-high-school-il, name: Naperville North High School, short: Naperville North, city: Naperville, state: IL, aliases: [Naperville North High School, Naperville North]}
+  - {id: westview-high-school-or, name: Westview High School, short: Westview, city: Portland, state: OR, aliases: [Westview]}
+  - {id: whitney-young-magnet-high-school-il, name: Whitney Young Magnet High School, short: Whitney Young, city: Chicago, state: IL, aliases: [Whitney Young, Whitney Young Magnet High School, Young Magnet High School, Whitney M. Young Magnet High School]}
+  - {id: princeton-high-school-nj, name: Princeton High School, short: Princeton, city: Princeton, state: NJ, aliases: [Princeton]}
+  - {id: punahou-school-hi, name: Punahou School, short: Punahou, city: Honolulu, state: HI, aliases: [Punahou]}
+  - {id: temple-city-high-school-ca, name: Temple City High School, short: Temple City, city: Temple City, state: CA, aliases: [Temple City]}
+  - {id: thomas-jefferson-high-school-for-science-and-technology-va, name: Thomas Jefferson High School for Science and Technology, short: TJHSST, city: Alexandria, state: VA, aliases: [TJHSST, Thomas Jefferson, Thomas Jefferson High School for Science and Technology, Thomas Jefferson High for Science and Technology, Thomas Jefferson HS for Science and Technology, TJ]}
+  - {id: the-westminster-schools-ga, name: The Westminster Schools, short: Westminster, city: Atlanta, state: GA, aliases: [Westminster, The Westminster Schools, Westminster Schools]}
+  - {id: princeton-international-school-of-mathematics-and-science-nj, name: Princeton International School of Mathematics and Science, short: PRISMS, city: Princeton, state: NJ, aliases: [PRISMS, Princeton International School of Mathematics and Science]}
+  - {id: timberline-high-school-id, name: Timberline High School, short: Timberline, city: Boise, state: ID, aliases: [Timberline]}
+  - {id: tesla-stem-high-school-wa, name: Tesla STEM High School, short: Tesla STEM, city: Redmond, state: WA, aliases: [Tesla STEM, Tesla Stem, Tesla]}
+  - {id: van-nuys-high-school-ca, name: Van Nuys High School, short: Van Nuys, city: Van Nuys, state: CA, aliases: [Van Nuys, Van Nuys HS]}
+  - {id: venice-high-school-ca, name: Venice High School, short: Venice, city: Los Angeles, state: CA, aliases: [Venice, Venice HS]}
+  - {id: north-allegheny-high-school-pa, name: North Allegheny High School, short: North Allegheny, city: Wexford, state: PA, aliases: [North Allegheny]}
+  - {id: shenendehowa-high-school-ny, name: Shenendehowa High School, short: Shenendehowa, city: Clifton Park, state: NY, aliases: [Shenendehowa, Shen, Shen HS]}
+  - {id: los-alamos-high-school-nm, name: Los Alamos High School, short: Los Alamos, city: Los Alamos, state: NM, aliases: [Los Alamos]}
+  - {id: lubbock-high-school-tx, name: Lubbock High School, short: Lubbock, city: Lubbock, state: TX, aliases: [Lubbock High School, Lubbock]}
+  - {id: pullman-high-school-wa, name: Pullman High School, short: Pullman, city: Pullman, state: WA, aliases: [Pullman]}
+  - {id: seven-lakes-high-school-tx, name: Seven Lakes High School, short: Seven Lakes, city: Katy, state: TX, aliases: [Seven Lakes]}
+  - {id: sharon-high-school-ma, name: Sharon High School, short: Sharon, city: Sharon, state: MA, aliases: [Sharon, Sharon HS]}
+  - {id: stanford-online-high-school-ca, name: Stanford Online High School, short: Stanford OHS, city: Redwood City, state: CA, aliases: [Stanford Online, Stanford OHS]}
+  - {id: morgantown-high-school-wv, name: Morgantown High School, short: Morgantown, city: Morgantown, state: WV, aliases: [Morgantown High School, Morgantown]}
+  - {id: nashua-high-school-south-nh, name: Nashua High School South, short: Nashua South, city: Nashua, state: NH, aliases: [Nashua High School - South, Nashua South, Nashua High South, Nashua High School South]}
+  - {id: nashua-high-school-north-nh, name: Nashua High School North, short: Nashua North, city: Nashua, state: NH, aliases: [Nashua High North]}
+  - {id: stuyvesant-high-school-ny, name: Stuyvesant High School, short: Stuyvesant, city: New York, state: NY, aliases: [Stuyvesant, Stuy]}
+  - {id: whitney-high-school-ca, name: Whitney High School, short: Whitney, city: Cerritos, state: CA, aliases: [Whitney High School, Whitney, Whitney HS, Whitney Wildcats]}
+  - {id: lindbergh-high-school-mo, name: Lindbergh High School, short: Lindbergh, city: St. Louis, state: MO, aliases: [Lindbergh, Lindbergh Senior High School]}
+  - {id: north-carolina-school-of-science-and-mathematics-nc, name: North Carolina School of Science and Mathematics, short: NCSSM, city: Durham, state: NC, aliases: [NCSSM, North Carolina School of Science and Math, North Carolina School of Science & Math, North Carolina School of Science and Mathematics]}
+  - {id: poolesville-high-school-md, name: Poolesville High School, short: Poolesville, city: Poolesville, state: MD, aliases: [Poolesville, Poolesville HS]}
+  - {id: troy-high-school-mi, name: Troy High School, short: Troy, city: Troy, state: MI, aliases: [Troy]}
+  - {id: troy-high-school-fullerton-ca, name: Troy High School (Fullerton), short: Troy (Fullerton), city: Fullerton, state: CA, aliases: []}
+  - {id: livingston-high-school-nj, name: Livingston High School, short: Livingston, city: Livingston, state: NJ, aliases: [Livingston]}
+  - {id: west-high-school-wi, name: West High School, short: Madison West, city: Madison, state: WI, aliases: [Madison West, West High School]}
+  - {id: maryville-high-school-tn, name: Maryville High School, short: Maryville, city: Maryville, state: TN, aliases: [Maryville HS, Maryville]}
+  - {id: oak-avenue-intermediate-school-ca, name: Oak Avenue Intermediate School, short: Oak Avenue, city: Temple City, state: CA, aliases: [Oak Avenue]}
+  - {id: the-quarry-lane-school-ca, name: The Quarry Lane School, short: Quarry Lane, city: Dublin, state: CA, aliases: [Quarry Lane]}
+  - {id: richard-montgomery-high-school-md, name: Richard Montgomery High School, short: Richard Montgomery, city: Rockville, state: MD, aliases: [Richard Montgomery, RMHS]}
+  - {id: university-preparatory-school-ca, name: University Preparatory School, short: University Prep, city: Redding, state: CA, aliases: [University Preparatory School, University Preparatory, Uni Prep]}
+  - {id: ladue-horton-watkins-high-school-mo, name: Ladue Horton Watkins High School, short: Ladue, city: St. Louis, state: MO, aliases: [Ladue, Ladue Horton Watkins High School, Ladoooo]}
+  - {id: mountain-house-high-school-ca, name: Mountain House High School, short: Mountain House, city: Mountain House, state: CA, aliases: [Mountain House]}
+  - {id: newtown-high-school-ct, name: Newtown High School, short: Newtown, city: Sandy Hook, state: CT, aliases: [Newtown]}
+  - {id: orange-county-school-of-the-arts-ca, name: Orange County School of the Arts, short: OCSA, city: Santa Ana, state: CA, aliases: [OCSA, Orange County School of the Arts]}
+  - {id: portola-high-school-ca, name: Portola High School, short: Portola, city: Irvine, state: CA, aliases: [Portola High School, Portola]}
+  - {id: quail-valley-middle-school-tx, name: Quail Valley Middle School, short: Quail Valley MS, city: Missouri City, state: TX, aliases: [Quail Valley, Quail Valley MS, QV Raiders]}
+  - {id: saint-francis-high-school-ca, name: Saint Francis High School, short: Saint Francis, city: Mountain View, state: CA, aliases: [Saint Francis]}
+  - {id: state-college-area-high-school-pa, name: State College Area High School, short: State College, city: State College, state: PA, aliases: [State College Area, State College Area HS]}
+  - {id: tokay-high-school-ca, name: Tokay High School, short: Tokay, city: Lodi, state: CA, aliases: [Tokay]}
+  - {id: monta-vista-high-school-ca, name: Monta Vista High School, short: Monta Vista, city: Cupertino, state: CA, aliases: [Monta Vista]}
+  - {id: mississippi-school-for-mathematics-and-science-ms, name: Mississippi School for Mathematics and Science, short: MSMS, city: Columbus, state: MS, aliases: [MSMS, Mississippi School for Math and Science, Mississippi School for Mathematics and Science]}
+  - {id: mt-ararat-high-school-me, name: Mt. Ararat High School, short: Mt. Ararat, city: Topsham, state: ME, aliases: [Mt. Ararat, Mt Ararat]}
+  - {id: plano-west-senior-high-school-tx, name: Plano West Senior High School, short: Plano West, city: Plano, state: TX, aliases: [Plano West, Plano West Senior High]}
+  - {id: research-triangle-high-school-nc, name: Research Triangle High School, short: Research Triangle, city: Durham, state: NC, aliases: [Research Triangle]}
+  - {id: st-croix-educational-complex-high-school-vi, name: St. Croix Educational Complex High School, short: St. Croix Educational Complex, city: Kingshill, state: VI, aliases: [St.Croix Educational Complex High School, St. Croix Educational Complex High School]}
+  - {id: thomas-s-wootton-high-school-md, name: Thomas S. Wootton High School, short: Wootton, city: Rockville, state: MD, aliases: [Thomas S Wootton High School, Wootton]}
+  - {id: walton-high-school-ga, name: Walton High School, short: Walton, city: Marietta, state: GA, aliases: [Walton High School, Walton]}
+  - {id: westtown-school-pa, name: Westtown School, short: Westtown, city: West Chester, state: PA, aliases: [Westtown School, Westtown]}
+  - {id: wheaton-high-school-md, name: Wheaton High School, short: Wheaton, city: Silver Spring, state: MD, aliases: [Wheaton]}
+  - {id: winston-churchill-high-school-md, name: Winston Churchill High School, short: Winston Churchill, city: Potomac, state: MD, aliases: [Winston Churchill, WCHS]}
+  - {id: winston-churchill-middle-school-ca, name: Winston Churchill Middle School, short: Winston Churchill MS, city: Carmichael, state: CA, aliases: [Winston Churchill Middle School]}
+  - {id: los-angeles-center-for-enriched-studies-ca, name: Los Angeles Center for Enriched Studies, short: LACES, city: Los Angeles, state: CA, aliases: [LACES]}
+  - {id: lincoln-east-high-school-ne, name: Lincoln East High School, short: Lincoln East, city: Lincoln, state: NE, aliases: [Lincoln East High School]}
+  - {id: marquette-senior-high-school-mo, name: Marquette Senior High School, short: Marquette, city: Chesterfield, state: MO, aliases: [Marquette]}
+  - {id: joaquin-miller-middle-school-ca, name: Joaquin Miller Middle School, short: Miller, city: San Jose, state: CA, aliases: [Miller, Miller Middle School]}
+  - {id: mountain-view-high-school-wa, name: Mountain View High School, short: Mountain View, city: Vancouver, state: WA, aliases: [Mountain View, Mountain View High School (WA)]}
+  - {id: mountain-view-high-school-tx-tx, name: Mountain View High School (TX), short: Mountain View (TX), city: El Paso, state: TX, aliases: [Mountain View High School (TX)]}
+  - {id: new-mexico-military-institute-nm, name: New Mexico Military Institute, short: NMMI, city: Roswell, state: NM, aliases: [New Mexico Military Institute]}
+  - {id: oklahoma-school-of-science-and-math-ok, name: Oklahoma School of Science and Math, short: OSSM, city: Oklahoma City, state: OK, aliases: [Oklahoma School of Science and Math, OK School of Science and Math]}
+  - {id: olathe-north-high-school-ks, name: Olathe North High School, short: Olathe North, city: Olathe, state: KS, aliases: [Olathe North Senior High School, Olathe North]}
+  - {id: sacramento-country-day-school-ca, name: Sacramento Country Day School, short: Sacramento Country Day, city: Sacramento, state: CA, aliases: [SCDS, Sacramento Country Day School]}
+  - {id: south-texas-isd-science-academy-tx, name: South Texas ISD Science Academy, short: STISD Science Academy, city: Mercedes, state: TX, aliases: [South Texas ISD Science Academy, SciTech Dragons]}
+  - {id: stockdale-high-school-ca, name: Stockdale High School, short: Stockdale, city: Bakersfield, state: CA, aliases: [Stockdale]}
+  - {id: transmountain-early-college-high-school-tx, name: Transmountain Early College High School, short: Transmountain, city: El Paso, state: TX, aliases: [Transmountain Early College High School]}
+  - {id: valley-high-school-oh, name: Valley High School, short: Valley, city: Lucasville, state: OH, aliases: [Valley High School]}
+  - {id: the-wilberforce-school-nj, name: The Wilberforce School, short: Wilberforce, city: Princeton, state: NJ, aliases: [The Wilberforce School]}
+  - {id: yarmouth-high-school-me, name: Yarmouth High School, short: Yarmouth, city: Yarmouth, state: ME, aliases: [Yarmouth]}
+  - {id: la-cueva-high-school-nm, name: La Cueva High School, short: La Cueva, city: Albuquerque, state: NM, aliases: [La Cueva]}
+  - {id: lambert-high-school-ga, name: Lambert High School, short: Lambert, city: Suwanee, state: GA, aliases: [Lambert]}
+  - {id: langley-high-school-va, name: Langley High School, short: Langley, city: McLean, state: VA, aliases: [Langley]}
+  - {id: liberty-middle-school-al, name: Liberty Middle School, short: Liberty MS, city: Madison, state: AL, aliases: []}
+  - {id: los-gatos-high-school-ca, name: Los Gatos High School, short: Los Gatos, city: Los Gatos, state: CA, aliases: [Los Gatos]}
+  - {id: mat-su-career-and-technical-high-school-ak, name: Mat-Su Career and Technical High School, short: Mat-Su Career & Tech, city: Wasilla, state: AK, aliases: [Mat-Su Career & Technical High School, Mat-Su Career and Technical High School]}
+  - {id: mccracken-county-high-school-ky, name: McCracken County High School, short: McCracken County, city: Paducah, state: KY, aliases: [McCracken County High School]}
+  - {id: mililani-high-school-hi, name: Mililani High School, short: Mililani, city: Mililani, state: HI, aliases: [Mililani]}
+  - {id: minnetonka-high-school-mn, name: Minnetonka High School, short: Minnetonka, city: Minnetonka, state: MN, aliases: [Minnetonka]}
+  - {id: natick-high-school-ma, name: Natick High School, short: Natick, city: Natick, state: MA, aliases: [Natick]}
+  - {id: new-canaan-high-school-ct, name: New Canaan High School, short: New Canaan, city: New Canaan, state: CT, aliases: [New Canaan]}
+  - {id: northfield-mount-hermon-school-ma, name: Northfield Mount Hermon School, short: Northfield Mount Hermon, city: Gill, state: MA, aliases: [Northfield Mount Hermon]}
+  - {id: northwood-high-school-ca, name: Northwood High School, short: Northwood, city: Irvine, state: CA, aliases: [Northwood]}
+  - {id: palm-desert-high-school-ca, name: Palm Desert High School, short: Palm Desert, city: Palm Desert, state: CA, aliases: [Palm Desert]}
+  - {id: phillips-exeter-academy-nh, name: Phillips Exeter Academy, short: Phillips Exeter, city: Exeter, state: NH, aliases: [Phillips Exeter, Phillips Exeter Academy]}
+  - {id: phillips-academy-ma, name: Phillips Academy, short: Phillips Andover, city: Andover, state: MA, aliases: [Phillips Andover]}
+  - {id: pleasant-valley-high-school-ia, name: Pleasant Valley High School, short: Pleasant Valley, city: Bettendorf, state: IA, aliases: [Pleasant Valley High School]}
+  - {id: pleasanton-middle-school-ca, name: Pleasanton Middle School, short: Pleasanton MS, city: Pleasanton, state: CA, aliases: [Pleasanton Middle School]}
+  - {id: ray-high-school-tx, name: Ray High School, short: Ray, city: Corpus Christi, state: TX, aliases: [Ray High School]}
+  - {id: rock-bridge-high-school-mo, name: Rock Bridge High School, short: Rock Bridge, city: Columbia, state: MO, aliases: [Rock Bridge]}
+  - {id: roxbury-latin-school-ma, name: Roxbury Latin School, short: Roxbury Latin, city: Boston, state: MA, aliases: [Roxbury Latin]}
+  - {id: san-mateo-high-school-ca, name: San Mateo High School, short: San Mateo, city: San Mateo, state: CA, aliases: [San Mateo]}
+  - {id: south-carolina-governors-school-for-science-and-mathematics-sc, name: South Carolina Governor's School for Science and Mathematics, short: SCGSSM, city: Hartsville, state: SC, aliases: [SCGSSM]}
+  - {id: shaker-high-school-ny, name: Shaker High School, short: Shaker, city: Latham, state: NY, aliases: [Shaker]}
+  - {id: staples-high-school-ct, name: Staples High School, short: Staples, city: Westport, state: CT, aliases: [Staples]}
+  - {id: tenafly-high-school-nj, name: Tenafly High School, short: Tenafly, city: Tenafly, state: NJ, aliases: [Tenafly]}
+  - {id: twin-falls-high-school-id, name: Twin Falls High School, short: Twin Falls, city: Twin Falls, state: ID, aliases: [Twin Falls High School]}
+  - {id: walnut-high-school-ca, name: Walnut High School, short: Walnut, city: Walnut, state: CA, aliases: [Walnut]}
+  - {id: wayland-high-school-ma, name: Wayland High School, short: Wayland, city: Wayland, state: MA, aliases: [Wayland]}
+  - {id: woodstock-academy-ct, name: Woodstock Academy, short: Woodstock, city: Woodstock, state: CT, aliases: [Woodstock]}
+  - {id: la-canada-high-school-ca, name: La Cañada High School, short: La Cañada, city: La Cañada Flintridge, state: CA, aliases: [La Canada]}
+  - {id: ladue-middle-school-mo, name: Ladue Middle School, short: Ladue MS, city: St. Louis, state: MO, aliases: [Ladue MS]}
+  - {id: liberal-arts-and-science-academy-tx, name: Liberal Arts and Science Academy, short: LASA, city: Austin, state: TX, aliases: [LASA, Liberal Arts and Sciences Academy]}
+  - {id: libertyville-high-school-il, name: Libertyville High School, short: Libertyville, city: Libertyville, state: IL, aliases: [Libertyville High School]}
+  - {id: longwood-high-school-ny, name: Longwood High School, short: Longwood, city: Middle Island, state: NY, aliases: [Longwood]}
+  - {id: madisonville-north-hopkins-high-school-ky, name: Madisonville North Hopkins High School, short: Madisonville North Hopkins, city: Madisonville, state: KY, aliases: [Madisonville North Hopkins High School]}
+  - {id: maine-school-of-science-and-mathematics-me, name: Maine School of Science & Mathematics, short: MSSM, city: Limestone, state: ME, aliases: [Maine School of Science & Mathematics]}
+  - {id: mason-high-school-oh, name: Mason High School, short: Mason, city: Mason, state: OH, aliases: [Mason High School]}
+  - {id: massachusetts-academy-of-math-and-science-at-wpi-ma, name: Massachusetts Academy of Math and Science at WPI, short: Mass Academy, city: Worcester, state: MA, aliases: [Mass Academy]}
+  - {id: morris-hills-high-school-nj, name: Morris Hills High School, short: Morris Hills, city: Rockaway, state: NJ, aliases: [Morris Hills]}
+  - {id: mount-ellis-academy-mt, name: Mount Ellis Academy, short: Mount Ellis, city: Bozeman, state: MT, aliases: [Mount Ellis]}
+  - {id: mt-lebanon-high-school-pa, name: Mt. Lebanon High School, short: Mt. Lebanon, city: Pittsburgh, state: PA, aliases: [Mt. Lebanon]}
+  - {id: nation-ford-high-school-sc, name: Nation Ford High School, short: Nation Ford, city: Fort Mill, state: SC, aliases: [Nation Ford]}
+  - {id: north-idaho-stem-charter-academy-id, name: North Idaho STEM Charter Academy, short: North Idaho STEM, city: Rathdrum, state: ID, aliases: [North ID STEM]}
+  - {id: northville-high-school-mi, name: Northville High School, short: Northville, city: Northville, state: MI, aliases: [Northville, Northville Mustangs]}
+  - {id: nsu-university-school-fl, name: NSU University School, short: NSU University School, city: Davie, state: FL, aliases: [NSU University School]}
+  - {id: oak-creek-high-school-wi, name: Oak Creek High School, short: Oak Creek, city: Oak Creek, state: WI, aliases: [Oak Creek]}
+  - {id: obra-d-tompkins-high-school-tx, name: Obra D. Tompkins High School, short: Tompkins, city: Katy, state: TX, aliases: [Obra D. Tompkins]}
+  - {id: ocean-springs-high-school-ms, name: Ocean Springs High School, short: Ocean Springs, city: Ocean Springs, state: MS, aliases: [Ocean Springs High School]}
+  - {id: odle-middle-school-wa, name: Odle Middle School, short: Odle, city: Bellevue, state: WA, aliases: [Odle, Odle MS, Odle Middle School]}
+  - {id: palisades-charter-high-school-ca, name: Palisades Charter High School, short: Palisades, city: Pacific Palisades, state: CA, aliases: [Palisades, Pali, Palisades Charter]}
+  - {id: palos-verdes-high-school-ca, name: Palos Verdes High School, short: Palos Verdes, city: Palos Verdes Estates, state: CA, aliases: [Palos Verdes]}
+  - {id: peddie-school-nj, name: Peddie School, short: Peddie, city: Hightstown, state: NJ, aliases: [Peddie]}
+  - {id: john-b-connally-high-school-tx, name: John B. Connally High School, short: Pflugerville Connally, city: Austin, state: TX, aliases: [Pflugerville Connally]}
+  - {id: phillipsburg-high-school-nj, name: Phillipsburg High School, short: Phillipsburg, city: Phillipsburg, state: NJ, aliases: [Phillipsburg]}
+  - {id: lake-ridge-high-school-tx, name: Lake Ridge High School, short: Mansfield Lake Ridge, city: Mansfield, state: TX, aliases: [Mansfield Lake Ridge]}
+  - {id: ravenwood-high-school-tn, name: Ravenwood High School, short: Ravenwood, city: Brentwood, state: TN, aliases: [Ravenwood High School]}
+  - {id: ridge-high-school-nj, name: Ridge High School, short: Ridge, city: Basking Ridge, state: NJ, aliases: [Ridge High School]}
+  - {id: round-rock-high-school-tx, name: Round Rock High School, short: Round Rock, city: Round Rock, state: TX, aliases: [Round Rock]}
+  - {id: saint-johns-school-pr, name: Saint John's School, short: Saint John's, city: San Juan, state: PR, aliases: [Saint John's School]}
+  - {id: san-marino-high-school-ca, name: San Marino High School, short: San Marino, city: San Marino, state: CA, aliases: [San Marino]}
+  - {id: santa-monica-high-school-ca, name: Santa Monica High School, short: Santa Monica, city: Santa Monica, state: CA, aliases: [Santa Monica]}
+  - {id: seekonk-high-school-ma, name: Seekonk High School, short: Seekonk, city: Seekonk, state: MA, aliases: [Seekonk]}
+  - {id: simi-valley-high-school-ca, name: Simi Valley High School, short: Simi Valley, city: Simi Valley, state: CA, aliases: [Simi Valley]}
+  - {id: soldotna-high-school-ak, name: Soldotna High School, short: Soldotna, city: Soldotna, state: AK, aliases: [Soldotna High School]}
+  - {id: solon-high-school-oh, name: Solon High School, short: Solon, city: Solon, state: OH, aliases: [Solon]}
+  - {id: south-pasadena-high-school-ca, name: South Pasadena High School, short: South Pasadena, city: South Pasadena, state: CA, aliases: [South Pasadena]}
+  - {id: south-windsor-high-school-ct, name: South Windsor High School, short: South Windsor, city: South Windsor, state: CT, aliases: [South Windsor]}
+  - {id: st-margarets-episcopal-school-ca, name: St. Margaret's Episcopal School, short: St. Margaret's, city: San Juan Capistrano, state: CA, aliases: [St. Margaret's]}
+  - {id: stargate-charter-school-co, name: Stargate Charter School, short: Stargate, city: Thornton, state: CO, aliases: [Stargate Charter School]}
+  - {id: stevens-high-school-sd, name: Stevens High School, short: Stevens, city: Rapid City, state: SD, aliases: [Stevens High School]}
+  - {id: strake-jesuit-college-preparatory-tx, name: Strake Jesuit College Preparatory, short: Strake Jesuit, city: Houston, state: TX, aliases: [Strake Jesuit College Preparatory]}
+  - {id: texas-academy-of-mathematics-and-science-tx, name: Texas Academy of Mathematics and Science, short: TAMS, city: Denton, state: TX, aliases: [TAMS]}
+  - {id: the-woodlands-high-school-tx, name: The Woodlands High School, short: The Woodlands, city: The Woodlands, state: TX, aliases: [The Woodlands, Woodlands]}
+  - {id: timpview-high-school-ut, name: Timpview High School, short: Timpview, city: Provo, state: UT, aliases: [Timpview High School]}
+  - {id: tupelo-high-school-ms, name: Tupelo High School, short: Tupelo, city: Tupelo, state: MS, aliases: [Tupelo]}
+  - {id: valley-christian-high-school-ca, name: Valley Christian High School, short: Valley Christian, city: San Jose, state: CA, aliases: [Valley Christian]}
+  - {id: wakeland-high-school-tx, name: Wakeland High School, short: Wakeland, city: Frisco, state: TX, aliases: [Wakeland Wolverines]}
+  - {id: walter-reed-middle-school-ca, name: Walter Reed Middle School, short: Walter Reed MS, city: Los Angeles, state: CA, aliases: [Walter Reed]}
+  - {id: waynflete-school-me, name: Waynflete School, short: Waynflete, city: Portland, state: ME, aliases: [Waynflete]}
+  - {id: wisconsin-hills-middle-school-wi, name: Wisconsin Hills Middle School, short: Wisconsin Hills MS, city: Brookfield, state: WI, aliases: [Wisconsin Hills]}
+  - {id: evergreen-middle-school-redmond-wa, name: Evergreen Middle School (Redmond), short: Evergreen MS (Redmond), city: Redmond, state: WA, aliases: [Redmond Evergreen MS]}
+  - {id: martin-luther-king-high-school-ca, name: Martin Luther King High School, short: MLK, city: Riverside, state: CA, aliases: [MLK, Martin Luther King High School, Martin Luther King Jr, Martin Luther King]}
+  - {id: university-high-school-of-science-and-engineering-ct, name: University High School of Science and Engineering, short: UHSSE, city: Hartford, state: CT, aliases: []}
+  - {id: lakeside-high-school-evans-ga, name: Lakeside High School (Evans), short: Lakeside (GA), city: Evans, state: GA, aliases: []}
+  - {id: miramonte-high-school-ca, name: Miramonte High School, short: Miramonte, city: Orinda, state: CA, aliases: [Miramonte]}
+composite:
+  - {name: law-abiding citizens, school: null}
+  - {name: Law Abiding Citizens, school: null}
+  - {name: lampreys, school: null}
+  - {name: Langley + 4435, school: langley-high-school-va}
+  - {name: LE SSERAFIM, school: null}
+  - {name: lebron, school: null}
+  - {name: Lebron james my almighty goat. Oh how glorius my king is, school: north-hollywood-senior-high-school-ca}
+  - {name: Lebron to the 76ers, school: null}
+  - {name: Lex E (Con), school: null}
+  - {name: limitless, school: null}
+  - {name: Little Dippers, school: null}
+  - {name: Long Live Luggy, school: alabama-school-of-fine-arts-al}
+  - {name: Los Niños, school: null}
+  - {name: Lovelace Leaf, school: null}
+  - {name: Luka Fan Club, school: null}
+  - {name: Lunar Legends, school: null}
+  - {name: MAAOC, school: null}
+  - {name: Math Nexus, school: west-windsor-plainsboro-high-school-south-nj}
+  - {name: Mathlete, school: null}
+  - {name: mike oxlong, school: null}
+  - {name: Mikey Mouse Middleton, school: middleton-high-school-wi}
+  - {name: Mingworms, school: null}
+  - {name: Minnesota Institute of Timberwolves, school: null}
+  - {name: Mira North, school: null}
+  - {name: Mmmmmmmeteorologyyyyyyyyyyyyyy, school: troy-high-school-fullerton-ca}
+  - {name: MN Eggdogs, school: null}
+  - {name: Mono Maestros, school: niskayuna-high-school-ny}
+  - {name: Montessori, school: null}
+  - {name: Montongbery Bleir, school: montgomery-blair-high-school-md}
+  - {name: The Mother Doers, school: mission-san-jose-high-school-ca}
+  - {name: Msj b wo chem and phys, school: mission-san-jose-high-school-ca}
+  - {name: Mumbai Mole-esters, school: null}
+  - {name: Names Are Hard, school: null}
+  - {name: NileGreen, school: null}
+  - {name: no like blue, school: null}
+  - {name: Non-Simps + Vishwa, school: null}
+  - {name: Nonchalant Dreadheads, school: null}
+  - {name: North Hollywood School of Fine Arts, school: north-hollywood-senior-high-school-ca}
+  - {name: Null Hypo., school: null}
+  - {name: okc, school: null}
+  - {name: Okeh City Okehios, school: null}
+  - {name: Old Hollylake, school: null}
+  - {name: Olympiad Farmers, school: null}
+  - {name: Orang, school: null}
+  - {name: Orangeberries, school: lynbrook-high-school-ca}
+  - {name: Orthogonal Basis, school: null}
+  - {name: Orthonormal BASIS, school: null}
+  - {name: the other team, school: null}
+  - {name: Outstanding Orangutans, school: null}
+  - {name: pain in the upper right quadrant of the abdomen, school: null}
+  - {name: Panthers, school: null}
+  - {name: Patel Family, school: alabama-school-of-fine-arts-al}
+  - {name: periodih table, school: lubbock-high-school-tx}
+  - {name: Phoenix, school: null}
+  - {name: phylogenetichemistree, school: null}
+  - {name: Pikmd, school: null}
+  - {name: Pilgrimage Homeschool, school: null}
+  - {name: Pleasanton, school: null}
+  - {name: Plezburgerchez, school: null}
+  - {name: Pneumonia, school: null}
+  - {name: POBJFK, school: null}
+  - {name: Ponnor St. Germain, school: null}
+  - {name: Princeton Unified, school: null}
+  - {name: Pyrite Popsicles, school: north-hollywood-senior-high-school-ca}
+  - {name: Quadratic Acid, school: null}
+  - {name: r-salam, school: null}
+  - {name: Re2rement Home, school: null}
+  - {name: Reddy 1, school: null}
+  - {name: refractory period, school: null}
+  - {name: River-Hawks-A, school: null}
+  - {name: River-Hawks-B, school: null}
+  - {name: RMCC, school: null}
+  - {name: Royal Hogs, school: null}
+  - {name: RVA, school: null}
+  - {name: sadfk, school: null}
+  - {name: San Gabriel, school: null}
+  - {name: Sans-Undertale, school: null}
+  - {name: Scarlet-Pixels, school: null}
+  - {name: Schrodinger, school: null}
+  - {name: Science Bowlers, school: null}
+  - {name: Scioly, school: null}
+  - {name: Scioly Sucks, school: null}
+  - {name: Scrubby Teletubbies, school: null}
+  - {name: Seanjay, school: null}
+  - {name: Seattle Schrodinger Squad, school: null}
+  - {name: Sexington High School + Con, school: null}
+  - {name: SGVG, school: null}
+  - {name: Sheep B, school: null}
+  - {name: shittier kids, school: null}
+  - {name: Snowy Dusky Bagels, school: null}
+  - {name: Sodium Hypobromite, school: null}
+  - {name: South Hollywood, school: north-hollywood-senior-high-school-ca}
+  - {name: sqrt(boneca-anurag), school: null}
+  - {name: Squishy Cats, school: null}
+  - {name: SSM-GH, school: null}
+  - {name: SSP Warriors, school: null}
+  - {name: Standard Basis, school: null}
+  - {name: StarGatevanic Cell, school: stargate-charter-school-co}
+  - {name: Stevens Creek, school: null}
+  - {name: Sticks and Bricks, school: null}
+  - {name: (Stitch)^2, school: null}
+  - {name: Switchgrass, school: null}
+  - {name: Synthase, school: null}
+  - {name: Throrthwood Tottenham, school: null}
+  - {name: Trophonyms are placental names, school: null}
+  - {name: U-235 Soup, school: null}
+  - {name: Ultimate Uzbeks, school: null}
+  - {name: Uncs, school: null}
+  - {name: unresponsive on discord, school: null}
+  - {name: Up Syndrome, school: null}
+  - {name: usmic, school: null}
+  - {name: Vancomycin, school: west-windsor-plainsboro-high-school-north-nj}
+  - {name: Varun Clemens, school: null}
+  - {name: Vedang, school: null}
+  - {name: VenLangLoma, school: null}
+  - {name: VMATHS, school: null}
+  - {name: Walter White Phosphorus, school: null}
+  - {name: Wayzata/Blair, school: null}
+  - {name: We r Charlie Karwin, school: null}
+  - {name: Weilords, school: null}
+  - {name: Westy Besties, school: null}
+  - {name: West Brunswick, school: null}
+  - {name: William Mason, school: mason-high-school-oh}
+  - {name: Xpoes'S X-Riskers, school: null}
+  - {name: Yared, school: null}
+  - {name: Yeetus Thy Fetus, school: null}
+  - {name: zootopia, school: null}
+overrides:
+  Lakeside High School: {school: lakeside-high-school-evans-ga, letter: A}
+  '2021-02-20-csbl::University': {school: university-high-school-of-science-and-engineering-ct, letter: A}
+  '2021-01-24-wisc::Winston Churchill': {school: winston-churchill-middle-school-ca, letter: A}
+  '2020-11-06-mit-science-bowl::LHS': {school: lexington-high-school-ma, letter: A}
+  '2025-04-13-tjsbt::Princeton': {composite: true, school: princeton-international-school-of-mathematics-and-science-nj}
+  '2023-04-02-olympus::Troy': {school: troy-high-school-fullerton-ca, letter: A}
+  '2024-09-15-aves::Troy High School': {school: troy-high-school-fullerton-ca, letter: A}
+  '2025-04-19-science-bowl-at-ucla::Troy': {school: troy-high-school-fullerton-ca, letter: A}
+  '2020-10-01-sbl::Pirates': {school: west-windsor-plainsboro-high-school-south-nj, letter: A}
+  '2020-12-19-mosfet::Pirates A': {school: west-windsor-plainsboro-high-school-south-nj, letter: A}
+  '2025-11-15-mit-invitational::South Jersey': {school: west-windsor-plainsboro-high-school-south-nj, letter: A}
+  '2026-03-01-johns-hopkins-science-bowl::South Jersey': {school: west-windsor-plainsboro-high-school-south-nj, letter: A}
+  '2023-10-08-smh-rookie::Poolesville Alphas': {school: poolesville-high-school-md, letter: A}
+  '2023-10-08-smh-rookie::Poolesville Thetas': {school: poolesville-high-school-md, letter: B}
+  '2023-10-08-smh-rookie::Poolesville Rhos': {school: poolesville-high-school-md, letter: C}
+  '2023-10-08-smh-rookie::Poolesville Phis': {school: poolesville-high-school-md, letter: D}
+  '2023-10-01-smh-standard::Poolesville Sigmas': {school: poolesville-high-school-md, letter: A}
+  '2026-03-01-johns-hopkins-science-bowl::poolesville village idiots': {school: poolesville-high-school-md, letter: A}
+  '2020-10-01-sbl::Ladue Blue': {school: ladue-horton-watkins-high-school-mo, letter: A}
+  '2020-10-01-sbl::Ladue White': {school: ladue-horton-watkins-high-school-mo, letter: B}
+  '2025-10-19-south-clemens-bonanza::Lynbrook Argon': {school: lynbrook-high-school-ca, letter: A}
+  '2025-10-19-south-clemens-bonanza::Lynbrook Boron': {school: lynbrook-high-school-ca, letter: B}
+  '2025-10-19-south-clemens-bonanza::Lynbrook Carbon': {school: lynbrook-high-school-ca, letter: C}
+  '2024-01-06-iolani-invitational::Punahou Basalt': {school: punahou-school-hi, letter: A}
+  '2024-01-06-iolani-invitational::Punahou Beta Pleated Sheets': {school: punahou-school-hi, letter: B}
+  '2024-01-06-iolani-invitational::Punahou 8ths': {school: punahou-school-hi, letter: C}
+  '2023-02-05-ignis-virtual-east::Liberty A': {school: liberty-middle-school-al, letter: A}
+  '2023-02-05-ignis-virtual-east::Liberty B': {school: liberty-middle-school-al, letter: B}
+  '2024-10-27-brooklyn-tech-invitational::Mustangs': {school: mountain-house-high-school-ca, letter: A}
+  '2025-01-12-nwi-2::Orange County': {school: orange-county-school-of-the-arts-ca, letter: A}
+  '2026-01-18-texas-science-bowl::The Outliers': {school: quail-valley-middle-school-tx, letter: A}
+  '2025-02-08-hunter-invitational::SUN': {school: canyon-crest-academy-ca, letter: A}
+  '2025-02-08-hunter-invitational::WUKONG': {school: canyon-crest-academy-ca, letter: B}
+  '2026-01-18-texas-science-bowl::LeBroncos': {school: clovis-north-high-school-ca, letter: A}
+  Rickards: {school: james-s-rickards-high-school-fl, letter: A}
+  Rickards A: {school: james-s-rickards-high-school-fl, letter: A}
+  '2025-03-01-stanford-science-bowl::Logan': {school: james-logan-high-school-ca, letter: A}
+  '2022-03-26-prometheus::Warde': {school: fairfield-warde-high-school-ct, letter: A}
+  Shallow Walk team A: {school: deep-run-high-school-va, letter: A}
+  Shallow Stroll Team B: {school: deep-run-high-school-va, letter: B}
+  Shallow Walk A: {school: deep-run-high-school-va, letter: A}
+  Shallow Walk B: {school: deep-run-high-school-va, letter: B}
+  Shallow Walk: {school: deep-run-high-school-va, letter: A}
+unknown:
+  - {base: Lincoln, why: '''Lincoln 1'' (SMH Rookie, online): many Lincoln high schools, no school evidence'}
+  - {base: Mira, why: '''Mira A/B'' (LOST 2021, no players): Mira Loma vs Mira Costa etc.'}
+  - {base: Montgomery, why: 'Prometheus 2022, first names only; Montgomery HS (NJ) vs other Montgomerys (Blair/RM entered separately)'}
+  - {base: Naperville, why: 'LOST 2021, no players: Naperville North vs Naperville Central'}
+  - {base: Nashua, why: '''Nashua 1/2/3'' (MIT 2022, no players): Nashua High School North vs South'}
+  - {base: Northview, why: 'Prometheus 2022, 2 first names; many Northview high schools (GA, CA, ...)'}
+  - {base: Olympia, why: 'Prometheus 2022, first names only; Olympia HS (WA) vs (FL)'}
+  - {base: Roosevelt, why: 'Ignis Virtual West 2023; many Roosevelt high schools, no hint'}
+  - {base: Redmond, why: '4 online events, first names only; Redmond HS (WA) vs (OR) vs Redmond MS'}
+  - {base: Stevenson, why: 'MOSFET Advanced 2025, no players; Adlai Stevenson (IL) vs Stevenson HS (MI) vs Stevenson School (CA)'}
+  - {base: West Windsor, why: 'MIT 2022 / WSBT 2022, no players; could be WW-P North or WW-P South'}
+  - {base: WWP, why: 'LOST 2021, no players; WW-P North vs South'}
+  - {base: Toga, why: 'MIT 2024, no players; Saratoga HS (CA) vs Saratoga Springs HS (NY)'}
+  - {base: Sci Tech, why: 'MIT 2024, no players; several ''Sci-Tech'' schools (Springfield MA, STEM magnet CT, Science Academy of South Texas)'}
+  - {base: SciTech, why: 'MIT Invitational 2025, no players; same ambiguity as ''Sci Tech'''}
+  - {base: Science Academy, why: 'MIT 2020 / NSI 2023, no players; generic name'}
+  - {base: Waterford, why: 'MIT Invitational 2025, no players; Waterford HS (CT) vs Waterford School (UT) vs Waterford (MI)'}
+  - {base: Portsmouth, why: 'MIT 2024, no players; Portsmouth HS exists in NH and RI'}
+  - {base: MCA, why: 'Ignis Virtual East 2023; ambiguous abbreviation (Middlesex County Academy NJ?)'}
+  - {base: MCVTS, why: SMH Rookie 2023; Middlesex County vocational district has several academies}
+  - {base: TMSA, why: 'ambiguous abbreviation, online-only (isobowl rise / Hawaii online)'}
+  - {base: TSA, why: '''TSA A/B'' (Prometheus 2022); ambiguous abbreviation, Lexington-area players'}
+  - {base: RMSST, why: '''RMSST A/B'' (SBL 2020); unknown abbreviation'}
+  - {base: WM ScioBowl, why: 'MIT 2020; unknown ''WM'' school (Ward Melville? William & Mary?)'}
+  - {base: MCTM Intl, why: Prometheus 2022; unknown abbreviation}
+  - {base: Mengs, why: 'Brooklyn Tech Inv 2024, registered school ''Blake'' (Blake School MN vs Blake HS MD)'}
+  - {base: Marshall, why: 'UCLA 2025, no players; John Marshall HS (LA) vs Marshall Fundamental (Pasadena)'}
+  - {base: Maui, why: 'Prometheus 2022, first names only; Maui HS or a pickup'}
+  - {base: Peter, why: bare first name (DASONI 2022)}
+  - {base: South County MS, why: DBHSST 2021; several South County middle schools}
+  - {base: Vista del Lago, why: online only; Vista del Lago HS Folsom vs Moreno Valley}
+  - {base: St. Mark's, why: NWI 2024; St. Mark's School of Texas vs St. Mark's School (MA)}
+  - {base: Millhill, why: 'DAST 2021, no players; unknown'}
+  - {base: McLean, why: 'NWI 2024 / MNSBT 2024, no players; McLean HS (VA) vs BASIS Independent McLean'}

@@ -230,8 +230,10 @@ def build() -> dict[str, Any]:
                 team_id = f"{team_id}--{slugify(tr['team'])}"
             team_map[tr["team"]] = team_id
             if team_id not in teams:
+                # uncurated names keep their raw form ("Peter", not "Peter A") unless lettered
+                bare = not sch.curated and split_team_name(tr["team"])[1] is None
                 teams[team_id] = {"id": team_id, "school_id": sid, "letter": None if comp else letter,
-                                  "name": sch.short if comp else f"{sch.short} {letter}",
+                                  "name": sch.short if comp or bare else f"{sch.short} {letter}",
                                   "composite": comp, "raw_names": []}
             if tr["team"] not in teams[team_id]["raw_names"]:
                 teams[team_id]["raw_names"].append(tr["team"])

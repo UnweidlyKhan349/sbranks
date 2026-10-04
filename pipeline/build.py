@@ -57,11 +57,11 @@ def build_periods(res: dict[str, Any], tourns: dict[str, registry.Tournament]) -
 
 def tune(periods: list[dict[str, Any]], team_meta: dict[str, Any]) -> glicko.GlickoParams:
     grid = {
-        "mov_weight": [0.0, 0.3, 0.5, 0.7],
-        "mov_scale": [60.0, 100.0],
-        "rd_per_year": [80.0, 140.0],
-        "season_regress": [0.2, 0.4],
-        "init_rd": [250.0, 330.0],
+        "mov_weight": [0.0, 0.2, 0.3, 0.45],
+        "mov_scale": [40.0, 60.0, 90.0],
+        "rd_per_year": [40.0, 60.0, 80.0, 120.0],
+        "season_regress": [0.0, 0.1, 0.2, 0.35],
+        "init_rd": [300.0, 350.0],
     }
     best, best_ll = None, 9e9
     keys = list(grid)
