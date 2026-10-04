@@ -1,4 +1,4 @@
-import { h, clear, fmt, dataTable, tile, section, pageHead, notFound, SUBJECTS, subjColor, subjTag, parseDate, href, emptyState } from "../ui.js";
+import { h, clear, fmt, delta, dataTable, tile, section, pageHead, notFound, SUBJECTS, subjColor, subjTag, parseDate, href, emptyState } from "../ui.js";
 import { lineChart, refBars } from "../charts.js";
 import { meta, teams, players, tournaments, playerDetail } from "../data.js";
 import { teamA, schoolA, tournamentA } from "../links.js";
@@ -131,6 +131,10 @@ export async function render(ctx) {
   // ---- per-tournament stats
   const stats = (d.stats || []).slice().reverse();
   const sv = (row, subj, k) => (row.s[subj] ? row.s[subj][k] : null);
+  // overall rating after each tournament (snapshots are keyed by the tournament's end date)
+  const ovHist = (d.history && d.history.overall) || [];
+  const ovIdx = new Map(ovHist.map((x, i) => [x.d, i]));
+  const change = (r) => { const i = ovIdx.get(r.d); return i == null ? null : { post: ovHist[i].r, dr: i > 0 ? ovHist[i].r - ovHist[i - 1].r : null }; };
   const columns = [
     { key: "d", label: "Date", sort: (r) => r.d, defaultDir: "desc", render: (r) => h("span", { class: "nowrap" }, fmt.date(r.d)) },
     { key: "t", label: "Tournament", cls: "name", sort: (r) => (TR.byId.get(r.t) || {}).name || r.t, render: (r) => h("div", null, tournamentA(TR, r.t), r.scope === "rr" ? h("span", { class: "sub" }, "round robin only") : r.scope === "playoff" ? h("span", { class: "sub" }, "playoffs only") : null) },
@@ -142,12 +146,15 @@ export async function render(ctx) {
     { key: "pts", label: "Pts", num: true, title: "Tossup points", sort: (r) => sv(r, "overall", "pts"), render: (r) => fmt.int(sv(r, "overall", "pts")) },
     { key: "ppg", label: "PPG", num: true, sort: (r) => ppg(r), render: (r) => fmt.num(ppg(r)) },
     { key: "ptuh", label: "P/TUH", num: true, sort: (r) => ptuh(r), render: (r) => fmt.num(ptuh(r), 2) },
+    ovHist.length ? { key: "post", label: "Rating", num: true, title: "Overall rating after this tournament", sort: (r) => change(r)?.post, render: (r) => fmt.r(change(r)?.post) } : null,
+    ovHist.length ? { key: "dr", label: "Change", num: true, title: "Change in overall rating since the previous tournament", sort: (r) => change(r)?.dr,
+      render: (r) => { const c = change(r); return c && c.dr == null ? h("span", { class: "muted", title: "First rated tournament" }, "new") : delta(c ? c.dr : null); } } : null,
     ...SUBJECTS.map((x) => ({
       key: x.key, num: true, title: `${x.label} tossup points`, sort: (r) => sv(r, x.key, "pts"),
       label: h("span", { class: "subj-label" }, h("span", { class: "swatch", style: { background: subjColor(x.key) }, "aria-hidden": "true" }), x.short),
       render: (r) => fmt.int(sv(r, x.key, "pts")),
     })),
-  ];
+  ].filter(Boolean);
   function ppg(r) {
     const o = r.s.overall;
     if (!o) return null;

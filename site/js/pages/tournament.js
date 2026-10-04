@@ -1,4 +1,4 @@
-import { h, fmt, dataTable, tile, section, pageHead, notFound, notice, SUBJECTS, subjColor, subjLabel, champBadge, upsetBadge, badge, emptyState, extLink } from "../ui.js";
+import { h, fmt, delta, dataTable, tile, section, pageHead, notFound, notice, SUBJECTS, subjColor, subjLabel, champBadge, upsetBadge, badge, emptyState, extLink } from "../ui.js";
 import { teams, players, tournaments, tournamentDetail } from "../data.js";
 import { teamA, playerA, kindLabel, levelBadge, championA, sourceRoleLabel, sourceKindLabel } from "../links.js";
 import { coverageBadges } from "./tournaments.js";
@@ -65,6 +65,7 @@ export async function render(ctx) {
   // ---- standings
   const champ = row.champion;
   const scored = (t.teams || []).some((r) => r.ppg != null);
+  const rated = (t.teams || []).some((r) => r.dr != null);
   root.appendChild(section("Standings", scored ? "Sorted by wins, then fewest losses, then points per game" : "Sorted by wins, then fewest losses (no scores were published)", dataTable([
     { key: "i", label: "#", num: true, cls: "rank", render: (r, i) => i + 1 },
     { key: "tm", label: "Team", cls: "name", sort: (r) => (T.byId.get(r.tm) || {}).name || r.raw,
@@ -86,7 +87,12 @@ export async function render(ctx) {
       { key: "papg", label: "PAPG", num: true, title: "Points allowed per game", sort: (r) => r.papg, render: (r) => fmt.num(r.papg) },
       { key: "mrg", label: "Margin", num: true, sort: (r) => (r.ppg != null ? r.ppg - r.papg : null), render: (r) => (r.ppg != null ? fmt.signed(r.ppg - r.papg, 1) : "–") },
     ] : []),
-    { key: "rating", label: "Rating now", num: true, title: "Current overall rating", sort: (r) => (T.byId.get(r.tm) || {}).r, render: (r) => fmt.r((T.byId.get(r.tm) || {}).r) },
+    ...(rated ? [
+      { key: "post", label: "Rating", num: true, title: "Overall rating after this tournament (before → after)", sort: (r) => r.post,
+        render: (r) => (r.post == null ? "–" : h("span", { class: "nowrap" }, r.pre != null ? h("span", { class: "muted" }, `${fmt.r(r.pre)} → `) : null, fmt.r(r.post))) },
+      { key: "dr", label: "Change", num: true, title: "Change in overall rating at this tournament", sort: (r) => r.dr, render: (r) => delta(r.dr) },
+    ] : []),
+    { key: "rating", label: "Rating now", num: true, hideSm: true, title: "Current overall rating", sort: (r) => (T.byId.get(r.tm) || {}).r, render: (r) => fmt.r((T.byId.get(r.tm) || {}).r) },
     { key: "note", label: "", render: (r) => (r.tm === champ ? champBadge() : "") },
   ], t.teams || [], { empty: "No standings." })));
 
@@ -194,6 +200,7 @@ function playerSection(rows, P, T, { individual = false } = {}) {
   const ppg = (r) => { const o = r.s.overall; if (!o) return null; if (o.ppg != null) return o.ppg; return o.pts != null && o.gp ? o.pts / o.gp : null; };
   const ptuh = (r) => { const o = r.s.overall; return o && o.tuh && o.pts != null ? o.pts / o.tuh : null; };
   const hasSubj = rows.some((r) => SUBJECTS.some((x) => r.s[x.key]));
+  const hasChange = rows.some((r) => r.post != null);
   const columns = [
     { key: "p", label: "Player", cls: "name", sort: (r) => (P.byId.get(r.p) || {}).name || r.p, render: (r) => playerA(P, r.p) },
     individual ? null : { key: "tm", label: "Team", cls: "team", sort: (r) => (T.byId.get(r.tm) || {}).name || r.tm, render: (r) => teamA(T, r.tm, { pickup: false }) },
@@ -204,6 +211,8 @@ function playerSection(rows, P, T, { individual = false } = {}) {
     { key: "pts", label: "Pts", num: true, title: "Tossup points", sort: (r) => sv(r, "overall", "pts"), render: (r) => fmt.int(sv(r, "overall", "pts")) },
     { key: "ppg", label: "PPG", num: true, sort: ppg, render: (r) => fmt.num(ppg(r)) },
     { key: "ptuh", label: "P/TUH", num: true, sort: ptuh, render: (r) => fmt.num(ptuh(r), 2) },
+    hasChange ? { key: "post", label: "Rating", num: true, title: "Overall player rating after this tournament", sort: (r) => r.post, render: (r) => fmt.r(r.post) } : null,
+    hasChange ? { key: "dr", label: "Change", num: true, title: "Change in overall player rating since the player's previous tournament", sort: (r) => r.dr, render: (r) => (r.post != null && r.dr == null ? h("span", { class: "muted", title: "First rated tournament" }, "new") : delta(r.dr)) } : null,
     ...(hasSubj ? SUBJECTS.map((x) => ({
       key: x.key, num: true, title: `${x.label} tossup points`, sort: (r) => sv(r, x.key, "pts"),
       label: h("span", { class: "subj-label" }, h("span", { class: "swatch", style: { background: subjColor(x.key) }, "aria-hidden": "true" }), x.short),

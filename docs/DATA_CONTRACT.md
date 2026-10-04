@@ -111,9 +111,13 @@ published result).
 ## `tournaments/<id>.json`
 Tournament row (above) plus:
 ```
-{ teams: [{tm, raw, w, l, t, g, ppg, papg}],                 // sorted by wins (ties = ½), then fewest losses, then ppg
+{ teams: [{tm, raw, w, l, t, g, ppg, papg, pre?, post?, dr?}],  // sorted by wins (ties = ½), then fewest losses, then ppg;
+                                                             // pre/post/dr = overall rating before/after this
+                                                             // tournament and the change (rated events only)
   games: [{id, st, rd, seq, t1, t2, s1, s2, res, p1, ff, pre1, pre2}],
-  players: [{p, tm, s: { overall|<subject>: {gp, tuh, c, n, pts, ppg, gp_est} }}],
+  players: [{p, tm, post?, pre?, dr?, s: { overall|<subject>: {gp, tuh, c, n, pts, ppg, gp_est} }}],
+                                    // post = overall player rating after this tournament; pre/dr = previous
+                                    //   snapshot and change (absent for a player's first rated tournament)
   competitors?: [{name, p, w, l, t, g, ppg, papg, champ}] }  // individual events only
 ```
 `competitors` = standings of a 1v1 event computed from its games (forfeits left out of the records),

@@ -78,6 +78,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     tournaments_out = []
     team_tourn_summary: dict[str, list[dict[str, Any]]] = defaultdict(list)
     roster: dict[str, dict[str, set[str]]] = defaultdict(lambda: defaultdict(set))
+    hist_by_tt = {(tm, x["tournament_id"]): x for tm, hl in gres["history"].items() for x in hl}
+    p_hist = player_models["overall"]["history"]
     for tid, t in sorted(tourns.items(), key=lambda kv: (kv[1].end_date, kv[0])):
         gl = sorted(games_by_t.get(tid, []), key=lambda g: (g["seq"], g["game_id"]))
         rec: dict[str, dict[str, float]] = defaultdict(lambda: {"w": 0, "l": 0, "t": 0, "pf": 0.0, "pa": 0.0, "gs": 0, "g": 0})
@@ -100,9 +102,15 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
         champion = _champion(gl)
         competitors = _individual_standings(tid, pid_by_raw) if t.get("individual") else None
         prow: dict[str, dict[str, Any]] = {}
+        t_day = t.end_date.toordinal()
         for r in rows_by_t.get(tid, []):
             pid = r["player_id"]
-            pr = prow.setdefault(pid, {"p": pid, "tm": r["team_id"], "s": {}})
+            if pid not in prow:
+                prow[pid] = {"p": pid, "tm": r["team_id"], "s": {}}
+                ch = _player_change(p_hist.get(pid), t_day)
+                if ch:
+                    prow[pid].update(ch)
+            pr = prow[pid]
             pr["s"][r["subject"]] = {k: _r(v, 2) for k, v in (
                 ("gp", r["gp"] if r["gp"] is not None else r["est_gp"]), ("tuh", r["tuh"]), ("c", r["correct"]),
                 ("n", r["negs"]), ("pts", r["points"] if r["points"] is not None else r["est_points"]),
@@ -117,6 +125,9 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             row = {"tm": e["team_id"], "raw": e["raw_name"], "w": r["w"], "l": r["l"], "t": r["t"], "g": r["g"],
                    "ppg": _r(r["pf"] / r["gs"]) if r["gs"] else None,
                    "papg": _r(r["pa"] / r["gs"]) if r["gs"] else None}
+            hx = hist_by_tt.get((e["team_id"], tid))
+            if hx:  # overall rating before and after this tournament
+                row.update(pre=hx["pre"], post=hx["r"], dr=hx["delta"])
             team_rows.append(row)
             team_tourn_summary[e["team_id"]].append({"t": tid, "d": tdate[tid], "w": row["w"], "l": row["l"], "tie": row["t"],
                                                      "g": row["g"], "ppg": row["ppg"], "champ": champion == e["team_id"]})
@@ -360,6 +371,20 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
 
 
 _CONSOLATION = re.compile(r"3rd|third|bronze|consolation|\bplace\b|placement", re.I)
+
+
+def _player_change(hist: list[dict[str, Any]] | None, day: int) -> dict[str, Any] | None:
+    """Overall rating after a tournament ending on ``day`` and the change since the player's
+    previous snapshot (``pre``/``dr`` are absent for a first tournament)."""
+    if not hist:
+        return None
+    i = next((k for k, x in enumerate(hist) if x["day"] == day), None)
+    if i is None:
+        return None
+    out = {"post": hist[i]["rating"]}
+    if i > 0:
+        out.update(pre=hist[i - 1]["rating"], dr=_r(hist[i]["rating"] - hist[i - 1]["rating"]))
+    return out
 
 
 def _champion(gl: list[dict[str, Any]]) -> str | None:
