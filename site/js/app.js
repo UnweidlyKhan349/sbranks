@@ -118,27 +118,15 @@ function applyTheme(t) {
   btn.setAttribute("aria-label", label);
   btn.title = label;
 }
-function setTheme(t, btn) {
+function setTheme(t) {
   try { localStorage.setItem(THEME_KEY, t); } catch { /* ignore */ }
-  if (reduceMotion()) { applyTheme(t); return; }
-  if (document.startViewTransition) {
-    // circular reveal of the new theme, growing from the toggle button
-    const r = btn ? btn.getBoundingClientRect() : { left: innerWidth, top: 0, width: 0, height: 0 };
-    const x = r.left + r.width / 2, y = r.top + r.height / 2;
-    const radius = Math.hypot(Math.max(x, innerWidth - x), Math.max(y, innerHeight - y));
-    const vt = document.startViewTransition(() => applyTheme(t));
-    vt.ready.then(() => {
-      document.documentElement.animate(
-        { clipPath: [`circle(0px at ${x}px ${y}px)`, `circle(${radius}px at ${x}px ${y}px)`] },
-        { duration: 500, easing: "cubic-bezier(.4, 0, .2, 1)", pseudoElement: "::view-transition-new(root)" });
-    }).catch(() => {});
-    return;
-  }
-  // fallback: cross-fade colors
+  // quick color fade (skipped for reduced motion)
   const root = document.documentElement;
-  root.classList.add("theme-anim");
+  if (!reduceMotion()) {
+    root.classList.add("theme-anim");
+    setTimeout(() => root.classList.remove("theme-anim"), 250);
+  }
   applyTheme(t);
-  setTimeout(() => root.classList.remove("theme-anim"), 450);
 }
 function renderThemeToggle() {
   const el = document.getElementById("theme-toggle");
@@ -146,7 +134,7 @@ function renderThemeToggle() {
   const next = cur === "dark" ? "light" : "dark";
   const label = `Switch to ${next} theme`;
   clear(el);
-  const btn = h("button", { type: "button", class: `theme-btn is-${cur}`, "aria-label": label, title: label, onclick: () => setTheme(getTheme() === "dark" ? "light" : "dark", btn) },
+  const btn = h("button", { type: "button", class: `theme-btn is-${cur}`, "aria-label": label, title: label, onclick: () => setTheme(getTheme() === "dark" ? "light" : "dark") },
     h("span", { class: "ti ti-sun", "aria-hidden": "true" }, icon("sun")), h("span", { class: "ti ti-moon", "aria-hidden": "true" }, icon("moon")));
   el.appendChild(btn);
 }
