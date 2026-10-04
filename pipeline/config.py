@@ -55,7 +55,7 @@ def normalize_subject(label: str | None) -> str | None:
     if label is None:
         return None
     key = re.sub(r"\s+", " ", str(label).strip().lower())
-    key = re.sub(r"\b(stats?|ppg|rr|de|individual|team|sorted|unsorted|leaderboard)\b", "", key)
+    key = re.sub(r"\b(stats?|ppg|rr|de|individual|indiv|team|sorted|unsorted|leaderboard)\b", "", key)
     key = re.sub(r"\s+", " ", key).strip(" :-_")
     return _SUBJECT_ALIASES.get(key)
 
