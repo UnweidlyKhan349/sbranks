@@ -295,11 +295,11 @@ d24afcb6,Pranav Kolavennu,Wayzata B,energy,1,0,4
 d24afcb6,Pranav Kolavennu,Wayzata B,chemistry,2,0,8
 d24afcb6,Pranav Kolavennu,Wayzata B,math,0,0,0
 d24afcb6,Harry G,Ward Melville A,other,1,0,4
-d321b329,mathfan2020,Carmel A,overall,11,2,36
-d321b329,mathfan2020,Carmel A,biology,1,0,4
-d321b329,mathfan2020,Carmel A,physics,2,1,4
-d321b329,mathfan2020,Carmel A,math,4,0,16
-d321b329,mathfan2020,Carmel A,chemistry,3,0,12
+d321b329,Edward Chen,Carmel A,overall,11,2,36
+d321b329,Edward Chen,Carmel A,biology,1,0,4
+d321b329,Edward Chen,Carmel A,physics,2,1,4
+d321b329,Edward Chen,Carmel A,math,4,0,16
+d321b329,Edward Chen,Carmel A,chemistry,3,0,12
 d321b329,Pravira,Carmel A,overall,3,0,12
 d321b329,Pravira,Carmel A,ess,3,0,12
 d321b329,Emma,Carmel A,overall,3,0,12
@@ -308,11 +308,11 @@ d321b329,Pravira,Carmel A,energy,0,0,0
 d321b329,Aaron Cohen,BISV B,overall,2,1,4
 d321b329,Aaron Cohen,BISV B,energy,1,0,4
 d321b329,Aaron Cohen,BISV B,ess,0,1,-4
-d321b329,mathfan2020,Carmel A,ess,0,1,-4
+d321b329,Edward Chen,Carmel A,ess,0,1,-4
 d321b329,Aaron Cohen,BISV B,physics,1,0,4
 d321b329,Katy,Carmel A,overall,0,0,0
 d321b329,Katy,Carmel A,chemistry,0,0,0
-d321b329,mathfan2020,Carmel A,other,1,0,4
+d321b329,Edward Chen,Carmel A,other,1,0,4
 d99e3115,Krish S,Mira Loma B,overall,1,1,0
 d99e3115,Krish S,Mira Loma B,biology,1,1,0
 d99e3115,Aarush Iyer,MSJ B,overall,3,0,12
@@ -1895,6 +1895,24 @@ ace0f60f,schrödingle berries,Benjamin Franklin,other,0,0,0
 5b5a6ab4,Shruthi R,Dulles,overall,1,1,0
 5b5a6ab4,Shruthi R,Dulles,chemistry,1,1,0
 5b5a6ab4,ronster,Dulles,other,1,0,4
+6088e821,Achuth,Clovis North,overall,9,2,28
+6088e821,Achuth,Clovis North,biology,2,1,4
+6088e821,Achuth,Clovis North,physics,2,0,8
+6088e821,Achuth,Clovis North,math,0,1,-4
+6088e821,Oron,Phillips Exeter,overall,4,0,16
+6088e821,Oron,Phillips Exeter,math,2,0,8
+6088e821,Isaac,Phillips Exeter,overall,1,1,0
+6088e821,Isaac,Phillips Exeter,chemistry,1,1,0
+6088e821,Oron,Phillips Exeter,ess,2,0,8
+6088e821,Luke Wang,Phillips Exeter,overall,2,0,8
+6088e821,Luke Wang,Phillips Exeter,biology,2,0,8
+6088e821,Alex,Phillips Exeter,overall,3,0,12
+6088e821,Alex,Phillips Exeter,physics,2,0,8
+6088e821,Achuth,Clovis North,chemistry,2,0,8
+6088e821,Alex,Phillips Exeter,ess,1,0,4
+6088e821,Achuth,Clovis North,energy,1,0,4
+6088e821,Achuth,Clovis North,ess,1,0,4
+6088e821,Achuth,Clovis North,other,1,0,4
 6b5543fd,ajay s,PRISMS,overall,7,1,24
 6b5543fd,ajay s,PRISMS,biology,4,0,16
 6b5543fd,Sola M,Iolani,overall,4,0,16
@@ -1946,8 +1964,8 @@ ace0f60f,schrödingle berries,Benjamin Franklin,other,0,0,0
 947440f9,Ayaan,Lexington,physics,1,1,0
 947440f9,Pravira,Carmel A,overall,1,1,0
 947440f9,Pravira,Carmel A,physics,1,0,4
-947440f9,mathfan2020,Carmel A,overall,4,3,4
-947440f9,mathfan2020,Carmel A,math,3,0,12
+947440f9,Edward Chen,Carmel A,overall,4,3,4
+947440f9,Edward Chen,Carmel A,math,3,0,12
 947440f9,Vince,Lexington,overall,4,0,16
 947440f9,Vince,Lexington,chemistry,2,0,8
 947440f9,Pravira,Carmel A,ess,0,1,-4
@@ -1955,16 +1973,16 @@ ace0f60f,schrödingle berries,Benjamin Franklin,other,0,0,0
 947440f9,Carpe Diem,Lexington,ess,3,0,12
 947440f9,Katy,Carmel A,overall,0,0,0
 947440f9,Katy,Carmel A,biology,0,0,0
-947440f9,mathfan2020,Carmel A,physics,1,1,0
+947440f9,Edward Chen,Carmel A,physics,1,1,0
 947440f9,Vince,Lexington,math,1,0,4
-947440f9,mathfan2020,Carmel A,chemistry,0,1,-4
+947440f9,Edward Chen,Carmel A,chemistry,0,1,-4
 947440f9,Ayaan,Lexington,energy,1,0,4
 947440f9,Emma,Carmel A,overall,1,1,0
 947440f9,Emma,Carmel A,biology,1,1,0
 947440f9,Ayaan,Lexington,chemistry,1,1,0
 947440f9,Katy,Carmel A,chemistry,0,0,0
 947440f9,Carpe Diem,Lexington,physics,0,0,0
-947440f9,mathfan2020,Carmel A,other,0,1,-4
+947440f9,Edward Chen,Carmel A,other,0,1,-4
 947440f9,Vince,Lexington,other,1,0,4
 9edb4078,anish a,MSJ A,overall,4,0,16
 9edb4078,anish a,MSJ A,biology,3,0,12
@@ -2099,3 +2117,675 @@ f9ccf6ca,AlexL,Madison West,math,0,0,0
 f9ccf6ca,Ali Zaman,MSJ C,physics,0,0,0
 f9ccf6ca,Enming Zhang,MSJ C,other,0,0,0
 f9ccf6ca,AlexL,Madison West,other,1,0,4
+49787b4a,Eric L,Ward Melville A,overall,4,1,12
+49787b4a,Eric L,Ward Melville A,biology,3,1,8
+49787b4a,Bryce Thach,Temple City,overall,8,2,24
+49787b4a,Bryce Thach,Temple City,physics,2,1,4
+49787b4a,Harry G,Ward Melville A,overall,5,1,16
+49787b4a,Harry G,Ward Melville A,physics,2,0,8
+49787b4a,Harry G,Ward Melville A,math,2,1,4
+49787b4a,Eric L,Ward Melville A,chemistry,1,0,4
+49787b4a,Bryce Thach,Temple City,ess,2,0,8
+49787b4a,Bryce Thach,Temple City,biology,0,1,-4
+49787b4a,Bryce Thach,Temple City,chemistry,3,0,12
+49787b4a,Srihari K,Ward Melville A,overall,0,0,0
+49787b4a,Srihari K,Ward Melville A,ess,0,0,0
+49787b4a,Harry G,Ward Melville A,energy,1,0,4
+49787b4a,Bryce Thach,Temple City,math,1,0,4
+49787b4a,Harry G,Ward Melville A,ess,0,0,0
+49787b4a,Harry G,Ward Melville A,other,0,0,0
+49787b4a,Bryce Thach,Temple City,other,0,0,0
+66d84522,anish a,MSJ A,overall,5,2,12
+66d84522,anish a,MSJ A,biology,2,0,8
+66d84522,rutvik a,MSJ A,overall,2,0,8
+66d84522,rutvik a,MSJ A,physics,2,0,8
+66d84522,Edward Chen,Carmel A,overall,7,2,20
+66d84522,Edward Chen,Carmel A,math,3,1,8
+66d84522,Katy,Carmel A,overall,2,0,8
+66d84522,Katy,Carmel A,chemistry,2,0,8
+66d84522,Pravira,Carmel A,overall,1,1,0
+66d84522,Pravira,Carmel A,ess,1,1,0
+66d84522,roshan,MSJ A,overall,4,1,12
+66d84522,roshan,MSJ A,ess,3,0,12
+66d84522,Edward Chen,Carmel A,physics,2,1,4
+66d84522,anish a,MSJ A,chemistry,2,1,4
+66d84522,roshan,MSJ A,energy,0,1,-4
+66d84522,Edward Chen,Carmel A,energy,1,0,4
+66d84522,roshan,MSJ A,biology,1,0,4
+66d84522,anish a,MSJ A,math,1,0,4
+66d84522,Andy Liu,Carmel A,overall,1,1,0
+66d84522,Andy Liu,Carmel A,biology,1,0,4
+66d84522,Andy Liu,Carmel A,ess,0,1,-4
+66d84522,anish a,MSJ A,other,0,1,-4
+66d84522,Edward Chen,Carmel A,other,1,0,4
+820bf0ca,Heidi L,James Clemens,overall,3,0,12
+820bf0ca,Heidi L,James Clemens,biology,3,0,12
+820bf0ca,Daniel Y,Iolani,overall,6,0,24
+820bf0ca,Daniel Y,Iolani,physics,1,0,4
+820bf0ca,Daniel Y,Iolani,math,1,0,4
+820bf0ca,Andrew T,James Clemens,overall,1,0,4
+820bf0ca,Andrew T,James Clemens,math,1,0,4
+820bf0ca,Praneel A,James Clemens,overall,6,1,20
+820bf0ca,Praneel A,James Clemens,chemistry,1,0,4
+820bf0ca,Keene KK,Iolani,overall,2,0,8
+820bf0ca,Keene KK,Iolani,chemistry,2,0,8
+820bf0ca,Daniel Y,Iolani,ess,2,0,8
+820bf0ca,Daniel Y,Iolani,biology,1,0,4
+820bf0ca,Praneel A,James Clemens,physics,3,0,12
+820bf0ca,Praneel A,James Clemens,ess,1,0,4
+820bf0ca,Praneel A,James Clemens,energy,0,1,-4
+820bf0ca,Daniel Y,Iolani,energy,1,0,4
+820bf0ca,Praneel A,James Clemens,math,1,0,4
+820bf0ca,Daniel Y,Iolani,other,0,0,0
+820bf0ca,Praneel A,James Clemens,other,0,0,0
+aa243587,Abhinav KSK,Mira Loma B,overall,1,1,0
+aa243587,Abhinav KSK,Mira Loma B,biology,0,1,-4
+aa243587,Brian L,Middleton,overall,2,0,8
+aa243587,Brian L,Middleton,biology,2,0,8
+aa243587,Alex D,Middleton,overall,3,0,12
+aa243587,Alex D,Middleton,physics,2,0,8
+aa243587,Abhinav KSK,Mira Loma B,math,0,0,0
+aa243587,matthew wang,Middleton,overall,4,1,12
+aa243587,matthew wang,Middleton,math,2,0,8
+aa243587,LucasQuan,Mira Loma B,overall,7,0,28
+aa243587,LucasQuan,Mira Loma B,chemistry,2,0,8
+aa243587,Abhinav KSK,Mira Loma B,ess,1,0,4
+aa243587,matthew wang,Middleton,ess,0,0,0
+aa243587,LucasQuan,Mira Loma B,biology,0,0,0
+aa243587,LucasQuan,Mira Loma B,math,2,0,8
+aa243587,Abhinav KSK,Mira Loma B,chemistry,0,0,0
+aa243587,Alex D,Middleton,chemistry,1,0,4
+aa243587,LucasQuan,Mira Loma B,energy,1,0,4
+aa243587,matthew wang,Middleton,biology,1,0,4
+aa243587,LucasQuan,Mira Loma B,physics,2,0,8
+aa243587,matthew wang,Middleton,chemistry,1,1,0
+aa243587,Alex D,Middleton,other,0,0,0
+aa243587,Abhinav KSK,Mira Loma B,other,0,0,0
+bfcf8873,akhil,ASFA,overall,7,4,12
+bfcf8873,akhil,ASFA,biology,1,1,0
+bfcf8873,akhil,ASFA,physics,2,1,4
+bfcf8873,Advik S,ASFA,overall,3,3,0
+bfcf8873,Advik S,ASFA,math,2,0,8
+bfcf8873,akhil,ASFA,chemistry,1,1,0
+bfcf8873,Arnav Hiremath,Wayzata A,overall,1,2,-4
+bfcf8873,Arnav Hiremath,Wayzata A,ess,1,1,0
+bfcf8873,akhil,ASFA,ess,2,1,4
+bfcf8873,Advik S,ASFA,biology,0,2,-8
+bfcf8873,Arnav Hiremath,Wayzata A,biology,0,0,0
+bfcf8873,Jeff,Wayzata A,overall,2,0,8
+bfcf8873,Jeff,Wayzata A,physics,0,0,0
+bfcf8873,Jeff,Wayzata A,math,2,0,8
+bfcf8873,Yan-Ru C,Wayzata A,overall,3,0,12
+bfcf8873,Yan-Ru C,Wayzata A,chemistry,2,0,8
+bfcf8873,akhil,ASFA,energy,1,0,4
+bfcf8873,Arnav Hiremath,Wayzata A,math,0,1,-4
+bfcf8873,Sophie C,Wayzata A,overall,0,0,0
+bfcf8873,Sophie C,Wayzata A,biology,0,0,0
+bfcf8873,Yan-Ru C,Wayzata A,physics,1,0,4
+bfcf8873,Advik S,ASFA,chemistry,1,0,4
+bfcf8873,Advik S,ASFA,other,0,1,-4
+bfcf8873,Sophie C,Wayzata A,other,0,0,0
+c1171dbf,Yunay V,Shallow Walk,overall,0,2,-8
+c1171dbf,Yunay V,Shallow Walk,biology,0,2,-8
+c1171dbf,Meghna S,Montgomery Blair A,overall,1,0,4
+c1171dbf,Meghna S,Montgomery Blair A,biology,1,0,4
+c1171dbf,Chris W,Montgomery Blair A,overall,4,1,12
+c1171dbf,Chris W,Montgomery Blair A,physics,2,1,4
+c1171dbf,Chris W,Montgomery Blair A,math,2,0,8
+c1171dbf,Sam E,Montgomery Blair A,overall,4,2,8
+c1171dbf,Sam E,Montgomery Blair A,chemistry,1,2,-4
+c1171dbf,Riyan N,Shallow Walk,overall,2,2,0
+c1171dbf,Riyan N,Shallow Walk,chemistry,1,0,4
+c1171dbf,Nimit A,Shallow Walk,overall,0,2,-8
+c1171dbf,Nimit A,Shallow Walk,ess,0,2,-8
+c1171dbf,Kevin F,Montgomery Blair A,overall,2,0,8
+c1171dbf,Kevin F,Montgomery Blair A,ess,1,0,4
+c1171dbf,Rish,Shallow Walk,overall,1,0,4
+c1171dbf,Rish,Shallow Walk,physics,1,0,4
+c1171dbf,Riyan N,Shallow Walk,math,1,1,0
+c1171dbf,Kevin F,Montgomery Blair A,math,1,0,4
+c1171dbf,Sam E,Montgomery Blair A,energy,1,0,4
+c1171dbf,Arman A,Montgomery Blair A,overall,2,0,8
+c1171dbf,Arman A,Montgomery Blair A,biology,2,0,8
+c1171dbf,Sam E,Montgomery Blair A,physics,1,0,4
+c1171dbf,Shallow Walker,Shallow Walk,overall,0,1,-4
+c1171dbf,Shallow Walker,Shallow Walk,chemistry,0,1,-4
+c1171dbf,Sam E,Montgomery Blair A,ess,1,0,4
+c1171dbf,Riyan N,Shallow Walk,physics,0,1,-4
+c1171dbf,Sam E,Montgomery Blair A,other,0,0,0
+c1171dbf,Riyan N,Shallow Walk,other,0,0,0
+d79120f0,Luke Wang,Phillips Exeter,overall,2,2,0
+d79120f0,Luke Wang,Phillips Exeter,biology,2,2,0
+d79120f0,Aarush Iyer,MSJ B,overall,3,1,8
+d79120f0,Aarush Iyer,MSJ B,biology,2,1,4
+d79120f0,Alex,Phillips Exeter,overall,4,1,12
+d79120f0,Alex,Phillips Exeter,physics,3,0,12
+d79120f0,ishaan k,MSJ B,overall,8,1,28
+d79120f0,ishaan k,MSJ B,math,2,0,8
+d79120f0,ishaan k,MSJ B,chemistry,2,0,8
+d79120f0,ishaan k,MSJ B,ess,3,1,8
+d79120f0,Isaac,Phillips Exeter,overall,1,0,4
+d79120f0,Isaac,Phillips Exeter,chemistry,1,0,4
+d79120f0,Aarush Iyer,MSJ B,chemistry,1,0,4
+d79120f0,Alex,Phillips Exeter,energy,0,1,-4
+d79120f0,Aarush Iyer,MSJ B,energy,0,0,0
+d79120f0,ishaan k,MSJ B,physics,1,0,4
+d79120f0,Matthew Wang,MSJ B,overall,0,1,-4
+d79120f0,Matthew Wang,MSJ B,math,0,1,-4
+d79120f0,Oron,Phillips Exeter,overall,2,0,8
+d79120f0,Oron,Phillips Exeter,math,2,0,8
+d79120f0,Oron,Phillips Exeter,ess,0,0,0
+d79120f0,ishaan k,MSJ B,other,0,0,0
+d79120f0,Alex,Phillips Exeter,other,1,0,4
+f037da76,simon,Lexington,overall,2,3,-4
+f037da76,simon,Lexington,biology,1,3,-8
+f037da76,ronster,Dulles,overall,2,1,4
+f037da76,ronster,Dulles,biology,2,0,8
+f037da76,Ayaan,Lexington,overall,2,2,0
+f037da76,Ayaan,Lexington,physics,0,2,-8
+f037da76,Arnav D,Dulles,overall,4,1,12
+f037da76,Arnav D,Dulles,physics,3,0,12
+f037da76,Arnav D,Dulles,math,0,1,-4
+f037da76,Vince,Lexington,overall,5,0,20
+f037da76,Vince,Lexington,math,4,0,16
+f037da76,simon,Lexington,chemistry,1,0,4
+f037da76,Carpe Diem,Lexington,overall,1,2,-4
+f037da76,Carpe Diem,Lexington,ess,1,2,-4
+f037da76,Aastik B,Dulles,overall,1,0,4
+f037da76,Aastik B,Dulles,ess,1,0,4
+f037da76,Ayaan,Lexington,chemistry,1,0,4
+f037da76,Vince,Lexington,energy,1,0,4
+f037da76,Shruthi R,Dulles,overall,2,0,8
+f037da76,Shruthi R,Dulles,chemistry,1,0,4
+f037da76,Arnav D,Dulles,chemistry,1,0,4
+f037da76,Shruthi R,Dulles,ess,1,0,4
+f037da76,ronster,Dulles,other,0,1,-4
+f037da76,Ayaan,Lexington,other,1,0,4
+06fac56b,Eric L,Ward Melville A,overall,4,4,0
+06fac56b,Eric L,Ward Melville A,biology,1,3,-8
+06fac56b,LucasQuan,Mira Loma B,overall,2,0,8
+06fac56b,LucasQuan,Mira Loma B,biology,0,0,0
+06fac56b,Harry G,Ward Melville A,overall,5,1,16
+06fac56b,Harry G,Ward Melville A,physics,4,0,16
+06fac56b,LucasQuan,Mira Loma B,math,2,0,8
+06fac56b,Eric L,Ward Melville A,chemistry,3,1,8
+06fac56b,LucasQuan,Mira Loma B,ess,0,0,0
+06fac56b,Harry G,Ward Melville A,ess,0,0,0
+06fac56b,Abhinav KSK,Mira Loma B,overall,2,0,8
+06fac56b,Abhinav KSK,Mira Loma B,chemistry,1,0,4
+06fac56b,Abhinav KSK,Mira Loma B,ess,0,0,0
+06fac56b,Harry G,Ward Melville A,energy,1,0,4
+06fac56b,Krish S,Mira Loma B,overall,1,0,4
+06fac56b,Krish S,Mira Loma B,biology,1,0,4
+06fac56b,Srihari K,Ward Melville A,overall,1,0,4
+06fac56b,Srihari K,Ward Melville A,ess,1,0,4
+06fac56b,Abhinav KSK,Mira Loma B,biology,0,0,0
+06fac56b,Harry G,Ward Melville A,math,0,0,0
+06fac56b,Abhinav KSK,Mira Loma B,math,1,0,4
+06fac56b,Harry G,Ward Melville A,other,0,1,-4
+06fac56b,Abhinav KSK,Mira Loma B,other,0,0,0
+3e5ff124,matthew wang,Middleton,overall,2,0,8
+3e5ff124,matthew wang,Middleton,biology,1,0,4
+3e5ff124,Ethan Wang,Temple City,overall,5,3,8
+3e5ff124,Ethan Wang,Temple City,physics,0,0,0
+3e5ff124,Alex D,Middleton,overall,2,0,8
+3e5ff124,Alex D,Middleton,physics,1,0,4
+3e5ff124,Ethan Wang,Temple City,math,0,0,0
+3e5ff124,Alex D,Middleton,math,1,0,4
+3e5ff124,Ethan Wang,Temple City,chemistry,3,0,12
+3e5ff124,Ethan Wang,Temple City,ess,0,1,-4
+3e5ff124,matthew wang,Middleton,ess,0,0,0
+3e5ff124,Ethan Wang,Temple City,biology,1,2,-4
+3e5ff124,matthew wang,Middleton,chemistry,1,0,4
+3e5ff124,Bryce Thach,Temple City,overall,4,1,12
+3e5ff124,Bryce Thach,Temple City,ess,2,1,4
+3e5ff124,Ethan Wang,Temple City,energy,1,0,4
+3e5ff124,Brian L,Middleton,overall,0,0,0
+3e5ff124,Brian L,Middleton,biology,0,0,0
+3e5ff124,Bryce Thach,Temple City,physics,2,0,8
+3e5ff124,Alex D,Middleton,chemistry,0,0,0
+3e5ff124,ArthurW middleton,Middleton,overall,0,0,0
+3e5ff124,ArthurW middleton,Middleton,math,0,0,0
+3e5ff124,Alex D,Middleton,other,0,0,0
+3e5ff124,Bryce Thach,Temple City,other,0,0,0
+4de718dd,Luke Wang,Phillips Exeter,overall,4,0,16
+4de718dd,Luke Wang,Phillips Exeter,biology,4,0,16
+4de718dd,Alex,Phillips Exeter,overall,1,0,4
+4de718dd,Alex,Phillips Exeter,physics,1,0,4
+4de718dd,Oron,Phillips Exeter,overall,4,0,16
+4de718dd,Oron,Phillips Exeter,math,3,0,12
+4de718dd,Isaac,Phillips Exeter,overall,4,1,12
+4de718dd,Isaac,Phillips Exeter,chemistry,3,1,8
+4de718dd,Daniel Y,Iolani,overall,5,1,16
+4de718dd,Daniel Y,Iolani,chemistry,0,1,-4
+4de718dd,Oron,Phillips Exeter,ess,1,0,4
+4de718dd,Daniel Y,Iolani,physics,3,0,12
+4de718dd,Daniel Y,Iolani,math,0,0,0
+4de718dd,Daniel Y,Iolani,ess,1,0,4
+4de718dd,Isaac,Phillips Exeter,energy,1,0,4
+4de718dd,Keene KK,Iolani,overall,0,0,0
+4de718dd,Keene KK,Iolani,math,0,0,0
+4de718dd,Alex,Phillips Exeter,other,0,0,0
+4de718dd,Daniel Y,Iolani,other,1,0,4
+6d72ecb2,simon,Lexington,overall,3,3,0
+6d72ecb2,simon,Lexington,biology,1,2,-4
+6d72ecb2,Ethan Sun,Wayzata A,overall,0,1,-4
+6d72ecb2,Ethan Sun,Wayzata A,biology,0,1,-4
+6d72ecb2,Yan-Ru C,Wayzata A,overall,0,0,0
+6d72ecb2,Yan-Ru C,Wayzata A,physics,0,0,0
+6d72ecb2,Ayaan,Lexington,overall,4,1,12
+6d72ecb2,Ayaan,Lexington,physics,3,0,12
+6d72ecb2,Vince,Lexington,overall,1,1,0
+6d72ecb2,Vince,Lexington,math,0,1,-4
+6d72ecb2,Jeff,Wayzata A,overall,2,0,8
+6d72ecb2,Jeff,Wayzata A,math,2,0,8
+6d72ecb2,simon,Lexington,chemistry,2,0,8
+6d72ecb2,Carpe Diem,Lexington,overall,3,0,12
+6d72ecb2,Carpe Diem,Lexington,ess,3,0,12
+6d72ecb2,Arnav Hiremath,Wayzata A,overall,3,0,12
+6d72ecb2,Arnav Hiremath,Wayzata A,physics,1,0,4
+6d72ecb2,Vince,Lexington,chemistry,1,0,4
+6d72ecb2,Ayaan,Lexington,energy,1,0,4
+6d72ecb2,Ayaan,Lexington,chemistry,0,1,-4
+6d72ecb2,Arnav Hiremath,Wayzata A,chemistry,1,0,4
+6d72ecb2,Carpe Diem,Lexington,math,0,0,0
+6d72ecb2,Arnav Hiremath,Wayzata A,ess,1,0,4
+6d72ecb2,simon,Lexington,other,0,1,-4
+6d72ecb2,Yan-Ru C,Wayzata A,other,0,0,0
+816777b9,Arman A,Montgomery Blair A,overall,2,1,4
+816777b9,Arman A,Montgomery Blair A,biology,2,1,4
+816777b9,anish a,MSJ A,overall,4,1,12
+816777b9,anish a,MSJ A,biology,1,0,4
+816777b9,rutvik a,MSJ A,overall,4,0,16
+816777b9,rutvik a,MSJ A,physics,2,0,8
+816777b9,Chris W,Montgomery Blair A,overall,3,0,12
+816777b9,Chris W,Montgomery Blair A,math,2,0,8
+816777b9,Sam E,Montgomery Blair A,overall,1,2,-4
+816777b9,Sam E,Montgomery Blair A,chemistry,1,2,-4
+816777b9,roshan,MSJ A,overall,4,1,12
+816777b9,roshan,MSJ A,chemistry,1,0,4
+816777b9,roshan,MSJ A,ess,3,0,12
+816777b9,roshan,MSJ A,physics,0,1,-4
+816777b9,Chris W,Montgomery Blair A,physics,1,0,4
+816777b9,Kevin F,Montgomery Blair A,overall,3,1,8
+816777b9,Kevin F,Montgomery Blair A,math,0,0,0
+816777b9,rutvik a,MSJ A,math,1,0,4
+816777b9,anish a,MSJ A,chemistry,2,1,4
+816777b9,Kevin F,Montgomery Blair A,ess,1,1,0
+816777b9,Sam E,Montgomery Blair A,energy,0,0,0
+816777b9,rutvik a,MSJ A,energy,1,0,4
+816777b9,anish a,MSJ A,math,1,0,4
+816777b9,Kevin F,Montgomery Blair A,physics,1,0,4
+816777b9,roshan,MSJ A,other,0,0,0
+816777b9,Kevin F,Montgomery Blair A,other,1,0,4
+b574b8ff,Yunay V,Shallow Walk,overall,1,0,4
+b574b8ff,Yunay V,Shallow Walk,biology,1,0,4
+b574b8ff,Andy Liu,Carmel A,overall,3,1,8
+b574b8ff,Andy Liu,Carmel A,biology,0,1,-4
+b574b8ff,Riyan N,Shallow Walk,overall,1,1,0
+b574b8ff,Riyan N,Shallow Walk,physics,1,1,0
+b574b8ff,Edward Chen,Carmel A,overall,8,1,28
+b574b8ff,Edward Chen,Carmel A,physics,2,0,8
+b574b8ff,Edward Chen,Carmel A,math,3,0,12
+b574b8ff,Shallow Walker,Shallow Walk,overall,3,1,8
+b574b8ff,Shallow Walker,Shallow Walk,chemistry,1,0,4
+b574b8ff,Nimit A,Shallow Walk,overall,2,1,4
+b574b8ff,Nimit A,Shallow Walk,ess,1,1,0
+b574b8ff,Andy Liu,Carmel A,ess,1,0,4
+b574b8ff,Shallow Walker,Shallow Walk,math,0,1,-4
+b574b8ff,Edward Chen,Carmel A,chemistry,3,0,12
+b574b8ff,Pravira,Carmel A,overall,2,0,8
+b574b8ff,Pravira,Carmel A,ess,2,0,8
+b574b8ff,Shallow Walker,Shallow Walk,energy,1,0,4
+b574b8ff,Shallow Walker,Shallow Walk,biology,1,0,4
+b574b8ff,Andy Liu,Carmel A,math,1,0,4
+b574b8ff,Nimit A,Shallow Walk,biology,1,0,4
+b574b8ff,Andy Liu,Carmel A,physics,1,0,4
+b574b8ff,Edward Chen,Carmel A,other,0,1,-4
+b574b8ff,Shallow Walker,Shallow Walk,other,0,0,0
+b5afa3a8,ronster,Dulles,overall,2,1,4
+b5afa3a8,ronster,Dulles,biology,2,1,4
+b5afa3a8,Advik S,ASFA,overall,3,3,0
+b5afa3a8,Advik S,ASFA,physics,1,0,4
+b5afa3a8,Advik S,ASFA,math,1,2,-4
+b5afa3a8,Shruthi R,Dulles,overall,3,0,12
+b5afa3a8,Shruthi R,Dulles,math,2,0,8
+b5afa3a8,akhil,ASFA,overall,9,0,36
+b5afa3a8,akhil,ASFA,chemistry,4,0,16
+b5afa3a8,Aastik B,Dulles,overall,2,0,8
+b5afa3a8,Aastik B,Dulles,ess,2,0,8
+b5afa3a8,Advik S,ASFA,biology,1,1,0
+b5afa3a8,Arnav D,Dulles,overall,3,0,12
+b5afa3a8,Arnav D,Dulles,physics,2,0,8
+b5afa3a8,akhil,ASFA,ess,1,0,4
+b5afa3a8,Arnav D,Dulles,energy,0,0,0
+b5afa3a8,akhil,ASFA,energy,1,0,4
+b5afa3a8,Shruthi R,Dulles,ess,1,0,4
+b5afa3a8,akhil,ASFA,biology,1,0,4
+b5afa3a8,akhil,ASFA,physics,1,0,4
+b5afa3a8,akhil,ASFA,math,1,0,4
+b5afa3a8,akhil,ASFA,other,0,0,0
+b5afa3a8,Arnav D,Dulles,other,1,0,4
+feb830dc,Heidi L,James Clemens,overall,2,1,4
+feb830dc,Heidi L,James Clemens,biology,2,1,4
+feb830dc,Aarush Iyer,MSJ B,overall,2,1,4
+feb830dc,Aarush Iyer,MSJ B,biology,2,1,4
+feb830dc,Praneel A,James Clemens,overall,8,1,28
+feb830dc,Praneel A,James Clemens,physics,3,0,12
+feb830dc,ishaan k,MSJ B,overall,7,2,20
+feb830dc,ishaan k,MSJ B,math,2,1,4
+feb830dc,Praneel A,James Clemens,math,1,0,4
+feb830dc,Praneel A,James Clemens,chemistry,3,0,12
+feb830dc,ishaan k,MSJ B,ess,3,1,8
+feb830dc,Praneel A,James Clemens,ess,1,0,4
+feb830dc,Praneel A,James Clemens,biology,0,1,-4
+feb830dc,Matthew Wang,MSJ B,overall,0,0,0
+feb830dc,Matthew Wang,MSJ B,math,0,0,0
+feb830dc,ishaan k,MSJ B,energy,0,0,0
+feb830dc,Praneel A,James Clemens,energy,0,0,0
+feb830dc,ishaan k,MSJ B,chemistry,1,0,4
+feb830dc,ishaan k,MSJ B,physics,1,0,4
+feb830dc,ishaan k,MSJ B,other,0,0,0
+feb830dc,Praneel A,James Clemens,other,0,0,0
+025ef898,ronster,Dulles,overall,1,1,0
+025ef898,ronster,Dulles,biology,0,1,-4
+025ef898,Andy Liu,Carmel A,overall,2,1,4
+025ef898,Andy Liu,Carmel A,biology,1,0,4
+025ef898,Edward Chen,Carmel A,overall,5,1,16
+025ef898,Edward Chen,Carmel A,physics,2,0,8
+025ef898,Arnav D,Dulles,overall,3,0,12
+025ef898,Arnav D,Dulles,math,0,0,0
+025ef898,Andy Liu,Carmel A,math,1,0,4
+025ef898,Katy,Carmel A,overall,2,1,4
+025ef898,Katy,Carmel A,chemistry,2,1,4
+025ef898,Pravira,Carmel A,overall,1,1,0
+025ef898,Pravira,Carmel A,ess,1,1,0
+025ef898,Andy Liu,Carmel A,physics,0,1,-4
+025ef898,Arnav D,Dulles,physics,2,0,8
+025ef898,Edward Chen,Carmel A,math,2,0,8
+025ef898,Arnav D,Dulles,chemistry,1,0,4
+025ef898,Shruthi R,Dulles,overall,2,1,4
+025ef898,Shruthi R,Dulles,ess,0,1,-4
+025ef898,Andy Liu,Carmel A,ess,0,0,0
+025ef898,Edward Chen,Carmel A,energy,1,0,4
+025ef898,Shruthi R,Dulles,biology,1,0,4
+025ef898,Shruthi R,Dulles,math,1,0,4
+025ef898,ronster,Dulles,ess,1,0,4
+025ef898,ronster,Dulles,chemistry,0,0,0
+025ef898,Edward Chen,Carmel A,other,0,1,-4
+025ef898,ronster,Dulles,other,0,0,0
+4239ff54,Aarush Iyer,MSJ B,overall,1,0,4
+4239ff54,Aarush Iyer,MSJ B,biology,1,0,4
+4239ff54,Bryce Thach,Temple City,overall,5,1,16
+4239ff54,Bryce Thach,Temple City,biology,3,0,12
+4239ff54,ishaan k,MSJ B,overall,7,3,16
+4239ff54,ishaan k,MSJ B,physics,2,0,8
+4239ff54,ishaan k,MSJ B,math,2,0,8
+4239ff54,Ethan Wang,Temple City,overall,7,1,24
+4239ff54,Ethan Wang,Temple City,math,2,0,8
+4239ff54,Ethan Wang,Temple City,chemistry,3,1,8
+4239ff54,Aarush Iyer,MSJ B,chemistry,0,0,0
+4239ff54,ishaan k,MSJ B,ess,2,2,0
+4239ff54,Bryce Thach,Temple City,ess,2,0,8
+4239ff54,Ethan Wang,Temple City,physics,2,0,8
+4239ff54,ishaan k,MSJ B,energy,1,0,4
+4239ff54,Bryce Thach,Temple City,physics,0,1,-4
+4239ff54,ishaan k,MSJ B,chemistry,0,1,-4
+4239ff54,Ethan Wang,Temple City,other,0,0,0
+4239ff54,Aarush Iyer,MSJ B,other,0,0,0
+81a47c67,Luke Wang,Phillips Exeter,overall,2,2,0
+81a47c67,Luke Wang,Phillips Exeter,biology,2,2,0
+81a47c67,Abhinav KSK,Mira Loma B,overall,5,2,12
+81a47c67,Abhinav KSK,Mira Loma B,biology,1,0,4
+81a47c67,LucasQuan,Mira Loma B,overall,3,0,12
+81a47c67,LucasQuan,Mira Loma B,physics,2,0,8
+81a47c67,Alex,Phillips Exeter,overall,1,1,0
+81a47c67,Alex,Phillips Exeter,physics,1,0,4
+81a47c67,Abhinav KSK,Mira Loma B,math,1,0,4
+81a47c67,Oron,Phillips Exeter,overall,4,0,16
+81a47c67,Oron,Phillips Exeter,math,2,0,8
+81a47c67,Isaac,Phillips Exeter,overall,3,1,8
+81a47c67,Isaac,Phillips Exeter,chemistry,3,1,8
+81a47c67,Abhinav KSK,Mira Loma B,ess,1,1,0
+81a47c67,Oron,Phillips Exeter,ess,2,0,8
+81a47c67,LucasQuan,Mira Loma B,ess,0,0,0
+81a47c67,Alex,Phillips Exeter,energy,0,1,-4
+81a47c67,Abhinav KSK,Mira Loma B,energy,1,0,4
+81a47c67,Krish S,Mira Loma B,overall,1,0,4
+81a47c67,Krish S,Mira Loma B,biology,1,0,4
+81a47c67,LucasQuan,Mira Loma B,math,1,0,4
+81a47c67,Abhinav KSK,Mira Loma B,chemistry,1,1,0
+81a47c67,LucasQuan,Mira Loma B,other,0,0,0
+81a47c67,Luke Wang,Phillips Exeter,other,0,0,0
+f8d7f17f,Arman A,Montgomery Blair A,overall,1,0,4
+f8d7f17f,Arman A,Montgomery Blair A,biology,1,0,4
+f8d7f17f,Ayaan,Lexington,overall,1,0,4
+f8d7f17f,Ayaan,Lexington,physics,1,0,4
+f8d7f17f,Vince,Lexington,overall,2,2,0
+f8d7f17f,Vince,Lexington,math,1,1,0
+f8d7f17f,Chris W,Montgomery Blair A,overall,4,1,12
+f8d7f17f,Chris W,Montgomery Blair A,math,2,0,8
+f8d7f17f,Sam E,Montgomery Blair A,overall,3,0,12
+f8d7f17f,Sam E,Montgomery Blair A,chemistry,3,0,12
+f8d7f17f,Kevin F,Montgomery Blair A,overall,3,1,8
+f8d7f17f,Kevin F,Montgomery Blair A,ess,2,1,4
+f8d7f17f,simon,Lexington,overall,2,1,4
+f8d7f17f,simon,Lexington,biology,1,1,0
+f8d7f17f,Chris W,Montgomery Blair A,physics,2,0,8
+f8d7f17f,Vince,Lexington,chemistry,1,1,0
+f8d7f17f,Carpe Diem,Lexington,overall,3,2,4
+f8d7f17f,Carpe Diem,Lexington,ess,1,2,-4
+f8d7f17f,Carpe Diem,Lexington,energy,1,0,4
+f8d7f17f,Meghna S,Montgomery Blair A,overall,2,0,8
+f8d7f17f,Meghna S,Montgomery Blair A,biology,1,0,4
+f8d7f17f,Kevin F,Montgomery Blair A,physics,1,0,4
+f8d7f17f,Carpe Diem,Lexington,math,1,0,4
+f8d7f17f,Meghna S,Montgomery Blair A,ess,1,0,4
+f8d7f17f,Chris W,Montgomery Blair A,other,0,1,-4
+f8d7f17f,simon,Lexington,other,1,0,4
+260bb7a8,Arman A,Montgomery Blair A,overall,3,0,12
+260bb7a8,Arman A,Montgomery Blair A,biology,2,0,8
+260bb7a8,Bryce Thach,Temple City,overall,6,1,20
+260bb7a8,Bryce Thach,Temple City,physics,3,0,12
+260bb7a8,Chris W,Montgomery Blair A,overall,3,1,8
+260bb7a8,Chris W,Montgomery Blair A,math,2,1,4
+260bb7a8,Bryce Thach,Temple City,chemistry,1,0,4
+260bb7a8,Kevin F,Montgomery Blair A,overall,2,1,4
+260bb7a8,Kevin F,Montgomery Blair A,ess,2,1,4
+260bb7a8,Bryce Thach,Temple City,biology,2,0,8
+260bb7a8,Ethan Wang,Temple City,overall,2,0,8
+260bb7a8,Ethan Wang,Temple City,math,1,0,4
+260bb7a8,Sam E,Montgomery Blair A,overall,3,1,8
+260bb7a8,Sam E,Montgomery Blair A,chemistry,2,1,4
+260bb7a8,Ethan Wang,Temple City,chemistry,1,0,4
+260bb7a8,Bryce Thach,Temple City,ess,0,1,-4
+260bb7a8,Arman A,Montgomery Blair A,energy,1,0,4
+260bb7a8,Chris W,Montgomery Blair A,physics,1,0,4
+260bb7a8,Sam E,Montgomery Blair A,other,1,0,4
+7330b6ac,Krish S,Mira Loma B,overall,3,0,12
+7330b6ac,Krish S,Mira Loma B,biology,3,0,12
+7330b6ac,Abhinav KSK,Mira Loma B,overall,3,3,0
+7330b6ac,Abhinav KSK,Mira Loma B,physics,0,1,-4
+7330b6ac,Edward Chen,Carmel A,overall,8,0,32
+7330b6ac,Edward Chen,Carmel A,physics,3,0,12
+7330b6ac,Abhinav KSK,Mira Loma B,math,1,0,4
+7330b6ac,Katy,Carmel A,overall,1,1,0
+7330b6ac,Katy,Carmel A,chemistry,1,1,0
+7330b6ac,Abhinav KSK,Mira Loma B,chemistry,2,1,4
+7330b6ac,Pravira,Carmel A,overall,2,0,8
+7330b6ac,Pravira,Carmel A,ess,2,0,8
+7330b6ac,Andy Liu,Carmel A,overall,2,0,8
+7330b6ac,Andy Liu,Carmel A,biology,1,0,4
+7330b6ac,Edward Chen,Carmel A,math,3,0,12
+7330b6ac,Abhinav KSK,Mira Loma B,ess,0,1,-4
+7330b6ac,Edward Chen,Carmel A,energy,1,0,4
+7330b6ac,Andy Liu,Carmel A,ess,1,0,4
+7330b6ac,Edward Chen,Carmel A,chemistry,1,0,4
+7330b6ac,Abhinav KSK,Mira Loma B,other,0,0,0
+7330b6ac,Edward Chen,Carmel A,other,0,0,0
+a33d8939,Heidi L,James Clemens,overall,1,1,0
+a33d8939,Heidi L,James Clemens,biology,1,1,0
+a33d8939,Praneel A,James Clemens,overall,9,0,36
+a33d8939,Praneel A,James Clemens,physics,3,0,12
+a33d8939,anish a,MSJ A,overall,4,0,16
+a33d8939,anish a,MSJ A,math,1,0,4
+a33d8939,Praneel A,James Clemens,chemistry,3,0,12
+a33d8939,i_study_rocks,James Clemens,overall,0,1,-4
+a33d8939,i_study_rocks,James Clemens,ess,0,1,-4
+a33d8939,roshan,MSJ A,overall,4,1,12
+a33d8939,roshan,MSJ A,ess,3,0,12
+a33d8939,anish a,MSJ A,biology,3,0,12
+a33d8939,rutvik a,MSJ A,overall,2,1,4
+a33d8939,rutvik a,MSJ A,physics,1,1,0
+a33d8939,roshan,MSJ A,math,0,0,0
+a33d8939,Andrew T,James Clemens,overall,0,0,0
+a33d8939,Andrew T,James Clemens,math,0,0,0
+a33d8939,Praneel A,James Clemens,ess,1,0,4
+a33d8939,roshan,MSJ A,energy,0,1,-4
+a33d8939,Praneel A,James Clemens,energy,1,0,4
+a33d8939,rutvik a,MSJ A,math,1,0,4
+a33d8939,roshan,MSJ A,chemistry,1,0,4
+a33d8939,Praneel A,James Clemens,other,1,0,4
+ae4e381a,Eric L,Ward Melville A,overall,3,3,0
+ae4e381a,Eric L,Ward Melville A,biology,2,1,4
+ae4e381a,akhil,ASFA,overall,6,3,12
+ae4e381a,akhil,ASFA,biology,2,0,8
+ae4e381a,akhil,ASFA,physics,1,1,0
+ae4e381a,Harry G,Ward Melville A,overall,8,3,20
+ae4e381a,Harry G,Ward Melville A,physics,3,1,8
+ae4e381a,Harry G,Ward Melville A,math,2,1,4
+ae4e381a,akhil,ASFA,math,1,0,4
+ae4e381a,Eric L,Ward Melville A,chemistry,1,2,-4
+ae4e381a,akhil,ASFA,chemistry,2,0,8
+ae4e381a,Harry G,Ward Melville A,ess,1,0,4
+ae4e381a,akhil,ASFA,ess,0,2,-8
+ae4e381a,Harry G,Ward Melville A,chemistry,0,1,-4
+ae4e381a,Srihari K,Ward Melville A,overall,1,0,4
+ae4e381a,Srihari K,Ward Melville A,ess,1,0,4
+ae4e381a,Harry G,Ward Melville A,energy,1,0,4
+ae4e381a,Harry G,Ward Melville A,other,1,0,4
+2388b603,Praneel A,James Clemens,overall,4,4,0
+2388b603,Praneel A,James Clemens,biology,1,0,4
+2388b603,Praneel A,James Clemens,physics,1,2,-4
+2388b603,Chris W,Montgomery Blair A,overall,7,0,28
+2388b603,Chris W,Montgomery Blair A,physics,3,0,12
+2388b603,Chris W,Montgomery Blair A,math,3,0,12
+2388b603,Praneel A,James Clemens,chemistry,2,1,4
+2388b603,Sam E,Montgomery Blair A,overall,2,2,0
+2388b603,Sam E,Montgomery Blair A,chemistry,2,1,4
+2388b603,Kevin F,Montgomery Blair A,overall,1,1,0
+2388b603,Kevin F,Montgomery Blair A,ess,1,1,0
+2388b603,Praneel A,James Clemens,ess,0,1,-4
+2388b603,Arman A,Montgomery Blair A,overall,3,0,12
+2388b603,Arman A,Montgomery Blair A,biology,3,0,12
+2388b603,Andrew T,James Clemens,overall,1,0,4
+2388b603,Andrew T,James Clemens,math,1,0,4
+2388b603,Chris W,Montgomery Blair A,energy,1,0,4
+2388b603,i_study_rocks,James Clemens,overall,0,1,-4
+2388b603,i_study_rocks,James Clemens,ess,0,0,0
+2388b603,Sam E,Montgomery Blair A,ess,0,1,-4
+2388b603,i_study_rocks,James Clemens,other,0,1,-4
+2388b603,Sam E,Montgomery Blair A,other,0,0,0
+90f54f9b,akhil,ASFA,overall,7,1,24
+90f54f9b,akhil,ASFA,biology,2,0,8
+90f54f9b,Andy Liu,Carmel A,overall,1,0,4
+90f54f9b,Andy Liu,Carmel A,biology,0,0,0
+90f54f9b,Edward Chen,Carmel A,overall,8,1,28
+90f54f9b,Edward Chen,Carmel A,physics,4,0,16
+90f54f9b,Edward Chen,Carmel A,math,3,0,12
+90f54f9b,Katy,Carmel A,overall,1,1,0
+90f54f9b,Katy,Carmel A,chemistry,1,1,0
+90f54f9b,akhil,ASFA,chemistry,2,0,8
+90f54f9b,akhil,ASFA,ess,2,1,4
+90f54f9b,Andy Liu,Carmel A,ess,0,0,0
+90f54f9b,Pravira,Carmel A,overall,1,1,0
+90f54f9b,Pravira,Carmel A,ess,0,1,-4
+90f54f9b,Edward Chen,Carmel A,energy,0,1,-4
+90f54f9b,akhil,ASFA,energy,1,0,4
+90f54f9b,Andy Liu,Carmel A,math,1,0,4
+90f54f9b,Pravira,Carmel A,chemistry,1,0,4
+90f54f9b,Edward Chen,Carmel A,other,1,0,4
+3160bc48,Eric L,Ward Melville A,overall,6,1,20
+3160bc48,Eric L,Ward Melville A,biology,4,0,16
+3160bc48,Eric L,Ward Melville A,physics,1,0,4
+3160bc48,roshan,MSJ A,overall,6,2,16
+3160bc48,roshan,MSJ A,math,0,1,-4
+3160bc48,Harry G,Ward Melville A,overall,6,2,16
+3160bc48,Harry G,Ward Melville A,math,3,0,12
+3160bc48,anish a,MSJ A,overall,2,0,8
+3160bc48,anish a,MSJ A,chemistry,2,0,8
+3160bc48,roshan,MSJ A,ess,4,0,16
+3160bc48,Harry G,Ward Melville A,physics,1,1,0
+3160bc48,Eric L,Ward Melville A,chemistry,1,1,0
+3160bc48,Harry G,Ward Melville A,energy,1,0,4
+3160bc48,roshan,MSJ A,biology,0,1,-4
+3160bc48,roshan,MSJ A,physics,2,0,8
+3160bc48,roshan,MSJ A,chemistry,0,0,0
+3160bc48,Harry G,Ward Melville A,ess,0,1,-4
+3160bc48,Harry G,Ward Melville A,other,1,0,4
+c7eabfc4,Arman A,Montgomery Blair A,overall,4,2,8
+c7eabfc4,Arman A,Montgomery Blair A,biology,2,2,0
+c7eabfc4,Andy Liu,Carmel A,overall,1,0,4
+c7eabfc4,Andy Liu,Carmel A,biology,1,0,4
+c7eabfc4,Arman A,Montgomery Blair A,physics,1,0,4
+c7eabfc4,Edward Chen,Carmel A,overall,5,2,12
+c7eabfc4,Edward Chen,Carmel A,math,2,1,4
+c7eabfc4,Sam E,Montgomery Blair A,overall,2,1,4
+c7eabfc4,Sam E,Montgomery Blair A,chemistry,2,0,8
+c7eabfc4,Pravira,Carmel A,overall,0,1,-4
+c7eabfc4,Pravira,Carmel A,ess,0,1,-4
+c7eabfc4,Kevin F,Montgomery Blair A,overall,3,1,8
+c7eabfc4,Kevin F,Montgomery Blair A,ess,2,1,4
+c7eabfc4,Edward Chen,Carmel A,physics,3,0,12
+c7eabfc4,Edward Chen,Carmel A,chemistry,0,1,-4
+c7eabfc4,Arman A,Montgomery Blair A,chemistry,1,0,4
+c7eabfc4,Chris W,Montgomery Blair A,overall,3,0,12
+c7eabfc4,Chris W,Montgomery Blair A,energy,1,0,4
+c7eabfc4,Sam E,Montgomery Blair A,physics,0,1,-4
+c7eabfc4,Chris W,Montgomery Blair A,math,2,0,8
+c7eabfc4,Andy Liu,Carmel A,chemistry,0,0,0
+c7eabfc4,Andy Liu,Carmel A,ess,0,0,0
+c7eabfc4,Kevin F,Montgomery Blair A,other,1,0,4
+cbcf5c39,Arman A,Montgomery Blair A,overall,0,2,-8
+cbcf5c39,Arman A,Montgomery Blair A,biology,0,2,-8
+cbcf5c39,anish a,MSJ A,overall,4,0,16
+cbcf5c39,anish a,MSJ A,biology,2,0,8
+cbcf5c39,Sam E,Montgomery Blair A,overall,2,1,4
+cbcf5c39,Sam E,Montgomery Blair A,physics,0,0,0
+cbcf5c39,rutvik a,MSJ A,overall,2,1,4
+cbcf5c39,rutvik a,MSJ A,physics,1,1,0
+cbcf5c39,Sam E,Montgomery Blair A,math,1,0,4
+cbcf5c39,roshan,MSJ A,overall,7,1,24
+cbcf5c39,roshan,MSJ A,chemistry,2,0,8
+cbcf5c39,roshan,MSJ A,ess,3,1,8
+cbcf5c39,Chris W,Montgomery Blair A,overall,2,0,8
+cbcf5c39,Chris W,Montgomery Blair A,physics,2,0,8
+cbcf5c39,rutvik a,MSJ A,math,1,0,4
+cbcf5c39,Chris W,Montgomery Blair A,math,0,0,0
+cbcf5c39,anish a,MSJ A,chemistry,1,0,4
+cbcf5c39,Sam E,Montgomery Blair A,energy,0,1,-4
+cbcf5c39,anish a,MSJ A,energy,1,0,4
+cbcf5c39,roshan,MSJ A,physics,1,0,4
+cbcf5c39,Kevin F,Montgomery Blair A,overall,1,0,4
+cbcf5c39,Kevin F,Montgomery Blair A,ess,0,0,0
+cbcf5c39,roshan,MSJ A,math,1,0,4
+cbcf5c39,Sam E,Montgomery Blair A,chemistry,1,0,4
+cbcf5c39,Kevin F,Montgomery Blair A,other,1,0,4
+a06de19f,Eric L,Ward Melville A,overall,3,3,0
+a06de19f,Eric L,Ward Melville A,biology,2,2,0
+a06de19f,Harry G,Ward Melville A,overall,6,1,20
+a06de19f,Harry G,Ward Melville A,physics,3,0,12
+a06de19f,Harry G,Ward Melville A,math,2,0,8
+a06de19f,roshan,MSJ A,overall,5,1,16
+a06de19f,roshan,MSJ A,chemistry,1,0,4
+a06de19f,roshan,MSJ A,ess,3,0,12
+a06de19f,anish a,MSJ A,overall,1,0,4
+a06de19f,anish a,MSJ A,biology,1,0,4
+a06de19f,roshan,MSJ A,math,0,0,0
+a06de19f,Eric L,Ward Melville A,chemistry,1,1,0
+a06de19f,Harry G,Ward Melville A,ess,0,1,-4
+a06de19f,roshan,MSJ A,energy,0,1,-4
+a06de19f,Harry G,Ward Melville A,energy,0,0,0
+a06de19f,roshan,MSJ A,physics,1,0,4
+a06de19f,anish a,MSJ A,chemistry,0,0,0
+a06de19f,Harry G,Ward Melville A,other,1,0,4

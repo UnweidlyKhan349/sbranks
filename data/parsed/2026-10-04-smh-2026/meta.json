@@ -2,12 +2,12 @@
   "tournament_id": "2026-10-04-smh-2026",
   "counts": {
     "teams": 43,
-    "games": 94,
-    "games_with_scores": 94,
-    "player_stat_rows": 1332,
-    "players": 167,
-    "team_game_subject_rows": 1316,
-    "player_game_stat_rows": 2100
+    "games": 125,
+    "games_with_scores": 125,
+    "player_stat_rows": 1347,
+    "players": 169,
+    "team_game_subject_rows": 1750,
+    "player_game_stat_rows": 2790
   },
   "coverage": {
     "games": true,

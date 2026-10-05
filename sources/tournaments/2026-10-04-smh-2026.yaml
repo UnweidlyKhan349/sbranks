@@ -19,5 +19,7 @@ sources:
   url: https://isobowl.com/premier/tournaments/smh-2026
 parser: g1_isobowl:parse
 parser_options: {}
-status: partial
-notes: 'ISOBowl API: in progress when fetched (2026-10-04); games so far with per-question logs. Re-fetch for the final results.'
+status: parsed
+notes: 'ISOBowl API: all 125 games (5 round-robin rounds + 30-game double elimination) with per-question logs -> per-player
+  per-subject stats. Ward Melville A beat MSJ A in the final. Re-fetched after the event finished (ISOBowl still lists it
+  as live).'

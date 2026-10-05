@@ -1189,6 +1189,20 @@ ace0f60f,College Park,physics,14,4,10,2,1
 5b5a6ab4,MSJ B,math,32,12,20,3,0
 5b5a6ab4,MSJ B,other,0,0,0,0,0
 5b5a6ab4,MSJ B,physics,4,4,0,1,0
+6088e821,Clovis North,biology,14,4,10,2,1
+6088e821,Clovis North,chemistry,28,8,20,2,0
+6088e821,Clovis North,energy,4,4,0,1,0
+6088e821,Clovis North,ess,14,4,10,1,0
+6088e821,Clovis North,math,-4,-4,0,0,1
+6088e821,Clovis North,other,4,4,0,1,0
+6088e821,Clovis North,physics,18,8,10,2,0
+6088e821,Phillips Exeter,biology,28,8,20,2,0
+6088e821,Phillips Exeter,chemistry,10,0,10,1,1
+6088e821,Phillips Exeter,energy,0,0,0,0,0
+6088e821,Phillips Exeter,ess,22,12,10,3,0
+6088e821,Phillips Exeter,math,18,8,10,2,0
+6088e821,Phillips Exeter,other,0,0,0,0,0
+6088e821,Phillips Exeter,physics,18,8,10,2,0
 6b5543fd,Iolani,biology,0,0,0,0,0
 6b5543fd,Iolani,chemistry,0,0,0,0,0
 6b5543fd,Iolani,energy,0,0,0,0,0
@@ -1315,3 +1329,423 @@ f9ccf6ca,Madison West,ess,26,16,10,4,0
 f9ccf6ca,Madison West,math,28,8,20,2,0
 f9ccf6ca,Madison West,other,14,4,10,1,0
 f9ccf6ca,Madison West,physics,28,8,20,3,1
+49787b4a,Temple City,biology,-4,-4,0,0,1
+49787b4a,Temple City,chemistry,22,12,10,3,0
+49787b4a,Temple City,energy,0,0,0,0,0
+49787b4a,Temple City,ess,18,8,10,2,0
+49787b4a,Temple City,math,4,4,0,1,0
+49787b4a,Temple City,other,0,0,0,0,0
+49787b4a,Temple City,physics,14,4,10,2,1
+49787b4a,Ward Melville A,biology,28,8,20,3,1
+49787b4a,Ward Melville A,chemistry,14,4,10,1,0
+49787b4a,Ward Melville A,energy,14,4,10,1,0
+49787b4a,Ward Melville A,ess,0,0,0,0,0
+49787b4a,Ward Melville A,math,14,4,10,2,1
+49787b4a,Ward Melville A,other,0,0,0,0,0
+49787b4a,Ward Melville A,physics,18,8,10,2,0
+66d84522,Carmel A,biology,4,4,0,1,0
+66d84522,Carmel A,chemistry,8,8,0,2,0
+66d84522,Carmel A,energy,14,4,10,1,0
+66d84522,Carmel A,ess,6,-4,10,1,2
+66d84522,Carmel A,math,18,8,10,3,1
+66d84522,Carmel A,other,4,4,0,1,0
+66d84522,Carmel A,physics,24,4,20,2,1
+66d84522,MSJ A,biology,32,12,20,3,0
+66d84522,MSJ A,chemistry,24,4,20,2,1
+66d84522,MSJ A,energy,-4,-4,0,0,1
+66d84522,MSJ A,ess,32,12,20,3,0
+66d84522,MSJ A,math,14,4,10,1,0
+66d84522,MSJ A,other,-4,-4,0,0,1
+66d84522,MSJ A,physics,28,8,20,2,0
+820bf0ca,Iolani,biology,4,4,0,1,0
+820bf0ca,Iolani,chemistry,18,8,10,2,0
+820bf0ca,Iolani,energy,4,4,0,1,0
+820bf0ca,Iolani,ess,18,8,10,2,0
+820bf0ca,Iolani,math,4,4,0,1,0
+820bf0ca,Iolani,other,0,0,0,0,0
+820bf0ca,Iolani,physics,4,4,0,1,0
+820bf0ca,James Clemens,biology,32,12,20,3,0
+820bf0ca,James Clemens,chemistry,4,4,0,1,0
+820bf0ca,James Clemens,energy,-4,-4,0,0,1
+820bf0ca,James Clemens,ess,14,4,10,1,0
+820bf0ca,James Clemens,math,18,8,10,2,0
+820bf0ca,James Clemens,other,0,0,0,0,0
+820bf0ca,James Clemens,physics,42,12,30,3,0
+aa243587,Middleton,biology,22,12,10,3,0
+aa243587,Middleton,chemistry,4,4,0,2,1
+aa243587,Middleton,energy,0,0,0,0,0
+aa243587,Middleton,ess,0,0,0,0,0
+aa243587,Middleton,math,18,8,10,2,0
+aa243587,Middleton,other,0,0,0,0,0
+aa243587,Middleton,physics,8,8,0,2,0
+aa243587,Mira Loma B,biology,-4,-4,0,0,1
+aa243587,Mira Loma B,chemistry,18,8,10,2,0
+aa243587,Mira Loma B,energy,4,4,0,1,0
+aa243587,Mira Loma B,ess,14,4,10,1,0
+aa243587,Mira Loma B,math,18,8,10,2,0
+aa243587,Mira Loma B,other,0,0,0,0,0
+aa243587,Mira Loma B,physics,18,8,10,2,0
+bfcf8873,ASFA,biology,2,-8,10,1,3
+bfcf8873,ASFA,chemistry,14,4,10,2,1
+bfcf8873,ASFA,energy,4,4,0,1,0
+bfcf8873,ASFA,ess,24,4,20,2,1
+bfcf8873,ASFA,math,28,8,20,2,0
+bfcf8873,ASFA,other,-4,-4,0,0,1
+bfcf8873,ASFA,physics,14,4,10,2,1
+bfcf8873,Wayzata A,biology,0,0,0,0,0
+bfcf8873,Wayzata A,chemistry,28,8,20,2,0
+bfcf8873,Wayzata A,energy,0,0,0,0,0
+bfcf8873,Wayzata A,ess,10,0,10,1,1
+bfcf8873,Wayzata A,math,14,4,10,2,1
+bfcf8873,Wayzata A,other,0,0,0,0,0
+bfcf8873,Wayzata A,physics,14,4,10,1,0
+c1171dbf,Montgomery Blair A,biology,32,12,20,3,0
+c1171dbf,Montgomery Blair A,chemistry,-4,-4,0,1,2
+c1171dbf,Montgomery Blair A,energy,14,4,10,1,0
+c1171dbf,Montgomery Blair A,ess,18,8,10,2,0
+c1171dbf,Montgomery Blair A,math,22,12,10,3,0
+c1171dbf,Montgomery Blair A,other,0,0,0,0,0
+c1171dbf,Montgomery Blair A,physics,38,8,30,3,1
+c1171dbf,Shallow Walk,biology,-8,-8,0,0,2
+c1171dbf,Shallow Walk,chemistry,0,0,0,1,1
+c1171dbf,Shallow Walk,energy,0,0,0,0,0
+c1171dbf,Shallow Walk,ess,-8,-8,0,0,2
+c1171dbf,Shallow Walk,math,10,0,10,1,1
+c1171dbf,Shallow Walk,other,0,0,0,0,0
+c1171dbf,Shallow Walk,physics,10,0,10,1,1
+d79120f0,MSJ B,biology,24,4,20,2,1
+d79120f0,MSJ B,chemistry,32,12,20,3,0
+d79120f0,MSJ B,energy,0,0,0,0,0
+d79120f0,MSJ B,ess,28,8,20,3,1
+d79120f0,MSJ B,math,14,4,10,2,1
+d79120f0,MSJ B,other,0,0,0,0,0
+d79120f0,MSJ B,physics,14,4,10,1,0
+d79120f0,Phillips Exeter,biology,10,0,10,2,2
+d79120f0,Phillips Exeter,chemistry,14,4,10,1,0
+d79120f0,Phillips Exeter,energy,-4,-4,0,0,1
+d79120f0,Phillips Exeter,ess,0,0,0,0,0
+d79120f0,Phillips Exeter,math,18,8,10,2,0
+d79120f0,Phillips Exeter,other,4,4,0,1,0
+d79120f0,Phillips Exeter,physics,32,12,20,3,0
+f037da76,Dulles,biology,28,8,20,2,0
+f037da76,Dulles,chemistry,18,8,10,2,0
+f037da76,Dulles,energy,0,0,0,0,0
+f037da76,Dulles,ess,18,8,10,2,0
+f037da76,Dulles,math,-4,-4,0,0,1
+f037da76,Dulles,other,-4,-4,0,0,1
+f037da76,Dulles,physics,32,12,20,3,0
+f037da76,Lexington,biology,-8,-8,0,1,3
+f037da76,Lexington,chemistry,8,8,0,2,0
+f037da76,Lexington,energy,4,4,0,1,0
+f037da76,Lexington,ess,-4,-4,0,1,2
+f037da76,Lexington,math,36,16,20,4,0
+f037da76,Lexington,other,4,4,0,1,0
+f037da76,Lexington,physics,-8,-8,0,0,2
+06fac56b,Mira Loma B,biology,4,4,0,1,0
+06fac56b,Mira Loma B,chemistry,14,4,10,1,0
+06fac56b,Mira Loma B,energy,0,0,0,0,0
+06fac56b,Mira Loma B,ess,0,0,0,0,0
+06fac56b,Mira Loma B,math,32,12,20,3,0
+06fac56b,Mira Loma B,other,0,0,0,0,0
+06fac56b,Mira Loma B,physics,0,0,0,0,0
+06fac56b,Ward Melville A,biology,2,-8,10,1,3
+06fac56b,Ward Melville A,chemistry,38,8,30,3,1
+06fac56b,Ward Melville A,energy,14,4,10,1,0
+06fac56b,Ward Melville A,ess,14,4,10,1,0
+06fac56b,Ward Melville A,math,0,0,0,0,0
+06fac56b,Ward Melville A,other,-4,-4,0,0,1
+06fac56b,Ward Melville A,physics,56,16,40,4,0
+3e5ff124,Middleton,biology,4,4,0,1,0
+3e5ff124,Middleton,chemistry,14,4,10,1,0
+3e5ff124,Middleton,energy,0,0,0,0,0
+3e5ff124,Middleton,ess,0,0,0,0,0
+3e5ff124,Middleton,math,4,4,0,1,0
+3e5ff124,Middleton,other,0,0,0,0,0
+3e5ff124,Middleton,physics,4,4,0,1,0
+3e5ff124,Temple City,biology,-4,-4,0,1,2
+3e5ff124,Temple City,chemistry,22,12,10,3,0
+3e5ff124,Temple City,energy,14,4,10,1,0
+3e5ff124,Temple City,ess,10,0,10,2,2
+3e5ff124,Temple City,math,0,0,0,0,0
+3e5ff124,Temple City,other,0,0,0,0,0
+3e5ff124,Temple City,physics,8,8,0,2,0
+4de718dd,Iolani,biology,0,0,0,0,0
+4de718dd,Iolani,chemistry,-4,-4,0,0,1
+4de718dd,Iolani,energy,0,0,0,0,0
+4de718dd,Iolani,ess,4,4,0,1,0
+4de718dd,Iolani,math,0,0,0,0,0
+4de718dd,Iolani,other,4,4,0,1,0
+4de718dd,Iolani,physics,22,12,10,3,0
+4de718dd,Phillips Exeter,biology,36,16,20,4,0
+4de718dd,Phillips Exeter,chemistry,18,8,10,3,1
+4de718dd,Phillips Exeter,energy,14,4,10,1,0
+4de718dd,Phillips Exeter,ess,4,4,0,1,0
+4de718dd,Phillips Exeter,math,32,12,20,3,0
+4de718dd,Phillips Exeter,other,0,0,0,0,0
+4de718dd,Phillips Exeter,physics,14,4,10,1,0
+6d72ecb2,Lexington,biology,-4,-4,0,1,2
+6d72ecb2,Lexington,chemistry,28,8,20,3,1
+6d72ecb2,Lexington,energy,14,4,10,1,0
+6d72ecb2,Lexington,ess,42,12,30,3,0
+6d72ecb2,Lexington,math,-4,-4,0,0,1
+6d72ecb2,Lexington,other,-4,-4,0,0,1
+6d72ecb2,Lexington,physics,22,12,10,3,0
+6d72ecb2,Wayzata A,biology,-4,-4,0,0,1
+6d72ecb2,Wayzata A,chemistry,4,4,0,1,0
+6d72ecb2,Wayzata A,energy,0,0,0,0,0
+6d72ecb2,Wayzata A,ess,4,4,0,1,0
+6d72ecb2,Wayzata A,math,28,8,20,2,0
+6d72ecb2,Wayzata A,other,0,0,0,0,0
+6d72ecb2,Wayzata A,physics,4,4,0,1,0
+816777b9,MSJ A,biology,4,4,0,1,0
+816777b9,MSJ A,chemistry,28,8,20,3,1
+816777b9,MSJ A,energy,14,4,10,1,0
+816777b9,MSJ A,ess,42,12,30,3,0
+816777b9,MSJ A,math,8,8,0,2,0
+816777b9,MSJ A,other,0,0,0,0,0
+816777b9,MSJ A,physics,24,4,20,2,1
+816777b9,Montgomery Blair A,biology,14,4,10,2,1
+816777b9,Montgomery Blair A,chemistry,-4,-4,0,1,2
+816777b9,Montgomery Blair A,energy,0,0,0,0,0
+816777b9,Montgomery Blair A,ess,10,0,10,1,1
+816777b9,Montgomery Blair A,math,18,8,10,2,0
+816777b9,Montgomery Blair A,other,14,4,10,1,0
+816777b9,Montgomery Blair A,physics,28,8,20,2,0
+b574b8ff,Carmel A,biology,-4,-4,0,0,1
+b574b8ff,Carmel A,chemistry,22,12,10,3,0
+b574b8ff,Carmel A,energy,0,0,0,0,0
+b574b8ff,Carmel A,ess,22,12,10,3,0
+b574b8ff,Carmel A,math,36,16,20,4,0
+b574b8ff,Carmel A,other,-4,-4,0,0,1
+b574b8ff,Carmel A,physics,42,12,30,3,0
+b574b8ff,Shallow Walk,biology,22,12,10,3,0
+b574b8ff,Shallow Walk,chemistry,14,4,10,1,0
+b574b8ff,Shallow Walk,energy,14,4,10,1,0
+b574b8ff,Shallow Walk,ess,0,0,0,1,1
+b574b8ff,Shallow Walk,math,-4,-4,0,0,1
+b574b8ff,Shallow Walk,other,0,0,0,0,0
+b574b8ff,Shallow Walk,physics,0,0,0,1,1
+b5afa3a8,ASFA,biology,14,4,10,2,1
+b5afa3a8,ASFA,chemistry,46,16,30,4,0
+b5afa3a8,ASFA,energy,14,4,10,1,0
+b5afa3a8,ASFA,ess,4,4,0,1,0
+b5afa3a8,ASFA,math,20,0,20,2,2
+b5afa3a8,ASFA,other,0,0,0,0,0
+b5afa3a8,ASFA,physics,28,8,20,2,0
+b5afa3a8,Dulles,biology,24,4,20,2,1
+b5afa3a8,Dulles,chemistry,0,0,0,0,0
+b5afa3a8,Dulles,energy,0,0,0,0,0
+b5afa3a8,Dulles,ess,32,12,20,3,0
+b5afa3a8,Dulles,math,28,8,20,2,0
+b5afa3a8,Dulles,other,4,4,0,1,0
+b5afa3a8,Dulles,physics,8,8,0,2,0
+feb830dc,James Clemens,biology,0,0,0,2,2
+feb830dc,James Clemens,chemistry,42,12,30,3,0
+feb830dc,James Clemens,energy,0,0,0,0,0
+feb830dc,James Clemens,ess,4,4,0,1,0
+feb830dc,James Clemens,math,4,4,0,1,0
+feb830dc,James Clemens,other,0,0,0,0,0
+feb830dc,James Clemens,physics,42,12,30,3,0
+feb830dc,MSJ B,biology,14,4,10,2,1
+feb830dc,MSJ B,chemistry,4,4,0,1,0
+feb830dc,MSJ B,energy,0,0,0,0,0
+feb830dc,MSJ B,ess,38,8,30,3,1
+feb830dc,MSJ B,math,4,4,0,2,1
+feb830dc,MSJ B,other,0,0,0,0,0
+feb830dc,MSJ B,physics,14,4,10,1,0
+025ef898,Carmel A,biology,4,4,0,1,0
+025ef898,Carmel A,chemistry,14,4,10,2,1
+025ef898,Carmel A,energy,14,4,10,1,0
+025ef898,Carmel A,ess,10,0,10,1,1
+025ef898,Carmel A,math,22,12,10,3,0
+025ef898,Carmel A,other,-4,-4,0,0,1
+025ef898,Carmel A,physics,24,4,20,2,1
+025ef898,Dulles,biology,10,0,10,1,1
+025ef898,Dulles,chemistry,4,4,0,1,0
+025ef898,Dulles,energy,0,0,0,0,0
+025ef898,Dulles,ess,10,0,10,1,1
+025ef898,Dulles,math,14,4,10,1,0
+025ef898,Dulles,other,0,0,0,0,0
+025ef898,Dulles,physics,18,8,10,2,0
+4239ff54,MSJ B,biology,14,4,10,1,0
+4239ff54,MSJ B,chemistry,-4,-4,0,0,1
+4239ff54,MSJ B,energy,4,4,0,1,0
+4239ff54,MSJ B,ess,10,0,10,2,2
+4239ff54,MSJ B,math,18,8,10,2,0
+4239ff54,MSJ B,other,0,0,0,0,0
+4239ff54,MSJ B,physics,28,8,20,2,0
+4239ff54,Temple City,biology,32,12,20,3,0
+4239ff54,Temple City,chemistry,18,8,10,3,1
+4239ff54,Temple City,energy,0,0,0,0,0
+4239ff54,Temple City,ess,8,8,0,2,0
+4239ff54,Temple City,math,8,8,0,2,0
+4239ff54,Temple City,other,0,0,0,0,0
+4239ff54,Temple City,physics,24,4,20,2,1
+81a47c67,Mira Loma B,biology,8,8,0,2,0
+81a47c67,Mira Loma B,chemistry,10,0,10,1,1
+81a47c67,Mira Loma B,energy,14,4,10,1,0
+81a47c67,Mira Loma B,ess,0,0,0,1,1
+81a47c67,Mira Loma B,math,28,8,20,2,0
+81a47c67,Mira Loma B,other,0,0,0,0,0
+81a47c67,Mira Loma B,physics,28,8,20,2,0
+81a47c67,Phillips Exeter,biology,10,0,10,2,2
+81a47c67,Phillips Exeter,chemistry,18,8,10,3,1
+81a47c67,Phillips Exeter,energy,-4,-4,0,0,1
+81a47c67,Phillips Exeter,ess,8,8,0,2,0
+81a47c67,Phillips Exeter,math,8,8,0,2,0
+81a47c67,Phillips Exeter,other,0,0,0,0,0
+81a47c67,Phillips Exeter,physics,14,4,10,1,0
+f8d7f17f,Lexington,biology,0,0,0,1,1
+f8d7f17f,Lexington,chemistry,0,0,0,1,1
+f8d7f17f,Lexington,energy,14,4,10,1,0
+f8d7f17f,Lexington,ess,-4,-4,0,1,2
+f8d7f17f,Lexington,math,14,4,10,2,1
+f8d7f17f,Lexington,other,4,4,0,1,0
+f8d7f17f,Lexington,physics,4,4,0,1,0
+f8d7f17f,Montgomery Blair A,biology,18,8,10,2,0
+f8d7f17f,Montgomery Blair A,chemistry,32,12,20,3,0
+f8d7f17f,Montgomery Blair A,energy,0,0,0,0,0
+f8d7f17f,Montgomery Blair A,ess,18,8,10,3,1
+f8d7f17f,Montgomery Blair A,math,8,8,0,2,0
+f8d7f17f,Montgomery Blair A,other,-4,-4,0,0,1
+f8d7f17f,Montgomery Blair A,physics,42,12,30,3,0
+260bb7a8,Montgomery Blair A,biology,18,8,10,2,0
+260bb7a8,Montgomery Blair A,chemistry,4,4,0,2,1
+260bb7a8,Montgomery Blair A,energy,14,4,10,1,0
+260bb7a8,Montgomery Blair A,ess,4,4,0,2,1
+260bb7a8,Montgomery Blair A,math,14,4,10,2,1
+260bb7a8,Montgomery Blair A,other,4,4,0,1,0
+260bb7a8,Montgomery Blair A,physics,14,4,10,1,0
+260bb7a8,Temple City,biology,28,8,20,2,0
+260bb7a8,Temple City,chemistry,18,8,10,2,0
+260bb7a8,Temple City,energy,0,0,0,0,0
+260bb7a8,Temple City,ess,-4,-4,0,0,1
+260bb7a8,Temple City,math,4,4,0,1,0
+260bb7a8,Temple City,other,0,0,0,0,0
+260bb7a8,Temple City,physics,22,12,10,3,0
+7330b6ac,Carmel A,biology,4,4,0,1,0
+7330b6ac,Carmel A,chemistry,4,4,0,2,1
+7330b6ac,Carmel A,energy,14,4,10,1,0
+7330b6ac,Carmel A,ess,32,12,20,3,0
+7330b6ac,Carmel A,math,42,12,30,3,0
+7330b6ac,Carmel A,other,0,0,0,0,0
+7330b6ac,Carmel A,physics,42,12,30,3,0
+7330b6ac,Mira Loma B,biology,22,12,10,3,0
+7330b6ac,Mira Loma B,chemistry,24,4,20,2,1
+7330b6ac,Mira Loma B,energy,0,0,0,0,0
+7330b6ac,Mira Loma B,ess,-4,-4,0,0,1
+7330b6ac,Mira Loma B,math,14,4,10,1,0
+7330b6ac,Mira Loma B,other,0,0,0,0,0
+7330b6ac,Mira Loma B,physics,-4,-4,0,0,1
+a33d8939,James Clemens,biology,10,0,10,1,1
+a33d8939,James Clemens,chemistry,32,12,20,3,0
+a33d8939,James Clemens,energy,4,4,0,1,0
+a33d8939,James Clemens,ess,10,0,10,1,1
+a33d8939,James Clemens,math,0,0,0,0,0
+a33d8939,James Clemens,other,4,4,0,1,0
+a33d8939,James Clemens,physics,22,12,10,3,0
+a33d8939,MSJ A,biology,42,12,30,3,0
+a33d8939,MSJ A,chemistry,14,4,10,1,0
+a33d8939,MSJ A,energy,-4,-4,0,0,1
+a33d8939,MSJ A,ess,32,12,20,3,0
+a33d8939,MSJ A,math,18,8,10,2,0
+a33d8939,MSJ A,other,0,0,0,0,0
+a33d8939,MSJ A,physics,10,0,10,1,1
+ae4e381a,ASFA,biology,8,8,0,2,0
+ae4e381a,ASFA,chemistry,18,8,10,2,0
+ae4e381a,ASFA,energy,0,0,0,0,0
+ae4e381a,ASFA,ess,-8,-8,0,0,2
+ae4e381a,ASFA,math,4,4,0,1,0
+ae4e381a,ASFA,other,0,0,0,0,0
+ae4e381a,ASFA,physics,10,0,10,1,1
+ae4e381a,Ward Melville A,biology,24,4,20,2,1
+ae4e381a,Ward Melville A,chemistry,2,-8,10,1,3
+ae4e381a,Ward Melville A,energy,4,4,0,1,0
+ae4e381a,Ward Melville A,ess,18,8,10,2,0
+ae4e381a,Ward Melville A,math,24,4,20,2,1
+ae4e381a,Ward Melville A,other,4,4,0,1,0
+ae4e381a,Ward Melville A,physics,38,8,30,3,1
+2388b603,James Clemens,biology,14,4,10,1,0
+2388b603,James Clemens,chemistry,14,4,10,2,1
+2388b603,James Clemens,energy,0,0,0,0,0
+2388b603,James Clemens,ess,-4,-4,0,0,1
+2388b603,James Clemens,math,4,4,0,1,0
+2388b603,James Clemens,other,-4,-4,0,0,1
+2388b603,James Clemens,physics,6,-4,10,1,2
+2388b603,Montgomery Blair A,biology,32,12,20,3,0
+2388b603,Montgomery Blair A,chemistry,24,4,20,2,1
+2388b603,Montgomery Blair A,energy,4,4,0,1,0
+2388b603,Montgomery Blair A,ess,-4,-4,0,1,2
+2388b603,Montgomery Blair A,math,32,12,20,3,0
+2388b603,Montgomery Blair A,other,0,0,0,0,0
+2388b603,Montgomery Blair A,physics,32,12,20,3,0
+90f54f9b,ASFA,biology,8,8,0,2,0
+90f54f9b,ASFA,chemistry,18,8,10,2,0
+90f54f9b,ASFA,energy,14,4,10,1,0
+90f54f9b,ASFA,ess,4,4,0,2,1
+90f54f9b,ASFA,math,0,0,0,0,0
+90f54f9b,ASFA,other,0,0,0,0,0
+90f54f9b,ASFA,physics,0,0,0,0,0
+90f54f9b,Carmel A,biology,0,0,0,0,0
+90f54f9b,Carmel A,chemistry,24,4,20,2,1
+90f54f9b,Carmel A,energy,-4,-4,0,0,1
+90f54f9b,Carmel A,ess,-4,-4,0,0,1
+90f54f9b,Carmel A,math,36,16,20,4,0
+90f54f9b,Carmel A,other,14,4,10,1,0
+90f54f9b,Carmel A,physics,56,16,40,4,0
+3160bc48,MSJ A,biology,-4,-4,0,0,1
+3160bc48,MSJ A,chemistry,28,8,20,2,0
+3160bc48,MSJ A,energy,0,0,0,0,0
+3160bc48,MSJ A,ess,46,16,30,4,0
+3160bc48,MSJ A,math,-4,-4,0,0,1
+3160bc48,MSJ A,other,0,0,0,0,0
+3160bc48,MSJ A,physics,28,8,20,2,0
+3160bc48,Ward Melville A,biology,46,16,30,4,0
+3160bc48,Ward Melville A,chemistry,10,0,10,1,1
+3160bc48,Ward Melville A,energy,14,4,10,1,0
+3160bc48,Ward Melville A,ess,-4,-4,0,0,1
+3160bc48,Ward Melville A,math,22,12,10,3,0
+3160bc48,Ward Melville A,other,4,4,0,1,0
+3160bc48,Ward Melville A,physics,14,4,10,2,1
+c7eabfc4,Carmel A,biology,4,4,0,1,0
+c7eabfc4,Carmel A,chemistry,-4,-4,0,0,1
+c7eabfc4,Carmel A,energy,0,0,0,0,0
+c7eabfc4,Carmel A,ess,-4,-4,0,0,1
+c7eabfc4,Carmel A,math,24,4,20,2,1
+c7eabfc4,Carmel A,other,0,0,0,0,0
+c7eabfc4,Carmel A,physics,42,12,30,3,0
+c7eabfc4,Montgomery Blair A,biology,10,0,10,2,2
+c7eabfc4,Montgomery Blair A,chemistry,32,12,20,3,0
+c7eabfc4,Montgomery Blair A,energy,14,4,10,1,0
+c7eabfc4,Montgomery Blair A,ess,4,4,0,2,1
+c7eabfc4,Montgomery Blair A,math,18,8,10,2,0
+c7eabfc4,Montgomery Blair A,other,14,4,10,1,0
+c7eabfc4,Montgomery Blair A,physics,10,0,10,1,1
+cbcf5c39,MSJ A,biology,18,8,10,2,0
+cbcf5c39,MSJ A,chemistry,42,12,30,3,0
+cbcf5c39,MSJ A,energy,4,4,0,1,0
+cbcf5c39,MSJ A,ess,38,8,30,3,1
+cbcf5c39,MSJ A,math,8,8,0,2,0
+cbcf5c39,MSJ A,other,0,0,0,0,0
+cbcf5c39,MSJ A,physics,14,4,10,2,1
+cbcf5c39,Montgomery Blair A,biology,-8,-8,0,0,2
+cbcf5c39,Montgomery Blair A,chemistry,4,4,0,1,0
+cbcf5c39,Montgomery Blair A,energy,-4,-4,0,0,1
+cbcf5c39,Montgomery Blair A,ess,0,0,0,0,0
+cbcf5c39,Montgomery Blair A,math,14,4,10,1,0
+cbcf5c39,Montgomery Blair A,other,14,4,10,1,0
+cbcf5c39,Montgomery Blair A,physics,18,8,10,2,0
+a06de19f,MSJ A,biology,4,4,0,1,0
+a06de19f,MSJ A,chemistry,14,4,10,1,0
+a06de19f,MSJ A,energy,-4,-4,0,0,1
+a06de19f,MSJ A,ess,22,12,10,3,0
+a06de19f,MSJ A,math,0,0,0,0,0
+a06de19f,MSJ A,other,0,0,0,0,0
+a06de19f,MSJ A,physics,14,4,10,1,0
+a06de19f,Ward Melville A,biology,20,0,20,2,2
+a06de19f,Ward Melville A,chemistry,0,0,0,1,1
+a06de19f,Ward Melville A,energy,0,0,0,0,0
+a06de19f,Ward Melville A,ess,-4,-4,0,0,1
+a06de19f,Ward Melville A,math,18,8,10,2,0
+a06de19f,Ward Melville A,other,14,4,10,1,0
+a06de19f,Ward Melville A,physics,12,12,0,3,0
