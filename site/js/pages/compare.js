@@ -11,7 +11,7 @@ export async function render(ctx) {
   const q = ctx.query;
   const st = { type: q.get("type") === "players" ? "players" : "teams", a: q.get("a") || "", b: q.get("b") || "" };
   const root = h("div");
-  root.appendChild(pageHead({ title: "Compare", sub: "Pick two teams for a win probability, subject-by-subject ratings and their head-to-head games — or two players for their subject profiles and stats. The link is shareable." }));
+  root.appendChild(pageHead({ title: "Compare", sub: "Pick two teams for a win probability, subject-by-subject ratings and their head-to-head games — or two players for the chance each is stronger, their subject profiles and stats. The link is shareable." }));
 
   const seg = h("div", { class: "seg", role: "group", "aria-label": "Compare teams or players" });
   const pickers = h("div", { class: "vs-grid card" });
@@ -151,6 +151,25 @@ export async function render(ctx) {
   async function comparePlayers(A, B) {
     const out = h("div");
     if (A.id === B.id) { out.appendChild(notice("Pick two different players.")); return out; }
+    // chance that A's true rating is above B's, given both estimates and their standard errors
+    const pStronger = (a, b) => (a && b && a.r != null && b.r != null ? normCdf((a.r - b.r) / (Math.hypot(a.se || 0, b.se || 0) || 1)) : null);
+    const pOverall = pStronger(A, B);
+    const pct = (q) => (q > 0.995 ? ">99%" : q < 0.005 ? "<1%" : fmt.pct(q));
+    if (pOverall != null) {
+      out.appendChild(section("Probability", "Chance each player is the stronger one, given both ratings and their uncertainty",
+        h("div", { class: "prob-row" },
+          h("div", { class: "prob" }, h("div", { class: "prob-val" }, pct(pOverall)), h("div", { class: "prob-name" }, h("span", { class: "swatch", style: { background: COLORS.a } }), A.name)),
+          h("div", { class: "prob" }, h("div", { class: "prob-val" }, pct(1 - pOverall)), h("div", { class: "prob-name" }, h("span", { class: "swatch", style: { background: COLORS.b } }), B.name))),
+        dataTable([
+          { key: "s", label: "Subject", render: (x) => x.label },
+          { key: "a", label: h("span", { class: "subj-label" }, h("span", { class: "swatch", style: { background: COLORS.a } }), A.name), num: true, render: (x) => { const q = pStronger(A.subj[x.key], B.subj[x.key]); return q == null ? "–" : pct(q); } },
+          { key: "b", label: h("span", { class: "subj-label" }, h("span", { class: "swatch", style: { background: COLORS.b } }), B.name), num: true, render: (x) => { const q = pStronger(A.subj[x.key], B.subj[x.key]); return q == null ? "–" : pct(1 - q); } },
+        ], SUBJECTS, { sortable: false, caption: "Chance of being the stronger player by subject", captionHidden: true, tableClass: "compact" }),
+        h("p", { class: "muted", style: { "font-size": "13px", "margin-top": "8px" } },
+          `${A.name} ${fmt.r(A.r)} ±${Math.round(A.se)} vs ${B.name} ${fmt.r(B.r)} ±${Math.round(B.se)}. P = Φ(Δr / √(se₁² + se₂²)). Player ratings measure points per tossup heard, so this is the chance one player is truly stronger, not a head-to-head game prediction.`)));
+    } else {
+      out.appendChild(h("div", { class: "section" }, notice(`${A.r == null ? A.name : B.name} has no overall rating yet, so no probability can be computed.`)));
+    }
     out.appendChild(section("Subject ratings", "Elo-scaled, 1500 = average; faded bars are provisional", h("div", { class: "card" }, subjectChart(A, B, `Subject ratings: ${A.name} vs ${B.name}`))));
     out.appendChild(section("At a glance", null, statTable([
       ["Rating", A.r != null ? `${fmt.r(A.r)} ±${Math.round(A.se)}` : "unrated", B.r != null ? `${fmt.r(B.r)} ±${Math.round(B.se)}` : "unrated"],
@@ -181,4 +200,11 @@ export async function render(ctx) {
 
   renderAll();
   return root;
+}
+
+// standard normal CDF (Abramowitz-Stegun 7.1.26 erf approximation, |error| < 1.5e-7)
+function normCdf(z) {
+  const x = Math.abs(z) / Math.SQRT2, t = 1 / (1 + 0.3275911 * x);
+  const erf = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-x * x);
+  return z >= 0 ? (1 + erf) / 2 : (1 - erf) / 2;
 }
