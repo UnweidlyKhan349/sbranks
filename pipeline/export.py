@@ -133,7 +133,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
                                                      "g": row["g"], "ppg": row["ppg"], "champ": champion == e["team_id"]})
         # playoff finish first (champion, then later elimination), then record and ppg
         finish = _playoff_finish(gl, champion)
-        team_rows.sort(key=lambda x: (finish.get(x["tm"], (2, 0, 0)), -(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999)))
+        team_rows.sort(key=lambda x: (finish.get(x["tm"], (4, 0, 0)), -(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999)))
         cov = _coverage(tid)
         meta = {
             "id": tid, "name": t.name, "date": t.date.isoformat(), "end": t.end_date.isoformat(),
@@ -390,17 +390,66 @@ def _player_change(hist: list[dict[str, Any]] | None, day: int) -> dict[str, Any
 
 
 def _playoff_finish(gl: list[dict[str, Any]], champion: str | None) -> dict[str, tuple[int, int, int]]:
-    """Sort key per playoff team: the champion first, then teams by how late they were
-    eliminated (the round of their last playoff game, later = better; in a double elimination
-    the final's loser is 2nd, the losers' final's loser 3rd, ...), a win in that last game
-    (e.g. a third-place game) ahead of a loss. Teams without playoff games are not included."""
-    po = [g for g in gl if g["stage"] == "playoff" and g["result"] in ("1", "2", "T")
-          and not _CONSOLATION.search(str(g.get("round") or ""))]
+    """Sort key per playoff team, for elimination brackets (single or double):
+
+    * tier 0: the champion; tier 1: teams still alive when the data ends (their last bracket
+      game was a win, e.g. finalists of a final with no published result; only when the
+      champion is unknown); tier 2: eliminated; tier 3: teams of a separate lower bracket
+    * then how late the team left the bracket (later = better): in a double elimination the
+      final's loser is 2nd, the losers' final's loser 3rd, ...
+    * then the result of a third-place / consolation game, if any (winner ahead)
+
+    A "playoff" stage that is not an elimination bracket (teams keep playing after a second
+    loss, e.g. playoff pools) gets no finish order, except the champion first."""
+    def k(g: dict[str, Any]) -> tuple:
+        return (g["seq"], [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", str(g["game_id"]))])
+
+    po = sorted((g for g in gl if g["stage"] == "playoff" and g["result"] in ("1", "2", "T")), key=k)
+    main = [g for g in po if not _CONSOLATION.search(str(g.get("round") or ""))]
+    losses: Counter[str] = Counter()
+    played_on: set[str] = set()
+    for g in main:
+        for me, side in (("team1", "1"), ("team2", "2")):
+            if losses[g[me]] >= 2:
+                played_on.add(g[me])
+        for me, side in (("team1", "1"), ("team2", "2")):
+            if g["result"] not in (side, "T"):
+                losses[g[me]] += 1
+    # several teams playing on after two losses: playoff pools, not an elimination bracket
+    # (a single one is a data quirk, e.g. a bracket decision that overrode the score)
+    if len(played_on) > max(1, len(losses) // 8):
+        return {champion: (0, 0, 0)} if champion else {}
     last: dict[str, tuple[int, bool]] = {}
-    for g in sorted(po, key=lambda g: (g["seq"], [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", str(g["game_id"]))])):
+    for g in main:
         for me, side in (("team1", "1"), ("team2", "2")):
             last[g[me]] = (g["seq"], g["result"] == side)
-    return {tm: (0 if tm == champion else 1, -seq, 0 if won else 1) for tm, (seq, won) in last.items()}
+    cons: dict[str, int] = {}
+    for g in po:
+        if g in main:
+            continue
+        for me, side in (("team1", "1"), ("team2", "2")):
+            cons[g[me]] = 0 if g["result"] == side else 1
+    # separate brackets (e.g. a Primary and a Secondary bracket) are disconnected parts of the
+    # game graph: the champion's bracket ranks above the others
+    parent = {t: t for t in last}
+
+    def find(x: str) -> str:
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+    for g in main:
+        parent[find(g["team1"])] = find(g["team2"])
+    top = find(champion) if champion in parent else None
+
+    def tier(tm: str, won: bool) -> int:
+        if tm == champion:
+            return 0
+        if top is not None and find(tm) != top:
+            return 3
+        # with a known champion nobody else is still alive (a won last game is a data gap)
+        return 1 if won and champion is None else 2
+    return {tm: (tier(tm, won), -seq, cons.get(tm, 1)) for tm, (seq, won) in last.items()}
 
 
 def _champion(gl: list[dict[str, Any]]) -> str | None:
