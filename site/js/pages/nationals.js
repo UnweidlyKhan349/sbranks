@@ -1,6 +1,6 @@
 import { h, fmt, dataTable, section, pageHead, notice, emptyState, extLink, tile, champBadge } from "../ui.js";
 import { teams, schools, tournaments, nationals } from "../data.js";
-import { teamA, schoolA, tournamentA, finishLabel, finishRank } from "../links.js";
+import { teamA, schoolA, finishLabel, finishRank } from "../links.js";
 
 const pick = (o, ...keys) => { for (const k of keys) if (o[k] != null && o[k] !== "") return o[k]; return null; };
 
@@ -15,6 +15,17 @@ export async function render(ctx) {
   }));
 
   // ---- champions
+  // National Finals tournament pages, by year
+  const nsbIds = (N.tournaments || []).filter((id) => TR.byId.has(id));
+  const tourByYear = new Map(nsbIds.map((id) => [TR.byId.get(id).date.slice(0, 4), id]));
+  const finalsLink = (y, text) => (tourByYear.has(String(y))
+    ? h("a", { href: `#/tournament/${encodeURIComponent(tourByYear.get(String(y)))}` }, text ?? String(y)) : text ?? String(y ?? "–"));
+  if (tourByYear.size) {
+    const ys = [...tourByYear.keys()].sort().reverse();
+    root.appendChild(h("nav", { class: "year-links", "aria-label": "National Finals tournament pages" },
+      h("span", { class: "muted" }, "National Finals pages: "),
+      ys.map((y, i) => [i ? h("span", { class: "muted", "aria-hidden": "true" }, " · ") : null, finalsLink(y, `${y}`)])));
+  }
   const winners = (N.winners || []).filter((w) => w && typeof w === "object").slice().sort((a, b) => (b.year || 0) - (a.year || 0));
   const champName = (w) => String(pick(w, "school", "champion", "winner", "team") || "–");
   const champCell = (w) => (w.school_id && S.byId.has(w.school_id) ? schoolA(w.school_id, champName(w)) : h("span", null, champName(w)));
@@ -44,7 +55,7 @@ export async function render(ctx) {
   const hasRoster = winners.some((w) => (w.roster && w.roster.length) || w.coach);
   root.appendChild(section("Champions", winners.length ? `${winners.length} national champions${hasRoster ? ", with their team members and coach where recorded" : ""}` : null,
     winners.length ? dataTable([
-      { key: "year", label: "Year", num: true, sort: (w) => w.year, defaultDir: "desc", render: (w) => String(w.year ?? "–") },
+      { key: "year", label: "Year", num: true, sort: (w) => w.year, defaultDir: "desc", title: "Linked years open that National Finals tournament page", render: (w) => finalsLink(w.year) },
       { key: "champ", label: "Champion", cls: "name wide", sort: (w) => champName(w),
         render: (w) => {
           const team = (w.roster || []).filter(Boolean);
@@ -63,8 +74,6 @@ export async function render(ctx) {
   }
 
   // ---- finishes by year
-  const nsbIds = (N.tournaments || []).filter((id) => TR.byId.has(id));
-  const tourByYear = new Map(nsbIds.map((id) => [TR.byId.get(id).date.slice(0, 4), id]));
   const years = Object.keys(N.finishes || {}).sort().reverse();
   const finWrap = h("div", { class: "stack" });
   let first = true;
@@ -125,7 +134,7 @@ export async function render(ctx) {
     anyScores ? "Nationals games feed the team ratings" : "Nationals results feed team ratings as wins and losses only (no scores or player stats are published)",
     nsbT.length ? dataTable([
       { key: "date", label: "Date", sort: (t) => t.date, render: (t) => h("span", { class: "nowrap" }, fmt.date(t.date)) },
-      { key: "name", label: "Tournament", cls: "name", sort: (t) => t.name, render: (t) => tournamentA(TR, t.id) },
+      { key: "name", label: "Tournament", cls: "name", sort: (t) => t.date, render: (t) => h("a", { href: `#/tournament/${encodeURIComponent(t.id)}` }, `${t.date.slice(0, 4)} ${t.name}`) },
       { key: "n", label: "Teams", num: true, sort: (t) => t.n_teams, render: (t) => (t.no_data ? "–" : fmt.int(t.n_teams)) },
       { key: "g", label: "Games", num: true, sort: (t) => t.n_games, render: (t) => (t.no_data ? "–" : fmt.int(t.n_games)) },
       { key: "champ", label: "Champion", render: (t) => (t.champion ? teamA(T, t.champion) : h("span", { class: "muted" }, "–")) },

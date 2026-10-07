@@ -448,3 +448,5 @@ details.prov-list > summary { cursor: pointer; padding: 4px 0; }
 .year-body { margin-top: 8px; }
 .year-note { font-size: 13px; margin: 0 0 8px; }
 .year-h { font-size: 13.5px; color: var(--ink-2); font-weight: 600; margin: 14px 0 2px; }
+.year-links { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 4px; margin: 0 0 16px; font-size: 14px; }
+.year-links a { font-weight: 600; font-variant-numeric: tabular-nums; }
