@@ -66,7 +66,7 @@ export async function render(ctx) {
   const champ = row.champion;
   const scored = (t.teams || []).some((r) => r.ppg != null);
   const rated = (t.teams || []).some((r) => r.dr != null);
-  root.appendChild(section("Standings", scored ? "Sorted by wins, then fewest losses, then points per game" : "Sorted by wins, then fewest losses (no scores were published)", dataTable([
+  root.appendChild(section("Standings", (t.games || []).some((g) => g.st === "playoff") ? (scored ? "Playoff finish first, then wins, fewest losses and points per game" : "Playoff finish first, then wins and fewest losses (no scores were published)") : (scored ? "Sorted by wins, then fewest losses, then points per game" : "Sorted by wins, then fewest losses (no scores were published)"), dataTable([
     { key: "i", label: "#", num: true, cls: "rank", render: (r, i) => i + 1 },
     { key: "tm", label: "Team", cls: "name", sort: (r) => (T.byId.get(r.tm) || {}).name || r.raw,
       render: (r) => {

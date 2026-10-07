@@ -111,7 +111,8 @@ published result).
 ## `tournaments/<id>.json`
 Tournament row (above) plus:
 ```
-{ teams: [{tm, raw, w, l, t, g, ppg, papg, pre?, post?, dr?}],  // sorted by wins (ties = ½), then fewest losses, then ppg;
+{ teams: [{tm, raw, w, l, t, g, ppg, papg, pre?, post?, dr?}],  // sorted by playoff finish (champion, then later elimination),
+                                                             // then wins (ties = ½), fewest losses, ppg;
                                                              // pre/post/dr = overall rating before/after this
                                                              // tournament and the change (rated events only)
   games: [{id, st, rd, seq, t1, t2, s1, s2, res, p1, ff, pre1, pre2}],

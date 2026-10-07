@@ -131,7 +131,9 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             team_rows.append(row)
             team_tourn_summary[e["team_id"]].append({"t": tid, "d": tdate[tid], "w": row["w"], "l": row["l"], "tie": row["t"],
                                                      "g": row["g"], "ppg": row["ppg"], "champ": champion == e["team_id"]})
-        team_rows.sort(key=lambda x: (-(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999)))
+        # playoff finish first (champion, then later elimination), then record and ppg
+        finish = _playoff_finish(gl, champion)
+        team_rows.sort(key=lambda x: (finish.get(x["tm"], (2, 0, 0)), -(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999)))
         cov = _coverage(tid)
         meta = {
             "id": tid, "name": t.name, "date": t.date.isoformat(), "end": t.end_date.isoformat(),
@@ -385,6 +387,20 @@ def _player_change(hist: list[dict[str, Any]] | None, day: int) -> dict[str, Any
     if i > 0:
         out.update(pre=hist[i - 1]["rating"], dr=_r(hist[i]["rating"] - hist[i - 1]["rating"]))
     return out
+
+
+def _playoff_finish(gl: list[dict[str, Any]], champion: str | None) -> dict[str, tuple[int, int, int]]:
+    """Sort key per playoff team: the champion first, then teams by how late they were
+    eliminated (the round of their last playoff game, later = better; in a double elimination
+    the final's loser is 2nd, the losers' final's loser 3rd, ...), a win in that last game
+    (e.g. a third-place game) ahead of a loss. Teams without playoff games are not included."""
+    po = [g for g in gl if g["stage"] == "playoff" and g["result"] in ("1", "2", "T")
+          and not _CONSOLATION.search(str(g.get("round") or ""))]
+    last: dict[str, tuple[int, bool]] = {}
+    for g in sorted(po, key=lambda g: (g["seq"], [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", str(g["game_id"]))])):
+        for me, side in (("team1", "1"), ("team2", "2")):
+            last[g[me]] = (g["seq"], g["result"] == side)
+    return {tm: (0 if tm == champion else 1, -seq, 0 if won else 1) for tm, (seq, won) in last.items()}
 
 
 def _champion(gl: list[dict[str, Any]]) -> str | None:
