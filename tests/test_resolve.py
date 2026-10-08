@@ -70,3 +70,35 @@ def test_first_name_only_rows_merge_with_unique_schoolmate():
     assert raw_to_pid[("t1", "Sohil Rathi", "lyn-a")] == raw_to_pid[("t2", "Sohil", "lyn-a")]
     # a first name seen four seasons away from the full-name player stays separate
     assert raw_to_pid[("t3", "Daniel", "lyn-b")] != raw_to_pid[("t1", "Daniel Li", "lyn-a")]
+
+
+def test_abbreviated_name_picks_teammate_when_school_has_two_matches():
+    R = resolve.Resolver.__new__(resolve.Resolver)
+    R.player_merge, R.player_nosplit, R.player_rename = {}, set(), {}
+    obs = [
+        {"tournament_id": "t1", "season": "2023-24", "raw": "Andrew Wen", "team_id": "pa-a", "school_id": "pa", "composite": False},
+        {"tournament_id": "t2", "season": "2025-26", "raw": "Andrew Wen", "team_id": "pa-a", "school_id": "pa", "composite": False},
+        {"tournament_id": "t1", "season": "2023-24", "raw": "Andrew Wang", "team_id": "pa-b", "school_id": "pa", "composite": False},
+        {"tournament_id": "t3", "season": "2024-25", "raw": "Andrew W", "team_id": "pa-a", "school_id": "pa", "composite": False},
+    ]
+    people, raw_to_pid = resolve._resolve_players(R, obs)
+    assert raw_to_pid[("t3", "Andrew W", "pa-a")] == raw_to_pid[("t1", "Andrew Wen", "pa-a")]
+    assert raw_to_pid[("t1", "Andrew Wang", "pa-b")] != raw_to_pid[("t1", "Andrew Wen", "pa-a")]
+
+
+def test_display_name_is_the_most_complete_form():
+    R = resolve.Resolver.__new__(resolve.Resolver)
+    R.player_merge, R.player_nosplit, R.player_rename = {}, set(), {}
+    obs = [
+        {"tournament_id": "t1", "season": "2020-21", "raw": "Arif", "team_id": "c-a", "school_id": "c", "composite": False},
+        {"tournament_id": "t2", "season": "2022-23", "raw": "Arif V", "team_id": "c-a", "school_id": "c", "composite": False},
+        {"tournament_id": "t3", "season": "2022-23", "raw": "Arif V", "team_id": "c-a", "school_id": "c", "composite": False},
+    ]
+    people, raw_to_pid = resolve._resolve_players(R, obs)
+    assert len(set(raw_to_pid.values())) == 1
+    assert people[raw_to_pid[("t1", "Arif", "c-a")]]["name"] == "Arif V"
+
+
+def test_clean_player_name_strips_trailing_tags():
+    assert resolve.clean_player_name("Emily (CHS)") == "Emily"
+    assert resolve.clean_player_name("Ben (1)") == "Ben"

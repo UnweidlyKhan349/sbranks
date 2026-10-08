@@ -251,8 +251,8 @@ game_id,player,team,subject,correct,negs,points
 64eec207,Samy E,Chattahoochee A,physics,0,1,-4
 64eec207,Liam T,BISV HS A,overall,3,2,4
 64eec207,Liam T,BISV HS A,physics,3,1,8
-64eec207,Aaron C,BISV HS A,overall,0,0,0
-64eec207,Aaron C,BISV HS A,math,0,0,0
+64eec207,Aaron Cohen,BISV HS A,overall,0,0,0
+64eec207,Aaron Cohen,BISV HS A,math,0,0,0
 64eec207,Samy E,Chattahoochee A,math,1,0,4
 64eec207,Larry Z,BISV HS A,overall,3,1,8
 64eec207,Larry Z,BISV HS A,biology,3,1,8
@@ -290,8 +290,8 @@ game_id,player,team,subject,correct,negs,points
 718aa445,Nevin J,School of Biology,math,0,0,0
 718aa445,Shannon I,School of Biology,ess,1,0,4
 718aa445,Ethan Wang,Arcadia A,physics,1,0,4
-718aa445,Shannon H,Arcadia A,overall,1,0,4
-718aa445,Shannon H,Arcadia A,biology,1,0,4
+718aa445,Shannon H.,Arcadia A,overall,1,0,4
+718aa445,Shannon H.,Arcadia A,biology,1,0,4
 718aa445,Shannon I,School of Biology,chemistry,1,0,4
 718aa445,Nevin J,School of Biology,ess,1,0,4
 821b0704,Rohan G,School of Geology,overall,4,4,0
@@ -309,8 +309,8 @@ game_id,player,team,subject,correct,negs,points
 821b0704,Annie L,CCA B,physics,0,0,0
 821b0704,Kian D,School of Geology,math,1,0,4
 821b0704,Rohan G,School of Geology,chemistry,1,0,4
-821b0704,Euan L,CCA B,overall,0,1,-4
-821b0704,Euan L,CCA B,ess,0,1,-4
+821b0704,Euan Lee,CCA B,overall,0,1,-4
+821b0704,Euan Lee,CCA B,ess,0,1,-4
 821b0704,Rohan G,School of Geology,other,0,0,0
 8447caab,Alex D,CCA A,overall,4,1,12
 8447caab,Alex D,CCA A,physics,1,0,4
@@ -335,13 +335,13 @@ game_id,player,team,subject,correct,negs,points
 8e997cca,Abhinav A,Gargy Bomy,overall,7,3,16
 8e997cca,Abhinav A,Gargy Bomy,biology,2,1,4
 8e997cca,Abhinav A,Gargy Bomy,chemistry,3,1,8
-8e997cca,matthew w,Middleton,overall,3,0,12
-8e997cca,matthew w,Middleton,chemistry,1,0,4
-8e997cca,matthew w,Middleton,ess,2,0,8
+8e997cca,matthew wang,Middleton,overall,3,0,12
+8e997cca,matthew wang,Middleton,chemistry,1,0,4
+8e997cca,matthew wang,Middleton,ess,2,0,8
 8e997cca,Likhith M,Gargy Bomy,physics,1,0,4
 8e997cca,Aditya B,Middleton,overall,1,0,4
 8e997cca,Aditya B,Middleton,math,0,0,0
-8e997cca,matthew w,Middleton,biology,0,0,0
+8e997cca,matthew wang,Middleton,biology,0,0,0
 8e997cca,Alex D,Middleton,ess,0,0,0
 8e997cca,Abhinav A,Gargy Bomy,ess,1,1,0
 8e997cca,Abhinav A,Gargy Bomy,physics,1,0,4
@@ -395,16 +395,16 @@ b1b3477c,Advaith M,MSJ A,math,3,0,12
 b1b3477c,Advaith M,MSJ A,biology,1,0,4
 b1b3477c,Roshan A,MSJ A,chemistry,3,0,12
 b1b3477c,Roshan A,MSJ A,ess,2,1,4
-b1b3477c,Bryce T,SGVG,overall,4,1,12
-b1b3477c,Bryce T,SGVG,physics,1,0,4
+b1b3477c,Bryce Thach,SGVG,overall,4,1,12
+b1b3477c,Bryce Thach,SGVG,physics,1,0,4
 b1b3477c,Roshan A,MSJ A,math,1,0,4
-b1b3477c,Bryce T,SGVG,biology,1,0,4
-b1b3477c,Bryce T,SGVG,ess,2,1,4
+b1b3477c,Bryce Thach,SGVG,biology,1,0,4
+b1b3477c,Bryce Thach,SGVG,ess,2,1,4
 b1b3477c,Roshan A,MSJ A,biology,2,0,8
 b1b3477c,Tianhan H,SGVG,overall,1,1,0
 b1b3477c,Tianhan H,SGVG,physics,0,1,-4
 b1b3477c,Advaith M,MSJ A,physics,1,0,4
-b1b3477c,Bryce T,SGVG,math,0,0,0
+b1b3477c,Bryce Thach,SGVG,math,0,0,0
 b1b3477c,Advaith M,MSJ A,chemistry,0,1,-4
 b1b3477c,Tianhan H,SGVG,chemistry,1,0,4
 b1b3477c,Roshan A,MSJ A,other,1,0,4
@@ -515,8 +515,8 @@ fe131870,Aldric B,WWPN,other,1,0,4
 16e9c7e6,Ethan Z,School of Chemistry,math,1,0,4
 16e9c7e6,Haru G,School of Chemistry,overall,5,0,20
 16e9c7e6,Haru G,School of Chemistry,biology,4,0,16
-16e9c7e6,Keene K,School of Chemistry,overall,2,1,4
-16e9c7e6,Keene K,School of Chemistry,chemistry,2,1,4
+16e9c7e6,Keene KK,School of Chemistry,overall,2,1,4
+16e9c7e6,Keene KK,School of Chemistry,chemistry,2,1,4
 16e9c7e6,Daniel Y,School of Chemistry,ess,2,0,8
 16e9c7e6,Haru G,School of Chemistry,math,1,0,4
 16e9c7e6,Ethan Z,School of Chemistry,physics,2,0,8
@@ -533,8 +533,8 @@ fe131870,Aldric B,WWPN,other,1,0,4
 240bd2b0,Larry Z,BISV HS A,biology,3,1,8
 240bd2b0,Abhinav A,Gargy Bomy,chemistry,2,0,8
 240bd2b0,Abhinav A,Gargy Bomy,ess,2,1,4
-240bd2b0,Aaron C,BISV HS A,overall,0,0,0
-240bd2b0,Aaron C,BISV HS A,ess,0,0,0
+240bd2b0,Aaron Cohen,BISV HS A,overall,0,0,0
+240bd2b0,Aaron Cohen,BISV HS A,ess,0,0,0
 240bd2b0,Liam T,BISV HS A,overall,4,0,16
 240bd2b0,Liam T,BISV HS A,physics,2,0,8
 240bd2b0,Zanda Z,BISV HS A,overall,1,0,4
@@ -577,19 +577,19 @@ fe131870,Aldric B,WWPN,other,1,0,4
 4be4cdbd,connor z,Clang! Cloom! Clash!,physics,1,0,4
 4be4cdbd,Aayan Ghosh,WWPS B,chemistry,0,0,0
 4be4cdbd,connor z,Clang! Cloom! Clash!,other,1,0,4
-564e3264,Bryce T,SGVG,overall,5,1,16
-564e3264,Bryce T,SGVG,physics,2,0,8
+564e3264,Bryce Thach,SGVG,overall,5,1,16
+564e3264,Bryce Thach,SGVG,physics,2,0,8
 564e3264,Monish S,WWPS A,overall,7,1,24
 564e3264,Monish S,WWPS A,math,2,1,4
 564e3264,Arjun D,WWPS A,overall,5,0,20
 564e3264,Arjun D,WWPS A,biology,4,0,16
 564e3264,Tianhan H,SGVG,overall,2,0,8
 564e3264,Tianhan H,SGVG,chemistry,2,0,8
-564e3264,Bryce T,SGVG,ess,2,1,4
+564e3264,Bryce Thach,SGVG,ess,2,1,4
 564e3264,Darius S,SGVG,overall,0,1,-4
 564e3264,Darius S,SGVG,physics,0,1,-4
 564e3264,Monish S,WWPS A,physics,2,0,8
-564e3264,Bryce T,SGVG,math,1,0,4
+564e3264,Bryce Thach,SGVG,math,1,0,4
 564e3264,Monish S,WWPS A,chemistry,1,0,4
 564e3264,Arjun D,WWPS A,chemistry,1,0,4
 564e3264,Arjun D,WWPS A,ess,0,0,0
@@ -745,8 +745,8 @@ fe131870,Aldric B,WWPN,other,1,0,4
 87ffd2b9,Kian D,School of Geology,chemistry,1,0,4
 87ffd2b9,Rohan G,School of Geology,ess,2,0,8
 87ffd2b9,Kian D,School of Geology,other,1,0,4
-93801c58,matthew w,Middleton,overall,0,2,-8
-93801c58,matthew w,Middleton,physics,0,1,-4
+93801c58,matthew wang,Middleton,overall,0,2,-8
+93801c58,matthew wang,Middleton,physics,0,1,-4
 93801c58,Rish B.,Shallow Walk A,overall,1,0,4
 93801c58,Rish B.,Shallow Walk A,physics,1,0,4
 93801c58,Ryan K,Shallow Walk A,overall,13,0,52
@@ -755,7 +755,7 @@ fe131870,Aldric B,WWPN,other,1,0,4
 93801c58,Nimit A,Shallow Walk A,biology,2,0,8
 93801c58,Ryan K,Shallow Walk A,chemistry,4,0,16
 93801c58,Nimit A,Shallow Walk A,ess,1,1,0
-93801c58,matthew w,Middleton,ess,0,1,-4
+93801c58,matthew wang,Middleton,ess,0,1,-4
 93801c58,Ryan K,Shallow Walk A,physics,2,0,8
 93801c58,Riyan N,Shallow Walk A,overall,2,0,8
 93801c58,Riyan N,Shallow Walk A,math,2,0,8
@@ -831,10 +831,10 @@ a1e0d1b9,Eddie A,Law Abiding Citizens,ess,1,0,4
 a1e0d1b9,Eddie A,Law Abiding Citizens,other,1,0,4
 acd57251,Annie L,CCA B,overall,3,0,12
 acd57251,Annie L,CCA B,physics,3,0,12
-acd57251,Euan L,CCA B,overall,1,0,4
-acd57251,Euan L,CCA B,math,1,0,4
-acd57251,Shannon H,Arcadia A,overall,3,0,12
-acd57251,Shannon H,Arcadia A,biology,3,0,12
+acd57251,Euan Lee,CCA B,overall,1,0,4
+acd57251,Euan Lee,CCA B,math,1,0,4
+acd57251,Shannon H.,Arcadia A,overall,3,0,12
+acd57251,Shannon H.,Arcadia A,biology,3,0,12
 acd57251,Ethan Wang,Arcadia A,overall,6,0,24
 acd57251,Ethan Wang,Arcadia A,chemistry,4,0,16
 acd57251,Annie L,CCA B,ess,0,0,0
@@ -1210,11 +1210,11 @@ e165b8e0,daniel l,Re2rement Home,other,1,0,4
 8209527d,Matthew D,Enloe,physics,2,1,4
 8209527d,Alex D,Middleton,overall,5,0,20
 8209527d,Alex D,Middleton,physics,1,0,4
-8209527d,matthew w,Middleton,overall,2,0,8
-8209527d,matthew w,Middleton,math,0,0,0
+8209527d,matthew wang,Middleton,overall,2,0,8
+8209527d,matthew wang,Middleton,math,0,0,0
 8209527d,Oliver Y,Enloe,overall,2,1,4
 8209527d,Oliver Y,Enloe,biology,2,1,4
-8209527d,matthew w,Middleton,biology,1,0,4
+8209527d,matthew wang,Middleton,biology,1,0,4
 8209527d,Vishruth K,Enloe,overall,6,1,20
 8209527d,Vishruth K,Enloe,chemistry,4,0,16
 8209527d,Alex D,Middleton,ess,2,0,8
@@ -1222,7 +1222,7 @@ e165b8e0,daniel l,Re2rement Home,other,1,0,4
 8209527d,Aditya B,Middleton,physics,0,1,-4
 8209527d,Vishruth K,Enloe,math,1,0,4
 8209527d,Vishruth K,Enloe,ess,0,1,-4
-8209527d,matthew w,Middleton,ess,1,0,4
+8209527d,matthew wang,Middleton,ess,1,0,4
 8209527d,Matthew D,Enloe,math,1,0,4
 8209527d,Alex D,Middleton,biology,1,0,4
 8209527d,Vishruth K,Enloe,physics,1,0,4
@@ -1270,8 +1270,8 @@ e165b8e0,daniel l,Re2rement Home,other,1,0,4
 91775ade,Jacob G,Palo Alto,chemistry,0,1,-4
 91775ade,Shaun I,VMATHs,other,0,0,0
 91775ade,Kevin P,Palo Alto,other,0,0,0
-98440b96,Bryce T,SGVG,overall,4,3,4
-98440b96,Bryce T,SGVG,physics,1,1,0
+98440b96,Bryce Thach,SGVG,overall,4,3,4
+98440b96,Bryce Thach,SGVG,physics,1,1,0
 98440b96,Sneha,SSP Warriors,overall,1,0,4
 98440b96,Sneha,SSP Warriors,physics,1,0,4
 98440b96,Darius S,SGVG,overall,4,0,16
@@ -1282,15 +1282,15 @@ e165b8e0,daniel l,Re2rement Home,other,1,0,4
 98440b96,Shirley V,SSP Warriors,chemistry,1,1,0
 98440b96,Tianhan H,SGVG,overall,2,0,8
 98440b96,Tianhan H,SGVG,chemistry,1,0,4
-98440b96,Bryce T,SGVG,ess,2,1,4
+98440b96,Bryce Thach,SGVG,ess,2,1,4
 98440b96,Shirley V,SSP Warriors,math,0,0,0
 98440b96,Tianhan H,SGVG,math,1,0,4
 98440b96,Sneha,SSP Warriors,ess,0,0,0
 98440b96,Shirley V,SSP Warriors,physics,0,0,0
 98440b96,Sneha,SSP Warriors,math,0,0,0
-98440b96,Bryce T,SGVG,biology,0,1,-4
+98440b96,Bryce Thach,SGVG,biology,0,1,-4
 98440b96,Shirley V,SSP Warriors,biology,1,0,4
-98440b96,Bryce T,SGVG,chemistry,1,0,4
+98440b96,Bryce Thach,SGVG,chemistry,1,0,4
 98440b96,Darius S,SGVG,ess,1,0,4
 98440b96,Tianhan H,SGVG,physics,0,0,0
 98440b96,Shirley V,SSP Warriors,other,0,0,0
@@ -1318,9 +1318,9 @@ a037900f,Kian D,School of Geology,other,0,0,0
 a037900f,Ethan Wang,Arcadia A,other,0,0,0
 b6c4ecfc,Ethan Z,School of Chemistry,overall,12,2,40
 b6c4ecfc,Ethan Z,School of Chemistry,physics,3,1,8
-b6c4ecfc,Keene K,School of Chemistry,overall,2,0,8
-b6c4ecfc,Keene K,School of Chemistry,math,1,0,4
-b6c4ecfc,Keene K,School of Chemistry,chemistry,1,0,4
+b6c4ecfc,Keene KK,School of Chemistry,overall,2,0,8
+b6c4ecfc,Keene KK,School of Chemistry,math,1,0,4
+b6c4ecfc,Keene KK,School of Chemistry,chemistry,1,0,4
 b6c4ecfc,Ethan Z,School of Chemistry,ess,2,1,4
 b6c4ecfc,Daniel Y,Round Rock,overall,1,2,-4
 b6c4ecfc,Daniel Y,Round Rock,physics,0,0,0
@@ -1496,8 +1496,8 @@ e5d4cab9,Timothy C,University,other,0,0,0
 0e9acdba,Kevin F,MAAOC,other,1,0,4
 2439cc86,Lucas L,School of Biology,overall,6,0,24
 2439cc86,Lucas L,School of Biology,physics,4,0,16
-2439cc86,Euan L,CCA B,overall,1,1,0
-2439cc86,Euan L,CCA B,math,1,1,0
+2439cc86,Euan Lee,CCA B,overall,1,1,0
+2439cc86,Euan Lee,CCA B,math,1,1,0
 2439cc86,Shannon I,School of Biology,overall,7,0,28
 2439cc86,Shannon I,School of Biology,math,1,0,4
 2439cc86,Annie L,CCA B,overall,1,0,4
@@ -1675,8 +1675,8 @@ e5d4cab9,Timothy C,University,other,0,0,0
 8f4f93e3,Kevin P,Palo Alto,chemistry,1,0,4
 8f4f93e3,Kevin W,Arcadia B,ess,1,0,4
 8f4f93e3,Paxton Lin,Arcadia B,other,1,0,4
-9ff603f7,Bryce T,SGVG,overall,4,2,8
-9ff603f7,Bryce T,SGVG,physics,2,0,8
+9ff603f7,Bryce Thach,SGVG,overall,4,2,8
+9ff603f7,Bryce Thach,SGVG,physics,2,0,8
 9ff603f7,Tianhan H,SGVG,overall,1,1,0
 9ff603f7,Tianhan H,SGVG,math,0,1,-4
 9ff603f7,Abhee S,Foothill,overall,3,3,0
@@ -1687,7 +1687,7 @@ e5d4cab9,Timothy C,University,other,0,0,0
 9ff603f7,Shashank V,Foothill,overall,1,2,-4
 9ff603f7,Shashank V,Foothill,chemistry,1,0,4
 9ff603f7,Shashank V,Foothill,ess,0,1,-4
-9ff603f7,Bryce T,SGVG,ess,2,1,4
+9ff603f7,Bryce Thach,SGVG,ess,2,1,4
 9ff603f7,Parv S,Foothill,overall,2,1,4
 9ff603f7,Parv S,Foothill,physics,1,0,4
 9ff603f7,Abhee S,Foothill,biology,0,1,-4
@@ -1696,7 +1696,7 @@ e5d4cab9,Timothy C,University,other,0,0,0
 9ff603f7,Abhee S,Foothill,chemistry,0,0,0
 9ff603f7,Parv S,Foothill,ess,0,1,-4
 9ff603f7,Shashank V,Foothill,physics,0,1,-4
-9ff603f7,Bryce T,SGVG,other,0,1,-4
+9ff603f7,Bryce Thach,SGVG,other,0,1,-4
 9ff603f7,Abhee S,Foothill,other,0,0,0
 a0387691,Ryan K,Shallow Walk A,overall,10,1,36
 a0387691,Ryan K,Shallow Walk A,physics,3,0,12
@@ -1750,21 +1750,21 @@ b2ccf793,Larry Z,BISV HS A,overall,4,0,16
 b2ccf793,Larry Z,BISV HS A,biology,4,0,16
 b2ccf793,Naman S,BISV HS A,overall,0,0,0
 b2ccf793,Naman S,BISV HS A,chemistry,0,0,0
-b2ccf793,matthew w,Middleton,overall,2,2,0
-b2ccf793,matthew w,Middleton,chemistry,0,0,0
-b2ccf793,matthew w,Middleton,ess,2,1,4
+b2ccf793,matthew wang,Middleton,overall,2,2,0
+b2ccf793,matthew wang,Middleton,chemistry,0,0,0
+b2ccf793,matthew wang,Middleton,ess,2,1,4
 b2ccf793,Alex D,Middleton,overall,2,0,8
 b2ccf793,Alex D,Middleton,physics,1,0,4
 b2ccf793,Naman S,BISV HS A,math,0,0,0
 b2ccf793,Alex D,Middleton,math,1,0,4
 b2ccf793,Liam T,BISV HS A,chemistry,1,0,4
-b2ccf793,Aaron C,BISV HS A,overall,1,0,4
-b2ccf793,Aaron C,BISV HS A,ess,1,0,4
+b2ccf793,Aaron Cohen,BISV HS A,overall,1,0,4
+b2ccf793,Aaron Cohen,BISV HS A,ess,1,0,4
 b2ccf793,ArthurW middletong,Middleton,overall,0,1,-4
 b2ccf793,ArthurW middletong,Middleton,physics,0,1,-4
 b2ccf793,Liam T,BISV HS A,math,1,0,4
 b2ccf793,Aditya B,Middleton,chemistry,1,0,4
-b2ccf793,matthew w,Middleton,other,0,1,-4
+b2ccf793,matthew wang,Middleton,other,0,1,-4
 b2ccf793,Liam T,BISV HS A,other,0,0,0
 b6720e1d,Aayan Ghosh,WWPS B,overall,2,1,4
 b6720e1d,Aayan Ghosh,WWPS B,physics,0,1,-4
@@ -1773,8 +1773,8 @@ b6720e1d,Ethan Z,School of Chemistry,physics,1,1,0
 b6720e1d,Haru G,School of Chemistry,overall,5,0,20
 b6720e1d,Haru G,School of Chemistry,math,2,0,8
 b6720e1d,Haru G,School of Chemistry,biology,3,0,12
-b6720e1d,Keene K,School of Chemistry,overall,2,0,8
-b6720e1d,Keene K,School of Chemistry,chemistry,2,0,8
+b6720e1d,Keene KK,School of Chemistry,overall,2,0,8
+b6720e1d,Keene KK,School of Chemistry,chemistry,2,0,8
 b6720e1d,Aayan Ghosh,WWPS B,chemistry,0,0,0
 b6720e1d,Ethan Z,School of Chemistry,ess,3,0,12
 b6720e1d,Daniel Y,School of Chemistry,overall,2,1,4
@@ -1920,14 +1920,14 @@ fbf566ce,Oliver Y,Enloe,other,1,0,4
 23bb7be7,Niharika G,WWPS B,ess,0,0,0
 24647dc0,Kevin F,MAAOC,overall,3,0,12
 24647dc0,Kevin F,MAAOC,physics,1,0,4
-24647dc0,Bryce T,SGVG,overall,4,2,8
-24647dc0,Bryce T,SGVG,physics,0,2,-8
+24647dc0,Bryce Thach,SGVG,overall,4,2,8
+24647dc0,Bryce Thach,SGVG,physics,0,2,-8
 24647dc0,Praneel A,MAAOC,overall,6,1,20
 24647dc0,Praneel A,MAAOC,math,1,0,4
 24647dc0,Arman A,MAAOC,overall,1,0,4
 24647dc0,Arman A,MAAOC,biology,1,0,4
 24647dc0,Praneel A,MAAOC,chemistry,1,0,4
-24647dc0,Bryce T,SGVG,ess,2,0,8
+24647dc0,Bryce Thach,SGVG,ess,2,0,8
 24647dc0,Praneel A,MAAOC,physics,2,0,8
 24647dc0,Tianhan H,SGVG,overall,0,1,-4
 24647dc0,Tianhan H,SGVG,math,0,1,-4
@@ -1938,11 +1938,11 @@ fbf566ce,Oliver Y,Enloe,other,1,0,4
 24647dc0,Kevin F,MAAOC,ess,1,0,4
 24647dc0,Abhinav KSK,MAAOC,math,1,0,4
 24647dc0,Praneel A,MAAOC,ess,1,0,4
-24647dc0,Bryce T,SGVG,math,1,0,4
+24647dc0,Bryce Thach,SGVG,math,1,0,4
 24647dc0,Praneel A,MAAOC,biology,1,0,4
 24647dc0,Tianhan H,SGVG,chemistry,0,0,0
 24647dc0,Praneel A,MAAOC,other,0,1,-4
-24647dc0,Bryce T,SGVG,other,1,0,4
+24647dc0,Bryce Thach,SGVG,other,1,0,4
 3137f5a6,Eshan B,MSJ C,overall,1,1,0
 3137f5a6,Eshan B,MSJ C,physics,0,1,-4
 3137f5a6,Enming Z,MSJ C,overall,0,1,-4
@@ -2023,8 +2023,8 @@ fbf566ce,Oliver Y,Enloe,other,1,0,4
 725c28f2,Oliver Y,Enloe,math,1,0,4
 725c28f2,Oliver Y,Enloe,biology,1,1,0
 725c28f2,Liam T,BISV HS A,chemistry,0,0,0
-725c28f2,Aaron C,BISV HS A,overall,1,0,4
-725c28f2,Aaron C,BISV HS A,ess,1,0,4
+725c28f2,Aaron Cohen,BISV HS A,overall,1,0,4
+725c28f2,Aaron Cohen,BISV HS A,ess,1,0,4
 725c28f2,Zanda Z,BISV HS A,overall,0,0,0
 725c28f2,Zanda Z,BISV HS A,other,0,0,0
 725c28f2,Oliver Y,Enloe,other,0,0,0
@@ -2119,12 +2119,12 @@ a84addf7,Chris Z,Chattahoochee A,overall,1,1,0
 a84addf7,Chris Z,Chattahoochee A,physics,1,0,4
 a84addf7,Aarnav P,Chattahoochee A,overall,3,0,12
 a84addf7,Aarnav P,Chattahoochee A,math,1,0,4
-a84addf7,matthew w,Middleton,overall,1,1,0
-a84addf7,matthew w,Middleton,biology,1,1,0
+a84addf7,matthew wang,Middleton,overall,1,1,0
+a84addf7,matthew wang,Middleton,biology,1,1,0
 a84addf7,Aarnav P,Chattahoochee A,biology,2,0,8
 a84addf7,Samy E,Chattahoochee A,overall,2,1,4
 a84addf7,Samy E,Chattahoochee A,chemistry,2,0,8
-a84addf7,matthew w,Middleton,ess,0,0,0
+a84addf7,matthew wang,Middleton,ess,0,0,0
 a84addf7,Samy E,Chattahoochee A,ess,0,0,0
 a84addf7,Aditya B,Middleton,overall,0,1,-4
 a84addf7,Aditya B,Middleton,math,0,1,-4
@@ -2133,7 +2133,7 @@ a84addf7,Alex D,Middleton,chemistry,1,0,4
 a84addf7,Alex L,Middleton,overall,3,1,8
 a84addf7,Alex L,Middleton,math,1,0,4
 a84addf7,Chris Z,Chattahoochee A,chemistry,0,1,-4
-a84addf7,matthew w,Middleton,chemistry,0,0,0
+a84addf7,matthew wang,Middleton,chemistry,0,0,0
 a84addf7,Alex L,Middleton,ess,1,1,0
 a84addf7,Samy E,Chattahoochee A,physics,0,0,0
 a84addf7,Alex L,Middleton,biology,1,0,4
@@ -2558,8 +2558,8 @@ f92a9fc4,daniel l,Re2rement Home,other,1,0,4
 8f456612,Ethan Wang,Arcadia A,math,3,1,8
 8f456612,Likhith M,Gargy Bomy,overall,1,1,0
 8f456612,Likhith M,Gargy Bomy,math,1,1,0
-8f456612,Shannon H,Arcadia A,overall,2,0,8
-8f456612,Shannon H,Arcadia A,biology,2,0,8
+8f456612,Shannon H.,Arcadia A,overall,2,0,8
+8f456612,Shannon H.,Arcadia A,biology,2,0,8
 8f456612,Ethan Wang,Arcadia A,chemistry,3,0,12
 8f456612,Abhinav A,Gargy Bomy,overall,4,4,0
 8f456612,Abhinav A,Gargy Bomy,ess,2,1,4
@@ -2724,8 +2724,8 @@ f2ae342a,Praneel A,MAAOC,math,1,0,4
 f2ae342a,Praneel A,MAAOC,biology,0,1,-4
 f2ae342a,Praneel A,MAAOC,other,0,0,0
 f2ae342a,Anish A,MSJ B,other,1,0,4
-fc2c8f5b,Bryce T,SGVG,overall,4,1,12
-fc2c8f5b,Bryce T,SGVG,physics,1,1,0
+fc2c8f5b,Bryce Thach,SGVG,overall,4,1,12
+fc2c8f5b,Bryce Thach,SGVG,physics,1,1,0
 fc2c8f5b,Timothy C,University,overall,5,2,12
 fc2c8f5b,Timothy C,University,physics,2,1,4
 fc2c8f5b,Carl L,University,overall,2,1,4
@@ -2735,7 +2735,7 @@ fc2c8f5b,Stephanie Y,University,biology,3,0,12
 fc2c8f5b,Judy T,SGVG,overall,0,0,0
 fc2c8f5b,Judy T,SGVG,biology,0,0,0
 fc2c8f5b,Timothy C,University,chemistry,1,1,0
-fc2c8f5b,Bryce T,SGVG,ess,3,0,12
+fc2c8f5b,Bryce Thach,SGVG,ess,3,0,12
 fc2c8f5b,Carl L,University,chemistry,1,0,4
 fc2c8f5b,Priya K,University,overall,0,0,0
 fc2c8f5b,Priya K,University,ess,0,0,0
@@ -2746,7 +2746,7 @@ fc2c8f5b,Tianhan H,SGVG,overall,1,0,4
 fc2c8f5b,Tianhan H,SGVG,chemistry,1,0,4
 fc2c8f5b,Timothy C,University,ess,1,0,4
 fc2c8f5b,Carl L,University,physics,0,0,0
-fc2c8f5b,Bryce T,SGVG,other,0,0,0
+fc2c8f5b,Bryce Thach,SGVG,other,0,0,0
 fc2c8f5b,Carl L,University,other,0,0,0
 294d838c,Sohil,Lynbroke,overall,10,1,36
 294d838c,Sohil,Lynbroke,physics,2,1,4
@@ -2759,9 +2759,9 @@ fc2c8f5b,Carl L,University,other,0,0,0
 294d838c,Ethan Wang,Arcadia A,biology,2,0,8
 294d838c,Sohil,Lynbroke,chemistry,1,0,4
 294d838c,Ethan Wang,Arcadia A,ess,0,0,0
-294d838c,Shannon H,Arcadia A,overall,0,0,0
-294d838c,Shannon H,Arcadia A,biology,0,0,0
-294d838c,Shannon H,Arcadia A,ess,0,0,0
+294d838c,Shannon H.,Arcadia A,overall,0,0,0
+294d838c,Shannon H.,Arcadia A,biology,0,0,0
+294d838c,Shannon H.,Arcadia A,ess,0,0,0
 294d838c,Sohil,Lynbroke,other,0,0,0
 294d838c,Ethan Wang,Arcadia A,other,1,0,4
 3898e504,daniel l,Re2rement Home,overall,2,0,8
@@ -2785,8 +2785,8 @@ fc2c8f5b,Carl L,University,other,0,0,0
 3898e504,Carl L,University,math,1,0,4
 3898e504,Angelina Y,Re2rement Home,other,0,0,0
 3898e504,Carl L,University,other,1,0,4
-5fc82915,Aaron C,BISV HS A,overall,1,0,4
-5fc82915,Aaron C,BISV HS A,physics,1,0,4
+5fc82915,Aaron Cohen,BISV HS A,overall,1,0,4
+5fc82915,Aaron Cohen,BISV HS A,physics,1,0,4
 5fc82915,Chris W,Montgomery Blair,overall,3,2,4
 5fc82915,Chris W,Montgomery Blair,math,1,1,0
 5fc82915,Larry Z,BISV HS A,overall,3,1,8
@@ -2795,7 +2795,7 @@ fc2c8f5b,Carl L,University,other,0,0,0
 5fc82915,Samuel W,Montgomery Blair,biology,1,0,4
 5fc82915,Lucas Q,BISV HS A,overall,6,3,12
 5fc82915,Lucas Q,BISV HS A,chemistry,2,1,4
-5fc82915,Aaron C,BISV HS A,ess,0,0,0
+5fc82915,Aaron Cohen,BISV HS A,ess,0,0,0
 5fc82915,Henry L,Montgomery Blair,overall,3,0,12
 5fc82915,Henry L,Montgomery Blair,ess,3,0,12
 5fc82915,Lucas Q,BISV HS A,physics,1,2,-4
@@ -2989,8 +2989,8 @@ f3eb8e2e,Alex W,Wheaton,other,1,0,4
 7149eaf4,Lucas Q,BISV HS A,overall,3,3,0
 7149eaf4,Lucas Q,BISV HS A,math,2,0,8
 7149eaf4,Lucas Q,BISV HS A,chemistry,1,2,-4
-7149eaf4,Aaron C,BISV HS A,overall,1,0,4
-7149eaf4,Aaron C,BISV HS A,ess,1,0,4
+7149eaf4,Aaron Cohen,BISV HS A,overall,1,0,4
+7149eaf4,Aaron Cohen,BISV HS A,ess,1,0,4
 7149eaf4,Advaith M,MSJ A,math,1,0,4
 7149eaf4,Lucas Q,BISV HS A,ess,0,1,-4
 7149eaf4,theenash s,MSJ A,other,0,1,-4
@@ -3047,8 +3047,8 @@ d6d115a7,Leo Y,North Allegheny,ess,1,1,0
 d6d115a7,Sola M,School of Chemistry,ess,2,0,8
 d6d115a7,Kaartic M,North Allegheny,overall,1,1,0
 d6d115a7,Kaartic M,North Allegheny,biology,1,1,0
-d6d115a7,Keene K,School of Chemistry,overall,0,0,0
-d6d115a7,Keene K,School of Chemistry,chemistry,0,0,0
+d6d115a7,Keene KK,School of Chemistry,overall,0,0,0
+d6d115a7,Keene KK,School of Chemistry,chemistry,0,0,0
 d6d115a7,Andrew F,North Allegheny,overall,4,0,16
 d6d115a7,Andrew F,North Allegheny,chemistry,1,0,4
 d6d115a7,Andrew F,North Allegheny,ess,0,0,0
@@ -3209,8 +3209,8 @@ edf4908d,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
 0feef357,Daniel Y,School of Chemistry,chemistry,0,1,-4
 0feef357,Daniel Y,School of Chemistry,ess,0,0,0
 0feef357,Sola M,School of Chemistry,biology,1,0,4
-0feef357,Keene K,School of Chemistry,overall,1,0,4
-0feef357,Keene K,School of Chemistry,chemistry,1,0,4
+0feef357,Keene KK,School of Chemistry,overall,1,0,4
+0feef357,Keene KK,School of Chemistry,chemistry,1,0,4
 0feef357,Roshan A,MSJ A,other,1,0,4
 76e11c69,akhil,ASFA,overall,5,2,12
 76e11c69,akhil,ASFA,physics,2,0,8

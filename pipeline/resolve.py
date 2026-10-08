@@ -95,6 +95,7 @@ def clean_player_name(raw: str) -> str | None:
     """Strip source decorations from a player name; None for placeholder rows ("DELETE", "TBD")."""
     n = re.sub(r"^\(\s*[^)]{1,12}\)\s*", "", raw.strip())   # "(SCDS) Adam Akins" -> "Adam Akins"
     n = re.sub(r"#\d{4}$", "", n)                             # Discord tag: "Name#0096" -> "Name"
+    n = re.sub(r"\s*\(\s*[^)]{1,12}\)$", "", n)               # "Emily (CHS)", "Ben (1)" -> "Emily", "Ben"
     n = re.sub(r"\s+", " ", n).strip()
     if not n or _PLACEHOLDER.match(n):
         return None
@@ -352,6 +353,26 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
     full_by_first: dict[tuple[str, str], set[tuple[str, str | None]]] = defaultdict(set)
     for (sch, first, initial), people_ in full_by_school_first.items():
         full_by_first[(first, initial)] |= people_
+    # where each full-name person played: (season start, team)
+    played: dict[tuple[str, str | None], set[tuple[int, str]]] = defaultdict(set)
+    for o in obs:
+        if len(o["key"].split()) >= 2:
+            played[person_of[id(o)]].add((season_start(o["season"]), o["team_id"]))
+
+    def narrow(o: dict[str, Any], cands: set[tuple[str, str | None]] | list) -> list:
+        """Several same-school candidates: keep those who played within one season of this
+        row, then (if still several) those on the same team within one season."""
+        cands = list(cands)
+        if len(cands) <= 1:
+            return cands
+        y = season_start(o["season"])
+        near = [c for c in cands if any(abs(y - x) <= 1 for x, _ in played[c])] or cands
+        if len(near) > 1:
+            same = [c for c in near if any(abs(y - x) <= 1 and tm == o["team_id"] for x, tm in played[c])]
+            if len(same) == 1:
+                return same
+        return near
+
     for o in obs:
         toks = o["key"].split()
         if len(toks) == 2 and len(toks[-1]) == 1:
@@ -359,11 +380,12 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
             if not cands and o["composite"]:
                 # pickup / individual events: accept a unique match anywhere
                 cands = full_by_first.get((toks[0], toks[-1]), set())
+            cands = narrow(o, cands)
             if len(cands) == 1:
-                person_of[id(o)] = next(iter(cands))
+                person_of[id(o)] = cands[0]
 
     # first-name-only sources (some Ignis/Prometheus/Hunter sheets): attach to the unique person
-    # at the same real school with that first name who played within one season of it
+    # at the same real school with that first name who played within two seasons of it
     by_school_first_season: dict[tuple[str, str], dict[tuple[str, str | None], set[int]]] = defaultdict(lambda: defaultdict(set))
     for o in obs:
         toks = o["key"].split()
@@ -373,8 +395,11 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
         toks = o["key"].split()
         if len(toks) == 1 and not o["composite"]:
             y = season_start(o["season"])
+            # within two seasons, and the combined span fits a four-year high-school career
             cands = [pp for pp, ys in by_school_first_season.get((o["school_id"], toks[0]), {}).items()
-                     if any(abs(y - x) <= 1 for x in ys)]
+                     if any(abs(y - x) <= 2 for x in ys) and max(ys | {y}) - min(ys | {y}) <= 3]
+            if len(cands) > 1:
+                cands = narrow(o, cands)
             if len(cands) == 1:
                 person_of[id(o)] = cands[0]
 
@@ -401,8 +426,11 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
             schools[pid][o["school_id"]] += 1
     for pid, p in people.items():
         variants = names[pid]
-        full = [v for v in variants if not re.search(r"\s\w\.?$", v)] or list(variants)
-        best = max(full, key=lambda v: (not v.islower() and not v.isupper(), variants[v], len(v)))
+        # most complete form: full name > "First L" > first name only; then proper case, frequency
+        def completeness(v: str) -> int:
+            toks = v.split()
+            return 0 if len(toks) < 2 else 1 if re.search(r"\s\w\.?$", v) else 2
+        best = max(variants, key=lambda v: (completeness(v), not v.islower() and not v.isupper(), variants[v], len(v)))
         renamed = R.player_rename.get(norm_person(best))
         p["name"] = renamed or display_case(best)
         p["aliases"] = sorted(v for v in variants if v != p["name"])

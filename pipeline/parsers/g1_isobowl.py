@@ -75,6 +75,44 @@ def choose_name(account_name: str, displays: set[str], overrides: dict[str, str]
     return best
 
 
+_GLOBAL: dict[str, str] | None = None
+
+
+def _global_names() -> dict[str, str]:
+    """Best name per ISOBowl account over every ISOBowl event in raw/ (account and display names)."""
+    global _GLOBAL
+    if _GLOBAL is None:
+        from ..config import RAW_DIR
+        names: dict[str, set[str]] = defaultdict(set)
+        accounts: dict[str, set[str]] = defaultdict(set)
+        for f in sorted(RAW_DIR.glob("*/isobowl/tournament.json")):
+            tour = json.loads(f.read_text())["tournament"]
+            for uid, acc in (tour.get("playerMap") or {}).items():
+                if acc:
+                    accounts[uid].add(acc)
+            logs = f.parent / "scorelogs.json"
+            if logs.exists():
+                for lg in json.loads(logs.read_text())["logs"]:
+                    for q in lg["scorelog"]:
+                        for r in q["results"]:
+                            for a in r["attempts"]:
+                                if a.get("displayName"):
+                                    names[a["userId"]].add(a["displayName"])
+        _GLOBAL = {}
+        for uid, ns in names.items():
+            # only accounts whose typed names share one first name (shared team accounts do not);
+            # account handles count only when they carry that first name too
+            ns = {n for n in ns if not any(c.isdigit() for c in n)}  # team handles like "mingworm 2"
+            firsts = {_clean_display(n).split()[0].lower() for n in ns if _clean_display(n)}
+            if len(firsts) != 1:
+                continue
+            first = next(iter(firsts))
+            pool = {_clean_display(n) for n in ns | accounts.get(uid, set()) if _clean_display(n)}
+            pool = {n for n in pool if n.split()[0].lower() == first}
+            _GLOBAL[uid] = max(sorted(pool), key=_name_score)
+    return _GLOBAL
+
+
 def _subject(raw: str, t: Tournament, subject_override: str | None) -> str:
     if subject_override:
         return subject_override
@@ -116,8 +154,18 @@ def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = Non
                         displays[a["userId"]].add(a["displayName"])
     pm = tour.get("playerMap") or {}
 
+    glob_names = _global_names()
+
     def pname(uid: str) -> str:
-        return choose_name(pm.get(uid, ""), displays.get(uid, set()), name_overrides) or uid
+        local = choose_name(pm.get(uid, ""), displays.get(uid, set()), name_overrides) or uid
+        if name_overrides and pm.get(uid, "") in name_overrides:
+            return local
+        # the same account across ISOBowl events: use its best name everywhere ("roshan" here,
+        # "Roshan A" elsewhere) when the first names agree (shared team accounts do not)
+        g = glob_names.get(uid)
+        if g and g != local and g.split()[0].lower() == local.split()[0].lower() and _name_score(g) > _name_score(local):
+            return g
+        return local
 
     # accumulate player stats keyed by (uid, team)
     acc: dict[tuple[str, str, str], dict[str, float]] = defaultdict(lambda: defaultdict(float))

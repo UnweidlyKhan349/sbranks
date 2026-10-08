@@ -119,9 +119,9 @@ game_id,player,team,subject,correct,negs,points
 6c664b41,akhil,Weilords,math,0,0,0
 6c664b41,Sohil,Weilords,overall,1,1,0
 6c664b41,Sohil,Weilords,other,0,0,0
-6c664b41,Edward,Cryofornia Gurls,overall,5,0,20
-6c664b41,Edward,Cryofornia Gurls,other,2,0,8
-6c664b41,Edward,Cryofornia Gurls,physics,3,0,12
+6c664b41,Edward Chen,Cryofornia Gurls,overall,5,0,20
+6c664b41,Edward Chen,Cryofornia Gurls,other,2,0,8
+6c664b41,Edward Chen,Cryofornia Gurls,physics,3,0,12
 6c664b41,akhil,Weilords,ess,3,0,12
 6c664b41,Sohil,Weilords,math,1,1,0
 6c664b41,seonhoc,Cryofornia Gurls,overall,1,0,4
@@ -130,56 +130,56 @@ game_id,player,team,subject,correct,negs,points
 6c664b41,akhil,Weilords,physics,0,1,-4
 6c664b41,suzuko,Cryofornia Gurls,other,1,0,4
 6c664b41,akhil,Weilords,biology,1,0,4
-6c664b41,Shannon,Cryofornia Gurls,overall,1,0,4
-6c664b41,Shannon,Cryofornia Gurls,chemistry,1,0,4
-6c664b41,Edward,Cryofornia Gurls,math,0,0,0
+6c664b41,Shannon I,Cryofornia Gurls,overall,1,0,4
+6c664b41,Shannon I,Cryofornia Gurls,chemistry,1,0,4
+6c664b41,Edward Chen,Cryofornia Gurls,math,0,0,0
 93fb4a40,Arjun D,(Stitch)^2,overall,3,0,12
 93fb4a40,Arjun D,(Stitch)^2,biology,3,0,12
 93fb4a40,Praneel A,(Stitch)^2,overall,1,3,-8
 93fb4a40,Praneel A,(Stitch)^2,chemistry,0,1,-4
-93fb4a40,vishnu m,CZZ,overall,9,1,32
-93fb4a40,vishnu m,CZZ,chemistry,2,0,8
+93fb4a40,Vishnu M,CZZ,overall,9,1,32
+93fb4a40,Vishnu M,CZZ,chemistry,2,0,8
 93fb4a40,Ryan K,(Stitch)^2,overall,4,0,16
 93fb4a40,Ryan K,(Stitch)^2,physics,1,0,4
 93fb4a40,Praneel A,(Stitch)^2,ess,0,1,-4
-93fb4a40,vishnu m,CZZ,ess,4,0,16
+93fb4a40,Vishnu M,CZZ,ess,4,0,16
 93fb4a40,lysine,CZZ,overall,1,0,4
 93fb4a40,lysine,CZZ,math,1,0,4
-93fb4a40,Achuth,CZZ,overall,0,1,-4
-93fb4a40,Achuth,CZZ,biology,0,1,-4
+93fb4a40,Achuth V,CZZ,overall,0,1,-4
+93fb4a40,Achuth V,CZZ,biology,0,1,-4
 93fb4a40,Sam E,(Stitch)^2,overall,1,0,4
 93fb4a40,Sam E,(Stitch)^2,chemistry,0,0,0
 93fb4a40,Praneel A,(Stitch)^2,physics,1,1,0
-93fb4a40,vishnu m,CZZ,math,2,0,8
-93fb4a40,vishnu m,CZZ,other,1,1,0
+93fb4a40,Vishnu M,CZZ,math,2,0,8
+93fb4a40,Vishnu M,CZZ,other,1,1,0
 93fb4a40,Ryan K,(Stitch)^2,other,1,0,4
 93fb4a40,Ryan K,(Stitch)^2,chemistry,1,0,4
-93fb4a40,Charles,CZZ,overall,1,1,0
-93fb4a40,Charles,CZZ,physics,1,1,0
+93fb4a40,Charles H,CZZ,overall,1,1,0
+93fb4a40,Charles H,CZZ,physics,1,1,0
 93fb4a40,AlexL,(Stitch)^2,overall,1,0,4
 93fb4a40,AlexL,(Stitch)^2,physics,1,0,4
 93fb4a40,Ryan K,(Stitch)^2,math,1,0,4
 93fb4a40,Sam E,(Stitch)^2,other,1,0,4
 3040da9c,Kian D,Ponnor St. Germain,overall,6,2,16
 3040da9c,Kian D,Ponnor St. Germain,chemistry,3,1,8
-3040da9c,Charles,CZZ,overall,1,1,0
-3040da9c,Charles,CZZ,physics,1,1,0
+3040da9c,Charles H,CZZ,overall,1,1,0
+3040da9c,Charles H,CZZ,physics,1,1,0
 3040da9c,snapninja,Ponnor St. Germain,overall,3,1,8
 3040da9c,snapninja,Ponnor St. Germain,ess,3,1,8
 3040da9c,Kian D,Ponnor St. Germain,math,0,1,-4
-3040da9c,vishnu m,CZZ,overall,6,0,24
-3040da9c,vishnu m,CZZ,math,3,0,12
+3040da9c,Vishnu M,CZZ,overall,6,0,24
+3040da9c,Vishnu M,CZZ,math,3,0,12
 3040da9c,dannyridel,Ponnor St. Germain,overall,3,0,12
 3040da9c,dannyridel,Ponnor St. Germain,other,3,0,12
 3040da9c,Kian D,Ponnor St. Germain,biology,2,0,8
-3040da9c,vishnu m,CZZ,physics,1,0,4
+3040da9c,Vishnu M,CZZ,physics,1,0,4
 3040da9c,dannyridel,Ponnor St. Germain,physics,0,0,0
-3040da9c,vishnu m,CZZ,other,1,0,4
-3040da9c,Achuth,CZZ,overall,1,0,4
-3040da9c,Achuth,CZZ,biology,1,0,4
-3040da9c,vishnu m,CZZ,chemistry,0,0,0
+3040da9c,Vishnu M,CZZ,other,1,0,4
+3040da9c,Achuth V,CZZ,overall,1,0,4
+3040da9c,Achuth V,CZZ,biology,1,0,4
+3040da9c,Vishnu M,CZZ,chemistry,0,0,0
 3040da9c,Kian D,Ponnor St. Germain,physics,1,0,4
-3040da9c,vishnu m,CZZ,ess,1,0,4
+3040da9c,Vishnu M,CZZ,ess,1,0,4
 3040da9c,lysine,CZZ,overall,1,0,4
 3040da9c,lysine,CZZ,math,1,0,4
 848d3df4,William W,Gid,overall,4,0,16
@@ -260,20 +260,20 @@ game_id,player,team,subject,correct,negs,points
 8ced12c4,Pravira,Uncs,overall,1,0,4
 8ced12c4,Pravira,Uncs,math,1,0,4
 8ced12c4,Varyan J,DANK,other,0,0,0
-a3ef6a67,roshan,Mingworms,overall,8,3,20
-a3ef6a67,roshan,Mingworms,biology,1,0,4
-a3ef6a67,roshan,Mingworms,chemistry,2,0,8
-a3ef6a67,roshan,Mingworms,physics,1,1,0
+a3ef6a67,Roshan A,Mingworms,overall,8,3,20
+a3ef6a67,Roshan A,Mingworms,biology,1,0,4
+a3ef6a67,Roshan A,Mingworms,chemistry,2,0,8
+a3ef6a67,Roshan A,Mingworms,physics,1,1,0
 a3ef6a67,Aldric B,Fez_Keyreb,overall,4,0,16
 a3ef6a67,Aldric B,Fez_Keyreb,ess,3,0,12
-a3ef6a67,roshan,Mingworms,math,1,0,4
+a3ef6a67,Roshan A,Mingworms,math,1,0,4
 a3ef6a67,uddip k,Mingworms,overall,3,0,12
 a3ef6a67,uddip k,Mingworms,biology,3,0,12
 a3ef6a67,Chris W,Fez_Keyreb,overall,1,1,0
 a3ef6a67,Chris W,Fez_Keyreb,physics,0,0,0
-a3ef6a67,roshan,Mingworms,ess,1,1,0
+a3ef6a67,Roshan A,Mingworms,ess,1,1,0
 a3ef6a67,Chris W,Fez_Keyreb,math,1,1,0
-a3ef6a67,roshan,Mingworms,other,2,1,4
+a3ef6a67,Roshan A,Mingworms,other,2,1,4
 a3ef6a67,Justin K,Fez_Keyreb,overall,1,0,4
 a3ef6a67,Justin K,Fez_Keyreb,chemistry,1,0,4
 a3ef6a67,Justin K,Fez_Keyreb,physics,0,0,0
@@ -283,8 +283,8 @@ a3ef6a67,dea,Mingworms,physics,1,0,4
 a3ef6a67,Aldric B,Fez_Keyreb,other,1,0,4
 ae320d53,ishaan k,Hellcats,overall,0,4,-16
 ae320d53,ishaan k,Hellcats,biology,0,1,-4
-ae320d53,Edward,Cryofornia Gurls,overall,4,3,4
-ae320d53,Edward,Cryofornia Gurls,biology,1,0,4
+ae320d53,Edward Chen,Cryofornia Gurls,overall,4,3,4
+ae320d53,Edward Chen,Cryofornia Gurls,biology,1,0,4
 ae320d53,Ethan Wang,Cryofornia Gurls,overall,0,2,-8
 ae320d53,Ethan Wang,Cryofornia Gurls,chemistry,0,2,-8
 ae320d53,Eric L,Hellcats,overall,4,0,16
@@ -295,20 +295,20 @@ ae320d53,ishaan k,Hellcats,math,0,1,-4
 ae320d53,Eric L,Cryofornia Gurls,overall,1,0,4
 ae320d53,Eric L,Cryofornia Gurls,math,1,0,4
 ae320d53,dynomite,Hellcats,other,2,0,8
-ae320d53,Edward,Cryofornia Gurls,other,1,1,0
+ae320d53,Edward Chen,Cryofornia Gurls,other,1,1,0
 ae320d53,Eric L,Hellcats,biology,1,0,4
 ae320d53,suzuko,Cryofornia Gurls,overall,6,1,20
 ae320d53,suzuko,Cryofornia Gurls,chemistry,1,1,0
-ae320d53,Edward,Cryofornia Gurls,physics,0,0,0
+ae320d53,Edward Chen,Cryofornia Gurls,physics,0,0,0
 ae320d53,Varun G,Hellcats,overall,2,0,8
 ae320d53,Varun G,Hellcats,physics,1,0,4
 ae320d53,ishaan k,Hellcats,ess,0,2,-8
 ae320d53,suzuko,Cryofornia Gurls,ess,2,0,8
-ae320d53,Edward,Cryofornia Gurls,math,1,2,-4
+ae320d53,Edward Chen,Cryofornia Gurls,math,1,2,-4
 ae320d53,Varun G,Hellcats,math,1,0,4
 ae320d53,suzuko,Cryofornia Gurls,biology,2,0,8
 ae320d53,suzuko,Cryofornia Gurls,physics,1,0,4
-ae320d53,Edward,Cryofornia Gurls,ess,1,0,4
+ae320d53,Edward Chen,Cryofornia Gurls,ess,1,0,4
 0f41e9ff,Matthew Y,DANK,overall,1,0,4
 0f41e9ff,Matthew Y,DANK,biology,1,0,4
 0f41e9ff,Lishan P,DANK,overall,3,0,12
@@ -353,8 +353,8 @@ ae320d53,Edward,Cryofornia Gurls,ess,1,0,4
 330c2401,ishaan k,Hellcats,math,0,0,0
 330c2401,Agamotto,Hellcats,other,1,0,4
 330c2401,Agamotto,Hellcats,chemistry,0,1,-4
-330c2401,Dennis,Jonathan,overall,1,0,4
-330c2401,Dennis,Jonathan,chemistry,1,0,4
+330c2401,Dennis S,Jonathan,overall,1,0,4
+330c2401,Dennis S,Jonathan,chemistry,1,0,4
 330c2401,sid s,Jonathan,physics,1,0,4
 330c2401,kensuke o,Jonathan,overall,3,0,12
 330c2401,kensuke o,Jonathan,ess,2,0,8
@@ -368,28 +368,28 @@ ae320d53,Edward,Cryofornia Gurls,ess,1,0,4
 56df556f,Ethan Wang,Cryofornia Gurls,chemistry,3,0,12
 56df556f,suzuko,Cryofornia Gurls,overall,4,1,12
 56df556f,suzuko,Cryofornia Gurls,physics,1,0,4
-56df556f,vishnu m,CZZ,overall,4,0,16
-56df556f,vishnu m,CZZ,ess,1,0,4
-56df556f,vishnu m,CZZ,math,2,0,8
-56df556f,vishnu m,CZZ,other,1,0,4
-56df556f,Edward,Cryofornia Gurls,overall,2,1,4
-56df556f,Edward,Cryofornia Gurls,other,1,0,4
+56df556f,Vishnu M,CZZ,overall,4,0,16
+56df556f,Vishnu M,CZZ,ess,1,0,4
+56df556f,Vishnu M,CZZ,math,2,0,8
+56df556f,Vishnu M,CZZ,other,1,0,4
+56df556f,Edward Chen,Cryofornia Gurls,overall,2,1,4
+56df556f,Edward Chen,Cryofornia Gurls,other,1,0,4
 56df556f,suzuko,Cryofornia Gurls,biology,2,1,4
-56df556f,Charles,CZZ,overall,0,0,0
-56df556f,Charles,CZZ,physics,0,0,0
-56df556f,Edward,Cryofornia Gurls,physics,0,0,0
+56df556f,Charles H,CZZ,overall,0,0,0
+56df556f,Charles H,CZZ,physics,0,0,0
+56df556f,Edward Chen,Cryofornia Gurls,physics,0,0,0
 56df556f,suzuko,Cryofornia Gurls,ess,1,0,4
-56df556f,Edward,Cryofornia Gurls,math,1,1,0
-56df556f,anish a,CZZ,overall,1,0,4
-56df556f,anish a,CZZ,math,0,0,0
-56df556f,anish a,CZZ,biology,1,0,4
+56df556f,Edward Chen,Cryofornia Gurls,math,1,1,0
+56df556f,Anish A,CZZ,overall,1,0,4
+56df556f,Anish A,CZZ,math,0,0,0
+56df556f,Anish A,CZZ,biology,1,0,4
 56df556f,lysine,CZZ,overall,1,1,0
 56df556f,lysine,CZZ,physics,1,0,4
 56df556f,Bryce Thach,Cryofornia Gurls,overall,2,0,8
 56df556f,Bryce Thach,Cryofornia Gurls,ess,2,0,8
-56df556f,Shannon,Cryofornia Gurls,overall,1,0,4
-56df556f,Shannon,Cryofornia Gurls,chemistry,1,0,4
-56df556f,vishnu m,CZZ,physics,0,0,0
+56df556f,Shannon I,Cryofornia Gurls,overall,1,0,4
+56df556f,Shannon I,Cryofornia Gurls,chemistry,1,0,4
+56df556f,Vishnu M,CZZ,physics,0,0,0
 56df556f,lysine,CZZ,math,0,1,-4
 9a124a62,Kian D,Ponnor St. Germain,overall,11,0,44
 9a124a62,Kian D,Ponnor St. Germain,biology,3,0,12
@@ -474,8 +474,8 @@ ec3d2610,Jianyu,Uncs,math,0,0,0
 1efec1d9,Praneel A,(Stitch)^2,overall,6,4,8
 1efec1d9,Praneel A,(Stitch)^2,biology,1,0,4
 1efec1d9,Praneel A,(Stitch)^2,chemistry,2,0,8
-1efec1d9,Edward,Cryofornia Gurls,overall,8,1,28
-1efec1d9,Edward,Cryofornia Gurls,physics,2,1,4
+1efec1d9,Edward Chen,Cryofornia Gurls,overall,8,1,28
+1efec1d9,Edward Chen,Cryofornia Gurls,physics,2,1,4
 1efec1d9,AlexL,(Stitch)^2,overall,2,0,8
 1efec1d9,AlexL,(Stitch)^2,physics,1,0,4
 1efec1d9,Praneel A,(Stitch)^2,ess,2,2,0
@@ -483,7 +483,7 @@ ec3d2610,Jianyu,Uncs,math,0,0,0
 1efec1d9,suzuko,Cryofornia Gurls,ess,0,0,0
 1efec1d9,Ryan K,(Stitch)^2,overall,0,1,-4
 1efec1d9,Ryan K,(Stitch)^2,math,0,1,-4
-1efec1d9,Edward,Cryofornia Gurls,math,4,0,16
+1efec1d9,Edward Chen,Cryofornia Gurls,math,4,0,16
 1efec1d9,suzuko,Cryofornia Gurls,biology,1,2,-4
 1efec1d9,Arjun D,(Stitch)^2,overall,2,1,4
 1efec1d9,Arjun D,(Stitch)^2,biology,2,1,4
@@ -494,7 +494,7 @@ ec3d2610,Jianyu,Uncs,math,0,0,0
 1efec1d9,Bryce Thach,Cryofornia Gurls,overall,0,1,-4
 1efec1d9,Bryce Thach,Cryofornia Gurls,ess,0,1,-4
 1efec1d9,Praneel A,(Stitch)^2,other,0,1,-4
-1efec1d9,Edward,Cryofornia Gurls,other,2,0,8
+1efec1d9,Edward Chen,Cryofornia Gurls,other,2,0,8
 4d9e304e,jake r,Weilords,overall,1,2,-4
 4d9e304e,jake r,Weilords,biology,1,2,-4
 4d9e304e,Eric L,Hellcats,overall,2,1,4
@@ -522,13 +522,13 @@ ec3d2610,Jianyu,Uncs,math,0,0,0
 4d9e304e,Kavin Anreddy,Weilords,other,2,0,8
 62851f77,theenash s,Mingworms,overall,3,2,4
 62851f77,theenash s,Mingworms,biology,2,1,4
-62851f77,roshan,Mingworms,overall,6,2,16
-62851f77,roshan,Mingworms,chemistry,1,0,4
+62851f77,Roshan A,Mingworms,overall,6,2,16
+62851f77,Roshan A,Mingworms,chemistry,1,0,4
 62851f77,Dennis J,DANK,overall,1,0,4
 62851f77,Dennis J,DANK,physics,1,0,4
 62851f77,Varyan J,DANK,overall,1,3,-8
 62851f77,Varyan J,DANK,ess,1,1,0
-62851f77,roshan,Mingworms,ess,3,1,8
+62851f77,Roshan A,Mingworms,ess,3,1,8
 62851f77,Lishan P,DANK,overall,2,1,4
 62851f77,Lishan P,DANK,other,0,1,-4
 62851f77,Owen M,Mingworms,overall,3,0,12
@@ -537,7 +537,7 @@ ec3d2610,Jianyu,Uncs,math,0,0,0
 62851f77,Selena Y,DANK,biology,0,2,-8
 62851f77,theenash s,Mingworms,chemistry,1,1,0
 62851f77,Lishan P,DANK,chemistry,0,0,0
-62851f77,roshan,Mingworms,physics,1,1,0
+62851f77,Roshan A,Mingworms,physics,1,1,0
 62851f77,Lishan P,DANK,physics,1,0,4
 62851f77,dea,Mingworms,overall,0,0,0
 62851f77,dea,Mingworms,math,0,0,0
@@ -551,34 +551,34 @@ ec3d2610,Jianyu,Uncs,math,0,0,0
 62851f77,Lishan P,DANK,math,1,0,4
 62851f77,Namish Dour,Mingworms,math,1,0,4
 62851f77,Varyan J,DANK,other,0,1,-4
-62851f77,roshan,Mingworms,other,1,0,4
+62851f77,Roshan A,Mingworms,other,1,0,4
 62851f77,Varyan J,DANK,physics,0,1,-4
 62851f77,dea,Mingworms,physics,0,0,0
 942dd9f3,Edwin H,Jonathan,overall,4,1,12
 942dd9f3,Edwin H,Jonathan,biology,2,1,4
 942dd9f3,kensuke o,Jonathan,overall,1,2,-4
 942dd9f3,kensuke o,Jonathan,chemistry,0,1,-4
-942dd9f3,vishnu m,CZZ,overall,4,0,16
-942dd9f3,vishnu m,CZZ,chemistry,1,0,4
+942dd9f3,Vishnu M,CZZ,overall,4,0,16
+942dd9f3,Vishnu M,CZZ,chemistry,1,0,4
 942dd9f3,Edwin H,Jonathan,physics,1,0,4
-942dd9f3,vishnu m,CZZ,ess,1,0,4
+942dd9f3,Vishnu M,CZZ,ess,1,0,4
 942dd9f3,bora,Jonathan,overall,3,0,12
 942dd9f3,bora,Jonathan,other,3,0,12
-942dd9f3,anish a,CZZ,overall,3,0,12
-942dd9f3,anish a,CZZ,chemistry,1,0,4
-942dd9f3,Charles,CZZ,overall,2,0,8
-942dd9f3,Charles,CZZ,physics,2,0,8
+942dd9f3,Anish A,CZZ,overall,3,0,12
+942dd9f3,Anish A,CZZ,chemistry,1,0,4
+942dd9f3,Charles H,CZZ,overall,2,0,8
+942dd9f3,Charles H,CZZ,physics,2,0,8
 942dd9f3,kensuke o,Jonathan,ess,1,1,0
-942dd9f3,vishnu m,CZZ,math,2,0,8
-942dd9f3,Achuth,CZZ,overall,1,0,4
-942dd9f3,Achuth,CZZ,biology,1,0,4
+942dd9f3,Vishnu M,CZZ,math,2,0,8
+942dd9f3,Achuth V,CZZ,overall,1,0,4
+942dd9f3,Achuth V,CZZ,biology,1,0,4
 942dd9f3,sid s,Jonathan,overall,1,0,4
 942dd9f3,sid s,Jonathan,chemistry,1,0,4
-942dd9f3,anish a,CZZ,other,1,0,4
-942dd9f3,anish a,CZZ,biology,1,0,4
+942dd9f3,Anish A,CZZ,other,1,0,4
+942dd9f3,Anish A,CZZ,biology,1,0,4
 942dd9f3,Edwin H,Jonathan,chemistry,1,0,4
 942dd9f3,bora,Jonathan,physics,0,0,0
-942dd9f3,vishnu m,CZZ,physics,0,0,0
+942dd9f3,Vishnu M,CZZ,physics,0,0,0
 942dd9f3,sid s,Jonathan,math,0,0,0
 9d493e11,Angelina Y,Ferroasumin,overall,3,0,12
 9d493e11,Angelina Y,Ferroasumin,biology,3,0,12
@@ -693,8 +693,8 @@ d1b110a2,Shubam V,Fez_Keyreb,other,1,0,4
 52491cfa,suzuko,Cryofornia Gurls,biology,3,1,8
 52491cfa,Kian D,Ponnor St. Germain,overall,1,0,4
 52491cfa,Kian D,Ponnor St. Germain,biology,1,0,4
-52491cfa,Edward,Cryofornia Gurls,overall,5,1,16
-52491cfa,Edward,Cryofornia Gurls,physics,2,1,4
+52491cfa,Edward Chen,Cryofornia Gurls,overall,5,1,16
+52491cfa,Edward Chen,Cryofornia Gurls,physics,2,1,4
 52491cfa,dannyridel,Ponnor St. Germain,overall,3,0,12
 52491cfa,dannyridel,Ponnor St. Germain,physics,0,0,0
 52491cfa,Bryce Thach,Cryofornia Gurls,overall,3,1,8
@@ -703,7 +703,7 @@ d1b110a2,Shubam V,Fez_Keyreb,other,1,0,4
 52491cfa,snapninja,Ponnor St. Germain,ess,1,1,0
 52491cfa,vockey,Ponnor St. Germain,overall,0,1,-4
 52491cfa,vockey,Ponnor St. Germain,math,0,1,-4
-52491cfa,Edward,Cryofornia Gurls,math,3,0,12
+52491cfa,Edward Chen,Cryofornia Gurls,math,3,0,12
 52491cfa,dannyridel,Ponnor St. Germain,other,3,0,12
 52491cfa,Ethan Wang,Cryofornia Gurls,overall,2,1,4
 52491cfa,Ethan Wang,Cryofornia Gurls,chemistry,2,1,4
@@ -712,7 +712,7 @@ d1b110a2,Shubam V,Fez_Keyreb,other,1,0,4
 52491cfa,Minghao G,Ponnor St. Germain,overall,1,0,4
 52491cfa,Minghao G,Ponnor St. Germain,math,1,0,4
 52491cfa,suzuko,Cryofornia Gurls,other,1,0,4
-52491cfa,Edward,Cryofornia Gurls,other,0,0,0
+52491cfa,Edward Chen,Cryofornia Gurls,other,0,0,0
 5a9dee2e,Angelina Y,Ferroasumin,overall,1,1,0
 5a9dee2e,Angelina Y,Ferroasumin,biology,1,1,0
 5a9dee2e,Advik S,Fez_Keyreb,overall,4,0,16
@@ -741,33 +741,33 @@ d1b110a2,Shubam V,Fez_Keyreb,other,1,0,4
 5a9dee2e,Justin K,Fez_Keyreb,other,1,0,4
 b4b250ff,Arman,Weilords,overall,1,1,0
 b4b250ff,Arman,Weilords,biology,1,1,0
-b4b250ff,Achuth,CZZ,overall,2,0,8
-b4b250ff,Achuth,CZZ,biology,2,0,8
+b4b250ff,Achuth V,CZZ,overall,2,0,8
+b4b250ff,Achuth V,CZZ,biology,2,0,8
 b4b250ff,akhil,Weilords,overall,8,3,20
 b4b250ff,akhil,Weilords,chemistry,2,1,4
-b4b250ff,Charles,CZZ,overall,2,2,0
-b4b250ff,Charles,CZZ,physics,2,1,4
+b4b250ff,Charles H,CZZ,overall,2,2,0
+b4b250ff,Charles H,CZZ,physics,2,1,4
 b4b250ff,akhil,Weilords,physics,2,0,8
 b4b250ff,akhil,Weilords,ess,3,1,8
-b4b250ff,vishnu m,CZZ,overall,2,4,-8
-b4b250ff,vishnu m,CZZ,math,0,2,-8
+b4b250ff,Vishnu M,CZZ,overall,2,4,-8
+b4b250ff,Vishnu M,CZZ,math,0,2,-8
 b4b250ff,Sohil,Weilords,overall,5,1,16
 b4b250ff,Sohil,Weilords,math,2,0,8
-b4b250ff,vishnu m,CZZ,other,0,1,-4
+b4b250ff,Vishnu M,CZZ,other,0,1,-4
 b4b250ff,Sohil,Weilords,other,3,0,12
 b4b250ff,akhil,Weilords,biology,1,0,4
-b4b250ff,vishnu m,CZZ,chemistry,1,0,4
-b4b250ff,vishnu m,CZZ,ess,1,1,0
+b4b250ff,Vishnu M,CZZ,chemistry,1,0,4
+b4b250ff,Vishnu M,CZZ,ess,1,1,0
 b4b250ff,Sohil,Weilords,physics,0,1,-4
-b4b250ff,Charles,CZZ,math,0,1,-4
+b4b250ff,Charles H,CZZ,math,0,1,-4
 b4b250ff,akhil,Weilords,math,0,1,-4
 b4b250ff,Kavin Anreddy,Weilords,overall,1,0,4
 b4b250ff,Kavin Anreddy,Weilords,other,1,0,4
 dc31e85b,uddip k,Mingworms,overall,4,0,16
 dc31e85b,uddip k,Mingworms,biology,4,0,16
-dc31e85b,roshan,Mingworms,overall,5,0,20
-dc31e85b,roshan,Mingworms,chemistry,1,0,4
-dc31e85b,roshan,Mingworms,ess,3,0,12
+dc31e85b,Roshan A,Mingworms,overall,5,0,20
+dc31e85b,Roshan A,Mingworms,chemistry,1,0,4
+dc31e85b,Roshan A,Mingworms,ess,3,0,12
 dc31e85b,Monish S,Gid,overall,3,1,8
 dc31e85b,Monish S,Gid,math,2,1,4
 dc31e85b,Namish Dour,Mingworms,overall,2,0,8
@@ -783,7 +783,7 @@ dc31e85b,William W,Gid,overall,1,0,4
 dc31e85b,William W,Gid,chemistry,1,0,4
 dc31e85b,Monish S,Gid,physics,1,0,4
 dc31e85b,William Jung,Gid,ess,1,0,4
-dc31e85b,roshan,Mingworms,other,1,0,4
+dc31e85b,Roshan A,Mingworms,other,1,0,4
 2486c90b,Arjun D,(Stitch)^2,overall,3,0,12
 2486c90b,Arjun D,(Stitch)^2,biology,2,0,8
 2486c90b,akhil,Weilords,overall,9,0,36
@@ -843,36 +843,36 @@ dc31e85b,roshan,Mingworms,other,1,0,4
 44d512bb,Dennis J,DANK,other,1,0,4
 4918802f,Eric L,Hellcats,overall,1,3,-8
 4918802f,Eric L,Hellcats,chemistry,1,1,0
-4918802f,vishnu m,CZZ,overall,6,0,24
-4918802f,vishnu m,CZZ,chemistry,2,0,8
-4918802f,Charles,CZZ,overall,3,1,8
-4918802f,Charles,CZZ,physics,2,1,4
+4918802f,Vishnu M,CZZ,overall,6,0,24
+4918802f,Vishnu M,CZZ,chemistry,2,0,8
+4918802f,Charles H,CZZ,overall,3,1,8
+4918802f,Charles H,CZZ,physics,2,1,4
 4918802f,ishaan k,Hellcats,overall,3,2,4
 4918802f,ishaan k,Hellcats,ess,3,0,12
 4918802f,Varun G,Hellcats,overall,3,0,12
 4918802f,Varun G,Hellcats,math,1,0,4
 4918802f,lysine,CZZ,overall,1,0,4
 4918802f,lysine,CZZ,math,1,0,4
-4918802f,Charles,CZZ,other,1,0,4
-4918802f,Achuth,CZZ,overall,3,0,12
-4918802f,Achuth,CZZ,biology,3,0,12
+4918802f,Charles H,CZZ,other,1,0,4
+4918802f,Achuth V,CZZ,overall,3,0,12
+4918802f,Achuth V,CZZ,biology,3,0,12
 4918802f,Varun G,Hellcats,physics,2,0,8
-4918802f,vishnu m,CZZ,ess,1,0,4
+4918802f,Vishnu M,CZZ,ess,1,0,4
 4918802f,ishaan k,Hellcats,other,0,1,-4
-4918802f,vishnu m,CZZ,other,2,0,8
+4918802f,Vishnu M,CZZ,other,2,0,8
 4918802f,Eric L,Hellcats,biology,0,2,-8
 4918802f,ishaan k,Hellcats,math,0,1,-4
-4918802f,vishnu m,CZZ,math,1,0,4
+4918802f,Vishnu M,CZZ,math,1,0,4
 53e58134,theenash s,Mingworms,overall,6,1,20
 53e58134,theenash s,Mingworms,biology,3,0,12
 53e58134,Lucas W,Ferroasumin,overall,6,1,20
 53e58134,Lucas W,Ferroasumin,chemistry,2,0,8
 53e58134,theenash s,Mingworms,chemistry,2,1,4
-53e58134,roshan,Mingworms,overall,3,2,4
-53e58134,roshan,Mingworms,ess,3,0,12
+53e58134,Roshan A,Mingworms,overall,3,2,4
+53e58134,Roshan A,Mingworms,ess,3,0,12
 53e58134,Lucas W,Ferroasumin,math,2,0,8
 53e58134,theenash s,Mingworms,other,1,0,4
-53e58134,roshan,Mingworms,physics,0,2,-8
+53e58134,Roshan A,Mingworms,physics,0,2,-8
 53e58134,Lucas W,Ferroasumin,physics,1,1,0
 53e58134,dea,Mingworms,overall,0,1,-4
 53e58134,dea,Mingworms,math,0,1,-4
@@ -903,8 +903,8 @@ dc31e85b,roshan,Mingworms,other,1,0,4
 63b7867a,Kian D,Ponnor St. Germain,biology,2,0,8
 63b7867a,Edwin H,Jonathan,physics,1,0,4
 63b7867a,Kian D,Ponnor St. Germain,other,1,0,4
-63b7867a,Dennis,Jonathan,overall,0,1,-4
-63b7867a,Dennis,Jonathan,chemistry,0,1,-4
+63b7867a,Dennis S,Jonathan,overall,0,1,-4
+63b7867a,Dennis S,Jonathan,chemistry,0,1,-4
 63b7867a,Patrick Liang,Jonathan,overall,1,0,4
 63b7867a,Patrick Liang,Jonathan,physics,1,0,4
 63b7867a,bora,Jonathan,physics,1,0,4
@@ -974,8 +974,8 @@ dc31e85b,roshan,Mingworms,other,1,0,4
 9ed4db86,Sanjay O,Seanjay,chemistry,0,1,-4
 9ed4db86,dea,Mingworms,overall,1,1,0
 9ed4db86,dea,Mingworms,physics,0,1,-4
-9ed4db86,roshan,Mingworms,overall,2,1,4
-9ed4db86,roshan,Mingworms,ess,1,1,0
+9ed4db86,Roshan A,Mingworms,overall,2,1,4
+9ed4db86,Roshan A,Mingworms,ess,1,1,0
 9ed4db86,Travis D,Seanjay,overall,1,0,4
 9ed4db86,Travis D,Seanjay,ess,1,0,4
 9ed4db86,dea,Mingworms,math,1,0,4
@@ -985,7 +985,7 @@ dc31e85b,roshan,Mingworms,other,1,0,4
 9ed4db86,Shean Fei,Seanjay,physics,1,0,4
 9ed4db86,Shean Fei,Seanjay,ess,1,0,4
 9ed4db86,Namish Dour,Mingworms,physics,0,0,0
-9ed4db86,roshan,Mingworms,other,1,0,4
+9ed4db86,Roshan A,Mingworms,other,1,0,4
 b28de357,Edwin H,Jonathan,overall,8,1,28
 b28de357,Edwin H,Jonathan,biology,3,1,8
 b28de357,Edwin H,Jonathan,chemistry,2,0,8
@@ -998,17 +998,17 @@ b28de357,Bryce Thach,Cryofornia Gurls,overall,2,0,8
 b28de357,Bryce Thach,Cryofornia Gurls,other,1,0,4
 b28de357,Ethan Wang,Cryofornia Gurls,overall,2,1,4
 b28de357,Ethan Wang,Cryofornia Gurls,chemistry,2,1,4
-b28de357,Edward,Cryofornia Gurls,overall,4,0,16
-b28de357,Edward,Cryofornia Gurls,physics,0,0,0
+b28de357,Edward Chen,Cryofornia Gurls,overall,4,0,16
+b28de357,Edward Chen,Cryofornia Gurls,physics,0,0,0
 b28de357,bora,Jonathan,overall,1,1,0
 b28de357,bora,Jonathan,physics,1,0,4
 b28de357,Bryce Thach,Cryofornia Gurls,ess,1,0,4
-b28de357,Edward,Cryofornia Gurls,math,2,0,8
+b28de357,Edward Chen,Cryofornia Gurls,math,2,0,8
 b28de357,suzuko,Cryofornia Gurls,other,1,0,4
-b28de357,Dennis,Jonathan,overall,0,1,-4
-b28de357,Dennis,Jonathan,chemistry,0,1,-4
+b28de357,Dennis S,Jonathan,overall,0,1,-4
+b28de357,Dennis S,Jonathan,chemistry,0,1,-4
 b28de357,Edwin H,Jonathan,physics,1,0,4
-b28de357,Edward,Cryofornia Gurls,other,2,0,8
+b28de357,Edward Chen,Cryofornia Gurls,other,2,0,8
 b28de357,suzuko,Cryofornia Gurls,biology,0,0,0
 b28de357,suzuko,Cryofornia Gurls,ess,1,0,4
 b28de357,bora,Jonathan,other,0,1,-4
@@ -1118,34 +1118,34 @@ f0f72f9c,Lucas W,Ferroasumin,other,1,0,4
 06747c15,Matthew Y,DANK,other,0,0,0
 65f50d37,Ethan Wang,Cryofornia Gurls,overall,1,1,0
 65f50d37,Ethan Wang,Cryofornia Gurls,biology,0,1,-4
-65f50d37,Achuth,CZZ,overall,1,0,4
-65f50d37,Achuth,CZZ,biology,1,0,4
-65f50d37,anish a,CZZ,overall,3,1,8
-65f50d37,anish a,CZZ,chemistry,2,1,4
+65f50d37,Achuth V,CZZ,overall,1,0,4
+65f50d37,Achuth V,CZZ,biology,1,0,4
+65f50d37,Anish A,CZZ,overall,3,1,8
+65f50d37,Anish A,CZZ,chemistry,2,1,4
 65f50d37,Ethan Wang,Cryofornia Gurls,chemistry,1,0,4
-65f50d37,Edward,Cryofornia Gurls,overall,4,0,16
-65f50d37,Edward,Cryofornia Gurls,physics,2,0,8
+65f50d37,Edward Chen,Cryofornia Gurls,overall,4,0,16
+65f50d37,Edward Chen,Cryofornia Gurls,physics,2,0,8
 65f50d37,Bryce Thach,Cryofornia Gurls,overall,1,1,0
 65f50d37,Bryce Thach,Cryofornia Gurls,ess,1,1,0
-65f50d37,Edward,Cryofornia Gurls,math,2,0,8
-65f50d37,Edward,Cryofornia Gurls,other,0,0,0
+65f50d37,Edward Chen,Cryofornia Gurls,math,2,0,8
+65f50d37,Edward Chen,Cryofornia Gurls,other,0,0,0
 65f50d37,lysine,CZZ,overall,2,0,8
 65f50d37,lysine,CZZ,other,0,0,0
 65f50d37,suzuko,Cryofornia Gurls,overall,4,0,16
 65f50d37,suzuko,Cryofornia Gurls,biology,3,0,12
-65f50d37,Charles,CZZ,overall,2,0,8
-65f50d37,Charles,CZZ,physics,2,0,8
-65f50d37,anish a,CZZ,ess,1,0,4
+65f50d37,Charles H,CZZ,overall,2,0,8
+65f50d37,Charles H,CZZ,physics,2,0,8
+65f50d37,Anish A,CZZ,ess,1,0,4
 65f50d37,lysine,CZZ,math,1,0,4
-65f50d37,anish a,CZZ,other,0,0,0
-65f50d37,Edward,Cryofornia Gurls,ess,0,0,0
+65f50d37,Anish A,CZZ,other,0,0,0
+65f50d37,Edward Chen,Cryofornia Gurls,ess,0,0,0
 65f50d37,lysine,CZZ,ess,1,0,4
 65f50d37,suzuko,Cryofornia Gurls,ess,1,0,4
 9353d948,theenash s,Mingworms,overall,6,0,24
 9353d948,theenash s,Mingworms,biology,4,0,16
 9353d948,theenash s,Mingworms,chemistry,2,0,8
-9353d948,roshan,Mingworms,overall,4,2,8
-9353d948,roshan,Mingworms,ess,2,2,0
+9353d948,Roshan A,Mingworms,overall,4,2,8
+9353d948,Roshan A,Mingworms,ess,2,2,0
 9353d948,Lucas W,Ferroasumin,overall,3,0,12
 9353d948,Lucas W,Ferroasumin,ess,1,0,4
 9353d948,dea,Mingworms,overall,0,0,0
@@ -1153,7 +1153,7 @@ f0f72f9c,Lucas W,Ferroasumin,other,1,0,4
 9353d948,Lucas W,Ferroasumin,math,0,0,0
 9353d948,Lucas W,Ferroasumin,other,1,0,4
 9353d948,Lucas W,Ferroasumin,chemistry,1,0,4
-9353d948,roshan,Mingworms,physics,2,0,8
+9353d948,Roshan A,Mingworms,physics,2,0,8
 9353d948,Advai S,Ferroasumin,overall,0,2,-8
 9353d948,Advai S,Ferroasumin,ess,0,1,-4
 9353d948,Namish Dour,Mingworms,overall,0,0,0
@@ -1196,12 +1196,12 @@ e0ab984f,akhil,Weilords,chemistry,1,0,4
 032344aa,akhil,Weilords,chemistry,1,1,0
 032344aa,Ethan Wang,Cryofornia Gurls,overall,1,0,4
 032344aa,Ethan Wang,Cryofornia Gurls,chemistry,1,0,4
-032344aa,Edward,Cryofornia Gurls,overall,4,1,12
-032344aa,Edward,Cryofornia Gurls,physics,2,1,4
+032344aa,Edward Chen,Cryofornia Gurls,overall,4,1,12
+032344aa,Edward Chen,Cryofornia Gurls,physics,2,1,4
 032344aa,Sohil,Weilords,overall,3,0,12
 032344aa,Sohil,Weilords,physics,2,0,8
 032344aa,akhil,Weilords,ess,3,1,8
-032344aa,Edward,Cryofornia Gurls,math,2,0,8
+032344aa,Edward Chen,Cryofornia Gurls,math,2,0,8
 032344aa,Arman,Weilords,overall,1,0,4
 032344aa,Arman,Weilords,biology,1,0,4
 032344aa,Kavin Anreddy,Weilords,overall,2,0,8
@@ -1220,13 +1220,13 @@ ebd30cfe,Selena Y,DANK,biology,1,1,0
 ebd30cfe,theenash s,Mingworms,chemistry,3,0,12
 ebd30cfe,Varyan J,DANK,overall,3,3,0
 ebd30cfe,Varyan J,DANK,physics,0,2,-8
-ebd30cfe,roshan,Mingworms,overall,6,1,20
-ebd30cfe,roshan,Mingworms,physics,2,0,8
+ebd30cfe,Roshan A,Mingworms,overall,6,1,20
+ebd30cfe,Roshan A,Mingworms,physics,2,0,8
 ebd30cfe,dea,Mingworms,overall,0,2,-8
 ebd30cfe,dea,Mingworms,ess,0,1,-4
 ebd30cfe,Varyan J,DANK,ess,1,1,0
 ebd30cfe,Varyan J,DANK,math,1,0,4
-ebd30cfe,roshan,Mingworms,ess,3,0,12
+ebd30cfe,Roshan A,Mingworms,ess,3,0,12
 ebd30cfe,Namish Dour,Mingworms,overall,0,1,-4
 ebd30cfe,Namish Dour,Mingworms,math,0,1,-4
 ebd30cfe,Lishan P,DANK,overall,1,0,4
@@ -1235,8 +1235,8 @@ ebd30cfe,Owen M,Mingworms,overall,1,0,4
 ebd30cfe,Owen M,Mingworms,other,1,0,4
 ebd30cfe,dea,Mingworms,chemistry,0,1,-4
 ebd30cfe,Lishan P,DANK,chemistry,0,0,0
-ebd30cfe,roshan,Mingworms,math,1,0,4
-ebd30cfe,roshan,Mingworms,other,0,1,-4
+ebd30cfe,Roshan A,Mingworms,math,1,0,4
+ebd30cfe,Roshan A,Mingworms,other,0,1,-4
 ebd30cfe,Matthew Y,DANK,overall,1,0,4
 ebd30cfe,Matthew Y,DANK,other,1,0,4
 ebd30cfe,Dennis J,DANK,overall,0,1,-4
@@ -1251,8 +1251,8 @@ eca85d14,akhil,Weilords,chemistry,3,0,12
 eca85d14,Sohil,Weilords,overall,3,0,12
 eca85d14,Sohil,Weilords,physics,1,0,4
 eca85d14,akhil,Weilords,ess,0,1,-4
-eca85d14,roshan,Mingworms,overall,3,2,4
-eca85d14,roshan,Mingworms,ess,3,0,12
+eca85d14,Roshan A,Mingworms,overall,3,2,4
+eca85d14,Roshan A,Mingworms,ess,3,0,12
 eca85d14,Namish Dour,Mingworms,overall,0,0,0
 eca85d14,Namish Dour,Mingworms,math,0,0,0
 eca85d14,Sohil,Weilords,math,1,0,4
@@ -1261,9 +1261,9 @@ eca85d14,Owen M,Mingworms,overall,0,0,0
 eca85d14,Owen M,Mingworms,other,0,0,0
 eca85d14,Sohil,Weilords,biology,1,0,4
 eca85d14,akhil,Weilords,physics,2,0,8
-eca85d14,roshan,Mingworms,chemistry,0,2,-8
-eca85d14,roshan,Mingworms,math,0,0,0
+eca85d14,Roshan A,Mingworms,chemistry,0,2,-8
+eca85d14,Roshan A,Mingworms,math,0,0,0
 eca85d14,theenash s,Mingworms,other,1,0,4
 eca85d14,akhil,Weilords,biology,0,1,-4
 eca85d14,theenash s,Mingworms,physics,0,1,-4
-eca85d14,roshan,Mingworms,other,0,0,0
+eca85d14,Roshan A,Mingworms,other,0,0,0

@@ -1,0 +1,34 @@
+# Player identity curation (read by pipeline/resolve.py).
+#   merge:       groups of name spellings of one person (first entry = canonical form);
+#                normalized names, applied everywhere (different real schools still split)
+#   same_person: names that are one person even when seen at two real schools
+#   rename:      display-name overrides
+merge:
+  # same ISOBowl account ("roshan" / "Roshan A"); also subbed for North Hollywood A at NSSB 2026
+  - [Roshan Annamalai, Roshan A]
+  # nicknames / shortened first names at the same school
+  - [Elias Mrug, Eli Mrug]
+  - [Maxwell K, Max K]
+  - [Christopher C, Chris C]
+  - [Samuel B, Sam B]
+  - [Alexander F, Alex F]
+  - [Alexander Patton, Alex Patton]
+  - [Benjamin M, Ben M]
+  - [Aditya Vatsavai, Adi Vatsavai]
+  - [Joshua Tittiranonda, Josh Tittiranonda]
+  # spacing / typing variants
+  - [Alex P, Alexp]
+  - [Lucas Quan, LucasQuan]
+  - [Eric L, Ericl]
+  - [Alex L, AlexL]
+  # shortened surnames
+  - [Santhosh Balaji, Santhosh B, Santhosh Balaji Venkatesh Babu]
+  - [Keene Koide, Keene KK, Keene K]
+  - [Aashray Cheguvijay, Aashray Chegu]
+  - [Ryan Limpasurat, Ryan Lim]
+  - [Yan-Ru Cao, Yan-Ru C]
+same_person:
+  - Roshan Annamalai
+rename:
+  Keene KK: Keene Koide
+  Santhosh Balaji: Santhosh Balaji Venkatesh Babu

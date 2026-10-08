@@ -45,8 +45,8 @@ game_id,player,team,subject,correct,negs,points
 995acf0c,Veggie,CAMAS,chemistry,3,1,8
 995acf0c,eiggeV,CAMAS,overall,3,1,8
 995acf0c,eiggeV,CAMAS,chemistry,3,1,8
-aa169c5c,majed,schrodingle berries,overall,11,1,40
-aa169c5c,majed,schrodingle berries,chemistry,11,1,40
+aa169c5c,Majed A,schrodingle berries,overall,11,1,40
+aa169c5c,Majed A,schrodingle berries,chemistry,11,1,40
 aa169c5c,Samuel Huang,i lovity radioactivity,overall,9,2,28
 aa169c5c,Samuel Huang,i lovity radioactivity,chemistry,9,2,28
 b9ecc6c2,pancreas uvula,Lanthanide Larpers,overall,13,3,40
@@ -73,8 +73,8 @@ bd913ac5,Allen,29,overall,4,0,16
 bd913ac5,Allen,29,chemistry,4,0,16
 c15853fe,Katy,Tungsten Tungsten Tungsten Sahur,overall,4,4,0
 c15853fe,Katy,Tungsten Tungsten Tungsten Sahur,chemistry,4,4,0
-c15853fe,Sophie,Minnesota Organic Frameworks,overall,5,1,16
-c15853fe,Sophie,Minnesota Organic Frameworks,chemistry,5,1,16
+c15853fe,Sophie C,Minnesota Organic Frameworks,overall,5,1,16
+c15853fe,Sophie C,Minnesota Organic Frameworks,chemistry,5,1,16
 c15853fe,Yan-Ru C,Minnesota Organic Frameworks,overall,13,0,52
 c15853fe,Yan-Ru C,Minnesota Organic Frameworks,chemistry,13,0,52
 c15853fe,Adi,Tungsten Tungsten Tungsten Sahur,overall,2,1,4
@@ -125,14 +125,14 @@ d80096ca,Catherine,Activation Energy,chemistry,1,0,4
 5532dbbb,Yan-Ru C,Minnesota Organic Frameworks,chemistry,15,2,52
 5532dbbb,Michael,Onyx,overall,0,0,0
 5532dbbb,Michael,Onyx,chemistry,0,0,0
-5532dbbb,Sophie,Minnesota Organic Frameworks,overall,4,1,12
-5532dbbb,Sophie,Minnesota Organic Frameworks,chemistry,4,1,12
+5532dbbb,Sophie C,Minnesota Organic Frameworks,overall,4,1,12
+5532dbbb,Sophie C,Minnesota Organic Frameworks,chemistry,4,1,12
 5532dbbb,ethan,Onyx,overall,1,0,4
 5532dbbb,ethan,Onyx,chemistry,1,0,4
 57e93886,jaco bell,cauliflower,overall,13,5,32
 57e93886,jaco bell,cauliflower,chemistry,13,5,32
-57e93886,majed,schrodingle berries,overall,7,2,20
-57e93886,majed,schrodingle berries,chemistry,7,2,20
+57e93886,Majed A,schrodingle berries,overall,7,2,20
+57e93886,Majed A,schrodingle berries,chemistry,7,2,20
 5a2ceba3,67,Skibidi 67ers,overall,11,2,36
 5a2ceba3,67,Skibidi 67ers,chemistry,11,2,36
 5a2ceba3,Katy,Tungsten Tungsten Tungsten Sahur,overall,7,2,20
@@ -171,10 +171,10 @@ b5d4effc,woopa,concrete slab,overall,10,3,28
 b5d4effc,woopa,concrete slab,chemistry,10,3,28
 b5d4effc,Bowen Shan,concrete slab,overall,8,3,20
 b5d4effc,Bowen Shan,concrete slab,chemistry,8,3,20
-c32dcf3f,Vince,CARBON-NITROGEN,overall,8,3,20
-c32dcf3f,Vince,CARBON-NITROGEN,chemistry,8,3,20
-c32dcf3f,anish a,Bun-son Burners 😭,overall,11,0,44
-c32dcf3f,anish a,Bun-son Burners 😭,chemistry,11,0,44
+c32dcf3f,Vince S,CARBON-NITROGEN,overall,8,3,20
+c32dcf3f,Vince S,CARBON-NITROGEN,chemistry,8,3,20
+c32dcf3f,Anish A,Bun-son Burners 😭,overall,11,0,44
+c32dcf3f,Anish A,Bun-son Burners 😭,chemistry,11,0,44
 c32dcf3f,shamp0,Bun-son Burners 😭,overall,5,2,12
 c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 0eecc187,bonkywonky,DASONI Drinkers,overall,9,2,28
@@ -221,8 +221,8 @@ c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 35756991,Adi,Tungsten Tungsten Tungsten Sahur,chemistry,6,2,16
 35756991,Michael,Onyx,overall,0,0,0
 35756991,Michael,Onyx,chemistry,0,0,0
-3b31f4ec,Sophie,Minnesota Organic Frameworks,overall,3,3,0
-3b31f4ec,Sophie,Minnesota Organic Frameworks,chemistry,3,3,0
+3b31f4ec,Sophie C,Minnesota Organic Frameworks,overall,3,3,0
+3b31f4ec,Sophie C,Minnesota Organic Frameworks,chemistry,3,3,0
 3b31f4ec,emma,SN2,overall,5,1,16
 3b31f4ec,emma,SN2,chemistry,5,1,16
 3b31f4ec,Yan-Ru C,Minnesota Organic Frameworks,overall,14,1,52
@@ -241,8 +241,8 @@ c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 58b9290d,woopa,concrete slab,chemistry,9,3,24
 58b9290d,Bowen Shan,concrete slab,overall,7,1,24
 58b9290d,Bowen Shan,concrete slab,chemistry,7,1,24
-5cc30565,Vince,CARBON-NITROGEN,overall,15,1,56
-5cc30565,Vince,CARBON-NITROGEN,chemistry,15,1,56
+5cc30565,Vince S,CARBON-NITROGEN,overall,15,1,56
+5cc30565,Vince S,CARBON-NITROGEN,chemistry,15,1,56
 5cc30565,Catherine,Activation Energy,overall,1,0,4
 5cc30565,Catherine,Activation Energy,chemistry,1,0,4
 5cc30565,shreyan d,CARBON-NITROGEN,overall,1,0,4
@@ -257,8 +257,8 @@ c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 5f1b8f2e,Yongrui Wang,Helium Hydride,chemistry,1,1,0
 7b40be7f,ishaan kabra,TBCS,overall,6,3,12
 7b40be7f,ishaan kabra,TBCS,chemistry,6,3,12
-7b40be7f,majed,schrodingle berries,overall,2,1,4
-7b40be7f,majed,schrodingle berries,chemistry,2,1,4
+7b40be7f,Majed A,schrodingle berries,overall,2,1,4
+7b40be7f,Majed A,schrodingle berries,chemistry,2,1,4
 7b40be7f,harry gao,TBCS,overall,13,2,44
 7b40be7f,harry gao,TBCS,chemistry,13,2,44
 7b40be7f,schrödingle berries,schrodingle berries,overall,0,3,-12
@@ -269,8 +269,8 @@ c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 800c98b6,Mangoi,Nonpolar Bears,chemistry,3,0,12
 800c98b6,Kangaboo,Nonpolar Bears,overall,1,0,4
 800c98b6,Kangaboo,Nonpolar Bears,chemistry,1,0,4
-9a6a1fbc,anish a,Bun-son Burners 😭,overall,13,1,48
-9a6a1fbc,anish a,Bun-son Burners 😭,chemistry,13,1,48
+9a6a1fbc,Anish A,Bun-son Burners 😭,overall,13,1,48
+9a6a1fbc,Anish A,Bun-son Burners 😭,chemistry,13,1,48
 9a6a1fbc,Larry D,Auraphilic,overall,9,0,36
 9a6a1fbc,Larry D,Auraphilic,chemistry,9,0,36
 9a6a1fbc,shamp0,Bun-son Burners 😭,overall,3,1,8
@@ -309,8 +309,8 @@ e2ac5b1e,Jacob,Walter White,chemistry,1,0,4
 160a15be,woopa,concrete slab,chemistry,5,1,16
 4af0f672,Larry D,Auraphilic,overall,6,0,24
 4af0f672,Larry D,Auraphilic,chemistry,6,0,24
-4af0f672,Vince,CARBON-NITROGEN,overall,10,3,28
-4af0f672,Vince,CARBON-NITROGEN,chemistry,10,3,28
+4af0f672,Vince S,CARBON-NITROGEN,overall,10,3,28
+4af0f672,Vince S,CARBON-NITROGEN,chemistry,10,3,28
 4af0f672,Nirav N,Auraphilic,overall,2,0,8
 4af0f672,Nirav N,Auraphilic,chemistry,2,0,8
 5546eec6,Ethan Wang,Exploding Kittens,overall,7,3,16
@@ -357,8 +357,8 @@ e2ac5b1e,Jacob,Walter White,chemistry,1,0,4
 9deb1c27,schrödingle berries,schrodingle berries,chemistry,4,1,12
 9deb1c27,Allen,29,overall,8,0,32
 9deb1c27,Allen,29,chemistry,8,0,32
-9deb1c27,majed,schrodingle berries,overall,3,2,4
-9deb1c27,majed,schrodingle berries,chemistry,3,2,4
+9deb1c27,Majed A,schrodingle berries,overall,3,2,4
+9deb1c27,Majed A,schrodingle berries,chemistry,3,2,4
 9deb1c27,Charlie,29,overall,3,0,12
 9deb1c27,Charlie,29,chemistry,3,0,12
 9e8a467d,Yan-Ru C,Minnesota Organic Frameworks,overall,16,0,64
@@ -367,8 +367,8 @@ e2ac5b1e,Jacob,Walter White,chemistry,1,0,4
 9e8a467d,Dr. Math,Skibidi 67ers,chemistry,4,0,16
 9e8a467d,67,Skibidi 67ers,overall,4,4,0
 9e8a467d,67,Skibidi 67ers,chemistry,4,4,0
-9e8a467d,Sophie,Minnesota Organic Frameworks,overall,0,0,0
-9e8a467d,Sophie,Minnesota Organic Frameworks,chemistry,0,0,0
+9e8a467d,Sophie C,Minnesota Organic Frameworks,overall,0,0,0
+9e8a467d,Sophie C,Minnesota Organic Frameworks,chemistry,0,0,0
 c7afbba6,Vincent Chen,Helium Hydride,overall,2,3,-4
 c7afbba6,Vincent Chen,Helium Hydride,chemistry,2,3,-4
 c7afbba6,Jason,Yin and Yang,overall,9,0,36
@@ -399,8 +399,8 @@ e69cc42d,emma,SN2,chemistry,5,0,20
 2e131d36,woopa,concrete slab,chemistry,7,5,8
 2e131d36,Bowen Shan,concrete slab,overall,8,3,20
 2e131d36,Bowen Shan,concrete slab,chemistry,8,3,20
-2e131d36,majed,schrodingle berries,overall,2,3,-4
-2e131d36,majed,schrodingle berries,chemistry,2,3,-4
+2e131d36,Majed A,schrodingle berries,overall,2,3,-4
+2e131d36,Majed A,schrodingle berries,chemistry,2,3,-4
 2e131d36,schrödingle berries,schrodingle berries,overall,1,5,-16
 2e131d36,schrödingle berries,schrodingle berries,chemistry,1,5,-16
 30f4f046,67,Skibidi 67ers,overall,16,0,64
@@ -455,8 +455,8 @@ b8e2c653,Vincent Chen,Helium Hydride,overall,4,1,12
 b8e2c653,Vincent Chen,Helium Hydride,chemistry,4,1,12
 c73435f5,shamp0,Bun-son Burners 😭,overall,8,0,32
 c73435f5,shamp0,Bun-son Burners 😭,chemistry,8,0,32
-c73435f5,anish a,Bun-son Burners 😭,overall,10,3,28
-c73435f5,anish a,Bun-son Burners 😭,chemistry,10,3,28
+c73435f5,Anish A,Bun-son Burners 😭,overall,10,3,28
+c73435f5,Anish A,Bun-son Burners 😭,chemistry,10,3,28
 c73435f5,Catherine,Activation Energy,overall,2,0,8
 c73435f5,Catherine,Activation Energy,chemistry,2,0,8
 caac198e,harry gao,TBCS,overall,9,7,8
@@ -475,8 +475,8 @@ e94908b2,Yan-Ru C,Minnesota Organic Frameworks,overall,11,2,36
 e94908b2,Yan-Ru C,Minnesota Organic Frameworks,chemistry,11,2,36
 e94908b2,bonkywonky,DASONI Drinkers,overall,8,3,20
 e94908b2,bonkywonky,DASONI Drinkers,chemistry,8,3,20
-e94908b2,Sophie,Minnesota Organic Frameworks,overall,2,0,8
-e94908b2,Sophie,Minnesota Organic Frameworks,chemistry,2,0,8
+e94908b2,Sophie C,Minnesota Organic Frameworks,overall,2,0,8
+e94908b2,Sophie C,Minnesota Organic Frameworks,chemistry,2,0,8
 4ce3d7ce,woopa,concrete slab,overall,5,3,8
 4ce3d7ce,woopa,concrete slab,chemistry,5,3,8
 4ce3d7ce,__shan,DASONI Drinkers,overall,3,1,8
@@ -519,12 +519,12 @@ d019873e,Shallow Walker,Lanthanide Larpers,overall,2,1,4
 d019873e,Shallow Walker,Lanthanide Larpers,chemistry,2,1,4
 e4d26609,Cpmbo,the borons,overall,13,1,48
 e4d26609,Cpmbo,the borons,chemistry,13,1,48
-e4d26609,Vince,CARBON-NITROGEN,overall,1,5,-16
-e4d26609,Vince,CARBON-NITROGEN,chemistry,1,5,-16
+e4d26609,Vince S,CARBON-NITROGEN,overall,1,5,-16
+e4d26609,Vince S,CARBON-NITROGEN,chemistry,1,5,-16
 f1ad30f0,shamp0,Bun-son Burners 😭,overall,3,0,12
 f1ad30f0,shamp0,Bun-son Burners 😭,chemistry,3,0,12
-f1ad30f0,anish a,Bun-son Burners 😭,overall,8,1,28
-f1ad30f0,anish a,Bun-son Burners 😭,chemistry,8,1,28
+f1ad30f0,Anish A,Bun-son Burners 😭,overall,8,1,28
+f1ad30f0,Anish A,Bun-son Burners 😭,chemistry,8,1,28
 f1ad30f0,Allen,29,overall,3,2,4
 f1ad30f0,Allen,29,chemistry,3,2,4
 f1ad30f0,Charlie,29,overall,2,0,8
@@ -533,8 +533,8 @@ fc151d8c,Isaac,DDDingyding,overall,6,2,16
 fc151d8c,Isaac,DDDingyding,chemistry,6,2,16
 fc151d8c,Yan-Ru C,Minnesota Organic Frameworks,overall,7,2,20
 fc151d8c,Yan-Ru C,Minnesota Organic Frameworks,chemistry,7,2,20
-fc151d8c,Sophie,Minnesota Organic Frameworks,overall,1,1,0
-fc151d8c,Sophie,Minnesota Organic Frameworks,chemistry,1,1,0
+fc151d8c,Sophie C,Minnesota Organic Frameworks,overall,1,1,0
+fc151d8c,Sophie C,Minnesota Organic Frameworks,chemistry,1,1,0
 1ff87489,__shan,DASONI Drinkers,overall,3,2,4
 1ff87489,__shan,DASONI Drinkers,chemistry,3,2,4
 1ff87489,Larry D,Auraphilic,overall,9,1,32
@@ -543,8 +543,8 @@ fc151d8c,Sophie,Minnesota Organic Frameworks,chemistry,1,1,0
 1ff87489,bonkywonky,DASONI Drinkers,chemistry,0,0,0
 1ff87489,Nirav N,Auraphilic,overall,0,0,0
 1ff87489,Nirav N,Auraphilic,chemistry,0,0,0
-3283ddc3,anish a,Bun-son Burners 😭,overall,7,1,24
-3283ddc3,anish a,Bun-son Burners 😭,chemistry,7,1,24
+3283ddc3,Anish A,Bun-son Burners 😭,overall,7,1,24
+3283ddc3,Anish A,Bun-son Burners 😭,chemistry,7,1,24
 3283ddc3,harry gao,TBCS,overall,6,3,12
 3283ddc3,harry gao,TBCS,chemistry,6,3,12
 3283ddc3,ishaan kabra,TBCS,overall,3,0,12
@@ -559,8 +559,8 @@ fc151d8c,Sophie,Minnesota Organic Frameworks,chemistry,1,1,0
 44337010,pancreas uvula,Lanthanide Larpers,chemistry,4,0,16
 5179f96f,Easton W,School of Chemistry,overall,9,2,28
 5179f96f,Easton W,School of Chemistry,chemistry,9,2,28
-5179f96f,Sophie,Minnesota Organic Frameworks,overall,1,0,4
-5179f96f,Sophie,Minnesota Organic Frameworks,chemistry,1,0,4
+5179f96f,Sophie C,Minnesota Organic Frameworks,overall,1,0,4
+5179f96f,Sophie C,Minnesota Organic Frameworks,chemistry,1,0,4
 5179f96f,Lishan P,School of Chemistry,overall,1,1,0
 5179f96f,Lishan P,School of Chemistry,chemistry,1,1,0
 5179f96f,Yan-Ru C,Minnesota Organic Frameworks,overall,5,0,20
@@ -577,8 +577,8 @@ fc151d8c,Sophie,Minnesota Organic Frameworks,chemistry,1,1,0
 811c9f2e,Ethan Wang,Exploding Kittens,chemistry,7,2,20
 811c9f2e,Paxton Lin,Exploding Kittens,overall,2,0,8
 811c9f2e,Paxton Lin,Exploding Kittens,chemistry,2,0,8
-811c9f2e,Vince,CARBON-NITROGEN,overall,2,4,-8
-811c9f2e,Vince,CARBON-NITROGEN,chemistry,2,4,-8
+811c9f2e,Vince S,CARBON-NITROGEN,overall,2,4,-8
+811c9f2e,Vince S,CARBON-NITROGEN,chemistry,2,4,-8
 bd6a440e,Sam E,Br2 Br2 Patapimine,overall,2,2,0
 bd6a440e,Sam E,Br2 Br2 Patapimine,chemistry,2,2,0
 bd6a440e,akhil,Br2 Br2 Patapimine,overall,5,0,20
@@ -597,8 +597,8 @@ dd03f296,Dr. Math,Skibidi 67ers,chemistry,1,1,0
 16665302,Yan-Ru C,Minnesota Organic Frameworks,chemistry,10,0,40
 16665302,Larry D,Auraphilic,overall,3,0,12
 16665302,Larry D,Auraphilic,chemistry,3,0,12
-16665302,Sophie,Minnesota Organic Frameworks,overall,1,1,0
-16665302,Sophie,Minnesota Organic Frameworks,chemistry,1,1,0
+16665302,Sophie C,Minnesota Organic Frameworks,overall,1,1,0
+16665302,Sophie C,Minnesota Organic Frameworks,chemistry,1,1,0
 75581eb7,natalina island,Buckminsterfullerene,overall,5,4,4
 75581eb7,natalina island,Buckminsterfullerene,chemistry,5,4,4
 75581eb7,Cpmbo,the borons,overall,9,3,24
@@ -639,28 +639,28 @@ f144b68b,Dr. Math,Skibidi 67ers,chemistry,0,0,0
 85612ea9,akhil,Br2 Br2 Patapimine,chemistry,3,2,4
 85612ea9,Sam E,Br2 Br2 Patapimine,overall,6,4,8
 85612ea9,Sam E,Br2 Br2 Patapimine,chemistry,6,4,8
-85612ea9,anish a,Bun-son Burners 😭,overall,4,0,16
-85612ea9,anish a,Bun-son Burners 😭,chemistry,4,0,16
+85612ea9,Anish A,Bun-son Burners 😭,overall,4,0,16
+85612ea9,Anish A,Bun-son Burners 😭,chemistry,4,0,16
 85612ea9,shamp0,Bun-son Burners 😭,overall,0,0,0
 85612ea9,shamp0,Bun-son Burners 😭,chemistry,0,0,0
 904b8c57,Cpmbo,the borons,overall,9,1,32
 904b8c57,Cpmbo,the borons,chemistry,9,1,32
 904b8c57,Yan-Ru C,Minnesota Organic Frameworks,overall,4,2,8
 904b8c57,Yan-Ru C,Minnesota Organic Frameworks,chemistry,4,2,8
-904b8c57,Sophie,Minnesota Organic Frameworks,overall,1,0,4
-904b8c57,Sophie,Minnesota Organic Frameworks,chemistry,1,0,4
+904b8c57,Sophie C,Minnesota Organic Frameworks,overall,1,0,4
+904b8c57,Sophie C,Minnesota Organic Frameworks,chemistry,1,0,4
 1b928650,Cpmbo,the borons,overall,9,5,16
 1b928650,Cpmbo,the borons,chemistry,9,5,16
 1b928650,Easton W,School of Chemistry,overall,5,2,12
 1b928650,Easton W,School of Chemistry,chemistry,5,2,12
 35572c1d,harry gao,TBCS,overall,6,4,8
 35572c1d,harry gao,TBCS,chemistry,6,4,8
-35572c1d,anish a,Bun-son Burners 😭,overall,7,0,28
-35572c1d,anish a,Bun-son Burners 😭,chemistry,7,0,28
+35572c1d,Anish A,Bun-son Burners 😭,overall,7,0,28
+35572c1d,Anish A,Bun-son Burners 😭,chemistry,7,0,28
 35572c1d,ishaan kabra,TBCS,overall,1,1,0
 35572c1d,ishaan kabra,TBCS,chemistry,1,1,0
-4466d6d7,anish a,Bun-son Burners 😭,overall,8,1,28
-4466d6d7,anish a,Bun-son Burners 😭,chemistry,8,1,28
+4466d6d7,Anish A,Bun-son Burners 😭,overall,8,1,28
+4466d6d7,Anish A,Bun-son Burners 😭,chemistry,8,1,28
 4466d6d7,Cpmbo,the borons,overall,9,1,32
 4466d6d7,Cpmbo,the borons,chemistry,9,1,32
 6d4fcf8c,pancreas uvula,Lanthanide Larpers,overall,3,2,4

@@ -9,16 +9,16 @@ game_id,player,team,subject,correct,negs,points
 4b64ba1a,"Malachi, D,",Washed,biology,17,0,68
 4b64ba1a,Anvi J,Epistasis,overall,1,0,4
 4b64ba1a,Anvi J,Epistasis,biology,1,0,4
-5d7d2730,kian d,Caudate,overall,16,0,64
-5d7d2730,kian d,Caudate,biology,16,0,64
+5d7d2730,Kian D,Caudate,overall,16,0,64
+5d7d2730,Kian D,Caudate,biology,16,0,64
 5d7d2730,Anish K.,Gangalicious Ganglions,overall,4,0,16
 5d7d2730,Anish K.,Gangalicious Ganglions,biology,4,0,16
 5d7d2730,AryanA,Gangalicious Ganglions,overall,0,1,-4
 5d7d2730,AryanA,Gangalicious Ganglions,biology,0,1,-4
 7a8d5b53,Monish S,Larpers,overall,2,1,4
 7a8d5b53,Monish S,Larpers,biology,2,1,4
-7a8d5b53,Abhinav,Larpers,overall,9,1,32
-7a8d5b53,Abhinav,Larpers,biology,9,1,32
+7a8d5b53,Abhinav A,Larpers,overall,9,1,32
+7a8d5b53,Abhinav A,Larpers,biology,9,1,32
 7a8d5b53,"Arsh, G, Majestic Millburn",Majestic Millburn,overall,3,0,12
 7a8d5b53,"Arsh, G, Majestic Millburn",Majestic Millburn,biology,3,0,12
 7a8d5b53,simonL,Majestic Millburn,overall,6,1,20
@@ -27,8 +27,8 @@ game_id,player,team,subject,correct,negs,points
 8f10d1c3,Adhrit M,Ultimate Uzbeks,biology,4,0,16
 8f10d1c3,Dev M,The Quorum,overall,10,1,36
 8f10d1c3,Dev M,The Quorum,biology,10,1,36
-8f10d1c3,Arnav K - Ultimate Uzbecks,Ultimate Uzbeks,overall,1,0,4
-8f10d1c3,Arnav K - Ultimate Uzbecks,Ultimate Uzbeks,biology,1,0,4
+8f10d1c3,Arnav K,Ultimate Uzbeks,overall,1,0,4
+8f10d1c3,Arnav K,Ultimate Uzbeks,biology,1,0,4
 ba32e71f,theenash s,chuck and larry,overall,13,3,40
 ba32e71f,theenash s,chuck and larry,biology,13,3,40
 ba32e71f,Achuth V,Zygoats,overall,6,1,20

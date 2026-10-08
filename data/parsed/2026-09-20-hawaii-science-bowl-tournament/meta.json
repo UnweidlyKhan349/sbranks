@@ -4,8 +4,8 @@
     "teams": 33,
     "games": 105,
     "games_with_scores": 105,
-    "player_stat_rows": 989,
-    "players": 142,
+    "player_stat_rows": 987,
+    "players": 141,
     "team_game_subject_rows": 1260,
     "player_game_stat_rows": 2413
   },
@@ -19,7 +19,8 @@
     "player_game_stats": true
   },
   "warnings": [
-    "game d6495648 Mira Loma A 32-66 BISV C: bracket advanced Mira Loma A (manual decision)"
+    "game d6495648 Mira Loma A 32-66 BISV C: bracket advanced Mira Loma A (manual decision)",
+    "merged 2 accounts named 'Keene KK' on Iolani"
   ],
   "parser": "g1_isobowl:parse"
 }

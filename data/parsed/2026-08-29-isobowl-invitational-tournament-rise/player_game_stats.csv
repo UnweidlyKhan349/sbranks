@@ -22,8 +22,8 @@ game_id,player,team,subject,correct,negs,points
 03361a6a,Rishabh,TMSA,other,0,0,0
 03361a6a,Praneel,TMSA,ess,0,0,0
 03361a6a,akshat m,TMSA,math,0,0,0
-03361a6a,Prathiksha,Collierville C,overall,1,0,4
-03361a6a,Prathiksha,Collierville C,other,1,0,4
+03361a6a,Prathiksha J,Collierville C,overall,1,0,4
+03361a6a,Prathiksha J,Collierville C,other,1,0,4
 73b3deb2,Arjun Pandey,BI Fremont HS,overall,1,0,4
 73b3deb2,Arjun Pandey,BI Fremont HS,biology,1,0,4
 73b3deb2,Timothy Yu,BISV C,overall,4,0,16
@@ -49,8 +49,8 @@ game_id,player,team,subject,correct,negs,points
 73b3deb2,Aarnav Rudraraju,BI Fremont HS,other,1,0,4
 b6b2add2,Rochan,Lambert,overall,1,2,-4
 b6b2add2,Rochan,Lambert,biology,1,1,0
-b6b2add2,Luke I,Punahou,overall,1,1,0
-b6b2add2,Luke I,Punahou,biology,1,1,0
+b6b2add2,Luke Itomura,Punahou,overall,1,1,0
+b6b2add2,Luke Itomura,Punahou,biology,1,1,0
 b6b2add2,Noah C,Punahou,overall,1,0,4
 b6b2add2,Noah C,Punahou,chemistry,1,0,4
 b6b2add2,viren,Lambert,overall,1,0,4
@@ -109,9 +109,9 @@ e0b8a790,Joshua,Bridgeland A,math,0,0,0
 e0b8a790,frank chen,Arcadia B,other,0,0,0
 e0b8a790,Joshua,Bridgeland A,other,0,0,0
 e0b8a790,frank chen,Arcadia B,chemistry,0,0,0
-e0b8a790,Jamie W,Arcadia B,overall,1,0,4
-e0b8a790,Jamie W,Arcadia B,ess,1,0,4
-e0b8a790,Jamie W,Arcadia B,chemistry,0,0,0
+e0b8a790,Jamie W.,Arcadia B,overall,1,0,4
+e0b8a790,Jamie W.,Arcadia B,ess,1,0,4
+e0b8a790,Jamie W.,Arcadia B,chemistry,0,0,0
 e0b8a790,Pranav Sai,Bridgeland A,overall,2,0,8
 e0b8a790,Pranav Sai,Bridgeland A,other,2,0,8
 e0b8a790,Pranav Sai,Bridgeland A,ess,0,0,0
@@ -174,8 +174,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 1499be7b,Edward Han,BISV C,physics,0,0,0
 1499be7b,Akshaj Mishra,Bridgeland B,physics,1,0,4
 1499be7b,Jefferson,Bridgeland B,ess,1,0,4
-152fa6c0,Luke I,Punahou,overall,4,0,16
-152fa6c0,Luke I,Punahou,biology,4,0,16
+152fa6c0,Luke Itomura,Punahou,overall,4,0,16
+152fa6c0,Luke Itomura,Punahou,biology,4,0,16
 152fa6c0,Sanjeev,Collierville C,overall,4,1,12
 152fa6c0,Sanjeev,Collierville C,chemistry,1,0,4
 152fa6c0,Ty Dutoit,Punahou,overall,3,0,12
@@ -192,8 +192,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 152fa6c0,Isaac,Collierville C,other,0,0,0
 152fa6c0,Noah C,Punahou,physics,0,0,0
 152fa6c0,Ty Dutoit,Punahou,ess,0,0,0
-152fa6c0,Prathiksha,Collierville C,overall,0,0,0
-152fa6c0,Prathiksha,Collierville C,other,0,0,0
+152fa6c0,Prathiksha J,Collierville C,overall,0,0,0
+152fa6c0,Prathiksha J,Collierville C,other,0,0,0
 152fa6c0,Ty Dutoit,Punahou,other,2,0,8
 152fa6c0,Noah C,Punahou,chemistry,1,0,4
 152fa6c0,Noah C,Punahou,math,1,0,4
@@ -260,8 +260,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 74eeed2b,frank chen,Arcadia B,chemistry,1,0,4
 74eeed2b,Chris C,Arcadia B,overall,2,0,8
 74eeed2b,Chris C,Arcadia B,physics,1,0,4
-74eeed2b,Jamie W,Arcadia B,overall,0,0,0
-74eeed2b,Jamie W,Arcadia B,ess,0,0,0
+74eeed2b,Jamie W.,Arcadia B,overall,0,0,0
+74eeed2b,Jamie W.,Arcadia B,ess,0,0,0
 74eeed2b,Santhosh V,Collierville B,ess,2,0,8
 74eeed2b,Indhraneel G,Collierville B,overall,1,0,4
 74eeed2b,Indhraneel G,Collierville B,math,1,0,4
@@ -281,8 +281,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 74eeed2b,Chris C,Arcadia B,chemistry,1,0,4
 74eeed2b,Indhraneel G,Collierville B,physics,0,0,0
 74eeed2b,Tahmeed S,Collierville B,other,1,0,4
-88c63184,max,Jordan,overall,2,0,8
-88c63184,max,Jordan,biology,1,0,4
+88c63184,Max T,Jordan,overall,2,0,8
+88c63184,Max T,Jordan,biology,1,0,4
 88c63184,Arjun Pandey,BI Fremont HS,overall,6,0,24
 88c63184,Arjun Pandey,BI Fremont HS,chemistry,3,0,12
 88c63184,Kevin Chen,BI Fremont HS,overall,2,0,8
@@ -291,15 +291,15 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 88c63184,Aarnav Rudraraju,BI Fremont HS,ess,0,0,0
 88c63184,Brandon,Jordan,overall,2,0,8
 88c63184,Brandon,Jordan,ess,0,0,0
-88c63184,Avish,Jordan,overall,1,1,0
-88c63184,Avish,Jordan,other,0,0,0
+88c63184,Avish B,Jordan,overall,1,1,0
+88c63184,Avish B,Jordan,other,0,0,0
 88c63184,Arjun Pandey,BI Fremont HS,other,1,0,4
 88c63184,Arjun Pandey,BI Fremont HS,biology,1,0,4
 88c63184,Aarnav Rudraraju,BI Fremont HS,chemistry,0,0,0
 88c63184,Aarnav Rudraraju,BI Fremont HS,physics,0,1,-4
-88c63184,Avish,Jordan,physics,1,1,0
+88c63184,Avish B,Jordan,physics,1,1,0
 88c63184,Arjun Pandey,BI Fremont HS,math,1,0,4
-88c63184,max,Jordan,other,1,0,4
+88c63184,Max T,Jordan,other,1,0,4
 88c63184,Aarnav Rudraraju,BI Fremont HS,biology,1,0,4
 88c63184,Arjun Pandey,BI Fremont HS,ess,0,0,0
 88c63184,William Chen,Jordan,overall,1,0,4
@@ -325,8 +325,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 23503800,Rochan,Lambert,biology,1,0,4
 23503800,viren,Lambert,physics,2,0,8
 23503800,Rochan,Lambert,ess,0,0,0
-23503800,Prathiksha,Collierville C,overall,0,0,0
-23503800,Prathiksha,Collierville C,ess,0,0,0
+23503800,Prathiksha J,Collierville C,overall,0,0,0
+23503800,Prathiksha J,Collierville C,ess,0,0,0
 23503800,Shashank,Lambert,overall,3,0,12
 23503800,Shashank,Lambert,math,2,0,8
 23503800,Isaac,Collierville C,biology,0,0,0
@@ -364,8 +364,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 36a688cf,Edward Han,BISV C,physics,2,0,8
 36a688cf,Edward Han,BISV C,math,1,0,4
 36a688cf,Edward Han,BISV C,other,1,0,4
-36a688cf,Avish,Jordan,overall,2,0,8
-36a688cf,Avish,Jordan,other,1,0,4
+36a688cf,Avish B,Jordan,overall,2,0,8
+36a688cf,Avish B,Jordan,other,1,0,4
 36a688cf,Andrew Lao,BISV C,overall,1,0,4
 36a688cf,Andrew Lao,BISV C,biology,1,0,4
 36a688cf,Brandon,Jordan,overall,2,0,8
@@ -376,12 +376,12 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 36a688cf,Timothy Yu,BISV C,math,2,0,8
 36a688cf,Brandon,Jordan,biology,1,0,4
 36a688cf,Timothy Yu,BISV C,chemistry,0,0,0
-36a688cf,Avish,Jordan,ess,1,0,4
+36a688cf,Avish B,Jordan,ess,1,0,4
 36a688cf,Brandon,Jordan,other,1,0,4
 36a688cf,Timothy Yu,BISV C,biology,0,0,0
-36a688cf,max,Jordan,overall,0,0,0
-36a688cf,max,Jordan,biology,0,0,0
-36a688cf,Avish,Jordan,physics,0,0,0
+36a688cf,Max T,Jordan,overall,0,0,0
+36a688cf,Max T,Jordan,biology,0,0,0
+36a688cf,Avish B,Jordan,physics,0,0,0
 36a688cf,William Chen,Jordan,overall,1,0,4
 36a688cf,William Chen,Jordan,math,1,0,4
 5a9bf79f,frank chen,Arcadia B,overall,1,0,4
@@ -390,14 +390,14 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 5a9bf79f,Yihan J,Canyon Crest B,chemistry,0,0,0
 5a9bf79f,Teddy,Canyon Crest B,overall,2,0,8
 5a9bf79f,Teddy,Canyon Crest B,physics,1,0,4
-5a9bf79f,Jamie W,Arcadia B,overall,0,0,0
-5a9bf79f,Jamie W,Arcadia B,ess,0,0,0
+5a9bf79f,Jamie W.,Arcadia B,overall,0,0,0
+5a9bf79f,Jamie W.,Arcadia B,ess,0,0,0
 5a9bf79f,Gavin Yang,Canyon Crest B,overall,0,0,0
 5a9bf79f,Gavin Yang,Canyon Crest B,ess,0,0,0
 5a9bf79f,Yihan J,Canyon Crest B,math,0,0,0
 5a9bf79f,Chris C,Arcadia B,overall,3,0,12
 5a9bf79f,Chris C,Arcadia B,math,1,0,4
-5a9bf79f,Jamie W,Arcadia B,other,0,0,0
+5a9bf79f,Jamie W.,Arcadia B,other,0,0,0
 5a9bf79f,Gavin Yang,Canyon Crest B,other,0,0,0
 5a9bf79f,Teddy,Canyon Crest B,biology,0,0,0
 5a9bf79f,frank chen,Arcadia B,biology,1,0,4
@@ -428,8 +428,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 74587065,akshat m,TMSA,math,2,0,8
 74587065,Noah C,Punahou,overall,3,0,12
 74587065,Noah C,Punahou,other,1,0,4
-74587065,Luke I,Punahou,overall,2,0,8
-74587065,Luke I,Punahou,biology,2,0,8
+74587065,Luke Itomura,Punahou,overall,2,0,8
+74587065,Luke Itomura,Punahou,biology,2,0,8
 74587065,Ty Dutoit,Punahou,chemistry,0,0,0
 74587065,Noah C,Punahou,physics,1,0,4
 74587065,Praneel,TMSA,ess,0,0,0
@@ -474,14 +474,14 @@ cef82d1a,Santhosh V,Collierville B,math,0,0,0
 cef82d1a,Tahmeed S,Collierville B,other,1,0,4
 cef82d1a,Joshua,Bridgeland A,physics,0,0,0
 cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
-3f35ce03,max,Jordan,overall,1,0,4
-3f35ce03,max,Jordan,biology,1,0,4
+3f35ce03,Max T,Jordan,overall,1,0,4
+3f35ce03,Max T,Jordan,biology,1,0,4
 3f35ce03,jacob l,Collierville A,overall,0,1,-4
 3f35ce03,jacob l,Collierville A,chemistry,0,1,-4
 3f35ce03,Brandon,Jordan,overall,3,0,12
 3f35ce03,Brandon,Jordan,chemistry,2,0,8
-3f35ce03,Avish,Jordan,overall,0,0,0
-3f35ce03,Avish,Jordan,physics,0,0,0
+3f35ce03,Avish B,Jordan,overall,0,0,0
+3f35ce03,Avish B,Jordan,physics,0,0,0
 3f35ce03,Charith,Collierville A,overall,5,0,20
 3f35ce03,Charith,Collierville A,physics,2,0,8
 3f35ce03,jacob l,Collierville A,ess,0,0,0
@@ -513,8 +513,8 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 97f1551f,Kevin Chen,BI Fremont HS,math,1,0,4
 97f1551f,Arjun Pandey,BI Fremont HS,other,3,0,12
 97f1551f,Jefferson,Bridgeland B,chemistry,1,0,4
-97f1551f,Carson P,Bridgeland B,overall,0,0,0
-97f1551f,Carson P,Bridgeland B,physics,0,0,0
+97f1551f,Carson Postrigan,Bridgeland B,overall,0,0,0
+97f1551f,Carson Postrigan,Bridgeland B,physics,0,0,0
 97f1551f,Arjun Pandey,BI Fremont HS,math,0,0,0
 97f1551f,Jefferson,Bridgeland B,math,1,0,4
 97f1551f,Kartigan S,Bridgeland B,other,0,0,0
@@ -525,7 +525,7 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 97f1551f,Kevin Chen,BI Fremont HS,ess,1,0,4
 97f1551f,Kshitij,BI Fremont HS,math,0,1,-4
 97f1551f,Advaith B,Bridgeland B,math,2,0,8
-97f1551f,Carson P,Bridgeland B,chemistry,0,0,0
+97f1551f,Carson Postrigan,Bridgeland B,chemistry,0,0,0
 97f1551f,Aarnav Rudraraju,BI Fremont HS,overall,0,0,0
 97f1551f,Aarnav Rudraraju,BI Fremont HS,chemistry,0,0,0
 97f1551f,Joshua,Bridgeland B,overall,0,0,0
@@ -554,17 +554,17 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 014b1c7b,Edward Han,BISV C,physics,1,0,4
 014b1c7b,Charith,Collierville A,math,1,0,4
 014b1c7b,Andrew Lao,BISV C,chemistry,0,0,0
-43ce8010,max,Jordan,overall,1,0,4
-43ce8010,max,Jordan,biology,1,0,4
+43ce8010,Max T,Jordan,overall,1,0,4
+43ce8010,Max T,Jordan,biology,1,0,4
 43ce8010,Brandon,Jordan,overall,6,0,24
 43ce8010,Brandon,Jordan,chemistry,3,0,12
-43ce8010,Avish,Jordan,overall,0,0,0
-43ce8010,Avish,Jordan,physics,0,0,0
+43ce8010,Avish B,Jordan,overall,0,0,0
+43ce8010,Avish B,Jordan,physics,0,0,0
 43ce8010,Jefferson,Bridgeland B,overall,3,0,12
 43ce8010,Jefferson,Bridgeland B,physics,1,0,4
 43ce8010,Advaith B,Bridgeland B,overall,2,0,8
 43ce8010,Advaith B,Bridgeland B,ess,1,0,4
-43ce8010,Avish,Jordan,ess,0,0,0
+43ce8010,Avish B,Jordan,ess,0,0,0
 43ce8010,Jefferson,Bridgeland B,math,1,0,4
 43ce8010,Brandon,Jordan,other,1,0,4
 43ce8010,Pranav Sai,Bridgeland B,overall,1,0,4
@@ -579,7 +579,7 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 43ce8010,Advaith B,Bridgeland B,math,0,0,0
 43ce8010,William Chen,Jordan,overall,2,0,8
 43ce8010,William Chen,Jordan,math,2,0,8
-43ce8010,Avish,Jordan,other,0,0,0
+43ce8010,Avish B,Jordan,other,0,0,0
 43ce8010,Advaith B,Bridgeland B,other,1,0,4
 43ce8010,Jefferson,Bridgeland B,biology,1,0,4
 16b2317e,Kshitij,BI Fremont HS,overall,2,0,8
@@ -626,13 +626,13 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 5c5dac17,Tahmeed S,Collierville B,overall,2,0,8
 5c5dac17,Tahmeed S,Collierville B,other,1,0,4
 5c5dac17,jacob l,Collierville B,physics,0,0,0
-5c5dac17,Avish,Jordan,overall,1,0,4
-5c5dac17,Avish,Jordan,physics,1,0,4
-5c5dac17,Avish,Jordan,ess,0,0,0
+5c5dac17,Avish B,Jordan,overall,1,0,4
+5c5dac17,Avish B,Jordan,physics,1,0,4
+5c5dac17,Avish B,Jordan,ess,0,0,0
 5c5dac17,Tahmeed S,Collierville B,math,0,0,0
 5c5dac17,Brandon,Jordan,other,0,0,0
-5c5dac17,max,Jordan,overall,1,0,4
-5c5dac17,max,Jordan,biology,1,0,4
+5c5dac17,Max T,Jordan,overall,1,0,4
+5c5dac17,Max T,Jordan,biology,1,0,4
 5c5dac17,Brandon,Jordan,physics,1,0,4
 5c5dac17,Brandon,Jordan,ess,2,0,8
 5c5dac17,Brandon,Jordan,math,1,0,4
@@ -707,19 +707,19 @@ e806b260,Teddy,Canyon Crest B,other,1,0,4
 4c895740,Brandon,Jordan,other,0,0,0
 4c895740,Brandon,Jordan,biology,0,0,0
 4c895740,Brandon,Jordan,chemistry,2,0,8
-4c895740,Avish,Jordan,overall,3,0,12
-4c895740,Avish,Jordan,ess,1,0,4
+4c895740,Avish B,Jordan,overall,3,0,12
+4c895740,Avish B,Jordan,ess,1,0,4
 4c895740,viren,Lambert,other,0,0,0
-4c895740,Avish,Jordan,biology,0,0,0
+4c895740,Avish B,Jordan,biology,0,0,0
 4c895740,Frank,Lambert,overall,1,0,4
 4c895740,Frank,Lambert,chemistry,1,0,4
-4c895740,Avish,Jordan,physics,2,0,8
+4c895740,Avish B,Jordan,physics,2,0,8
 4c895740,Rochan,Lambert,biology,0,0,0
 4c895740,Shashank,Lambert,ess,0,0,0
 4c895740,Brandon,Jordan,ess,1,0,4
 4c895740,William Chen,Jordan,overall,0,1,-4
 4c895740,William Chen,Jordan,math,0,1,-4
-4c895740,Avish,Jordan,other,0,0,0
+4c895740,Avish B,Jordan,other,0,0,0
 4c895740,Shashank,Lambert,other,0,0,0
 8674dd7c,Santhosh V,Collierville B,overall,1,1,0
 8674dd7c,Santhosh V,Collierville B,biology,1,0,4
