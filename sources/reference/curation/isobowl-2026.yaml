@@ -1,7 +1,12 @@
-# ISOBowl events added 2026-10 (National Chemistry Bowl 2026, Mitosisphere Bio Bowl 2026, SMH 2026):
+# ISOBowl events added 2026-10 (ICSBT 3, National Chemistry Bowl 2026, Mitosisphere Bio Bowl 2026, SMH 2026):
 # online pickup teams with made-up names
-schools: []
+schools:
+  # ICSBT 3 (2026-10)
+  - {id: mcneil-high-school-tx, name: McNeil High School, short: McNeil, city: Austin, state: TX, aliases: [McNeil]}
 composite:
+  # ICSBT 3 (2026-10): online pickup / club teams
+  - {name: Clovis Clemens A, school: null}
+  - {name: Folsom City East A, school: null}
   - {name: "29", school: null}
   - {name: "Activation Energy", school: null}
   - {name: "Auraphilic", school: null}

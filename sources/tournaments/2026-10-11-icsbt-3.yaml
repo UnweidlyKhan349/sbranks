@@ -1,0 +1,23 @@
+id: 2026-10-11-icsbt-3
+name: ICSBT 3
+date: '2026-10-11'
+end_date: null
+season: 2026-27
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: icsbt-3
+  url: https://isobowl.com/premier/tournaments/icsbt-3
+parser: g1_isobowl:parse
+parser_options: {}
+status: parsed
+notes: 'ISOBowl API: games with per-question logs -> per-player per-subject stats.'

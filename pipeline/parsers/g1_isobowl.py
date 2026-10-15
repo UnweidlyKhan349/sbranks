@@ -138,8 +138,9 @@ def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = Non
     logs = {lg["gameId"]: lg["scorelog"] for lg in json.loads((d / "scorelogs.json").read_text())["logs"]}
 
     team_name = {tm["id"]: (team_names or {}).get(tm["name"].strip(), tm["name"].strip()) for tm in tour["teams"]}
+    playing = {g[k] for g in tour["games"] for k in ("teamAId", "teamBId")}
     for tm in tour["teams"]:
-        w.team(team_name[tm["id"]])
+        w.team(team_name[tm["id"]], notes="" if tm["id"] in playing else "registered on ISOBowl but played no recorded games")
     rounds = {r["id"]: r for r in tour["rounds"]}
     stage_of = {"pool": "rr", "playoff": "playoff", "consolation": "consolation"}
     stage_of.update(stage_map or {})

@@ -1579,6 +1579,13 @@
   state: KY
   aliases:
   - McCracken County High School
+- id: mcneil-high-school-tx
+  name: McNeil High School
+  short: McNeil
+  city: Austin
+  state: TX
+  aliases:
+  - McNeil
 - id: middlesex-county-academy-for-science-mathematics-and-engineering-technologies-nj
   name: Middlesex County Academy for Science, Mathematics and Engineering Technologies
   short: Middlesex County Academy

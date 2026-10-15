@@ -1,0 +1,1301 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+03fcd762,Doral Academy A,biology,18,8,10,2,0
+03fcd762,Doral Academy A,chemistry,14,4,10,1,0
+03fcd762,Doral Academy A,ess,4,4,0,1,0
+03fcd762,Doral Academy A,math,22,12,10,3,0
+03fcd762,Doral Academy A,physics,42,12,30,3,0
+03fcd762,University A,biology,8,8,0,2,0
+03fcd762,University A,chemistry,32,12,20,3,0
+03fcd762,University A,ess,32,12,20,3,0
+03fcd762,University A,math,-4,-4,0,0,1
+03fcd762,University A,physics,0,0,0,1,1
+108aae76,Folsom City East A,biology,0,0,0,1,1
+108aae76,Folsom City East A,chemistry,4,4,0,1,0
+108aae76,Folsom City East A,ess,4,4,0,1,0
+108aae76,Folsom City East A,math,4,4,0,1,0
+108aae76,Folsom City East A,physics,4,4,0,1,0
+108aae76,Green Hope A,biology,42,12,30,3,0
+108aae76,Green Hope A,chemistry,42,12,30,3,0
+108aae76,Green Hope A,ess,32,12,20,3,0
+108aae76,Green Hope A,math,0,0,0,1,1
+108aae76,Green Hope A,physics,24,4,20,2,1
+1891fd73,North Hollywood B,biology,42,12,30,3,0
+1891fd73,North Hollywood B,chemistry,32,12,20,3,0
+1891fd73,North Hollywood B,ess,10,0,10,1,1
+1891fd73,North Hollywood B,math,0,0,0,1,1
+1891fd73,North Hollywood B,physics,42,12,30,3,0
+1891fd73,Ward Melville High School A,biology,10,0,10,1,1
+1891fd73,Ward Melville High School A,chemistry,0,0,0,1,1
+1891fd73,Ward Melville High School A,ess,32,12,20,3,0
+1891fd73,Ward Melville High School A,math,28,8,20,2,0
+1891fd73,Ward Melville High School A,physics,14,4,10,1,0
+1c9607a5,Baton Rouge Magnet A,biology,26,16,10,4,0
+1c9607a5,Baton Rouge Magnet A,chemistry,46,16,30,4,0
+1c9607a5,Baton Rouge Magnet A,ess,36,16,20,4,0
+1c9607a5,Baton Rouge Magnet A,math,24,4,20,2,1
+1c9607a5,Baton Rouge Magnet A,physics,42,12,30,3,0
+1c9607a5,McNeil A,biology,0,0,0,0,0
+1c9607a5,McNeil A,chemistry,0,0,0,0,0
+1c9607a5,McNeil A,ess,0,0,0,0,0
+1c9607a5,McNeil A,math,14,4,10,1,0
+1c9607a5,McNeil A,physics,4,4,0,1,0
+21d4438d,BASIS Chandler A,biology,42,12,30,3,0
+21d4438d,BASIS Chandler A,chemistry,46,16,30,4,0
+21d4438d,BASIS Chandler A,ess,56,16,40,4,0
+21d4438d,BASIS Chandler A,math,38,8,30,3,1
+21d4438d,BASIS Chandler A,physics,38,8,30,3,1
+21d4438d,College Park B,biology,14,4,10,1,0
+21d4438d,College Park B,chemistry,0,0,0,0,0
+21d4438d,College Park B,ess,0,0,0,0,0
+21d4438d,College Park B,math,4,4,0,1,0
+21d4438d,College Park B,physics,0,0,0,0,0
+2f62d00d,Carmel A,biology,32,12,20,3,0
+2f62d00d,Carmel A,chemistry,28,8,20,2,0
+2f62d00d,Carmel A,ess,42,12,30,3,0
+2f62d00d,Carmel A,math,24,4,20,2,1
+2f62d00d,Carmel A,physics,-4,-4,0,0,1
+2f62d00d,North Allegheny A,biology,14,4,10,1,0
+2f62d00d,North Allegheny A,chemistry,28,8,20,2,0
+2f62d00d,North Allegheny A,ess,14,4,10,1,0
+2f62d00d,North Allegheny A,math,14,4,10,1,0
+2f62d00d,North Allegheny A,physics,56,16,40,4,0
+5a90ddd4,BASIS Independent Fremont A,biology,18,8,10,2,0
+5a90ddd4,BASIS Independent Fremont A,chemistry,-4,-4,0,0,1
+5a90ddd4,BASIS Independent Fremont A,ess,0,0,0,0,0
+5a90ddd4,BASIS Independent Fremont A,math,4,4,0,1,0
+5a90ddd4,BASIS Independent Fremont A,physics,0,0,0,0,0
+5a90ddd4,Carmel B,biology,14,4,10,2,1
+5a90ddd4,Carmel B,chemistry,28,8,20,3,1
+5a90ddd4,Carmel B,ess,46,16,30,4,0
+5a90ddd4,Carmel B,math,14,4,10,2,1
+5a90ddd4,Carmel B,physics,28,8,20,3,1
+5be559c9,Temple City A,biology,28,8,20,3,1
+5be559c9,Temple City A,chemistry,18,8,10,3,1
+5be559c9,Temple City A,ess,38,8,30,3,1
+5be559c9,Temple City A,math,4,4,0,1,0
+5be559c9,Temple City A,physics,24,4,20,2,1
+5be559c9,University B,biology,0,0,0,1,1
+5be559c9,University B,chemistry,14,4,10,1,0
+5be559c9,University B,ess,14,4,10,1,0
+5be559c9,University B,math,14,4,10,2,1
+5be559c9,University B,physics,28,8,20,2,0
+5c557c4c,Foothill A,biology,42,12,30,3,0
+5c557c4c,Foothill A,chemistry,18,8,10,2,0
+5c557c4c,Foothill A,ess,32,12,20,3,0
+5c557c4c,Foothill A,math,-4,-4,0,0,1
+5c557c4c,Foothill A,physics,0,0,0,1,1
+5c557c4c,Palo Alto A,biology,14,4,10,1,0
+5c557c4c,Palo Alto A,chemistry,28,8,20,2,0
+5c557c4c,Palo Alto A,ess,10,0,10,1,1
+5c557c4c,Palo Alto A,math,18,8,10,2,0
+5c557c4c,Palo Alto A,physics,32,12,20,3,0
+67c6e57c,Canyon Crest Academy A,biology,14,4,10,2,1
+67c6e57c,Canyon Crest Academy A,chemistry,0,0,0,0,0
+67c6e57c,Canyon Crest Academy A,ess,0,0,0,0,0
+67c6e57c,Canyon Crest Academy A,math,42,12,30,3,0
+67c6e57c,Canyon Crest Academy A,physics,14,4,10,1,0
+67c6e57c,Punahou A,biology,18,8,10,2,0
+67c6e57c,Punahou A,chemistry,46,16,30,4,0
+67c6e57c,Punahou A,ess,46,16,30,4,0
+67c6e57c,Punahou A,math,-4,-4,0,0,1
+67c6e57c,Punahou A,physics,4,4,0,1,0
+6d9d01b1,BASIS Chandler B,biology,0,0,0,0,0
+6d9d01b1,BASIS Chandler B,chemistry,28,8,20,2,0
+6d9d01b1,BASIS Chandler B,ess,0,0,0,1,1
+6d9d01b1,BASIS Chandler B,math,4,4,0,1,0
+6d9d01b1,BASIS Chandler B,physics,4,4,0,1,0
+6d9d01b1,Montgomery Blair A,biology,36,16,20,4,0
+6d9d01b1,Montgomery Blair A,chemistry,8,8,0,2,0
+6d9d01b1,Montgomery Blair A,ess,10,0,10,1,1
+6d9d01b1,Montgomery Blair A,math,10,0,10,1,1
+6d9d01b1,Montgomery Blair A,physics,24,4,20,2,1
+721c0c56,College Park A,biology,46,16,30,4,0
+721c0c56,College Park A,chemistry,38,8,30,3,1
+721c0c56,College Park A,ess,22,12,10,3,0
+721c0c56,College Park A,math,32,12,20,3,0
+721c0c56,College Park A,physics,28,8,20,3,1
+721c0c56,Doral Academy C,biology,-4,-4,0,0,1
+721c0c56,Doral Academy C,chemistry,0,0,0,0,0
+721c0c56,Doral Academy C,ess,0,0,0,0,0
+721c0c56,Doral Academy C,math,0,0,0,0,0
+721c0c56,Doral Academy C,physics,4,4,0,1,0
+8a8b1e6c,Obra D. Tompkins A,biology,22,12,10,3,0
+8a8b1e6c,Obra D. Tompkins A,chemistry,8,8,0,2,0
+8a8b1e6c,Obra D. Tompkins A,ess,4,4,0,1,0
+8a8b1e6c,Obra D. Tompkins A,math,-4,-4,0,0,1
+8a8b1e6c,Obra D. Tompkins A,physics,0,0,0,0,0
+8a8b1e6c,PRISMS A,biology,14,4,10,1,0
+8a8b1e6c,PRISMS A,chemistry,20,0,20,2,2
+8a8b1e6c,PRISMS A,ess,18,8,10,3,1
+8a8b1e6c,PRISMS A,math,14,4,10,2,1
+8a8b1e6c,PRISMS A,physics,42,12,30,3,0
+9ed2f1d5,Clements A,biology,18,8,10,2,0
+9ed2f1d5,Clements A,chemistry,4,4,0,1,0
+9ed2f1d5,Clements A,ess,10,0,10,1,1
+9ed2f1d5,Clements A,math,18,8,10,2,0
+9ed2f1d5,Clements A,physics,-4,-4,0,0,1
+9ed2f1d5,Niskayuna A,biology,28,8,20,2,0
+9ed2f1d5,Niskayuna A,chemistry,22,12,10,3,0
+9ed2f1d5,Niskayuna A,ess,8,8,0,2,0
+9ed2f1d5,Niskayuna A,math,24,4,20,2,1
+9ed2f1d5,Niskayuna A,physics,38,8,30,3,1
+a4fb7715,Clovis Clemens A,biology,28,8,20,3,1
+a4fb7715,Clovis Clemens A,chemistry,10,0,10,1,1
+a4fb7715,Clovis Clemens A,ess,24,4,20,2,1
+a4fb7715,Clovis Clemens A,math,46,16,30,4,0
+a4fb7715,Clovis Clemens A,physics,14,4,10,1,0
+a4fb7715,TJHSST A,biology,-8,-8,0,0,2
+a4fb7715,TJHSST A,chemistry,32,12,20,3,0
+a4fb7715,TJHSST A,ess,18,8,10,2,0
+a4fb7715,TJHSST A,math,0,0,0,0,0
+a4fb7715,TJHSST A,physics,22,12,10,3,0
+b1f416a4,BASIS Independent Silicon Valley B,biology,42,12,30,3,0
+b1f416a4,BASIS Independent Silicon Valley B,chemistry,56,16,40,4,0
+b1f416a4,BASIS Independent Silicon Valley B,ess,18,8,10,2,0
+b1f416a4,BASIS Independent Silicon Valley B,math,24,4,20,2,1
+b1f416a4,BASIS Independent Silicon Valley B,physics,46,16,30,4,0
+b1f416a4,North Hollywood A,biology,4,4,0,1,0
+b1f416a4,North Hollywood A,chemistry,0,0,0,0,0
+b1f416a4,North Hollywood A,ess,18,8,10,2,0
+b1f416a4,North Hollywood A,math,8,8,0,2,0
+b1f416a4,North Hollywood A,physics,-4,-4,0,0,1
+c7c99d29,Collierville A,biology,32,12,20,3,0
+c7c99d29,Collierville A,chemistry,10,0,10,1,1
+c7c99d29,Collierville A,ess,4,4,0,1,0
+c7c99d29,Collierville A,math,28,8,20,2,0
+c7c99d29,Collierville A,physics,-4,-4,0,0,1
+c7c99d29,Mission San Jose A,biology,0,0,0,1,1
+c7c99d29,Mission San Jose A,chemistry,32,12,20,3,0
+c7c99d29,Mission San Jose A,ess,38,8,30,3,1
+c7c99d29,Mission San Jose A,math,24,4,20,2,1
+c7c99d29,Mission San Jose A,physics,16,16,0,4,0
+c9a35e45,Frazer A,biology,-4,-4,0,0,1
+c9a35e45,Frazer A,chemistry,0,0,0,0,0
+c9a35e45,Frazer A,ess,32,12,20,3,0
+c9a35e45,Frazer A,math,38,8,30,3,1
+c9a35e45,Frazer A,physics,28,8,20,2,0
+c9a35e45,Mira Loma A,biology,36,16,20,4,0
+c9a35e45,Mira Loma A,chemistry,56,16,40,4,0
+c9a35e45,Mira Loma A,ess,10,0,10,1,1
+c9a35e45,Mira Loma A,math,0,0,0,0,0
+c9a35e45,Mira Loma A,physics,4,4,0,2,1
+d806786f,Deep Run A,biology,28,8,20,3,1
+d806786f,Deep Run A,chemistry,28,8,20,3,1
+d806786f,Deep Run A,ess,26,16,10,4,0
+d806786f,Deep Run A,math,38,8,30,3,1
+d806786f,Deep Run A,physics,14,4,10,2,1
+d806786f,Doral Academy B,biology,0,0,0,0,0
+d806786f,Doral Academy B,chemistry,0,0,0,0,0
+d806786f,Doral Academy B,ess,0,0,0,0,0
+d806786f,Doral Academy B,math,-4,-4,0,0,1
+d806786f,Doral Academy B,physics,18,8,10,2,0
+e105423c,Iolani A,biology,32,12,20,3,0
+e105423c,Iolani A,chemistry,42,12,30,3,0
+e105423c,Iolani A,ess,18,8,10,2,0
+e105423c,Iolani A,math,14,4,10,2,1
+e105423c,Iolani A,physics,28,8,20,3,1
+e105423c,Ward Melville High School B,biology,14,4,10,1,0
+e105423c,Ward Melville High School B,chemistry,-4,-4,0,0,1
+e105423c,Ward Melville High School B,ess,4,4,0,1,0
+e105423c,Ward Melville High School B,math,4,4,0,1,0
+e105423c,Ward Melville High School B,physics,0,0,0,0,0
+00f08c78,Carmel B,biology,14,4,10,1,0
+00f08c78,Carmel B,chemistry,38,8,30,3,1
+00f08c78,Carmel B,ess,32,12,20,3,0
+00f08c78,Carmel B,math,14,4,10,2,1
+00f08c78,Carmel B,physics,6,-4,10,1,2
+00f08c78,Collierville A,biology,42,12,30,3,0
+00f08c78,Collierville A,chemistry,14,4,10,1,0
+00f08c78,Collierville A,ess,-4,-4,0,0,1
+00f08c78,Collierville A,math,6,-4,10,1,2
+00f08c78,Collierville A,physics,4,4,0,2,1
+0775a34b,Foothill A,biology,0,0,0,0,0
+0775a34b,Foothill A,chemistry,28,8,20,2,0
+0775a34b,Foothill A,ess,24,4,20,2,1
+0775a34b,Foothill A,math,10,0,10,1,1
+0775a34b,Foothill A,physics,6,-4,10,1,2
+0775a34b,Montgomery Blair A,biology,38,8,30,3,1
+0775a34b,Montgomery Blair A,chemistry,14,4,10,1,0
+0775a34b,Montgomery Blair A,ess,0,0,0,1,1
+0775a34b,Montgomery Blair A,math,22,12,10,3,0
+0775a34b,Montgomery Blair A,physics,18,8,10,2,0
+1380e791,BASIS Chandler B,biology,0,0,0,0,0
+1380e791,BASIS Chandler B,chemistry,0,0,0,0,0
+1380e791,BASIS Chandler B,ess,-4,-4,0,0,1
+1380e791,BASIS Chandler B,math,0,0,0,0,0
+1380e791,BASIS Chandler B,physics,14,4,10,1,0
+1380e791,PRISMS A,biology,46,16,30,4,0
+1380e791,PRISMS A,chemistry,36,16,20,4,0
+1380e791,PRISMS A,ess,10,0,10,1,1
+1380e791,PRISMS A,math,22,12,10,3,0
+1380e791,PRISMS A,physics,8,8,0,3,1
+18ba658e,Frazer A,biology,14,4,10,2,1
+18ba658e,Frazer A,chemistry,0,0,0,0,0
+18ba658e,Frazer A,ess,4,4,0,1,0
+18ba658e,Frazer A,math,14,4,10,2,1
+18ba658e,Frazer A,physics,32,12,20,3,0
+18ba658e,Mission San Jose A,biology,8,8,0,2,0
+18ba658e,Mission San Jose A,chemistry,36,16,20,4,0
+18ba658e,Mission San Jose A,ess,38,8,30,3,1
+18ba658e,Mission San Jose A,math,10,0,10,1,1
+18ba658e,Mission San Jose A,physics,-4,-4,0,1,2
+33a2f442,North Allegheny A,biology,32,12,20,3,0
+33a2f442,North Allegheny A,chemistry,26,16,10,4,0
+33a2f442,North Allegheny A,ess,4,4,0,2,1
+33a2f442,North Allegheny A,math,-4,-4,0,0,1
+33a2f442,North Allegheny A,physics,4,4,0,2,1
+33a2f442,Ward Melville High School B,biology,14,4,10,1,0
+33a2f442,Ward Melville High School B,chemistry,-4,-4,0,0,1
+33a2f442,Ward Melville High School B,ess,14,4,10,2,1
+33a2f442,Ward Melville High School B,math,16,16,0,4,0
+33a2f442,Ward Melville High School B,physics,18,8,10,2,0
+3f1f5932,BASIS Chandler A,biology,14,4,10,2,1
+3f1f5932,BASIS Chandler A,chemistry,42,12,30,3,0
+3f1f5932,BASIS Chandler A,ess,28,8,20,3,1
+3f1f5932,BASIS Chandler A,math,32,12,20,3,0
+3f1f5932,BASIS Chandler A,physics,32,12,20,3,0
+3f1f5932,Canyon Crest Academy A,biology,14,4,10,1,0
+3f1f5932,Canyon Crest Academy A,chemistry,14,4,10,1,0
+3f1f5932,Canyon Crest Academy A,ess,0,0,0,0,0
+3f1f5932,Canyon Crest Academy A,math,10,0,10,1,1
+3f1f5932,Canyon Crest Academy A,physics,0,0,0,1,1
+4268e152,Obra D. Tompkins A,biology,8,8,0,2,0
+4268e152,Obra D. Tompkins A,chemistry,0,0,0,0,0
+4268e152,Obra D. Tompkins A,ess,4,4,0,1,0
+4268e152,Obra D. Tompkins A,math,22,12,10,3,0
+4268e152,Obra D. Tompkins A,physics,4,4,0,1,0
+4268e152,Palo Alto A,biology,4,4,0,2,1
+4268e152,Palo Alto A,chemistry,46,16,30,4,0
+4268e152,Palo Alto A,ess,6,-4,10,1,2
+4268e152,Palo Alto A,math,10,0,10,1,1
+4268e152,Palo Alto A,physics,18,8,10,3,1
+77cadaf1,Green Hope A,biology,28,8,20,2,0
+77cadaf1,Green Hope A,chemistry,10,0,10,1,1
+77cadaf1,Green Hope A,ess,0,0,0,1,1
+77cadaf1,Green Hope A,math,14,4,10,1,0
+77cadaf1,Green Hope A,physics,18,8,10,2,0
+77cadaf1,Iolani A,biology,18,8,10,2,0
+77cadaf1,Iolani A,chemistry,12,12,0,3,0
+77cadaf1,Iolani A,ess,22,12,10,3,0
+77cadaf1,Iolani A,math,18,8,10,3,1
+77cadaf1,Iolani A,physics,4,4,0,2,1
+8bb46ad4,Carmel A,biology,4,4,0,1,0
+8bb46ad4,Carmel A,chemistry,18,8,10,2,0
+8bb46ad4,Carmel A,ess,20,0,20,2,2
+8bb46ad4,Carmel A,math,8,8,0,2,0
+8bb46ad4,Carmel A,physics,6,-4,10,1,2
+8bb46ad4,Folsom City East A,biology,22,12,10,3,0
+8bb46ad4,Folsom City East A,chemistry,10,0,10,1,1
+8bb46ad4,Folsom City East A,ess,-4,-4,0,0,1
+8bb46ad4,Folsom City East A,math,0,0,0,0,0
+8bb46ad4,Folsom City East A,physics,4,4,0,1,0
+98bd90f7,BASIS Independent Silicon Valley B,biology,0,0,0,0,0
+98bd90f7,BASIS Independent Silicon Valley B,chemistry,18,8,10,3,1
+98bd90f7,BASIS Independent Silicon Valley B,ess,4,4,0,1,0
+98bd90f7,BASIS Independent Silicon Valley B,math,28,8,20,3,1
+98bd90f7,BASIS Independent Silicon Valley B,physics,36,16,20,4,0
+98bd90f7,Clements A,biology,22,12,10,3,0
+98bd90f7,Clements A,chemistry,-4,-4,0,0,1
+98bd90f7,Clements A,ess,10,0,10,1,1
+98bd90f7,Clements A,math,-4,-4,0,0,1
+98bd90f7,Clements A,physics,-4,-4,0,0,1
+a0073af9,North Hollywood B,biology,0,0,0,2,2
+a0073af9,North Hollywood B,chemistry,32,12,20,3,0
+a0073af9,North Hollywood B,ess,14,4,10,2,1
+a0073af9,North Hollywood B,math,0,0,0,1,1
+a0073af9,North Hollywood B,physics,18,8,10,3,1
+a0073af9,Punahou A,biology,18,8,10,2,0
+a0073af9,Punahou A,chemistry,4,4,0,1,0
+a0073af9,Punahou A,ess,20,0,20,2,2
+a0073af9,Punahou A,math,18,8,10,2,0
+a0073af9,Punahou A,physics,4,4,0,1,0
+b5701170,College Park B,biology,0,0,0,1,1
+b5701170,College Park B,chemistry,0,0,0,0,0
+b5701170,College Park B,ess,8,8,0,3,1
+b5701170,College Park B,math,-4,-4,0,0,1
+b5701170,College Park B,physics,0,0,0,0,0
+b5701170,Ward Melville High School A,biology,14,4,10,2,1
+b5701170,Ward Melville High School A,chemistry,46,16,30,4,0
+b5701170,Ward Melville High School A,ess,0,0,0,0,0
+b5701170,Ward Melville High School A,math,36,16,20,4,0
+b5701170,Ward Melville High School A,physics,32,12,20,3,0
+b9c8104c,Niskayuna A,biology,12,12,0,3,0
+b9c8104c,Niskayuna A,chemistry,-4,-4,0,0,1
+b9c8104c,Niskayuna A,ess,18,8,10,2,0
+b9c8104c,Niskayuna A,math,-4,-4,0,0,1
+b9c8104c,Niskayuna A,physics,8,8,0,2,0
+b9c8104c,University A,biology,4,4,0,1,0
+b9c8104c,University A,chemistry,28,8,20,3,1
+b9c8104c,University A,ess,4,4,0,1,0
+b9c8104c,University A,math,4,4,0,2,1
+b9c8104c,University A,physics,24,4,20,2,1
+cb1a7536,Doral Academy C,biology,14,4,10,1,0
+cb1a7536,Doral Academy C,chemistry,4,4,0,1,0
+cb1a7536,Doral Academy C,ess,4,4,0,1,0
+cb1a7536,Doral Academy C,math,8,8,0,2,0
+cb1a7536,Doral Academy C,physics,-4,-4,0,0,1
+cb1a7536,TJHSST A,biology,4,4,0,1,0
+cb1a7536,TJHSST A,chemistry,38,8,30,3,1
+cb1a7536,TJHSST A,ess,24,4,20,2,1
+cb1a7536,TJHSST A,math,0,0,0,1,1
+cb1a7536,TJHSST A,physics,32,12,20,3,0
+d0a64a83,BASIS Independent Fremont A,biology,4,4,0,1,0
+d0a64a83,BASIS Independent Fremont A,chemistry,0,0,0,0,0
+d0a64a83,BASIS Independent Fremont A,ess,4,4,0,1,0
+d0a64a83,BASIS Independent Fremont A,math,0,0,0,0,0
+d0a64a83,BASIS Independent Fremont A,physics,0,0,0,0,0
+d0a64a83,Mira Loma A,biology,28,8,20,3,1
+d0a64a83,Mira Loma A,chemistry,36,16,20,4,0
+d0a64a83,Mira Loma A,ess,18,8,10,2,0
+d0a64a83,Mira Loma A,math,18,8,10,3,1
+d0a64a83,Mira Loma A,physics,16,16,0,4,0
+d8546281,College Park A,biology,14,4,10,1,0
+d8546281,College Park A,chemistry,22,12,10,3,0
+d8546281,College Park A,ess,4,4,0,2,1
+d8546281,College Park A,math,0,0,0,1,1
+d8546281,College Park A,physics,4,4,0,2,1
+d8546281,University B,biology,22,12,10,3,0
+d8546281,University B,chemistry,14,4,10,1,0
+d8546281,University B,ess,8,8,0,2,0
+d8546281,University B,math,28,8,20,2,0
+d8546281,University B,physics,18,8,10,2,0
+dd85afe6,Clovis Clemens A,biology,46,16,30,4,0
+dd85afe6,Clovis Clemens A,chemistry,36,16,20,4,0
+dd85afe6,Clovis Clemens A,ess,28,8,20,2,0
+dd85afe6,Clovis Clemens A,math,38,8,30,3,1
+dd85afe6,Clovis Clemens A,physics,18,8,10,2,0
+dd85afe6,Temple City A,biology,-8,-8,0,0,2
+dd85afe6,Temple City A,chemistry,-4,-4,0,0,1
+dd85afe6,Temple City A,ess,20,0,20,2,2
+dd85afe6,Temple City A,math,4,4,0,1,0
+dd85afe6,Temple City A,physics,10,0,10,2,2
+e86e0f25,Doral Academy A,biology,26,16,10,4,0
+e86e0f25,Doral Academy A,chemistry,14,4,10,1,0
+e86e0f25,Doral Academy A,ess,-8,-8,0,0,2
+e86e0f25,Doral Academy A,math,28,8,20,2,0
+e86e0f25,Doral Academy A,physics,24,4,20,2,1
+e86e0f25,North Hollywood A,biology,0,0,0,0,0
+e86e0f25,North Hollywood A,chemistry,4,4,0,1,0
+e86e0f25,North Hollywood A,ess,0,0,0,1,1
+e86e0f25,North Hollywood A,math,14,4,10,2,1
+e86e0f25,North Hollywood A,physics,4,4,0,1,0
+ed09ba85,Doral Academy B,biology,18,8,10,2,0
+ed09ba85,Doral Academy B,chemistry,18,8,10,2,0
+ed09ba85,Doral Academy B,ess,4,4,0,1,0
+ed09ba85,Doral Academy B,math,14,4,10,2,1
+ed09ba85,Doral Academy B,physics,-4,-4,0,1,2
+ed09ba85,McNeil A,biology,0,0,0,0,0
+ed09ba85,McNeil A,chemistry,0,0,0,0,0
+ed09ba85,McNeil A,ess,8,8,0,2,0
+ed09ba85,McNeil A,math,8,8,0,2,0
+ed09ba85,McNeil A,physics,14,4,10,2,1
+f0d1fe00,BASIS Independent Silicon Valley A,biology,4,4,0,1,0
+f0d1fe00,BASIS Independent Silicon Valley A,chemistry,0,0,0,0,0
+f0d1fe00,BASIS Independent Silicon Valley A,ess,0,0,0,0,0
+f0d1fe00,BASIS Independent Silicon Valley A,math,8,8,0,2,0
+f0d1fe00,BASIS Independent Silicon Valley A,physics,24,4,20,2,1
+f0d1fe00,Baton Rouge Magnet A,biology,0,0,0,1,1
+f0d1fe00,Baton Rouge Magnet A,chemistry,36,16,20,4,0
+f0d1fe00,Baton Rouge Magnet A,ess,56,16,40,4,0
+f0d1fe00,Baton Rouge Magnet A,math,14,4,10,2,1
+f0d1fe00,Baton Rouge Magnet A,physics,0,0,0,2,2
+00b32ccb,BASIS Chandler A,biology,6,-4,10,1,2
+00b32ccb,BASIS Chandler A,chemistry,0,0,0,1,1
+00b32ccb,BASIS Chandler A,ess,6,-4,10,1,2
+00b32ccb,BASIS Chandler A,math,4,4,0,1,0
+00b32ccb,BASIS Chandler A,physics,42,12,30,3,0
+00b32ccb,North Hollywood B,biology,22,12,10,3,0
+00b32ccb,North Hollywood B,chemistry,38,8,30,3,1
+00b32ccb,North Hollywood B,ess,32,12,20,3,0
+00b32ccb,North Hollywood B,math,4,4,0,1,0
+00b32ccb,North Hollywood B,physics,-4,-4,0,0,1
+018f1b30,Clements A,biology,14,4,10,1,0
+018f1b30,Clements A,chemistry,12,12,0,3,0
+018f1b30,Clements A,ess,8,8,0,2,0
+018f1b30,Clements A,math,4,4,0,1,0
+018f1b30,Clements A,physics,14,4,10,1,0
+018f1b30,North Hollywood A,biology,22,12,10,3,0
+018f1b30,North Hollywood A,chemistry,4,4,0,1,0
+018f1b30,North Hollywood A,ess,4,4,0,1,0
+018f1b30,North Hollywood A,math,32,12,20,3,0
+018f1b30,North Hollywood A,physics,10,0,10,1,1
+2e2dbd5e,Clovis Clemens A,biology,56,16,40,4,0
+2e2dbd5e,Clovis Clemens A,chemistry,20,0,20,2,2
+2e2dbd5e,Clovis Clemens A,ess,56,16,40,4,0
+2e2dbd5e,Clovis Clemens A,math,28,8,20,2,0
+2e2dbd5e,Clovis Clemens A,physics,-8,-8,0,0,2
+2e2dbd5e,University B,biology,-8,-8,0,0,2
+2e2dbd5e,University B,chemistry,18,8,10,2,0
+2e2dbd5e,University B,ess,0,0,0,0,0
+2e2dbd5e,University B,math,4,4,0,1,0
+2e2dbd5e,University B,physics,10,0,10,1,1
+344408c0,Collierville A,biology,12,12,0,3,0
+344408c0,Collierville A,chemistry,24,4,20,2,1
+344408c0,Collierville A,ess,0,0,0,0,0
+344408c0,Collierville A,math,14,4,10,1,0
+344408c0,Collierville A,physics,42,12,30,3,0
+344408c0,Frazer A,biology,0,0,0,0,0
+344408c0,Frazer A,chemistry,10,0,10,1,1
+344408c0,Frazer A,ess,36,16,20,4,0
+344408c0,Frazer A,math,32,12,20,3,0
+344408c0,Frazer A,physics,4,4,0,1,0
+358885b9,Doral Academy C,biology,0,0,0,1,1
+358885b9,Doral Academy C,chemistry,0,0,0,1,1
+358885b9,Doral Academy C,ess,0,0,0,0,0
+358885b9,Doral Academy C,math,0,0,0,1,1
+358885b9,Doral Academy C,physics,-4,-4,0,0,1
+358885b9,Temple City A,biology,2,-8,10,1,3
+358885b9,Temple City A,chemistry,28,8,20,2,0
+358885b9,Temple City A,ess,56,16,40,4,0
+358885b9,Temple City A,math,4,4,0,1,0
+358885b9,Temple City A,physics,32,12,20,3,0
+46cb557b,Iolani A,biology,22,12,10,3,0
+46cb557b,Iolani A,chemistry,32,12,20,3,0
+46cb557b,Iolani A,ess,18,8,10,2,0
+46cb557b,Iolani A,math,4,4,0,1,0
+46cb557b,Iolani A,physics,0,0,0,1,1
+46cb557b,North Allegheny A,biology,0,0,0,1,1
+46cb557b,North Allegheny A,chemistry,14,4,10,1,0
+46cb557b,North Allegheny A,ess,4,4,0,1,0
+46cb557b,North Allegheny A,math,4,4,0,1,0
+46cb557b,North Allegheny A,physics,22,12,10,3,0
+499ed649,Carmel B,biology,4,4,0,1,0
+499ed649,Carmel B,chemistry,28,8,20,2,0
+499ed649,Carmel B,ess,42,12,30,3,0
+499ed649,Carmel B,math,28,8,20,2,0
+499ed649,Carmel B,physics,18,8,10,2,0
+499ed649,Mira Loma A,biology,12,12,0,3,0
+499ed649,Mira Loma A,chemistry,24,4,20,2,1
+499ed649,Mira Loma A,ess,14,4,10,1,0
+499ed649,Mira Loma A,math,14,4,10,1,0
+499ed649,Mira Loma A,physics,10,0,10,1,1
+4ea747ba,BASIS Chandler B,biology,0,0,0,0,0
+4ea747ba,BASIS Chandler B,chemistry,4,4,0,1,0
+4ea747ba,BASIS Chandler B,ess,0,0,0,0,0
+4ea747ba,BASIS Chandler B,math,0,0,0,0,0
+4ea747ba,BASIS Chandler B,physics,0,0,0,0,0
+4ea747ba,Palo Alto A,biology,14,4,10,2,1
+4ea747ba,Palo Alto A,chemistry,24,4,20,2,1
+4ea747ba,Palo Alto A,ess,46,16,30,4,0
+4ea747ba,Palo Alto A,math,0,0,0,0,0
+4ea747ba,Palo Alto A,physics,22,12,10,3,0
+5bb5503d,Doral Academy A,biology,28,8,20,2,0
+5bb5503d,Doral Academy A,chemistry,18,8,10,2,0
+5bb5503d,Doral Academy A,ess,14,4,10,2,1
+5bb5503d,Doral Academy A,math,28,8,20,2,0
+5bb5503d,Doral Academy A,physics,42,12,30,3,0
+5bb5503d,Niskayuna A,biology,4,4,0,1,0
+5bb5503d,Niskayuna A,chemistry,0,0,0,0,0
+5bb5503d,Niskayuna A,ess,4,4,0,1,0
+5bb5503d,Niskayuna A,math,-4,-4,0,0,1
+5bb5503d,Niskayuna A,physics,4,4,0,1,0
+6230b79f,Canyon Crest Academy A,biology,22,12,10,3,0
+6230b79f,Canyon Crest Academy A,chemistry,14,4,10,2,1
+6230b79f,Canyon Crest Academy A,ess,22,12,10,3,0
+6230b79f,Canyon Crest Academy A,math,0,0,0,0,0
+6230b79f,Canyon Crest Academy A,physics,10,0,10,1,1
+6230b79f,College Park B,biology,0,0,0,0,0
+6230b79f,College Park B,chemistry,0,0,0,0,0
+6230b79f,College Park B,ess,0,0,0,0,0
+6230b79f,College Park B,math,4,4,0,1,0
+6230b79f,College Park B,physics,-8,-8,0,0,2
+65ce3234,Carmel A,biology,14,4,10,2,1
+65ce3234,Carmel A,chemistry,8,8,0,2,0
+65ce3234,Carmel A,ess,18,8,10,2,0
+65ce3234,Carmel A,math,4,4,0,1,0
+65ce3234,Carmel A,physics,-4,-4,0,1,2
+65ce3234,Green Hope A,biology,-8,-8,0,0,2
+65ce3234,Green Hope A,chemistry,4,4,0,1,0
+65ce3234,Green Hope A,ess,6,-4,10,1,2
+65ce3234,Green Hope A,math,0,0,0,0,0
+65ce3234,Green Hope A,physics,28,8,20,2,0
+a120f37e,College Park A,biology,14,4,10,2,1
+a120f37e,College Park A,chemistry,14,4,10,1,0
+a120f37e,College Park A,ess,-8,-8,0,0,2
+a120f37e,College Park A,math,4,4,0,1,0
+a120f37e,College Park A,physics,-8,-8,0,0,2
+a120f37e,TJHSST A,biology,-4,-4,0,0,1
+a120f37e,TJHSST A,chemistry,32,12,20,3,0
+a120f37e,TJHSST A,ess,46,16,30,4,0
+a120f37e,TJHSST A,math,0,0,0,0,0
+a120f37e,TJHSST A,physics,28,8,20,2,0
+a167b9e1,Folsom City East A,biology,36,16,20,4,0
+a167b9e1,Folsom City East A,chemistry,4,4,0,1,0
+a167b9e1,Folsom City East A,ess,0,0,0,0,0
+a167b9e1,Folsom City East A,math,0,0,0,0,0
+a167b9e1,Folsom City East A,physics,18,8,10,2,0
+a167b9e1,Ward Melville High School B,biology,-4,-4,0,0,1
+a167b9e1,Ward Melville High School B,chemistry,18,8,10,2,0
+a167b9e1,Ward Melville High School B,ess,42,12,30,3,0
+a167b9e1,Ward Melville High School B,math,4,4,0,1,0
+a167b9e1,Ward Melville High School B,physics,14,4,10,1,0
+a2f7169e,BASIS Independent Silicon Valley A,biology,0,0,0,0,0
+a2f7169e,BASIS Independent Silicon Valley A,chemistry,42,12,30,3,0
+a2f7169e,BASIS Independent Silicon Valley A,ess,14,4,10,1,0
+a2f7169e,BASIS Independent Silicon Valley A,math,0,0,0,0,0
+a2f7169e,BASIS Independent Silicon Valley A,physics,26,16,10,4,0
+a2f7169e,Doral Academy B,biology,4,4,0,1,0
+a2f7169e,Doral Academy B,chemistry,0,0,0,0,0
+a2f7169e,Doral Academy B,ess,18,8,10,2,0
+a2f7169e,Doral Academy B,math,0,0,0,0,0
+a2f7169e,Doral Academy B,physics,-4,-4,0,0,1
+b6a37669,Deep Run A,biology,22,12,10,3,0
+b6a37669,Deep Run A,chemistry,18,8,10,2,0
+b6a37669,Deep Run A,ess,14,4,10,1,0
+b6a37669,Deep Run A,math,28,8,20,3,1
+b6a37669,Deep Run A,physics,20,0,20,2,2
+b6a37669,McNeil A,biology,0,0,0,0,0
+b6a37669,McNeil A,chemistry,4,4,0,1,0
+b6a37669,McNeil A,ess,8,8,0,2,0
+b6a37669,McNeil A,math,0,0,0,0,0
+b6a37669,McNeil A,physics,0,0,0,1,1
+ba7865a7,Montgomery Blair A,biology,-4,-4,0,0,1
+ba7865a7,Montgomery Blair A,chemistry,-4,-4,0,1,2
+ba7865a7,Montgomery Blair A,ess,32,12,20,3,0
+ba7865a7,Montgomery Blair A,math,10,0,10,2,2
+ba7865a7,Montgomery Blair A,physics,10,0,10,1,1
+ba7865a7,PRISMS A,biology,56,16,40,4,0
+ba7865a7,PRISMS A,chemistry,38,8,30,3,1
+ba7865a7,PRISMS A,ess,4,4,0,1,0
+ba7865a7,PRISMS A,math,0,0,0,0,0
+ba7865a7,PRISMS A,physics,-8,-8,0,1,3
+c6cb370b,Foothill A,biology,4,4,0,1,0
+c6cb370b,Foothill A,chemistry,22,12,10,3,0
+c6cb370b,Foothill A,ess,12,12,0,3,0
+c6cb370b,Foothill A,math,42,12,30,3,0
+c6cb370b,Foothill A,physics,6,-4,10,1,2
+c6cb370b,Obra D. Tompkins A,biology,18,8,10,2,0
+c6cb370b,Obra D. Tompkins A,chemistry,4,4,0,1,0
+c6cb370b,Obra D. Tompkins A,ess,0,0,0,0,0
+c6cb370b,Obra D. Tompkins A,math,0,0,0,0,0
+c6cb370b,Obra D. Tompkins A,physics,4,4,0,1,0
+ca602dec,BASIS Independent Silicon Valley B,biology,0,0,0,0,0
+ca602dec,BASIS Independent Silicon Valley B,chemistry,32,12,20,3,0
+ca602dec,BASIS Independent Silicon Valley B,ess,22,12,10,3,0
+ca602dec,BASIS Independent Silicon Valley B,math,4,4,0,1,0
+ca602dec,BASIS Independent Silicon Valley B,physics,32,12,20,3,0
+ca602dec,University A,biology,22,12,10,3,0
+ca602dec,University A,chemistry,-12,-12,0,0,3
+ca602dec,University A,ess,0,0,0,0,0
+ca602dec,University A,math,4,4,0,1,0
+ca602dec,University A,physics,0,0,0,1,1
+eb26ba8d,BASIS Independent Fremont A,biology,-4,-4,0,0,1
+eb26ba8d,BASIS Independent Fremont A,chemistry,14,4,10,1,0
+eb26ba8d,BASIS Independent Fremont A,ess,0,0,0,0,0
+eb26ba8d,BASIS Independent Fremont A,math,0,0,0,0,0
+eb26ba8d,BASIS Independent Fremont A,physics,4,4,0,1,0
+eb26ba8d,Mission San Jose A,biology,18,8,10,3,1
+eb26ba8d,Mission San Jose A,chemistry,0,0,0,1,1
+eb26ba8d,Mission San Jose A,ess,56,16,40,4,0
+eb26ba8d,Mission San Jose A,math,28,8,20,2,0
+eb26ba8d,Mission San Jose A,physics,10,0,10,1,1
+eebdb65b,Punahou A,biology,0,0,0,0,0
+eebdb65b,Punahou A,chemistry,24,4,20,2,1
+eebdb65b,Punahou A,ess,32,12,20,3,0
+eebdb65b,Punahou A,math,0,0,0,0,0
+eebdb65b,Punahou A,physics,-8,-8,0,0,2
+eebdb65b,Ward Melville High School A,biology,28,8,20,3,1
+eebdb65b,Ward Melville High School A,chemistry,10,0,10,1,1
+eebdb65b,Ward Melville High School A,ess,10,0,10,1,1
+eebdb65b,Ward Melville High School A,math,18,8,10,2,0
+eebdb65b,Ward Melville High School A,physics,28,8,20,2,0
+28177fed,PRISMS A,biology,56,16,40,4,0
+28177fed,PRISMS A,chemistry,14,4,10,2,1
+28177fed,PRISMS A,ess,4,4,0,1,0
+28177fed,PRISMS A,math,4,4,0,1,0
+28177fed,PRISMS A,physics,22,12,10,3,0
+28177fed,Palo Alto A,biology,0,0,0,0,0
+28177fed,Palo Alto A,chemistry,6,-4,10,1,2
+28177fed,Palo Alto A,ess,42,12,30,3,0
+28177fed,Palo Alto A,math,28,8,20,2,0
+28177fed,Palo Alto A,physics,14,4,10,1,0
+2f25fd27,Carmel B,biology,18,8,10,2,0
+2f25fd27,Carmel B,chemistry,28,8,20,2,0
+2f25fd27,Carmel B,ess,10,0,10,1,1
+2f25fd27,Carmel B,math,28,8,20,3,1
+2f25fd27,Carmel B,physics,14,4,10,2,1
+2f25fd27,Mission San Jose A,biology,24,4,20,2,1
+2f25fd27,Mission San Jose A,chemistry,24,4,20,2,1
+2f25fd27,Mission San Jose A,ess,28,8,20,3,1
+2f25fd27,Mission San Jose A,math,0,0,0,0,0
+2f25fd27,Mission San Jose A,physics,18,8,10,2,0
+2f332182,Niskayuna A,biology,0,0,0,0,0
+2f332182,Niskayuna A,chemistry,-4,-4,0,0,1
+2f332182,Niskayuna A,ess,32,12,20,3,0
+2f332182,Niskayuna A,math,0,0,0,0,0
+2f332182,Niskayuna A,physics,32,12,20,3,0
+2f332182,North Hollywood A,biology,14,4,10,2,1
+2f332182,North Hollywood A,chemistry,32,12,20,3,0
+2f332182,North Hollywood A,ess,0,0,0,0,0
+2f332182,North Hollywood A,math,4,4,0,1,0
+2f332182,North Hollywood A,physics,14,4,10,1,0
+3299c4ed,Collierville A,biology,14,4,10,1,0
+3299c4ed,Collierville A,chemistry,38,8,30,3,1
+3299c4ed,Collierville A,ess,28,8,20,2,0
+3299c4ed,Collierville A,math,28,8,20,2,0
+3299c4ed,Collierville A,physics,14,4,10,2,1
+3299c4ed,Mira Loma A,biology,24,4,20,2,1
+3299c4ed,Mira Loma A,chemistry,10,0,10,1,1
+3299c4ed,Mira Loma A,ess,8,8,0,2,0
+3299c4ed,Mira Loma A,math,4,4,0,1,0
+3299c4ed,Mira Loma A,physics,8,8,0,2,0
+34233e2a,BASIS Independent Silicon Valley B,biology,8,8,0,2,0
+34233e2a,BASIS Independent Silicon Valley B,chemistry,10,0,10,2,2
+34233e2a,BASIS Independent Silicon Valley B,ess,42,12,30,3,0
+34233e2a,BASIS Independent Silicon Valley B,math,14,4,10,2,1
+34233e2a,BASIS Independent Silicon Valley B,physics,10,0,10,1,1
+34233e2a,Doral Academy A,biology,14,4,10,1,0
+34233e2a,Doral Academy A,chemistry,14,4,10,1,0
+34233e2a,Doral Academy A,ess,0,0,0,0,0
+34233e2a,Doral Academy A,math,14,4,10,1,0
+34233e2a,Doral Academy A,physics,42,12,30,3,0
+3c0c29fb,Clements A,biology,10,0,10,2,2
+3c0c29fb,Clements A,chemistry,4,4,0,1,0
+3c0c29fb,Clements A,ess,0,0,0,0,0
+3c0c29fb,Clements A,math,0,0,0,0,0
+3c0c29fb,Clements A,physics,8,8,0,2,0
+3c0c29fb,University A,biology,18,8,10,2,0
+3c0c29fb,University A,chemistry,38,8,30,3,1
+3c0c29fb,University A,ess,14,4,10,1,0
+3c0c29fb,University A,math,-4,-4,0,0,1
+3c0c29fb,University A,physics,8,8,0,2,0
+3e5d326e,Folsom City East A,biology,10,0,10,1,1
+3e5d326e,Folsom City East A,chemistry,4,4,0,1,0
+3e5d326e,Folsom City East A,ess,0,0,0,0,0
+3e5d326e,Folsom City East A,math,0,0,0,0,0
+3e5d326e,Folsom City East A,physics,4,4,0,1,0
+3e5d326e,North Allegheny A,biology,8,8,0,2,0
+3e5d326e,North Allegheny A,chemistry,0,0,0,2,2
+3e5d326e,North Allegheny A,ess,0,0,0,0,0
+3e5d326e,North Allegheny A,math,4,4,0,1,0
+3e5d326e,North Allegheny A,physics,0,0,0,1,1
+3ef01713,Doral Academy C,biology,0,0,0,0,0
+3ef01713,Doral Academy C,chemistry,14,4,10,1,0
+3ef01713,Doral Academy C,ess,0,0,0,0,0
+3ef01713,Doral Academy C,math,4,4,0,1,0
+3ef01713,Doral Academy C,physics,14,4,10,1,0
+3ef01713,University B,biology,0,0,0,1,1
+3ef01713,University B,chemistry,10,0,10,1,1
+3ef01713,University B,ess,-4,-4,0,1,2
+3ef01713,University B,math,4,4,0,2,1
+3ef01713,University B,physics,32,12,20,3,0
+4820f546,Baton Rouge Magnet A,biology,4,4,0,1,0
+4820f546,Baton Rouge Magnet A,chemistry,-8,-8,0,0,2
+4820f546,Baton Rouge Magnet A,ess,46,16,30,4,0
+4820f546,Baton Rouge Magnet A,math,14,4,10,1,0
+4820f546,Baton Rouge Magnet A,physics,28,8,20,2,0
+4820f546,Deep Run A,biology,6,-4,10,1,2
+4820f546,Deep Run A,chemistry,56,16,40,4,0
+4820f546,Deep Run A,ess,0,0,0,0,0
+4820f546,Deep Run A,math,22,12,10,3,0
+4820f546,Deep Run A,physics,4,4,0,2,1
+486662a9,BASIS Independent Silicon Valley A,biology,4,4,0,1,0
+486662a9,BASIS Independent Silicon Valley A,chemistry,28,8,20,3,1
+486662a9,BASIS Independent Silicon Valley A,ess,0,0,0,1,1
+486662a9,BASIS Independent Silicon Valley A,math,8,8,0,2,0
+486662a9,BASIS Independent Silicon Valley A,physics,32,12,20,3,0
+486662a9,McNeil A,biology,14,4,10,2,1
+486662a9,McNeil A,chemistry,0,0,0,0,0
+486662a9,McNeil A,ess,0,0,0,1,1
+486662a9,McNeil A,math,4,4,0,1,0
+486662a9,McNeil A,physics,4,4,0,1,0
+7578b156,College Park B,biology,0,0,0,1,1
+7578b156,College Park B,chemistry,0,0,0,0,0
+7578b156,College Park B,ess,0,0,0,0,0
+7578b156,College Park B,math,0,0,0,0,0
+7578b156,College Park B,physics,0,0,0,0,0
+7578b156,North Hollywood B,biology,6,-4,10,1,2
+7578b156,North Hollywood B,chemistry,46,16,30,4,0
+7578b156,North Hollywood B,ess,36,16,20,4,0
+7578b156,North Hollywood B,math,4,4,0,1,0
+7578b156,North Hollywood B,physics,36,16,20,4,0
+7cda8575,BASIS Chandler B,biology,0,0,0,0,0
+7cda8575,BASIS Chandler B,chemistry,18,8,10,2,0
+7cda8575,BASIS Chandler B,ess,-4,-4,0,0,1
+7cda8575,BASIS Chandler B,math,0,0,0,0,0
+7cda8575,BASIS Chandler B,physics,8,8,0,2,0
+7cda8575,Foothill A,biology,14,4,10,2,1
+7cda8575,Foothill A,chemistry,6,-4,10,1,2
+7cda8575,Foothill A,ess,32,12,20,3,0
+7cda8575,Foothill A,math,14,4,10,1,0
+7cda8575,Foothill A,physics,6,-4,10,1,2
+89cf9974,BASIS Chandler A,biology,36,16,20,4,0
+89cf9974,BASIS Chandler A,chemistry,-8,-8,0,0,2
+89cf9974,BASIS Chandler A,ess,32,12,20,3,0
+89cf9974,BASIS Chandler A,math,14,4,10,1,0
+89cf9974,BASIS Chandler A,physics,14,4,10,1,0
+89cf9974,Punahou A,biology,0,0,0,0,0
+89cf9974,Punahou A,chemistry,20,0,20,2,2
+89cf9974,Punahou A,ess,10,0,10,1,1
+89cf9974,Punahou A,math,0,0,0,0,0
+89cf9974,Punahou A,physics,32,12,20,3,0
+988ea01f,BASIS Independent Fremont A,biology,4,4,0,1,0
+988ea01f,BASIS Independent Fremont A,chemistry,-4,-4,0,0,1
+988ea01f,BASIS Independent Fremont A,ess,0,0,0,0,0
+988ea01f,BASIS Independent Fremont A,math,0,0,0,0,0
+988ea01f,BASIS Independent Fremont A,physics,0,0,0,0,0
+988ea01f,Frazer A,biology,4,4,0,1,0
+988ea01f,Frazer A,chemistry,22,12,10,3,0
+988ea01f,Frazer A,ess,18,8,10,2,0
+988ea01f,Frazer A,math,14,4,10,2,1
+988ea01f,Frazer A,physics,36,16,20,4,0
+a1bfb464,Canyon Crest Academy A,biology,6,-4,10,1,2
+a1bfb464,Canyon Crest Academy A,chemistry,14,4,10,1,0
+a1bfb464,Canyon Crest Academy A,ess,18,8,10,2,0
+a1bfb464,Canyon Crest Academy A,math,0,0,0,0,0
+a1bfb464,Canyon Crest Academy A,physics,8,8,0,2,0
+a1bfb464,Ward Melville High School A,biology,18,8,10,3,1
+a1bfb464,Ward Melville High School A,chemistry,28,8,20,3,1
+a1bfb464,Ward Melville High School A,ess,18,8,10,2,0
+a1bfb464,Ward Melville High School A,math,46,16,30,4,0
+a1bfb464,Ward Melville High School A,physics,24,4,20,2,1
+b5e0cbfc,Carmel A,biology,0,0,0,0,0
+b5e0cbfc,Carmel A,chemistry,4,4,0,1,0
+b5e0cbfc,Carmel A,ess,10,0,10,1,1
+b5e0cbfc,Carmel A,math,18,8,10,2,0
+b5e0cbfc,Carmel A,physics,18,8,10,2,0
+b5e0cbfc,Iolani A,biology,14,4,10,2,1
+b5e0cbfc,Iolani A,chemistry,24,4,20,2,1
+b5e0cbfc,Iolani A,ess,8,8,0,2,0
+b5e0cbfc,Iolani A,math,14,4,10,1,0
+b5e0cbfc,Iolani A,physics,0,0,0,1,1
+d5183194,Montgomery Blair A,biology,0,0,0,1,1
+d5183194,Montgomery Blair A,chemistry,0,0,0,1,1
+d5183194,Montgomery Blair A,ess,28,8,20,2,0
+d5183194,Montgomery Blair A,math,18,8,10,2,0
+d5183194,Montgomery Blair A,physics,22,12,10,3,0
+d5183194,Obra D. Tompkins A,biology,0,0,0,0,0
+d5183194,Obra D. Tompkins A,chemistry,4,4,0,1,0
+d5183194,Obra D. Tompkins A,ess,0,0,0,0,0
+d5183194,Obra D. Tompkins A,math,0,0,0,0,0
+d5183194,Obra D. Tompkins A,physics,0,0,0,0,0
+eadfde0b,Green Hope A,biology,4,4,0,1,0
+eadfde0b,Green Hope A,chemistry,2,-8,10,1,3
+eadfde0b,Green Hope A,ess,14,4,10,1,0
+eadfde0b,Green Hope A,math,0,0,0,1,1
+eadfde0b,Green Hope A,physics,4,4,0,2,1
+eadfde0b,Ward Melville High School B,biology,24,4,20,2,1
+eadfde0b,Ward Melville High School B,chemistry,-4,-4,0,0,1
+eadfde0b,Ward Melville High School B,ess,42,12,30,3,0
+eadfde0b,Ward Melville High School B,math,4,4,0,1,0
+eadfde0b,Ward Melville High School B,physics,0,0,0,1,1
+eb6187eb,Clovis Clemens A,biology,28,8,20,3,1
+eb6187eb,Clovis Clemens A,chemistry,46,16,30,4,0
+eb6187eb,Clovis Clemens A,ess,56,16,40,4,0
+eb6187eb,Clovis Clemens A,math,56,16,40,4,0
+eb6187eb,Clovis Clemens A,physics,22,12,10,3,0
+eb6187eb,College Park A,biology,0,0,0,1,1
+eb6187eb,College Park A,chemistry,-4,-4,0,0,1
+eb6187eb,College Park A,ess,0,0,0,0,0
+eb6187eb,College Park A,math,0,0,0,0,0
+eb6187eb,College Park A,physics,4,4,0,1,0
+ee697641,TJHSST A,biology,0,0,0,0,0
+ee697641,TJHSST A,chemistry,24,4,20,2,1
+ee697641,TJHSST A,ess,56,16,40,4,0
+ee697641,TJHSST A,math,0,0,0,0,0
+ee697641,TJHSST A,physics,0,0,0,0,0
+ee697641,Temple City A,biology,-4,-4,0,1,2
+ee697641,Temple City A,chemistry,0,0,0,1,1
+ee697641,Temple City A,ess,-4,-4,0,0,1
+ee697641,Temple City A,math,4,4,0,1,0
+ee697641,Temple City A,physics,16,16,0,4,0
+13b0d3ef,Foothill A,biology,0,0,0,0,0
+13b0d3ef,Foothill A,chemistry,10,0,10,1,1
+13b0d3ef,Foothill A,ess,0,0,0,1,1
+13b0d3ef,Foothill A,math,32,12,20,3,0
+13b0d3ef,Foothill A,physics,28,8,20,2,0
+13b0d3ef,PRISMS A,biology,46,16,30,4,0
+13b0d3ef,PRISMS A,chemistry,22,12,10,3,0
+13b0d3ef,PRISMS A,ess,0,0,0,0,0
+13b0d3ef,PRISMS A,math,-4,-4,0,0,1
+13b0d3ef,PRISMS A,physics,0,0,0,1,1
+15db158c,College Park A,biology,22,12,10,3,0
+15db158c,College Park A,chemistry,0,0,0,1,1
+15db158c,College Park A,ess,4,4,0,1,0
+15db158c,College Park A,math,14,4,10,1,0
+15db158c,College Park A,physics,-8,-8,0,0,2
+15db158c,Temple City A,biology,10,0,10,1,1
+15db158c,Temple City A,chemistry,0,0,0,0,0
+15db158c,Temple City A,ess,28,8,20,3,1
+15db158c,Temple City A,math,0,0,0,0,0
+15db158c,Temple City A,physics,12,12,0,3,0
+20046956,BASIS Chandler A,biology,10,0,10,1,1
+20046956,BASIS Chandler A,chemistry,28,8,20,2,0
+20046956,BASIS Chandler A,ess,28,8,20,3,1
+20046956,BASIS Chandler A,math,0,0,0,0,0
+20046956,BASIS Chandler A,physics,-4,-4,0,1,2
+20046956,Ward Melville High School A,biology,42,12,30,3,0
+20046956,Ward Melville High School A,chemistry,18,8,10,2,0
+20046956,Ward Melville High School A,ess,0,0,0,0,0
+20046956,Ward Melville High School A,math,32,12,20,3,0
+20046956,Ward Melville High School A,physics,6,-4,10,1,2
+217a2e53,Mira Loma A,biology,14,4,10,2,1
+217a2e53,Mira Loma A,chemistry,28,8,20,2,0
+217a2e53,Mira Loma A,ess,18,8,10,2,0
+217a2e53,Mira Loma A,math,18,8,10,2,0
+217a2e53,Mira Loma A,physics,0,0,0,1,1
+217a2e53,Mission San Jose A,biology,4,4,0,1,0
+217a2e53,Mission San Jose A,chemistry,18,8,10,2,0
+217a2e53,Mission San Jose A,ess,10,0,10,1,1
+217a2e53,Mission San Jose A,math,4,4,0,1,0
+217a2e53,Mission San Jose A,physics,18,8,10,2,0
+24af183a,BASIS Independent Silicon Valley A,biology,0,0,0,0,0
+24af183a,BASIS Independent Silicon Valley A,chemistry,0,0,0,0,0
+24af183a,BASIS Independent Silicon Valley A,ess,-4,-4,0,0,1
+24af183a,BASIS Independent Silicon Valley A,math,0,0,0,0,0
+24af183a,BASIS Independent Silicon Valley A,physics,10,0,10,1,1
+24af183a,Deep Run A,biology,56,16,40,4,0
+24af183a,Deep Run A,chemistry,46,16,30,4,0
+24af183a,Deep Run A,ess,14,4,10,1,0
+24af183a,Deep Run A,math,22,12,10,3,0
+24af183a,Deep Run A,physics,32,12,20,3,0
+272d528b,Carmel B,biology,4,4,0,1,0
+272d528b,Carmel B,chemistry,36,16,20,4,0
+272d528b,Carmel B,ess,22,12,10,3,0
+272d528b,Carmel B,math,18,8,10,2,0
+272d528b,Carmel B,physics,-8,-8,0,0,2
+272d528b,Frazer A,biology,4,4,0,1,0
+272d528b,Frazer A,chemistry,0,0,0,0,0
+272d528b,Frazer A,ess,14,4,10,1,0
+272d528b,Frazer A,math,4,4,0,1,0
+272d528b,Frazer A,physics,36,16,20,4,0
+31d8c35c,BASIS Chandler B,biology,4,4,0,1,0
+31d8c35c,BASIS Chandler B,chemistry,14,4,10,1,0
+31d8c35c,BASIS Chandler B,ess,4,4,0,1,0
+31d8c35c,BASIS Chandler B,math,18,8,10,2,0
+31d8c35c,BASIS Chandler B,physics,4,4,0,1,0
+31d8c35c,Obra D. Tompkins A,biology,4,4,0,1,0
+31d8c35c,Obra D. Tompkins A,chemistry,4,4,0,1,0
+31d8c35c,Obra D. Tompkins A,ess,4,4,0,1,0
+31d8c35c,Obra D. Tompkins A,math,4,4,0,1,0
+31d8c35c,Obra D. Tompkins A,physics,0,0,0,1,1
+3504dc4d,Folsom City East A,biology,18,8,10,2,0
+3504dc4d,Folsom City East A,chemistry,0,0,0,0,0
+3504dc4d,Folsom City East A,ess,0,0,0,0,0
+3504dc4d,Folsom City East A,math,0,0,0,0,0
+3504dc4d,Folsom City East A,physics,0,0,0,0,0
+3504dc4d,Iolani A,biology,18,8,10,2,0
+3504dc4d,Iolani A,chemistry,18,8,10,2,0
+3504dc4d,Iolani A,ess,10,0,10,1,1
+3504dc4d,Iolani A,math,10,0,10,1,1
+3504dc4d,Iolani A,physics,4,4,0,1,0
+49a99774,College Park B,biology,8,8,0,2,0
+49a99774,College Park B,chemistry,-8,-8,0,0,2
+49a99774,College Park B,ess,0,0,0,0,0
+49a99774,College Park B,math,0,0,0,0,0
+49a99774,College Park B,physics,4,4,0,1,0
+49a99774,Punahou A,biology,4,4,0,1,0
+49a99774,Punahou A,chemistry,32,12,20,3,0
+49a99774,Punahou A,ess,38,8,30,3,1
+49a99774,Punahou A,math,22,12,10,3,0
+49a99774,Punahou A,physics,14,4,10,1,0
+5f4673c5,TJHSST A,biology,28,8,20,2,0
+5f4673c5,TJHSST A,chemistry,14,4,10,2,1
+5f4673c5,TJHSST A,ess,28,8,20,3,1
+5f4673c5,TJHSST A,math,0,0,0,0,0
+5f4673c5,TJHSST A,physics,4,4,0,1,0
+5f4673c5,University B,biology,-4,-4,0,0,1
+5f4673c5,University B,chemistry,4,4,0,1,0
+5f4673c5,University B,ess,4,4,0,1,0
+5f4673c5,University B,math,18,8,10,2,0
+5f4673c5,University B,physics,14,4,10,2,1
+7eb42f66,BASIS Independent Silicon Valley B,biology,18,8,10,2,0
+7eb42f66,BASIS Independent Silicon Valley B,chemistry,32,12,20,3,0
+7eb42f66,BASIS Independent Silicon Valley B,ess,4,4,0,1,0
+7eb42f66,BASIS Independent Silicon Valley B,math,22,12,10,3,0
+7eb42f66,BASIS Independent Silicon Valley B,physics,4,4,0,1,0
+7eb42f66,Niskayuna A,biology,0,0,0,0,0
+7eb42f66,Niskayuna A,chemistry,4,4,0,1,0
+7eb42f66,Niskayuna A,ess,0,0,0,0,0
+7eb42f66,Niskayuna A,math,0,0,0,1,1
+7eb42f66,Niskayuna A,physics,28,8,20,3,1
+830ff819,BASIS Independent Fremont A,biology,18,8,10,2,0
+830ff819,BASIS Independent Fremont A,chemistry,0,0,0,0,0
+830ff819,BASIS Independent Fremont A,ess,8,8,0,2,0
+830ff819,BASIS Independent Fremont A,math,0,0,0,0,0
+830ff819,BASIS Independent Fremont A,physics,4,4,0,1,0
+830ff819,Collierville A,biology,-4,-4,0,0,1
+830ff819,Collierville A,chemistry,22,12,10,3,0
+830ff819,Collierville A,ess,10,0,10,1,1
+830ff819,Collierville A,math,14,4,10,1,0
+830ff819,Collierville A,physics,0,0,0,1,1
+83d37f2d,Clements A,biology,14,4,10,1,0
+83d37f2d,Clements A,chemistry,14,4,10,1,0
+83d37f2d,Clements A,ess,8,8,0,2,0
+83d37f2d,Clements A,math,14,4,10,1,0
+83d37f2d,Clements A,physics,0,0,0,1,1
+83d37f2d,Doral Academy A,biology,24,4,20,2,1
+83d37f2d,Doral Academy A,chemistry,32,12,20,3,0
+83d37f2d,Doral Academy A,ess,0,0,0,2,2
+83d37f2d,Doral Academy A,math,18,8,10,2,0
+83d37f2d,Doral Academy A,physics,22,12,10,3,0
+88005de0,Green Hope A,biology,4,4,0,1,0
+88005de0,Green Hope A,chemistry,0,0,0,0,0
+88005de0,Green Hope A,ess,4,4,0,2,1
+88005de0,Green Hope A,math,0,0,0,0,0
+88005de0,Green Hope A,physics,0,0,0,0,0
+88005de0,North Allegheny A,biology,14,4,10,1,0
+88005de0,North Allegheny A,chemistry,36,16,20,4,0
+88005de0,North Allegheny A,ess,4,4,0,1,0
+88005de0,North Allegheny A,math,4,4,0,2,1
+88005de0,North Allegheny A,physics,22,12,10,3,0
+93964381,Carmel A,biology,4,4,0,1,0
+93964381,Carmel A,chemistry,26,16,10,4,0
+93964381,Carmel A,ess,10,0,10,1,1
+93964381,Carmel A,math,8,8,0,2,0
+93964381,Carmel A,physics,0,0,0,1,1
+93964381,Ward Melville High School B,biology,14,4,10,1,0
+93964381,Ward Melville High School B,chemistry,0,0,0,0,0
+93964381,Ward Melville High School B,ess,18,8,10,2,0
+93964381,Ward Melville High School B,math,8,8,0,2,0
+93964381,Ward Melville High School B,physics,8,8,0,2,0
+9eef0477,Clovis Clemens A,biology,42,12,30,3,0
+9eef0477,Clovis Clemens A,chemistry,32,12,20,3,0
+9eef0477,Clovis Clemens A,ess,20,0,20,2,2
+9eef0477,Clovis Clemens A,math,56,16,40,4,0
+9eef0477,Clovis Clemens A,physics,46,16,30,4,0
+9eef0477,Doral Academy C,biology,4,4,0,1,0
+9eef0477,Doral Academy C,chemistry,4,4,0,1,0
+9eef0477,Doral Academy C,ess,4,4,0,1,0
+9eef0477,Doral Academy C,math,0,0,0,0,0
+9eef0477,Doral Academy C,physics,0,0,0,0,0
+9fd27aaf,Baton Rouge Magnet A,biology,0,0,0,0,0
+9fd27aaf,Baton Rouge Magnet A,chemistry,18,8,10,2,0
+9fd27aaf,Baton Rouge Magnet A,ess,28,8,20,2,0
+9fd27aaf,Baton Rouge Magnet A,math,42,12,30,3,0
+9fd27aaf,Baton Rouge Magnet A,physics,0,0,0,0,0
+9fd27aaf,Doral Academy B,biology,18,8,10,2,0
+9fd27aaf,Doral Academy B,chemistry,8,8,0,2,0
+9fd27aaf,Doral Academy B,ess,4,4,0,1,0
+9fd27aaf,Doral Academy B,math,0,0,0,0,0
+9fd27aaf,Doral Academy B,physics,22,12,10,3,0
+aacd8cdb,North Hollywood A,biology,18,8,10,2,0
+aacd8cdb,North Hollywood A,chemistry,4,4,0,1,0
+aacd8cdb,North Hollywood A,ess,-4,-4,0,0,1
+aacd8cdb,North Hollywood A,math,4,4,0,1,0
+aacd8cdb,North Hollywood A,physics,12,12,0,3,0
+aacd8cdb,University A,biology,0,0,0,0,0
+aacd8cdb,University A,chemistry,18,8,10,2,0
+aacd8cdb,University A,ess,8,8,0,2,0
+aacd8cdb,University A,math,-4,-4,0,0,1
+aacd8cdb,University A,physics,-4,-4,0,0,1
+c32906fc,Canyon Crest Academy A,biology,-8,-8,0,0,2
+c32906fc,Canyon Crest Academy A,chemistry,0,0,0,0,0
+c32906fc,Canyon Crest Academy A,ess,14,4,10,1,0
+c32906fc,Canyon Crest Academy A,math,0,0,0,0,0
+c32906fc,Canyon Crest Academy A,physics,32,12,20,3,0
+c32906fc,North Hollywood B,biology,24,4,20,2,1
+c32906fc,North Hollywood B,chemistry,56,16,40,4,0
+c32906fc,North Hollywood B,ess,6,-4,10,1,2
+c32906fc,North Hollywood B,math,14,4,10,1,0
+c32906fc,North Hollywood B,physics,-8,-8,0,0,2
+ee11a767,Montgomery Blair A,biology,32,12,20,3,0
+ee11a767,Montgomery Blair A,chemistry,-4,-4,0,0,1
+ee11a767,Montgomery Blair A,ess,0,0,0,1,1
+ee11a767,Montgomery Blair A,math,4,4,0,1,0
+ee11a767,Montgomery Blair A,physics,-4,-4,0,0,1
+ee11a767,Palo Alto A,biology,14,4,10,1,0
+ee11a767,Palo Alto A,chemistry,32,12,20,3,0
+ee11a767,Palo Alto A,ess,14,4,10,1,0
+ee11a767,Palo Alto A,math,28,8,20,2,0
+ee11a767,Palo Alto A,physics,22,12,10,3,0
+0dfd62dc,BASIS Chandler A,biology,14,4,10,1,0
+0dfd62dc,BASIS Chandler A,chemistry,14,4,10,1,0
+0dfd62dc,BASIS Chandler A,ess,0,0,0,1,1
+0dfd62dc,BASIS Chandler A,math,12,12,0,3,0
+0dfd62dc,BASIS Chandler A,physics,22,12,10,3,0
+0dfd62dc,North Hollywood B,biology,42,12,30,3,0
+0dfd62dc,North Hollywood B,chemistry,32,12,20,3,0
+0dfd62dc,North Hollywood B,ess,32,12,20,3,0
+0dfd62dc,North Hollywood B,math,0,0,0,0,0
+0dfd62dc,North Hollywood B,physics,-4,-4,0,0,1
+2777504e,PRISMS A,biology,14,4,10,1,0
+2777504e,PRISMS A,chemistry,0,0,0,2,2
+2777504e,PRISMS A,ess,-4,-4,0,0,1
+2777504e,PRISMS A,math,4,4,0,1,0
+2777504e,PRISMS A,physics,18,8,10,2,0
+2777504e,Ward Melville High School A,biology,42,12,30,3,0
+2777504e,Ward Melville High School A,chemistry,6,-4,10,1,2
+2777504e,Ward Melville High School A,ess,18,8,10,3,1
+2777504e,Ward Melville High School A,math,18,8,10,2,0
+2777504e,Ward Melville High School A,physics,28,8,20,2,0
+52ea2a0b,Baton Rouge Magnet A,biology,0,0,0,0,0
+52ea2a0b,Baton Rouge Magnet A,chemistry,4,4,0,1,0
+52ea2a0b,Baton Rouge Magnet A,ess,4,4,0,2,1
+52ea2a0b,Baton Rouge Magnet A,math,18,8,10,2,0
+52ea2a0b,Baton Rouge Magnet A,physics,28,8,20,2,0
+52ea2a0b,TJHSST A,biology,18,8,10,2,0
+52ea2a0b,TJHSST A,chemistry,0,0,0,1,1
+52ea2a0b,TJHSST A,ess,14,4,10,2,1
+52ea2a0b,TJHSST A,math,0,0,0,0,0
+52ea2a0b,TJHSST A,physics,4,4,0,1,0
+6b70e6a3,Doral Academy A,biology,28,8,20,3,1
+6b70e6a3,Doral Academy A,chemistry,4,4,0,1,0
+6b70e6a3,Doral Academy A,ess,22,12,10,3,0
+6b70e6a3,Doral Academy A,math,8,8,0,2,0
+6b70e6a3,Doral Academy A,physics,0,0,0,0,0
+6b70e6a3,Palo Alto A,biology,-4,-4,0,0,1
+6b70e6a3,Palo Alto A,chemistry,-4,-4,0,1,2
+6b70e6a3,Palo Alto A,ess,0,0,0,0,0
+6b70e6a3,Palo Alto A,math,8,8,0,2,0
+6b70e6a3,Palo Alto A,physics,8,8,0,3,1
+6ff81f4a,Deep Run A,biology,22,12,10,3,0
+6ff81f4a,Deep Run A,chemistry,14,4,10,1,0
+6ff81f4a,Deep Run A,ess,4,4,0,1,0
+6ff81f4a,Deep Run A,math,14,4,10,2,1
+6ff81f4a,Deep Run A,physics,10,0,10,1,1
+6ff81f4a,Foothill A,biology,-4,-4,0,0,1
+6ff81f4a,Foothill A,chemistry,0,0,0,1,1
+6ff81f4a,Foothill A,ess,14,4,10,2,1
+6ff81f4a,Foothill A,math,10,0,10,1,1
+6ff81f4a,Foothill A,physics,28,8,20,2,0
+74456180,Carmel B,biology,4,4,0,1,0
+74456180,Carmel B,chemistry,28,8,20,2,0
+74456180,Carmel B,ess,0,0,0,2,2
+74456180,Carmel B,math,10,0,10,1,1
+74456180,Carmel B,physics,18,8,10,2,0
+74456180,Mission San Jose A,biology,-4,-4,0,0,1
+74456180,Mission San Jose A,chemistry,4,4,0,1,0
+74456180,Mission San Jose A,ess,28,8,20,2,0
+74456180,Mission San Jose A,math,8,8,0,2,0
+74456180,Mission San Jose A,physics,0,0,0,0,0
+892447b4,Clovis Clemens A,biology,28,8,20,2,0
+892447b4,Clovis Clemens A,chemistry,8,8,0,2,0
+892447b4,Clovis Clemens A,ess,18,8,10,2,0
+892447b4,Clovis Clemens A,math,18,8,10,3,1
+892447b4,Clovis Clemens A,physics,14,4,10,2,1
+892447b4,Mira Loma A,biology,14,4,10,2,1
+892447b4,Mira Loma A,chemistry,-4,-4,0,0,1
+892447b4,Mira Loma A,ess,18,8,10,2,0
+892447b4,Mira Loma A,math,0,0,0,0,0
+892447b4,Mira Loma A,physics,4,4,0,2,1
+9dc1289c,BASIS Independent Silicon Valley B,biology,14,4,10,1,0
+9dc1289c,BASIS Independent Silicon Valley B,chemistry,8,8,0,2,0
+9dc1289c,BASIS Independent Silicon Valley B,ess,8,8,0,2,0
+9dc1289c,BASIS Independent Silicon Valley B,math,-4,-4,0,0,1
+9dc1289c,BASIS Independent Silicon Valley B,physics,28,8,20,2,0
+9dc1289c,Iolani A,biology,-4,-4,0,0,1
+9dc1289c,Iolani A,chemistry,0,0,0,1,1
+9dc1289c,Iolani A,ess,14,4,10,2,1
+9dc1289c,Iolani A,math,22,12,10,3,0
+9dc1289c,Iolani A,physics,4,4,0,1,0
+337d381b,Clovis Clemens A,biology,32,12,20,3,0
+337d381b,Clovis Clemens A,chemistry,10,0,10,1,1
+337d381b,Clovis Clemens A,ess,42,12,30,3,0
+337d381b,Clovis Clemens A,math,8,8,0,2,0
+337d381b,Clovis Clemens A,physics,18,8,10,2,0
+337d381b,Doral Academy A,biology,0,0,0,1,1
+337d381b,Doral Academy A,chemistry,18,8,10,2,0
+337d381b,Doral Academy A,ess,0,0,0,0,0
+337d381b,Doral Academy A,math,14,4,10,2,1
+337d381b,Doral Academy A,physics,14,4,10,1,0
+37a751f6,Baton Rouge Magnet A,biology,0,0,0,0,0
+37a751f6,Baton Rouge Magnet A,chemistry,14,4,10,1,0
+37a751f6,Baton Rouge Magnet A,ess,-4,-4,0,0,1
+37a751f6,Baton Rouge Magnet A,math,4,4,0,1,0
+37a751f6,Baton Rouge Magnet A,physics,10,0,10,1,1
+37a751f6,North Hollywood B,biology,14,4,10,2,1
+37a751f6,North Hollywood B,chemistry,10,0,10,2,2
+37a751f6,North Hollywood B,ess,32,12,20,3,0
+37a751f6,North Hollywood B,math,0,0,0,0,0
+37a751f6,North Hollywood B,physics,32,12,20,3,0
+5d7bb3de,Iolani A,biology,0,0,0,0,0
+5d7bb3de,Iolani A,chemistry,6,-4,10,1,2
+5d7bb3de,Iolani A,ess,0,0,0,1,1
+5d7bb3de,Iolani A,math,18,8,10,2,0
+5d7bb3de,Iolani A,physics,22,12,10,3,0
+5d7bb3de,Mission San Jose A,biology,0,0,0,0,0
+5d7bb3de,Mission San Jose A,chemistry,10,0,10,1,1
+5d7bb3de,Mission San Jose A,ess,14,4,10,1,0
+5d7bb3de,Mission San Jose A,math,-4,-4,0,0,1
+5d7bb3de,Mission San Jose A,physics,-8,-8,0,0,2
+a1ae78e9,Mira Loma A,biology,24,4,20,2,1
+a1ae78e9,Mira Loma A,chemistry,28,8,20,2,0
+a1ae78e9,Mira Loma A,ess,4,4,0,1,0
+a1ae78e9,Mira Loma A,math,4,4,0,1,0
+a1ae78e9,Mira Loma A,physics,0,0,0,0,0
+a1ae78e9,Palo Alto A,biology,-4,-4,0,0,1
+a1ae78e9,Palo Alto A,chemistry,4,4,0,1,0
+a1ae78e9,Palo Alto A,ess,28,8,20,2,0
+a1ae78e9,Palo Alto A,math,4,4,0,1,0
+a1ae78e9,Palo Alto A,physics,18,8,10,2,0
+bd1b7462,Foothill A,biology,4,4,0,1,0
+bd1b7462,Foothill A,chemistry,4,4,0,1,0
+bd1b7462,Foothill A,ess,8,8,0,2,0
+bd1b7462,Foothill A,math,12,12,0,3,0
+bd1b7462,Foothill A,physics,28,8,20,2,0
+bd1b7462,PRISMS A,biology,0,0,0,0,0
+bd1b7462,PRISMS A,chemistry,-8,-8,0,1,3
+bd1b7462,PRISMS A,ess,8,8,0,2,0
+bd1b7462,PRISMS A,math,4,4,0,1,0
+bd1b7462,PRISMS A,physics,14,4,10,2,1
+d08def4e,Deep Run A,biology,-4,-4,0,0,1
+d08def4e,Deep Run A,chemistry,14,4,10,2,1
+d08def4e,Deep Run A,ess,32,12,20,3,0
+d08def4e,Deep Run A,math,8,8,0,2,0
+d08def4e,Deep Run A,physics,8,8,0,2,0
+d08def4e,Ward Melville High School A,biology,24,4,20,2,1
+d08def4e,Ward Melville High School A,chemistry,-4,-4,0,1,2
+d08def4e,Ward Melville High School A,ess,14,4,10,1,0
+d08def4e,Ward Melville High School A,math,0,0,0,1,1
+d08def4e,Ward Melville High School A,physics,14,4,10,1,0
+db175203,BASIS Independent Silicon Valley B,biology,0,0,0,0,0
+db175203,BASIS Independent Silicon Valley B,chemistry,18,8,10,2,0
+db175203,BASIS Independent Silicon Valley B,ess,28,8,20,2,0
+db175203,BASIS Independent Silicon Valley B,math,0,0,0,1,1
+db175203,BASIS Independent Silicon Valley B,physics,10,0,10,1,1
+db175203,Carmel B,biology,4,4,0,1,0
+db175203,Carmel B,chemistry,24,4,20,2,1
+db175203,Carmel B,ess,18,8,10,2,0
+db175203,Carmel B,math,18,8,10,2,0
+db175203,Carmel B,physics,38,8,30,3,1
+f8a256fe,BASIS Chandler A,biology,16,16,0,4,0
+f8a256fe,BASIS Chandler A,chemistry,32,12,20,3,0
+f8a256fe,BASIS Chandler A,ess,14,4,10,2,1
+f8a256fe,BASIS Chandler A,math,8,8,0,2,0
+f8a256fe,BASIS Chandler A,physics,32,12,20,3,0
+f8a256fe,TJHSST A,biology,0,0,0,0,0
+f8a256fe,TJHSST A,chemistry,0,0,0,1,1
+f8a256fe,TJHSST A,ess,14,4,10,2,1
+f8a256fe,TJHSST A,math,0,0,0,0,0
+f8a256fe,TJHSST A,physics,0,0,0,0,0
+53909fac,Baton Rouge Magnet A,biology,0,0,0,0,0
+53909fac,Baton Rouge Magnet A,chemistry,4,4,0,1,0
+53909fac,Baton Rouge Magnet A,ess,42,12,30,3,0
+53909fac,Baton Rouge Magnet A,math,4,4,0,1,0
+53909fac,Baton Rouge Magnet A,physics,4,4,0,1,0
+53909fac,Mira Loma A,biology,12,12,0,3,0
+53909fac,Mira Loma A,chemistry,14,4,10,1,0
+53909fac,Mira Loma A,ess,0,0,0,0,0
+53909fac,Mira Loma A,math,0,0,0,0,0
+53909fac,Mira Loma A,physics,0,0,0,0,0
+5beb4950,Iolani A,biology,0,0,0,0,0
+5beb4950,Iolani A,chemistry,18,8,10,2,0
+5beb4950,Iolani A,ess,28,8,20,2,0
+5beb4950,Iolani A,math,0,0,0,0,0
+5beb4950,Iolani A,physics,0,0,0,1,1
+5beb4950,Ward Melville High School A,biology,10,0,10,2,2
+5beb4950,Ward Melville High School A,chemistry,4,4,0,1,0
+5beb4950,Ward Melville High School A,ess,0,0,0,0,0
+5beb4950,Ward Melville High School A,math,28,8,20,2,0
+5beb4950,Ward Melville High School A,physics,18,8,10,2,0
+8a60372d,BASIS Independent Silicon Valley B,biology,0,0,0,0,0
+8a60372d,BASIS Independent Silicon Valley B,chemistry,22,12,10,3,0
+8a60372d,BASIS Independent Silicon Valley B,ess,4,4,0,1,0
+8a60372d,BASIS Independent Silicon Valley B,math,-4,-4,0,0,1
+8a60372d,BASIS Independent Silicon Valley B,physics,22,12,10,3,0
+8a60372d,Foothill A,biology,0,0,0,0,0
+8a60372d,Foothill A,chemistry,-4,-4,0,0,1
+8a60372d,Foothill A,ess,-4,-4,0,1,2
+8a60372d,Foothill A,math,10,0,10,1,1
+8a60372d,Foothill A,physics,0,0,0,0,0
+94b4da7b,BASIS Chandler A,biology,32,12,20,3,0
+94b4da7b,BASIS Chandler A,chemistry,24,4,20,2,1
+94b4da7b,BASIS Chandler A,ess,0,0,0,0,0
+94b4da7b,BASIS Chandler A,math,14,4,10,1,0
+94b4da7b,BASIS Chandler A,physics,4,4,0,1,0
+94b4da7b,Doral Academy A,biology,4,4,0,1,0
+94b4da7b,Doral Academy A,chemistry,4,4,0,1,0
+94b4da7b,Doral Academy A,ess,0,0,0,0,0
+94b4da7b,Doral Academy A,math,14,4,10,1,0
+94b4da7b,Doral Academy A,physics,-4,-4,0,0,1
+7b7a1b09,Deep Run A,biology,4,4,0,1,0
+7b7a1b09,Deep Run A,chemistry,-4,-4,0,0,1
+7b7a1b09,Deep Run A,ess,0,0,0,0,0
+7b7a1b09,Deep Run A,math,32,12,20,3,0
+7b7a1b09,Deep Run A,physics,18,8,10,2,0
+7b7a1b09,North Hollywood B,biology,-4,-4,0,0,1
+7b7a1b09,North Hollywood B,chemistry,36,16,20,4,0
+7b7a1b09,North Hollywood B,ess,22,12,10,3,0
+7b7a1b09,North Hollywood B,math,0,0,0,0,0
+7b7a1b09,North Hollywood B,physics,0,0,0,1,1
+9d6a4822,BASIS Chandler A,biology,0,0,0,1,1
+9d6a4822,BASIS Chandler A,chemistry,22,12,10,3,0
+9d6a4822,BASIS Chandler A,ess,0,0,0,1,1
+9d6a4822,BASIS Chandler A,math,0,0,0,0,0
+9d6a4822,BASIS Chandler A,physics,4,4,0,2,1
+9d6a4822,BASIS Independent Silicon Valley B,biology,0,0,0,1,1
+9d6a4822,BASIS Independent Silicon Valley B,chemistry,14,4,10,1,0
+9d6a4822,BASIS Independent Silicon Valley B,ess,4,4,0,1,0
+9d6a4822,BASIS Independent Silicon Valley B,math,12,12,0,3,0
+9d6a4822,BASIS Independent Silicon Valley B,physics,0,0,0,0,0
+a504a2ec,Baton Rouge Magnet A,biology,0,0,0,0,0
+a504a2ec,Baton Rouge Magnet A,chemistry,14,4,10,1,0
+a504a2ec,Baton Rouge Magnet A,ess,32,12,20,3,0
+a504a2ec,Baton Rouge Magnet A,math,0,0,0,0,0
+a504a2ec,Baton Rouge Magnet A,physics,14,4,10,2,1
+a504a2ec,Ward Melville High School A,biology,28,8,20,3,1
+a504a2ec,Ward Melville High School A,chemistry,8,8,0,3,1
+a504a2ec,Ward Melville High School A,ess,4,4,0,1,0
+a504a2ec,Ward Melville High School A,math,18,8,10,2,0
+a504a2ec,Ward Melville High School A,physics,14,4,10,2,1
+c58889ad,Carmel B,biology,0,0,0,0,0
+c58889ad,Carmel B,chemistry,18,8,10,2,0
+c58889ad,Carmel B,ess,0,0,0,0,0
+c58889ad,Carmel B,math,18,8,10,2,0
+c58889ad,Carmel B,physics,10,0,10,1,1
+c58889ad,Clovis Clemens A,biology,22,12,10,3,0
+c58889ad,Clovis Clemens A,chemistry,18,8,10,2,0
+c58889ad,Clovis Clemens A,ess,18,8,10,2,0
+c58889ad,Clovis Clemens A,math,18,8,10,2,0
+c58889ad,Clovis Clemens A,physics,8,8,0,2,0
+c3e217f7,BASIS Independent Silicon Valley B,biology,0,0,0,0,0
+c3e217f7,BASIS Independent Silicon Valley B,chemistry,0,0,0,0,0
+c3e217f7,BASIS Independent Silicon Valley B,ess,28,8,20,2,0
+c3e217f7,BASIS Independent Silicon Valley B,math,0,0,0,0,0
+c3e217f7,BASIS Independent Silicon Valley B,physics,14,4,10,1,0
+c3e217f7,Carmel B,biology,0,0,0,0,0
+c3e217f7,Carmel B,chemistry,4,4,0,1,0
+c3e217f7,Carmel B,ess,-4,-4,0,0,1
+c3e217f7,Carmel B,math,4,4,0,1,0
+c3e217f7,Carmel B,physics,8,8,0,2,0
+f1665fe5,Deep Run A,biology,-4,-4,0,0,1
+f1665fe5,Deep Run A,chemistry,4,4,0,1,0
+f1665fe5,Deep Run A,ess,28,8,20,2,0
+f1665fe5,Deep Run A,math,0,0,0,0,0
+f1665fe5,Deep Run A,physics,0,0,0,0,0
+f1665fe5,Ward Melville High School A,biology,36,16,20,4,0
+f1665fe5,Ward Melville High School A,chemistry,14,4,10,2,1
+f1665fe5,Ward Melville High School A,ess,4,4,0,1,0
+f1665fe5,Ward Melville High School A,math,8,8,0,2,0
+f1665fe5,Ward Melville High School A,physics,18,8,10,2,0
+af9c15f8,BASIS Independent Silicon Valley B,biology,4,4,0,1,0
+af9c15f8,BASIS Independent Silicon Valley B,chemistry,4,4,0,1,0
+af9c15f8,BASIS Independent Silicon Valley B,ess,4,4,0,1,0
+af9c15f8,BASIS Independent Silicon Valley B,math,14,4,10,1,0
+af9c15f8,BASIS Independent Silicon Valley B,physics,8,8,0,2,0
+af9c15f8,Ward Melville High School A,biology,14,4,10,2,1
+af9c15f8,Ward Melville High School A,chemistry,14,4,10,1,0
+af9c15f8,Ward Melville High School A,ess,14,4,10,1,0
+af9c15f8,Ward Melville High School A,math,18,8,10,2,0
+af9c15f8,Ward Melville High School A,physics,28,8,20,2,0
+f81f7216,Clovis Clemens A,biology,22,12,10,3,0
+f81f7216,Clovis Clemens A,chemistry,-4,-4,0,0,1
+f81f7216,Clovis Clemens A,ess,32,12,20,3,0
+f81f7216,Clovis Clemens A,math,4,4,0,1,0
+f81f7216,Clovis Clemens A,physics,18,8,10,2,0
+f81f7216,North Hollywood B,biology,0,0,0,0,0
+f81f7216,North Hollywood B,chemistry,28,8,20,2,0
+f81f7216,North Hollywood B,ess,0,0,0,1,1
+f81f7216,North Hollywood B,math,0,0,0,0,0
+f81f7216,North Hollywood B,physics,8,8,0,2,0
+de8f431f,North Hollywood B,biology,0,0,0,0,0
+de8f431f,North Hollywood B,chemistry,0,0,0,0,0
+de8f431f,North Hollywood B,ess,18,8,10,2,0
+de8f431f,North Hollywood B,math,0,0,0,0,0
+de8f431f,North Hollywood B,physics,0,0,0,0,0
+de8f431f,Ward Melville High School A,biology,4,4,0,1,0
+de8f431f,Ward Melville High School A,chemistry,14,4,10,1,0
+de8f431f,Ward Melville High School A,ess,-4,-4,0,0,1
+de8f431f,Ward Melville High School A,math,18,8,10,3,1
+de8f431f,Ward Melville High School A,physics,28,8,20,2,0
+b76a5b7e,Clovis Clemens A,biology,18,8,10,2,0
+b76a5b7e,Clovis Clemens A,chemistry,14,4,10,1,0
+b76a5b7e,Clovis Clemens A,ess,4,4,0,1,0
+b76a5b7e,Clovis Clemens A,math,12,12,0,3,0
+b76a5b7e,Clovis Clemens A,physics,4,4,0,1,0
+b76a5b7e,Ward Melville High School A,biology,14,4,10,1,0
+b76a5b7e,Ward Melville High School A,chemistry,4,4,0,1,0
+b76a5b7e,Ward Melville High School A,ess,0,0,0,0,0
+b76a5b7e,Ward Melville High School A,math,4,4,0,1,0
+b76a5b7e,Ward Melville High School A,physics,4,4,0,2,1
