@@ -109,7 +109,12 @@ export async function render(ctx) {
         const tid = tByDate.get(iso);
         return {
           title: tid ? (TR.byId.get(tid) || {}).name || tid : iso === m.snapshot ? "Current rating" : fmt.date(iso), sub: fmt.date(iso),
-          rows: hits.map((hh) => ({ color: hh.series.color, value: `${fmt.r(hh.point.y)}${hh.series.id === "overall" && !showSubj ? " ±" + Math.round(hh.point.hi - hh.point.y) : ""}`, label: hh.series.label + (hh.exact ? "" : " (earlier)") })),
+          rows: hits.map((hh) => {
+            // change since the previous point of the same line, e.g. "1673 ±50 (−200)"
+            const i = hh.series.points.indexOf(hh.point);
+            const ch = i > 0 && hh.exact ? ` (${Math.round(hh.point.y - hh.series.points[i - 1].y) === 0 ? "0" : fmt.signed(hh.point.y - hh.series.points[i - 1].y)})` : "";
+            return { color: hh.series.color, value: `${fmt.r(hh.point.y)} ±${Math.round(hh.point.hi - hh.point.y)}${ch}`, label: hh.series.label + (hh.exact ? "" : " (earlier)") };
+          }),
         };
       },
       table: {

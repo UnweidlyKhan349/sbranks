@@ -58,7 +58,7 @@ export async function render(ctx) {
     tip: (x) => {
       const p = byX.get(x);
       return { title: tname(p.tid), sub: fmt.date(p.date), rows: [
-        { color: "var(--s1)", value: `${fmt.r(p.y)} ±${Math.round(p.rd)}` }] };
+        { color: "var(--s1)", value: `${fmt.r(p.y)} ±${Math.round(p.rd)}${p.delta != null ? ` (${Math.round(p.delta) === 0 ? "0" : fmt.signed(p.delta)})` : ""}` }] };
     },
     table: {
       columns: [
