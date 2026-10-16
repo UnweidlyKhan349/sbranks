@@ -195,13 +195,13 @@ for (const [width, theme] of [[1280, "light"], [375, "light"], [375, "dark"]]) {
   }
   await page.goto(base + `#/team/${enc(target.id)}`);
   await settle(page);
-  if (!(await page.locator("main .page-head .badge", { hasText: /pickup/i }).count())) fail("composite team page shows no pickup badge");
+  if (!(await page.locator("main .page-head .badge", { hasText: /chimera/i }).count())) fail("Chimera team page shows no Chimera badge");
   await page.screenshot({ path: join(outDir, "team-composite-1280.png"), fullPage: false });
   // pickup teams are hidden by default; ticking the box shows them
   await page.goto(base + `#/teams?ranked=0&active=0&q=${enc(target.name)}`);
   await settle(page);
   const before = await page.locator("main tbody tr a", { hasText: target.name }).count();
-  await page.click("label:has-text('Include pickup/composite teams') input");
+  await page.click("label:has-text('Include Chimeras') input");
   await page.waitForTimeout(200);
   const after = await page.locator("main tbody tr a", { hasText: target.name }).count();
   if (!(before === 0 && after > 0)) fail(`pickup teams not hidden by default / not shown when included (before ${before}, after ${after})`);
@@ -254,7 +254,7 @@ for (const [width, theme] of [[1280, "light"], [375, "light"], [375, "dark"]]) {
   if (pickupSchool) {
     await page.goto(base + `#/school/${enc(pickupSchool.id)}`);
     await settle(page);
-    const sec = page.locator("main section:has(h2:text-is(\"Pickup teams with this school's players\"))");
+    const sec = page.locator("main section:has(h2:text-is(\"Chimeras with this school's players\"))");
     const n = await sec.locator("tbody tr").count();
     if (n !== pickupSchool.pickup_teams.length) fail(`school page lists ${n} pickup teams, expected ${pickupSchool.pickup_teams.length}`);
   }

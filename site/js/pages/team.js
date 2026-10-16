@@ -24,8 +24,8 @@ export async function render(ctx) {
 
   root.appendChild(pageHead({
     eyebrow: [h("a", { href: "#/teams" }, "Teams"), h("span", { "aria-hidden": "true" }, "/"),
-      t.composite ? "Pickup team" : schoolA(t.school, t.school_name), t.state ? h("span", { class: "muted" }, t.state) : null,
-      t.composite ? badge("Pickup / composite team") : null],
+      t.composite ? "Chimera" : schoolA(t.school, t.school_name), t.state ? h("span", { class: "muted" }, t.state) : null,
+      t.composite ? badge("Chimera") : null],
     title: t.name,
     sub: [
       t.composite ? (aff ? h("span", null, "Players mostly from ", schoolA(aff.id, aff.name)) : h("span", null, "Players from several schools")) : null,
@@ -41,7 +41,7 @@ export async function render(ctx) {
   root.appendChild(h("div", { class: "tiles" },
     tile("Rating", t.r != null ? [fmt.r(t.r), h("span", { class: "pm" }, fmt.pm(t.rd))] : "Unrated", t.r != null ? "Glicko-2 ± deviation" : "No rated games yet"),
     tile("Rank", t[rk] != null ? `#${t[rk]}` : "Unranked",
-      t[rk] != null ? `of ${fmt.int(nRanked)} ranked teams${t.composite ? " incl. pickup teams" : ""}` : t.r == null ? "–" : !active ? "Inactive" : `Provisional (± above ${m.thresholds.ranked_rd})`),
+      t[rk] != null ? `of ${fmt.int(nRanked)} ranked teams${t.composite ? " incl. Chimeras" : ""}` : t.r == null ? "–" : !active ? "Inactive" : `Provisional (± above ${m.thresholds.ranked_rd})`),
     tile("Record", t.g ? fmt.record(t.w, t.l, t.t) : "–", `${fmt.plural(t.g, "rated game")}`),
     tile("Peak rating", fmt.r(t.peak), t.peak != null ? "after a tournament" : null),
     tile("Tournaments", fmt.int(t.n_t), t.seasons.length > 1 ? `in ${t.seasons.length} seasons` : t.seasons[0] || null),

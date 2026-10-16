@@ -28,14 +28,14 @@ characters as long as JS iterates code points with `for...of`.)
   n_shards }
 ```
 
-## `teams.json` — one row per team entry (school + letter, or a composite/pickup team)
+## `teams.json` — one row per team entry (school + letter, or a Chimera: composite team of players from different schools)
 ```
 { id, name, school, school_name, state, composite, letter, affiliate (composite teams: school id their
   players mostly come from, else null),
   r, rd,                 // Glicko-2 rating and deviation (null if the team never played a rated game)
   rank,                  // rank among ranked school teams (rd <= ranked_rd and active), else null;
-                         //   always null for pickup/composite teams, which the site hides by default
-  rank_open,             // rank among all ranked teams, pickup/composite teams included
+                         //   always null for Chimeras (composite teams), which the site hides by default
+  rank_open,             // rank among all ranked teams, Chimeras included
   rank_all,              // rank among all rated teams
   g, w, l, t,            // rated games and record
   first, last,           // first/last tournament date

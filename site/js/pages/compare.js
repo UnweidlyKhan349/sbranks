@@ -124,7 +124,7 @@ export async function render(ctx) {
       ["Rank", teamRank(A), teamRank(B)],
       ["Record", A.g ? fmt.record(A.w, A.l, A.t) : "–", B.g ? fmt.record(B.w, B.l, B.t) : "–"],
       ["Peak", fmt.r(A.peak), fmt.r(B.peak)],
-      ["School", A.composite ? "Pickup team" : schoolA(A.school, A.school_name), B.composite ? "Pickup team" : schoolA(B.school, B.school_name)],
+      ["School", A.composite ? "Chimera" : schoolA(A.school, A.school_name), B.composite ? "Chimera" : schoolA(B.school, B.school_name)],
       ["Tournaments", String(A.n_t), String(B.n_t)],
       ["Last played", fmt.date(A.last), fmt.date(B.last)],
     ], A, B)));
@@ -145,7 +145,7 @@ export async function render(ctx) {
 
   function teamRank(x) {
     const r = x.composite ? x.rank_open : x.rank;
-    return r ? `#${r}${x.composite ? " (incl. pickups)" : ""}` : "unranked";
+    return r ? `#${r}${x.composite ? " (incl. Chimeras)" : ""}` : "unranked";
   }
 
   async function comparePlayers(A, B) {

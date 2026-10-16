@@ -19,7 +19,7 @@ export async function render(ctx) {
   const seasons = [...new Set(entries.flatMap((t) => t.seasons))].sort();
   const root = h("div");
   root.appendChild(pageHead({
-    eyebrow: [h("a", { href: "#/teams" }, "Teams"), h("span", { "aria-hidden": "true" }, "/"), sc.composite ? "Pickup team" : "School", sc.composite ? badge("Pickup / composite") : null],
+    eyebrow: [h("a", { href: "#/teams" }, "Teams"), h("span", { "aria-hidden": "true" }, "/"), sc.composite ? "Chimera" : "School", sc.composite ? badge("Chimera") : null],
     title: sc.name,
     sub: [sc.composite ? (aff ? h("span", null, "Players mostly from ", schoolA(aff.id, aff.name)) : h("span", { class: "muted" }, "Players from several schools"))
       : [sc.city, sc.state].filter(Boolean).join(", ") || h("span", { class: "muted" }, "Location not recorded"),
@@ -28,7 +28,7 @@ export async function render(ctx) {
   if (sc.composite) {
     // pickup/composite placeholder "school": one team, no NSB history, players listed on the team page
     root.appendChild(h("div", { class: "section", style: { "margin-top": 0, "margin-bottom": "20px" } }, notice(h("span", null,
-      "This is a pickup or composite team made up of players from ", aff ? "mostly one school" : "several schools", ", not a school. ",
+      "This is a Chimera, a team made up of players from ", aff ? "mostly one school" : "several schools", ", not a school. ",
       entries.length === 1 ? ["See ", teamA(T, entries[0].id, { pickup: false }), " for its games and roster."] : null))));
   }
   if (sc.composite && entries.length === 1) {
@@ -55,13 +55,13 @@ export async function render(ctx) {
   ], entries, { sort: { key: "r", dir: "desc" }, empty: "No team entries." })));
 
   if (pickups.length) {
-    root.appendChild(section("Pickup teams with this school's players", "Online pickup and composite teams whose players mostly come from this school; their games count for those teams, not for the school's own entries", dataTable([
+    root.appendChild(section("Chimeras with this school's players", "Chimeras (teams of players from different schools) whose players mostly come from this school; their games count for those teams, not for the school's own entries", dataTable([
       { key: "name", label: "Team", cls: "name", sort: (t) => t.name, render: (t) => teamA(T, t.id, { pickup: false }) },
       { key: "r", label: "Rating", num: true, sort: (t) => t.r, render: (t) => ratingCell(t.r, t.rd, { provisional: t.r != null && t.rank_open == null }) },
       { key: "rec", label: "W–L–T", num: true, sort: (t) => (t.g ? (t.w + 0.5 * t.t) / t.g : null), render: (t) => (t.g ? fmt.record(t.w, t.l, t.t) : "–") },
       { key: "n_t", label: "Tournaments", num: true, sort: (t) => t.n_t, render: (t) => t.n_t },
       { key: "last", label: "Last played", sort: (t) => t.last, defaultDir: "desc", render: (t) => h("span", { class: "nowrap" }, fmt.date(t.last)) },
-    ], pickups, { sort: { key: "last", dir: "desc" }, caption: "Pickup teams with this school's players", captionHidden: true })));
+    ], pickups, { sort: { key: "last", dir: "desc" }, caption: "Chimeras with this school's players", captionHidden: true })));
   }
 
   if (sc.composite) return root;

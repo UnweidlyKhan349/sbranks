@@ -26,7 +26,7 @@ export async function render(ctx) {
   const root = h("div");
   root.appendChild(pageHead({
     title: "Team rankings",
-    sub: h("span", null, `${fmt.int(T.list.length)} team entries (A/B/C… school teams; online pickup and composite teams are hidden unless you include them). Overall ratings are Glicko-2; subject ratings are Elo-scaled points per tossup heard. `,
+    sub: h("span", null, `${fmt.int(T.list.length)} team entries (A/B/C… school teams; Chimeras, teams of players from different schools, are hidden unless you include them). Overall ratings are Glicko-2; subject ratings are Elo-scaled points per tossup heard. `,
       h("a", { href: "#/about" }, "Methodology")),
   }));
 
@@ -55,7 +55,7 @@ export async function render(ctx) {
   };
   const [activeLbl] = box("Active only", "active", `Played within ${m.thresholds.active_days} days of the latest tournament`);
   const [rankedLbl, rankedBox] = box("Ranked only", "ranked", `Overall: rating deviation at most ${m.thresholds.ranked_rd} and active. Subjects: enough tossups heard and active.`);
-  const [compLbl] = box("Include pickup/composite teams", "comp", "Online pickup teams and composite teams made of players from several schools");
+  const [compLbl] = box("Include Chimeras", "comp", "Chimeras: teams made of players from different schools");
   const csv = csvButton("sbranks-teams.csv", ["rank", "team", "school", "state", "rating", "deviation", "wins", "losses", "ties", "games", "last_played"],
     () => current.map((t) => {
       const v = val(t);
@@ -123,11 +123,11 @@ export async function render(ctx) {
     }
     const subj = st.s !== "overall";
     const columns = [
-      { key: "rank", label: "#", num: true, cls: "rank", title: "Rank among ranked teams (school teams only unless pickup teams are included)", sort: (t) => rankOf(t), defaultDir: "asc", render: (t) => rankOf(t) ?? "–" },
+      { key: "rank", label: "#", num: true, cls: "rank", title: "Rank among ranked teams (school teams only unless Chimeras are included)", sort: (t) => rankOf(t), defaultDir: "asc", render: (t) => rankOf(t) ?? "–" },
       { key: "name", label: "Team", cls: "name", sort: (t) => t.name, render: (t) => h("div", null, teamA(T, t.id), t.state ? h("span", { class: "sub show-sm" }, t.state) : null) },
       { key: "school", label: "School", cls: "wrap", hideSm: true, sort: (t) => (t.composite ? "" : t.school_name || ""),
         render: (t) => (t.composite
-          ? h("div", null, h("span", { class: "muted" }, "Pickup team"), t.affiliate && S.byId.has(t.affiliate) ? h("span", { class: "sub" }, "mostly ", schoolA(t.affiliate, S.byId.get(t.affiliate).name)) : null)
+          ? h("div", null, h("span", { class: "muted" }, "Chimera"), t.affiliate && S.byId.has(t.affiliate) ? h("span", { class: "sub" }, "mostly ", schoolA(t.affiliate, S.byId.get(t.affiliate).name)) : null)
           : h("div", null, schoolA(t.school, t.school_name), t.state ? h("span", { class: "sub" }, t.state) : null)) },
       { key: "r", label: subj ? `${subjLabel(st.s)} rating` : "Rating", num: true, sort: (t) => (val(t) ? val(t).r : null), tie: (t) => rankOf(t),
         title: subj ? "Elo-scaled subject rating ± standard error" : "Glicko-2 rating ± rating deviation",

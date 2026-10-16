@@ -7,7 +7,7 @@ export function teamA(T, id, { pickup = true } = {}) {
   const t = T && T.byId.get(id);
   return h("span", { class: "nowrap-ok" },
     h("a", { href: href.team(id) }, t ? t.name : id),
-    pickup && t && t.composite ? h("span", { class: "tag-prov", title: "Pickup or composite team" }, "pickup") : null);
+    pickup && t && t.composite ? h("span", { class: "tag-prov", title: "Chimera: a team of players from different schools" }, "chimera") : null);
 }
 
 export function playerA(P, id, label) {
@@ -29,7 +29,7 @@ export function tournamentA(TR, id) {
 /** "Team name" link plus a muted school/state sub-line. */
 export function teamCell(T, id) {
   const t = T.byId.get(id);
-  return h("div", null, teamA(T, id, { pickup: false }), t ? h("span", { class: "sub" }, (t.composite ? ["Pickup team", t.state] : [t.school_name, t.state]).filter(Boolean).join(" · ")) : null);
+  return h("div", null, teamA(T, id, { pickup: false }), t ? h("span", { class: "sub" }, (t.composite ? ["Chimera", t.state] : [t.school_name, t.state]).filter(Boolean).join(" · ")) : null);
 }
 
 export function tournamentLabel(t) {

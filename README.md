@@ -4,7 +4,7 @@ Elo-style ratings and rankings for US **high-school Science Bowl** teams and pla
 by subject (math, physics, chemistry, biology, Earth & space, energy), built from published
 tournament results since the 2019–20 season plus the DOE National Science Bowl.
 
-- **Teams** (school entries like *Lynbrook A*, and online pickup/composite teams) get a
+- **Teams** (school entries like *Lynbrook A*, and Chimeras, teams of players from different schools) get a
   **Glicko-2** rating on the Elo scale (1500 = average) from game results, with margin of victory,
   deviation that grows with time away, and priors for B teams and novice events. Parameters are
   tuned by back-testing (`python -m pipeline.build --tune`).
@@ -115,7 +115,7 @@ new tournament. In the repository settings, set **Pages → Source** to **GitHub
    `pipeline/schema.py`. Then `python -m pipeline.parse --only <id>` and
    `python -m pipeline.validate --only <id>`.
 4. `python -m pipeline.resolve --report` lists team names that match no known school. Add new
-   schools, aliases and pickup teams to a curation file in `sources/reference/curation/`
+   schools, aliases and Chimeras (composite teams) to a curation file in `sources/reference/curation/`
    (`half-1.yaml` / `half-2.yaml`, or a new `*.yaml` with the same structure), then run
    `python -m pipeline.curation merge`, which regenerates `sources/reference/schools.yaml` and
    `team_aliases.yaml`. Player-name fixes go in `sources/reference/player_aliases.yaml`.

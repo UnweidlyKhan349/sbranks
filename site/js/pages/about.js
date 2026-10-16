@@ -30,7 +30,7 @@ export async function render(ctx) {
     p("It is an independent fan project. Ratings are estimates from incomplete data, not official standings."),
 
     h("h2", null, "Team ratings (Glicko-2)"),
-    p("Each team entry — a school's A, B or C team, or a pickup/composite team — has a ", h("strong", null, "Glicko-2"), " rating shown on the Elo scale, where 1500 is average. Glicko-2 is Elo with an uncertainty term: the ± next to a rating is its ", h("em", null, "rating deviation"), " (RD), and a game moves a team further when its RD is high or the result is unexpected."),
+    p("Each team entry — a school's A, B or C team, or a Chimera (a team of players from different schools) — has a ", h("strong", null, "Glicko-2"), " rating shown on the Elo scale, where 1500 is average. Glicko-2 is Elo with an uncertainty term: the ± next to a rating is its ", h("em", null, "rating deviation"), " (RD), and a game moves a team further when its RD is high or the result is unexpected."),
     h("ul", null,
       li(h("strong", null, "Rating periods. "), "Tournaments are processed in date order. Each tournament is one rating period: every game there is judged against the teams' pre-tournament ratings, and ratings update once at the end. Those pre-tournament ratings are also what the win probabilities on game logs use."),
       li(h("strong", null, "Margin of victory. "), `When both scores are known, the game's result is a blend: ${g.mov_weight != null ? Math.round((1 - g.mov_weight) * 100) + "%" : "part"} win/loss and ${g.mov_weight != null ? Math.round(g.mov_weight * 100) + "%" : "part"} a smooth function of the point margin (scale ${g.mov_scale ?? "–"} points), so a 150-point win moves ratings more than a 4-point win. Win/loss-only results (Nationals, bracket sites) use a plain update.`),
@@ -56,13 +56,13 @@ export async function render(ctx) {
     h("h2", null, "Ranked, provisional and active"),
     h("ul", null,
       li(h("strong", null, "Active: "), `played within ${m.thresholds.active_days} days of the latest tournament in the data (${fmt.date(m.snapshot)}).`),
-      li(h("strong", null, "Ranked teams: "), `active, with a rating deviation of ${m.thresholds.ranked_rd} or less. Everyone else is shown as provisional (faded rows, “prov” tags) and has no rank number. Pickup and composite teams are rated but hidden from the leaderboard by default; ranks count school teams only unless you include them.`),
+      li(h("strong", null, "Ranked teams: "), `active, with a rating deviation of ${m.thresholds.ranked_rd} or less. Everyone else is shown as provisional (faded rows, “prov” tags) and has no rank number. Chimeras (teams of players from different schools) are rated but hidden from the leaderboard by default; ranks count school teams only unless you include them.`),
       li(h("strong", null, "Ranked players: "), `active, with at least ${m.thresholds.player_min_tuh.overall} effective tossups heard overall (${m.thresholds.player_min_tuh.math} per subject for subject rankings) across at least ${m.thresholds.player_min_tournaments ?? 2} tournaments, so one hot weekend is not enough to top the list.`),
       li("Faded bars in subject charts mark provisional subject ratings.")),
 
     h("h2", null, "Data coverage"),
     p(`${fmt.int(TR.list.length)} high-school tournaments are listed; ${fmt.int(withData.length)} have results in the data, ${fmt.int(withStats.length)} have individual player statistics and ${fmt.int(withSubj.length)} have per-subject statistics. Events with no obtainable results are still listed and marked “No results available”. National Science Bowl results contribute wins and losses only — no scores, player or subject statistics are published for Nationals.`),
-    p("Coverage is uneven: some tournaments publish every buzz, others only final standings. Online events and pickup teams make up a large share of the data. Ratings carry uncertainty for exactly this reason."),
+    p("Coverage is uneven: some tournaments publish every buzz, others only final standings. Online events and Chimeras make up a large share of the data. Ratings carry uncertainty for exactly this reason."),
 
     h("h2", null, "Sources and credits"),
     p("This site would not exist without the organizers and volunteers who run tournaments and publish their results. Data comes from:"),
