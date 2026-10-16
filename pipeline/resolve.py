@@ -226,12 +226,20 @@ def build() -> dict[str, Any]:
     player_obs: list[dict[str, Any]] = []   # (tournament, raw player, team id, school, season)
     tinfo = []
     conflicts: list[dict[str, Any]] = []
+    competitors: list[tuple[str, str, str]] = []  # 1v1 events: (tournament, name in the games, clean name)
 
     for t in tournaments:
         d = load_parsed(t.id)
         team_map: dict[str, str] = {}
         if t.get("individual"):
-            # 1v1 events: competitors are people, not teams. Keep only their player stats.
+            # 1v1 events: competitors are people, not teams. Each competitor is a player (rated
+            # from the 1v1 results in build.py); published player stats are kept as well.
+            for tr in d["teams"]:
+                name = clean_player_name(tr["team"])
+                if name:
+                    player_obs.append({"tournament_id": t.id, "season": t.season, "raw": name,
+                                       "team_id": None, "school_id": "x-individual", "composite": True})
+                    competitors.append((t.id, tr["team"], name))
             for r in d["player_stats"]:
                 name = clean_player_name(r["player"])
                 if not name:
@@ -306,6 +314,7 @@ def build() -> dict[str, Any]:
     out = {
         "schools": schools_out, "teams": teams, "players": players, "games": games,
         "player_stats": pstats, "team_game_subjects": tgs, "entries": entries,
+        "competitors": {f"{tid}::{raw}": raw_to_pid[(tid, name, None)] for tid, raw, name in competitors},
         "unmatched_team_bases": R.unmatched.most_common(),
         "tournament_ids": [t.id for t in tinfo],
         "conflicts": conflicts,

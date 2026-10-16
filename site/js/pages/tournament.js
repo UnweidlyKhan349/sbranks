@@ -92,9 +92,10 @@ export async function render(ctx) {
         render: (r) => (r.post == null ? "–" : h("span", { class: "nowrap" }, r.pre != null ? h("span", { class: "muted" }, `${fmt.r(r.pre)} → `) : null, fmt.r(r.post))) },
       { key: "dr", label: "Change", num: true, title: "Change in overall rating at this tournament", sort: (r) => r.dr, render: (r) => delta(r.dr) },
     ] : []),
-    { key: "rating", label: "Rating now", num: true, hideSm: true, title: "Current overall rating", sort: (r) => (T.byId.get(r.tm) || {}).r, render: (r) => fmt.r((T.byId.get(r.tm) || {}).r) },
+    // events that do not move the overall rating (single-subject) show the team's current rating instead
+    rated ? null : { key: "rating", label: "Rating now", num: true, hideSm: true, title: "Current overall rating", sort: (r) => (T.byId.get(r.tm) || {}).r, render: (r) => fmt.r((T.byId.get(r.tm) || {}).r) },
     { key: "note", label: "", render: (r) => (r.tm === champ ? champBadge() : "") },
-  ], t.teams || [], { empty: "No standings." })));
+  ].filter(Boolean), t.teams || [], { empty: "No standings." })));
 
   // ---- games by stage / round
   root.appendChild(gamesSection(t.games || [], T));
@@ -135,11 +136,16 @@ function renderIndividual(root, row, t, P, T, TR) {
       { key: "ppg", label: "PPG", num: true, sort: (c) => c.ppg, render: (c) => fmt.num(c.ppg) },
       { key: "papg", label: "PAPG", num: true, title: "Points allowed per game", sort: (c) => c.papg, render: (c) => fmt.num(c.papg) },
     ] : []),
-    comps.some((c) => c.p) ? { key: "rating", label: subj ? `${subjLabel(subj, true)} rating now` : "Rating now", num: true, title: subj ? `Current ${subjLabel(subj)} rating` : "Current overall rating", sort: rating, render: (c) => fmt.r(rating(c)) } : null,
+    ...(comps.some((c) => c.dr != null) ? [
+      { key: "post", label: "1v1 rating", num: true,
+        title: `Rating from the one-on-one results, before → after this event (mapped onto the ${subj ? subjLabel(subj) : "overall"} scale and combined into the player's ${subj ? subjLabel(subj) : ""} rating)`, sort: (c) => c.post,
+        render: (c) => (c.post == null ? "–" : h("span", { class: "nowrap" }, c.pre != null ? h("span", { class: "muted" }, `${fmt.r(c.pre)} → `) : null, fmt.r(c.post))) },
+      { key: "dr", label: "Change", num: true, title: "Change in the player's rating at this event", sort: (c) => c.dr, render: (c) => delta(c.dr) },
+    ] : comps.some((c) => c.p) ? [{ key: "rating", label: subj ? `${subjLabel(subj, true)} rating now` : "Rating now", num: true, title: subj ? `Current ${subjLabel(subj)} rating` : "Current overall rating", sort: rating, render: (c) => fmt.r(rating(c)) }] : []),
     { key: "note", label: "", render: (c) => (c.champ ? champBadge() : "") },
   ].filter(Boolean);
   const sub = hasRec
-    ? `${fmt.plural(nComp, "competitor")} · records from the one-on-one games, which are not listed individually and do not affect team ratings`
+    ? `${fmt.plural(nComp, "competitor")} · records from the one-on-one games (not listed individually); each competitor is rated as a player from these results`
     : `${fmt.plural(nComp, "competitor")}`;
   root.appendChild(section("Competitors", sub, dataTable(columns, comps, {
     caption: "Competitors", captionHidden: true, pageSize: 100,

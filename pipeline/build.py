@@ -9,9 +9,10 @@ import argparse
 import datetime as dt
 import itertools
 import json
+import math
 import statistics
 import sys
-from collections import defaultdict
+from collections import Counter, defaultdict
 from typing import Any
 
 import yaml
@@ -22,6 +23,7 @@ from .ratings import glicko, statsmodel
 
 PARAMS_FILE = REFERENCE_DIR / "rating_params.yaml"
 DEFAULT_TUH_PER_GAME = 22.0
+PLAYER_MIN_W = {"overall": 200.0}  # established stats-model rating (anchors); subjects default to 30
 
 
 def load_params() -> tuple[glicko.GlickoParams, statsmodel.ModelParams]:
@@ -161,6 +163,91 @@ def sampling_variance(rows: dict[tuple[str, str, str], dict[str, Any]], subj: st
     return 16.0 * (c + n) / tuh - (pts / tuh) ** 2
 
 
+TUH_PER_1V1_GAME = 20.0  # effective tossups credited per 1v1 game (for the subject ranking threshold)
+
+
+def individual_ratings(res: dict[str, Any], tourns: dict[str, registry.Tournament], gparams: glicko.GlickoParams,
+                       player_models: dict[str, Any]) -> dict[str, Any]:
+    """Player ratings from 1v1 events (e.g. the Earth & Space scrimmages): each competitor is
+    just the player. Glicko-2 runs over the 1v1 games with players as the entities; the result
+    is mapped onto the stats-model scale of the event's subject with a weighted linear fit over
+    players rated both ways, then combined (precision-weighted) with the player's stats-model
+    subject rating, or used on its own for players without one.
+
+    Returns {"games": {tid: [{t1, t2, pre1, pre2, post1, post2}]}, "players": {pid: [tid, ...]},
+             "post": {(tid, pid): (pre, post)}} on the mapped scale, for the export."""
+    from .schema import load_parsed
+    comp = res.get("competitors") or {}
+    by_subj: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    appear: dict[str, list[str]] = defaultdict(list)
+    for tid, t in tourns.items():
+        if not t.get("individual"):
+            continue
+        num = lambda x: None if x in (None, "") else float(x)  # noqa: E731
+        games = []
+        for g in load_parsed(tid)["games"]:
+            p1, p2 = comp.get(f"{tid}::{g['team1']}"), comp.get(f"{tid}::{g['team2']}")
+            if not p1 or not p2 or p1 == p2:
+                continue
+            games.append({"game_id": g["game_id"], "seq": int(g["seq"] or 0), "team1": p1, "team2": p2,
+                          "score1": num(g["score1"]), "score2": num(g["score2"]), "result": g["result"],
+                          "forfeit": g.get("forfeit") in ("1", "true", "True"), "tournament_id": tid})
+        for pid in {x for g in games for x in (g["team1"], g["team2"])}:
+            appear[pid].append(tid)
+        by_subj[t.get("subject_only") or "overall"].append(
+            {"id": tid, "date": t.end_date, "start": t.date, "season": t.season, "level": t.get("level") or "standard",
+             "kind": t.get("kind"), "games": sorted(games, key=lambda g: (g["seq"], g["game_id"]))})
+    out: dict[str, Any] = {"players": dict(appear), "change": {}}
+    for subj, periods in by_subj.items():
+        periods.sort(key=lambda p: (p["date"], p["start"], p["id"]))
+        meta = {pid: {"school_id": f"p:{pid}", "letter": "A", "composite": True}
+                for per in periods for g in per["games"] for pid in (g["team1"], g["team2"])}
+        gr = glicko.run(periods, meta, gparams)
+        m = player_models.get(subj)
+        if not m:
+            continue
+        ents = m["entities"]
+        # anchor: players with both a 1v1 rating and an established stats-model subject rating
+        pairs = [(ents[pid]["rating"], s.r, 1.0 / (ents[pid]["se"] ** 2 + s.rd ** 2))
+                 for pid, s in gr["teams"].items() if pid in ents and ents[pid]["eff_weight"] >= PLAYER_MIN_W.get(subj, 30)]
+        if len(pairs) >= 8:
+            W = sum(w for _, _, w in pairs)
+            mx = sum(w * x for _, x, w in pairs) / W
+            my = sum(w * y for y, _, w in pairs) / W
+            sxx = sum(w * (x - mx) ** 2 for _, x, w in pairs)
+            b = max(0.2, min(2.0, sum(w * (x - mx) * (y - my) for y, x, w in pairs) / sxx)) if sxx else 1.0
+            a = my - b * mx
+            resid = sum(w * (y - a - b * x) ** 2 for y, x, w in pairs) / W
+        else:
+            a, b, resid = 0.0, 1.0, 0.0
+        print(f"1v1 ratings ({subj}): {len(gr['teams'])} players, {len(pairs)} anchors, "
+              f"mapped = {a:.0f} + {b:.2f} x glicko", flush=True)
+        n_games: Counter[str] = Counter()
+        for g in gr["games"]:
+            n_games[g["team1"]] += 1
+            n_games[g["team2"]] += 1
+        for pid, s in gr["teams"].items():
+            mr, mse = a + b * s.r, math.sqrt((b * s.rd) ** 2 + resid)
+            e = ents.get(pid)
+            day = statsmodel.day(max(tourns[t].end_date for t in appear[pid]))
+            if e:
+                w1, w2 = 1.0 / e["se"] ** 2, 1.0 / mse ** 2
+                e["rating"] = (w1 * e["rating"] + w2 * mr) / (w1 + w2)
+                e["se"] = math.sqrt(1.0 / (w1 + w2))
+                e["eff_weight"] += TUH_PER_1V1_GAME * n_games[pid]
+                e["tournaments"] += len(appear[pid])
+                e["last_day"] = max(e["last_day"], day)
+            else:
+                ents[pid] = {"rating": mr, "se": mse, "theta": None, "eff_weight": TUH_PER_1V1_GAME * n_games[pid],
+                             "weight": TUH_PER_1V1_GAME * n_games[pid], "tournaments": len(appear[pid]), "last_day": day}
+                m["history"][pid] = [{"day": statsmodel.day(h["date"]), "rating": round(a + b * h["r"], 1),
+                                      "se": round(math.sqrt((b * h["rd"]) ** 2 + resid), 1)} for h in gr["history"].get(pid, [])]
+        for pid, hs in gr["history"].items():
+            for h in hs:
+                out["change"][(h["tournament_id"], pid)] = (round(a + b * h["pre"], 1), round(a + b * h["r"], 1))
+    return out
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--tune", action="store_true")
@@ -226,9 +313,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"stats model {subj}: {len(pm['entities'])} players (k={pm.get('k_theta', 0):.1f}, beta={pm['beta']:.3f}, "
               f"spread={pm['spread']:.3f}), {len(team_models.get(subj, {}).get('entities', {}))} teams", flush=True)
 
+    indiv = individual_ratings(res, tourns, gparams, player_models)
+
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
     from . import export
-    export.export(res, tourns, gres, gparams, player_models, team_models, rows, strength)
+    export.export(res, tourns, gres, gparams, player_models, team_models, rows, strength, indiv)
     return 0
 
 

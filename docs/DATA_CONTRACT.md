@@ -119,10 +119,11 @@ Tournament row (above) plus:
   players: [{p, tm, post?, pre?, dr?, s: { overall|<subject>: {gp, tuh, c, n, pts, ppg, gp_est} }}],
                                     // post = overall player rating after this tournament; pre/dr = previous
                                     //   snapshot and change (absent for a player's first rated tournament)
-  competitors?: [{name, p, w, l, t, g, ppg, papg, champ}] }  // individual events only
+  competitors?: [{name, p, w, l, t, g, ppg, papg, champ, pre?, post?, dr?}] }  // individual events only
 ```
 `competitors` = standings of a 1v1 event computed from its games (forfeits left out of the records),
-sorted like `teams`; `p` = the competitor's player id when the event published player stats, else `null`.
+sorted like `teams`; `p` = the competitor's player id (every competitor is a player); `pre`/`post`/`dr` = the
+player's rating in the event's subject before/after it, from the one-on-one results (build.py `individual_ratings`).
 
 ## `nationals.json`
 ```

@@ -49,7 +49,8 @@ def _rank(items: list[tuple[str, float]]) -> dict[str, int]:
 
 def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: dict[str, Any],
            gparams: glicko.GlickoParams, player_models: dict[str, Any], team_models: dict[str, Any],
-           rows: dict[tuple[str, str, str], dict[str, Any]], strength: dict[str, float]) -> None:
+           rows: dict[tuple[str, str, str], dict[str, Any]], strength: dict[str, float],
+           indiv: dict[str, Any] | None = None) -> None:
     if SITE_DATA_DIR.exists():
         shutil.rmtree(SITE_DATA_DIR)
     SITE_DATA_DIR.mkdir(parents=True)
@@ -73,6 +74,8 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     for (tid, pid, subj), r in rows.items():
         rows_by_t[tid].append(r)
     # 1v1 events: raw competitor name -> player id (when the event published player stats)
+    indiv = indiv or {"players": {}, "change": {}}
+    comp_pid = res.get("competitors") or {}
     pid_by_raw = {(r["tournament_id"], r["raw_player"]): r["player_id"] for r in res["player_stats"] if r["team_id"] is None}
 
     tournaments_out = []
@@ -100,7 +103,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
                     r["pa"] += g[so]
                     r["gs"] += 1
         champion = _champion(gl)
-        competitors = _individual_standings(tid, pid_by_raw) if t.get("individual") else None
+        competitors = _individual_standings(tid, comp_pid, indiv["change"]) if t.get("individual") else None
         prow: dict[str, dict[str, Any]] = {}
         t_day = t.end_date.toordinal()
         for r in rows_by_t.get(tid, []):
@@ -151,7 +154,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             # 1v1 events have no team entries: count the competitors and their games instead
             meta.update(n_competitors=len(competitors["rows"]), n_games=competitors["n_games"],
                         n_scored=competitors["n_scored"], champion_name=competitors["champion"],
-                        champion_player=pid_by_raw.get((tid, competitors["champion"])))
+                        champion_player=comp_pid.get(f"{tid}::{competitors['champion']}"))
         tournaments_out.append(meta)
         _write(f"tournaments/{tid}.json", {
             **meta,
@@ -300,7 +303,7 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
     for pid, p in players.items():
         prs = rows_by_p.get(pid, [])
         ov = [r for r in prs if r["subject"] == "overall"]
-        tids = sorted({r["tournament_id"] for r in prs}, key=lambda x: tdate[x])
+        tids = sorted({r["tournament_id"] for r in prs} | set(indiv["players"].get(pid, [])), key=lambda x: tdate[x])
         tot_pts = sum(r["est_points"] or 0 for r in ov if not tourns[r["tournament_id"]].get("subject_only"))
         tot_gp = sum(r["est_gp"] or 0 for r in ov if not tourns[r["tournament_id"]].get("subject_only") and r["est_points"] is not None)
         tot_tuh = sum(r["tuh"] or 0 for r in ov if r["tuh"] and not tourns[r["tournament_id"]].get("subject_only"))
@@ -337,6 +340,10 @@ def export(res: dict[str, Any], tourns: dict[str, registry.Tournament], gres: di
             e["s"][r["subject"]] = {kk: _r(vv, 2) for kk, vv in (
                 ("gp", r["gp"] if r["gp"] is not None else r["est_gp"]), ("tuh", r["tuh"]), ("c", r["correct"]),
                 ("n", r["negs"]), ("pts", r["points"] if r["points"] is not None else r["est_points"]), ("ppg", r["ppg"])) if vv is not None}
+        for tid in indiv["players"].get(pid, []):
+            # 1v1 events without published stats still appear in the player's tournament list
+            if not any(k[0] == tid for k in stats):
+                stats[(tid, None)].update(t=tid, d=tdate[tid], tm=None, scope="all")
         player_details[shard_of(pid)][pid] = {
             "history": {sj: [{"d": _date(x["day"]), "r": x["rating"], "se": x["se"]} for x in m["history"].get(pid, [])]
                         for sj, m in pm.items() if m["history"].get(pid)},
@@ -486,7 +493,8 @@ def _champion(gl: list[dict[str, Any]]) -> str | None:
     return champ
 
 
-def _individual_standings(tid: str, pid_by_raw: dict[tuple[str, str], str]) -> dict[str, Any]:
+def _individual_standings(tid: str, comp_pid: dict[str, str],
+                          change: dict[tuple[str, str], tuple[float, float]]) -> dict[str, Any]:
     """Standings of a 1v1 event from its parsed games (each competitor is a one-person "team").
 
     Same rules as team standings: forfeit-flagged games are left out of the records; the champion
@@ -517,9 +525,16 @@ def _individual_standings(tid: str, pid_by_raw: dict[tuple[str, str], str]) -> d
                 r["pa"] += g[so]
                 r["gs"] += 1
     champ = _champion(games)
-    rows = [{"name": name, "p": pid_by_raw.get((tid, name)), "w": r["w"], "l": r["l"], "t": r["t"], "g": r["g"],
-             "ppg": _r(r["pf"] / r["gs"]) if r["gs"] else None, "papg": _r(r["pa"] / r["gs"]) if r["gs"] else None,
-             "champ": name == champ} for name, r in rec.items()]
+    rows = []
+    for name, r in rec.items():
+        pid = comp_pid.get(f"{tid}::{name}")
+        row = {"name": name, "p": pid, "w": r["w"], "l": r["l"], "t": r["t"], "g": r["g"],
+               "ppg": _r(r["pf"] / r["gs"]) if r["gs"] else None, "papg": _r(r["pa"] / r["gs"]) if r["gs"] else None,
+               "champ": name == champ}
+        ch = change.get((tid, pid)) if pid else None
+        if ch:  # player rating (event subject) before and after, from the 1v1 results
+            row.update(pre=ch[0], post=ch[1], dr=_r(ch[1] - ch[0]))
+        rows.append(row)
     rows.sort(key=lambda x: (-(x["w"] + 0.5 * x["t"]), x["l"], -(x["ppg"] or -999), x["name"]))
     return {"rows": rows, "n_games": len(games), "n_scored": sum(1 for g in games if g["score1"] is not None),
             "champion": champ}
