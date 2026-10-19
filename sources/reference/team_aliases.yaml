@@ -612,6 +612,21 @@ overrides:
   2026-05-31-nssb::Galen A:
     school: mission-san-jose-high-school-ca
     letter: A
+  2026-10-04-smh-2026::TMSA Apex:
+    school: triangle-math-and-science-academy-nc
+    letter: A
+  2026-10-18-lexington-online-scibowl-tournament-3::William G. Enloe High School A:
+    school: enloe-high-school-nc
+    letter: A
+  2026-10-18-lexington-online-scibowl-tournament-3::William G. Enloe High School B:
+    school: enloe-high-school-nc
+    letter: B
+  2026-10-18-lexington-online-scibowl-tournament-3::William G. Enloe High School C:
+    school: enloe-high-school-nc
+    letter: C
+  2026-10-18-lexington-online-scibowl-tournament-3::William P. Clements High School A:
+    school: clements-high-school-tx
+    letter: A
   Lakeside High School:
     school: lakeside-high-school-evans-ga
     letter: A

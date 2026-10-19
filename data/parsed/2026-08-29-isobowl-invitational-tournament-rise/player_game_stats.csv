@@ -10,13 +10,13 @@ game_id,player,team,subject,correct,negs,points
 03361a6a,Praneel,TMSA,overall,0,0,0
 03361a6a,Praneel,TMSA,other,0,0,0
 03361a6a,Praneel,TMSA,biology,0,0,0
-03361a6a,Aniket,TMSA,overall,2,0,8
-03361a6a,Aniket,TMSA,chemistry,1,0,4
+03361a6a,aniket m,TMSA,overall,2,0,8
+03361a6a,aniket m,TMSA,chemistry,1,0,4
 03361a6a,Isaac,Collierville C,chemistry,1,0,4
 03361a6a,akshat m,TMSA,overall,0,0,0
 03361a6a,akshat m,TMSA,physics,0,0,0
 03361a6a,Isaac,Collierville C,physics,0,0,0
-03361a6a,Aniket,TMSA,ess,1,0,4
+03361a6a,aniket m,TMSA,ess,1,0,4
 03361a6a,Sanjeev,Collierville C,ess,1,0,4
 03361a6a,Rishabh,TMSA,ess,0,0,0
 03361a6a,Rishabh,TMSA,other,0,0,0
@@ -221,8 +221,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 2c088feb,Rishabh,TMSA,chemistry,0,0,0
 2c088feb,Rishabh,TMSA,physics,0,0,0
 2c088feb,Shashank,Lambert,ess,0,0,0
-2c088feb,Aniket,TMSA,overall,0,0,0
-2c088feb,Aniket,TMSA,ess,0,0,0
+2c088feb,aniket m,TMSA,overall,0,0,0
+2c088feb,aniket m,TMSA,ess,0,0,0
 2c088feb,Rochan,Lambert,other,1,0,4
 2c088feb,Shashank,Lambert,chemistry,1,0,4
 2c088feb,viren,Lambert,ess,0,0,0
@@ -353,8 +353,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 2c9e7064,Arjun Pandey,BI Fremont HS,chemistry,1,0,4
 2c9e7064,Aarnav Rudraraju,BI Fremont HS,ess,0,0,0
 2c9e7064,Charith,Collierville A,ess,1,0,4
-2c9e7064,Anthony,BI Fremont HS,overall,0,0,0
-2c9e7064,Anthony,BI Fremont HS,math,0,0,0
+2c9e7064,anthony h,BI Fremont HS,overall,0,0,0
+2c9e7064,anthony h,BI Fremont HS,math,0,0,0
 2c9e7064,Arjun Pandey,BI Fremont HS,other,1,0,4
 2c9e7064,Arjun Pandey,BI Fremont HS,ess,1,0,4
 2c9e7064,Kevin Chen,BI Fremont HS,biology,0,0,0
@@ -419,8 +419,8 @@ f4a98246,Teddy,Canyon Crest B,math,1,0,4
 5a9bf79f,frank chen,Arcadia B,other,0,0,0
 74587065,Praneel,TMSA,overall,2,0,8
 74587065,Praneel,TMSA,biology,1,0,4
-74587065,Aniket,TMSA,overall,1,0,4
-74587065,Aniket,TMSA,chemistry,1,0,4
+74587065,aniket m,TMSA,overall,1,0,4
+74587065,aniket m,TMSA,chemistry,1,0,4
 74587065,akshat m,TMSA,overall,3,0,12
 74587065,akshat m,TMSA,physics,1,0,4
 74587065,Ty Dutoit,Punahou,overall,2,0,8
@@ -607,8 +607,8 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 16b2317e,Rochan,Lambert,biology,2,0,8
 16b2317e,Arjun Pandey,BI Fremont HS,physics,1,0,4
 16b2317e,viren,Lambert,ess,1,0,4
-16b2317e,Anthony,BI Fremont HS,overall,1,0,4
-16b2317e,Anthony,BI Fremont HS,math,1,0,4
+16b2317e,anthony h,BI Fremont HS,overall,1,0,4
+16b2317e,anthony h,BI Fremont HS,math,1,0,4
 16b2317e,Kshitij,BI Fremont HS,chemistry,1,0,4
 16b2317e,Rochan,Lambert,ess,0,0,0
 16b2317e,viren,Lambert,math,0,0,0
@@ -659,11 +659,11 @@ cef82d1a,Akshaj Mishra,Bridgeland A,other,0,0,0
 8bad3092,akshat m,TMSA,physics,1,0,4
 8bad3092,Rishabh,TMSA,ess,0,0,0
 8bad3092,Rishabh,TMSA,biology,2,0,8
-8bad3092,Aniket,TMSA,overall,1,0,4
-8bad3092,Aniket,TMSA,chemistry,1,0,4
+8bad3092,aniket m,TMSA,overall,1,0,4
+8bad3092,aniket m,TMSA,chemistry,1,0,4
 8bad3092,Praneel,TMSA,ess,1,0,4
 8bad3092,Timothy Yu,BISV C,math,0,0,0
-8bad3092,Aniket,TMSA,other,0,0,0
+8bad3092,aniket m,TMSA,other,0,0,0
 8bad3092,Praneel,TMSA,other,1,0,4
 e806b260,Ty Dutoit,Punahou,overall,4,0,16
 e806b260,Ty Dutoit,Punahou,biology,2,0,8
@@ -734,8 +734,8 @@ e806b260,Teddy,Canyon Crest B,other,1,0,4
 8674dd7c,Aarnav Rudraraju,BI Fremont HS,ess,1,0,4
 8674dd7c,Santhosh V,Collierville B,ess,0,0,0
 8674dd7c,Arjun Pandey,BI Fremont HS,math,1,0,4
-8674dd7c,Anthony,BI Fremont HS,overall,1,0,4
-8674dd7c,Anthony,BI Fremont HS,other,1,0,4
+8674dd7c,anthony h,BI Fremont HS,overall,1,0,4
+8674dd7c,anthony h,BI Fremont HS,other,1,0,4
 8674dd7c,Kevin Chen,BI Fremont HS,biology,0,0,0
 8674dd7c,Aarnav Rudraraju,BI Fremont HS,physics,0,0,0
 8674dd7c,Kevin Chen,BI Fremont HS,math,0,0,0
@@ -762,8 +762,8 @@ e806b260,Teddy,Canyon Crest B,other,1,0,4
 8674dd7c,Tahmeed S,Collierville B,math,0,0,0
 da9b5774,Teddy,Canyon Crest B,overall,0,0,0
 da9b5774,Teddy,Canyon Crest B,biology,0,0,0
-da9b5774,Aniket,TMSA,overall,1,1,0
-da9b5774,Aniket,TMSA,chemistry,0,1,-4
+da9b5774,aniket m,TMSA,overall,1,1,0
+da9b5774,aniket m,TMSA,chemistry,0,1,-4
 da9b5774,Sihu Ahn,Canyon Crest B,overall,2,0,8
 da9b5774,Sihu Ahn,Canyon Crest B,chemistry,0,0,0
 da9b5774,akshat m,TMSA,overall,4,0,16
@@ -778,10 +778,10 @@ da9b5774,Rishabh,TMSA,overall,0,1,-4
 da9b5774,Rishabh,TMSA,biology,0,1,-4
 da9b5774,Sihu Ahn,Canyon Crest B,biology,2,0,8
 da9b5774,Gavin Yang,Canyon Crest B,other,0,0,0
-da9b5774,Aniket,TMSA,physics,0,0,0
+da9b5774,aniket m,TMSA,physics,0,0,0
 da9b5774,Euan Lee,Canyon Crest B,overall,2,0,8
 da9b5774,Euan Lee,Canyon Crest B,physics,0,0,0
-da9b5774,Aniket,TMSA,ess,1,0,4
+da9b5774,aniket m,TMSA,ess,1,0,4
 da9b5774,Sihu Ahn,Canyon Crest B,other,0,0,0
 da9b5774,akshat m,TMSA,other,0,0,0
 da9b5774,Euan Lee,Canyon Crest B,biology,1,0,4
@@ -904,12 +904,12 @@ fe9846aa,Charith,Collierville B,other,1,0,4
 9e6498d3,Arjun Pandey,BI Fremont HS,chemistry,1,0,4
 9e6498d3,Rishabh,TMSA,ess,0,0,0
 9e6498d3,Arjun Pandey,BI Fremont HS,math,0,0,0
-9e6498d3,Anthony,BI Fremont HS,overall,0,0,0
-9e6498d3,Anthony,BI Fremont HS,other,0,0,0
+9e6498d3,anthony h,BI Fremont HS,overall,0,0,0
+9e6498d3,anthony h,BI Fremont HS,other,0,0,0
 9e6498d3,Rishabh,TMSA,chemistry,0,1,-4
 9e6498d3,Aarnav Rudraraju,BI Fremont HS,ess,0,1,-4
-9e6498d3,Aniket,TMSA,overall,1,0,4
-9e6498d3,Aniket,TMSA,chemistry,1,0,4
+9e6498d3,aniket m,TMSA,overall,1,0,4
+9e6498d3,aniket m,TMSA,chemistry,1,0,4
 9e6498d3,akshat m,TMSA,physics,0,0,0
 9e6498d3,Arjun Pandey,BI Fremont HS,other,0,0,0
 9e6498d3,Praneel,TMSA,overall,0,0,0
@@ -926,8 +926,8 @@ fe9846aa,Charith,Collierville B,other,1,0,4
 4ffdda93,Aarnav Rudraraju,BI Fremont HS,ess,0,1,-4
 4ffdda93,Rochan,Lambert,overall,1,0,4
 4ffdda93,Rochan,Lambert,ess,0,0,0
-4ffdda93,Anthony,BI Fremont HS,overall,1,0,4
-4ffdda93,Anthony,BI Fremont HS,math,1,0,4
+4ffdda93,anthony h,BI Fremont HS,overall,1,0,4
+4ffdda93,anthony h,BI Fremont HS,math,1,0,4
 4ffdda93,Shashank,Lambert,math,1,0,4
 4ffdda93,viren,Lambert,other,0,0,0
 4ffdda93,Kevin Chen,BI Fremont HS,overall,0,1,-4
@@ -963,8 +963,8 @@ fe9846aa,Charith,Collierville B,other,1,0,4
 4b9f759f,Rochan,Lambert,other,1,0,4
 4b9f759f,Rishabh,TMSA,overall,1,1,0
 4b9f759f,Rishabh,TMSA,biology,1,1,0
-4b9f759f,Aniket,TMSA,overall,0,0,0
-4b9f759f,Aniket,TMSA,chemistry,0,0,0
+4b9f759f,aniket m,TMSA,overall,0,0,0
+4b9f759f,aniket m,TMSA,chemistry,0,0,0
 4b9f759f,Shashank,Lambert,chemistry,0,0,0
 4b9f759f,Shashank,Lambert,physics,0,0,0
 4b9f759f,Shashank,Lambert,ess,1,0,4
@@ -993,8 +993,8 @@ fe9846aa,Charith,Collierville B,other,1,0,4
 859d1244,Rochan,Lambert,chemistry,1,0,4
 859d1244,Rochan,Lambert,ess,1,0,4
 859d1244,Shashank,Lambert,ess,0,0,0
-859d1244,Aniket,TMSA,overall,0,0,0
-859d1244,Aniket,TMSA,ess,0,0,0
+859d1244,aniket m,TMSA,overall,0,0,0
+859d1244,aniket m,TMSA,ess,0,0,0
 859d1244,Rochan,Lambert,math,0,0,0
 859d1244,akshat m,TMSA,other,0,0,0
 859d1244,Shashank,Lambert,chemistry,1,0,4

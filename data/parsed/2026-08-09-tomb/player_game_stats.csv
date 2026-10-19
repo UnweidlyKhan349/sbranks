@@ -41,8 +41,8 @@ game_id,player,team,subject,correct,negs,points
 4076b38c,Sohil,Hills Academy,math,8,3,20
 4076b38c,Minghao G,Lebron to the 76ers,overall,1,0,4
 4076b38c,Minghao G,Lebron to the 76ers,math,1,0,4
-55719747,akhil,Long Live Luggy,overall,1,3,-8
-55719747,akhil,Long Live Luggy,math,1,3,-8
+55719747,akhil b,Long Live Luggy,overall,1,3,-8
+55719747,akhil b,Long Live Luggy,math,1,3,-8
 55719747,marianne,BFIT,overall,2,1,4
 55719747,marianne,BFIT,math,2,1,4
 55719747,Advik S,Long Live Luggy,overall,10,2,32
@@ -69,8 +69,8 @@ db8d9a15,Kian D,School of Geometry,overall,1,0,4
 db8d9a15,Kian D,School of Geometry,math,1,0,4
 db8d9a15,WADF Treasurer,83% WADF,overall,1,0,4
 db8d9a15,WADF Treasurer,83% WADF,math,1,0,4
-eafbb996,Anish,Mathlete,overall,6,0,24
-eafbb996,Anish,Mathlete,math,6,0,24
+eafbb996,anish r,Mathlete,overall,6,0,24
+eafbb996,anish r,Mathlete,math,6,0,24
 eafbb996,Dennis J,Math Nexus,overall,11,1,40
 eafbb996,Dennis J,Math Nexus,math,11,1,40
 eafbb996,Ishaan R,Math Nexus,overall,1,1,0
@@ -93,8 +93,8 @@ eafbb996,Ishaan R,Math Nexus,math,1,1,0
 2407b987,Minghao G,Lebron to the 76ers,math,2,0,8
 2407b987,Krithik,Orang,overall,3,0,12
 2407b987,Krithik,Orang,math,3,0,12
-3872b1dd,Anish,Mathlete,overall,14,0,56
-3872b1dd,Anish,Mathlete,math,14,0,56
+3872b1dd,anish r,Mathlete,overall,14,0,56
+3872b1dd,anish r,Mathlete,math,14,0,56
 3872b1dd,Karam Gill,Ainai72,overall,4,5,-4
 3872b1dd,Karam Gill,Ainai72,math,4,5,-4
 3872b1dd,Maxwell Tsai,Ainai72,overall,1,1,0
@@ -131,8 +131,8 @@ eafbb996,Ishaan R,Math Nexus,math,1,1,0
 8828a289,Rohan G,School of Geometry,math,10,1,36
 8828a289,Advik S,Long Live Luggy,overall,4,0,16
 8828a289,Advik S,Long Live Luggy,math,4,0,16
-8828a289,akhil,Long Live Luggy,overall,1,2,-4
-8828a289,akhil,Long Live Luggy,math,1,2,-4
+8828a289,akhil b,Long Live Luggy,overall,1,2,-4
+8828a289,akhil b,Long Live Luggy,math,1,2,-4
 8828a289,Vishnu M,School of Geometry,overall,2,0,8
 8828a289,Vishnu M,School of Geometry,math,2,0,8
 8828a289,Kian D,School of Geometry,overall,3,0,12
@@ -161,8 +161,8 @@ b22c3dbb,Sujit D,CatGPT,math,1,0,4
 0a3af8ba,Krithik,Orang,math,4,1,12
 0a3af8ba,Alex S,Orang,overall,7,1,24
 0a3af8ba,Alex S,Orang,math,7,1,24
-294b2694,akhil,Long Live Luggy,overall,3,3,0
-294b2694,akhil,Long Live Luggy,math,3,3,0
+294b2694,akhil b,Long Live Luggy,overall,3,3,0
+294b2694,akhil b,Long Live Luggy,math,3,3,0
 294b2694,Isaac,"Carl, Friedrich, and Gauss",overall,3,0,12
 294b2694,Isaac,"Carl, Friedrich, and Gauss",math,3,0,12
 294b2694,Advik S,Long Live Luggy,overall,8,3,20
@@ -175,8 +175,8 @@ b22c3dbb,Sujit D,CatGPT,math,1,0,4
 294b2694,Sanjeev,"Carl, Friedrich, and Gauss",math,1,0,4
 5939e30c,Sam E,FXX,overall,6,3,12
 5939e30c,Sam E,FXX,math,6,3,12
-5939e30c,Anish,Mathlete,overall,9,1,32
-5939e30c,Anish,Mathlete,math,9,1,32
+5939e30c,anish r,Mathlete,overall,9,1,32
+5939e30c,anish r,Mathlete,math,9,1,32
 5939e30c,Mont,FXX,overall,2,0,8
 5939e30c,Mont,FXX,math,2,0,8
 62f5b6cc,Arnav D,Dulles Dolls,overall,8,1,28
@@ -269,8 +269,8 @@ f5292ad0,Sujit D,CatGPT,math,1,0,4
 75b63223,Abhishek C,Doral Kong Kribbers,math,6,2,16
 75b63223,Advik S,Long Live Luggy,overall,5,0,20
 75b63223,Advik S,Long Live Luggy,math,5,0,20
-75b63223,akhil,Long Live Luggy,overall,1,3,-8
-75b63223,akhil,Long Live Luggy,math,1,3,-8
+75b63223,akhil b,Long Live Luggy,overall,1,3,-8
+75b63223,akhil b,Long Live Luggy,math,1,3,-8
 75b63223,Ulduar,Doral Kong Kribbers,overall,2,0,8
 75b63223,Ulduar,Doral Kong Kribbers,math,2,0,8
 75b63223,Raymond,Long Live Luggy,overall,1,2,-4
@@ -293,8 +293,8 @@ c02f56fa,Patrick L,Indeterminate,overall,5,0,20
 c02f56fa,Patrick L,Indeterminate,math,5,0,20
 c02f56fa,Krithik,Orang,overall,4,0,16
 c02f56fa,Krithik,Orang,math,4,0,16
-cc428755,Anish,Mathlete,overall,13,1,48
-cc428755,Anish,Mathlete,math,13,1,48
+cc428755,anish r,Mathlete,overall,13,1,48
+cc428755,anish r,Mathlete,math,13,1,48
 cc428755,Achuth V,CatGPT,overall,2,0,8
 cc428755,Achuth V,CatGPT,math,2,0,8
 e9f0de24,Karam Gill,Ainai72,overall,3,0,12
@@ -381,12 +381,12 @@ d28a505e,WADF Treasurer,83% WADF,overall,2,0,8
 d28a505e,WADF Treasurer,83% WADF,math,2,0,8
 d28a505e,WADF Witch Hunter,83% WADF,overall,5,0,20
 d28a505e,WADF Witch Hunter,83% WADF,math,5,0,20
-d28a505e,akhil,Long Live Luggy,overall,1,2,-4
-d28a505e,akhil,Long Live Luggy,math,1,2,-4
+d28a505e,akhil b,Long Live Luggy,overall,1,2,-4
+d28a505e,akhil b,Long Live Luggy,math,1,2,-4
 e45653f0,ishaan kabra,Idk,overall,1,2,-4
 e45653f0,ishaan kabra,Idk,math,1,2,-4
-e45653f0,Anish,Mathlete,overall,5,1,16
-e45653f0,Anish,Mathlete,math,5,1,16
+e45653f0,anish r,Mathlete,overall,5,1,16
+e45653f0,anish r,Mathlete,math,5,1,16
 e45653f0,Varyan J,Idk,overall,7,2,20
 e45653f0,Varyan J,Idk,math,7,2,20
 f6e38a03,Sanjeev,"Carl, Friedrich, and Gauss",overall,0,2,-8
@@ -429,8 +429,8 @@ f6e38a03,afstoecker,BFIT,math,0,0,0
 3fe9f851,Vishnu M,School of Geometry,math,0,0,0
 3fe9f851,Shruthi R,Dulles Dolls,overall,3,0,12
 3fe9f851,Shruthi R,Dulles Dolls,math,3,0,12
-80730a1c,Anish,Mathlete,overall,8,1,28
-80730a1c,Anish,Mathlete,math,8,1,28
+80730a1c,anish r,Mathlete,overall,8,1,28
+80730a1c,anish r,Mathlete,math,8,1,28
 80730a1c,Abhishek C,Doral Kong Kribbers,overall,9,1,32
 80730a1c,Abhishek C,Doral Kong Kribbers,math,9,1,32
 b94e0d9a,ishaan kabra,Idk,overall,5,1,16
@@ -441,8 +441,8 @@ b94e0d9a,Varyan J,Idk,overall,7,2,20
 b94e0d9a,Varyan J,Idk,math,7,2,20
 cbd0f4ed,Sohil,Hills Academy,overall,15,1,56
 cbd0f4ed,Sohil,Hills Academy,math,15,1,56
-cbd0f4ed,akhil,Long Live Luggy,overall,3,2,4
-cbd0f4ed,akhil,Long Live Luggy,math,3,2,4
+cbd0f4ed,akhil b,Long Live Luggy,overall,3,2,4
+cbd0f4ed,akhil b,Long Live Luggy,math,3,2,4
 cbd0f4ed,Advik S,Long Live Luggy,overall,1,1,0
 cbd0f4ed,Advik S,Long Live Luggy,math,1,1,0
 d33a2dad,Alex S,Orang,overall,13,1,48
@@ -461,16 +461,16 @@ e8dc522b,Sujit D,CatGPT,overall,0,0,0
 e8dc522b,Sujit D,CatGPT,math,0,0,0
 e8dc522b,WADF Treasurer,83% WADF,overall,5,0,20
 e8dc522b,WADF Treasurer,83% WADF,math,5,0,20
-18cef965,akhil,Long Live Luggy,overall,5,2,12
-18cef965,akhil,Long Live Luggy,math,5,2,12
+18cef965,akhil b,Long Live Luggy,overall,5,2,12
+18cef965,akhil b,Long Live Luggy,math,5,2,12
 18cef965,Kevin Lu,Indeterminate,overall,1,0,4
 18cef965,Kevin Lu,Indeterminate,math,1,0,4
 18cef965,Patrick L,Indeterminate,overall,5,1,16
 18cef965,Patrick L,Indeterminate,math,5,1,16
 18cef965,Advik S,Long Live Luggy,overall,3,0,12
 18cef965,Advik S,Long Live Luggy,math,3,0,12
-1be71b8d,Anish,Mathlete,overall,9,0,36
-1be71b8d,Anish,Mathlete,math,9,0,36
+1be71b8d,anish r,Mathlete,overall,9,0,36
+1be71b8d,anish r,Mathlete,math,9,0,36
 1be71b8d,Sujit D,CatGPT,overall,1,0,4
 1be71b8d,Sujit D,CatGPT,math,1,0,4
 27765861,Arnav D,Dulles Dolls,overall,7,2,20
@@ -535,8 +535,8 @@ e1bca7fc,Mont,FXX,math,1,1,0
 33036b15,Veeraj S,Dulles Dolls,math,1,0,4
 732c40cc,Varyan J,Idk,overall,2,1,4
 732c40cc,Varyan J,Idk,math,2,1,4
-732c40cc,Anish,Mathlete,overall,2,3,-4
-732c40cc,Anish,Mathlete,math,2,3,-4
+732c40cc,anish r,Mathlete,overall,2,3,-4
+732c40cc,anish r,Mathlete,math,2,3,-4
 732c40cc,ishaan kabra,Idk,overall,1,0,4
 732c40cc,ishaan kabra,Idk,math,1,0,4
 a178ec73,yaoi,FXX,overall,4,0,16
@@ -555,8 +555,8 @@ f6e68fdf,Minghao G,Lebron to the 76ers,overall,3,0,12
 f6e68fdf,Minghao G,Lebron to the 76ers,math,3,0,12
 f6e68fdf,vockey,Lebron to the 76ers,overall,2,1,4
 f6e68fdf,vockey,Lebron to the 76ers,math,2,1,4
-f6e68fdf,akhil,Long Live Luggy,overall,2,2,0
-f6e68fdf,akhil,Long Live Luggy,math,2,2,0
+f6e68fdf,akhil b,Long Live Luggy,overall,2,2,0
+f6e68fdf,akhil b,Long Live Luggy,math,2,2,0
 49f59c34,Alex S,Orang,overall,10,1,36
 49f59c34,Alex S,Orang,math,10,1,36
 49f59c34,james w,Ainai72,overall,1,0,4

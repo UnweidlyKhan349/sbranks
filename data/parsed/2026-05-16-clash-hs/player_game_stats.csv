@@ -40,21 +40,21 @@ game_id,player,team,subject,correct,negs,points
 0227e9de,Riyan N,Shallow Walk A,physics,1,0,4
 0227e9de,Nimit A,Shallow Walk A,overall,1,0,4
 0227e9de,Nimit A,Shallow Walk A,ess,1,0,4
-0adbb23a,akhil,ASFA,overall,11,4,28
-0adbb23a,akhil,ASFA,physics,1,1,0
-0adbb23a,akhil,ASFA,math,3,0,12
+0adbb23a,akhil b,ASFA,overall,11,4,28
+0adbb23a,akhil b,ASFA,physics,1,1,0
+0adbb23a,akhil b,ASFA,math,3,0,12
 0adbb23a,Luke Itomura,Punahou,overall,4,1,12
 0adbb23a,Luke Itomura,Punahou,biology,3,1,8
-0adbb23a,akhil,ASFA,biology,1,2,-4
-0adbb23a,akhil,ASFA,chemistry,3,0,12
-0adbb23a,akhil,ASFA,ess,2,1,4
+0adbb23a,akhil b,ASFA,biology,1,2,-4
+0adbb23a,akhil b,ASFA,chemistry,3,0,12
+0adbb23a,akhil b,ASFA,ess,2,1,4
 0adbb23a,Travis D,Punahou,overall,5,2,12
 0adbb23a,Travis D,Punahou,physics,1,0,4
 0adbb23a,Travis D,Punahou,chemistry,1,1,0
 0adbb23a,Travis D,Punahou,ess,2,1,4
 0adbb23a,Luke Itomura,Punahou,physics,1,0,4
 0adbb23a,Travis D,Punahou,math,1,0,4
-0adbb23a,akhil,ASFA,other,1,0,4
+0adbb23a,akhil b,ASFA,other,1,0,4
 10292abe,Aayan Ghosh,WWPS B,overall,1,0,4
 10292abe,Aayan Ghosh,WWPS B,physics,0,0,0
 10292abe,Tahmeed S,Collierville HS B,overall,6,0,24
@@ -638,27 +638,27 @@ fe131870,Aldric B,WWPN,other,1,0,4
 6220677a,Kaylee Z,Palo Alto,biology,1,0,4
 6220677a,Andrew W,Palo Alto,chemistry,1,0,4
 6220677a,Andrew W,Palo Alto,other,1,0,4
-63cfc70a,akhil,ASFA,overall,6,6,0
-63cfc70a,akhil,ASFA,physics,2,1,4
+63cfc70a,akhil b,ASFA,overall,6,6,0
+63cfc70a,akhil b,ASFA,physics,2,1,4
 63cfc70a,bluewater16,Royal Hogs,overall,2,0,8
 63cfc70a,bluewater16,Royal Hogs,math,1,0,4
-63cfc70a,akhil,ASFA,biology,2,1,4
+63cfc70a,akhil b,ASFA,biology,2,1,4
 63cfc70a,bluewater16,Royal Hogs,chemistry,1,0,4
-63cfc70a,akhil,ASFA,ess,0,3,-12
+63cfc70a,akhil b,ASFA,ess,0,3,-12
 63cfc70a,sumin,Royal Hogs,overall,6,0,24
 63cfc70a,sumin,Royal Hogs,ess,3,0,12
 63cfc70a,sumin,Royal Hogs,physics,1,0,4
-63cfc70a,akhil,ASFA,math,0,1,-4
+63cfc70a,akhil b,ASFA,math,0,1,-4
 63cfc70a,Tiger,Royal Hogs,overall,2,0,8
 63cfc70a,Tiger,Royal Hogs,math,1,0,4
-63cfc70a,akhil,ASFA,chemistry,1,0,4
+63cfc70a,akhil b,ASFA,chemistry,1,0,4
 63cfc70a,Tiger,Royal Hogs,physics,1,0,4
 63cfc70a,Raymond,ASFA,overall,2,0,8
 63cfc70a,Raymond,ASFA,math,2,0,8
 63cfc70a,Achuth V,Royal Hogs,overall,1,1,0
 63cfc70a,Achuth V,Royal Hogs,biology,1,1,0
 63cfc70a,sumin,Royal Hogs,chemistry,2,0,8
-63cfc70a,akhil,ASFA,other,1,0,4
+63cfc70a,akhil b,ASFA,other,1,0,4
 77541916,Roshan A,MSJ A,overall,7,4,12
 77541916,Roshan A,MSJ A,physics,2,1,4
 77541916,Praneel A,MAAOC,overall,5,1,16
@@ -1110,21 +1110,21 @@ e165b8e0,daniel l,Re2rement Home,other,1,0,4
 5531249f,Avish B,Jordan,other,1,0,4
 56f38de9,Eric G,BISV HS B,overall,0,1,-4
 56f38de9,Eric G,BISV HS B,physics,0,1,-4
-56f38de9,akhil,ASFA,overall,12,3,36
-56f38de9,akhil,ASFA,physics,3,1,8
+56f38de9,akhil b,ASFA,overall,12,3,36
+56f38de9,akhil b,ASFA,physics,3,1,8
 56f38de9,Raymond,ASFA,overall,4,0,16
 56f38de9,Raymond,ASFA,math,2,0,8
-56f38de9,akhil,ASFA,biology,3,0,12
-56f38de9,akhil,ASFA,chemistry,2,0,8
+56f38de9,akhil b,ASFA,biology,3,0,12
+56f38de9,akhil b,ASFA,chemistry,2,0,8
 56f38de9,Eric G,BISV HS B,chemistry,0,0,0
-56f38de9,akhil,ASFA,ess,4,0,16
+56f38de9,akhil b,ASFA,ess,4,0,16
 56f38de9,Lucas Q,BISV HS B,overall,3,0,12
 56f38de9,Lucas Q,BISV HS B,math,2,0,8
 56f38de9,Raymond,ASFA,biology,1,0,4
 56f38de9,Raymond,ASFA,chemistry,1,0,4
 56f38de9,Lucas Q,BISV HS B,physics,1,0,4
-56f38de9,akhil,ASFA,math,0,1,-4
-56f38de9,akhil,ASFA,other,0,1,-4
+56f38de9,akhil b,ASFA,math,0,1,-4
+56f38de9,akhil b,ASFA,other,0,1,-4
 56f38de9,Lucas Q,BISV HS B,other,0,0,0
 6125c52c,Leo Y,North Allegheny,overall,5,2,12
 6125c52c,Leo Y,North Allegheny,physics,1,1,0
@@ -1455,25 +1455,25 @@ e5d4cab9,Timothy C,University,other,0,0,0
 03401cba,Kian D,School of Geology,ess,1,0,4
 03401cba,Rohan G,School of Geology,other,0,1,-4
 03401cba,Kaartic M,North Allegheny,other,1,0,4
-0a2f9c1c,akhil,ASFA,overall,14,3,44
-0a2f9c1c,akhil,ASFA,physics,3,0,12
+0a2f9c1c,akhil b,ASFA,overall,14,3,44
+0a2f9c1c,akhil b,ASFA,physics,3,0,12
 0a2f9c1c,Raymond,ASFA,overall,1,2,-4
 0a2f9c1c,Raymond,ASFA,math,0,2,-8
 0a2f9c1c,William Chen,Jordan,overall,1,1,0
 0a2f9c1c,William Chen,Jordan,math,1,1,0
-0a2f9c1c,akhil,ASFA,biology,4,0,16
-0a2f9c1c,akhil,ASFA,chemistry,1,2,-4
+0a2f9c1c,akhil b,ASFA,biology,4,0,16
+0a2f9c1c,akhil b,ASFA,chemistry,1,2,-4
 0a2f9c1c,Brandon,Jordan,overall,0,0,0
 0a2f9c1c,Brandon,Jordan,chemistry,0,0,0
-0a2f9c1c,akhil,ASFA,ess,4,0,16
+0a2f9c1c,akhil b,ASFA,ess,4,0,16
 0a2f9c1c,Avish B,Jordan,overall,1,1,0
 0a2f9c1c,Avish B,Jordan,physics,1,0,4
-0a2f9c1c,akhil,ASFA,math,2,0,8
+0a2f9c1c,akhil b,ASFA,math,2,0,8
 0a2f9c1c,Avish B,Jordan,chemistry,0,1,-4
 0a2f9c1c,Raymond,ASFA,chemistry,1,0,4
 0a2f9c1c,Max T,Jordan,overall,0,1,-4
 0a2f9c1c,Max T,Jordan,biology,0,1,-4
-0a2f9c1c,akhil,ASFA,other,0,1,-4
+0a2f9c1c,akhil b,ASFA,other,0,1,-4
 0a2f9c1c,Avish B,Jordan,other,0,0,0
 0e9acdba,Praneel A,MAAOC,overall,8,1,28
 0e9acdba,Praneel A,MAAOC,physics,2,1,4
@@ -2090,19 +2090,19 @@ fbf566ce,Oliver Y,Enloe,other,1,0,4
 8f029834,ZhiyuZhao BISV,BISV HS B,overall,1,0,4
 8f029834,ZhiyuZhao BISV,BISV HS B,biology,1,0,4
 8f029834,Lucas Q,BISV HS B,other,1,0,4
-9340799c,akhil,ASFA,overall,11,3,32
-9340799c,akhil,ASFA,physics,3,1,8
-9340799c,akhil,ASFA,math,1,0,4
+9340799c,akhil b,ASFA,overall,11,3,32
+9340799c,akhil b,ASFA,physics,3,1,8
+9340799c,akhil b,ASFA,math,1,0,4
 9340799c,Stephanie Y,University,overall,0,1,-4
 9340799c,Stephanie Y,University,biology,0,1,-4
 9340799c,Raymond,ASFA,overall,2,2,0
 9340799c,Raymond,ASFA,biology,1,0,4
-9340799c,akhil,ASFA,chemistry,2,0,8
-9340799c,akhil,ASFA,ess,2,2,0
+9340799c,akhil b,ASFA,chemistry,2,0,8
+9340799c,akhil b,ASFA,ess,2,2,0
 9340799c,Raymond,ASFA,math,0,1,-4
 9340799c,Timothy C,University,overall,2,2,0
 9340799c,Timothy C,University,math,1,1,0
-9340799c,akhil,ASFA,biology,3,0,12
+9340799c,akhil b,ASFA,biology,3,0,12
 9340799c,Timothy C,University,physics,1,0,4
 9340799c,Carl L,University,overall,0,1,-4
 9340799c,Carl L,University,chemistry,0,1,-4
@@ -2630,8 +2630,8 @@ b57d983a,daniel l,Re2rement Home,physics,1,0,4
 b57d983a,Angelina Y,Re2rement Home,chemistry,1,0,4
 b57d983a,Rohan G,School of Geology,ess,1,0,4
 b57d983a,daniel l,Re2rement Home,other,1,0,4
-b834e417,akhil,ASFA,overall,8,1,28
-b834e417,akhil,ASFA,physics,2,1,4
+b834e417,akhil b,ASFA,overall,8,1,28
+b834e417,akhil b,ASFA,physics,2,1,4
 b834e417,Sam E,Montgomery Blair,overall,1,1,0
 b834e417,Sam E,Montgomery Blair,physics,1,0,4
 b834e417,Samuel W,Montgomery Blair,overall,3,3,0
@@ -2639,9 +2639,9 @@ b834e417,Samuel W,Montgomery Blair,math,0,1,-4
 b834e417,Raymond,ASFA,overall,0,0,0
 b834e417,Raymond,ASFA,math,0,0,0
 b834e417,Samuel W,Montgomery Blair,biology,2,2,0
-b834e417,akhil,ASFA,biology,1,0,4
-b834e417,akhil,ASFA,chemistry,3,0,12
-b834e417,akhil,ASFA,ess,2,0,8
+b834e417,akhil b,ASFA,biology,1,0,4
+b834e417,akhil b,ASFA,chemistry,3,0,12
+b834e417,akhil b,ASFA,ess,2,0,8
 b834e417,Chris W,Montgomery Blair,overall,4,0,16
 b834e417,Chris W,Montgomery Blair,math,3,0,12
 b834e417,Chris W,Montgomery Blair,physics,1,0,4
@@ -2649,7 +2649,7 @@ b834e417,Sam E,Montgomery Blair,chemistry,0,1,-4
 b834e417,Samuel W,Montgomery Blair,ess,1,0,4
 b834e417,Henry L,Montgomery Blair,overall,1,0,4
 b834e417,Henry L,Montgomery Blair,ess,1,0,4
-b834e417,akhil,ASFA,other,0,0,0
+b834e417,akhil b,ASFA,other,0,0,0
 b834e417,Chris W,Montgomery Blair,other,0,0,0
 cadfc39e,Lucas L,School of Biology,overall,2,3,-4
 cadfc39e,Lucas L,School of Biology,physics,2,1,4
@@ -3063,25 +3063,25 @@ d6d115a7,Sola M,School of Chemistry,other,0,0,0
 d6d115a7,Andrew F,North Allegheny,other,1,0,4
 d7221a83,Riyan N,Shallow Walk A,overall,0,1,-4
 d7221a83,Riyan N,Shallow Walk A,physics,0,1,-4
-d7221a83,akhil,ASFA,overall,11,4,28
-d7221a83,akhil,ASFA,physics,3,0,12
-d7221a83,akhil,ASFA,math,1,1,0
+d7221a83,akhil b,ASFA,overall,11,4,28
+d7221a83,akhil b,ASFA,physics,3,0,12
+d7221a83,akhil b,ASFA,math,1,1,0
 d7221a83,Ryan K,Shallow Walk A,overall,5,1,16
 d7221a83,Ryan K,Shallow Walk A,math,2,0,8
-d7221a83,akhil,ASFA,biology,1,2,-4
-d7221a83,akhil,ASFA,chemistry,3,1,8
+d7221a83,akhil b,ASFA,biology,1,2,-4
+d7221a83,akhil b,ASFA,chemistry,3,1,8
 d7221a83,Ryan K,Shallow Walk A,ess,1,0,4
 d7221a83,Ryan K,Shallow Walk A,physics,1,0,4
 d7221a83,Ryan K,Shallow Walk A,biology,1,1,0
 d7221a83,Ryan K,Shallow Walk A,chemistry,0,0,0
-d7221a83,akhil,ASFA,ess,2,0,8
+d7221a83,akhil b,ASFA,ess,2,0,8
 d7221a83,Rish B.,Shallow Walk A,overall,0,1,-4
 d7221a83,Rish B.,Shallow Walk A,physics,0,1,-4
 d7221a83,Raymond,ASFA,overall,0,1,-4
 d7221a83,Raymond,ASFA,math,0,1,-4
 d7221a83,Nimit A,Shallow Walk A,overall,0,0,0
 d7221a83,Nimit A,Shallow Walk A,ess,0,0,0
-d7221a83,akhil,ASFA,other,1,0,4
+d7221a83,akhil b,ASFA,other,1,0,4
 edf4908d,suzuko o,Clang! Cloom! Clash!,overall,7,2,20
 edf4908d,suzuko o,Clang! Cloom! Clash!,physics,2,1,4
 edf4908d,Aldric B,WWPN,overall,4,0,16
@@ -3212,8 +3212,8 @@ edf4908d,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
 0feef357,Keene KK,School of Chemistry,overall,1,0,4
 0feef357,Keene KK,School of Chemistry,chemistry,1,0,4
 0feef357,Roshan A,MSJ A,other,1,0,4
-76e11c69,akhil,ASFA,overall,5,2,12
-76e11c69,akhil,ASFA,physics,2,0,8
+76e11c69,akhil b,ASFA,overall,5,2,12
+76e11c69,akhil b,ASFA,physics,2,0,8
 76e11c69,suzuko o,Clang! Cloom! Clash!,overall,5,1,16
 76e11c69,suzuko o,Clang! Cloom! Clash!,math,2,0,8
 76e11c69,suzuko o,Clang! Cloom! Clash!,biology,2,0,8
@@ -3222,14 +3222,14 @@ edf4908d,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
 76e11c69,Connor Chang,Clang! Cloom! Clash!,overall,2,0,8
 76e11c69,Connor Chang,Clang! Cloom! Clash!,ess,2,0,8
 76e11c69,suzuko o,Clang! Cloom! Clash!,physics,1,1,0
-76e11c69,akhil,ASFA,chemistry,1,0,4
-76e11c69,akhil,ASFA,ess,0,0,0
-76e11c69,akhil,ASFA,math,1,0,4
-76e11c69,akhil,ASFA,biology,1,1,0
+76e11c69,akhil b,ASFA,chemistry,1,0,4
+76e11c69,akhil b,ASFA,ess,0,0,0
+76e11c69,akhil b,ASFA,math,1,0,4
+76e11c69,akhil b,ASFA,biology,1,1,0
 76e11c69,Vishnu M,Clang! Cloom! Clash!,math,1,0,4
 76e11c69,Raymond,ASFA,overall,1,0,4
 76e11c69,Raymond,ASFA,chemistry,1,0,4
-76e11c69,akhil,ASFA,other,0,1,-4
+76e11c69,akhil b,ASFA,other,0,1,-4
 76e11c69,Vishnu M,Clang! Cloom! Clash!,other,1,0,4
 a3d0bb5d,Rutvik A,MSJ B,overall,3,0,12
 a3d0bb5d,Rutvik A,MSJ B,physics,2,0,8
@@ -3299,24 +3299,24 @@ e7dcb755,Rohan G,School of Geology,other,1,0,4
 cc49955b,Rutvik A,MSJ B,overall,1,1,0
 cc49955b,Rutvik A,MSJ B,physics,1,0,4
 cc49955b,Rutvik A,MSJ B,math,0,1,-4
-cc49955b,akhil,ASFA,overall,6,2,16
-cc49955b,akhil,ASFA,math,3,0,12
+cc49955b,akhil b,ASFA,overall,6,2,16
+cc49955b,akhil b,ASFA,math,3,0,12
 cc49955b,Anish A,MSJ B,overall,2,2,0
 cc49955b,Anish A,MSJ B,chemistry,2,0,8
-cc49955b,akhil,ASFA,ess,0,1,-4
+cc49955b,akhil b,ASFA,ess,0,1,-4
 cc49955b,Ishaan K,MSJ B,overall,3,0,12
 cc49955b,Ishaan K,MSJ B,ess,2,0,8
-cc49955b,akhil,ASFA,physics,1,0,4
+cc49955b,akhil b,ASFA,physics,1,0,4
 cc49955b,Anish A,MSJ B,biology,0,2,-8
-cc49955b,akhil,ASFA,biology,1,0,4
-cc49955b,akhil,ASFA,chemistry,1,0,4
+cc49955b,akhil b,ASFA,biology,1,0,4
+cc49955b,akhil b,ASFA,chemistry,1,0,4
 cc49955b,Ishaan K,MSJ B,math,0,0,0
 cc49955b,Raymond,ASFA,overall,0,0,0
 cc49955b,Raymond,ASFA,math,0,0,0
 cc49955b,Ishaan K,MSJ B,physics,1,0,4
 cc49955b,Advik S,ASFA,overall,1,0,4
 cc49955b,Advik S,ASFA,biology,1,0,4
-cc49955b,akhil,ASFA,other,0,1,-4
+cc49955b,akhil b,ASFA,other,0,1,-4
 cc49955b,Ishaan K,MSJ B,other,0,0,0
 2af2260e,Eonathan H,Law Abiding Citizens,overall,5,1,16
 2af2260e,Eonathan H,Law Abiding Citizens,physics,1,1,0
@@ -3327,18 +3327,18 @@ cc49955b,Ishaan K,MSJ B,other,0,0,0
 2af2260e,Edward H,Law Abiding Citizens,overall,1,1,0
 2af2260e,Edward H,Law Abiding Citizens,chemistry,1,0,4
 2af2260e,Eonathan H,Law Abiding Citizens,ess,1,0,4
-2af2260e,akhil,ASFA,overall,5,2,12
-2af2260e,akhil,ASFA,ess,2,0,8
-2af2260e,akhil,ASFA,physics,1,1,0
+2af2260e,akhil b,ASFA,overall,5,2,12
+2af2260e,akhil b,ASFA,ess,2,0,8
+2af2260e,akhil b,ASFA,physics,1,1,0
 2af2260e,Edward H,Law Abiding Citizens,biology,0,1,-4
 2af2260e,Advik S,ASFA,biology,1,0,4
 2af2260e,Eddie A,Law Abiding Citizens,overall,1,0,4
 2af2260e,Eddie A,Law Abiding Citizens,chemistry,1,0,4
 2af2260e,Eelena Y,Law Abiding Citizens,overall,2,0,8
 2af2260e,Eelena Y,Law Abiding Citizens,biology,2,0,8
-2af2260e,akhil,ASFA,chemistry,1,1,0
+2af2260e,akhil b,ASFA,chemistry,1,1,0
 2af2260e,Edward H,Law Abiding Citizens,other,0,0,0
-2af2260e,akhil,ASFA,other,1,0,4
+2af2260e,akhil b,ASFA,other,1,0,4
 fa1627cc,Vishnu M,Clang! Cloom! Clash!,overall,3,1,8
 fa1627cc,Vishnu M,Clang! Cloom! Clash!,physics,1,0,4
 fa1627cc,Vishnu M,Clang! Cloom! Clash!,math,0,1,-4

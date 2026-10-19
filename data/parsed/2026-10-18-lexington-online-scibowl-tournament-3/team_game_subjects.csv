@@ -1,0 +1,2051 @@
+game_id,team,subject,points,tossup_points,bonus_points,tossups_correct,negs
+079c5ab0,Archbishop Mitty High School B,biology,28,8,20,2,0
+079c5ab0,Archbishop Mitty High School B,chemistry,28,8,20,2,0
+079c5ab0,Archbishop Mitty High School B,ess,8,8,0,3,1
+079c5ab0,Archbishop Mitty High School B,math,8,8,0,2,0
+079c5ab0,Archbishop Mitty High School B,other,0,0,0,0,0
+079c5ab0,Archbishop Mitty High School B,physics,6,-4,10,1,2
+079c5ab0,Weston High School A,biology,18,8,10,2,0
+079c5ab0,Weston High School A,chemistry,18,8,10,2,0
+079c5ab0,Weston High School A,ess,0,0,0,0,0
+079c5ab0,Weston High School A,math,4,4,0,1,0
+079c5ab0,Weston High School A,other,-4,-4,0,0,1
+079c5ab0,Weston High School A,physics,8,8,0,2,0
+178b614a,Canyon Crest Academy A,biology,32,12,20,3,0
+178b614a,Canyon Crest Academy A,chemistry,18,8,10,3,1
+178b614a,Canyon Crest Academy A,ess,32,12,20,3,0
+178b614a,Canyon Crest Academy A,math,0,0,0,0,0
+178b614a,Canyon Crest Academy A,other,0,0,0,0,0
+178b614a,Canyon Crest Academy A,physics,0,0,0,1,1
+178b614a,Shaker High School B,biology,-4,-4,0,0,1
+178b614a,Shaker High School B,chemistry,4,4,0,1,0
+178b614a,Shaker High School B,ess,0,0,0,0,0
+178b614a,Shaker High School B,math,0,0,0,0,0
+178b614a,Shaker High School B,other,0,0,0,0,0
+178b614a,Shaker High School B,physics,4,4,0,1,0
+2193c5b5,Alabama School of Fine Arts A,biology,24,4,20,2,1
+2193c5b5,Alabama School of Fine Arts A,chemistry,6,-4,10,1,2
+2193c5b5,Alabama School of Fine Arts A,ess,46,16,30,4,0
+2193c5b5,Alabama School of Fine Arts A,math,10,0,10,1,1
+2193c5b5,Alabama School of Fine Arts A,other,14,4,10,1,0
+2193c5b5,Alabama School of Fine Arts A,physics,6,-4,10,1,2
+2193c5b5,Mission San Jose High School A,biology,28,8,20,2,0
+2193c5b5,Mission San Jose High School A,chemistry,32,12,20,3,0
+2193c5b5,Mission San Jose High School A,ess,0,0,0,0,0
+2193c5b5,Mission San Jose High School A,math,32,12,20,3,0
+2193c5b5,Mission San Jose High School A,other,0,0,0,0,0
+2193c5b5,Mission San Jose High School A,physics,14,4,10,1,0
+2a0244e9,BASIS Independent Fremont A,biology,0,0,0,0,0
+2a0244e9,BASIS Independent Fremont A,chemistry,4,4,0,1,0
+2a0244e9,BASIS Independent Fremont A,ess,10,0,10,1,1
+2a0244e9,BASIS Independent Fremont A,math,0,0,0,0,0
+2a0244e9,BASIS Independent Fremont A,other,0,0,0,0,0
+2a0244e9,BASIS Independent Fremont A,physics,14,4,10,1,0
+2a0244e9,Doral Academy A,biology,26,16,10,4,0
+2a0244e9,Doral Academy A,chemistry,4,4,0,2,1
+2a0244e9,Doral Academy A,ess,32,12,20,3,0
+2a0244e9,Doral Academy A,math,36,16,20,4,0
+2a0244e9,Doral Academy A,other,14,4,10,1,0
+2a0244e9,Doral Academy A,physics,38,8,30,3,1
+32053c81,College Park High School A,biology,4,4,0,1,0
+32053c81,College Park High School A,chemistry,18,8,10,2,0
+32053c81,College Park High School A,ess,10,0,10,1,1
+32053c81,College Park High School A,math,4,4,0,1,0
+32053c81,College Park High School A,other,14,4,10,1,0
+32053c81,College Park High School A,physics,-16,-16,0,0,4
+32053c81,Shaker High School A,biology,32,12,20,3,0
+32053c81,Shaker High School A,chemistry,24,4,20,2,1
+32053c81,Shaker High School A,ess,28,8,20,2,0
+32053c81,Shaker High School A,math,0,0,0,0,0
+32053c81,Shaker High School A,other,0,0,0,0,0
+32053c81,Shaker High School A,physics,8,8,0,2,0
+35e94722,Clovis North High School A,biology,42,12,30,3,0
+35e94722,Clovis North High School A,chemistry,28,8,20,2,0
+35e94722,Clovis North High School A,ess,8,8,0,2,0
+35e94722,Clovis North High School A,math,8,8,0,2,0
+35e94722,Clovis North High School A,other,0,0,0,0,0
+35e94722,Clovis North High School A,physics,4,4,0,1,0
+35e94722,Tesla STEM High School A,biology,14,4,10,1,0
+35e94722,Tesla STEM High School A,chemistry,18,8,10,2,0
+35e94722,Tesla STEM High School A,ess,28,8,20,2,0
+35e94722,Tesla STEM High School A,math,28,8,20,2,0
+35e94722,Tesla STEM High School A,other,14,4,10,1,0
+35e94722,Tesla STEM High School A,physics,0,0,0,0,0
+3ab6a572,Carmel High School B,biology,36,16,20,4,0
+3ab6a572,Carmel High School B,chemistry,32,12,20,3,0
+3ab6a572,Carmel High School B,ess,32,12,20,3,0
+3ab6a572,Carmel High School B,math,0,0,0,0,0
+3ab6a572,Carmel High School B,other,0,0,0,0,0
+3ab6a572,Carmel High School B,physics,24,4,20,2,1
+3ab6a572,William G. Enloe High School B,biology,0,0,0,0,0
+3ab6a572,William G. Enloe High School B,chemistry,4,4,0,1,0
+3ab6a572,William G. Enloe High School B,ess,14,4,10,1,0
+3ab6a572,William G. Enloe High School B,math,22,12,10,3,0
+3ab6a572,William G. Enloe High School B,other,0,0,0,0,0
+3ab6a572,William G. Enloe High School B,physics,18,8,10,2,0
+3f48e52f,Obra D. Tompkins High School A,biology,14,4,10,1,0
+3f48e52f,Obra D. Tompkins High School A,chemistry,8,8,0,2,0
+3f48e52f,Obra D. Tompkins High School A,ess,14,4,10,1,0
+3f48e52f,Obra D. Tompkins High School A,math,0,0,0,0,0
+3f48e52f,Obra D. Tompkins High School A,other,0,0,0,0,0
+3f48e52f,Obra D. Tompkins High School A,physics,18,8,10,2,0
+3f48e52f,Triangle Math and Science Academy A,biology,28,8,20,2,0
+3f48e52f,Triangle Math and Science Academy A,chemistry,18,8,10,2,0
+3f48e52f,Triangle Math and Science Academy A,ess,0,0,0,0,0
+3f48e52f,Triangle Math and Science Academy A,math,8,8,0,2,0
+3f48e52f,Triangle Math and Science Academy A,other,0,0,0,0,0
+3f48e52f,Triangle Math and Science Academy A,physics,0,0,0,0,0
+432fbce3,Cupertino High School B,biology,4,4,0,1,0
+432fbce3,Cupertino High School B,chemistry,0,0,0,0,0
+432fbce3,Cupertino High School B,ess,0,0,0,0,0
+432fbce3,Cupertino High School B,math,4,4,0,1,0
+432fbce3,Cupertino High School B,other,4,4,0,1,0
+432fbce3,Cupertino High School B,physics,-4,-4,0,0,1
+432fbce3,Folsom City East High School A,biology,14,4,10,2,1
+432fbce3,Folsom City East High School A,chemistry,12,12,0,3,0
+432fbce3,Folsom City East High School A,ess,18,8,10,2,0
+432fbce3,Folsom City East High School A,math,0,0,0,0,0
+432fbce3,Folsom City East High School A,other,0,0,0,0,0
+432fbce3,Folsom City East High School A,physics,4,4,0,1,0
+4646c0d1,Iolani School A,biology,0,0,0,1,1
+4646c0d1,Iolani School A,chemistry,14,4,10,1,0
+4646c0d1,Iolani School A,ess,14,4,10,1,0
+4646c0d1,Iolani School A,math,14,4,10,1,0
+4646c0d1,Iolani School A,other,0,0,0,0,0
+4646c0d1,Iolani School A,physics,10,0,10,1,1
+4646c0d1,University High School B,biology,14,4,10,1,0
+4646c0d1,University High School B,chemistry,22,12,10,3,0
+4646c0d1,University High School B,ess,18,8,10,2,0
+4646c0d1,University High School B,math,4,4,0,1,0
+4646c0d1,University High School B,other,14,4,10,1,0
+4646c0d1,University High School B,physics,10,0,10,1,1
+54a44b8b,Dulles High School A,biology,38,8,30,3,1
+54a44b8b,Dulles High School A,chemistry,4,4,0,1,0
+54a44b8b,Dulles High School A,ess,28,8,20,3,1
+54a44b8b,Dulles High School A,math,28,8,20,2,0
+54a44b8b,Dulles High School A,other,14,4,10,1,0
+54a44b8b,Dulles High School A,physics,20,0,20,2,2
+54a44b8b,William G. Enloe High School A,biology,14,4,10,1,0
+54a44b8b,William G. Enloe High School A,chemistry,42,12,30,3,0
+54a44b8b,William G. Enloe High School A,ess,-4,-4,0,0,1
+54a44b8b,William G. Enloe High School A,math,14,4,10,1,0
+54a44b8b,William G. Enloe High School A,other,0,0,0,0,0
+54a44b8b,William G. Enloe High School A,physics,18,8,10,2,0
+6c8d83d5,Basis Independent Silicon Valley B,biology,8,8,0,2,0
+6c8d83d5,Basis Independent Silicon Valley B,chemistry,42,12,30,3,0
+6c8d83d5,Basis Independent Silicon Valley B,ess,14,4,10,1,0
+6c8d83d5,Basis Independent Silicon Valley B,math,12,12,0,3,0
+6c8d83d5,Basis Independent Silicon Valley B,other,14,4,10,1,0
+6c8d83d5,Basis Independent Silicon Valley B,physics,32,12,20,3,0
+6c8d83d5,Madison West High School A,biology,18,8,10,2,0
+6c8d83d5,Madison West High School A,chemistry,4,4,0,1,0
+6c8d83d5,Madison West High School A,ess,28,8,20,3,1
+6c8d83d5,Madison West High School A,math,4,4,0,1,0
+6c8d83d5,Madison West High School A,other,0,0,0,0,0
+6c8d83d5,Madison West High School A,physics,10,0,10,1,1
+6e644707,Cupertino High School A,biology,-4,-4,0,0,1
+6e644707,Cupertino High School A,chemistry,4,4,0,1,0
+6e644707,Cupertino High School A,ess,-4,-4,0,0,1
+6e644707,Cupertino High School A,math,18,8,10,2,0
+6e644707,Cupertino High School A,other,14,4,10,1,0
+6e644707,Cupertino High School A,physics,18,8,10,2,0
+6e644707,James Clemens High School A,biology,36,16,20,4,0
+6e644707,James Clemens High School A,chemistry,28,8,20,2,0
+6e644707,James Clemens High School A,ess,22,12,10,3,0
+6e644707,James Clemens High School A,math,8,8,0,2,0
+6e644707,James Clemens High School A,other,0,0,0,0,0
+6e644707,James Clemens High School A,physics,24,4,20,2,1
+73209745,Camas High School A,biology,0,0,0,0,0
+73209745,Camas High School A,chemistry,8,8,0,2,0
+73209745,Camas High School A,ess,18,8,10,2,0
+73209745,Camas High School A,math,4,4,0,1,0
+73209745,Camas High School A,other,0,0,0,0,0
+73209745,Camas High School A,physics,-4,-4,0,0,1
+73209745,Stanford Online High School A,biology,32,12,20,3,0
+73209745,Stanford Online High School A,chemistry,28,8,20,2,0
+73209745,Stanford Online High School A,ess,0,0,0,1,1
+73209745,Stanford Online High School A,math,4,4,0,1,0
+73209745,Stanford Online High School A,other,4,4,0,1,0
+73209745,Stanford Online High School A,physics,46,16,30,4,0
+79016d85,Archbishop Mitty High School A,biology,42,12,30,3,0
+79016d85,Archbishop Mitty High School A,chemistry,0,0,0,0,0
+79016d85,Archbishop Mitty High School A,ess,42,12,30,3,0
+79016d85,Archbishop Mitty High School A,math,14,4,10,1,0
+79016d85,Archbishop Mitty High School A,other,14,4,10,1,0
+79016d85,Archbishop Mitty High School A,physics,-4,-4,0,1,2
+79016d85,William P. Clements High School A,biology,0,0,0,1,1
+79016d85,William P. Clements High School A,chemistry,28,8,20,3,1
+79016d85,William P. Clements High School A,ess,4,4,0,1,0
+79016d85,William P. Clements High School A,math,8,8,0,2,0
+79016d85,William P. Clements High School A,other,0,0,0,0,0
+79016d85,William P. Clements High School A,physics,18,8,10,2,0
+7a043a9d,Arcadia High School A,biology,18,8,10,2,0
+7a043a9d,Arcadia High School A,chemistry,46,16,30,4,0
+7a043a9d,Arcadia High School A,ess,18,8,10,2,0
+7a043a9d,Arcadia High School A,math,0,0,0,0,0
+7a043a9d,Arcadia High School A,other,-4,-4,0,0,1
+7a043a9d,Arcadia High School A,physics,18,8,10,3,1
+7a043a9d,McNeil High School A,biology,28,8,20,2,0
+7a043a9d,McNeil High School A,chemistry,0,0,0,0,0
+7a043a9d,McNeil High School A,ess,14,4,10,1,0
+7a043a9d,McNeil High School A,math,42,12,30,3,0
+7a043a9d,McNeil High School A,other,14,4,10,1,0
+7a043a9d,McNeil High School A,physics,14,4,10,1,0
+7ffee33d,Palm Desert High School A,biology,4,4,0,1,0
+7ffee33d,Palm Desert High School A,chemistry,18,8,10,2,0
+7ffee33d,Palm Desert High School A,ess,0,0,0,0,0
+7ffee33d,Palm Desert High School A,math,0,0,0,0,0
+7ffee33d,Palm Desert High School A,other,0,0,0,0,0
+7ffee33d,Palm Desert High School A,physics,0,0,0,0,0
+7ffee33d,Punahou School A,biology,18,8,10,3,1
+7ffee33d,Punahou School A,chemistry,28,8,20,2,0
+7ffee33d,Punahou School A,ess,16,16,0,4,0
+7ffee33d,Punahou School A,math,12,12,0,3,0
+7ffee33d,Punahou School A,other,0,0,0,0,0
+7ffee33d,Punahou School A,physics,22,12,10,3,0
+98e868f6,BASIS Independent Silicon Valley A,biology,22,12,10,3,0
+98e868f6,BASIS Independent Silicon Valley A,chemistry,36,16,20,4,0
+98e868f6,BASIS Independent Silicon Valley A,ess,22,12,10,3,0
+98e868f6,BASIS Independent Silicon Valley A,math,8,8,0,2,0
+98e868f6,BASIS Independent Silicon Valley A,other,14,4,10,1,0
+98e868f6,BASIS Independent Silicon Valley A,physics,42,12,30,3,0
+98e868f6,Shaker High School C,biology,4,4,0,1,0
+98e868f6,Shaker High School C,chemistry,0,0,0,0,0
+98e868f6,Shaker High School C,ess,0,0,0,0,0
+98e868f6,Shaker High School C,math,0,0,0,0,0
+98e868f6,Shaker High School C,other,0,0,0,0,0
+98e868f6,Shaker High School C,physics,0,0,0,0,0
+ad0592b0,Baton Rouge Magnet High School B,biology,4,4,0,1,0
+ad0592b0,Baton Rouge Magnet High School B,chemistry,8,8,0,2,0
+ad0592b0,Baton Rouge Magnet High School B,ess,14,4,10,1,0
+ad0592b0,Baton Rouge Magnet High School B,math,4,4,0,1,0
+ad0592b0,Baton Rouge Magnet High School B,other,0,0,0,0,0
+ad0592b0,Baton Rouge Magnet High School B,physics,8,8,0,2,0
+ad0592b0,Montgomery Blair High School B,biology,42,12,30,3,0
+ad0592b0,Montgomery Blair High School B,chemistry,28,8,20,2,0
+ad0592b0,Montgomery Blair High School B,ess,14,4,10,2,1
+ad0592b0,Montgomery Blair High School B,math,22,12,10,3,0
+ad0592b0,Montgomery Blair High School B,other,4,4,0,1,0
+ad0592b0,Montgomery Blair High School B,physics,6,-4,10,1,2
+aead9e79,Alabama School of Fine Arts B,biology,4,4,0,1,0
+aead9e79,Alabama School of Fine Arts B,chemistry,28,8,20,2,0
+aead9e79,Alabama School of Fine Arts B,ess,0,0,0,0,0
+aead9e79,Alabama School of Fine Arts B,math,8,8,0,2,0
+aead9e79,Alabama School of Fine Arts B,other,4,4,0,1,0
+aead9e79,Alabama School of Fine Arts B,physics,12,12,0,3,0
+aead9e79,William G. Enloe High School C,biology,22,12,10,3,0
+aead9e79,William G. Enloe High School C,chemistry,18,8,10,2,0
+aead9e79,William G. Enloe High School C,ess,32,12,20,3,0
+aead9e79,William G. Enloe High School C,math,0,0,0,0,0
+aead9e79,William G. Enloe High School C,other,0,0,0,0,0
+aead9e79,William G. Enloe High School C,physics,0,0,0,1,1
+b1238657,American High School A,biology,0,0,0,0,0
+b1238657,American High School A,chemistry,14,4,10,1,0
+b1238657,American High School A,ess,4,4,0,1,0
+b1238657,American High School A,math,8,8,0,2,0
+b1238657,American High School A,other,0,0,0,0,0
+b1238657,American High School A,physics,6,-4,10,1,2
+b1238657,University High School A,biology,46,16,30,4,0
+b1238657,University High School A,chemistry,14,4,10,2,1
+b1238657,University High School A,ess,18,8,10,2,0
+b1238657,University High School A,math,18,8,10,2,0
+b1238657,University High School A,other,14,4,10,1,0
+b1238657,University High School A,physics,0,0,0,0,0
+b292d283,Montgomery Blair High School C,biology,4,4,0,2,1
+b292d283,Montgomery Blair High School C,chemistry,0,0,0,0,0
+b292d283,Montgomery Blair High School C,ess,0,0,0,0,0
+b292d283,Montgomery Blair High School C,math,4,4,0,1,0
+b292d283,Montgomery Blair High School C,other,-4,-4,0,0,1
+b292d283,Montgomery Blair High School C,physics,-8,-8,0,0,2
+b292d283,North Hollywood High School A,biology,18,8,10,2,0
+b292d283,North Hollywood High School A,chemistry,46,16,30,4,0
+b292d283,North Hollywood High School A,ess,18,8,10,3,1
+b292d283,North Hollywood High School A,math,4,4,0,1,0
+b292d283,North Hollywood High School A,other,0,0,0,0,0
+b292d283,North Hollywood High School A,physics,6,-4,10,1,2
+b2f7db77,Carmel High School A,biology,4,4,0,1,0
+b2f7db77,Carmel High School A,chemistry,10,0,10,1,1
+b2f7db77,Carmel High School A,ess,4,4,0,1,0
+b2f7db77,Carmel High School A,math,42,12,30,3,0
+b2f7db77,Carmel High School A,other,-4,-4,0,0,1
+b2f7db77,Carmel High School A,physics,24,4,20,2,1
+b2f7db77,Thomas Jefferson High School for Science and Technology A,biology,32,12,20,3,0
+b2f7db77,Thomas Jefferson High School for Science and Technology A,chemistry,32,12,20,3,0
+b2f7db77,Thomas Jefferson High School for Science and Technology A,ess,32,12,20,3,0
+b2f7db77,Thomas Jefferson High School for Science and Technology A,math,0,0,0,0,0
+b2f7db77,Thomas Jefferson High School for Science and Technology A,other,14,4,10,1,0
+b2f7db77,Thomas Jefferson High School for Science and Technology A,physics,8,8,0,2,0
+bb1f707f,Bridgeland High School A,biology,4,4,0,1,0
+bb1f707f,Bridgeland High School A,chemistry,28,8,20,2,0
+bb1f707f,Bridgeland High School A,ess,12,12,0,3,0
+bb1f707f,Bridgeland High School A,math,8,8,0,2,0
+bb1f707f,Bridgeland High School A,other,14,4,10,1,0
+bb1f707f,Bridgeland High School A,physics,4,4,0,2,1
+bb1f707f,College Park High School B,biology,22,12,10,3,0
+bb1f707f,College Park High School B,chemistry,4,4,0,1,0
+bb1f707f,College Park High School B,ess,0,0,0,0,0
+bb1f707f,College Park High School B,math,14,4,10,1,0
+bb1f707f,College Park High School B,other,0,0,0,0,0
+bb1f707f,College Park High School B,physics,4,4,0,1,0
+bd95343e,Green Hope High School A,biology,-4,-4,0,0,1
+bd95343e,Green Hope High School A,chemistry,14,4,10,1,0
+bd95343e,Green Hope High School A,ess,0,0,0,1,1
+bd95343e,Green Hope High School A,math,4,4,0,1,0
+bd95343e,Green Hope High School A,other,14,4,10,1,0
+bd95343e,Green Hope High School A,physics,-16,-16,0,0,4
+bd95343e,Montgomery Blair High School A,biology,56,16,40,4,0
+bd95343e,Montgomery Blair High School A,chemistry,32,12,20,3,0
+bd95343e,Montgomery Blair High School A,ess,22,12,10,3,0
+bd95343e,Montgomery Blair High School A,math,18,8,10,2,0
+bd95343e,Montgomery Blair High School A,other,-4,-4,0,0,1
+bd95343e,Montgomery Blair High School A,physics,56,16,40,4,0
+c7075285,Lynbrook High School A,biology,32,12,20,3,0
+c7075285,Lynbrook High School A,chemistry,42,12,30,3,0
+c7075285,Lynbrook High School A,ess,18,8,10,2,0
+c7075285,Lynbrook High School A,math,22,12,10,3,0
+c7075285,Lynbrook High School A,other,14,4,10,1,0
+c7075285,Lynbrook High School A,physics,24,4,20,2,1
+c7075285,Temple City High School A,biology,4,4,0,1,0
+c7075285,Temple City High School A,chemistry,0,0,0,0,0
+c7075285,Temple City High School A,ess,14,4,10,1,0
+c7075285,Temple City High School A,math,4,4,0,1,0
+c7075285,Temple City High School A,other,0,0,0,0,0
+c7075285,Temple City High School A,physics,8,8,0,2,0
+c7e7d4f8,Doral Academy B,biology,-4,-4,0,0,1
+c7e7d4f8,Doral Academy B,chemistry,10,0,10,1,1
+c7e7d4f8,Doral Academy B,ess,18,8,10,2,0
+c7e7d4f8,Doral Academy B,math,4,4,0,1,0
+c7e7d4f8,Doral Academy B,other,0,0,0,0,0
+c7e7d4f8,Doral Academy B,physics,8,8,0,2,0
+c7e7d4f8,Frazer High School A,biology,16,16,0,4,0
+c7e7d4f8,Frazer High School A,chemistry,14,4,10,2,1
+c7e7d4f8,Frazer High School A,ess,14,4,10,1,0
+c7e7d4f8,Frazer High School A,math,18,8,10,2,0
+c7e7d4f8,Frazer High School A,other,0,0,0,0,0
+c7e7d4f8,Frazer High School A,physics,4,4,0,2,1
+d39443d5,Doral Academy C,biology,0,0,0,0,0
+d39443d5,Doral Academy C,chemistry,46,16,30,4,0
+d39443d5,Doral Academy C,ess,14,4,10,1,0
+d39443d5,Doral Academy C,math,4,4,0,1,0
+d39443d5,Doral Academy C,other,0,0,0,0,0
+d39443d5,Doral Academy C,physics,8,8,0,2,0
+d39443d5,Hopkins Middle School C,biology,8,8,0,2,0
+d39443d5,Hopkins Middle School C,chemistry,0,0,0,0,0
+d39443d5,Hopkins Middle School C,ess,0,0,0,0,0
+d39443d5,Hopkins Middle School C,math,0,0,0,0,0
+d39443d5,Hopkins Middle School C,other,0,0,0,0,0
+d39443d5,Hopkins Middle School C,physics,0,0,0,1,1
+d8d30e59,Palo Alto High School A,biology,28,8,20,2,0
+d8d30e59,Palo Alto High School A,chemistry,18,8,10,2,0
+d8d30e59,Palo Alto High School A,ess,22,12,10,3,0
+d8d30e59,Palo Alto High School A,math,0,0,0,0,0
+d8d30e59,Palo Alto High School A,other,14,4,10,1,0
+d8d30e59,Palo Alto High School A,physics,-4,-4,0,1,2
+d8d30e59,Phillips Exeter Academy A,biology,18,8,10,2,0
+d8d30e59,Phillips Exeter Academy A,chemistry,20,0,20,2,2
+d8d30e59,Phillips Exeter Academy A,ess,0,0,0,0,0
+d8d30e59,Phillips Exeter Academy A,math,10,0,10,1,1
+d8d30e59,Phillips Exeter Academy A,other,0,0,0,0,0
+d8d30e59,Phillips Exeter Academy A,physics,18,8,10,2,0
+d9f166f9,Baton Rouge Magnet High School A,biology,18,8,10,2,0
+d9f166f9,Baton Rouge Magnet High School A,chemistry,28,8,20,2,0
+d9f166f9,Baton Rouge Magnet High School A,ess,18,8,10,3,1
+d9f166f9,Baton Rouge Magnet High School A,math,18,8,10,2,0
+d9f166f9,Baton Rouge Magnet High School A,other,0,0,0,0,0
+d9f166f9,Baton Rouge Magnet High School A,physics,32,12,20,3,0
+d9f166f9,University High School C,biology,28,8,20,2,0
+d9f166f9,University High School C,chemistry,8,8,0,2,0
+d9f166f9,University High School C,ess,14,4,10,1,0
+d9f166f9,University High School C,math,14,4,10,1,0
+d9f166f9,University High School C,other,0,0,0,0,0
+d9f166f9,University High School C,physics,0,0,0,1,1
+0ed8c5b4,Obra D. Tompkins High School A,biology,32,12,20,3,0
+0ed8c5b4,Obra D. Tompkins High School A,chemistry,18,8,10,2,0
+0ed8c5b4,Obra D. Tompkins High School A,energy,0,0,0,0,0
+0ed8c5b4,Obra D. Tompkins High School A,ess,18,8,10,2,0
+0ed8c5b4,Obra D. Tompkins High School A,math,4,4,0,1,0
+0ed8c5b4,Obra D. Tompkins High School A,physics,18,8,10,2,0
+0ed8c5b4,Palm Desert High School A,biology,0,0,0,0,0
+0ed8c5b4,Palm Desert High School A,chemistry,4,4,0,1,0
+0ed8c5b4,Palm Desert High School A,energy,4,4,0,1,0
+0ed8c5b4,Palm Desert High School A,ess,0,0,0,0,0
+0ed8c5b4,Palm Desert High School A,math,4,4,0,1,0
+0ed8c5b4,Palm Desert High School A,physics,0,0,0,1,1
+16832a09,Frazer High School A,biology,18,8,10,2,0
+16832a09,Frazer High School A,chemistry,12,12,0,3,0
+16832a09,Frazer High School A,energy,0,0,0,0,0
+16832a09,Frazer High School A,ess,10,0,10,1,1
+16832a09,Frazer High School A,math,8,8,0,2,0
+16832a09,Frazer High School A,physics,4,4,0,1,0
+16832a09,McNeil High School A,biology,4,4,0,1,0
+16832a09,McNeil High School A,chemistry,14,4,10,1,0
+16832a09,McNeil High School A,energy,0,0,0,0,0
+16832a09,McNeil High School A,ess,28,8,20,2,0
+16832a09,McNeil High School A,math,28,8,20,2,0
+16832a09,McNeil High School A,physics,28,8,20,2,0
+22141d3f,James Clemens High School A,biology,56,16,40,4,0
+22141d3f,James Clemens High School A,chemistry,46,16,30,4,0
+22141d3f,James Clemens High School A,energy,4,4,0,1,0
+22141d3f,James Clemens High School A,ess,42,12,30,3,0
+22141d3f,James Clemens High School A,math,8,8,0,2,0
+22141d3f,James Clemens High School A,physics,42,12,30,3,0
+22141d3f,Stanford Online High School A,biology,0,0,0,0,0
+22141d3f,Stanford Online High School A,chemistry,-4,-4,0,0,1
+22141d3f,Stanford Online High School A,energy,0,0,0,0,0
+22141d3f,Stanford Online High School A,ess,14,4,10,1,0
+22141d3f,Stanford Online High School A,math,4,4,0,1,0
+22141d3f,Stanford Online High School A,physics,-12,-12,0,0,3
+30f7792a,Folsom City East High School A,biology,8,8,0,2,0
+30f7792a,Folsom City East High School A,chemistry,0,0,0,0,0
+30f7792a,Folsom City East High School A,energy,0,0,0,0,0
+30f7792a,Folsom City East High School A,ess,8,8,0,2,0
+30f7792a,Folsom City East High School A,math,-4,-4,0,0,1
+30f7792a,Folsom City East High School A,physics,-4,-4,0,0,1
+30f7792a,University High School C,biology,0,0,0,0,0
+30f7792a,University High School C,chemistry,18,8,10,2,0
+30f7792a,University High School C,energy,0,0,0,0,0
+30f7792a,University High School C,ess,14,4,10,1,0
+30f7792a,University High School C,math,4,4,0,1,0
+30f7792a,University High School C,physics,32,12,20,3,0
+3b79e042,Montgomery Blair High School A,biology,28,8,20,3,1
+3b79e042,Montgomery Blair High School A,chemistry,28,8,20,3,1
+3b79e042,Montgomery Blair High School A,energy,-4,-4,0,0,1
+3b79e042,Montgomery Blair High School A,ess,32,12,20,3,0
+3b79e042,Montgomery Blair High School A,math,4,4,0,1,0
+3b79e042,Montgomery Blair High School A,physics,32,12,20,3,0
+3b79e042,William G. Enloe High School C,biology,4,4,0,1,0
+3b79e042,William G. Enloe High School C,chemistry,0,0,0,0,0
+3b79e042,William G. Enloe High School C,energy,0,0,0,0,0
+3b79e042,William G. Enloe High School C,ess,0,0,0,0,0
+3b79e042,William G. Enloe High School C,math,8,8,0,2,0
+3b79e042,William G. Enloe High School C,physics,0,0,0,0,0
+487c31e3,Lynbrook High School A,biology,22,12,10,3,0
+487c31e3,Lynbrook High School A,chemistry,0,0,0,0,0
+487c31e3,Lynbrook High School A,energy,0,0,0,0,0
+487c31e3,Lynbrook High School A,ess,14,4,10,1,0
+487c31e3,Lynbrook High School A,math,18,8,10,2,0
+487c31e3,Lynbrook High School A,physics,32,12,20,3,0
+487c31e3,Palo Alto High School A,biology,4,4,0,1,0
+487c31e3,Palo Alto High School A,chemistry,36,16,20,4,0
+487c31e3,Palo Alto High School A,energy,0,0,0,0,0
+487c31e3,Palo Alto High School A,ess,24,4,20,2,1
+487c31e3,Palo Alto High School A,math,0,0,0,1,1
+487c31e3,Palo Alto High School A,physics,-4,-4,0,0,1
+554304b7,Baton Rouge Magnet High School B,biology,4,4,0,1,0
+554304b7,Baton Rouge Magnet High School B,chemistry,0,0,0,0,0
+554304b7,Baton Rouge Magnet High School B,energy,0,0,0,0,0
+554304b7,Baton Rouge Magnet High School B,ess,36,16,20,4,0
+554304b7,Baton Rouge Magnet High School B,math,4,4,0,1,0
+554304b7,Baton Rouge Magnet High School B,physics,18,8,10,2,0
+554304b7,Doral Academy C,biology,14,4,10,1,0
+554304b7,Doral Academy C,chemistry,8,8,0,2,0
+554304b7,Doral Academy C,energy,0,0,0,0,0
+554304b7,Doral Academy C,ess,0,0,0,0,0
+554304b7,Doral Academy C,math,8,8,0,2,0
+554304b7,Doral Academy C,physics,4,4,0,1,0
+660d3c5a,American High School A,biology,0,0,0,0,0
+660d3c5a,American High School A,chemistry,4,4,0,1,0
+660d3c5a,American High School A,energy,0,0,0,0,0
+660d3c5a,American High School A,ess,0,0,0,0,0
+660d3c5a,American High School A,math,0,0,0,0,0
+660d3c5a,American High School A,physics,4,4,0,1,0
+660d3c5a,Montgomery Blair High School B,biology,36,16,20,4,0
+660d3c5a,Montgomery Blair High School B,chemistry,4,4,0,1,0
+660d3c5a,Montgomery Blair High School B,energy,4,4,0,1,0
+660d3c5a,Montgomery Blair High School B,ess,28,8,20,3,1
+660d3c5a,Montgomery Blair High School B,math,46,16,30,4,0
+660d3c5a,Montgomery Blair High School B,physics,18,8,10,2,0
+73727d3b,Basis Independent Silicon Valley B,biology,8,8,0,2,0
+73727d3b,Basis Independent Silicon Valley B,chemistry,42,12,30,3,0
+73727d3b,Basis Independent Silicon Valley B,energy,4,4,0,1,0
+73727d3b,Basis Independent Silicon Valley B,ess,18,8,10,2,0
+73727d3b,Basis Independent Silicon Valley B,math,4,4,0,1,0
+73727d3b,Basis Independent Silicon Valley B,physics,14,4,10,1,0
+73727d3b,Doral Academy B,biology,14,4,10,1,0
+73727d3b,Doral Academy B,chemistry,4,4,0,1,0
+73727d3b,Doral Academy B,energy,0,0,0,0,0
+73727d3b,Doral Academy B,ess,0,0,0,0,0
+73727d3b,Doral Academy B,math,4,4,0,1,0
+73727d3b,Doral Academy B,physics,4,4,0,1,0
+80bf69b6,Archbishop Mitty High School B,biology,0,0,0,1,1
+80bf69b6,Archbishop Mitty High School B,chemistry,32,12,20,3,0
+80bf69b6,Archbishop Mitty High School B,energy,4,4,0,1,0
+80bf69b6,Archbishop Mitty High School B,ess,0,0,0,1,1
+80bf69b6,Archbishop Mitty High School B,math,22,12,10,3,0
+80bf69b6,Archbishop Mitty High School B,physics,0,0,0,0,0
+80bf69b6,Temple City High School A,biology,42,12,30,3,0
+80bf69b6,Temple City High School A,chemistry,-4,-4,0,1,2
+80bf69b6,Temple City High School A,energy,0,0,0,0,0
+80bf69b6,Temple City High School A,ess,10,0,10,1,1
+80bf69b6,Temple City High School A,math,0,0,0,0,0
+80bf69b6,Temple City High School A,physics,28,8,20,3,1
+82e087a9,Dulles High School A,biology,38,8,30,3,1
+82e087a9,Dulles High School A,chemistry,14,4,10,1,0
+82e087a9,Dulles High School A,energy,0,0,0,0,0
+82e087a9,Dulles High School A,ess,36,16,20,4,0
+82e087a9,Dulles High School A,math,22,12,10,3,0
+82e087a9,Dulles High School A,physics,0,0,0,1,1
+82e087a9,University High School B,biology,0,0,0,0,0
+82e087a9,University High School B,chemistry,22,12,10,3,0
+82e087a9,University High School B,energy,0,0,0,0,0
+82e087a9,University High School B,ess,0,0,0,0,0
+82e087a9,University High School B,math,0,0,0,1,1
+82e087a9,University High School B,physics,22,12,10,3,0
+9ac37ef3,Carmel High School B,biology,0,0,0,0,0
+9ac37ef3,Carmel High School B,chemistry,32,12,20,3,0
+9ac37ef3,Carmel High School B,energy,4,4,0,1,0
+9ac37ef3,Carmel High School B,ess,18,8,10,2,0
+9ac37ef3,Carmel High School B,math,18,8,10,2,0
+9ac37ef3,Carmel High School B,physics,4,4,0,1,0
+9ac37ef3,Triangle Math and Science Academy A,biology,16,16,0,4,0
+9ac37ef3,Triangle Math and Science Academy A,chemistry,14,4,10,1,0
+9ac37ef3,Triangle Math and Science Academy A,energy,0,0,0,0,0
+9ac37ef3,Triangle Math and Science Academy A,ess,4,4,0,1,0
+9ac37ef3,Triangle Math and Science Academy A,math,4,4,0,1,0
+9ac37ef3,Triangle Math and Science Academy A,physics,0,0,0,0,0
+9e6f9fad,Arcadia High School A,biology,32,12,20,3,0
+9e6f9fad,Arcadia High School A,chemistry,10,0,10,1,1
+9e6f9fad,Arcadia High School A,energy,0,0,0,0,0
+9e6f9fad,Arcadia High School A,ess,4,4,0,1,0
+9e6f9fad,Arcadia High School A,math,4,4,0,1,0
+9e6f9fad,Arcadia High School A,physics,18,8,10,2,0
+9e6f9fad,Madison West High School A,biology,4,4,0,1,0
+9e6f9fad,Madison West High School A,chemistry,18,8,10,2,0
+9e6f9fad,Madison West High School A,energy,0,0,0,0,0
+9e6f9fad,Madison West High School A,ess,24,4,20,2,1
+9e6f9fad,Madison West High School A,math,18,8,10,2,0
+9e6f9fad,Madison West High School A,physics,4,4,0,1,0
+a9af28c5,Canyon Crest Academy A,biology,0,0,0,1,1
+a9af28c5,Canyon Crest Academy A,chemistry,18,8,10,2,0
+a9af28c5,Canyon Crest Academy A,energy,4,4,0,1,0
+a9af28c5,Canyon Crest Academy A,ess,18,8,10,2,0
+a9af28c5,Canyon Crest Academy A,math,4,4,0,1,0
+a9af28c5,Canyon Crest Academy A,physics,8,8,0,2,0
+a9af28c5,Cupertino High School B,biology,4,4,0,1,0
+a9af28c5,Cupertino High School B,chemistry,8,8,0,2,0
+a9af28c5,Cupertino High School B,energy,0,0,0,0,0
+a9af28c5,Cupertino High School B,ess,0,0,0,0,0
+a9af28c5,Cupertino High School B,math,4,4,0,2,1
+a9af28c5,Cupertino High School B,physics,4,4,0,1,0
+b1799d14,Alabama School of Fine Arts A,biology,6,-4,10,1,2
+b1799d14,Alabama School of Fine Arts A,chemistry,20,0,20,2,2
+b1799d14,Alabama School of Fine Arts A,energy,0,0,0,0,0
+b1799d14,Alabama School of Fine Arts A,ess,42,12,30,3,0
+b1799d14,Alabama School of Fine Arts A,math,10,0,10,1,1
+b1799d14,Alabama School of Fine Arts A,physics,24,4,20,2,1
+b1799d14,Doral Academy A,biology,24,4,20,2,1
+b1799d14,Doral Academy A,chemistry,14,4,10,1,0
+b1799d14,Doral Academy A,energy,4,4,0,1,0
+b1799d14,Doral Academy A,ess,0,0,0,0,0
+b1799d14,Doral Academy A,math,8,8,0,2,0
+b1799d14,Doral Academy A,physics,14,4,10,1,0
+b6d1d102,Hopkins Middle School C,biology,14,4,10,1,0
+b6d1d102,Hopkins Middle School C,chemistry,0,0,0,0,0
+b6d1d102,Hopkins Middle School C,energy,14,4,10,1,0
+b6d1d102,Hopkins Middle School C,ess,32,12,20,3,0
+b6d1d102,Hopkins Middle School C,math,8,8,0,2,0
+b6d1d102,Hopkins Middle School C,physics,18,8,10,2,0
+b6d1d102,University High School A,biology,28,8,20,2,0
+b6d1d102,University High School A,chemistry,22,12,10,3,0
+b6d1d102,University High School A,energy,0,0,0,0,0
+b6d1d102,University High School A,ess,0,0,0,0,0
+b6d1d102,University High School A,math,18,8,10,2,0
+b6d1d102,University High School A,physics,0,0,0,0,0
+bb8c508d,College Park High School B,biology,0,0,0,0,0
+bb8c508d,College Park High School B,chemistry,0,0,0,0,0
+bb8c508d,College Park High School B,energy,0,0,0,0,0
+bb8c508d,College Park High School B,ess,0,0,0,0,0
+bb8c508d,College Park High School B,math,0,0,0,0,0
+bb8c508d,College Park High School B,physics,14,4,10,1,0
+bb8c508d,Mission San Jose High School A,biology,36,16,20,4,0
+bb8c508d,Mission San Jose High School A,chemistry,56,16,40,4,0
+bb8c508d,Mission San Jose High School A,energy,4,4,0,1,0
+bb8c508d,Mission San Jose High School A,ess,16,16,0,4,0
+bb8c508d,Mission San Jose High School A,math,46,16,30,4,0
+bb8c508d,Mission San Jose High School A,physics,32,12,20,3,0
+bd128849,Carmel High School A,biology,0,0,0,0,0
+bd128849,Carmel High School A,chemistry,12,12,0,3,0
+bd128849,Carmel High School A,energy,0,0,0,0,0
+bd128849,Carmel High School A,ess,12,12,0,3,0
+bd128849,Carmel High School A,math,14,4,10,2,1
+bd128849,Carmel High School A,physics,22,12,10,3,0
+bd128849,Clovis North High School A,biology,56,16,40,4,0
+bd128849,Clovis North High School A,chemistry,4,4,0,1,0
+bd128849,Clovis North High School A,energy,0,0,0,0,0
+bd128849,Clovis North High School A,ess,0,0,0,0,0
+bd128849,Clovis North High School A,math,4,4,0,1,0
+bd128849,Clovis North High School A,physics,14,4,10,1,0
+c6ad6024,Archbishop Mitty High School A,biology,4,4,0,1,0
+c6ad6024,Archbishop Mitty High School A,chemistry,4,4,0,1,0
+c6ad6024,Archbishop Mitty High School A,energy,4,4,0,1,0
+c6ad6024,Archbishop Mitty High School A,ess,0,0,0,0,0
+c6ad6024,Archbishop Mitty High School A,math,0,0,0,0,0
+c6ad6024,Archbishop Mitty High School A,physics,0,0,0,0,0
+c6ad6024,Thomas Jefferson High School for Science and Technology A,biology,28,8,20,3,1
+c6ad6024,Thomas Jefferson High School for Science and Technology A,chemistry,6,-4,10,1,2
+c6ad6024,Thomas Jefferson High School for Science and Technology A,energy,0,0,0,0,0
+c6ad6024,Thomas Jefferson High School for Science and Technology A,ess,36,16,20,4,0
+c6ad6024,Thomas Jefferson High School for Science and Technology A,math,22,12,10,3,0
+c6ad6024,Thomas Jefferson High School for Science and Technology A,physics,32,12,20,3,0
+ce85cead,Tesla STEM High School A,biology,14,4,10,1,0
+ce85cead,Tesla STEM High School A,chemistry,14,4,10,1,0
+ce85cead,Tesla STEM High School A,energy,0,0,0,0,0
+ce85cead,Tesla STEM High School A,ess,32,12,20,3,0
+ce85cead,Tesla STEM High School A,math,4,4,0,1,0
+ce85cead,Tesla STEM High School A,physics,28,8,20,2,0
+ce85cead,William P. Clements High School A,biology,18,8,10,2,0
+ce85cead,William P. Clements High School A,chemistry,4,4,0,1,0
+ce85cead,William P. Clements High School A,energy,0,0,0,0,0
+ce85cead,William P. Clements High School A,ess,14,4,10,1,0
+ce85cead,William P. Clements High School A,math,18,8,10,2,0
+ce85cead,William P. Clements High School A,physics,0,0,0,0,0
+d6c6f7ab,BASIS Independent Fremont A,biology,18,8,10,2,0
+d6c6f7ab,BASIS Independent Fremont A,chemistry,4,4,0,1,0
+d6c6f7ab,BASIS Independent Fremont A,energy,0,0,0,0,0
+d6c6f7ab,BASIS Independent Fremont A,ess,18,8,10,2,0
+d6c6f7ab,BASIS Independent Fremont A,math,4,4,0,1,0
+d6c6f7ab,BASIS Independent Fremont A,physics,14,4,10,1,0
+d6c6f7ab,Bridgeland High School A,biology,14,4,10,1,0
+d6c6f7ab,Bridgeland High School A,chemistry,-4,-4,0,0,1
+d6c6f7ab,Bridgeland High School A,energy,4,4,0,1,0
+d6c6f7ab,Bridgeland High School A,ess,0,0,0,0,0
+d6c6f7ab,Bridgeland High School A,math,4,4,0,1,0
+d6c6f7ab,Bridgeland High School A,physics,4,4,0,1,0
+d95647e9,North Hollywood High School A,biology,14,4,10,2,1
+d95647e9,North Hollywood High School A,chemistry,0,0,0,0,0
+d95647e9,North Hollywood High School A,energy,4,4,0,1,0
+d95647e9,North Hollywood High School A,ess,18,8,10,2,0
+d95647e9,North Hollywood High School A,math,32,12,20,3,0
+d95647e9,North Hollywood High School A,physics,24,4,20,2,1
+d95647e9,William G. Enloe High School A,biology,18,8,10,2,0
+d95647e9,William G. Enloe High School A,chemistry,42,12,30,3,0
+d95647e9,William G. Enloe High School A,energy,0,0,0,0,0
+d95647e9,William G. Enloe High School A,ess,14,4,10,1,0
+d95647e9,William G. Enloe High School A,math,0,0,0,0,0
+d95647e9,William G. Enloe High School A,physics,18,8,10,2,0
+e14ed54a,College Park High School A,biology,4,4,0,2,1
+e14ed54a,College Park High School A,chemistry,10,0,10,1,1
+e14ed54a,College Park High School A,energy,0,0,0,0,0
+e14ed54a,College Park High School A,ess,46,16,30,4,0
+e14ed54a,College Park High School A,math,0,0,0,0,0
+e14ed54a,College Park High School A,physics,-4,-4,0,0,1
+e14ed54a,Cupertino High School A,biology,20,0,20,2,2
+e14ed54a,Cupertino High School A,chemistry,18,8,10,2,0
+e14ed54a,Cupertino High School A,energy,0,0,0,0,0
+e14ed54a,Cupertino High School A,ess,-4,-4,0,0,1
+e14ed54a,Cupertino High School A,math,26,16,10,4,0
+e14ed54a,Cupertino High School A,physics,0,0,0,1,1
+ea3a595b,Iolani School A,biology,4,4,0,1,0
+ea3a595b,Iolani School A,chemistry,26,16,10,4,0
+ea3a595b,Iolani School A,energy,4,4,0,1,0
+ea3a595b,Iolani School A,ess,18,8,10,2,0
+ea3a595b,Iolani School A,math,36,16,20,4,0
+ea3a595b,Iolani School A,physics,14,4,10,2,1
+ea3a595b,Montgomery Blair High School C,biology,18,8,10,3,1
+ea3a595b,Montgomery Blair High School C,chemistry,-8,-8,0,0,2
+ea3a595b,Montgomery Blair High School C,energy,0,0,0,0,0
+ea3a595b,Montgomery Blair High School C,ess,8,8,0,2,0
+ea3a595b,Montgomery Blair High School C,math,-4,-4,0,0,1
+ea3a595b,Montgomery Blair High School C,physics,4,4,0,1,0
+ee1a0650,Punahou School A,biology,4,4,0,1,0
+ee1a0650,Punahou School A,chemistry,24,4,20,2,1
+ee1a0650,Punahou School A,energy,0,0,0,0,0
+ee1a0650,Punahou School A,ess,42,12,30,3,0
+ee1a0650,Punahou School A,math,18,8,10,2,0
+ee1a0650,Punahou School A,physics,0,0,0,0,0
+ee1a0650,William G. Enloe High School B,biology,4,4,0,1,0
+ee1a0650,William G. Enloe High School B,chemistry,0,0,0,0,0
+ee1a0650,William G. Enloe High School B,energy,14,4,10,1,0
+ee1a0650,William G. Enloe High School B,ess,4,4,0,1,0
+ee1a0650,William G. Enloe High School B,math,18,8,10,2,0
+ee1a0650,William G. Enloe High School B,physics,8,8,0,2,0
+f468bba5,Camas High School A,biology,0,0,0,0,0
+f468bba5,Camas High School A,chemistry,32,12,20,3,0
+f468bba5,Camas High School A,energy,0,0,0,0,0
+f468bba5,Camas High School A,ess,4,4,0,1,0
+f468bba5,Camas High School A,math,14,4,10,1,0
+f468bba5,Camas High School A,physics,0,0,0,0,0
+f468bba5,Shaker High School A,biology,18,8,10,2,0
+f468bba5,Shaker High School A,chemistry,4,4,0,1,0
+f468bba5,Shaker High School A,energy,0,0,0,0,0
+f468bba5,Shaker High School A,ess,28,8,20,3,1
+f468bba5,Shaker High School A,math,8,8,0,2,0
+f468bba5,Shaker High School A,physics,16,16,0,4,0
+f5f6283f,Alabama School of Fine Arts B,biology,18,8,10,2,0
+f5f6283f,Alabama School of Fine Arts B,chemistry,14,4,10,2,1
+f5f6283f,Alabama School of Fine Arts B,energy,0,0,0,0,0
+f5f6283f,Alabama School of Fine Arts B,ess,0,0,0,1,1
+f5f6283f,Alabama School of Fine Arts B,math,12,12,0,3,0
+f5f6283f,Alabama School of Fine Arts B,physics,14,4,10,1,0
+f5f6283f,Shaker High School C,biology,0,0,0,0,0
+f5f6283f,Shaker High School C,chemistry,4,4,0,1,0
+f5f6283f,Shaker High School C,energy,0,0,0,0,0
+f5f6283f,Shaker High School C,ess,4,4,0,1,0
+f5f6283f,Shaker High School C,math,0,0,0,0,0
+f5f6283f,Shaker High School C,physics,4,4,0,2,1
+f9562b46,Phillips Exeter Academy A,biology,22,12,10,3,0
+f9562b46,Phillips Exeter Academy A,chemistry,0,0,0,1,1
+f9562b46,Phillips Exeter Academy A,energy,-4,-4,0,0,1
+f9562b46,Phillips Exeter Academy A,ess,8,8,0,2,0
+f9562b46,Phillips Exeter Academy A,math,4,4,0,1,0
+f9562b46,Phillips Exeter Academy A,physics,4,4,0,1,0
+f9562b46,Weston High School A,biology,14,4,10,1,0
+f9562b46,Weston High School A,chemistry,4,4,0,2,1
+f9562b46,Weston High School A,energy,0,0,0,0,0
+f9562b46,Weston High School A,ess,0,0,0,1,1
+f9562b46,Weston High School A,math,8,8,0,2,0
+f9562b46,Weston High School A,physics,0,0,0,0,0
+fcd8ba22,BASIS Independent Silicon Valley A,biology,0,0,0,0,0
+fcd8ba22,BASIS Independent Silicon Valley A,chemistry,14,4,10,1,0
+fcd8ba22,BASIS Independent Silicon Valley A,energy,0,0,0,0,0
+fcd8ba22,BASIS Independent Silicon Valley A,ess,8,8,0,2,0
+fcd8ba22,BASIS Independent Silicon Valley A,math,4,4,0,1,0
+fcd8ba22,BASIS Independent Silicon Valley A,physics,10,0,10,1,1
+fcd8ba22,Green Hope High School A,biology,22,12,10,3,0
+fcd8ba22,Green Hope High School A,chemistry,22,12,10,3,0
+fcd8ba22,Green Hope High School A,energy,4,4,0,1,0
+fcd8ba22,Green Hope High School A,ess,-4,-4,0,0,1
+fcd8ba22,Green Hope High School A,math,4,4,0,2,1
+fcd8ba22,Green Hope High School A,physics,0,0,0,1,1
+fdbac6af,Baton Rouge Magnet High School A,biology,24,4,20,2,1
+fdbac6af,Baton Rouge Magnet High School A,chemistry,32,12,20,3,0
+fdbac6af,Baton Rouge Magnet High School A,energy,4,4,0,1,0
+fdbac6af,Baton Rouge Magnet High School A,ess,42,12,30,3,0
+fdbac6af,Baton Rouge Magnet High School A,math,22,12,10,3,0
+fdbac6af,Baton Rouge Magnet High School A,physics,42,12,30,3,0
+fdbac6af,Shaker High School B,biology,14,4,10,1,0
+fdbac6af,Shaker High School B,chemistry,0,0,0,0,0
+fdbac6af,Shaker High School B,energy,0,0,0,0,0
+fdbac6af,Shaker High School B,ess,-4,-4,0,0,1
+fdbac6af,Shaker High School B,math,4,4,0,1,0
+fdbac6af,Shaker High School B,physics,4,4,0,1,0
+0428ba06,Montgomery Blair High School C,biology,2,-8,10,1,3
+0428ba06,Montgomery Blair High School C,chemistry,18,8,10,2,0
+0428ba06,Montgomery Blair High School C,energy,-4,-4,0,0,1
+0428ba06,Montgomery Blair High School C,ess,-4,-4,0,0,1
+0428ba06,Montgomery Blair High School C,math,4,4,0,1,0
+0428ba06,Montgomery Blair High School C,physics,12,12,0,3,0
+0428ba06,University High School B,biology,18,8,10,2,0
+0428ba06,University High School B,chemistry,14,4,10,2,1
+0428ba06,University High School B,energy,14,4,10,1,0
+0428ba06,University High School B,ess,42,12,30,3,0
+0428ba06,University High School B,math,14,4,10,1,0
+0428ba06,University High School B,physics,4,4,0,1,0
+063bed6e,American High School A,biology,24,4,20,2,1
+063bed6e,American High School A,chemistry,-4,-4,0,0,1
+063bed6e,American High School A,energy,14,4,10,1,0
+063bed6e,American High School A,ess,14,4,10,1,0
+063bed6e,American High School A,math,0,0,0,0,0
+063bed6e,American High School A,physics,0,0,0,0,0
+063bed6e,Hopkins Middle School C,biology,0,0,0,1,1
+063bed6e,Hopkins Middle School C,chemistry,4,4,0,1,0
+063bed6e,Hopkins Middle School C,energy,0,0,0,0,0
+063bed6e,Hopkins Middle School C,ess,4,4,0,1,0
+063bed6e,Hopkins Middle School C,math,4,4,0,1,0
+063bed6e,Hopkins Middle School C,physics,0,0,0,0,0
+092add6a,BASIS Independent Fremont A,biology,18,8,10,2,0
+092add6a,BASIS Independent Fremont A,chemistry,0,0,0,0,0
+092add6a,BASIS Independent Fremont A,energy,0,0,0,0,0
+092add6a,BASIS Independent Fremont A,ess,4,4,0,1,0
+092add6a,BASIS Independent Fremont A,math,0,0,0,0,0
+092add6a,BASIS Independent Fremont A,physics,0,0,0,0,0
+092add6a,Mission San Jose High School A,biology,14,4,10,1,0
+092add6a,Mission San Jose High School A,chemistry,38,8,30,3,1
+092add6a,Mission San Jose High School A,energy,14,4,10,1,0
+092add6a,Mission San Jose High School A,ess,24,4,20,2,1
+092add6a,Mission San Jose High School A,math,22,12,10,3,0
+092add6a,Mission San Jose High School A,physics,16,16,0,4,0
+1b1f6839,Clovis North High School A,biology,46,16,30,4,0
+1b1f6839,Clovis North High School A,chemistry,10,0,10,1,1
+1b1f6839,Clovis North High School A,energy,0,0,0,0,0
+1b1f6839,Clovis North High School A,ess,4,4,0,1,0
+1b1f6839,Clovis North High School A,math,18,8,10,2,0
+1b1f6839,Clovis North High School A,physics,8,8,0,2,0
+1b1f6839,Thomas Jefferson High School for Science and Technology A,biology,-8,-8,0,0,2
+1b1f6839,Thomas Jefferson High School for Science and Technology A,chemistry,42,12,30,3,0
+1b1f6839,Thomas Jefferson High School for Science and Technology A,energy,14,4,10,1,0
+1b1f6839,Thomas Jefferson High School for Science and Technology A,ess,38,8,30,3,1
+1b1f6839,Thomas Jefferson High School for Science and Technology A,math,4,4,0,1,0
+1b1f6839,Thomas Jefferson High School for Science and Technology A,physics,14,4,10,2,1
+1baff78b,Archbishop Mitty High School B,biology,20,0,20,2,2
+1baff78b,Archbishop Mitty High School B,chemistry,-8,-8,0,0,2
+1baff78b,Archbishop Mitty High School B,energy,-4,-4,0,0,1
+1baff78b,Archbishop Mitty High School B,ess,22,12,10,3,0
+1baff78b,Archbishop Mitty High School B,math,8,8,0,2,0
+1baff78b,Archbishop Mitty High School B,physics,22,12,10,3,0
+1baff78b,Phillips Exeter Academy A,biology,14,4,10,2,1
+1baff78b,Phillips Exeter Academy A,chemistry,46,16,30,4,0
+1baff78b,Phillips Exeter Academy A,energy,14,4,10,1,0
+1baff78b,Phillips Exeter Academy A,ess,0,0,0,0,0
+1baff78b,Phillips Exeter Academy A,math,14,4,10,1,0
+1baff78b,Phillips Exeter Academy A,physics,4,4,0,1,0
+1fb1409b,College Park High School A,biology,18,8,10,3,1
+1fb1409b,College Park High School A,chemistry,14,4,10,1,0
+1fb1409b,College Park High School A,energy,-4,-4,0,0,1
+1fb1409b,College Park High School A,ess,10,0,10,1,1
+1fb1409b,College Park High School A,math,0,0,0,0,0
+1fb1409b,College Park High School A,physics,8,8,0,2,0
+1fb1409b,Stanford Online High School A,biology,4,4,0,1,0
+1fb1409b,Stanford Online High School A,chemistry,14,4,10,2,1
+1fb1409b,Stanford Online High School A,energy,4,4,0,1,0
+1fb1409b,Stanford Online High School A,ess,4,4,0,1,0
+1fb1409b,Stanford Online High School A,math,8,8,0,2,0
+1fb1409b,Stanford Online High School A,physics,14,4,10,2,1
+21af1b8f,Baton Rouge Magnet High School B,biology,8,8,0,2,0
+21af1b8f,Baton Rouge Magnet High School B,chemistry,4,4,0,1,0
+21af1b8f,Baton Rouge Magnet High School B,energy,14,4,10,1,0
+21af1b8f,Baton Rouge Magnet High School B,ess,0,0,0,0,0
+21af1b8f,Baton Rouge Magnet High School B,math,0,0,0,0,0
+21af1b8f,Baton Rouge Magnet High School B,physics,4,4,0,1,0
+21af1b8f,University High School A,biology,-16,-16,0,0,4
+21af1b8f,University High School A,chemistry,18,8,10,2,0
+21af1b8f,University High School A,energy,0,0,0,0,0
+21af1b8f,University High School A,ess,8,8,0,2,0
+21af1b8f,University High School A,math,14,4,10,1,0
+21af1b8f,University High School A,physics,18,8,10,2,0
+21e43aa6,Cupertino High School B,biology,14,4,10,1,0
+21e43aa6,Cupertino High School B,chemistry,14,4,10,1,0
+21e43aa6,Cupertino High School B,energy,0,0,0,0,0
+21e43aa6,Cupertino High School B,ess,14,4,10,1,0
+21e43aa6,Cupertino High School B,math,0,0,0,0,0
+21e43aa6,Cupertino High School B,physics,4,4,0,1,0
+21e43aa6,Shaker High School B,biology,24,4,20,2,1
+21e43aa6,Shaker High School B,chemistry,18,8,10,2,0
+21e43aa6,Shaker High School B,energy,14,4,10,1,0
+21e43aa6,Shaker High School B,ess,28,8,20,2,0
+21e43aa6,Shaker High School B,math,14,4,10,1,0
+21e43aa6,Shaker High School B,physics,18,8,10,2,0
+239ce60d,Dulles High School A,biology,6,-4,10,1,2
+239ce60d,Dulles High School A,chemistry,-4,-4,0,1,2
+239ce60d,Dulles High School A,energy,0,0,0,0,0
+239ce60d,Dulles High School A,ess,4,4,0,1,0
+239ce60d,Dulles High School A,math,18,8,10,2,0
+239ce60d,Dulles High School A,physics,4,4,0,2,1
+239ce60d,North Hollywood High School A,biology,22,12,10,3,0
+239ce60d,North Hollywood High School A,chemistry,4,4,0,1,0
+239ce60d,North Hollywood High School A,energy,14,4,10,1,0
+239ce60d,North Hollywood High School A,ess,10,0,10,1,1
+239ce60d,North Hollywood High School A,math,18,8,10,2,0
+239ce60d,North Hollywood High School A,physics,14,4,10,2,1
+5466832f,Alabama School of Fine Arts A,biology,0,0,0,1,1
+5466832f,Alabama School of Fine Arts A,chemistry,38,8,30,3,1
+5466832f,Alabama School of Fine Arts A,energy,14,4,10,1,0
+5466832f,Alabama School of Fine Arts A,ess,46,16,30,4,0
+5466832f,Alabama School of Fine Arts A,math,4,4,0,2,1
+5466832f,Alabama School of Fine Arts A,physics,22,12,10,3,0
+5466832f,College Park High School B,biology,38,8,30,3,1
+5466832f,College Park High School B,chemistry,4,4,0,1,0
+5466832f,College Park High School B,energy,0,0,0,0,0
+5466832f,College Park High School B,ess,0,0,0,0,0
+5466832f,College Park High School B,math,0,0,0,0,0
+5466832f,College Park High School B,physics,0,0,0,0,0
+58429948,Cupertino High School A,biology,20,0,20,2,2
+58429948,Cupertino High School A,chemistry,-4,-4,0,0,1
+58429948,Cupertino High School A,energy,-4,-4,0,0,1
+58429948,Cupertino High School A,ess,0,0,0,0,0
+58429948,Cupertino High School A,math,12,12,0,3,0
+58429948,Cupertino High School A,physics,22,12,10,3,0
+58429948,Shaker High School A,biology,10,0,10,1,1
+58429948,Shaker High School A,chemistry,14,4,10,2,1
+58429948,Shaker High School A,energy,14,4,10,1,0
+58429948,Shaker High School A,ess,4,4,0,1,0
+58429948,Shaker High School A,math,0,0,0,0,0
+58429948,Shaker High School A,physics,0,0,0,0,0
+60c49d08,Palo Alto High School A,biology,18,8,10,2,0
+60c49d08,Palo Alto High School A,chemistry,-8,-8,0,0,2
+60c49d08,Palo Alto High School A,energy,14,4,10,1,0
+60c49d08,Palo Alto High School A,ess,10,0,10,1,1
+60c49d08,Palo Alto High School A,math,8,8,0,2,0
+60c49d08,Palo Alto High School A,physics,32,12,20,3,0
+60c49d08,Temple City High School A,biology,10,0,10,1,1
+60c49d08,Temple City High School A,chemistry,18,8,10,2,0
+60c49d08,Temple City High School A,energy,-4,-4,0,0,1
+60c49d08,Temple City High School A,ess,22,12,10,3,0
+60c49d08,Temple City High School A,math,0,0,0,0,0
+60c49d08,Temple City High School A,physics,-4,-4,0,1,2
+64808919,Iolani School A,biology,0,0,0,0,0
+64808919,Iolani School A,chemistry,18,8,10,2,0
+64808919,Iolani School A,energy,0,0,0,0,0
+64808919,Iolani School A,ess,8,8,0,2,0
+64808919,Iolani School A,math,4,4,0,1,0
+64808919,Iolani School A,physics,4,4,0,1,0
+64808919,William G. Enloe High School A,biology,14,4,10,2,1
+64808919,William G. Enloe High School A,chemistry,10,0,10,1,1
+64808919,William G. Enloe High School A,energy,14,4,10,1,0
+64808919,William G. Enloe High School A,ess,14,4,10,1,0
+64808919,William G. Enloe High School A,math,0,0,0,0,0
+64808919,William G. Enloe High School A,physics,0,0,0,1,1
+6ed45c95,Basis Independent Silicon Valley B,biology,12,12,0,3,0
+6ed45c95,Basis Independent Silicon Valley B,chemistry,20,0,20,2,2
+6ed45c95,Basis Independent Silicon Valley B,energy,14,4,10,1,0
+6ed45c95,Basis Independent Silicon Valley B,ess,14,4,10,1,0
+6ed45c95,Basis Independent Silicon Valley B,math,4,4,0,1,0
+6ed45c95,Basis Independent Silicon Valley B,physics,16,16,0,4,0
+6ed45c95,McNeil High School A,biology,14,4,10,1,0
+6ed45c95,McNeil High School A,chemistry,14,4,10,1,0
+6ed45c95,McNeil High School A,energy,0,0,0,0,0
+6ed45c95,McNeil High School A,ess,18,8,10,2,0
+6ed45c95,McNeil High School A,math,0,0,0,0,0
+6ed45c95,McNeil High School A,physics,0,0,0,0,0
+6fda425a,Green Hope High School A,biology,24,4,20,2,1
+6fda425a,Green Hope High School A,chemistry,4,4,0,2,1
+6fda425a,Green Hope High School A,energy,14,4,10,1,0
+6fda425a,Green Hope High School A,ess,18,8,10,2,0
+6fda425a,Green Hope High School A,math,4,4,0,1,0
+6fda425a,Green Hope High School A,physics,8,8,0,2,0
+6fda425a,Shaker High School C,biology,4,4,0,1,0
+6fda425a,Shaker High School C,chemistry,0,0,0,0,0
+6fda425a,Shaker High School C,energy,0,0,0,0,0
+6fda425a,Shaker High School C,ess,14,4,10,1,0
+6fda425a,Shaker High School C,math,0,0,0,0,0
+6fda425a,Shaker High School C,physics,0,0,0,0,0
+8f278f86,Doral Academy B,biology,38,8,30,3,1
+8f278f86,Doral Academy B,chemistry,4,4,0,1,0
+8f278f86,Doral Academy B,energy,14,4,10,1,0
+8f278f86,Doral Academy B,ess,0,0,0,0,0
+8f278f86,Doral Academy B,math,22,12,10,3,0
+8f278f86,Doral Academy B,physics,-4,-4,0,0,1
+8f278f86,Madison West High School A,biology,6,-4,10,1,2
+8f278f86,Madison West High School A,chemistry,14,4,10,1,0
+8f278f86,Madison West High School A,energy,-4,-4,0,0,1
+8f278f86,Madison West High School A,ess,42,12,30,3,0
+8f278f86,Madison West High School A,math,0,0,0,0,0
+8f278f86,Madison West High School A,physics,18,8,10,3,1
+98754e3c,BASIS Independent Silicon Valley A,biology,14,4,10,1,0
+98754e3c,BASIS Independent Silicon Valley A,chemistry,0,0,0,0,0
+98754e3c,BASIS Independent Silicon Valley A,energy,14,4,10,1,0
+98754e3c,BASIS Independent Silicon Valley A,ess,18,8,10,2,0
+98754e3c,BASIS Independent Silicon Valley A,math,0,0,0,0,0
+98754e3c,BASIS Independent Silicon Valley A,physics,12,12,0,3,0
+98754e3c,William G. Enloe High School C,biology,-4,-4,0,1,2
+98754e3c,William G. Enloe High School C,chemistry,8,8,0,2,0
+98754e3c,William G. Enloe High School C,energy,0,0,0,0,0
+98754e3c,William G. Enloe High School C,ess,14,4,10,1,0
+98754e3c,William G. Enloe High School C,math,4,4,0,1,0
+98754e3c,William G. Enloe High School C,physics,4,4,0,1,0
+a822b570,Alabama School of Fine Arts B,biology,4,4,0,1,0
+a822b570,Alabama School of Fine Arts B,chemistry,4,4,0,1,0
+a822b570,Alabama School of Fine Arts B,energy,0,0,0,0,0
+a822b570,Alabama School of Fine Arts B,ess,4,4,0,1,0
+a822b570,Alabama School of Fine Arts B,math,0,0,0,0,0
+a822b570,Alabama School of Fine Arts B,physics,14,4,10,1,0
+a822b570,Montgomery Blair High School A,biology,38,8,30,3,1
+a822b570,Montgomery Blair High School A,chemistry,32,12,20,3,0
+a822b570,Montgomery Blair High School A,energy,-4,-4,0,0,1
+a822b570,Montgomery Blair High School A,ess,38,8,30,3,1
+a822b570,Montgomery Blair High School A,math,22,12,10,3,0
+a822b570,Montgomery Blair High School A,physics,32,12,20,3,0
+af957602,Doral Academy C,biology,4,4,0,1,0
+af957602,Doral Academy C,chemistry,4,4,0,1,0
+af957602,Doral Academy C,energy,0,0,0,0,0
+af957602,Doral Academy C,ess,4,4,0,1,0
+af957602,Doral Academy C,math,0,0,0,0,0
+af957602,Doral Academy C,physics,0,0,0,0,0
+af957602,Montgomery Blair High School B,biology,20,0,20,2,2
+af957602,Montgomery Blair High School B,chemistry,14,4,10,1,0
+af957602,Montgomery Blair High School B,energy,14,4,10,1,0
+af957602,Montgomery Blair High School B,ess,10,0,10,2,2
+af957602,Montgomery Blair High School B,math,18,8,10,2,0
+af957602,Montgomery Blair High School B,physics,12,12,0,3,0
+b5885d3b,Camas High School A,biology,0,0,0,0,0
+b5885d3b,Camas High School A,chemistry,10,0,10,1,1
+b5885d3b,Camas High School A,energy,0,0,0,0,0
+b5885d3b,Camas High School A,ess,18,8,10,2,0
+b5885d3b,Camas High School A,math,0,0,0,0,0
+b5885d3b,Camas High School A,physics,4,4,0,1,0
+b5885d3b,James Clemens High School A,biology,38,8,30,3,1
+b5885d3b,James Clemens High School A,chemistry,24,4,20,2,1
+b5885d3b,James Clemens High School A,energy,14,4,10,1,0
+b5885d3b,James Clemens High School A,ess,24,4,20,2,1
+b5885d3b,James Clemens High School A,math,0,0,0,1,1
+b5885d3b,James Clemens High School A,physics,28,8,20,3,1
+c692a906,Palm Desert High School A,biology,0,0,0,0,0
+c692a906,Palm Desert High School A,chemistry,42,12,30,3,0
+c692a906,Palm Desert High School A,energy,4,4,0,1,0
+c692a906,Palm Desert High School A,ess,0,0,0,0,0
+c692a906,Palm Desert High School A,math,0,0,0,0,0
+c692a906,Palm Desert High School A,physics,4,4,0,1,0
+c692a906,Triangle Math and Science Academy A,biology,26,16,10,4,0
+c692a906,Triangle Math and Science Academy A,chemistry,0,0,0,0,0
+c692a906,Triangle Math and Science Academy A,energy,0,0,0,0,0
+c692a906,Triangle Math and Science Academy A,ess,14,4,10,1,0
+c692a906,Triangle Math and Science Academy A,math,0,0,0,1,1
+c692a906,Triangle Math and Science Academy A,physics,4,4,0,1,0
+da978057,Bridgeland High School A,biology,0,0,0,0,0
+da978057,Bridgeland High School A,chemistry,0,0,0,0,0
+da978057,Bridgeland High School A,energy,4,4,0,1,0
+da978057,Bridgeland High School A,ess,14,4,10,1,0
+da978057,Bridgeland High School A,math,4,4,0,1,0
+da978057,Bridgeland High School A,physics,4,4,0,1,0
+da978057,Doral Academy A,biology,20,0,20,2,2
+da978057,Doral Academy A,chemistry,24,4,20,2,1
+da978057,Doral Academy A,energy,0,0,0,0,0
+da978057,Doral Academy A,ess,18,8,10,2,0
+da978057,Doral Academy A,math,4,4,0,1,0
+da978057,Doral Academy A,physics,8,8,0,2,0
+dc8922eb,Lynbrook High School A,biology,24,4,20,2,1
+dc8922eb,Lynbrook High School A,chemistry,18,8,10,2,0
+dc8922eb,Lynbrook High School A,energy,14,4,10,1,0
+dc8922eb,Lynbrook High School A,ess,18,8,10,2,0
+dc8922eb,Lynbrook High School A,math,4,4,0,1,0
+dc8922eb,Lynbrook High School A,physics,4,4,0,1,0
+dc8922eb,Weston High School A,biology,18,8,10,2,0
+dc8922eb,Weston High School A,chemistry,24,4,20,2,1
+dc8922eb,Weston High School A,energy,0,0,0,0,0
+dc8922eb,Weston High School A,ess,0,0,0,0,0
+dc8922eb,Weston High School A,math,0,0,0,0,0
+dc8922eb,Weston High School A,physics,4,4,0,1,0
+de13d0e0,Carmel High School A,biology,4,4,0,1,0
+de13d0e0,Carmel High School A,chemistry,22,12,10,3,0
+de13d0e0,Carmel High School A,energy,14,4,10,1,0
+de13d0e0,Carmel High School A,ess,0,0,0,1,1
+de13d0e0,Carmel High School A,math,18,8,10,2,0
+de13d0e0,Carmel High School A,physics,28,8,20,3,1
+de13d0e0,William P. Clements High School A,biology,32,12,20,3,0
+de13d0e0,William P. Clements High School A,chemistry,0,0,0,1,1
+de13d0e0,William P. Clements High School A,energy,0,0,0,0,0
+de13d0e0,William P. Clements High School A,ess,18,8,10,2,0
+de13d0e0,William P. Clements High School A,math,4,4,0,1,0
+de13d0e0,William P. Clements High School A,physics,0,0,0,0,0
+e3c5f335,Baton Rouge Magnet High School A,biology,18,8,10,2,0
+e3c5f335,Baton Rouge Magnet High School A,chemistry,28,8,20,2,0
+e3c5f335,Baton Rouge Magnet High School A,energy,14,4,10,1,0
+e3c5f335,Baton Rouge Magnet High School A,ess,28,8,20,2,0
+e3c5f335,Baton Rouge Magnet High School A,math,32,12,20,3,0
+e3c5f335,Baton Rouge Magnet High School A,physics,42,12,30,3,0
+e3c5f335,Folsom City East High School A,biology,14,4,10,1,0
+e3c5f335,Folsom City East High School A,chemistry,0,0,0,0,0
+e3c5f335,Folsom City East High School A,energy,0,0,0,0,0
+e3c5f335,Folsom City East High School A,ess,14,4,10,1,0
+e3c5f335,Folsom City East High School A,math,0,0,0,0,0
+e3c5f335,Folsom City East High School A,physics,0,0,0,0,0
+e44901ae,Carmel High School B,biology,14,4,10,1,0
+e44901ae,Carmel High School B,chemistry,-4,-4,0,1,2
+e44901ae,Carmel High School B,energy,14,4,10,1,0
+e44901ae,Carmel High School B,ess,10,0,10,1,1
+e44901ae,Carmel High School B,math,0,0,0,0,0
+e44901ae,Carmel High School B,physics,18,8,10,2,0
+e44901ae,Punahou School A,biology,8,8,0,2,0
+e44901ae,Punahou School A,chemistry,32,12,20,3,0
+e44901ae,Punahou School A,energy,0,0,0,0,0
+e44901ae,Punahou School A,ess,38,8,30,3,1
+e44901ae,Punahou School A,math,12,12,0,3,0
+e44901ae,Punahou School A,physics,8,8,0,2,0
+ed950db7,Canyon Crest Academy A,biology,0,0,0,2,2
+ed950db7,Canyon Crest Academy A,chemistry,14,4,10,1,0
+ed950db7,Canyon Crest Academy A,energy,14,4,10,1,0
+ed950db7,Canyon Crest Academy A,ess,18,8,10,2,0
+ed950db7,Canyon Crest Academy A,math,8,8,0,2,0
+ed950db7,Canyon Crest Academy A,physics,18,8,10,2,0
+ed950db7,University High School C,biology,14,4,10,2,1
+ed950db7,University High School C,chemistry,14,4,10,1,0
+ed950db7,University High School C,energy,0,0,0,0,0
+ed950db7,University High School C,ess,24,4,20,2,1
+ed950db7,University High School C,math,4,4,0,1,0
+ed950db7,University High School C,physics,10,0,10,1,1
+edb8120d,Archbishop Mitty High School A,biology,28,8,20,2,0
+edb8120d,Archbishop Mitty High School A,chemistry,4,4,0,1,0
+edb8120d,Archbishop Mitty High School A,energy,0,0,0,0,0
+edb8120d,Archbishop Mitty High School A,ess,8,8,0,2,0
+edb8120d,Archbishop Mitty High School A,math,4,4,0,1,0
+edb8120d,Archbishop Mitty High School A,physics,8,8,0,2,0
+edb8120d,Tesla STEM High School A,biology,10,0,10,2,2
+edb8120d,Tesla STEM High School A,chemistry,4,4,0,1,0
+edb8120d,Tesla STEM High School A,energy,14,4,10,1,0
+edb8120d,Tesla STEM High School A,ess,10,0,10,1,1
+edb8120d,Tesla STEM High School A,math,0,0,0,1,1
+edb8120d,Tesla STEM High School A,physics,0,0,0,0,0
+ef7cf10c,Arcadia High School A,biology,56,16,40,4,0
+ef7cf10c,Arcadia High School A,chemistry,32,12,20,3,0
+ef7cf10c,Arcadia High School A,energy,14,4,10,1,0
+ef7cf10c,Arcadia High School A,ess,0,0,0,0,0
+ef7cf10c,Arcadia High School A,math,0,0,0,0,0
+ef7cf10c,Arcadia High School A,physics,8,8,0,2,0
+ef7cf10c,Frazer High School A,biology,-4,-4,0,0,1
+ef7cf10c,Frazer High School A,chemistry,14,4,10,1,0
+ef7cf10c,Frazer High School A,energy,0,0,0,0,0
+ef7cf10c,Frazer High School A,ess,56,16,40,4,0
+ef7cf10c,Frazer High School A,math,8,8,0,2,0
+ef7cf10c,Frazer High School A,physics,8,8,0,2,0
+f30b5977,Obra D. Tompkins High School A,biology,14,4,10,1,0
+f30b5977,Obra D. Tompkins High School A,chemistry,4,4,0,1,0
+f30b5977,Obra D. Tompkins High School A,energy,0,0,0,0,0
+f30b5977,Obra D. Tompkins High School A,ess,4,4,0,1,0
+f30b5977,Obra D. Tompkins High School A,math,0,0,0,0,0
+f30b5977,Obra D. Tompkins High School A,physics,4,4,0,1,0
+f30b5977,William G. Enloe High School B,biology,12,12,0,3,0
+f30b5977,William G. Enloe High School B,chemistry,18,8,10,2,0
+f30b5977,William G. Enloe High School B,energy,4,4,0,1,0
+f30b5977,William G. Enloe High School B,ess,18,8,10,2,0
+f30b5977,William G. Enloe High School B,math,0,0,0,0,0
+f30b5977,William G. Enloe High School B,physics,8,8,0,2,0
+01b661ef,Archbishop Mitty High School A,biology,14,4,10,2,1
+01b661ef,Archbishop Mitty High School A,chemistry,0,0,0,0,0
+01b661ef,Archbishop Mitty High School A,ess,8,8,0,2,0
+01b661ef,Archbishop Mitty High School A,math,0,0,0,0,0
+01b661ef,Archbishop Mitty High School A,other,0,0,0,0,0
+01b661ef,Archbishop Mitty High School A,physics,0,0,0,1,1
+01b661ef,Clovis North High School A,biology,14,4,10,2,1
+01b661ef,Clovis North High School A,chemistry,12,12,0,3,0
+01b661ef,Clovis North High School A,ess,14,4,10,1,0
+01b661ef,Clovis North High School A,math,4,4,0,1,0
+01b661ef,Clovis North High School A,other,14,4,10,1,0
+01b661ef,Clovis North High School A,physics,18,8,10,2,0
+14c1eea3,Shaker High School A,biology,0,0,0,1,1
+14c1eea3,Shaker High School A,chemistry,14,4,10,2,1
+14c1eea3,Shaker High School A,ess,22,12,10,3,0
+14c1eea3,Shaker High School A,math,0,0,0,0,0
+14c1eea3,Shaker High School A,other,14,4,10,1,0
+14c1eea3,Shaker High School A,physics,18,8,10,2,0
+14c1eea3,Stanford Online High School A,biology,0,0,0,0,0
+14c1eea3,Stanford Online High School A,chemistry,8,8,0,2,0
+14c1eea3,Stanford Online High School A,ess,0,0,0,0,0
+14c1eea3,Stanford Online High School A,math,4,4,0,1,0
+14c1eea3,Stanford Online High School A,other,0,0,0,0,0
+14c1eea3,Stanford Online High School A,physics,-4,-4,0,0,1
+236e877e,Archbishop Mitty High School B,biology,-4,-4,0,0,1
+236e877e,Archbishop Mitty High School B,chemistry,18,8,10,2,0
+236e877e,Archbishop Mitty High School B,ess,4,4,0,1,0
+236e877e,Archbishop Mitty High School B,math,18,8,10,2,0
+236e877e,Archbishop Mitty High School B,other,14,4,10,1,0
+236e877e,Archbishop Mitty High School B,physics,36,16,20,4,0
+236e877e,Palo Alto High School A,biology,0,0,0,1,1
+236e877e,Palo Alto High School A,chemistry,8,8,0,2,0
+236e877e,Palo Alto High School A,ess,32,12,20,3,0
+236e877e,Palo Alto High School A,math,-4,-4,0,0,1
+236e877e,Palo Alto High School A,other,-4,-4,0,0,1
+236e877e,Palo Alto High School A,physics,-8,-8,0,0,2
+24e597c4,Shaker High School B,biology,14,4,10,1,0
+24e597c4,Shaker High School B,chemistry,14,4,10,1,0
+24e597c4,Shaker High School B,ess,0,0,0,0,0
+24e597c4,Shaker High School B,math,14,4,10,1,0
+24e597c4,Shaker High School B,other,14,4,10,1,0
+24e597c4,Shaker High School B,physics,14,4,10,1,0
+24e597c4,University High School C,biology,4,4,0,1,0
+24e597c4,University High School C,chemistry,8,8,0,2,0
+24e597c4,University High School C,ess,12,12,0,3,0
+24e597c4,University High School C,math,28,8,20,2,0
+24e597c4,University High School C,other,0,0,0,0,0
+24e597c4,University High School C,physics,24,4,20,2,1
+3d71e52b,Canyon Crest Academy A,biology,-8,-8,0,0,2
+3d71e52b,Canyon Crest Academy A,chemistry,8,8,0,2,0
+3d71e52b,Canyon Crest Academy A,ess,0,0,0,0,0
+3d71e52b,Canyon Crest Academy A,math,4,4,0,1,0
+3d71e52b,Canyon Crest Academy A,other,14,4,10,1,0
+3d71e52b,Canyon Crest Academy A,physics,0,0,0,1,1
+3d71e52b,Folsom City East High School A,biology,14,4,10,1,0
+3d71e52b,Folsom City East High School A,chemistry,0,0,0,0,0
+3d71e52b,Folsom City East High School A,ess,8,8,0,2,0
+3d71e52b,Folsom City East High School A,math,4,4,0,1,0
+3d71e52b,Folsom City East High School A,other,0,0,0,0,0
+3d71e52b,Folsom City East High School A,physics,-4,-4,0,0,1
+44d3481f,Lynbrook High School A,biology,4,4,0,2,1
+44d3481f,Lynbrook High School A,chemistry,14,4,10,1,0
+44d3481f,Lynbrook High School A,ess,8,8,0,2,0
+44d3481f,Lynbrook High School A,math,0,0,0,0,0
+44d3481f,Lynbrook High School A,other,14,4,10,1,0
+44d3481f,Lynbrook High School A,physics,-4,-4,0,1,2
+44d3481f,Phillips Exeter Academy A,biology,18,8,10,2,0
+44d3481f,Phillips Exeter Academy A,chemistry,8,8,0,3,1
+44d3481f,Phillips Exeter Academy A,ess,4,4,0,1,0
+44d3481f,Phillips Exeter Academy A,math,22,12,10,3,0
+44d3481f,Phillips Exeter Academy A,other,0,0,0,0,0
+44d3481f,Phillips Exeter Academy A,physics,10,0,10,1,1
+522b6b54,Doral Academy A,biology,-4,-4,0,0,1
+522b6b54,Doral Academy A,chemistry,4,4,0,1,0
+522b6b54,Doral Academy A,ess,4,4,0,1,0
+522b6b54,Doral Academy A,math,18,8,10,2,0
+522b6b54,Doral Academy A,other,0,0,0,0,0
+522b6b54,Doral Academy A,physics,8,8,0,2,0
+522b6b54,Mission San Jose High School A,biology,38,8,30,3,1
+522b6b54,Mission San Jose High School A,chemistry,42,12,30,3,0
+522b6b54,Mission San Jose High School A,ess,24,4,20,2,1
+522b6b54,Mission San Jose High School A,math,18,8,10,2,0
+522b6b54,Mission San Jose High School A,other,14,4,10,1,0
+522b6b54,Mission San Jose High School A,physics,-4,-4,0,1,2
+542d1ee9,Temple City High School A,biology,14,4,10,2,1
+542d1ee9,Temple City High School A,chemistry,4,4,0,1,0
+542d1ee9,Temple City High School A,ess,18,8,10,2,0
+542d1ee9,Temple City High School A,math,4,4,0,1,0
+542d1ee9,Temple City High School A,other,0,0,0,0,0
+542d1ee9,Temple City High School A,physics,0,0,0,0,0
+542d1ee9,Weston High School A,biology,-4,-4,0,0,1
+542d1ee9,Weston High School A,chemistry,8,8,0,3,1
+542d1ee9,Weston High School A,ess,0,0,0,0,0
+542d1ee9,Weston High School A,math,4,4,0,1,0
+542d1ee9,Weston High School A,other,4,4,0,1,0
+542d1ee9,Weston High School A,physics,14,4,10,1,0
+5d23d0ce,Baton Rouge Magnet High School A,biology,4,4,0,2,1
+5d23d0ce,Baton Rouge Magnet High School A,chemistry,8,8,0,2,0
+5d23d0ce,Baton Rouge Magnet High School A,ess,36,16,20,4,0
+5d23d0ce,Baton Rouge Magnet High School A,math,18,8,10,2,0
+5d23d0ce,Baton Rouge Magnet High School A,other,14,4,10,1,0
+5d23d0ce,Baton Rouge Magnet High School A,physics,22,12,10,3,0
+5d23d0ce,Cupertino High School B,biology,14,4,10,1,0
+5d23d0ce,Cupertino High School B,chemistry,-4,-4,0,0,1
+5d23d0ce,Cupertino High School B,ess,0,0,0,0,0
+5d23d0ce,Cupertino High School B,math,4,4,0,1,0
+5d23d0ce,Cupertino High School B,other,0,0,0,0,0
+5d23d0ce,Cupertino High School B,physics,4,4,0,1,0
+5fcff279,Dulles High School A,biology,46,16,30,4,0
+5fcff279,Dulles High School A,chemistry,22,12,10,3,0
+5fcff279,Dulles High School A,ess,14,4,10,1,0
+5fcff279,Dulles High School A,math,8,8,0,2,0
+5fcff279,Dulles High School A,other,4,4,0,1,0
+5fcff279,Dulles High School A,physics,28,8,20,2,0
+5fcff279,Montgomery Blair High School C,biology,-8,-8,0,0,2
+5fcff279,Montgomery Blair High School C,chemistry,4,4,0,1,0
+5fcff279,Montgomery Blair High School C,ess,18,8,10,2,0
+5fcff279,Montgomery Blair High School C,math,18,8,10,2,0
+5fcff279,Montgomery Blair High School C,other,0,0,0,0,0
+5fcff279,Montgomery Blair High School C,physics,-4,-4,0,0,1
+6bb49deb,Camas High School A,biology,0,0,0,0,0
+6bb49deb,Camas High School A,chemistry,0,0,0,1,1
+6bb49deb,Camas High School A,ess,0,0,0,0,0
+6bb49deb,Camas High School A,math,0,0,0,0,0
+6bb49deb,Camas High School A,other,0,0,0,0,0
+6bb49deb,Camas High School A,physics,14,4,10,1,0
+6bb49deb,Cupertino High School A,biology,18,8,10,2,0
+6bb49deb,Cupertino High School A,chemistry,0,0,0,0,0
+6bb49deb,Cupertino High School A,ess,4,4,0,1,0
+6bb49deb,Cupertino High School A,math,8,8,0,2,0
+6bb49deb,Cupertino High School A,other,14,4,10,1,0
+6bb49deb,Cupertino High School A,physics,0,0,0,0,0
+7b031e40,Baton Rouge Magnet High School B,biology,18,8,10,2,0
+7b031e40,Baton Rouge Magnet High School B,chemistry,8,8,0,2,0
+7b031e40,Baton Rouge Magnet High School B,ess,18,8,10,2,0
+7b031e40,Baton Rouge Magnet High School B,math,4,4,0,1,0
+7b031e40,Baton Rouge Magnet High School B,other,0,0,0,0,0
+7b031e40,Baton Rouge Magnet High School B,physics,0,0,0,0,0
+7b031e40,Hopkins Middle School C,biology,4,4,0,1,0
+7b031e40,Hopkins Middle School C,chemistry,14,4,10,1,0
+7b031e40,Hopkins Middle School C,ess,0,0,0,0,0
+7b031e40,Hopkins Middle School C,math,4,4,0,1,0
+7b031e40,Hopkins Middle School C,other,4,4,0,1,0
+7b031e40,Hopkins Middle School C,physics,18,8,10,2,0
+7c323b38,Alabama School of Fine Arts B,biology,4,4,0,1,0
+7c323b38,Alabama School of Fine Arts B,chemistry,0,0,0,0,0
+7c323b38,Alabama School of Fine Arts B,ess,0,0,0,0,0
+7c323b38,Alabama School of Fine Arts B,math,8,8,0,2,0
+7c323b38,Alabama School of Fine Arts B,other,0,0,0,0,0
+7c323b38,Alabama School of Fine Arts B,physics,14,4,10,1,0
+7c323b38,Green Hope High School A,biology,0,0,0,1,1
+7c323b38,Green Hope High School A,chemistry,16,16,0,4,0
+7c323b38,Green Hope High School A,ess,22,12,10,3,0
+7c323b38,Green Hope High School A,math,-4,-4,0,0,1
+7c323b38,Green Hope High School A,other,14,4,10,1,0
+7c323b38,Green Hope High School A,physics,10,0,10,1,1
+894f3784,Carmel High School B,biology,0,0,0,1,1
+894f3784,Carmel High School B,chemistry,22,12,10,3,0
+894f3784,Carmel High School B,ess,22,12,10,3,0
+894f3784,Carmel High School B,math,4,4,0,1,0
+894f3784,Carmel High School B,other,14,4,10,1,0
+894f3784,Carmel High School B,physics,10,0,10,2,2
+894f3784,Palm Desert High School A,biology,0,0,0,0,0
+894f3784,Palm Desert High School A,chemistry,4,4,0,1,0
+894f3784,Palm Desert High School A,ess,0,0,0,0,0
+894f3784,Palm Desert High School A,math,0,0,0,0,0
+894f3784,Palm Desert High School A,other,0,0,0,0,0
+894f3784,Palm Desert High School A,physics,0,0,0,0,0
+9b1c2184,Triangle Math and Science Academy A,biology,14,4,10,2,1
+9b1c2184,Triangle Math and Science Academy A,chemistry,4,4,0,1,0
+9b1c2184,Triangle Math and Science Academy A,ess,4,4,0,1,0
+9b1c2184,Triangle Math and Science Academy A,math,0,0,0,0,0
+9b1c2184,Triangle Math and Science Academy A,other,4,4,0,1,0
+9b1c2184,Triangle Math and Science Academy A,physics,0,0,0,0,0
+9b1c2184,William G. Enloe High School B,biology,8,8,0,2,0
+9b1c2184,William G. Enloe High School B,chemistry,0,0,0,0,0
+9b1c2184,William G. Enloe High School B,ess,0,0,0,0,0
+9b1c2184,William G. Enloe High School B,math,4,4,0,1,0
+9b1c2184,William G. Enloe High School B,other,0,0,0,0,0
+9b1c2184,William G. Enloe High School B,physics,8,8,0,3,1
+9be218a5,American High School A,biology,18,8,10,2,0
+9be218a5,American High School A,chemistry,4,4,0,2,1
+9be218a5,American High School A,ess,32,12,20,3,0
+9be218a5,American High School A,math,28,8,20,2,0
+9be218a5,American High School A,other,4,4,0,1,0
+9be218a5,American High School A,physics,0,0,0,0,0
+9be218a5,Doral Academy C,biology,10,0,10,1,1
+9be218a5,Doral Academy C,chemistry,0,0,0,0,0
+9be218a5,Doral Academy C,ess,0,0,0,0,0
+9be218a5,Doral Academy C,math,4,4,0,1,0
+9be218a5,Doral Academy C,other,0,0,0,0,0
+9be218a5,Doral Academy C,physics,18,8,10,2,0
+a38ec380,Carmel High School A,biology,4,4,0,1,0
+a38ec380,Carmel High School A,chemistry,32,12,20,3,0
+a38ec380,Carmel High School A,ess,0,0,0,0,0
+a38ec380,Carmel High School A,math,14,4,10,1,0
+a38ec380,Carmel High School A,other,14,4,10,1,0
+a38ec380,Carmel High School A,physics,46,16,30,4,0
+a38ec380,Tesla STEM High School A,biology,18,8,10,2,0
+a38ec380,Tesla STEM High School A,chemistry,0,0,0,0,0
+a38ec380,Tesla STEM High School A,ess,18,8,10,2,0
+a38ec380,Tesla STEM High School A,math,8,8,0,2,0
+a38ec380,Tesla STEM High School A,other,0,0,0,0,0
+a38ec380,Tesla STEM High School A,physics,0,0,0,0,0
+a8386696,College Park High School A,biology,-8,-8,0,0,2
+a8386696,College Park High School A,chemistry,0,0,0,1,1
+a8386696,College Park High School A,ess,0,0,0,1,1
+a8386696,College Park High School A,math,0,0,0,0,0
+a8386696,College Park High School A,other,14,4,10,1,0
+a8386696,College Park High School A,physics,0,0,0,1,1
+a8386696,James Clemens High School A,biology,36,16,20,4,0
+a8386696,James Clemens High School A,chemistry,28,8,20,2,0
+a8386696,James Clemens High School A,ess,14,4,10,2,1
+a8386696,James Clemens High School A,math,28,8,20,2,0
+a8386696,James Clemens High School A,other,0,0,0,0,0
+a8386696,James Clemens High School A,physics,24,4,20,2,1
+b358e79b,Basis Independent Silicon Valley B,biology,4,4,0,1,0
+b358e79b,Basis Independent Silicon Valley B,chemistry,16,16,0,4,0
+b358e79b,Basis Independent Silicon Valley B,ess,18,8,10,2,0
+b358e79b,Basis Independent Silicon Valley B,math,42,12,30,3,0
+b358e79b,Basis Independent Silicon Valley B,other,14,4,10,1,0
+b358e79b,Basis Independent Silicon Valley B,physics,14,4,10,2,1
+b358e79b,Frazer High School A,biology,28,8,20,2,0
+b358e79b,Frazer High School A,chemistry,0,0,0,0,0
+b358e79b,Frazer High School A,ess,4,4,0,1,0
+b358e79b,Frazer High School A,math,0,0,0,0,0
+b358e79b,Frazer High School A,other,0,0,0,0,0
+b358e79b,Frazer High School A,physics,0,0,0,1,1
+b7fd4d26,Thomas Jefferson High School for Science and Technology A,biology,18,8,10,2,0
+b7fd4d26,Thomas Jefferson High School for Science and Technology A,chemistry,36,16,20,4,0
+b7fd4d26,Thomas Jefferson High School for Science and Technology A,ess,28,8,20,3,1
+b7fd4d26,Thomas Jefferson High School for Science and Technology A,math,18,8,10,2,0
+b7fd4d26,Thomas Jefferson High School for Science and Technology A,other,14,4,10,1,0
+b7fd4d26,Thomas Jefferson High School for Science and Technology A,physics,-8,-8,0,0,2
+b7fd4d26,William P. Clements High School A,biology,28,8,20,2,0
+b7fd4d26,William P. Clements High School A,chemistry,0,0,0,0,0
+b7fd4d26,William P. Clements High School A,ess,4,4,0,1,0
+b7fd4d26,William P. Clements High School A,math,0,0,0,0,0
+b7fd4d26,William P. Clements High School A,other,0,0,0,0,0
+b7fd4d26,William P. Clements High School A,physics,0,0,0,0,0
+b8f5d5d3,BASIS Independent Fremont A,biology,4,4,0,1,0
+b8f5d5d3,BASIS Independent Fremont A,chemistry,36,16,20,4,0
+b8f5d5d3,BASIS Independent Fremont A,ess,18,8,10,2,0
+b8f5d5d3,BASIS Independent Fremont A,math,8,8,0,2,0
+b8f5d5d3,BASIS Independent Fremont A,other,0,0,0,0,0
+b8f5d5d3,BASIS Independent Fremont A,physics,0,0,0,0,0
+b8f5d5d3,College Park High School B,biology,14,4,10,1,0
+b8f5d5d3,College Park High School B,chemistry,0,0,0,0,0
+b8f5d5d3,College Park High School B,ess,14,4,10,1,0
+b8f5d5d3,College Park High School B,math,0,0,0,0,0
+b8f5d5d3,College Park High School B,other,0,0,0,0,0
+b8f5d5d3,College Park High School B,physics,18,8,10,2,0
+ba1d7a28,BASIS Independent Silicon Valley A,biology,4,4,0,1,0
+ba1d7a28,BASIS Independent Silicon Valley A,chemistry,12,12,0,3,0
+ba1d7a28,BASIS Independent Silicon Valley A,ess,0,0,0,0,0
+ba1d7a28,BASIS Independent Silicon Valley A,math,4,4,0,1,0
+ba1d7a28,BASIS Independent Silicon Valley A,other,0,0,0,0,0
+ba1d7a28,BASIS Independent Silicon Valley A,physics,0,0,0,1,1
+ba1d7a28,Montgomery Blair High School A,biology,10,0,10,2,2
+ba1d7a28,Montgomery Blair High School A,chemistry,10,0,10,1,1
+ba1d7a28,Montgomery Blair High School A,ess,38,8,30,3,1
+ba1d7a28,Montgomery Blair High School A,math,18,8,10,2,0
+ba1d7a28,Montgomery Blair High School A,other,-4,-4,0,0,1
+ba1d7a28,Montgomery Blair High School A,physics,32,12,20,3,0
+bb931cbf,University High School B,biology,0,0,0,1,1
+bb931cbf,University High School B,chemistry,8,8,0,2,0
+bb931cbf,University High School B,ess,4,4,0,1,0
+bb931cbf,University High School B,math,4,4,0,1,0
+bb931cbf,University High School B,other,0,0,0,0,0
+bb931cbf,University High School B,physics,28,8,20,2,0
+bb931cbf,William G. Enloe High School A,biology,14,4,10,2,1
+bb931cbf,William G. Enloe High School A,chemistry,8,8,0,2,0
+bb931cbf,William G. Enloe High School A,ess,14,4,10,1,0
+bb931cbf,William G. Enloe High School A,math,14,4,10,1,0
+bb931cbf,William G. Enloe High School A,other,14,4,10,1,0
+bb931cbf,William G. Enloe High School A,physics,-4,-4,0,0,1
+becc1e9d,Madison West High School A,biology,0,0,0,1,1
+becc1e9d,Madison West High School A,chemistry,0,0,0,0,0
+becc1e9d,Madison West High School A,ess,32,12,20,3,0
+becc1e9d,Madison West High School A,math,18,8,10,2,0
+becc1e9d,Madison West High School A,other,-4,-4,0,0,1
+becc1e9d,Madison West High School A,physics,-4,-4,0,0,1
+becc1e9d,McNeil High School A,biology,18,8,10,2,0
+becc1e9d,McNeil High School A,chemistry,42,12,30,3,0
+becc1e9d,McNeil High School A,ess,4,4,0,1,0
+becc1e9d,McNeil High School A,math,14,4,10,1,0
+becc1e9d,McNeil High School A,other,0,0,0,0,0
+becc1e9d,McNeil High School A,physics,46,16,30,4,0
+c2c543d1,Montgomery Blair High School B,biology,0,0,0,2,2
+c2c543d1,Montgomery Blair High School B,chemistry,4,4,0,1,0
+c2c543d1,Montgomery Blair High School B,ess,18,8,10,2,0
+c2c543d1,Montgomery Blair High School B,math,0,0,0,1,1
+c2c543d1,Montgomery Blair High School B,other,14,4,10,1,0
+c2c543d1,Montgomery Blair High School B,physics,24,4,20,2,1
+c2c543d1,University High School A,biology,0,0,0,0,0
+c2c543d1,University High School A,chemistry,8,8,0,2,0
+c2c543d1,University High School A,ess,-4,-4,0,0,1
+c2c543d1,University High School A,math,14,4,10,1,0
+c2c543d1,University High School A,other,0,0,0,0,0
+c2c543d1,University High School A,physics,14,4,10,1,0
+e41ddf2e,Arcadia High School A,biology,4,4,0,1,0
+e41ddf2e,Arcadia High School A,chemistry,18,8,10,2,0
+e41ddf2e,Arcadia High School A,ess,8,8,0,2,0
+e41ddf2e,Arcadia High School A,math,4,4,0,1,0
+e41ddf2e,Arcadia High School A,other,0,0,0,0,0
+e41ddf2e,Arcadia High School A,physics,32,12,20,3,0
+e41ddf2e,Doral Academy B,biology,4,4,0,1,0
+e41ddf2e,Doral Academy B,chemistry,4,4,0,1,0
+e41ddf2e,Doral Academy B,ess,0,0,0,0,0
+e41ddf2e,Doral Academy B,math,0,0,0,0,0
+e41ddf2e,Doral Academy B,other,14,4,10,1,0
+e41ddf2e,Doral Academy B,physics,0,0,0,0,0
+e685c060,Shaker High School C,biology,4,4,0,1,0
+e685c060,Shaker High School C,chemistry,0,0,0,0,0
+e685c060,Shaker High School C,ess,18,8,10,2,0
+e685c060,Shaker High School C,math,0,0,0,0,0
+e685c060,Shaker High School C,other,0,0,0,0,0
+e685c060,Shaker High School C,physics,4,4,0,1,0
+e685c060,William G. Enloe High School C,biology,-4,-4,0,0,1
+e685c060,William G. Enloe High School C,chemistry,18,8,10,2,0
+e685c060,William G. Enloe High School C,ess,4,4,0,1,0
+e685c060,William G. Enloe High School C,math,18,8,10,2,0
+e685c060,William G. Enloe High School C,other,14,4,10,1,0
+e685c060,William G. Enloe High School C,physics,-4,-4,0,0,1
+e7bcb34d,Iolani School A,biology,0,0,0,0,0
+e7bcb34d,Iolani School A,chemistry,14,4,10,2,1
+e7bcb34d,Iolani School A,ess,0,0,0,0,0
+e7bcb34d,Iolani School A,math,14,4,10,2,1
+e7bcb34d,Iolani School A,other,-4,-4,0,0,1
+e7bcb34d,Iolani School A,physics,4,4,0,1,0
+e7bcb34d,North Hollywood High School A,biology,24,4,20,2,1
+e7bcb34d,North Hollywood High School A,chemistry,8,8,0,2,0
+e7bcb34d,North Hollywood High School A,ess,8,8,0,2,0
+e7bcb34d,North Hollywood High School A,math,0,0,0,0,0
+e7bcb34d,North Hollywood High School A,other,0,0,0,0,0
+e7bcb34d,North Hollywood High School A,physics,32,12,20,3,0
+e94a02ee,Obra D. Tompkins High School A,biology,28,8,20,2,0
+e94a02ee,Obra D. Tompkins High School A,chemistry,0,0,0,0,0
+e94a02ee,Obra D. Tompkins High School A,ess,-4,-4,0,0,1
+e94a02ee,Obra D. Tompkins High School A,math,0,0,0,0,0
+e94a02ee,Obra D. Tompkins High School A,other,0,0,0,0,0
+e94a02ee,Obra D. Tompkins High School A,physics,4,4,0,1,0
+e94a02ee,Punahou School A,biology,10,0,10,1,1
+e94a02ee,Punahou School A,chemistry,26,16,10,4,0
+e94a02ee,Punahou School A,ess,32,12,20,3,0
+e94a02ee,Punahou School A,math,4,4,0,1,0
+e94a02ee,Punahou School A,other,14,4,10,1,0
+e94a02ee,Punahou School A,physics,8,8,0,2,0
+f0053c06,Alabama School of Fine Arts A,biology,24,4,20,2,1
+f0053c06,Alabama School of Fine Arts A,chemistry,26,16,10,4,0
+f0053c06,Alabama School of Fine Arts A,ess,42,12,30,3,0
+f0053c06,Alabama School of Fine Arts A,math,42,12,30,3,0
+f0053c06,Alabama School of Fine Arts A,other,4,4,0,1,0
+f0053c06,Alabama School of Fine Arts A,physics,42,12,30,3,0
+f0053c06,Bridgeland High School A,biology,0,0,0,0,0
+f0053c06,Bridgeland High School A,chemistry,0,0,0,0,0
+f0053c06,Bridgeland High School A,ess,0,0,0,0,0
+f0053c06,Bridgeland High School A,math,0,0,0,0,0
+f0053c06,Bridgeland High School A,other,0,0,0,0,0
+f0053c06,Bridgeland High School A,physics,0,0,0,0,0
+009487b1,Dulles High School A,biology,28,8,20,3,1
+009487b1,Dulles High School A,chemistry,-4,-4,0,0,1
+009487b1,Dulles High School A,ess,-8,-8,0,0,2
+009487b1,Dulles High School A,math,4,4,0,1,0
+009487b1,Dulles High School A,physics,-8,-8,0,0,2
+009487b1,Iolani School A,biology,0,0,0,0,0
+009487b1,Iolani School A,chemistry,32,12,20,3,0
+009487b1,Iolani School A,ess,12,12,0,3,0
+009487b1,Iolani School A,math,14,4,10,2,1
+009487b1,Iolani School A,physics,22,12,10,3,0
+0daa4312,James Clemens High School A,biology,56,16,40,4,0
+0daa4312,James Clemens High School A,chemistry,0,0,0,1,1
+0daa4312,James Clemens High School A,ess,0,0,0,1,1
+0daa4312,James Clemens High School A,math,14,4,10,1,0
+0daa4312,James Clemens High School A,physics,32,12,20,3,0
+0daa4312,Shaker High School A,biology,0,0,0,0,0
+0daa4312,Shaker High School A,chemistry,8,8,0,2,0
+0daa4312,Shaker High School A,ess,4,4,0,1,0
+0daa4312,Shaker High School A,math,0,0,0,0,0
+0daa4312,Shaker High School A,physics,0,0,0,0,0
+13a11dc5,Phillips Exeter Academy A,biology,0,0,0,0,0
+13a11dc5,Phillips Exeter Academy A,chemistry,4,4,0,2,1
+13a11dc5,Phillips Exeter Academy A,ess,0,0,0,1,1
+13a11dc5,Phillips Exeter Academy A,math,4,4,0,1,0
+13a11dc5,Phillips Exeter Academy A,physics,-4,-4,0,0,1
+13a11dc5,Temple City High School A,biology,46,16,30,4,0
+13a11dc5,Temple City High School A,chemistry,8,8,0,2,0
+13a11dc5,Temple City High School A,ess,-4,-4,0,1,2
+13a11dc5,Temple City High School A,math,4,4,0,1,0
+13a11dc5,Temple City High School A,physics,22,12,10,3,0
+2ec9f081,Bridgeland High School A,biology,0,0,0,0,0
+2ec9f081,Bridgeland High School A,chemistry,4,4,0,1,0
+2ec9f081,Bridgeland High School A,ess,-4,-4,0,0,1
+2ec9f081,Bridgeland High School A,math,0,0,0,0,0
+2ec9f081,Bridgeland High School A,physics,0,0,0,1,1
+2ec9f081,Mission San Jose High School A,biology,42,12,30,3,0
+2ec9f081,Mission San Jose High School A,chemistry,42,12,30,3,0
+2ec9f081,Mission San Jose High School A,ess,32,12,20,3,0
+2ec9f081,Mission San Jose High School A,math,18,8,10,2,0
+2ec9f081,Mission San Jose High School A,physics,24,4,20,2,1
+2ff42d72,Archbishop Mitty High School B,biology,18,8,10,2,0
+2ff42d72,Archbishop Mitty High School B,chemistry,22,12,10,3,0
+2ff42d72,Archbishop Mitty High School B,ess,0,0,0,1,1
+2ff42d72,Archbishop Mitty High School B,math,8,8,0,2,0
+2ff42d72,Archbishop Mitty High School B,physics,38,8,30,3,1
+2ff42d72,Lynbrook High School A,biology,28,8,20,2,0
+2ff42d72,Lynbrook High School A,chemistry,0,0,0,0,0
+2ff42d72,Lynbrook High School A,ess,0,0,0,0,0
+2ff42d72,Lynbrook High School A,math,14,4,10,1,0
+2ff42d72,Lynbrook High School A,physics,0,0,0,0,0
+4033e6a5,Alabama School of Fine Arts A,biology,38,8,30,3,1
+4033e6a5,Alabama School of Fine Arts A,chemistry,14,4,10,2,1
+4033e6a5,Alabama School of Fine Arts A,ess,14,4,10,2,1
+4033e6a5,Alabama School of Fine Arts A,math,36,16,20,4,0
+4033e6a5,Alabama School of Fine Arts A,physics,2,-8,10,1,3
+4033e6a5,BASIS Independent Fremont A,biology,0,0,0,0,0
+4033e6a5,BASIS Independent Fremont A,chemistry,4,4,0,1,0
+4033e6a5,BASIS Independent Fremont A,ess,4,4,0,1,0
+4033e6a5,BASIS Independent Fremont A,math,0,0,0,0,0
+4033e6a5,BASIS Independent Fremont A,physics,18,8,10,2,0
+4856781c,Camas High School A,biology,0,0,0,0,0
+4856781c,Camas High School A,chemistry,4,4,0,1,0
+4856781c,Camas High School A,ess,0,0,0,0,0
+4856781c,Camas High School A,math,4,4,0,1,0
+4856781c,Camas High School A,physics,14,4,10,1,0
+4856781c,College Park High School A,biology,10,0,10,2,2
+4856781c,College Park High School A,chemistry,-4,-4,0,1,2
+4856781c,College Park High School A,ess,10,0,10,1,1
+4856781c,College Park High School A,math,4,4,0,1,0
+4856781c,College Park High School A,physics,18,8,10,2,0
+50276038,Frazer High School A,biology,8,8,0,2,0
+50276038,Frazer High School A,chemistry,8,8,0,2,0
+50276038,Frazer High School A,ess,-4,-4,0,0,1
+50276038,Frazer High School A,math,-4,-4,0,0,1
+50276038,Frazer High School A,physics,14,4,10,1,0
+50276038,Madison West High School A,biology,4,4,0,1,0
+50276038,Madison West High School A,chemistry,0,0,0,0,0
+50276038,Madison West High School A,ess,18,8,10,2,0
+50276038,Madison West High School A,math,22,12,10,3,0
+50276038,Madison West High School A,physics,28,8,20,2,0
+578151f4,Palm Desert High School A,biology,0,0,0,0,0
+578151f4,Palm Desert High School A,chemistry,14,4,10,2,1
+578151f4,Palm Desert High School A,ess,0,0,0,0,0
+578151f4,Palm Desert High School A,math,0,0,0,0,0
+578151f4,Palm Desert High School A,physics,0,0,0,0,0
+578151f4,William G. Enloe High School B,biology,14,4,10,1,0
+578151f4,William G. Enloe High School B,chemistry,14,4,10,1,0
+578151f4,William G. Enloe High School B,ess,10,0,10,1,1
+578151f4,William G. Enloe High School B,math,0,0,0,0,0
+578151f4,William G. Enloe High School B,physics,8,8,0,2,0
+61487d68,College Park High School B,biology,0,0,0,0,0
+61487d68,College Park High School B,chemistry,14,4,10,1,0
+61487d68,College Park High School B,ess,14,4,10,2,1
+61487d68,College Park High School B,math,14,4,10,1,0
+61487d68,College Park High School B,physics,0,0,0,0,0
+61487d68,Doral Academy A,biology,46,16,30,4,0
+61487d68,Doral Academy A,chemistry,4,4,0,1,0
+61487d68,Doral Academy A,ess,0,0,0,0,0
+61487d68,Doral Academy A,math,22,12,10,3,0
+61487d68,Doral Academy A,physics,22,12,10,3,0
+64080fa6,Archbishop Mitty High School A,biology,24,4,20,2,1
+64080fa6,Archbishop Mitty High School A,chemistry,0,0,0,0,0
+64080fa6,Archbishop Mitty High School A,ess,8,8,0,2,0
+64080fa6,Archbishop Mitty High School A,math,4,4,0,1,0
+64080fa6,Archbishop Mitty High School A,physics,0,0,0,0,0
+64080fa6,Carmel High School A,biology,18,8,10,2,0
+64080fa6,Carmel High School A,chemistry,32,12,20,3,0
+64080fa6,Carmel High School A,ess,0,0,0,1,1
+64080fa6,Carmel High School A,math,4,4,0,2,1
+64080fa6,Carmel High School A,physics,28,8,20,3,1
+7498be04,North Hollywood High School A,biology,28,8,20,3,1
+7498be04,North Hollywood High School A,chemistry,18,8,10,2,0
+7498be04,North Hollywood High School A,ess,-8,-8,0,0,2
+7498be04,North Hollywood High School A,math,36,16,20,4,0
+7498be04,North Hollywood High School A,physics,8,8,0,3,1
+7498be04,University High School B,biology,14,4,10,1,0
+7498be04,University High School B,chemistry,18,8,10,2,0
+7498be04,University High School B,ess,18,8,10,2,0
+7498be04,University High School B,math,-4,-4,0,0,1
+7498be04,University High School B,physics,10,0,10,1,1
+76297fb0,Arcadia High School A,biology,24,4,20,2,1
+76297fb0,Arcadia High School A,chemistry,-4,-4,0,0,1
+76297fb0,Arcadia High School A,ess,4,4,0,1,0
+76297fb0,Arcadia High School A,math,4,4,0,1,0
+76297fb0,Arcadia High School A,physics,0,0,0,0,0
+76297fb0,Basis Independent Silicon Valley B,biology,8,8,0,2,0
+76297fb0,Basis Independent Silicon Valley B,chemistry,8,8,0,2,0
+76297fb0,Basis Independent Silicon Valley B,ess,0,0,0,1,1
+76297fb0,Basis Independent Silicon Valley B,math,12,12,0,3,0
+76297fb0,Basis Independent Silicon Valley B,physics,26,16,10,4,0
+7eb1f5ef,Hopkins Middle School C,biology,0,0,0,0,0
+7eb1f5ef,Hopkins Middle School C,chemistry,10,0,10,1,1
+7eb1f5ef,Hopkins Middle School C,ess,28,8,20,2,0
+7eb1f5ef,Hopkins Middle School C,math,0,0,0,0,0
+7eb1f5ef,Hopkins Middle School C,physics,-4,-4,0,0,1
+7eb1f5ef,Montgomery Blair High School B,biology,46,16,30,4,0
+7eb1f5ef,Montgomery Blair High School B,chemistry,8,8,0,2,0
+7eb1f5ef,Montgomery Blair High School B,ess,14,4,10,2,1
+7eb1f5ef,Montgomery Blair High School B,math,26,16,10,4,0
+7eb1f5ef,Montgomery Blair High School B,physics,4,4,0,2,1
+82a2ed4a,Montgomery Blair High School C,biology,14,4,10,2,1
+82a2ed4a,Montgomery Blair High School C,chemistry,0,0,0,0,0
+82a2ed4a,Montgomery Blair High School C,ess,4,4,0,1,0
+82a2ed4a,Montgomery Blair High School C,math,12,12,0,3,0
+82a2ed4a,Montgomery Blair High School C,physics,4,4,0,2,1
+82a2ed4a,William G. Enloe High School A,biology,10,0,10,1,1
+82a2ed4a,William G. Enloe High School A,chemistry,-4,-4,0,1,2
+82a2ed4a,William G. Enloe High School A,ess,6,-4,10,1,2
+82a2ed4a,William G. Enloe High School A,math,0,0,0,0,0
+82a2ed4a,William G. Enloe High School A,physics,0,0,0,0,0
+859bd52f,Tesla STEM High School A,biology,32,12,20,3,0
+859bd52f,Tesla STEM High School A,chemistry,4,4,0,1,0
+859bd52f,Tesla STEM High School A,ess,8,8,0,2,0
+859bd52f,Tesla STEM High School A,math,14,4,10,1,0
+859bd52f,Tesla STEM High School A,physics,14,4,10,1,0
+859bd52f,Thomas Jefferson High School for Science and Technology A,biology,0,0,0,1,1
+859bd52f,Thomas Jefferson High School for Science and Technology A,chemistry,28,8,20,3,1
+859bd52f,Thomas Jefferson High School for Science and Technology A,ess,24,4,20,2,1
+859bd52f,Thomas Jefferson High School for Science and Technology A,math,18,8,10,2,0
+859bd52f,Thomas Jefferson High School for Science and Technology A,physics,8,8,0,2,0
+8b2de8cd,Cupertino High School A,biology,14,4,10,2,1
+8b2de8cd,Cupertino High School A,chemistry,0,0,0,1,1
+8b2de8cd,Cupertino High School A,ess,4,4,0,1,0
+8b2de8cd,Cupertino High School A,math,8,8,0,2,0
+8b2de8cd,Cupertino High School A,physics,4,4,0,1,0
+8b2de8cd,Stanford Online High School A,biology,4,4,0,1,0
+8b2de8cd,Stanford Online High School A,chemistry,4,4,0,1,0
+8b2de8cd,Stanford Online High School A,ess,0,0,0,0,0
+8b2de8cd,Stanford Online High School A,math,14,4,10,1,0
+8b2de8cd,Stanford Online High School A,physics,8,8,0,2,0
+8c090282,Baton Rouge Magnet High School A,biology,18,8,10,2,0
+8c090282,Baton Rouge Magnet High School A,chemistry,4,4,0,1,0
+8c090282,Baton Rouge Magnet High School A,ess,10,0,10,1,1
+8c090282,Baton Rouge Magnet High School A,math,32,12,20,3,0
+8c090282,Baton Rouge Magnet High School A,physics,14,4,10,2,1
+8c090282,Canyon Crest Academy A,biology,-4,-4,0,1,2
+8c090282,Canyon Crest Academy A,chemistry,8,8,0,2,0
+8c090282,Canyon Crest Academy A,ess,0,0,0,0,0
+8c090282,Canyon Crest Academy A,math,0,0,0,0,0
+8c090282,Canyon Crest Academy A,physics,0,0,0,1,1
+9e6225ec,American High School A,biology,32,12,20,3,0
+9e6225ec,American High School A,chemistry,-4,-4,0,0,1
+9e6225ec,American High School A,ess,4,4,0,1,0
+9e6225ec,American High School A,math,18,8,10,2,0
+9e6225ec,American High School A,physics,0,0,0,0,0
+9e6225ec,Baton Rouge Magnet High School B,biology,0,0,0,0,0
+9e6225ec,Baton Rouge Magnet High School B,chemistry,4,4,0,1,0
+9e6225ec,Baton Rouge Magnet High School B,ess,0,0,0,0,0
+9e6225ec,Baton Rouge Magnet High School B,math,0,0,0,0,0
+9e6225ec,Baton Rouge Magnet High School B,physics,4,4,0,1,0
+a14ede80,Carmel High School B,biology,18,8,10,2,0
+a14ede80,Carmel High School B,chemistry,32,12,20,3,0
+a14ede80,Carmel High School B,ess,10,0,10,1,1
+a14ede80,Carmel High School B,math,0,0,0,0,0
+a14ede80,Carmel High School B,physics,36,16,20,4,0
+a14ede80,Obra D. Tompkins High School A,biology,-8,-8,0,0,2
+a14ede80,Obra D. Tompkins High School A,chemistry,0,0,0,0,0
+a14ede80,Obra D. Tompkins High School A,ess,4,4,0,1,0
+a14ede80,Obra D. Tompkins High School A,math,0,0,0,0,0
+a14ede80,Obra D. Tompkins High School A,physics,0,0,0,0,0
+a1fcfafa,Punahou School A,biology,14,4,10,1,0
+a1fcfafa,Punahou School A,chemistry,32,12,20,3,0
+a1fcfafa,Punahou School A,ess,14,4,10,2,1
+a1fcfafa,Punahou School A,math,4,4,0,1,0
+a1fcfafa,Punahou School A,physics,18,8,10,2,0
+a1fcfafa,Triangle Math and Science Academy A,biology,42,12,30,3,0
+a1fcfafa,Triangle Math and Science Academy A,chemistry,0,0,0,0,0
+a1fcfafa,Triangle Math and Science Academy A,ess,0,0,0,0,0
+a1fcfafa,Triangle Math and Science Academy A,math,0,0,0,0,0
+a1fcfafa,Triangle Math and Science Academy A,physics,0,0,0,0,0
+a2ebb763,Alabama School of Fine Arts B,biology,22,12,10,3,0
+a2ebb763,Alabama School of Fine Arts B,chemistry,0,0,0,0,0
+a2ebb763,Alabama School of Fine Arts B,ess,0,0,0,0,0
+a2ebb763,Alabama School of Fine Arts B,math,0,0,0,0,0
+a2ebb763,Alabama School of Fine Arts B,physics,18,8,10,2,0
+a2ebb763,BASIS Independent Silicon Valley A,biology,-4,-4,0,0,1
+a2ebb763,BASIS Independent Silicon Valley A,chemistry,22,12,10,3,0
+a2ebb763,BASIS Independent Silicon Valley A,ess,4,4,0,2,1
+a2ebb763,BASIS Independent Silicon Valley A,math,14,4,10,1,0
+a2ebb763,BASIS Independent Silicon Valley A,physics,8,8,0,2,0
+a93c221c,Clovis North High School A,biology,46,16,30,4,0
+a93c221c,Clovis North High School A,chemistry,-4,-4,0,1,2
+a93c221c,Clovis North High School A,ess,14,4,10,2,1
+a93c221c,Clovis North High School A,math,0,0,0,0,0
+a93c221c,Clovis North High School A,physics,14,4,10,2,1
+a93c221c,William P. Clements High School A,biology,0,0,0,0,0
+a93c221c,William P. Clements High School A,chemistry,0,0,0,0,0
+a93c221c,William P. Clements High School A,ess,0,0,0,0,0
+a93c221c,William P. Clements High School A,math,8,8,0,2,0
+a93c221c,William P. Clements High School A,physics,4,4,0,1,0
+aabfa94d,Doral Academy C,biology,0,0,0,0,0
+aabfa94d,Doral Academy C,chemistry,4,4,0,1,0
+aabfa94d,Doral Academy C,ess,0,0,0,0,0
+aabfa94d,Doral Academy C,math,0,0,0,0,0
+aabfa94d,Doral Academy C,physics,0,0,0,0,0
+aabfa94d,University High School A,biology,24,4,20,2,1
+aabfa94d,University High School A,chemistry,8,8,0,2,0
+aabfa94d,University High School A,ess,8,8,0,2,0
+aabfa94d,University High School A,math,12,12,0,3,0
+aabfa94d,University High School A,physics,28,8,20,2,0
+bdfe809d,Doral Academy B,biology,18,8,10,2,0
+bdfe809d,Doral Academy B,chemistry,0,0,0,0,0
+bdfe809d,Doral Academy B,ess,0,0,0,0,0
+bdfe809d,Doral Academy B,math,12,12,0,3,0
+bdfe809d,Doral Academy B,physics,0,0,0,0,0
+bdfe809d,McNeil High School A,biology,10,0,10,1,1
+bdfe809d,McNeil High School A,chemistry,28,8,20,3,1
+bdfe809d,McNeil High School A,ess,42,12,30,3,0
+bdfe809d,McNeil High School A,math,0,0,0,0,0
+bdfe809d,McNeil High School A,physics,14,4,10,1,0
+d406d832,Folsom City East High School A,biology,0,0,0,1,1
+d406d832,Folsom City East High School A,chemistry,4,4,0,1,0
+d406d832,Folsom City East High School A,ess,4,4,0,1,0
+d406d832,Folsom City East High School A,math,0,0,0,0,0
+d406d832,Folsom City East High School A,physics,0,0,0,0,0
+d406d832,Shaker High School B,biology,10,0,10,1,1
+d406d832,Shaker High School B,chemistry,18,8,10,2,0
+d406d832,Shaker High School B,ess,18,8,10,2,0
+d406d832,Shaker High School B,math,14,4,10,1,0
+d406d832,Shaker High School B,physics,22,12,10,3,0
+d4b219cb,Cupertino High School B,biology,0,0,0,0,0
+d4b219cb,Cupertino High School B,chemistry,0,0,0,0,0
+d4b219cb,Cupertino High School B,ess,4,4,0,1,0
+d4b219cb,Cupertino High School B,math,4,4,0,1,0
+d4b219cb,Cupertino High School B,physics,4,4,0,1,0
+d4b219cb,University High School C,biology,28,8,20,2,0
+d4b219cb,University High School C,chemistry,8,8,0,2,0
+d4b219cb,University High School C,ess,4,4,0,1,0
+d4b219cb,University High School C,math,12,12,0,3,0
+d4b219cb,University High School C,physics,8,8,0,2,0
+dbe73734,Palo Alto High School A,biology,0,0,0,1,1
+dbe73734,Palo Alto High School A,chemistry,18,8,10,2,0
+dbe73734,Palo Alto High School A,ess,-8,-8,0,0,2
+dbe73734,Palo Alto High School A,math,0,0,0,0,0
+dbe73734,Palo Alto High School A,physics,18,8,10,2,0
+dbe73734,Weston High School A,biology,8,8,0,2,0
+dbe73734,Weston High School A,chemistry,-8,-8,0,0,2
+dbe73734,Weston High School A,ess,4,4,0,1,0
+dbe73734,Weston High School A,math,0,0,0,1,1
+dbe73734,Weston High School A,physics,0,0,0,0,0
+fd55d769,Green Hope High School A,biology,-4,-4,0,0,1
+fd55d769,Green Hope High School A,chemistry,8,8,0,2,0
+fd55d769,Green Hope High School A,ess,-4,-4,0,0,1
+fd55d769,Green Hope High School A,math,4,4,0,1,0
+fd55d769,Green Hope High School A,physics,22,12,10,3,0
+fd55d769,William G. Enloe High School C,biology,12,12,0,3,0
+fd55d769,William G. Enloe High School C,chemistry,0,0,0,0,0
+fd55d769,William G. Enloe High School C,ess,8,8,0,2,0
+fd55d769,William G. Enloe High School C,math,4,4,0,1,0
+fd55d769,William G. Enloe High School C,physics,0,0,0,0,0
+fe6d47a4,Montgomery Blair High School A,biology,32,12,20,3,0
+fe6d47a4,Montgomery Blair High School A,chemistry,2,-8,10,1,3
+fe6d47a4,Montgomery Blair High School A,ess,28,8,20,2,0
+fe6d47a4,Montgomery Blair High School A,math,28,8,20,3,1
+fe6d47a4,Montgomery Blair High School A,physics,28,8,20,3,1
+fe6d47a4,Shaker High School C,biology,4,4,0,1,0
+fe6d47a4,Shaker High School C,chemistry,4,4,0,1,0
+fe6d47a4,Shaker High School C,ess,4,4,0,1,0
+fe6d47a4,Shaker High School C,math,0,0,0,0,0
+fe6d47a4,Shaker High School C,physics,0,0,0,0,0
+08bcddd5,Basis Independent Silicon Valley B,biology,8,8,0,2,0
+08bcddd5,Basis Independent Silicon Valley B,chemistry,42,12,30,3,0
+08bcddd5,Basis Independent Silicon Valley B,ess,4,4,0,1,0
+08bcddd5,Basis Independent Silicon Valley B,math,8,8,0,2,0
+08bcddd5,Basis Independent Silicon Valley B,physics,24,4,20,2,1
+08bcddd5,Punahou School A,biology,0,0,0,0,0
+08bcddd5,Punahou School A,chemistry,10,0,10,1,1
+08bcddd5,Punahou School A,ess,10,0,10,1,1
+08bcddd5,Punahou School A,math,0,0,0,0,0
+08bcddd5,Punahou School A,physics,4,4,0,1,0
+2fb7d69d,Baton Rouge Magnet High School A,biology,4,4,0,1,0
+2fb7d69d,Baton Rouge Magnet High School A,chemistry,4,4,0,1,0
+2fb7d69d,Baton Rouge Magnet High School A,ess,28,8,20,2,0
+2fb7d69d,Baton Rouge Magnet High School A,math,22,12,10,3,0
+2fb7d69d,Baton Rouge Magnet High School A,physics,12,12,0,3,0
+2fb7d69d,Dulles High School A,biology,14,4,10,2,1
+2fb7d69d,Dulles High School A,chemistry,8,8,0,2,0
+2fb7d69d,Dulles High School A,ess,14,4,10,1,0
+2fb7d69d,Dulles High School A,math,0,0,0,0,0
+2fb7d69d,Dulles High School A,physics,0,0,0,0,0
+5db20937,Carmel High School B,biology,4,4,0,1,0
+5db20937,Carmel High School B,chemistry,0,0,0,1,1
+5db20937,Carmel High School B,ess,28,8,20,2,0
+5db20937,Carmel High School B,math,0,0,0,0,0
+5db20937,Carmel High School B,physics,0,0,0,1,1
+5db20937,Thomas Jefferson High School for Science and Technology A,biology,14,4,10,2,1
+5db20937,Thomas Jefferson High School for Science and Technology A,chemistry,32,12,20,3,0
+5db20937,Thomas Jefferson High School for Science and Technology A,ess,14,4,10,2,1
+5db20937,Thomas Jefferson High School for Science and Technology A,math,18,8,10,2,0
+5db20937,Thomas Jefferson High School for Science and Technology A,physics,8,8,0,3,1
+6e922812,Montgomery Blair High School B,biology,4,4,0,1,0
+6e922812,Montgomery Blair High School B,chemistry,-4,-4,0,0,1
+6e922812,Montgomery Blair High School B,ess,42,12,30,3,0
+6e922812,Montgomery Blair High School B,math,4,4,0,1,0
+6e922812,Montgomery Blair High School B,physics,0,0,0,0,0
+6e922812,North Hollywood High School A,biology,4,4,0,2,1
+6e922812,North Hollywood High School A,chemistry,8,8,0,2,0
+6e922812,North Hollywood High School A,ess,-8,-8,0,0,2
+6e922812,North Hollywood High School A,math,0,0,0,0,0
+6e922812,North Hollywood High School A,physics,22,12,10,3,0
+b71f91aa,Carmel High School A,biology,14,4,10,1,0
+b71f91aa,Carmel High School A,chemistry,18,8,10,2,0
+b71f91aa,Carmel High School A,ess,0,0,0,0,0
+b71f91aa,Carmel High School A,math,32,12,20,3,0
+b71f91aa,Carmel High School A,physics,24,4,20,2,1
+b71f91aa,Montgomery Blair High School A,biology,12,12,0,3,0
+b71f91aa,Montgomery Blair High School A,chemistry,28,8,20,2,0
+b71f91aa,Montgomery Blair High School A,ess,36,16,20,4,0
+b71f91aa,Montgomery Blair High School A,math,4,4,0,1,0
+b71f91aa,Montgomery Blair High School A,physics,18,8,10,2,0
+e419a26c,Doral Academy A,biology,28,8,20,2,0
+e419a26c,Doral Academy A,chemistry,14,4,10,1,0
+e419a26c,Doral Academy A,ess,0,0,0,0,0
+e419a26c,Doral Academy A,math,28,8,20,2,0
+e419a26c,Doral Academy A,physics,18,8,10,2,0
+e419a26c,James Clemens High School A,biology,18,8,10,2,0
+e419a26c,James Clemens High School A,chemistry,10,0,10,2,2
+e419a26c,James Clemens High School A,ess,22,12,10,3,0
+e419a26c,James Clemens High School A,math,0,0,0,0,0
+e419a26c,James Clemens High School A,physics,14,4,10,2,1
+e988a5e3,Green Hope High School A,biology,-4,-4,0,1,2
+e988a5e3,Green Hope High School A,chemistry,0,0,0,0,0
+e988a5e3,Green Hope High School A,ess,14,4,10,1,0
+e988a5e3,Green Hope High School A,math,0,0,0,1,1
+e988a5e3,Green Hope High School A,physics,4,4,0,1,0
+e988a5e3,Mission San Jose High School A,biology,42,12,30,3,0
+e988a5e3,Mission San Jose High School A,chemistry,56,16,40,4,0
+e988a5e3,Mission San Jose High School A,ess,42,12,30,3,0
+e988a5e3,Mission San Jose High School A,math,12,12,0,3,0
+e988a5e3,Mission San Jose High School A,physics,20,0,20,2,2
+ef657f32,Alabama School of Fine Arts A,biology,12,12,0,3,0
+ef657f32,Alabama School of Fine Arts A,chemistry,36,16,20,4,0
+ef657f32,Alabama School of Fine Arts A,ess,18,8,10,3,1
+ef657f32,Alabama School of Fine Arts A,math,4,4,0,1,0
+ef657f32,Alabama School of Fine Arts A,physics,18,8,10,2,0
+ef657f32,McNeil High School A,biology,10,0,10,1,1
+ef657f32,McNeil High School A,chemistry,0,0,0,0,0
+ef657f32,McNeil High School A,ess,14,4,10,1,0
+ef657f32,McNeil High School A,math,22,12,10,3,0
+ef657f32,McNeil High School A,physics,-4,-4,0,0,1
+144273d0,Doral Academy A,biology,22,12,10,3,0
+144273d0,Doral Academy A,chemistry,0,0,0,1,1
+144273d0,Doral Academy A,ess,4,4,0,1,0
+144273d0,Doral Academy A,math,28,8,20,2,0
+144273d0,Doral Academy A,physics,0,0,0,0,0
+144273d0,Montgomery Blair High School B,biology,14,4,10,1,0
+144273d0,Montgomery Blair High School B,chemistry,22,12,10,3,0
+144273d0,Montgomery Blair High School B,ess,10,0,10,1,1
+144273d0,Montgomery Blair High School B,math,-4,-4,0,0,1
+144273d0,Montgomery Blair High School B,physics,18,8,10,2,0
+19f17a59,Basis Independent Silicon Valley B,biology,4,4,0,1,0
+19f17a59,Basis Independent Silicon Valley B,chemistry,18,8,10,2,0
+19f17a59,Basis Independent Silicon Valley B,ess,4,4,0,1,0
+19f17a59,Basis Independent Silicon Valley B,math,0,0,0,0,0
+19f17a59,Basis Independent Silicon Valley B,physics,14,4,10,1,0
+19f17a59,Montgomery Blair High School A,biology,32,12,20,3,0
+19f17a59,Montgomery Blair High School A,chemistry,-8,-8,0,1,3
+19f17a59,Montgomery Blair High School A,ess,24,4,20,2,1
+19f17a59,Montgomery Blair High School A,math,28,8,20,2,0
+19f17a59,Montgomery Blair High School A,physics,32,12,20,3,0
+1a09321a,Carmel High School B,biology,4,4,0,1,0
+1a09321a,Carmel High School B,chemistry,22,12,10,3,0
+1a09321a,Carmel High School B,ess,10,0,10,1,1
+1a09321a,Carmel High School B,math,0,0,0,0,0
+1a09321a,Carmel High School B,physics,8,8,0,2,0
+1a09321a,Green Hope High School A,biology,4,4,0,1,0
+1a09321a,Green Hope High School A,chemistry,4,4,0,1,0
+1a09321a,Green Hope High School A,ess,4,4,0,1,0
+1a09321a,Green Hope High School A,math,0,0,0,0,0
+1a09321a,Green Hope High School A,physics,0,0,0,1,1
+40049caf,Carmel High School A,biology,0,0,0,0,0
+40049caf,Carmel High School A,chemistry,6,-4,10,1,2
+40049caf,Carmel High School A,ess,14,4,10,1,0
+40049caf,Carmel High School A,math,18,8,10,2,0
+40049caf,Carmel High School A,physics,42,12,30,3,0
+40049caf,Punahou School A,biology,0,0,0,1,1
+40049caf,Punahou School A,chemistry,18,8,10,2,0
+40049caf,Punahou School A,ess,10,0,10,1,1
+40049caf,Punahou School A,math,0,0,0,0,0
+40049caf,Punahou School A,physics,0,0,0,0,0
+6e627a02,James Clemens High School A,biology,0,0,0,1,1
+6e627a02,James Clemens High School A,chemistry,24,4,20,2,1
+6e627a02,James Clemens High School A,ess,14,4,10,1,0
+6e627a02,James Clemens High School A,math,0,0,0,0,0
+6e627a02,James Clemens High School A,physics,42,12,30,3,0
+6e627a02,North Hollywood High School A,biology,38,8,30,3,1
+6e627a02,North Hollywood High School A,chemistry,4,4,0,1,0
+6e627a02,North Hollywood High School A,ess,4,4,0,1,0
+6e627a02,North Hollywood High School A,math,14,4,10,1,0
+6e627a02,North Hollywood High School A,physics,4,4,0,1,0
+79001ff2,Dulles High School A,biology,32,12,20,3,0
+79001ff2,Dulles High School A,chemistry,18,8,10,2,0
+79001ff2,Dulles High School A,ess,4,4,0,1,0
+79001ff2,Dulles High School A,math,4,4,0,1,0
+79001ff2,Dulles High School A,physics,14,4,10,1,0
+79001ff2,McNeil High School A,biology,14,4,10,1,0
+79001ff2,McNeil High School A,chemistry,24,4,20,2,1
+79001ff2,McNeil High School A,ess,32,12,20,3,0
+79001ff2,McNeil High School A,math,14,4,10,1,0
+79001ff2,McNeil High School A,physics,42,12,30,3,0
+859946b2,Alabama School of Fine Arts A,biology,14,4,10,2,1
+859946b2,Alabama School of Fine Arts A,chemistry,38,8,30,3,1
+859946b2,Alabama School of Fine Arts A,ess,4,4,0,1,0
+859946b2,Alabama School of Fine Arts A,math,0,0,0,0,0
+859946b2,Alabama School of Fine Arts A,physics,18,8,10,2,0
+859946b2,Baton Rouge Magnet High School A,biology,0,0,0,0,0
+859946b2,Baton Rouge Magnet High School A,chemistry,4,4,0,1,0
+859946b2,Baton Rouge Magnet High School A,ess,0,0,0,1,1
+859946b2,Baton Rouge Magnet High School A,math,4,4,0,1,0
+859946b2,Baton Rouge Magnet High School A,physics,8,8,0,2,0
+cd2f6cfc,Mission San Jose High School A,biology,10,0,10,1,1
+cd2f6cfc,Mission San Jose High School A,chemistry,28,8,20,2,0
+cd2f6cfc,Mission San Jose High School A,ess,8,8,0,2,0
+cd2f6cfc,Mission San Jose High School A,math,14,4,10,1,0
+cd2f6cfc,Mission San Jose High School A,physics,28,8,20,2,0
+cd2f6cfc,Thomas Jefferson High School for Science and Technology A,biology,28,8,20,2,0
+cd2f6cfc,Thomas Jefferson High School for Science and Technology A,chemistry,18,8,10,2,0
+cd2f6cfc,Thomas Jefferson High School for Science and Technology A,ess,14,4,10,1,0
+cd2f6cfc,Thomas Jefferson High School for Science and Technology A,math,10,0,10,1,1
+cd2f6cfc,Thomas Jefferson High School for Science and Technology A,physics,14,4,10,2,1
+2eb01136,Baton Rouge Magnet High School A,biology,4,4,0,1,0
+2eb01136,Baton Rouge Magnet High School A,chemistry,0,0,0,0,0
+2eb01136,Baton Rouge Magnet High School A,ess,14,4,10,2,1
+2eb01136,Baton Rouge Magnet High School A,math,0,0,0,0,0
+2eb01136,Baton Rouge Magnet High School A,physics,14,4,10,1,0
+2eb01136,Carmel High School A,biology,4,4,0,1,0
+2eb01136,Carmel High School A,chemistry,32,12,20,3,0
+2eb01136,Carmel High School A,ess,10,0,10,1,1
+2eb01136,Carmel High School A,math,18,8,10,2,0
+2eb01136,Carmel High School A,physics,28,8,20,3,1
+50e2684b,James Clemens High School A,biology,10,0,10,1,1
+50e2684b,James Clemens High School A,chemistry,0,0,0,1,1
+50e2684b,James Clemens High School A,ess,-8,-8,0,0,2
+50e2684b,James Clemens High School A,math,4,4,0,1,0
+50e2684b,James Clemens High School A,physics,42,12,30,3,0
+50e2684b,Thomas Jefferson High School for Science and Technology A,biology,32,12,20,3,0
+50e2684b,Thomas Jefferson High School for Science and Technology A,chemistry,12,12,0,3,0
+50e2684b,Thomas Jefferson High School for Science and Technology A,ess,14,4,10,2,1
+50e2684b,Thomas Jefferson High School for Science and Technology A,math,0,0,0,1,1
+50e2684b,Thomas Jefferson High School for Science and Technology A,physics,4,4,0,1,0
+653736c4,Basis Independent Silicon Valley B,biology,14,4,10,1,0
+653736c4,Basis Independent Silicon Valley B,chemistry,28,8,20,2,0
+653736c4,Basis Independent Silicon Valley B,ess,0,0,0,0,0
+653736c4,Basis Independent Silicon Valley B,math,8,8,0,2,0
+653736c4,Basis Independent Silicon Valley B,physics,32,12,20,3,0
+653736c4,McNeil High School A,biology,18,8,10,2,0
+653736c4,McNeil High School A,chemistry,14,4,10,1,0
+653736c4,McNeil High School A,ess,14,4,10,2,1
+653736c4,McNeil High School A,math,0,0,0,0,0
+653736c4,McNeil High School A,physics,4,4,0,1,0
+6f9907ea,Carmel High School B,biology,14,4,10,1,0
+6f9907ea,Carmel High School B,chemistry,0,0,0,0,0
+6f9907ea,Carmel High School B,ess,0,0,0,0,0
+6f9907ea,Carmel High School B,math,4,4,0,1,0
+6f9907ea,Carmel High School B,physics,4,4,0,1,0
+6f9907ea,Doral Academy A,biology,4,4,0,2,1
+6f9907ea,Doral Academy A,chemistry,10,0,10,1,1
+6f9907ea,Doral Academy A,ess,-4,-4,0,0,1
+6f9907ea,Doral Academy A,math,18,8,10,2,0
+6f9907ea,Doral Academy A,physics,32,12,20,3,0
+82e3731a,Alabama School of Fine Arts A,biology,18,8,10,3,1
+82e3731a,Alabama School of Fine Arts A,chemistry,10,0,10,2,2
+82e3731a,Alabama School of Fine Arts A,ess,24,4,20,2,1
+82e3731a,Alabama School of Fine Arts A,math,8,8,0,2,0
+82e3731a,Alabama School of Fine Arts A,physics,4,4,0,2,1
+82e3731a,Montgomery Blair High School B,biology,0,0,0,0,0
+82e3731a,Montgomery Blair High School B,chemistry,14,4,10,1,0
+82e3731a,Montgomery Blair High School B,ess,18,8,10,2,0
+82e3731a,Montgomery Blair High School B,math,0,0,0,0,0
+82e3731a,Montgomery Blair High School B,physics,8,8,0,2,0
+9028f0e7,Mission San Jose High School A,biology,28,8,20,2,0
+9028f0e7,Mission San Jose High School A,chemistry,42,12,30,3,0
+9028f0e7,Mission San Jose High School A,ess,14,4,10,1,0
+9028f0e7,Mission San Jose High School A,math,10,0,10,1,1
+9028f0e7,Mission San Jose High School A,physics,-4,-4,0,0,1
+9028f0e7,Montgomery Blair High School A,biology,10,0,10,2,2
+9028f0e7,Montgomery Blair High School A,chemistry,6,-4,10,1,2
+9028f0e7,Montgomery Blair High School A,ess,28,8,20,2,0
+9028f0e7,Montgomery Blair High School A,math,18,8,10,2,0
+9028f0e7,Montgomery Blair High School A,physics,36,16,20,4,0
+e34599f9,Carmel High School A,biology,0,0,0,0,0
+e34599f9,Carmel High School A,chemistry,28,8,20,3,1
+e34599f9,Carmel High School A,ess,24,4,20,2,1
+e34599f9,Carmel High School A,math,10,0,10,1,1
+e34599f9,Carmel High School A,physics,18,8,10,2,0
+e34599f9,Doral Academy A,biology,22,12,10,3,0
+e34599f9,Doral Academy A,chemistry,-4,-4,0,0,1
+e34599f9,Doral Academy A,ess,4,4,0,1,0
+e34599f9,Doral Academy A,math,8,8,0,2,0
+e34599f9,Doral Academy A,physics,0,0,0,0,0
+fddf2c5e,Basis Independent Silicon Valley B,biology,-4,-4,0,0,1
+fddf2c5e,Basis Independent Silicon Valley B,chemistry,0,0,0,1,1
+fddf2c5e,Basis Independent Silicon Valley B,ess,-4,-4,0,1,2
+fddf2c5e,Basis Independent Silicon Valley B,math,14,4,10,1,0
+fddf2c5e,Basis Independent Silicon Valley B,physics,4,4,0,2,1
+fddf2c5e,Thomas Jefferson High School for Science and Technology A,biology,8,8,0,2,0
+fddf2c5e,Thomas Jefferson High School for Science and Technology A,chemistry,42,12,30,3,0
+fddf2c5e,Thomas Jefferson High School for Science and Technology A,ess,18,8,10,2,0
+fddf2c5e,Thomas Jefferson High School for Science and Technology A,math,-4,-4,0,0,1
+fddf2c5e,Thomas Jefferson High School for Science and Technology A,physics,0,0,0,1,1
+2d3b43a0,Carmel High School A,biology,4,4,0,1,0
+2d3b43a0,Carmel High School A,chemistry,0,0,0,1,1
+2d3b43a0,Carmel High School A,ess,14,4,10,1,0
+2d3b43a0,Carmel High School A,math,10,0,10,2,2
+2d3b43a0,Carmel High School A,physics,42,12,30,3,0
+2d3b43a0,Montgomery Blair High School B,biology,14,4,10,2,1
+2d3b43a0,Montgomery Blair High School B,chemistry,14,4,10,1,0
+2d3b43a0,Montgomery Blair High School B,ess,0,0,0,1,1
+2d3b43a0,Montgomery Blair High School B,math,4,4,0,1,0
+2d3b43a0,Montgomery Blair High School B,physics,0,0,0,0,0
+dbcfcd94,Mission San Jose High School A,biology,28,8,20,2,0
+dbcfcd94,Mission San Jose High School A,chemistry,18,8,10,2,0
+dbcfcd94,Mission San Jose High School A,ess,12,12,0,3,0
+dbcfcd94,Mission San Jose High School A,math,0,0,0,0,0
+dbcfcd94,Mission San Jose High School A,physics,12,12,0,3,0
+dbcfcd94,Thomas Jefferson High School for Science and Technology A,biology,10,0,10,2,2
+dbcfcd94,Thomas Jefferson High School for Science and Technology A,chemistry,0,0,0,1,1
+dbcfcd94,Thomas Jefferson High School for Science and Technology A,ess,6,-4,10,1,2
+dbcfcd94,Thomas Jefferson High School for Science and Technology A,math,16,16,0,4,0
+dbcfcd94,Thomas Jefferson High School for Science and Technology A,physics,-4,-4,0,0,1
+351fbe43,Alabama School of Fine Arts A,biology,-4,-4,0,0,1
+351fbe43,Alabama School of Fine Arts A,chemistry,14,4,10,1,0
+351fbe43,Alabama School of Fine Arts A,ess,14,4,10,1,0
+351fbe43,Alabama School of Fine Arts A,math,4,4,0,1,0
+351fbe43,Alabama School of Fine Arts A,physics,0,0,0,0,0
+351fbe43,Montgomery Blair High School A,biology,28,8,20,2,0
+351fbe43,Montgomery Blair High School A,chemistry,-4,-4,0,1,2
+351fbe43,Montgomery Blair High School A,ess,-4,-4,0,0,1
+351fbe43,Montgomery Blair High School A,math,10,0,10,1,1
+351fbe43,Montgomery Blair High School A,physics,8,8,0,2,0
+39619e05,Carmel High School A,biology,18,8,10,2,0
+39619e05,Carmel High School A,chemistry,10,0,10,1,1
+39619e05,Carmel High School A,ess,0,0,0,0,0
+39619e05,Carmel High School A,math,14,4,10,1,0
+39619e05,Carmel High School A,physics,18,8,10,2,0
+39619e05,Mission San Jose High School A,biology,18,8,10,2,0
+39619e05,Mission San Jose High School A,chemistry,42,12,30,3,0
+39619e05,Mission San Jose High School A,ess,18,8,10,2,0
+39619e05,Mission San Jose High School A,math,0,0,0,1,1
+39619e05,Mission San Jose High School A,physics,0,0,0,0,0
+22a3f809,Alabama School of Fine Arts A,biology,22,12,10,3,0
+22a3f809,Alabama School of Fine Arts A,chemistry,14,4,10,1,0
+22a3f809,Alabama School of Fine Arts A,ess,10,0,10,1,1
+22a3f809,Alabama School of Fine Arts A,math,4,4,0,1,0
+22a3f809,Alabama School of Fine Arts A,physics,4,4,0,1,0
+22a3f809,Mission San Jose High School A,biology,4,4,0,1,0
+22a3f809,Mission San Jose High School A,chemistry,32,12,20,3,0
+22a3f809,Mission San Jose High School A,ess,4,4,0,1,0
+22a3f809,Mission San Jose High School A,math,0,0,0,0,0
+22a3f809,Mission San Jose High School A,physics,0,0,0,0,0
+c650ca0b,Alabama School of Fine Arts A,biology,4,4,0,2,1
+c650ca0b,Alabama School of Fine Arts A,chemistry,24,4,20,2,1
+c650ca0b,Alabama School of Fine Arts A,ess,0,0,0,0,0
+c650ca0b,Alabama School of Fine Arts A,math,-12,-12,0,0,3
+c650ca0b,Alabama School of Fine Arts A,physics,8,8,0,2,0
+c650ca0b,Montgomery Blair High School A,biology,0,0,0,0,0
+c650ca0b,Montgomery Blair High School A,chemistry,6,-4,10,1,2
+c650ca0b,Montgomery Blair High School A,ess,4,4,0,1,0
+c650ca0b,Montgomery Blair High School A,math,0,0,0,0,0
+c650ca0b,Montgomery Blair High School A,physics,10,0,10,1,1
+1b86a631,Alabama School of Fine Arts A,biology,4,4,0,1,0
+1b86a631,Alabama School of Fine Arts A,chemistry,28,8,20,3,1
+1b86a631,Alabama School of Fine Arts A,ess,4,4,0,1,0
+1b86a631,Alabama School of Fine Arts A,math,0,0,0,0,0
+1b86a631,Alabama School of Fine Arts A,physics,0,0,0,0,0
+1b86a631,Montgomery Blair High School A,biology,4,4,0,1,0
+1b86a631,Montgomery Blair High School A,chemistry,-8,-8,0,0,2
+1b86a631,Montgomery Blair High School A,ess,4,4,0,1,0
+1b86a631,Montgomery Blair High School A,math,0,0,0,0,0
+1b86a631,Montgomery Blair High School A,physics,32,12,20,3,0

@@ -1,6 +1,8 @@
 # ISOBowl events added 2026-10 (ICSBT 3, National Chemistry Bowl 2026, Mitosisphere Bio Bowl 2026, SMH 2026):
 # online pickup teams with made-up names
 schools:
+  # Lexington Online Scibowl Tournament 3 (2026-10): TMSA shares players with this full name
+  - {id: triangle-math-and-science-academy-nc, name: Triangle Math and Science Academy, short: TMSA, city: Cary, state: NC, aliases: [TMSA, Triangle Math and Science Academy]}
   # ICSBT 3 (2026-10)
   - {id: mcneil-high-school-tx, name: McNeil High School, short: McNeil, city: Austin, state: TX, aliases: [McNeil]}
 composite:
@@ -48,7 +50,13 @@ composite:
   - {name: "warders method", school: null}
   - {name: "Winners", school: null}
   - {name: Majestic Millburn, school: null}
-overrides: []
+overrides:
+  '2026-10-04-smh-2026::TMSA Apex': {school: triangle-math-and-science-academy-nc, letter: A}
+  '2026-10-18-lexington-online-scibowl-tournament-3::William G. Enloe High School A': {school: enloe-high-school-nc, letter: A}
+  '2026-10-18-lexington-online-scibowl-tournament-3::William G. Enloe High School B': {school: enloe-high-school-nc, letter: B}
+  '2026-10-18-lexington-online-scibowl-tournament-3::William G. Enloe High School C': {school: enloe-high-school-nc, letter: C}
+  '2026-10-18-lexington-online-scibowl-tournament-3::William P. Clements High School A': {school: clements-high-school-tx, letter: A}
 unknown:
+  - {base: Weston High School, why: 'Lexington Online 3 (2026-10), 3 players, no school evidence: Weston HS (MA) vs (CT) vs others'}
+  - {base: Hopkins Middle School, why: 'middle-school team entered in the Lexington Online 3 HS division'}
   - {base: BASIS Arizona Valley, why: 'Mitosisphere Bio Bowl 2026, no games or players; no BASIS campus by that name'}
-  - {base: TMSA, why: 'online events 2026 (TMSA / TMSA Apex share players); acronym not identified'}

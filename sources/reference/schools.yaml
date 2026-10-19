@@ -2538,6 +2538,14 @@
   state: TX
   aliases:
   - Transmountain Early College High School
+- id: triangle-math-and-science-academy-nc
+  name: Triangle Math and Science Academy
+  short: TMSA
+  city: Cary
+  state: NC
+  aliases:
+  - TMSA
+  - Triangle Math and Science Academy
 - id: troy-high-school-fullerton-ca
   name: Troy High School (Fullerton)
   short: Troy (Fullerton)

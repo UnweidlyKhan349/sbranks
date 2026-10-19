@@ -1,0 +1,24 @@
+id: 2026-10-18-lexington-online-scibowl-tournament-3
+name: Lexington Online Scibowl Tournament 3
+date: '2026-10-18'
+end_date: null
+season: 2026-27
+location: Online
+online: true
+division: HS
+include: true
+exclude_reason: null
+kind: invitational
+level: standard
+subject_only: null
+question_set: null
+sources:
+- kind: isobowl
+  role: results+stats
+  slug: lexington-online-science-tournament-3
+  url: https://isobowl.com/premier/tournaments/lexington-online-science-tournament-3
+parser: g1_isobowl:parse
+parser_options: {}
+status: parsed
+notes: 'HS division (the MS division is not included). ISOBowl API: games with per-question logs -> per-player per-subject
+  stats.'

@@ -5,8 +5,8 @@ game_id,player,team,subject,correct,negs,points
 1f61c274,Dr. Math,Skibidi 67ers,chemistry,8,0,32
 1f61c274,emma,SN2,overall,1,0,4
 1f61c274,emma,SN2,chemistry,1,0,4
-3d313343,akhil,Br2 Br2 Patapimine,overall,7,3,16
-3d313343,akhil,Br2 Br2 Patapimine,chemistry,7,3,16
+3d313343,akhil b,Br2 Br2 Patapimine,overall,7,3,16
+3d313343,akhil b,Br2 Br2 Patapimine,chemistry,7,3,16
 3d313343,Jason,Yin and Yang,overall,3,1,8
 3d313343,Jason,Yin and Yang,chemistry,3,1,8
 3d313343,Sam E,Br2 Br2 Patapimine,overall,10,1,36
@@ -27,8 +27,8 @@ game_id,player,team,subject,correct,negs,points
 5f980561,Paxton Lin,Exploding Kittens,chemistry,5,1,16
 5f980561,filthy,Germanium Gooners,overall,0,1,-4
 5f980561,filthy,Germanium Gooners,chemistry,0,1,-4
-7ea15db3,Isaac,DDDingyding,overall,15,5,40
-7ea15db3,Isaac,DDDingyding,chemistry,15,5,40
+7ea15db3,Isaac K,DDDingyding,overall,15,5,40
+7ea15db3,Isaac K,DDDingyding,chemistry,15,5,40
 7ea15db3,Travis D,Buckminsterfullerene,overall,7,2,20
 7ea15db3,Travis D,Buckminsterfullerene,chemistry,7,2,20
 7ea15db3,natalina island,Buckminsterfullerene,overall,2,3,-4
@@ -53,10 +53,10 @@ b9ecc6c2,pancreas uvula,Lanthanide Larpers,overall,13,3,40
 b9ecc6c2,pancreas uvula,Lanthanide Larpers,chemistry,13,3,40
 b9ecc6c2,Shallow Walker,Lanthanide Larpers,overall,5,2,12
 b9ecc6c2,Shallow Walker,Lanthanide Larpers,chemistry,5,2,12
-b9ecc6c2,Ayush,Clovis North,overall,3,0,12
-b9ecc6c2,Ayush,Clovis North,chemistry,3,0,12
-b9ecc6c2,Ishan,Clovis North,overall,1,0,4
-b9ecc6c2,Ishan,Clovis North,chemistry,1,0,4
+b9ecc6c2,ayush h,Clovis North,overall,3,0,12
+b9ecc6c2,ayush h,Clovis North,chemistry,3,0,12
+b9ecc6c2,ishan k,Clovis North,overall,1,0,4
+b9ecc6c2,ishan k,Clovis North,chemistry,1,0,4
 bb43b001,jaco bell,cauliflower,overall,8,5,12
 bb43b001,jaco bell,cauliflower,chemistry,8,5,12
 bb43b001,ishaan kabra,TBCS,overall,6,4,8
@@ -71,14 +71,14 @@ bd913ac5,woopa,concrete slab,overall,6,4,8
 bd913ac5,woopa,concrete slab,chemistry,6,4,8
 bd913ac5,Allen,29,overall,4,0,16
 bd913ac5,Allen,29,chemistry,4,0,16
-c15853fe,Katy,Tungsten Tungsten Tungsten Sahur,overall,4,4,0
-c15853fe,Katy,Tungsten Tungsten Tungsten Sahur,chemistry,4,4,0
+c15853fe,katy g,Tungsten Tungsten Tungsten Sahur,overall,4,4,0
+c15853fe,katy g,Tungsten Tungsten Tungsten Sahur,chemistry,4,4,0
 c15853fe,Sophie C,Minnesota Organic Frameworks,overall,5,1,16
 c15853fe,Sophie C,Minnesota Organic Frameworks,chemistry,5,1,16
 c15853fe,Yan-Ru C,Minnesota Organic Frameworks,overall,13,0,52
 c15853fe,Yan-Ru C,Minnesota Organic Frameworks,chemistry,13,0,52
-c15853fe,Adi,Tungsten Tungsten Tungsten Sahur,overall,2,1,4
-c15853fe,Adi,Tungsten Tungsten Tungsten Sahur,chemistry,2,1,4
+c15853fe,adi c,Tungsten Tungsten Tungsten Sahur,overall,2,1,4
+c15853fe,adi c,Tungsten Tungsten Tungsten Sahur,chemistry,2,1,4
 d80096ca,Larry D,Auraphilic,overall,14,2,48
 d80096ca,Larry D,Auraphilic,chemistry,14,2,48
 d80096ca,Nirav N,Auraphilic,overall,7,0,28
@@ -99,12 +99,12 @@ d80096ca,Catherine,Activation Energy,chemistry,1,0,4
 25ca292d,emma,SN2,chemistry,1,0,4
 25ca292d,bonkywonky,DASONI Drinkers,overall,17,0,68
 25ca292d,bonkywonky,DASONI Drinkers,chemistry,17,0,68
-30e68cbc,Ayush,Clovis North,overall,4,0,16
-30e68cbc,Ayush,Clovis North,chemistry,4,0,16
+30e68cbc,ayush h,Clovis North,overall,4,0,16
+30e68cbc,ayush h,Clovis North,chemistry,4,0,16
 30e68cbc,Yongrui Wang,Helium Hydride,overall,7,0,28
 30e68cbc,Yongrui Wang,Helium Hydride,chemistry,7,0,28
-30e68cbc,Ishan,Clovis North,overall,3,1,8
-30e68cbc,Ishan,Clovis North,chemistry,3,1,8
+30e68cbc,ishan k,Clovis North,overall,3,1,8
+30e68cbc,ishan k,Clovis North,chemistry,3,1,8
 30e68cbc,Vincent Chen,Helium Hydride,overall,10,1,36
 30e68cbc,Vincent Chen,Helium Hydride,chemistry,10,1,36
 4242847b,eiggeV,CAMAS,overall,5,1,16
@@ -115,12 +115,12 @@ d80096ca,Catherine,Activation Energy,chemistry,1,0,4
 4242847b,Veggie,CAMAS,chemistry,3,1,8
 4242847b,Kangaboo,Nonpolar Bears,overall,3,0,12
 4242847b,Kangaboo,Nonpolar Bears,chemistry,3,0,12
-4529335a,Isaac,DDDingyding,overall,15,6,36
-4529335a,Isaac,DDDingyding,chemistry,15,6,36
+4529335a,Isaac K,DDDingyding,overall,15,6,36
+4529335a,Isaac K,DDDingyding,chemistry,15,6,36
 4529335a,Ali M,alpha and beta,overall,2,2,0
 4529335a,Ali M,alpha and beta,chemistry,2,2,0
-4529335a,Nithin,alpha and beta,overall,2,0,8
-4529335a,Nithin,alpha and beta,chemistry,2,0,8
+4529335a,nithin n,alpha and beta,overall,2,0,8
+4529335a,nithin n,alpha and beta,chemistry,2,0,8
 5532dbbb,Yan-Ru C,Minnesota Organic Frameworks,overall,15,2,52
 5532dbbb,Yan-Ru C,Minnesota Organic Frameworks,chemistry,15,2,52
 5532dbbb,Michael,Onyx,overall,0,0,0
@@ -135,12 +135,12 @@ d80096ca,Catherine,Activation Energy,chemistry,1,0,4
 57e93886,Majed A,schrodingle berries,chemistry,7,2,20
 5a2ceba3,67,Skibidi 67ers,overall,11,2,36
 5a2ceba3,67,Skibidi 67ers,chemistry,11,2,36
-5a2ceba3,Katy,Tungsten Tungsten Tungsten Sahur,overall,7,2,20
-5a2ceba3,Katy,Tungsten Tungsten Tungsten Sahur,chemistry,7,2,20
+5a2ceba3,katy g,Tungsten Tungsten Tungsten Sahur,overall,7,2,20
+5a2ceba3,katy g,Tungsten Tungsten Tungsten Sahur,chemistry,7,2,20
 5a2ceba3,Dr. Math,Skibidi 67ers,overall,4,0,16
 5a2ceba3,Dr. Math,Skibidi 67ers,chemistry,4,0,16
-5a2ceba3,Adi,Tungsten Tungsten Tungsten Sahur,overall,1,1,0
-5a2ceba3,Adi,Tungsten Tungsten Tungsten Sahur,chemistry,1,1,0
+5a2ceba3,adi c,Tungsten Tungsten Tungsten Sahur,overall,1,1,0
+5a2ceba3,adi c,Tungsten Tungsten Tungsten Sahur,chemistry,1,1,0
 8a062750,natalina island,Buckminsterfullerene,overall,12,5,28
 8a062750,natalina island,Buckminsterfullerene,chemistry,12,5,28
 8a062750,Sriman D,Germanium Gooners,overall,7,2,20
@@ -149,8 +149,8 @@ d80096ca,Catherine,Activation Energy,chemistry,1,0,4
 8a062750,Travis D,Buckminsterfullerene,chemistry,4,0,16
 938783e2,oboereed,Walter White,overall,6,6,0
 938783e2,oboereed,Walter White,chemistry,6,6,0
-938783e2,akhil,Br2 Br2 Patapimine,overall,11,2,36
-938783e2,akhil,Br2 Br2 Patapimine,chemistry,11,2,36
+938783e2,akhil b,Br2 Br2 Patapimine,overall,11,2,36
+938783e2,akhil b,Br2 Br2 Patapimine,chemistry,11,2,36
 938783e2,Sam E,Br2 Br2 Patapimine,overall,5,2,12
 938783e2,Sam E,Br2 Br2 Patapimine,chemistry,5,2,12
 970a8b84,pancreas uvula,Lanthanide Larpers,overall,8,4,16
@@ -185,20 +185,20 @@ c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 0eecc187,__shan,DASONI Drinkers,chemistry,4,2,8
 0eecc187,Dr. Math,Skibidi 67ers,overall,1,0,4
 0eecc187,Dr. Math,Skibidi 67ers,chemistry,1,0,4
-180e1554,Isaac,DDDingyding,overall,12,6,24
-180e1554,Isaac,DDDingyding,chemistry,12,6,24
+180e1554,Isaac K,DDDingyding,overall,12,6,24
+180e1554,Isaac K,DDDingyding,chemistry,12,6,24
 180e1554,Sriman D,Germanium Gooners,overall,9,3,24
 180e1554,Sriman D,Germanium Gooners,chemistry,9,3,24
 180e1554,filthy,Germanium Gooners,overall,2,0,8
 180e1554,filthy,Germanium Gooners,chemistry,2,0,8
 1d492ac3,Sam E,Br2 Br2 Patapimine,overall,6,4,8
 1d492ac3,Sam E,Br2 Br2 Patapimine,chemistry,6,4,8
-1d492ac3,Ayush,Clovis North,overall,4,0,16
-1d492ac3,Ayush,Clovis North,chemistry,4,0,16
-1d492ac3,akhil,Br2 Br2 Patapimine,overall,10,1,36
-1d492ac3,akhil,Br2 Br2 Patapimine,chemistry,10,1,36
-1d492ac3,Ishan,Clovis North,overall,2,1,4
-1d492ac3,Ishan,Clovis North,chemistry,2,1,4
+1d492ac3,ayush h,Clovis North,overall,4,0,16
+1d492ac3,ayush h,Clovis North,chemistry,4,0,16
+1d492ac3,akhil b,Br2 Br2 Patapimine,overall,10,1,36
+1d492ac3,akhil b,Br2 Br2 Patapimine,chemistry,10,1,36
+1d492ac3,ishan k,Clovis North,overall,2,1,4
+1d492ac3,ishan k,Clovis North,chemistry,2,1,4
 231db7ce,Samuel Huang,i lovity radioactivity,overall,6,2,16
 231db7ce,Samuel Huang,i lovity radioactivity,chemistry,6,2,16
 231db7ce,Allen,29,overall,11,1,40
@@ -211,14 +211,14 @@ c32dcf3f,shamp0,Bun-son Burners 😭,chemistry,5,2,12
 25ee4160,Ali M,alpha and beta,chemistry,3,2,4
 25ee4160,Ethan Wang,Exploding Kittens,overall,13,3,40
 25ee4160,Ethan Wang,Exploding Kittens,chemistry,13,3,40
-25ee4160,Nithin,alpha and beta,overall,1,1,0
-25ee4160,Nithin,alpha and beta,chemistry,1,1,0
-35756991,Katy,Tungsten Tungsten Tungsten Sahur,overall,6,6,0
-35756991,Katy,Tungsten Tungsten Tungsten Sahur,chemistry,6,6,0
+25ee4160,nithin n,alpha and beta,overall,1,1,0
+25ee4160,nithin n,alpha and beta,chemistry,1,1,0
+35756991,katy g,Tungsten Tungsten Tungsten Sahur,overall,6,6,0
+35756991,katy g,Tungsten Tungsten Tungsten Sahur,chemistry,6,6,0
 35756991,ethan,Onyx,overall,4,1,12
 35756991,ethan,Onyx,chemistry,4,1,12
-35756991,Adi,Tungsten Tungsten Tungsten Sahur,overall,6,2,16
-35756991,Adi,Tungsten Tungsten Tungsten Sahur,chemistry,6,2,16
+35756991,adi c,Tungsten Tungsten Tungsten Sahur,overall,6,2,16
+35756991,adi c,Tungsten Tungsten Tungsten Sahur,chemistry,6,2,16
 35756991,Michael,Onyx,overall,0,0,0
 35756991,Michael,Onyx,chemistry,0,0,0
 3b31f4ec,Sophie C,Minnesota Organic Frameworks,overall,3,3,0
@@ -287,18 +287,18 @@ e2ac5b1e,Jacob,Walter White,overall,1,0,4
 e2ac5b1e,Jacob,Walter White,chemistry,1,0,4
 07b432c2,bonkywonky,DASONI Drinkers,overall,10,1,36
 07b432c2,bonkywonky,DASONI Drinkers,chemistry,10,1,36
-07b432c2,Katy,Tungsten Tungsten Tungsten Sahur,overall,4,0,16
-07b432c2,Katy,Tungsten Tungsten Tungsten Sahur,chemistry,4,0,16
+07b432c2,katy g,Tungsten Tungsten Tungsten Sahur,overall,4,0,16
+07b432c2,katy g,Tungsten Tungsten Tungsten Sahur,chemistry,4,0,16
 07b432c2,__shan,DASONI Drinkers,overall,3,1,8
 07b432c2,__shan,DASONI Drinkers,chemistry,3,1,8
-07b432c2,Adi,Tungsten Tungsten Tungsten Sahur,overall,5,0,20
-07b432c2,Adi,Tungsten Tungsten Tungsten Sahur,chemistry,5,0,20
-0c1e34fb,Ishan,Clovis North,overall,2,2,0
-0c1e34fb,Ishan,Clovis North,chemistry,2,2,0
+07b432c2,adi c,Tungsten Tungsten Tungsten Sahur,overall,5,0,20
+07b432c2,adi c,Tungsten Tungsten Tungsten Sahur,chemistry,5,0,20
+0c1e34fb,ishan k,Clovis North,overall,2,2,0
+0c1e34fb,ishan k,Clovis North,chemistry,2,2,0
 0c1e34fb,oboereed,Walter White,overall,12,3,36
 0c1e34fb,oboereed,Walter White,chemistry,12,3,36
-0c1e34fb,Ayush,Clovis North,overall,4,1,12
-0c1e34fb,Ayush,Clovis North,chemistry,4,1,12
+0c1e34fb,ayush h,Clovis North,overall,4,1,12
+0c1e34fb,ayush h,Clovis North,chemistry,4,1,12
 160a15be,harry gao,TBCS,overall,6,5,4
 160a15be,harry gao,TBCS,chemistry,6,5,4
 160a15be,Bowen Shan,concrete slab,overall,6,2,16
@@ -325,14 +325,14 @@ e2ac5b1e,Jacob,Walter White,chemistry,1,0,4
 64109526,Sriman D,Germanium Gooners,chemistry,16,0,64
 64109526,Ali M,alpha and beta,overall,0,0,0
 64109526,Ali M,alpha and beta,chemistry,0,0,0
-64109526,Nithin,alpha and beta,overall,1,0,4
-64109526,Nithin,alpha and beta,chemistry,1,0,4
+64109526,nithin n,alpha and beta,overall,1,0,4
+64109526,nithin n,alpha and beta,chemistry,1,0,4
 64109526,filthy,Germanium Gooners,overall,1,0,4
 64109526,filthy,Germanium Gooners,chemistry,1,0,4
 64628e13,pancreas uvula,Lanthanide Larpers,overall,7,4,12
 64628e13,pancreas uvula,Lanthanide Larpers,chemistry,7,4,12
-64628e13,akhil,Br2 Br2 Patapimine,overall,8,2,24
-64628e13,akhil,Br2 Br2 Patapimine,chemistry,8,2,24
+64628e13,akhil b,Br2 Br2 Patapimine,overall,8,2,24
+64628e13,akhil b,Br2 Br2 Patapimine,chemistry,8,2,24
 64628e13,Sam E,Br2 Br2 Patapimine,overall,5,1,16
 64628e13,Sam E,Br2 Br2 Patapimine,chemistry,5,1,16
 64628e13,Shallow Walker,Lanthanide Larpers,overall,1,0,4
@@ -383,12 +383,12 @@ e69cc42d,Michael,Onyx,overall,0,2,-8
 e69cc42d,Michael,Onyx,chemistry,0,2,-8
 e69cc42d,emma,SN2,overall,5,0,20
 e69cc42d,emma,SN2,chemistry,5,0,20
-1aa50b8d,Adi,Tungsten Tungsten Tungsten Sahur,overall,6,0,24
-1aa50b8d,Adi,Tungsten Tungsten Tungsten Sahur,chemistry,6,0,24
+1aa50b8d,adi c,Tungsten Tungsten Tungsten Sahur,overall,6,0,24
+1aa50b8d,adi c,Tungsten Tungsten Tungsten Sahur,chemistry,6,0,24
 1aa50b8d,emma,SN2,overall,1,0,4
 1aa50b8d,emma,SN2,chemistry,1,0,4
-1aa50b8d,Katy,Tungsten Tungsten Tungsten Sahur,overall,12,1,44
-1aa50b8d,Katy,Tungsten Tungsten Tungsten Sahur,chemistry,12,1,44
+1aa50b8d,katy g,Tungsten Tungsten Tungsten Sahur,overall,12,1,44
+1aa50b8d,katy g,Tungsten Tungsten Tungsten Sahur,chemistry,12,1,44
 250dd956,eiggeV,CAMAS,overall,6,1,20
 250dd956,eiggeV,CAMAS,chemistry,6,1,20
 250dd956,Henry,Mangoturtle,overall,3,0,12
@@ -415,28 +415,28 @@ e69cc42d,emma,SN2,chemistry,5,0,20
 33b3550d,Charlie,29,chemistry,7,1,24
 33b3550d,Allen,29,overall,9,1,32
 33b3550d,Allen,29,chemistry,9,1,32
-6993dcec,Isaac,DDDingyding,overall,11,7,16
-6993dcec,Isaac,DDDingyding,chemistry,11,7,16
+6993dcec,Isaac K,DDDingyding,overall,11,7,16
+6993dcec,Isaac K,DDDingyding,chemistry,11,7,16
 6993dcec,Paxton Lin,Exploding Kittens,overall,2,0,8
 6993dcec,Paxton Lin,Exploding Kittens,chemistry,2,0,8
 6993dcec,Ethan Wang,Exploding Kittens,overall,9,5,16
 6993dcec,Ethan Wang,Exploding Kittens,chemistry,9,5,16
 6ff042ab,natalina island,Buckminsterfullerene,overall,11,5,24
 6ff042ab,natalina island,Buckminsterfullerene,chemistry,11,5,24
-6ff042ab,Nithin,alpha and beta,overall,0,1,-4
-6ff042ab,Nithin,alpha and beta,chemistry,0,1,-4
+6ff042ab,nithin n,alpha and beta,overall,0,1,-4
+6ff042ab,nithin n,alpha and beta,chemistry,0,1,-4
 6ff042ab,Travis D,Buckminsterfullerene,overall,3,1,8
 6ff042ab,Travis D,Buckminsterfullerene,chemistry,3,1,8
 6ff042ab,Ali M,alpha and beta,overall,2,2,0
 6ff042ab,Ali M,alpha and beta,chemistry,2,2,0
 78dc7788,joseph,Yin and Yang,overall,8,2,24
 78dc7788,joseph,Yin and Yang,chemistry,8,2,24
-78dc7788,Ishan,Clovis North,overall,2,1,4
-78dc7788,Ishan,Clovis North,chemistry,2,1,4
+78dc7788,ishan k,Clovis North,overall,2,1,4
+78dc7788,ishan k,Clovis North,chemistry,2,1,4
 78dc7788,Jason,Yin and Yang,overall,4,2,8
 78dc7788,Jason,Yin and Yang,chemistry,4,2,8
-78dc7788,Ayush,Clovis North,overall,2,2,0
-78dc7788,Ayush,Clovis North,chemistry,2,2,0
+78dc7788,ayush h,Clovis North,overall,2,2,0
+78dc7788,ayush h,Clovis North,chemistry,2,2,0
 8f40b244,Lishan P,School of Chemistry,overall,3,5,-8
 8f40b244,Lishan P,School of Chemistry,chemistry,3,5,-8
 8f40b244,Easton W,School of Chemistry,overall,11,1,40
@@ -445,8 +445,8 @@ e69cc42d,emma,SN2,chemistry,5,0,20
 8f40b244,Mangoi,Nonpolar Bears,chemistry,1,0,4
 8f40b244,Kangaboo,Nonpolar Bears,overall,1,0,4
 8f40b244,Kangaboo,Nonpolar Bears,chemistry,1,0,4
-b8e2c653,akhil,Br2 Br2 Patapimine,overall,11,4,28
-b8e2c653,akhil,Br2 Br2 Patapimine,chemistry,11,4,28
+b8e2c653,akhil b,Br2 Br2 Patapimine,overall,11,4,28
+b8e2c653,akhil b,Br2 Br2 Patapimine,chemistry,11,4,28
 b8e2c653,Sam E,Br2 Br2 Patapimine,overall,5,3,8
 b8e2c653,Sam E,Br2 Br2 Patapimine,chemistry,5,3,8
 b8e2c653,Yongrui Wang,Helium Hydride,overall,2,0,8
@@ -493,8 +493,8 @@ e94908b2,Sophie C,Minnesota Organic Frameworks,chemistry,2,0,8
 50b1787f,Easton W,School of Chemistry,chemistry,5,2,12
 50b1787f,Dr. Math,Skibidi 67ers,overall,0,0,0
 50b1787f,Dr. Math,Skibidi 67ers,chemistry,0,0,0
-97ec52da,akhil,Br2 Br2 Patapimine,overall,6,3,12
-97ec52da,akhil,Br2 Br2 Patapimine,chemistry,6,3,12
+97ec52da,akhil b,Br2 Br2 Patapimine,overall,6,3,12
+97ec52da,akhil b,Br2 Br2 Patapimine,chemistry,6,3,12
 97ec52da,Sam E,Br2 Br2 Patapimine,overall,7,0,28
 97ec52da,Sam E,Br2 Br2 Patapimine,chemistry,7,0,28
 97ec52da,Larry D,Auraphilic,overall,1,1,0
@@ -529,8 +529,8 @@ f1ad30f0,Allen,29,overall,3,2,4
 f1ad30f0,Allen,29,chemistry,3,2,4
 f1ad30f0,Charlie,29,overall,2,0,8
 f1ad30f0,Charlie,29,chemistry,2,0,8
-fc151d8c,Isaac,DDDingyding,overall,6,2,16
-fc151d8c,Isaac,DDDingyding,chemistry,6,2,16
+fc151d8c,Isaac K,DDDingyding,overall,6,2,16
+fc151d8c,Isaac K,DDDingyding,chemistry,6,2,16
 fc151d8c,Yan-Ru C,Minnesota Organic Frameworks,overall,7,2,20
 fc151d8c,Yan-Ru C,Minnesota Organic Frameworks,chemistry,7,2,20
 fc151d8c,Sophie C,Minnesota Organic Frameworks,overall,1,1,0
@@ -581,14 +581,14 @@ fc151d8c,Sophie C,Minnesota Organic Frameworks,chemistry,1,1,0
 811c9f2e,Vince S,CARBON-NITROGEN,chemistry,2,4,-8
 bd6a440e,Sam E,Br2 Br2 Patapimine,overall,2,2,0
 bd6a440e,Sam E,Br2 Br2 Patapimine,chemistry,2,2,0
-bd6a440e,akhil,Br2 Br2 Patapimine,overall,5,0,20
-bd6a440e,akhil,Br2 Br2 Patapimine,chemistry,5,0,20
+bd6a440e,akhil b,Br2 Br2 Patapimine,overall,5,0,20
+bd6a440e,akhil b,Br2 Br2 Patapimine,chemistry,5,0,20
 bd6a440e,Bowen Shan,concrete slab,overall,2,0,8
 bd6a440e,Bowen Shan,concrete slab,chemistry,2,0,8
 bd6a440e,woopa,concrete slab,overall,4,2,8
 bd6a440e,woopa,concrete slab,chemistry,4,2,8
-dd03f296,Isaac,DDDingyding,overall,3,4,-4
-dd03f296,Isaac,DDDingyding,chemistry,3,4,-4
+dd03f296,Isaac K,DDDingyding,overall,3,4,-4
+dd03f296,Isaac K,DDDingyding,chemistry,3,4,-4
 dd03f296,67,Skibidi 67ers,overall,6,0,24
 dd03f296,67,Skibidi 67ers,chemistry,6,0,24
 dd03f296,Dr. Math,Skibidi 67ers,overall,1,1,0
@@ -635,8 +635,8 @@ f144b68b,Dr. Math,Skibidi 67ers,chemistry,0,0,0
 399b6186,harry gao,TBCS,chemistry,5,3,8
 399b6186,Dr. Math,Skibidi 67ers,overall,2,0,8
 399b6186,Dr. Math,Skibidi 67ers,chemistry,2,0,8
-85612ea9,akhil,Br2 Br2 Patapimine,overall,3,2,4
-85612ea9,akhil,Br2 Br2 Patapimine,chemistry,3,2,4
+85612ea9,akhil b,Br2 Br2 Patapimine,overall,3,2,4
+85612ea9,akhil b,Br2 Br2 Patapimine,chemistry,3,2,4
 85612ea9,Sam E,Br2 Br2 Patapimine,overall,6,4,8
 85612ea9,Sam E,Br2 Br2 Patapimine,chemistry,6,4,8
 85612ea9,Anish A,Bun-son Burners 😭,overall,4,0,16
@@ -667,22 +667,22 @@ f144b68b,Dr. Math,Skibidi 67ers,chemistry,0,0,0
 6d4fcf8c,pancreas uvula,Lanthanide Larpers,chemistry,3,2,4
 6d4fcf8c,Sam E,Br2 Br2 Patapimine,overall,6,0,24
 6d4fcf8c,Sam E,Br2 Br2 Patapimine,chemistry,6,0,24
-6d4fcf8c,akhil,Br2 Br2 Patapimine,overall,5,2,12
-6d4fcf8c,akhil,Br2 Br2 Patapimine,chemistry,5,2,12
+6d4fcf8c,akhil b,Br2 Br2 Patapimine,overall,5,2,12
+6d4fcf8c,akhil b,Br2 Br2 Patapimine,chemistry,5,2,12
 6d4fcf8c,Shallow Walker,Lanthanide Larpers,overall,1,0,4
 6d4fcf8c,Shallow Walker,Lanthanide Larpers,chemistry,1,0,4
 36123a6a,Cpmbo,the borons,overall,10,3,28
 36123a6a,Cpmbo,the borons,chemistry,10,3,28
 36123a6a,pancreas uvula,Lanthanide Larpers,overall,2,2,0
 36123a6a,pancreas uvula,Lanthanide Larpers,chemistry,2,2,0
-579963f3,akhil,Br2 Br2 Patapimine,overall,2,3,-4
-579963f3,akhil,Br2 Br2 Patapimine,chemistry,2,3,-4
+579963f3,akhil b,Br2 Br2 Patapimine,overall,2,3,-4
+579963f3,akhil b,Br2 Br2 Patapimine,chemistry,2,3,-4
 579963f3,Cpmbo,the borons,overall,7,2,20
 579963f3,Cpmbo,the borons,chemistry,7,2,20
 579963f3,Sam E,Br2 Br2 Patapimine,overall,4,2,8
 579963f3,Sam E,Br2 Br2 Patapimine,chemistry,4,2,8
-ce601662,akhil,Br2 Br2 Patapimine,overall,6,2,16
-ce601662,akhil,Br2 Br2 Patapimine,chemistry,6,2,16
+ce601662,akhil b,Br2 Br2 Patapimine,overall,6,2,16
+ce601662,akhil b,Br2 Br2 Patapimine,chemistry,6,2,16
 ce601662,Cpmbo,the borons,overall,3,2,4
 ce601662,Cpmbo,the borons,chemistry,3,2,4
 ce601662,Sam E,Br2 Br2 Patapimine,overall,5,0,20

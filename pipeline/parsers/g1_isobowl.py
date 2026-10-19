@@ -40,6 +40,7 @@ _NAMEY = re.compile(r"^[A-Z][a-zA-Z'\-]+(?: [A-Z][a-zA-Z'\-]*\.?)+$")
 
 def _clean_display(s: str) -> str:
     s = _TAG.sub("", s or "").strip()
+    s = re.sub(r"^[A-Za-z]{2,4}\d{1,2}\s+(?=\S)", "", s)  # per-room account prefix: "bow1 anish r" -> "anish r"
     s = re.sub(r"\s+", " ", s)
     return s
 
@@ -102,7 +103,7 @@ def _global_names() -> dict[str, str]:
         for uid, ns in names.items():
             # only accounts whose typed names share one first name (shared team accounts do not);
             # account handles count only when they carry that first name too
-            ns = {n for n in ns if not any(c.isdigit() for c in n)}  # team handles like "mingworm 2"
+            ns = {n for n in ns if not any(c.isdigit() for c in _clean_display(n))}  # team handles like "mingworm 2"
             firsts = {_clean_display(n).split()[0].lower() for n in ns if _clean_display(n)}
             if len(firsts) != 1:
                 continue
