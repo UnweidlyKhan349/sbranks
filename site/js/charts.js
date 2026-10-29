@@ -183,7 +183,26 @@ export function lineChart(series, opts = {}) {
   }
   if (opts.table) fig.appendChild(tableView(opts.table.columns, opts.table.rows, { caption: opts.label }));
 
-  const xs = [...new Set(visible.flatMap((sr) => sr.points.map((p) => p.x)))].sort((a, b) => a - b);
+  const allXs = [...new Set(visible.flatMap((sr) => sr.points.map((p) => p.x)))].sort((a, b) => a - b);
+  let xs = allXs;
+  // time-range zoom for long histories, so events a week apart get their own room
+  const span = allXs[allXs.length - 1] - allXs[0];
+  const RANGES = [["6 mo", 183], ["1 yr", 366], ["2 yr", 731]].filter(([, d]) => d * DAY < span * 0.85);
+  let range = null;
+  let lastW = 0;
+  if (RANGES.length && opts.zoom !== false) {
+    const seg = h("div", { class: "seg seg-sm chart-range", role: "group", "aria-label": "Time range" });
+    const btns = [...RANGES, ["All", null]].map(([lab, d]) => {
+      const btn = h("button", { type: "button", "aria-pressed": String(d === null), onclick: () => {
+        range = d;
+        for (const x of btns) x.setAttribute("aria-pressed", String(x === btn));
+        if (lastW) draw(lastW);
+      } }, lab);
+      return btn;
+    });
+    seg.append(...btns);
+    fig.insertBefore(seg, plot);
+  }
   const hitsAt = (x) => visible.map((sr) => {
     let pt = null;
     for (const p of sr.points) { if (p.x <= x) pt = p; else break; }
@@ -202,12 +221,16 @@ export function lineChart(series, opts = {}) {
     if (endLabels) m.r = Math.min(130, 16 + Math.max(...visible.map((x) => textWidth(x.label, 12))));
     const iw = Math.max(40, W - m.l - m.r);
     const ih = height - m.t - m.b;
-    let x0 = xs[0], x1 = xs[xs.length - 1];
+    lastW = W;
+    let x1 = allXs[allXs.length - 1];
+    let x0 = range ? Math.max(allXs[0], x1 - range * DAY) : allXs[0];
+    xs = allXs.filter((x) => x >= x0 && x <= x1);
     if (x1 - x0 < 60 * DAY) { const mid = (x0 + x1) / 2; x0 = mid - 45 * DAY; x1 = mid + 45 * DAY; }
     const padX = (x1 - x0) * 0.04;
     x0 -= padX; x1 += padX;
     let ymin = Infinity, ymax = -Infinity;
-    for (const sr of visible) for (const p of sr.points) {
+    const inView = (p) => p.x >= x0 && p.x <= x1;
+    for (const sr of visible) for (const p of sr.points.filter(inView)) {
       ymin = Math.min(ymin, sr.band && p.lo != null ? p.lo : p.y);
       ymax = Math.max(ymax, sr.band && p.hi != null ? p.hi : p.y);
     }
@@ -274,6 +297,15 @@ export function lineChart(series, opts = {}) {
       svgEl.appendChild(s("line", { class: "ax-line", x1: x, x2: x, y1: xb, y2: xb + 4 }));
       svgEl.appendChild(s("text", { class: "ax-tick", x, y: xb + 17, "text-anchor": "middle" }, tt.label(t)));
     }
+    // bands, lines and dots are clipped to the plot area (zoomed views cut earlier points)
+    const clipId = `clip${Math.random().toString(36).slice(2, 9)}`;
+    const defs = s("defs");
+    const cp = s("clipPath", { id: clipId });
+    cp.appendChild(s("rect", { x: m.l - 6, y: 0, width: iw + 12, height: m.t + ih + 1 }));
+    defs.appendChild(cp);
+    svgEl.appendChild(defs);
+    const layer = s("g", { "clip-path": `url(#${clipId})` });
+    svgEl.appendChild(layer);
     // bands, then lines, then dots
     for (const sr of visible) {
       if (!sr.band) continue;
@@ -281,27 +313,35 @@ export function lineChart(series, opts = {}) {
       if (!pts.length) continue;
       if (pts.length === 1) {
         const p = pts[0];
-        svgEl.appendChild(s("rect", { class: "series-band", x: sx(p.x) - 6, width: 12, y: sy(p.hi), height: Math.max(1, sy(p.lo) - sy(p.hi)), rx: 3, style: `fill:${sr.color}` }));
+        layer.appendChild(s("rect", { class: "series-band", x: sx(p.x) - 6, width: 12, y: sy(p.hi), height: Math.max(1, sy(p.lo) - sy(p.hi)), rx: 3, style: `fill:${sr.color}` }));
         continue;
       }
       const top = pts.map((p) => `${sx(p.x).toFixed(1)},${sy(p.hi).toFixed(1)}`);
       const bot = pts.slice().reverse().map((p) => `${sx(p.x).toFixed(1)},${sy(p.lo).toFixed(1)}`);
-      svgEl.appendChild(s("path", { class: "series-band", d: `M${top.join("L")}L${bot.join("L")}Z`, style: `fill:${sr.color}` }));
+      layer.appendChild(s("path", { class: "series-band", d: `M${top.join("L")}L${bot.join("L")}Z`, style: `fill:${sr.color}` }));
     }
     for (const sr of visible) {
       if (sr.points.length < 2) continue;
       const d = "M" + sr.points.map((p) => `${sx(p.x).toFixed(1)},${sy(p.y).toFixed(1)}`).join("L");
-      svgEl.appendChild(s("path", { class: "series-line", d, style: `stroke:${sr.color}` }));
+      layer.appendChild(s("path", { class: "series-line", d, style: `stroke:${sr.color}` }));
     }
-    const dotsAll = visible.length === 1 || visible.every((sr) => sr.points.length <= 40);
+    const dotsAll = visible.length === 1 || visible.every((sr) => sr.points.filter(inView).length <= 40);
+    // dots shrink where events sit close together on the time axis (e.g. a week apart)
+    const dotR = (pts, i) => {
+      const gap = Math.min(i > 0 ? sx(pts[i].x) - sx(pts[i - 1].x) : Infinity, i + 1 < pts.length ? sx(pts[i + 1].x) - sx(pts[i].x) : Infinity);
+      return gap < 5 ? 0 : Math.max(2.5, Math.min(4, gap / 2.4));  // too crowded: line only (hover still finds it)
+    };
     for (const sr of visible) {
       const pts = dotsAll ? sr.points : sr.points.slice(-1);
-      for (const p of pts) svgEl.appendChild(s("circle", { class: "series-dot", cx: sx(p.x), cy: sy(p.y), r: 4, style: `fill:${sr.color}` }));
+      pts.forEach((p, i) => {
+        const r = i === pts.length - 1 ? 4 : dotR(pts, i);
+        if (inView(p) && r) layer.appendChild(s("circle", { class: "series-dot", cx: sx(p.x), cy: sy(p.y), r, style: `fill:${sr.color}` }));
+      });
     }
     if (refText) svgEl.appendChild(refText);
     // direct end labels (only when they don't collide)
     if (endLabels) {
-      const labs = visible.map((sr) => ({ sr, y: sy(sr.points[sr.points.length - 1].y) })).sort((a, b) => a.y - b.y);
+      const labs = visible.map((sr) => ({ sr, y: sy(sr.points[sr.points.length - 1].y) })).sort((a, b) => a.y - b.y);  // newest point is always in view
       const collide = labs.some((l, i) => i > 0 && l.y - labs[i - 1].y < 14);
       if (!collide) {
         for (const l of labs) svgEl.appendChild(s("text", { class: "end-label", x: m.l + iw + 8, y: l.y + 4 }, l.sr.label));
@@ -343,15 +383,25 @@ export function lineChart(series, opts = {}) {
       focusDots.setAttribute("visibility", "hidden");
       hideTip();
     }
-    function nearest(px) {
+    // nearest event to the pointer: by distance to the dots when the pointer is near the lines
+    // (events a few pixels apart become separately reachable), else by date
+    const xIndex = new Map(xs.map((x, i) => [x, i]));
+    function nearest(px, py) {
+      let best = 0, bestD = Infinity;
+      for (const sr of visible) for (const p of sr.points) {
+        if (!xIndex.has(p.x)) continue;
+        const d = Math.hypot(sx(p.x) - px, (sy(p.y) - py) * 0.6);
+        if (d < bestD) { bestD = d; best = xIndex.get(p.x); }
+      }
+      if (bestD <= 24) return best;
       const x = sx.invert(px);
-      let best = 0;
+      best = 0;
       for (let i = 1; i < xs.length; i++) if (Math.abs(xs[i] - x) < Math.abs(xs[best] - x)) best = i;
       return best;
     }
     svgEl.addEventListener("pointermove", (e) => {
       const r = svgEl.getBoundingClientRect();
-      showAt(nearest(e.clientX - r.left), e.clientX, e.clientY);
+      showAt(nearest(e.clientX - r.left, e.clientY - r.top), e.clientX, e.clientY);
     });
     svgEl.addEventListener("pointerleave", hide);
     svgEl.addEventListener("focus", () => showAt(idx < 0 ? xs.length - 1 : idx));
