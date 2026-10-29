@@ -19,5 +19,514 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "Ethan Wang\tTemple City": [
+      "6a06a1beaffc79833b1f04da"
+    ],
+    "Bryce Thach\tTemple City": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Ayaan\tLexington": [
+      "69dfec2b1244cc5a8c6b9a4c"
+    ],
+    "Carpe Diem\tLexington": [
+      "69cf4e002ca2bf9b4be842ef"
+    ],
+    "Simon Z\tLexington": [
+      "69d168db495bcc4f970a2b68"
+    ],
+    "Vince S\tLexington": [
+      "6a1ba2059a2d41b87c490ab1"
+    ],
+    "joseph\tShenendehowa A": [
+      "6a7bccb438dc4882f9d0603e"
+    ],
+    "Sam\tShenendehowa A": [
+      "6ac196580a408f7a4d38990b"
+    ],
+    "Rohan\tMadison West": [
+      "6aafee508c9b9221a9e3c4a7"
+    ],
+    "AlexL\tMadison West": [
+      "6a07bef9e4904c0aee041c4a"
+    ],
+    "Bryant Y\tMadison West": [
+      "6aaffef88c9b9221a9e3d3d4"
+    ],
+    "Hassaan\tShenendehowa A": [
+      "6ac187510a408f7a4d387e36"
+    ],
+    "Will\tShenendehowa A": [
+      "6ac187940a408f7a4d387ecf"
+    ],
+    "Anmy Tran\tMadison West": [
+      "6aaffefe8c9b9221a9e3d3e5"
+    ],
+    "Taehwan J\tIolani": [
+      "6aaf744687338c559396659e"
+    ],
+    "Ethan Z\tIolani": [
+      "6a0887266230d878705f0559"
+    ],
+    "Sola M\tIolani": [
+      "6a02010634f3e5cbba3a5aae"
+    ],
+    "Harry L\tObra D. Tompkins": [
+      "6a14c7789a2d41b87c47e140"
+    ],
+    "Keene KK\tIolani": [
+      "6a07f352e4904c0aee043945"
+    ],
+    "Daniel Y\tIolani": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "Hem\tObra D. Tompkins": [
+      "6a14cccb9a2d41b87c47e1b3"
+    ],
+    "aadi d\tObra D. Tompkins": [
+      "6a14c3cc9a2d41b87c47e091"
+    ],
+    "nithin n\tObra D. Tompkins": [
+      "6a0fb9b13ad948ec85ca9339"
+    ],
+    "Anish Paithara\tMira Loma A": [
+      "6ac07ffa0a408f7a4d379fc2"
+    ],
+    "Kavin Anreddy\tMira Loma A": [
+      "69d71cd3d4ef0d41240ccadd"
+    ],
+    "Achuth V\tClovis North": [
+      "69c1f99e081cf06514827977"
+    ],
+    "ishan k\tClovis North": [
+      "6a1108c89a2d41b87c4796ca"
+    ],
+    "Namish Dour\tMira Loma A": [
+      "6a1bbbc69a2d41b87c491344"
+    ],
+    "Majed A\tClovis North": [
+      "6a1108f69a2d41b87c4796e4"
+    ],
+    "aniket m\tTMSA Apex": [
+      "6a92ea3cd1968a1d7ea8d472"
+    ],
+    "Elainne\tBenjamin Franklin": [
+      "6a079d20e4904c0aee04111b"
+    ],
+    "marianne\tBenjamin Franklin": [
+      "69b882fad62d93433abbb52b"
+    ],
+    "Duck\tTMSA Apex": [
+      "6a78b91375c222ec3000d6fb"
+    ],
+    "akshat\tTMSA Apex": [
+      "6a7a101238dc4882f9cff803"
+    ],
+    "afstoecker\tBenjamin Franklin": [
+      "69f7c028a04dfd0d3cb995b4"
+    ],
+    "Dr. Math\tTMSA Apex": [
+      "69f0ce1b1eed4454ba5b7ccb"
+    ],
+    "tixkdm\tBenjamin Franklin": [
+      "6a32096e818435dceb213264"
+    ],
+    "apomorphicamoeba\tMontgomery Blair B": [
+      "6a44498934ff5c9d910f6c2c"
+    ],
+    "Dylan\tWhitney Young A": [
+      "6ac26e9f0a408f7a4d3999ec"
+    ],
+    "Zachary Hernandez\tWhitney Young A": [
+      "6ac25cda0a408f7a4d39574d"
+    ],
+    "Miles W\tWhitney Young A": [
+      "6ac256850a408f7a4d394eb4"
+    ],
+    "Hannah G\tWhitney Young A": [
+      "6ac26eb40a408f7a4d399aa7"
+    ],
+    "james w\tMontgomery Blair B": [
+      "6a78885175c222ec3000599b"
+    ],
+    "Sreehaas M\tJP Stevens": [
+      "6a1c48cf8e3a52021faefe67"
+    ],
+    "Tahmeed S\tCollierville B": [
+      "6a087331a88e4f800d42556c"
+    ],
+    "Krishna R\tJP Stevens": [
+      "6a1c40ba8e3a52021faefb37"
+    ],
+    "Kanishka J\tJP Stevens": [
+      "6a1c40a18e3a52021faefb28"
+    ],
+    "Saish K\tJP Stevens": [
+      "6ac269e70a408f7a4d3974e5"
+    ],
+    "Sanjeev\tCollierville B": [
+      "6a4ec93cf82c9dd29df86b7b"
+    ],
+    "Jeff\tWayzata A": [
+      "6ac269110a408f7a4d396fe4"
+    ],
+    "Ali Zaman\tMSJ C": [
+      "6ac1deb10a408f7a4d391f69"
+    ],
+    "Enming Zhang\tMSJ C": [
+      "69dafe5b6a17a69d3e04c7d8"
+    ],
+    "Ethan Sun\tWayzata A": [
+      "6a087f8d1b81c78940f66297"
+    ],
+    "Hank Sun\tMSJ C": [
+      "6ac04d190a408f7a4d376104"
+    ],
+    "Sophie C\tWayzata A": [
+      "6a074556e4904c0aee040556"
+    ],
+    "Arnav Hiremath\tWayzata A": [
+      "6a0873c9a88e4f800d42562d"
+    ],
+    "Saketh K\tCollege Park": [
+      "6a974fd8d1968a1d7eaeb26a"
+    ],
+    "Shubam V\tCollege Park": [
+      "69bb764d924039cb36bcc370"
+    ],
+    "Liam H\tCollege Park": [
+      "6a973b0fd1968a1d7eaead33"
+    ],
+    "Varun V\tCollege Park": [
+      "6a974bc7d1968a1d7eaeb041"
+    ],
+    "Rish\tShallow Walk": [
+      "6a07b260e4904c0aee0418df"
+    ],
+    "Yunay V\tShallow Walk": [
+      "6aa4b0ad94390d8318debea8"
+    ],
+    "Nimit A\tShallow Walk": [
+      "69b86d94d62d93433abbb513"
+    ],
+    "Riyan N\tShallow Walk": [
+      "69c4ae18081cf06514829573"
+    ],
+    "ArthurW middletong\tMiddleton": [
+      "6a0878b7a88e4f800d4257db"
+    ],
+    "Asa Fleischer-Graham\tPRISMS": [
+      "6ac271c90a408f7a4d39bb77"
+    ],
+    "Brian L\tMiddleton": [
+      "6ab5c3caca823725772281df"
+    ],
+    "Alex D\tMiddleton": [
+      "6a087697a88e4f800d425775"
+    ],
+    "Arunabh Pratik\tPRISMS": [
+      "6ab007178c9b9221a9e40a89"
+    ],
+    "matthew wang\tMiddleton": [
+      "69e2321fc4f7015214c6ce0b"
+    ],
+    "Colin Liu\tCarmel B": [
+      "6ac26fb40a408f7a4d39a7bd"
+    ],
+    "Dennis J\tWWPS B": [
+      "6a0254c034f3e5cbba3a712f"
+    ],
+    "Akhil M\tWWPS B": [
+      "69ee4c996e5f9b63ff7c530c"
+    ],
+    "Victor S\tWWPS B": [
+      "6ac265f50a408f7a4d3966f1"
+    ],
+    "Aayan Ghosh\tWWPS B": [
+      "6a08069ae4904c0aee0445e9"
+    ],
+    "Jason X\tCarmel B": [
+      "6aafd17b8c9b9221a9e3b999"
+    ],
+    "Roshan A\tMSJ A": [
+      "69db17240e8798db33219568"
+    ],
+    "Anish A\tMSJ A": [
+      "69ecd7176e5f9b63ff7c28cf"
+    ],
+    "raymond\tWhitney Young B": [
+      "6ac259fe0a408f7a4d39531b"
+    ],
+    "tailai\tWhitney Young B": [
+      "6ac262fc0a408f7a4d39600c"
+    ],
+    "chrisa\tWhitney Young B": [
+      "6ac255620a408f7a4d394e4c"
+    ],
+    "ronster\tDulles": [
+      "69af05c5d17e57bb019140bc"
+    ],
+    "Ishan P\tVMATHs": [
+      "6a0894ed6230d878705f1a9b"
+    ],
+    "uddip k\tVMATHs": [
+      "69dfcefa1244cc5a8c6b951b"
+    ],
+    "Arnav D\tDulles": [
+      "6a78857d75c222ec30005717"
+    ],
+    "Gennady C\tVMATHs": [
+      "69bc1dbd723e6f8069037301"
+    ],
+    "Shruthi R\tDulles": [
+      "69b01b72d81009ff614dfd2e"
+    ],
+    "Shaun I\tVMATHs": [
+      "69bb0f16924039cb36bcc311"
+    ],
+    "Aastik B\tDulles": [
+      "69af98f4d81009ff614dfd20"
+    ],
+    "Srihari K\tWard Melville A": [
+      "6ac265ed0a408f7a4d3966de"
+    ],
+    "Eric L\tWard Melville A": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "Ethan K\tWayzata B": [
+      "6abdcd650a408f7a4d354bf7"
+    ],
+    "Harry G\tWard Melville A": [
+      "69b4b8ce51074be782cddcf6"
+    ],
+    "Raghav K\tWayzata B": [
+      "6a087cc1a88e4f800d425a37"
+    ],
+    "Min-Yi Cao\tWayzata B": [
+      "6a086bd7a88e4f800d425060"
+    ],
+    "Pranav Kolavennu\tWayzata B": [
+      "6a92f9bbd1968a1d7ea910a8"
+    ],
+    "Emma W\tCarmel A": [
+      "6a56d093525723b2c4dedc56"
+    ],
+    "katy g\tCarmel A": [
+      "6ab004048c9b9221a9e3f278"
+    ],
+    "Edward Chen\tCarmel A": [
+      "6a334cf16838c3765cb88106"
+    ],
+    "pravira d\tCarmel A": [
+      "6a369e4f6838c3765cb8d367"
+    ],
+    "Aaron Cohen\tBISV B": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "Shriyans S.\tMSJ B": [
+      "6abf34710a408f7a4d367e62"
+    ],
+    "Aarush Iyer\tMSJ B": [
+      "6abf2ff40a408f7a4d367b7f"
+    ],
+    "Abhinav KSK\tMira Loma B": [
+      "69c1fecb081cf065148279ac"
+    ],
+    "Matthew Wang\tMSJ B": [
+      "6a07f43de4904c0aee043a30"
+    ],
+    "Krish S\tMira Loma B": [
+      "69c765672f1a65e9f40820c8"
+    ],
+    "LucasQuan\tMira Loma B": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "ishaan k\tMSJ B": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Oron\tPhillips Exeter": [
+      "6a9ee3add1968a1d7eb265b4"
+    ],
+    "Isaac K\tPhillips Exeter": [
+      "6aa7687e94390d8318dfcba6"
+    ],
+    "Alex\tPhillips Exeter": [
+      "6ab081bb8c9b9221a9e6c521"
+    ],
+    "Jacob H\tShenendehowa B": [
+      "6a7c6b0938dc4882f9d09194"
+    ],
+    "Eashan\tShenendehowa B": [
+      "6ac187720a408f7a4d387e6c"
+    ],
+    "Judah\tShenendehowa B": [
+      "6a7dbd780388829213bf836c"
+    ],
+    "Sami\tShenendehowa B": [
+      "6ac187620a408f7a4d387e53"
+    ],
+    "Luke Wang\tPhillips Exeter": [
+      "69d2c1745e53bdad7b9c6c8b"
+    ],
+    "Mingrui Chen\tShenendehowa B": [
+      "6ac107160a408f7a4d37c2d9"
+    ],
+    "Ryan P\tPalo Alto A": [
+      "69fe7857a04dfd0d3cba763e"
+    ],
+    "Adam\tWinners": [
+      "6a66d2fd944bee0941a8753d"
+    ],
+    "Kevin P\tPalo Alto A": [
+      "69b05965d81009ff614dfd8d"
+    ],
+    "Calvin Qi\tPalo Alto A": [
+      "69decfe41244cc5a8c6b8688"
+    ],
+    "Kaylee Z\tPalo Alto A": [
+      "69eebaa66e5f9b63ff7c6352"
+    ],
+    "Will\tWinners": [
+      "6a668413944bee0941a84b45"
+    ],
+    "Austin Z\tArcadia": [
+      "69d3044d5e53bdad7b9c6e59"
+    ],
+    "Santhosh\tCollierville A": [
+      "6a7a8c6038dc4882f9d025dc"
+    ],
+    "Charith\tCollierville A": [
+      "69f27f9ff9d1dfe6692236d1"
+    ],
+    "Shannon H.\tArcadia": [
+      "6a02a0c834f3e5cbba3a7df2"
+    ],
+    "Vincent T.\tArcadia": [
+      "6ac1c26e0a408f7a4d38f86f"
+    ],
+    "Nithin\tCollierville A": [
+      "6a09e1766230d878705f85c4"
+    ],
+    "Olivia Q\tArcadia": [
+      "6ab157498c9b9221a9e74fda"
+    ],
+    "Indhraneel G\tCollierville A": [
+      "6a274c0b24079ae2a98e7bea"
+    ],
+    "Brandon Z\tArcadia": [
+      "69e3a34cc4f7015214c6f308"
+    ],
+    "Arman A\tMontgomery Blair A": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "Kevin F\tMontgomery Blair A": [
+      "69b5832051074be782cddd4f"
+    ],
+    "Chris W\tMontgomery Blair A": [
+      "69b051bdd81009ff614dfd7e"
+    ],
+    "Sam E\tMontgomery Blair A": [
+      "69bb5cf3924039cb36bcc351"
+    ],
+    "Shaurya K\tCarmel B": [
+      "6ab004838c9b9221a9e3f66e"
+    ],
+    "Meghna S\tMontgomery Blair A": [
+      "6a5ba550d4b2fb3233c74b90"
+    ],
+    "vivek\tMiddleton": [
+      "6a10bf7b9a2d41b87c479339"
+    ],
+    "schr\u00f6dingle berries\tBenjamin Franklin": [
+      "69c747452f1a65e9f4081d77"
+    ],
+    "Andy Liu\tCarmel A": [
+      "6ab006a38c9b9221a9e4057f"
+    ],
+    "Lucas L\tPalo Alto A": [
+      "69b1b11d020790620e878106"
+    ],
+    "Liam T\tBISV A": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "Naman S\tBISV A": [
+      "6a07f184e4904c0aee0438e1"
+    ],
+    "Polarstar\tTMSA Apex": [
+      "6a6f9a7dd77d21198787e387"
+    ],
+    "Arjun D\tWWPS A": [
+      "6a036d9034f3e5cbba3a8d78"
+    ],
+    "Monish S\tWWPS A": [
+      "69b5823951074be782cddd2e"
+    ],
+    "Heidi L\tJames Clemens": [
+      "6a6130eb1aa7270a52488b1c"
+    ],
+    "Andrew T\tJames Clemens": [
+      "6a81d5310388829213c0ef47"
+    ],
+    "Praneel A\tJames Clemens": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Jihoon\tCollierville B": [
+      "6a68006ed77d211987860e2e"
+    ],
+    "vegetables\tDulles": [
+      "69fb887ba04dfd0d3cba20e3"
+    ],
+    "akhil b\tASFA": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Advik S\tASFA": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "Albert Chen\tASFA": [
+      "6ac190f70a408f7a4d388b77"
+    ],
+    "Rutvik A\tMSJ A": [
+      "6a080691e4904c0aee0445d8"
+    ],
+    "Yan-Ru C\tWayzata A": [
+      "6a4d4983f82c9dd29df84f5b"
+    ],
+    "Aston N\tCollege Park": [
+      "6abf20650a408f7a4d366edb"
+    ],
+    "SnowCoveredIsland\tMontgomery Blair B": [
+      "6a922f4a1ca4b2cba36cf375"
+    ],
+    "William\tPRISMS": [
+      "6aaee9ab94390d8318e39fb6"
+    ],
+    "Josh\tShenendehowa A": [
+      "6a7bc78938dc4882f9d05b5e"
+    ],
+    "Branden\tWayzata B": [
+      "6abd90d60a408f7a4d350c80"
+    ],
+    "grant\tPhillips Exeter": [
+      "6ab081c58c9b9221a9e6c548"
+    ],
+    "Shallow Walker\tShallow Walk": [
+      "69b4b38651074be782cddce9"
+    ],
+    "T0B1\tObra D. Tompkins": [
+      "6a14c4859a2d41b87c47e0ac"
+    ],
+    "ajay s\tPRISMS": [
+      "69b5fc4951074be782cddd9e"
+    ],
+    "Mike\tCarmel B": [
+      "6ac294bc0a408f7a4d3b49cb"
+    ],
+    "i_study_rocks\tJames Clemens": [
+      "69c6b0761624844f04661280"
+    ],
+    "Andy Liu\tMSJ A": [
+      "6ab006a38c9b9221a9e4057f"
+    ]
+  }
 }

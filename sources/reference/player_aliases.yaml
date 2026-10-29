@@ -2,6 +2,7 @@
 #   merge:       groups of name spellings of one person (first entry = canonical form);
 #                normalized names, applied everywhere (different real schools still split)
 #   same_person: names that are one person even when seen at two real schools
+#   link:        school-scoped links: rows named `name` at `school` are the person named `to`
 #   rename:      display-name overrides
 merge:
   # same ISOBowl account ("roshan" / "Roshan A"); also subbed for North Hollywood A at NSSB 2026
@@ -29,6 +30,32 @@ merge:
   - [Yan-Ru Cao, Yan-Ru C]
 same_person:
   - Roshan Annamalai
+link:
+  # cross-school matches, scoped to the school of the abbreviated name ("First L" there = the full name)
+  - {name: Ajay S, school: princeton-international-school-of-mathematics-and-science-nj, to: Ajay Sawant}   # transfer Frazer -> PRISMS
+  # middle school -> its local high school
+  - {name: Saahil D, school: evergreen-middle-school-wa, to: Saahil Dugar}          # Evergreen MS -> Eastlake HS (Sammamish)
+  - {name: Shivam C, school: evergreen-middle-school-wa, to: Shivam Chowdhary}
+  - {name: Saamik A, school: evergreen-middle-school-wa, to: Saamik Agrawal}
+  - {name: Aatreyo B, school: winston-churchill-middle-school-ca, to: Aatreyo Bhattacharyya}  # Carmichael -> Sacramento area
+  - {name: Saheb G, school: winston-churchill-middle-school-ca, to: Saheb Gulati}
+  - {name: Judy T, school: oak-avenue-intermediate-school-ca, to: Judy Tan}           # Temple City
+  - {name: Kensuke O, school: walter-reed-middle-school-ca, to: Kensuke Ohshima}      # Walter Reed MS -> North Hollywood
+  - {name: Ian M, school: middleton-high-school-wi, to: Ian Mcginley}                 # Kromrey MS -> Middleton HS
+  - {name: Sanjay G, school: u-mcvts, to: Sanjay Gadadas}                             # John Adams MS (Edison) -> MCVTS
+  - {name: Derek Y, school: u-mcvts, to: Derek You}
+  - {name: Saurish A, school: u-mcvts, to: Saurish Arora}
+  - {name: Krishna H, school: elkins-high-school-tx, to: Krishna Harish}              # Quail Valley MS -> Elkins / Dulles
+  - {name: Ronuk G, school: dulles-high-school-tx, to: Ronuk Gadamsetty}
+  - {name: Steve W, school: dulles-high-school-tx, to: Steve Wang}
+  # school team <-> online Chimera under the full name (rare names, same area)
+  - {name: Kavin A, school: vista-del-lago-high-school-ca, to: Kavin Anreddy}
+  - {name: Satvik C, school: vista-del-lago-high-school-ca, to: Satvik Chakkapalli}
+  - {name: Pushkal M, school: vista-del-lago-high-school-ca, to: Pushkal Mishra}
+  - {name: Krutharth V, school: west-windsor-plainsboro-high-school-north-nj, to: Krutharth Vaddiyar}
+  - {name: Ferris L, school: northwood-high-school-ca, to: Ferris Li}
+  - {name: Kristin P, school: u-coral-academy, to: Kristin Peng}
+  - {name: Connor C, school: north-hollywood-senior-high-school-ca, to: Connor Chang}
 rename:
   Keene KK: Keene Koide
   Santhosh Balaji: Santhosh Balaji Venkatesh Babu

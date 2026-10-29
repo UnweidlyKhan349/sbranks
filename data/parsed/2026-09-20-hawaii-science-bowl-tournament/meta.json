@@ -22,5 +22,431 @@
     "game d6495648 Mira Loma A 32-66 BISV C: bracket advanced Mira Loma A (manual decision)",
     "merged 2 accounts named 'Keene KK' on Iolani"
   ],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "Timothy Yu\tBISV C": [
+      "6a06954eb92dbba0acce9d61"
+    ],
+    "Sidh K\tBridgeland": [
+      "6ab003dc8c9b9221a9e3f133"
+    ],
+    "Tanuj\tBISV C": [
+      "6a8e2ad31ca4b2cba36bcfe2"
+    ],
+    "Carson Postrigan\tBridgeland": [
+      "6a8b75c00388829213c49ddc"
+    ],
+    "Advaith B\tBridgeland": [
+      "6a7bd1cf38dc4882f9d06528"
+    ],
+    "Andrew Lao\tBISV C": [
+      "6a05475e34f3e5cbba3ac70c"
+    ],
+    "Akshaj Mishra\tBridgeland": [
+      "6a863ffc0388829213c26b85"
+    ],
+    "Patrick L\tNorth Hollywood A": [
+      "6a77fb1875c222ec30002d17"
+    ],
+    "Charles H\tNorth Hollywood A": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "Karthik P\tRVA": [
+      "6a085744756581e6b6fd4b31"
+    ],
+    "Roger L\tNorth Hollywood A": [
+      "6a320065818435dceb21319e"
+    ],
+    "Srihan B\tNorth Hollywood A": [
+      "6a5819fe525723b2c4df0ad2"
+    ],
+    "Keerthana P.\tRVA": [
+      "6a087d14a88e4f800d425a76"
+    ],
+    "viren\tLambert": [
+      "6a9244d81ca4b2cba36d03f0"
+    ],
+    "Emma W\tCarmel B": [
+      "6a56d093525723b2c4dedc56"
+    ],
+    "hrishabh b\tCarmel B": [
+      "6a79416e38dc4882f9cfc967"
+    ],
+    "pravira d\tCarmel B": [
+      "6a369e4f6838c3765cb8d367"
+    ],
+    "Rochan S\tLambert": [
+      "6a92f663d1968a1d7ea8f3a4"
+    ],
+    "katy g\tCarmel B": [
+      "6ab004048c9b9221a9e3f278"
+    ],
+    "Frank\tLambert": [
+      "6a91abc91ca4b2cba36cbc04"
+    ],
+    "nithin n\tObra D. Tompkins A": [
+      "6a0fb9b13ad948ec85ca9339"
+    ],
+    "Arunabh Pratik\tPRISMS": [
+      "6ab007178c9b9221a9e40a89"
+    ],
+    "William\tPRISMS": [
+      "6aaee9ab94390d8318e39fb6"
+    ],
+    "Angelica F\tPRISMS": [
+      "6aaffef28c9b9221a9e3d3b2"
+    ],
+    "ajay s\tPRISMS": [
+      "69b5fc4951074be782cddd9e"
+    ],
+    "Hem\tObra D. Tompkins A": [
+      "6a14cccb9a2d41b87c47e1b3"
+    ],
+    "Harry L\tObra D. Tompkins A": [
+      "6a14c7789a2d41b87c47e140"
+    ],
+    "Jack C\tObra D. Tompkins A": [
+      "6aaf4e8994390d8318e3f9d0"
+    ],
+    "Dennis S\tCCA A": [
+      "6a39f00476d18f928c72a424"
+    ],
+    "Nathaniel O\tNorth Hollywood B": [
+      "69f6e7c5a04dfd0d3cb984fb"
+    ],
+    "Owen M\tCCA A": [
+      "6a07dd1ce4904c0aee042ad4"
+    ],
+    "Alex D\tCCA A": [
+      "6a033dfd34f3e5cbba3a8614"
+    ],
+    "Minghao G\tNorth Hollywood B": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "Ryan S\tNorth Hollywood B": [
+      "6aafe4668c9b9221a9e3beb3"
+    ],
+    "Ashley L\tCCA A": [
+      "6a0685aab92dbba0acce9a42"
+    ],
+    "Andrew Tkach\tJames Clemens": [
+      "6a81d5310388829213c0ef47"
+    ],
+    "Rohan\tMadison West A": [
+      "6aafee508c9b9221a9e3c4a7"
+    ],
+    "Anmy Tran\tMadison West A": [
+      "6aaffefe8c9b9221a9e3d3e5"
+    ],
+    "AlexL\tMadison West A": [
+      "6a07bef9e4904c0aee041c4a"
+    ],
+    "Praneel A\tJames Clemens": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Heidi L\tJames Clemens": [
+      "6a6130eb1aa7270a52488b1c"
+    ],
+    "Bryant Y\tMadison West A": [
+      "6aaffef88c9b9221a9e3d3d4"
+    ],
+    "timbaktuchensawili\tEastlake": [
+      "6a50996d9de76b6703ba2d64"
+    ],
+    "Advik S\tASFA": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "saahil\tEastlake": [
+      "69c1f9c3081cf06514827986"
+    ],
+    "I-be-profen\tEastlake": [
+      "6a92f3a8d1968a1d7ea8e8e6"
+    ],
+    "akhil b\tASFA": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Shivam Chowdhary\tEastlake": [
+      "6a92f79fd1968a1d7ea8fccd"
+    ],
+    "yash\tEastlake": [
+      "69b9f57dd62d93433abbb60d"
+    ],
+    "Ethan Guo\tBISV B": [
+      "6a92f22bd1968a1d7ea8e3fb"
+    ],
+    "Riyan N\tShallow Walk": [
+      "69cf14492ca2bf9b4be84093"
+    ],
+    "Nimit A\tShallow Walk": [
+      "69b708ad51074be782cdddf1"
+    ],
+    "Ryan K\tShallow Walk": [
+      "69b4b38651074be782cddce9"
+    ],
+    "Timo Ye\tBISV B": [
+      "6a07f584e4904c0aee043b02"
+    ],
+    "Naman S\tBISV B": [
+      "6a07f184e4904c0aee0438e1"
+    ],
+    "Yunay V\tShallow Walk": [
+      "6aa4b0ad94390d8318debea8"
+    ],
+    "Liam T\tBISV B": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "Rish B\tShallow Walk": [
+      "6a07b260e4904c0aee0418df"
+    ],
+    "Eric G\tBISV B": [
+      "6a07fc3de4904c0aee043f60"
+    ],
+    "Hongyi\tNorth Allegheny": [
+      "6ab002468c9b9221a9e3e99f"
+    ],
+    "Kaartic M\tNorth Allegheny": [
+      "6a08842e6230d878705f01e0"
+    ],
+    "ishaan k\tMSJ B": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Rutvik A\tMSJ B": [
+      "6a080691e4904c0aee0445d8"
+    ],
+    "Lucas L\tNorth Allegheny": [
+      "6aaed1cc94390d8318e38fc1"
+    ],
+    "Mihin B\tNorth Allegheny": [
+      "69cb02422ca2bf9b4be81b68"
+    ],
+    "Anish A\tMSJ B": [
+      "69ecd7176e5f9b63ff7c28cf"
+    ],
+    "lliu\tNorth Allegheny": [
+      "6aaed2ad94390d8318e39066"
+    ],
+    "Noah C\tPunahou B": [
+      "6a0398ff34f3e5cbba3a91b5"
+    ],
+    "Leah B\tPunahou B": [
+      "6a98d470d1968a1d7eaf8e9a"
+    ],
+    "Beck P\tPunahou B": [
+      "6a96471cd1968a1d7eae5dd2"
+    ],
+    "Emma A\tPunahou B": [
+      "6aaf84c887338c5593966c3c"
+    ],
+    "Bryce Thach\tSGVG": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Ty Dutoit\tPunahou A": [
+      "6a080111e4904c0aee0443bf"
+    ],
+    "Polarstar\tTMSA": [
+      "6a6f9a7dd77d21198787e387"
+    ],
+    "Arman A\tTMSA": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "Nicholas Black\tPunahou A": [
+      "6a08867b6230d878705f0486"
+    ],
+    "Aaron\tPunahou A": [
+      "6aad9be794390d8318e2e51a"
+    ],
+    "Venus\tPunahou A": [
+      "6aad7c4994390d8318e2c705"
+    ],
+    "akshat\tTMSA": [
+      "6a7a101238dc4882f9cff803"
+    ],
+    "Vincent L\tPunahou A": [
+      "6a4865cdd99d811e85ed9ed4"
+    ],
+    "Jason X\tCarmel C": [
+      "6aafd17b8c9b9221a9e3b999"
+    ],
+    "Carpe Diem\tClovis North": [
+      "69cf4e002ca2bf9b4be842ef"
+    ],
+    "ishan k\tClovis North": [
+      "6a1108c89a2d41b87c4796ca"
+    ],
+    "Shaurya K\tCarmel C": [
+      "6ab004838c9b9221a9e3f66e"
+    ],
+    "Majed A\tClovis North": [
+      "6a1108f69a2d41b87c4796e4"
+    ],
+    "Achuth V\tClovis North": [
+      "69c1f99e081cf06514827977"
+    ],
+    "adhitri s\tCarmel C": [
+      "6aadb03394390d8318e2fdc9"
+    ],
+    "meera m\tClovis North": [
+      "69d887efd4ef0d41240cd70b"
+    ],
+    "tigerbabyhro\tCarmel C": [
+      "6aaf73b887338c5593966565"
+    ],
+    "anish agarwal\tMSJ A": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "Andy Liu\tMSJ A": [
+      "6ab006a38c9b9221a9e4057f"
+    ],
+    "Keene KK\tIolani": [
+      "6a07f352e4904c0aee043945",
+      "6a72caabd77d21198788ca3c"
+    ],
+    "tengash senghur\tMSJ A": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "Taehwan J\tIolani": [
+      "6aaf744687338c559396659e"
+    ],
+    "roshan real\tMSJ A": [
+      "69ecd5f86e5f9b63ff7c2873"
+    ],
+    "thung sahupta\tMSJ A": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "jacob l\tCollierville A": [
+      "69b4161f51074be782cddc8a"
+    ],
+    "Indhraneel G\tCollierville A": [
+      "6a274c0b24079ae2a98e7bea"
+    ],
+    "Harshita S\tCCA B": [
+      "6aaf3bc394390d8318e3e642"
+    ],
+    "Charith\tCollierville A": [
+      "69f27f9ff9d1dfe6692236d1"
+    ],
+    "Yihan J\tCCA B": [
+      "6a07a87be4904c0aee041378"
+    ],
+    "Gavin Yang\tCCA B": [
+      "6a8bd273c167bd7ef5c942d7"
+    ],
+    "Santhosh V\tCollierville A": [
+      "69ffbf25a04dfd0d3cba8f64"
+    ],
+    "Nithin\tCollierville A": [
+      "6a09e1766230d878705f85c4"
+    ],
+    "Aaron Cohen\tBISV A": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "Arjun Pandey\tBASIS Fremont A": [
+      "6a9217a21ca4b2cba36ceada"
+    ],
+    "LucasQuan\tBISV A": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "Kevin Chen\tBASIS Fremont A": [
+      "6a92eaffd1968a1d7ea8d5af"
+    ],
+    "anthony h\tBASIS Fremont A": [
+      "6a924a8d1ca4b2cba36d079f"
+    ],
+    "Angela Cao\tBASIS Fremont A": [
+      "6ab003d18c9b9221a9e3f0e9"
+    ],
+    "Cynthia Lu\tBASIS Fremont A": [
+      "6a9255e31ca4b2cba36d108d"
+    ],
+    "Kavin Anreddy\tMira Loma A": [
+      "69d71cd3d4ef0d41240ccadd"
+    ],
+    "Abhinav KSK\tMira Loma A": [
+      "69c1fecb081cf065148279ac"
+    ],
+    "Namish Dour\tMira Loma A": [
+      "6a1bbbc69a2d41b87c491344"
+    ],
+    "Nina L\tCCA B": [
+      "6ab010f88c9b9221a9e4680a"
+    ],
+    "Vincent L\tPunahou B": [
+      "6a4865cdd99d811e85ed9ed4"
+    ],
+    "Ibrohim\tOutstanding Orangutans": [
+      "69e755e3732192d4438ac201"
+    ],
+    "Dr. Math\tOutstanding Orangutans": [
+      "69f0ce1b1eed4454ba5b7ccb"
+    ],
+    "Arnav K\tOutstanding Orangutans": [
+      "69ebcf51638ec98901b05518"
+    ],
+    "67\tOutstanding Orangutans": [
+      "6a39d20376d18f928c72989d"
+    ],
+    "ronster\tDulles": [
+      "69af05c5d17e57bb019140bc"
+    ],
+    "Aastik B\tDulles": [
+      "69af98f4d81009ff614dfd20"
+    ],
+    "Arnav D\tDulles": [
+      "6a78857d75c222ec30005717"
+    ],
+    "Shruthi R\tDulles": [
+      "69b01b72d81009ff614dfd2e"
+    ],
+    "dea\tTMSA": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "vegetables\tDulles": [
+      "69fb887ba04dfd0d3cba20e3"
+    ],
+    "Fracture\tNorth Hollywood B": [
+      "6aaef05794390d8318e3a583"
+    ],
+    "alexp\tASFA": [
+      "69cec05d2ca2bf9b4be83c0a"
+    ],
+    "Allen\tPRISMS": [
+      "6a14711a9a2d41b87c47c5f4"
+    ],
+    "T0B1\tObra D. Tompkins A": [
+      "6a14c4859a2d41b87c47e0ac"
+    ],
+    "Aaron Cohen\tBISV C": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "LucasQuan\tBISV C": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "lebron james\tTMSA": [
+      "69bc4e8f723e6f80690373bd"
+    ],
+    "Charlie\tPRISMS": [
+      "6ab006ee8c9b9221a9e40717"
+    ],
+    "Andrew Lao\tBISV A": [
+      "6a05475e34f3e5cbba3ac70c"
+    ],
+    "Liam T\tBISV A": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "Naman S\tBISV A": [
+      "6a07f184e4904c0aee0438e1"
+    ],
+    "Bryce Thach\tMira Loma A": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Ryan K\tASFA": [
+      "69b4b38651074be782cddce9"
+    ],
+    "lebron james\tASFA": [
+      "69bc4e8f723e6f80690373bd"
+    ],
+    "Abhinav KSK\tClovis North": [
+      "69c1fecb081cf065148279ac"
+    ]
+  }
 }

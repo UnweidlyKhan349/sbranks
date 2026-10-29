@@ -268,6 +268,8 @@ def parse(t: Tournament, w: TournamentWriter, subject_override: str | None = Non
             merged[(n, team, subj)][k] += x
     for (uid, team), gids in games_by_player.items():
         merged_games[(pname(uid), team)] |= gids
+    # account ids behind each (player, team) row: the resolver links the same account across events
+    w.extra_meta = {"accounts": {f"{n}\t{team}": sorted(uids) for (n, team), uids in uids_for.items()}}
     for (n, team), uids in uids_for.items():
         if len(uids) > 1:
             w.warn(f"merged {len(uids)} accounts named {n!r} on {team}")

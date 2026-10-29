@@ -19,5 +19,178 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "67\tSkibidi 67ers": [
+      "6a39d20376d18f928c72989d"
+    ],
+    "Dr. Math\tSkibidi 67ers": [
+      "69f0ce1b1eed4454ba5b7ccb"
+    ],
+    "emma\tSN2": [
+      "6ab9344c72b5fa593d873a88"
+    ],
+    "Sam E\tBr2 Br2 Patapimine": [
+      "69bb5cf3924039cb36bcc351"
+    ],
+    "joseph\tYin and Yang": [
+      "6a7bccb438dc4882f9d0603e"
+    ],
+    "akhil b\tBr2 Br2 Patapimine": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Jason\tYin and Yang": [
+      "6a7a55a038dc4882f9d01113"
+    ],
+    "oboereed\tWalter White": [
+      "6a2601c524079ae2a98e589b"
+    ],
+    "Jacob\tWalter White": [
+      "6ab92b5d280dfe805ce8a700"
+    ],
+    "Vincent Chen\tHelium Hydride": [
+      "6ab9342272b5fa593d8739e8"
+    ],
+    "Yongrui Wang\tHelium Hydride": [
+      "6ab933aa72b5fa593d8738d3"
+    ],
+    "Ethan Wang\tExploding Kittens": [
+      "6a06a1beaffc79833b1f04da"
+    ],
+    "Sriman D\tGermanium Gooners": [
+      "69d85d98d4ef0d41240cd3fc"
+    ],
+    "filthy\tGermanium Gooners": [
+      "69cf165c2ca2bf9b4be840b4"
+    ],
+    "Paxton Lin\tExploding Kittens": [
+      "6a0805e0e4904c0aee0445a7"
+    ],
+    "Isaac K\tDDDingyding": [
+      "6aa7687e94390d8318dfcba6"
+    ],
+    "Travis D\tBuckminsterfullerene": [
+      "69dafe5f6a17a69d3e04c7e1"
+    ],
+    "natalina island\tBuckminsterfullerene": [
+      "69f6e7c5a04dfd0d3cb984fb"
+    ],
+    "bonkywonky\tDASONI Drinkers": [
+      "69b0e9c802451431f1ab1657"
+    ],
+    "Michael\tOnyx": [
+      "6ab8052c351541e9a9d2e670"
+    ],
+    "ethan\tOnyx": [
+      "6aac35c994390d8318e2162e"
+    ],
+    "Veggie\tCAMAS": [
+      "69ec231a638ec98901b06388"
+    ],
+    "Cpmbo\tthe borons": [
+      "6a6ba94cd77d2119878707d7"
+    ],
+    "eiggeV\tCAMAS": [
+      "6a02563734f3e5cbba3a7153"
+    ],
+    "Samuel Huang\ti lovity radioactivity": [
+      "6ab085228c9b9221a9e6ce3b"
+    ],
+    "Majed A\tschrodingle berries": [
+      "6a1108f69a2d41b87c4796e4"
+    ],
+    "ishan k\tClovis North": [
+      "6a1108c89a2d41b87c4796ca"
+    ],
+    "pancreas uvula\tLanthanide Larpers": [
+      "69b5823351074be782cddd2a"
+    ],
+    "ayush h\tClovis North": [
+      "6a54477dcb9f55b139996396"
+    ],
+    "Shallow Walker\tLanthanide Larpers": [
+      "69b4b38651074be782cddce9"
+    ],
+    "harry gao\tTBCS": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "ishaan kabra\tTBCS": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "jaco bell\tcauliflower": [
+      "69b4161f51074be782cddc8a"
+    ],
+    "Charlie\t29": [
+      "6ab006ee8c9b9221a9e40717"
+    ],
+    "Allen\t29": [
+      "6a14711a9a2d41b87c47c5f4"
+    ],
+    "woopa\tconcrete slab": [
+      "69b32561270cf332f3249aee"
+    ],
+    "Bowen Shan\tconcrete slab": [
+      "6ab92c7d280dfe805ce8a7f3"
+    ],
+    "adi c\tTungsten Tungsten Tungsten Sahur": [
+      "6a4f11e8932c2216bd9fdee6"
+    ],
+    "Sophie C\tMinnesota Organic Frameworks": [
+      "6a074556e4904c0aee040556"
+    ],
+    "katy g\tTungsten Tungsten Tungsten Sahur": [
+      "6ab004048c9b9221a9e3f278"
+    ],
+    "Yan-Ru C\tMinnesota Organic Frameworks": [
+      "6a4d4983f82c9dd29df84f5b"
+    ],
+    "Catherine\tActivation Energy": [
+      "6ab9374072b5fa593d874e3a"
+    ],
+    "Nirav N\tAuraphilic": [
+      "6ab931cb72b5fa593d87310c"
+    ],
+    "Larry D\tAuraphilic": [
+      "6a1c4c8c8e3a52021faf0021"
+    ],
+    "__shan\tDASONI Drinkers": [
+      "6a36007f6838c3765cb8cbb3"
+    ],
+    "Mangoi\tNonpolar Bears": [
+      "6ab936d172b5fa593d874b56"
+    ],
+    "Kangaboo\tNonpolar Bears": [
+      "6ab935f572b5fa593d874717"
+    ],
+    "nithin n\talpha and beta": [
+      "6a0fb9b13ad948ec85ca9339"
+    ],
+    "Ali M\talpha and beta": [
+      "6ab7debd351541e9a9d2d445"
+    ],
+    "Henry\tMangoturtle": [
+      "6ab9421596118a5f64a6ff1c"
+    ],
+    "Vince S\tCARBON-NITROGEN": [
+      "6a1ba2059a2d41b87c490ab1"
+    ],
+    "shreyan d\tCARBON-NITROGEN": [
+      "6ab936fa72b5fa593d874ca9"
+    ],
+    "shamp0\tBun-son Burners \ud83d\ude2d": [
+      "69b0462cd81009ff614dfd50"
+    ],
+    "Anish A\tBun-son Burners \ud83d\ude2d": [
+      "69ecd7176e5f9b63ff7c28cf"
+    ],
+    "Easton W\tSchool of Chemistry": [
+      "69fa6f99a04dfd0d3cb9e222"
+    ],
+    "Lishan P\tSchool of Chemistry": [
+      "69b09ce3d81009ff614dfdf7"
+    ],
+    "schr\u00f6dingle berries\tschrodingle berries": [
+      "69c747452f1a65e9f4081d77"
+    ]
+  }
 }

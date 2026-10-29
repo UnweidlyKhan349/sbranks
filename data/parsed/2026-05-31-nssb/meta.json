@@ -19,5 +19,343 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "Lucas W\tSeven Lakes A": [
+      "69b0e9c802451431f1ab1657"
+    ],
+    "Malachi D\tSeven Lakes A": [
+      "69ec2b82638ec98901b064d4"
+    ],
+    "Shaleen B\tLE SSERAFIM": [
+      "6a08b44c6230d878705f3d16"
+    ],
+    "Nevin J\tSeven Lakes A": [
+      "6a087f3f1b81c78940f66259"
+    ],
+    "Aarnav P\tLE SSERAFIM": [
+      "69b62ee451074be782cdddca"
+    ],
+    "Cain P\tLE SSERAFIM": [
+      "6a1c47f78e3a52021faefdfd"
+    ],
+    "Samy E\tLE SSERAFIM": [
+      "6a01ecc534f3e5cbba3a533b"
+    ],
+    "Aarush A\tSeven Lakes A": [
+      "6a1c4ad88e3a52021faeff09"
+    ],
+    "Jianyu\tChibbles": [
+      "69d9d43b6a17a69d3e04bb55"
+    ],
+    "Akshay R\tLexington A": [
+      "69cf4e002ca2bf9b4be842ef"
+    ],
+    "adam ge\tLexington A": [
+      "6a1c4e0b8e3a52021faf0173"
+    ],
+    "Akshath\tChibbles": [
+      "6a1a15ea9a2d41b87c48e7e9"
+    ],
+    "Ayaan\tLexington A": [
+      "69dfec2b1244cc5a8c6b9a4c"
+    ],
+    "Edwin H\tChibbles": [
+      "69c5f6ad081cf0651482a1ed"
+    ],
+    "Simon Z\tLexington A": [
+      "69d168db495bcc4f970a2b68"
+    ],
+    "Tact\tChibbles": [
+      "6a1a15c89a2d41b87c48e7d6"
+    ],
+    "Minghao G\tNorth Hollywood A": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "Ruchir B.\tNiskayuna": [
+      "6a0881446230d878705efc30"
+    ],
+    "kensuke o\tNorth Hollywood A": [
+      "69ecd5f86e5f9b63ff7c2873"
+    ],
+    "nathaniel ou\tNorth Hollywood A": [
+      "69f6e7c5a04dfd0d3cb984fb"
+    ],
+    "jake r\tNorth Hollywood A": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "Eric Z\tNiskayuna": [
+      "6a1c439c8e3a52021faefc8f"
+    ],
+    "Tejas Jacob\tNiskayuna": [
+      "6a1c48af8e3a52021faefe4a"
+    ],
+    "Rohith K\tNiskayuna": [
+      "6a0883786230d878705f00c8"
+    ],
+    "Achintya Madduri\tJP Stevens B": [
+      "6a1c41b18e3a52021faefba5"
+    ],
+    "Neil Garg\tJP Stevens B": [
+      "6a1c4b2b8e3a52021faeff2a"
+    ],
+    "akhil b\tASFA": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Advik S\tASFA": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "Sreehaas M\tJP Stevens B": [
+      "6a1c48cf8e3a52021faefe67"
+    ],
+    "Saish Koul\tJP Stevens B": [
+      "6a1c42358e3a52021faefbeb"
+    ],
+    "Rishabh\tJP Stevens B": [
+      "6a1c480a8e3a52021faefe03"
+    ],
+    "Kaartic M\tNorth Allegheny": [
+      "6a08842e6230d878705f01e0"
+    ],
+    "Jason L\tNorth Allegheny": [
+      "6a0870d1a88e4f800d425326"
+    ],
+    "Andrew F\tNorth Allegheny": [
+      "6a08812d6230d878705efbc5"
+    ],
+    "Leonardo Y\tNorth Allegheny": [
+      "6a08812b6230d878705efbbc"
+    ],
+    "Kian D\tSchool of Geology": [
+      "69b854336abfc27f505b56f1"
+    ],
+    "Haresh M.\tNorth Allegheny": [
+      "6a1c4d188e3a52021faf00a2"
+    ],
+    "Kshitij T.\tChicken Jockies": [
+      "6a1a8a299a2d41b87c48f1e0"
+    ],
+    "Kevin P\tPalo Alto": [
+      "69b05965d81009ff614dfd8d"
+    ],
+    "Advai S\tChicken Jockies": [
+      "6a06d3e2e4904c0aee03f8b2"
+    ],
+    "Chibin L\tChicken Jockies": [
+      "6a1a894d9a2d41b87c48f1b4"
+    ],
+    "Heidi L\tBlair Clemens": [
+      "6a1c4b068e3a52021faeff1d"
+    ],
+    "Chris W\tBlair Clemens": [
+      "69b051bdd81009ff614dfd7e"
+    ],
+    "Patrick Liang\tNorth Hollywood B": [
+      "6a1c4d5c8e3a52021faf00f0"
+    ],
+    "suzuko\tNorth Hollywood B": [
+      "69f6a74ba04dfd0d3cb97bac"
+    ],
+    "Charles H\tNorth Hollywood B": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "Praneel A\tBlair Clemens": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Ryan K\tBlair Clemens": [
+      "69b4b38651074be782cddce9"
+    ],
+    "Camille P\tHunter": [
+      "6a067154b92dbba0acce98dc"
+    ],
+    "Abhinav KSK\tMira North": [
+      "69c1fecb081cf065148279ac"
+    ],
+    "Majed A\tMira North": [
+      "6a1108f69a2d41b87c4796e4"
+    ],
+    "Kieran\tHunter": [
+      "6a1c489e8e3a52021faefe41"
+    ],
+    "Achuth V\tMira North": [
+      "69c1f99e081cf06514827977"
+    ],
+    "Aryan A\tSeven Lakes B": [
+      "69ecd2a16e5f9b63ff7c27e8"
+    ],
+    "a new rag\tVMATHS": [
+      "69c5eef8081cf0651482a156"
+    ],
+    "Shaun I\tVMATHS": [
+      "69bb0f16924039cb36bcc311"
+    ],
+    "Sope A\tSeven Lakes B": [
+      "6a1c431c8e3a52021faefc54"
+    ],
+    "Varun G\tVMATHS": [
+      "69bc1c15723e6f80690372f8"
+    ],
+    "Evan Feng\tSeven Lakes B": [
+      "6a1c46628e3a52021faefda7"
+    ],
+    "uddip k\tVMATHS": [
+      "69dfcefa1244cc5a8c6b951b"
+    ],
+    "Ahdav V\tSeven Lakes B": [
+      "6a1c40eb8e3a52021faefb55"
+    ],
+    "Srikrishna B\tJP Stevens A": [
+      "6a1c48b08e3a52021faefe51"
+    ],
+    "Kavin Anreddy\tEdwin's Victims": [
+      "69d71cd3d4ef0d41240ccadd"
+    ],
+    "Namish Dour\tEdwin's Victims": [
+      "6a1bbbc69a2d41b87c491344"
+    ],
+    "Krishna R\tJP Stevens A": [
+      "6a1c40ba8e3a52021faefb37"
+    ],
+    "Nipun\tEdwin's Victims": [
+      "6a1c4f048e3a52021faf01f9"
+    ],
+    "Kanishka J\tJP Stevens A": [
+      "6a1c40a18e3a52021faefb28"
+    ],
+    "Justin K\tEdwin's Victims": [
+      "69bec47eb0d4a79909cf58e5"
+    ],
+    "Shlok Kumar\tJP Stevens A": [
+      "6a1c49d88e3a52021faefed5"
+    ],
+    "Travis D\tIolani": [
+      "69dafe5f6a17a69d3e04c7e1"
+    ],
+    "Daniel Y\tIolani": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "Haru G\tIolani": [
+      "6a07d24de4904c0aee042237"
+    ],
+    "Andrew\tInterlake": [
+      "6a1c47528e3a52021faefde8"
+    ],
+    "Sola M\tIolani": [
+      "6a02010634f3e5cbba3a5aae"
+    ],
+    "Ayden L\tInterlake": [
+      "69d71b12d4ef0d41240ccac1"
+    ],
+    "daniel l\tInterlake": [
+      "6a07f414e4904c0aee043a01"
+    ],
+    "Nirav N\tMorgantown": [
+      "6a1c42fa8e3a52021faefc40"
+    ],
+    "William T\tMorgantown": [
+      "6a1c40db8e3a52021faefb4b"
+    ],
+    "Larry D\tMorgantown": [
+      "6a1c4c8c8e3a52021faf0021"
+    ],
+    "Roshan A\tGalen A": [
+      "69db17240e8798db33219568"
+    ],
+    "theenash s\tGalen A": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "Bryce Thach\tMira North": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Sohil\tNorth Hollywood B": [
+      "6a07f36de4904c0aee043954"
+    ],
+    "sayan s\tPalo Alto": [
+      "6a1c55238e3a52021faf0437"
+    ],
+    "Rohan G\tSchool of Geology": [
+      "6a07e576e4904c0aee04337e"
+    ],
+    "Alexander Yu\tInterlake": [
+      "6a1c52a38e3a52021faf031f"
+    ],
+    "Erika T\tSeven Lakes B": [
+      "6a1c407a8e3a52021faefb1f"
+    ],
+    "Rutvik A\tGalen A": [
+      "6a080691e4904c0aee0445d8"
+    ],
+    "Aryan A\tGalen A": [
+      "69ecd2a16e5f9b63ff7c27e8"
+    ],
+    "Om Lad\tJP Stevens A": [
+      "6a1c4b9d8e3a52021faeff5a"
+    ],
+    "gloria\tMorgantown": [
+      "69ec3b45638ec98901b069e8"
+    ],
+    "Forrest C\tChibbles": [
+      "6a1a1f779a2d41b87c48e9ec"
+    ],
+    "ishaan\tGalen A": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Caden Y\tMorgantown": [
+      "6a1c5f653b37516944f2ce86"
+    ],
+    "Advaith M\tGalen A": [
+      "69bd9e52723e6f806903758b"
+    ],
+    "ishaan\tVMATHS": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Tejas Jacob\tInterlake": [
+      "6a1c48af8e3a52021faefe4a"
+    ],
+    "Rishabh G\tJP Stevens B": [
+      "6a1c6f91d76919a71ae80898"
+    ],
+    "Ziang Z\tEdwin's Victims": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "Varyan J\tVMATHS": [
+      "69b0464bd81009ff614dfd57"
+    ],
+    "Eric L\tBlair Clemens": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "Andrew W\tPalo Alto": [
+      "6a08821f6230d878705eff62"
+    ],
+    "Ethan Z\tIolani": [
+      "6a0887266230d878705f0559"
+    ],
+    "alex p\tASFA": [
+      "69cec05d2ca2bf9b4be83c0a"
+    ],
+    "Roshan A\tNorth Hollywood A": [
+      "69db17240e8798db33219568"
+    ],
+    "sumin\tInterlake": [
+      "69b09b74d81009ff614dfddd"
+    ],
+    "sumin\tPalo Alto": [
+      "69b09b74d81009ff614dfddd"
+    ],
+    "ishaan\tNorth Hollywood A": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "ryan\tIolani": [
+      "6a1cc506d76919a71ae82dc9"
+    ],
+    "Min Shin\tIolani": [
+      "6a08a5a96230d878705f2e21"
+    ],
+    "theenash s\tNorth Hollywood A": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "ISOBowl Dev\tSchool of Geology": [
+      "69b0ad5a02451431f1ab1624"
+    ]
+  }
 }

@@ -21,5 +21,286 @@
   "warnings": [
     "game dde9a871 BISV B 74-74 VMATHS: bracket advanced BISV B (manual decision)"
   ],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "i_study_rocks\tJames Clemens": [
+      "69c6b0761624844f04661280"
+    ],
+    "Harry G\tWard Melville A": [
+      "69b4b8ce51074be782cddcf6"
+    ],
+    "Praneel A\tJames Clemens": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Heidi L\tJames Clemens": [
+      "6a6130eb1aa7270a52488b1c"
+    ],
+    "Ibrohim\tUltimate Uzbeks": [
+      "69e755e3732192d4438ac201"
+    ],
+    "Arnav K\tUltimate Uzbeks": [
+      "69ebcf51638ec98901b05518"
+    ],
+    "ishan k\tClovis North": [
+      "6a1108c89a2d41b87c4796ca"
+    ],
+    "Achuth V\tClovis North": [
+      "69c1f99e081cf06514827977"
+    ],
+    "Majed A\tClovis North": [
+      "6a1108f69a2d41b87c4796e4"
+    ],
+    "meera m\tClovis North": [
+      "69d887efd4ef0d41240cd70b"
+    ],
+    "Mayon\tUltimate Uzbeks": [
+      "69f0ce1b1eed4454ba5b7ccb"
+    ],
+    "Justin Jin\tUltimate Uzbeks": [
+      "69ebb9d6732192d4438b3f33"
+    ],
+    "Arnav Hiremath\tWayzata": [
+      "6a0873c9a88e4f800d42562d"
+    ],
+    "Ryan K\tDheerans Establishment": [
+      "69b4b38651074be782cddce9"
+    ],
+    "Raghav K\tWayzata": [
+      "6a087cc1a88e4f800d425a37"
+    ],
+    "Rish\tDheerans Establishment": [
+      "6a07b260e4904c0aee0418df"
+    ],
+    "Riyan N\tDheerans Establishment": [
+      "69c4ae18081cf06514829573"
+    ],
+    "Nimit A\tDheerans Establishment": [
+      "69b708ad51074be782cdddf1"
+    ],
+    "Ethan Sun\tWayzata": [
+      "6a087f8d1b81c78940f66297"
+    ],
+    "Pranav Kolavennu\tWayzata": [
+      "6a92f9bbd1968a1d7ea910a8"
+    ],
+    "Yunay V\tDheerans Establishment": [
+      "6a9215001ca4b2cba36ce96b"
+    ],
+    "Min-Yi Cao\tWayzata": [
+      "6a086bd7a88e4f800d425060"
+    ],
+    "Sohum\tNCSSM": [
+      "6a387fc7d4d53c8557983d75"
+    ],
+    "Kevin Yang\tNCSSM": [
+      "6a91f5801ca4b2cba36cdfad"
+    ],
+    "Stephanie Y\tUniversity": [
+      "6a07e5c4e4904c0aee0433ac"
+    ],
+    "Priya K\tUniversity": [
+      "6a01e6fd34f3e5cbba3a532c"
+    ],
+    "67\tNCSSM": [
+      "6a39d20376d18f928c72989d"
+    ],
+    "Carl L\tUniversity": [
+      "6a01dadb34f3e5cbba3a5051"
+    ],
+    "Tiger\tNCSSM": [
+      "6a3af5e476d18f928c72c10f"
+    ],
+    "Timothy C\tUniversity": [
+      "69b0f1cc02451431f1ab1668"
+    ],
+    "Siva\tNCSSM": [
+      "6a3d5d0a76d18f928c732b23"
+    ],
+    "Larry Z\tBISV B": [
+      "69ec4ecb638ec98901b06a43"
+    ],
+    "Vince S\tLexington": [
+      "6a1ba2059a2d41b87c490ab1"
+    ],
+    "Sriman D\tLexington": [
+      "69d85d98d4ef0d41240cd3fc"
+    ],
+    "Andrea X\tLexington": [
+      "69ec0ad8638ec98901b05dde"
+    ],
+    "Houwen\tLexington": [
+      "69fa86b9a04dfd0d3cb9ea19"
+    ],
+    "Lucas Quan\tBISV B": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "Tanuj\tBISV B": [
+      "6a8e2ad31ca4b2cba36bcfe2"
+    ],
+    "filthy\tLexington": [
+      "69cf165c2ca2bf9b4be840b4"
+    ],
+    "Minghao G\tNorth Hollywood": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "Narayan C\tCamas": [
+      "69ed84dc6e5f9b63ff7c488e"
+    ],
+    "Kevin\tCamas": [
+      "69ec231a638ec98901b06388"
+    ],
+    "Charles H\tNorth Hollywood": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "Eric Z\tCamas": [
+      "6a92502b1ca4b2cba36d0b49"
+    ],
+    "jake r\tNorth Hollywood": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "hayden O\tNorth Hollywood": [
+      "6a87d9fe0388829213c33a27"
+    ],
+    "Alex\tCamas": [
+      "69ebfb54638ec98901b05b27"
+    ],
+    "kensuke o\tNorth Hollywood": [
+      "69ecd5f86e5f9b63ff7c2873"
+    ],
+    "Shruthi R\tDulles": [
+      "69b01b72d81009ff614dfd2e"
+    ],
+    "Aastik B\tDulles": [
+      "69af98f4d81009ff614dfd20"
+    ],
+    "Arnav D\tDulles": [
+      "6a78857d75c222ec30005717"
+    ],
+    "ArthurW middletong\tMiddleton": [
+      "6a0878b7a88e4f800d4257db"
+    ],
+    "matthew wang\tMiddleton": [
+      "69e2321fc4f7015214c6ce0b"
+    ],
+    "Alex D\tMiddleton": [
+      "6a087697a88e4f800d425775"
+    ],
+    "Arjun S\tMiddleton": [
+      "6a92ec43d1968a1d7ea8d7e0"
+    ],
+    "Veeraj\tDulles": [
+      "69fb887ba04dfd0d3cba20e3"
+    ],
+    "ronster\tDulles": [
+      "69af05c5d17e57bb019140bc"
+    ],
+    "Brandon Z\tArcadia A": [
+      "69e3a34cc4f7015214c6f308"
+    ],
+    "Shivam Chowdhary\tEastlake": [
+      "6a92f79fd1968a1d7ea8fccd"
+    ],
+    "timbuktuchensa\tEastlake": [
+      "6a50996d9de76b6703ba2d64"
+    ],
+    "Neal Kedia\tEastlake": [
+      "6a92f3a8d1968a1d7ea8e8e6"
+    ],
+    "Paxton Lin\tArcadia A": [
+      "6a0805e0e4904c0aee0445a7"
+    ],
+    "Austin Z\tArcadia A": [
+      "69d3044d5e53bdad7b9c6e59"
+    ],
+    "Ethan Wang\tArcadia A": [
+      "6a06a1beaffc79833b1f04da"
+    ],
+    "saahil\tEastlake": [
+      "69c1f9c3081cf06514827986"
+    ],
+    "Abhinav KSK\tMira Loma": [
+      "69c1fecb081cf065148279ac"
+    ],
+    "Samuel W\tMontgomery Blair": [
+      "69d1ce4d5e53bdad7b9c689f"
+    ],
+    "Namish Dour\tMira Loma": [
+      "6a1bbbc69a2d41b87c491344"
+    ],
+    "Joshua\tMira Loma": [
+      "6a92ec2cd1968a1d7ea8d7a9"
+    ],
+    "Meghna S\tMontgomery Blair": [
+      "6a5ba550d4b2fb3233c74b90"
+    ],
+    "Adoniya Yohannes\tMontgomery Blair": [
+      "6a5ff9282f2c2bb81ee6b40d"
+    ],
+    "aeromonas\tMontgomery Blair": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "Kavin Anreddy\tMira Loma": [
+      "69d71cd3d4ef0d41240ccadd"
+    ],
+    "Shannon H.\tArcadia A": [
+      "6a02a0c834f3e5cbba3a7df2"
+    ],
+    "VarunMATHs\tVMATHS": [
+      "69bc1c15723e6f80690372f8"
+    ],
+    "uddip k\tVMATHS": [
+      "69dfcefa1244cc5a8c6b951b"
+    ],
+    "Shaun I\tVMATHS": [
+      "69bb0f16924039cb36bcc311"
+    ],
+    "marty h\tVMATHS": [
+      "69b98cd3d62d93433abbb587"
+    ],
+    "Gennady C\tVMATHS": [
+      "69bc1dbd723e6f8069037301"
+    ],
+    "Zimeng Dou\tBISV A": [
+      "6a927bfe1ca4b2cba36d237f"
+    ],
+    "Aaron Cohen\tBISV A": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "Ethan Guo\tBISV A": [
+      "6a92f22bd1968a1d7ea8e3fb"
+    ],
+    "Liam T\tBISV A": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "akhil b\tASFA": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "skyler\tASFA": [
+      "6a54520ecb9f55b139996a63"
+    ],
+    "Advik S\tASFA": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "alexp\tASFA": [
+      "69cec05d2ca2bf9b4be83c0a"
+    ],
+    "ayush h\tClovis North": [
+      "6a54477dcb9f55b139996396"
+    ],
+    "Eric L\tWard Melville A": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "Andrew T\tJames Clemens": [
+      "6a81d5310388829213c0ef47"
+    ],
+    "henry lu\tMontgomery Blair": [
+      "6a0885276230d878705f02ea"
+    ],
+    "Aaron Cohen\tBISV B": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "Adhrit M\tUltimate Uzbeks": [
+      "69c94d4d2f1a65e9f4082656"
+    ]
+  }
 }

@@ -21,5 +21,749 @@
   "warnings": [
     "merged 2 accounts named 'noah c' on Punahou School A"
   ],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "jay z\tWeston High School A": [
+      "6a2601c524079ae2a98e589b"
+    ],
+    "richard p\tArchbishop Mitty High School B": [
+      "6a6ba94cd77d2119878707d7"
+    ],
+    "sudhanva b\tArchbishop Mitty High School B": [
+      "6a23bc1d24079ae2a98e24cd"
+    ],
+    "anish r\tArchbishop Mitty High School B": [
+      "6a6c119ad77d211987872916"
+    ],
+    "Arnie S\tWeston High School A": [
+      "6ab58617ca82372577224f29"
+    ],
+    "ben z\tArchbishop Mitty High School B": [
+      "6a4bfacef82c9dd29df82e85"
+    ],
+    "ohjoon k\tWeston High School A": [
+      "6aac3ecd94390d8318e22045"
+    ],
+    "aditya milukuri\tShaker High School B": [
+      "6ad40d4900a26fa9bd7d9675"
+    ],
+    "Alex D\tCanyon Crest Academy A": [
+      "6a033dfd34f3e5cbba3a8614"
+    ],
+    "dannis s\tCanyon Crest Academy A": [
+      "6a39f00476d18f928c72a424"
+    ],
+    "Ashley L\tCanyon Crest Academy A": [
+      "6a0685aab92dbba0acce9a42"
+    ],
+    "Yihan J\tCanyon Crest Academy A": [
+      "6a07a87be4904c0aee041378"
+    ],
+    "karan bhatia\tShaker High School B": [
+      "6ad4d781f83d5918d5314031"
+    ],
+    "devesh kusampudi\tShaker High School B": [
+      "6ad2990200a26fa9bd7bfd3b"
+    ],
+    "yuvraj jha\tShaker High School B": [
+      "6ad4d516f83d5918d5312eeb"
+    ],
+    "Anish A\tMission San Jose High School A": [
+      "69ecd7176e5f9b63ff7c28cf"
+    ],
+    "Advik S\tAlabama School of Fine Arts A": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "akhil b\tAlabama School of Fine Arts A": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Kevin Chen\tBASIS Independent Fremont A": [
+      "6a92eaffd1968a1d7ea8d5af"
+    ],
+    "Abhishek C\tDoral Academy A": [
+      "6a03c7a434f3e5cbba3a9c04"
+    ],
+    "Santiago S\tDoral Academy A": [
+      "6a08873f6230d878705f05d2"
+    ],
+    "Shalina Liu\tDoral Academy A": [
+      "6a07db4de4904c0aee042968"
+    ],
+    "Arjun Pandey\tBASIS Independent Fremont A": [
+      "6a9217a21ca4b2cba36ceada"
+    ],
+    "anthony h\tBASIS Independent Fremont A": [
+      "6a924a8d1ca4b2cba36d079f"
+    ],
+    "Neil H\tDoral Academy A": [
+      "69ecdc396e5f9b63ff7c2a9c"
+    ],
+    "andrew z\tCollege Park High School A": [
+      "6a974df1d1968a1d7eaeb11f"
+    ],
+    "khrishnav p\tShaker High School A": [
+      "6ab5bad2ca82372577227a57"
+    ],
+    "Saketh K\tCollege Park High School A": [
+      "6a974fd8d1968a1d7eaeb26a"
+    ],
+    "shubam v\tCollege Park High School A": [
+      "69bb764d924039cb36bcc370"
+    ],
+    "shaan p\tCollege Park High School A": [
+      "6a529925cb9f55b139991b8d"
+    ],
+    "mustaeen m\tShaker High School A": [
+      "6ad4759900a26fa9bd7e6b27"
+    ],
+    "william mao\tShaker High School A": [
+      "6abc69ac0a408f7a4d344410"
+    ],
+    "george m\tShaker High School A": [
+      "6a01385d34f3e5cbba3a41ab"
+    ],
+    "aabha t\tTesla STEM High School A": [
+      "6ad2c52700a26fa9bd7c3c82"
+    ],
+    "rithesh r\tTesla STEM High School A": [
+      "6ad4e0caf83d5918d531d413"
+    ],
+    "reyansh r\tTesla STEM High School A": [
+      "6ad4e177f83d5918d531deb9"
+    ],
+    "aditya p\tTesla STEM High School A": [
+      "6ad2b4dd00a26fa9bd7c21b9"
+    ],
+    "Achuth V\tClovis North High School A": [
+      "69c1f99e081cf06514827977"
+    ],
+    "srinika s\tWilliam G. Enloe High School B": [
+      "6a2ea9fcaac074a3a4f1398b"
+    ],
+    "pravira d\tCarmel High School B": [
+      "6a369e4f6838c3765cb8d367"
+    ],
+    "sachetan b\tWilliam G. Enloe High School B": [
+      "6a2b06acaac074a3a4f0e155"
+    ],
+    "lilly yang\tWilliam G. Enloe High School B": [
+      "6aca9b320a408f7a4d444e8e"
+    ],
+    "kingshuk r\tWilliam G. Enloe High School B": [
+      "69d03e4a2ca2bf9b4be84c2c"
+    ],
+    "adhitri s\tCarmel High School B": [
+      "6aadb03394390d8318e2fdc9"
+    ],
+    "adi c\tCarmel High School B": [
+      "6a4f11e8932c2216bd9fdee6"
+    ],
+    "alex s\tWilliam G. Enloe High School B": [
+      "6a2b17f8aac074a3a4f0e31a"
+    ],
+    "aniket m\tTriangle Math and Science Academy A": [
+      "6a92ea3cd1968a1d7ea8d472"
+    ],
+    "Rishabh Roy\tTriangle Math and Science Academy A": [
+      "6a78b91375c222ec3000d6fb"
+    ],
+    "hemachandra m\tObra D. Tompkins High School A": [
+      "6a14cccb9a2d41b87c47e1b3"
+    ],
+    "Praneel S\tTriangle Math and Science Academy A": [
+      "6a6f9a7dd77d21198787e387"
+    ],
+    "nithin n\tObra D. Tompkins High School A": [
+      "6a0fb9b13ad948ec85ca9339"
+    ],
+    "stephen li\tCupertino High School B": [
+      "6acfffb90a408f7a4d4c120a"
+    ],
+    "max c\tCupertino High School B": [
+      "6acfffb20a408f7a4d4c11ff"
+    ],
+    "kyle l\tCupertino High School B": [
+      "6ad4df09f83d5918d531ac99"
+    ],
+    "anya s\tCupertino High School B": [
+      "6acffff30a408f7a4d4c1257"
+    ],
+    "shubrojit pal\tFolsom City East High School A": [
+      "6abda52b0a408f7a4d351e91"
+    ],
+    "arman a\tFolsom City East High School A": [
+      "6ac061ee0a408f7a4d377ab9"
+    ],
+    "ethan g\tFolsom City East High School A": [
+      "6ab09af08c9b9221a9e6fce0"
+    ],
+    "Toby W\tUniversity High School B": [
+      "6a54520acb9f55b139996a5a"
+    ],
+    "carl liu\tUniversity High School B": [
+      "6a01dadb34f3e5cbba3a5051"
+    ],
+    "Keene KK\tIolani School A": [
+      "6a72caabd77d21198788ca3c"
+    ],
+    "Daniel Y\tIolani School A": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "thomas w\tUniversity High School B": [
+      "6aceeee30a408f7a4d4b707b"
+    ],
+    "xingyi h\tUniversity High School B": [
+      "6ac17c5c0a408f7a4d386a48"
+    ],
+    "dana k\tIolani School A": [
+      "6ad455c100a26fa9bd7e500c"
+    ],
+    "madhuram s\tWilliam G. Enloe High School A": [
+      "6a0790ede4904c0aee040eef"
+    ],
+    "Shruthi R\tDulles High School A": [
+      "69b01b72d81009ff614dfd2e"
+    ],
+    "Matthew D\tWilliam G. Enloe High School A": [
+      "6a00a14ea04dfd0d3cba9f7a"
+    ],
+    "Oliver Y\tWilliam G. Enloe High School A": [
+      "6a038e8034f3e5cbba3a9091"
+    ],
+    "aastik b\tDulles High School A": [
+      "69af98f4d81009ff614dfd20"
+    ],
+    "Vishruth K\tWilliam G. Enloe High School A": [
+      "69bed8e5b0d4a79909cf5926"
+    ],
+    "lawrence q\tWilliam G. Enloe High School A": [
+      "69b5831d51074be782cddd4b"
+    ],
+    "Arnav D\tDulles High School A": [
+      "6a78857d75c222ec30005717"
+    ],
+    "ronuk g\tDulles High School A": [
+      "69af05c5d17e57bb019140bc"
+    ],
+    "james l\tMadison West High School A": [
+      "6ad4dc53f83d5918d5317a9a"
+    ],
+    "lucas q\tBasis Independent Silicon Valley B": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "eric z\tMadison West High School A": [
+      "6ad2668700a26fa9bd7bbb56"
+    ],
+    "Anmy Tran\tMadison West High School A": [
+      "6aaffefe8c9b9221a9e3d3e5"
+    ],
+    "alex l\tMadison West High School A": [
+      "6a07bef9e4904c0aee041c4a"
+    ],
+    "Timo Ye\tBasis Independent Silicon Valley B": [
+      "6a07f584e4904c0aee043b02"
+    ],
+    "aarav n\tCupertino High School A": [
+      "6a4c0f53f82c9dd29df82f58"
+    ],
+    "Heidi L\tJames Clemens High School A": [
+      "6a6130eb1aa7270a52488b1c"
+    ],
+    "pranav b\tCupertino High School A": [
+      "6ad2a27b00a26fa9bd7c0af4"
+    ],
+    "rosa lee\tCupertino High School A": [
+      "6a7e0db40388829213bfa1fb"
+    ],
+    "praneel a\tJames Clemens High School A": [
+      "69b5823351074be782cddd2a"
+    ],
+    "nikit annapureddy\tCupertino High School A": [
+      "6acfff980a408f7a4d4c11df"
+    ],
+    "vinayak vikram\tStanford Online High School A": [
+      "6a8d9d171ca4b2cba36ba53f"
+    ],
+    "Alex\tCamas High School A": [
+      "69ebfb54638ec98901b05b27"
+    ],
+    "Winston\tCamas High School A": [
+      "6a1773ae9a2d41b87c484b3d"
+    ],
+    "Kevin Cai\tCamas High School A": [
+      "69ec231a638ec98901b06388"
+    ],
+    "Daphne F\tStanford Online High School A": [
+      "6ad4d632f83d5918d5313741"
+    ],
+    "vikrant c\tStanford Online High School A": [
+      "6ad4dbc9f83d5918d5317422"
+    ],
+    "ellie w\tStanford Online High School A": [
+      "6a2dac86aac074a3a4f1201c"
+    ],
+    "advait d\tArchbishop Mitty High School A": [
+      "6a8a947f0388829213c459a0"
+    ],
+    "ronit c\tWilliam P. Clements High School A": [
+      "6a9afd4fd1968a1d7eb089f5"
+    ],
+    "Stephen T\tWilliam P. Clements High School A": [
+      "6aa1ab24d1968a1d7eb42957"
+    ],
+    "Augustya V\tWilliam P. Clements High School A": [
+      "6a98d344d1968a1d7eaf8cd0"
+    ],
+    "samiha d\tArchbishop Mitty High School A": [
+      "6ad3226700a26fa9bd7cb032"
+    ],
+    "kiyan r\tArchbishop Mitty High School A": [
+      "6a6c1267d77d211987872982"
+    ],
+    "yixin xu\tArchbishop Mitty High School A": [
+      "6ad318f400a26fa9bd7caa2c"
+    ],
+    "andrew chen\tWilliam P. Clements High School A": [
+      "6aab325b94390d8318e194d1"
+    ],
+    "arush ravipat\tMcNeil High School A": [
+      "6ad445c000a26fa9bd7e299a"
+    ],
+    "shikhar raman\tMcNeil High School A": [
+      "6ad440fe00a26fa9bd7e167d"
+    ],
+    "Olivia Q\tArcadia High School A": [
+      "6ab157498c9b9221a9e74fda"
+    ],
+    "ashrith repak\tMcNeil High School A": [
+      "6ad441b400a26fa9bd7e1906"
+    ],
+    "Brandon Z\tArcadia High School A": [
+      "69e3a34cc4f7015214c6f308"
+    ],
+    "Vincent T.\tArcadia High School A": [
+      "6ac1c26e0a408f7a4d38f86f"
+    ],
+    "ayush sankar\tMcNeil High School A": [
+      "6ad44c3e00a26fa9bd7e3f41"
+    ],
+    "austin zhang\tArcadia High School A": [
+      "69d3044d5e53bdad7b9c6e59"
+    ],
+    "shannon huang\tArcadia High School A": [
+      "6a3dce0b76d18f928c734e3e"
+    ],
+    "Leah B\tPunahou School A": [
+      "6a98d470d1968a1d7eaf8e9a"
+    ],
+    "noah c\tPunahou School A": [
+      "6a0398ff34f3e5cbba3a91b5",
+      "6ad4ed83f83d5918d532b3e6"
+    ],
+    "Samuel Huang\tPalm Desert High School A": [
+      "6ab085228c9b9221a9e6ce3b"
+    ],
+    "Travis D\tPunahou School A": [
+      "69dafe5f6a17a69d3e04c7e1"
+    ],
+    "farah i\tPalm Desert High School A": [
+      "6ad1576cb39a8217661b51d6"
+    ],
+    "Nicholas Black\tPunahou School A": [
+      "6a08867b6230d878705f0486"
+    ],
+    "siddu j\tPalm Desert High School A": [
+      "6ad4253f00a26fa9bd7dccd5"
+    ],
+    "muneer kazi\tPalm Desert High School A": [
+      "6ac83cbd0a408f7a4d4278a7"
+    ],
+    "saahil n\tShaker High School C": [
+      "6ad428ad00a26fa9bd7dd695"
+    ],
+    "jainandan p\tShaker High School C": [
+      "6ad3d89100a26fa9bd7d436a"
+    ],
+    "gokul v\tShaker High School C": [
+      "6ad4b1df00a26fa9bd7e7bc3"
+    ],
+    "Eric G\tBASIS Independent Silicon Valley A": [
+      "6a07fc3de4904c0aee043f60"
+    ],
+    "Timothy Yu\tBASIS Independent Silicon Valley A": [
+      "6a06954eb92dbba0acce9d61"
+    ],
+    "Liam T\tBASIS Independent Silicon Valley A": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "samuel l\tBaton Rouge Magnet High School B": [
+      "6ad4c59600a26fa9bd7e8de2"
+    ],
+    "edison g\tMontgomery Blair High School B": [
+      "6a41d58234ff5c9d910f2f91"
+    ],
+    "Samuel W\tMontgomery Blair High School B": [
+      "69d1ce4d5e53bdad7b9c689f"
+    ],
+    "henry lu\tMontgomery Blair High School B": [
+      "6a0885276230d878705f02ea"
+    ],
+    "eric x\tMontgomery Blair High School B": [
+      "6a41c76d34ff5c9d910f2c18"
+    ],
+    "Chris N\tBaton Rouge Magnet High School B": [
+      "6a085ca5756581e6b6fd4b94"
+    ],
+    "mary p\tBaton Rouge Magnet High School B": [
+      "69b583de51074be782cddd59"
+    ],
+    "eli o\tAlabama School of Fine Arts B": [
+      "6a95a1a1d1968a1d7eadf492"
+    ],
+    "sagar y\tAlabama School of Fine Arts B": [
+      "69c98c072ca2bf9b4be80f71"
+    ],
+    "venkatanathan tv\tWilliam G. Enloe High School C": [
+      "6a309d3d818435dceb211deb"
+    ],
+    "maddox j\tAlabama School of Fine Arts B": [
+      "69bf571bb0d4a79909cf59fe"
+    ],
+    "arthav g\tWilliam G. Enloe High School C": [
+      "6ab30f91035e05f1d8dba3e2"
+    ],
+    "arush b\tAlabama School of Fine Arts B": [
+      "69d523c26c6d5fce68eaa2c7"
+    ],
+    "henry liu\tWilliam G. Enloe High School C": [
+      "69e93fb9732192d4438aeea0"
+    ],
+    "marina zou\tWilliam G. Enloe High School C": [
+      "6ab31109035e05f1d8dba4c0"
+    ],
+    "Ryan Y\tWilliam G. Enloe High School C": [
+      "69f9eba5a04dfd0d3cb9bfbc"
+    ],
+    "srithan d\tAmerican High School A": [
+      "6ad3230e00a26fa9bd7cb0c0"
+    ],
+    "ryan l\tAmerican High School A": [
+      "6ad3c5f400a26fa9bd7d2d0e"
+    ],
+    "danwoo moon\tUniversity High School A": [
+      "6a13a16c9a2d41b87c47b77b"
+    ],
+    "keshav v\tAmerican High School A": [
+      "6ad397f100a26fa9bd7cf073"
+    ],
+    "june k\tUniversity High School A": [
+      "6a54479ecb9f55b1399963a9"
+    ],
+    "bhavana thiru\tUniversity High School A": [
+      "6a5ac51704b948d3bb778531"
+    ],
+    "abhinav s\tAmerican High School A": [
+      "6ad441e700a26fa9bd7e19bd"
+    ],
+    "Steve Z\tUniversity High School A": [
+      "6a01ef7b34f3e5cbba3a5345"
+    ],
+    "aiden w\tUniversity High School A": [
+      "6acac4a40a408f7a4d448484"
+    ],
+    "yuan f\tMontgomery Blair High School C": [
+      "6ad2afce00a26fa9bd7c1a19"
+    ],
+    "jake r\tNorth Hollywood High School A": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "andrew g\tMontgomery Blair High School C": [
+      "6a922f4a1ca4b2cba36cf375"
+    ],
+    "Minghao G\tNorth Hollywood High School A": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "harrison k\tNorth Hollywood High School A": [
+      "6ab1cd888c9b9221a9e7bd49"
+    ],
+    "edward y\tMontgomery Blair High School C": [
+      "6a600a0f2f2c2bb81ee6bb35"
+    ],
+    "Charles H\tNorth Hollywood High School A": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "aaron h\tMontgomery Blair High School C": [
+      "6a44498934ff5c9d910f6c2c"
+    ],
+    "Edward Chen\tCarmel High School A": [
+      "6a334cf16838c3765cb88106"
+    ],
+    "timothy o\tThomas Jefferson High School for Science and Technology A": [
+      "69b32561270cf332f3249aee"
+    ],
+    "justin y\tThomas Jefferson High School for Science and Technology A": [
+      "69fd2366a04dfd0d3cba4d73"
+    ],
+    "nathan l\tThomas Jefferson High School for Science and Technology A": [
+      "6a29c77f24079ae2a98ec255"
+    ],
+    "daniel j\tCarmel High School A": [
+      "6acaf2440a408f7a4d44d8a8"
+    ],
+    "Rohan B\tThomas Jefferson High School for Science and Technology A": [
+      "69ff846ea04dfd0d3cba85cb"
+    ],
+    "Emma W\tCarmel High School A": [
+      "6a56d093525723b2c4dedc56"
+    ],
+    "katy g\tCarmel High School A": [
+      "6ab004048c9b9221a9e3f278"
+    ],
+    "Advaith B\tBridgeland High School A": [
+      "6a7bd1cf38dc4882f9d06528"
+    ],
+    "Liam H\tCollege Park High School B": [
+      "6a973b0fd1968a1d7eaead33"
+    ],
+    "Carson Postrigan\tBridgeland High School A": [
+      "6a8b75c00388829213c49ddc"
+    ],
+    "David B\tCollege Park High School B": [
+      "6a97367bd1968a1d7eaeaa30"
+    ],
+    "Varun V\tCollege Park High School B": [
+      "6a974bc7d1968a1d7eaeb041"
+    ],
+    "Akshaj Mishra\tBridgeland High School A": [
+      "6a863ffc0388829213c26b85"
+    ],
+    "Sidh K\tBridgeland High School A": [
+      "6ab003dc8c9b9221a9e3f133"
+    ],
+    "avi singa\tCollege Park High School B": [
+      "6a939b90d1968a1d7ead2722"
+    ],
+    "Sam E\tMontgomery Blair High School A": [
+      "69bb5cf3924039cb36bcc351"
+    ],
+    "chris w\tMontgomery Blair High School A": [
+      "69b051bdd81009ff614dfd7e"
+    ],
+    "arman a\tMontgomery Blair High School A": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "kevin f\tMontgomery Blair High School A": [
+      "69b5832051074be782cddd4f"
+    ],
+    "mayon d\tGreen Hope High School A": [
+      "69f0ce1b1eed4454ba5b7ccb"
+    ],
+    "ibrohim norbekov\tGreen Hope High School A": [
+      "6ab54853ca8237257721f274"
+    ],
+    "astin z\tLynbrook High School A": [
+      "6ac865fc0a408f7a4d42a800"
+    ],
+    "rishab m\tLynbrook High School A": [
+      "6acee3d10a408f7a4d4b6b0e"
+    ],
+    "shrivatsa j\tLynbrook High School A": [
+      "6acfe23b0a408f7a4d4bef5e"
+    ],
+    "Darius S\tTemple City High School A": [
+      "69cffd732ca2bf9b4be845fd"
+    ],
+    "vihaan k\tLynbrook High School A": [
+      "6ace9b920a408f7a4d4b38e5"
+    ],
+    "Shrey H\tDoral Academy B": [
+      "6a0d09403ad948ec85ca2ed9"
+    ],
+    "Javier A\tDoral Academy B": [
+      "6a9b4b6cd1968a1d7eb0be63"
+    ],
+    "Varun V\tDoral Academy B": [
+      "6acb86bc0a408f7a4d452b33"
+    ],
+    "conrad c\tFrazer High School A": [
+      "6ad29d2400a26fa9bd7c0369"
+    ],
+    "arthur l\tFrazer High School A": [
+      "6ad3abcb00a26fa9bd7d0212"
+    ],
+    "vivek k\tFrazer High School A": [
+      "6acf75960a408f7a4d4b9f4b"
+    ],
+    "luis g\tDoral Academy B": [
+      "6a6803bfd77d211987860f8d"
+    ],
+    "isabella m\tFrazer High School A": [
+      "6ad29b2400a26fa9bd7c0105"
+    ],
+    "Nathan R\tDoral Academy B": [
+      "6a0d0d783ad948ec85ca2fdd"
+    ],
+    "nivedh joseph\tHopkins Middle School C": [
+      "6ad4258100a26fa9bd7dcda1"
+    ],
+    "neel balakrishnan\tHopkins Middle School C": [
+      "6a67d146d77d21198786017a"
+    ],
+    "Samy S\tDoral Academy C": [
+      "6aca6edc0a408f7a4d441b82"
+    ],
+    "nandish bala\tHopkins Middle School C": [
+      "6a0871c1a88e4f800d4253f7"
+    ],
+    "anirudh s\tDoral Academy C": [
+      "6acbcdb00a408f7a4d4749d9"
+    ],
+    "gongyu z\tDoral Academy C": [
+      "6acb908f0a408f7a4d453299"
+    ],
+    "Sarthak T\tDoral Academy C": [
+      "6a680382d77d211987860f6d"
+    ],
+    "Sachith Peddireddy\tHopkins Middle School C": [
+      "6a67d145d77d211987860170"
+    ],
+    "jessica f\tPhillips Exeter Academy A": [
+      "69f559c51eee8371f54b543b"
+    ],
+    "Isaac K\tPhillips Exeter Academy A": [
+      "6aa7687e94390d8318dfcba6"
+    ],
+    "kyros w\tPhillips Exeter Academy A": [
+      "6aceb77a0a408f7a4d4b4b4a"
+    ],
+    "Jacob G\tPalo Alto High School A": [
+      "6a0884386230d878705f01f0"
+    ],
+    "Calvin Qi\tPalo Alto High School A": [
+      "69decfe41244cc5a8c6b8688"
+    ],
+    "Kevin P\tPalo Alto High School A": [
+      "69b05965d81009ff614dfd8d"
+    ],
+    "Ryan P\tPalo Alto High School A": [
+      "69fe7857a04dfd0d3cba763e"
+    ],
+    "Ryan W\tPhillips Exeter Academy A": [
+      "6ab082348c9b9221a9e6c636"
+    ],
+    "rishabh g\tBaton Rouge Magnet High School A": [
+      "69dc1ff40e8798db3321a0e0"
+    ],
+    "Sophia L\tUniversity High School C": [
+      "6a5ac50404b948d3bb778512"
+    ],
+    "ziang z\tBaton Rouge Magnet High School A": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "oliver lu\tUniversity High School C": [
+      "6a544cf2cb9f55b13999663c"
+    ],
+    "Terry Huang\tUniversity High School C": [
+      "6a656a6f20b100f58c6dbdf5"
+    ],
+    "birdie liu\tUniversity High School C": [
+      "6a25b0eb24079ae2a98e4816"
+    ],
+    "aadi d\tObra D. Tompkins High School A": [
+      "6a14c3cc9a2d41b87c47e091"
+    ],
+    "nivedh n\tFrazer High School A": [
+      "6ad13b19b39a8217661b2f09"
+    ],
+    "angela yu\tUniversity High School C": [
+      "6aa1d299d1968a1d7eb43df9"
+    ],
+    "Lucas L\tPalo Alto High School A": [
+      "69b1b11d020790620e878106"
+    ],
+    "Bryce Thach\tTemple City High School A": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "alice r\tUniversity High School B": [
+      "6ac17c550a408f7a4d386a36"
+    ],
+    "veeraj s\tDulles High School A": [
+      "69fb887ba04dfd0d3cba20e3"
+    ],
+    "hrishabh b\tCarmel High School B": [
+      "6a79416e38dc4882f9cfc967"
+    ],
+    "Shantanu R\tTriangle Math and Science Academy A": [
+      "6acd331e0a408f7a4d4a45e1"
+    ],
+    "akmk\tTriangle Math and Science Academy A": [
+      "6a7a101238dc4882f9cff803"
+    ],
+    "Shannon H.\tArcadia High School A": [
+      "6a02a0c834f3e5cbba3a7df2"
+    ],
+    "ishaan k\tMission San Jose High School A": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Majed A\tClovis North High School A": [
+      "6a1108f69a2d41b87c4796e4"
+    ],
+    "ayush h\tClovis North High School A": [
+      "6a54477dcb9f55b139996396"
+    ],
+    "meera m\tClovis North High School A": [
+      "69d887efd4ef0d41240cd70b"
+    ],
+    "ishan k\tClovis North High School A": [
+      "6a1108c89a2d41b87c4796ca"
+    ],
+    "ammar ashary\tWilliam P. Clements High School A": [
+      "6aa830b794390d8318e01db5"
+    ],
+    "vedanth c\tCupertino High School A": [
+      "6ad4da87f83d5918d53160f9"
+    ],
+    "james w\tMontgomery Blair High School C": [
+      "6a78885175c222ec3000599b"
+    ],
+    "Aaron Cohen\tBASIS Independent Silicon Valley A": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "est 6 rheyn j\tStanford Online High School A": [
+      "6ad4ef03f83d5918d532ce3e"
+    ],
+    "Srihan B\tNorth Hollywood High School A": [
+      "6a5819fe525723b2c4df0ad2"
+    ],
+    "Arnav K\tGreen Hope High School A": [
+      "69ebcf51638ec98901b05518"
+    ],
+    "Andrew T\tJames Clemens High School A": [
+      "6a81d5310388829213c0ef47"
+    ],
+    "praneel s\tTriangle Math and Science Academy A": [
+      "6ab17f228c9b9221a9e78106"
+    ],
+    "Enming Z\tMission San Jose High School A": [
+      "69dafe5b6a17a69d3e04c7d8"
+    ],
+    "yuva k\tBaton Rouge Magnet High School A": [
+      "6ad42c0400a26fa9bd7ddeb0"
+    ],
+    "bhaskar m\tBaton Rouge Magnet High School A": [
+      "69dc1fde0e8798db3321a0da"
+    ],
+    "eshaan s\tThomas Jefferson High School for Science and Technology A": [
+      "6a1ced64d76919a71ae8345d"
+    ],
+    "Rutvik A\tMission San Jose High School A": [
+      "6a080691e4904c0aee0445d8"
+    ],
+    "Ty Dutoit\tPunahou School A": [
+      "6a080111e4904c0aee0443bf"
+    ],
+    "alexp\tAlabama School of Fine Arts A": [
+      "69cec05d2ca2bf9b4be83c0a"
+    ]
+  }
 }

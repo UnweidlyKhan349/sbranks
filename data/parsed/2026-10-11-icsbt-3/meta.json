@@ -19,5 +19,529 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "Shalina Liu\tDoral Academy A": [
+      "6a07db4de4904c0aee042968"
+    ],
+    "Steve Z\tUniversity A": [
+      "6a01ef7b34f3e5cbba3a5345"
+    ],
+    "Neil H\tDoral Academy A": [
+      "69ecdc396e5f9b63ff7c2a9c"
+    ],
+    "Santiago S\tDoral Academy A": [
+      "6a08873f6230d878705f05d2"
+    ],
+    "Terry Huang\tUniversity A": [
+      "6a656a6f20b100f58c6dbdf5"
+    ],
+    "Abhishek C\tDoral Academy A": [
+      "6a03c7a434f3e5cbba3a9c04"
+    ],
+    "carl\tUniversity A": [
+      "6a01dadb34f3e5cbba3a5051"
+    ],
+    "bhavana thiru\tUniversity A": [
+      "6a5ac51704b948d3bb778531"
+    ],
+    "Harshan\tFolsom City East A": [
+      "6ac2daff0a408f7a4d3d2c90"
+    ],
+    "Dev M\tFolsom City East A": [
+      "69ecd2e06e5f9b63ff7c27f3"
+    ],
+    "Sunehri Mandadi\tFolsom City East A": [
+      "6ab80721351541e9a9d2e743"
+    ],
+    "Vihaan Vaddineni\tFolsom City East A": [
+      "6ac2d43b0a408f7a4d3d11d8"
+    ],
+    "Dr. Biology\tGreen Hope A": [
+      "6ab54853ca8237257721f274"
+    ],
+    "Dr. Math\tGreen Hope A": [
+      "69f0ce1b1eed4454ba5b7ccb"
+    ],
+    "kensuke o\tNorth Hollywood B": [
+      "69ecd5f86e5f9b63ff7c2873"
+    ],
+    "Harry G\tWard Melville High School A": [
+      "69b4b8ce51074be782cddcf6"
+    ],
+    "jake r\tNorth Hollywood B": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "Charles H\tNorth Hollywood B": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "Eric L\tWard Melville High School A": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "dea\tBaton Rouge Magnet A": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "Shaunak\tMcNeil A": [
+      "6ac95b4b0a408f7a4d43704f"
+    ],
+    "Aatmik\tMcNeil A": [
+      "6ac95b6a0a408f7a4d43709a"
+    ],
+    "Adhrit\tBaton Rouge Magnet A": [
+      "6a665a2a944bee0941a83b13"
+    ],
+    "Vividh Bala\tMcNeil A": [
+      "6ac957bb0a408f7a4d4369ba"
+    ],
+    "Abhiram K\tMcNeil A": [
+      "6acad71f0a408f7a4d44aa85"
+    ],
+    "mareena\tBaton Rouge Magnet A": [
+      "69b583de51074be782cddd59"
+    ],
+    "Varyan J\tBASIS Chandler A": [
+      "69b0464bd81009ff614dfd57"
+    ],
+    "Liam H\tCollege Park B": [
+      "6a973b0fd1968a1d7eaead33"
+    ],
+    "Bowen Shan\tBASIS Chandler A": [
+      "6ab92c7d280dfe805ce8a7f3"
+    ],
+    "Aston N\tCollege Park B": [
+      "6abf20650a408f7a4d366edb"
+    ],
+    "David B\tCollege Park B": [
+      "6a97367bd1968a1d7eaeaa30"
+    ],
+    "AlexanderG\tBASIS Chandler A": [
+      "69f3aa3baf1df79fb93d784b"
+    ],
+    "Nihar B\tBASIS Chandler A": [
+      "69d2c1745e53bdad7b9c6c8b"
+    ],
+    "Varun V\tCollege Park B": [
+      "6a974bc7d1968a1d7eaeb041"
+    ],
+    "pravira d\tCarmel A": [
+      "6a369e4f6838c3765cb8d367"
+    ],
+    "Kaartic M\tNorth Allegheny A": [
+      "6a08842e6230d878705f01e0"
+    ],
+    "adhitri s\tCarmel A": [
+      "6aadb03394390d8318e2fdc9"
+    ],
+    "Colin Liu\tCarmel A": [
+      "6ac26fb40a408f7a4d39a7bd"
+    ],
+    "Lucas L\tNorth Allegheny A": [
+      "6aaed1cc94390d8318e38fc1"
+    ],
+    "Eden W.\tNorth Allegheny A": [
+      "6a9adc23d1968a1d7eb06f5a"
+    ],
+    "Mihin B\tNorth Allegheny A": [
+      "69cb02422ca2bf9b4be81b68"
+    ],
+    "Jason X\tCarmel A": [
+      "6aafd17b8c9b9221a9e3b999"
+    ],
+    "anthony h\tBASIS Independent Fremont A": [
+      "6a924a8d1ca4b2cba36d079f"
+    ],
+    "Angela Cao\tBASIS Independent Fremont A": [
+      "6ab003d18c9b9221a9e3f0e9"
+    ],
+    "daniel j\tCarmel B": [
+      "6acaf2440a408f7a4d44d8a8"
+    ],
+    "katy g\tCarmel B": [
+      "6ab004048c9b9221a9e3f278"
+    ],
+    "Edward Chen\tCarmel B": [
+      "6a334cf16838c3765cb88106"
+    ],
+    "Kevin Chen\tBASIS Independent Fremont A": [
+      "6a92eaffd1968a1d7ea8d5af"
+    ],
+    "Emma W\tCarmel B": [
+      "6a56d093525723b2c4dedc56"
+    ],
+    "Xander\tTemple City A": [
+      "6acb27d20a408f7a4d450e44"
+    ],
+    "Timothy C\tUniversity B": [
+      "69b0f1cc02451431f1ab1668"
+    ],
+    "EN2K\tTemple City A": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Judy T\tTemple City A": [
+      "6a07f5e8e4904c0aee043b39"
+    ],
+    "Xingyi\tUniversity B": [
+      "6ac17c5c0a408f7a4d386a48"
+    ],
+    "aiden w\tUniversity B": [
+      "6acac4a40a408f7a4d448484"
+    ],
+    "Daniel M\tUniversity B": [
+      "6a13a16c9a2d41b87c47b77b"
+    ],
+    "Sophia L\tUniversity B": [
+      "6a5ac50404b948d3bb778512"
+    ],
+    "Eleanor Z\tPalo Alto A": [
+      "6acb09430a408f7a4d44f3a9"
+    ],
+    "Parv S\tFoothill A": [
+      "6a0259ea34f3e5cbba3a71b6"
+    ],
+    "Abhee S\tFoothill A": [
+      "6a026f1034f3e5cbba3a7598"
+    ],
+    "Shulin L\tFoothill A": [
+      "6a07e5a9e4904c0aee04339b"
+    ],
+    "Shashank V\tFoothill A": [
+      "69da02b26a17a69d3e04bd8a"
+    ],
+    "sayan s\tPalo Alto A": [
+      "6a1c55238e3a52021faf0437"
+    ],
+    "Kevin P\tPalo Alto A": [
+      "69b05965d81009ff614dfd8d"
+    ],
+    "Kaylee Z\tPalo Alto A": [
+      "69eebaa66e5f9b63ff7c6352"
+    ],
+    "Nicholas Black\tPunahou A": [
+      "6a08867b6230d878705f0486"
+    ],
+    "Alex D\tCanyon Crest Academy A": [
+      "6a033dfd34f3e5cbba3a8614"
+    ],
+    "Noah C\tPunahou A": [
+      "6a0398ff34f3e5cbba3a91b5"
+    ],
+    "ARyan D\tCanyon Crest Academy A": [
+      "6a07e278e4904c0aee0431fd"
+    ],
+    "Luke Itomura\tPunahou A": [
+      "6a0886b76230d878705f04d1"
+    ],
+    "Owen M\tCanyon Crest Academy A": [
+      "6a07dd1ce4904c0aee042ad4"
+    ],
+    "Yihan J\tCanyon Crest Academy A": [
+      "6a07a87be4904c0aee041378"
+    ],
+    "Travis D\tPunahou A": [
+      "69dafe5f6a17a69d3e04c7e1"
+    ],
+    "Gavin Yang\tCanyon Crest Academy A": [
+      "6a8bd273c167bd7ef5c942d7"
+    ],
+    "james w\tMontgomery Blair A": [
+      "6a78885175c222ec3000599b"
+    ],
+    "Andrew G\tMontgomery Blair A": [
+      "6a922f4a1ca4b2cba36cf375"
+    ],
+    "Aaron H\tMontgomery Blair A": [
+      "6a44498934ff5c9d910f6c2c"
+    ],
+    "Akshaj Atluri\tBASIS Chandler B": [
+      "69f3ab07af1df79fb93d7863"
+    ],
+    "Lautaro S\tDoral Academy C": [
+      "6ab71241351541e9a9d28a9a"
+    ],
+    "Samy S\tDoral Academy C": [
+      "6aca6edc0a408f7a4d441b82"
+    ],
+    "Shubam V\tCollege Park A": [
+      "69bb764d924039cb36bcc370"
+    ],
+    "Sarthak T\tDoral Academy C": [
+      "6a680382d77d211987860f6d"
+    ],
+    "andrew z\tCollege Park A": [
+      "6a974df1d1968a1d7eaeb11f"
+    ],
+    "Saketh K\tCollege Park A": [
+      "6a974fd8d1968a1d7eaeb26a"
+    ],
+    "Christopher Y\tDoral Academy C": [
+      "6aca70080a408f7a4d441dbe"
+    ],
+    "aadi d\tObra D. Tompkins A": [
+      "6a14c3cc9a2d41b87c47e091"
+    ],
+    "nithin n\tObra D. Tompkins A": [
+      "6a0fb9b13ad948ec85ca9339"
+    ],
+    "Asa Fleischer-Graham\tPRISMS A": [
+      "6ac271c90a408f7a4d39bb77"
+    ],
+    "Harry L\tObra D. Tompkins A": [
+      "6a14c7789a2d41b87c47e140"
+    ],
+    "Arunabh Pratik\tPRISMS A": [
+      "6ab007178c9b9221a9e40a89"
+    ],
+    "Josh\tPRISMS A": [
+      "6acba4ac0a408f7a4d45786f"
+    ],
+    "ajay s\tPRISMS A": [
+      "69b5fc4951074be782cddd9e"
+    ],
+    "Ruchir B.\tNiskayuna A": [
+      "6a0881446230d878705efc30"
+    ],
+    "Andrew Z\tNiskayuna A": [
+      "6ac9954d0a408f7a4d43b0e8"
+    ],
+    "Kaydence Y\tNiskayuna A": [
+      "6a5c45e3e32c1fb190cc455d"
+    ],
+    "Gyanesh Velu\tClements A": [
+      "6a9886c2d1968a1d7eaf5c95"
+    ],
+    "Tejas Jacob\tNiskayuna A": [
+      "6a1c48af8e3a52021faefe4a"
+    ],
+    "Stephen T\tClements A": [
+      "6aa1ab24d1968a1d7eb42957"
+    ],
+    "Augustya V\tClements A": [
+      "6a98d344d1968a1d7eaf8cd0"
+    ],
+    "ammar ashary\tClements A": [
+      "6aa830b794390d8318e01db5"
+    ],
+    "Rohith K\tNiskayuna A": [
+      "6a0883786230d878705f00c8"
+    ],
+    "Zain M\tTJHSST A": [
+      "6a0633c0b92dbba0acce8e02"
+    ],
+    "Avik P\tTJHSST A": [
+      "6a807ec00388829213c07510"
+    ],
+    "Rohan B\tTJHSST A": [
+      "69ff846ea04dfd0d3cba85cb"
+    ],
+    "pancreas uvula\tClovis Clemens A": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Achuth V\tClovis Clemens A": [
+      "69c1f99e081cf06514827977"
+    ],
+    "vockey\tClovis Clemens A": [
+      "69b1c4d6020790620e878111"
+    ],
+    "Noah K\tTJHSST A": [
+      "6aad969d94390d8318e2e231"
+    ],
+    "Ryan G\tTJHSST A": [
+      "6aadcef394390d8318e31950"
+    ],
+    "HarrisonK\tNorth Hollywood A": [
+      "6ab1cd888c9b9221a9e7bd49"
+    ],
+    "LucasQuan\tBASIS Independent Silicon Valley B": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "Victoria H\tNorth Hollywood A": [
+      "6a320138818435dceb2131bd"
+    ],
+    "Eric G\tBASIS Independent Silicon Valley B": [
+      "6a07fc3de4904c0aee043f60"
+    ],
+    "Timothy Yu\tBASIS Independent Silicon Valley B": [
+      "6a06954eb92dbba0acce9d61"
+    ],
+    "Minghao G\tNorth Hollywood A": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "Sanjeev\tCollierville A": [
+      "6a4ec93cf82c9dd29df86b7b"
+    ],
+    "jaco bell\tCollierville A": [
+      "69b4161f51074be782cddc8a"
+    ],
+    "Edward Zeng\tMission San Jose A": [
+      "6a5c1308d4b2fb3233c76862"
+    ],
+    "Santhosh V\tCollierville A": [
+      "69ffbf25a04dfd0d3cba8f64"
+    ],
+    "Avi\tMission San Jose A": [
+      "6ac274ec0a408f7a4d39cfae"
+    ],
+    "Indhraneel G\tCollierville A": [
+      "6a274c0b24079ae2a98e7bea"
+    ],
+    "Enming Zhang\tMission San Jose A": [
+      "69dafe5b6a17a69d3e04c7d8"
+    ],
+    "ishaan k\tMission San Jose A": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "jag\tFrazer A": [
+      "69c3f489081cf06514828aff"
+    ],
+    "Namish Dour\tMira Loma A": [
+      "6a1bbbc69a2d41b87c491344"
+    ],
+    "gavin\tFrazer A": [
+      "6a7ce2700388829213bf4e61"
+    ],
+    "Kavin Anreddy\tMira Loma A": [
+      "69d71cd3d4ef0d41240ccadd"
+    ],
+    "Edwin\tFrazer A": [
+      "69ce83342ca2bf9b4be8359d"
+    ],
+    "Abhinav KSK\tMira Loma A": [
+      "69c1fecb081cf065148279ac"
+    ],
+    "armaan v\tFrazer A": [
+      "6a7bb7bf38dc4882f9d052a0"
+    ],
+    "Nathan R\tDoral Academy B": [
+      "6a0d0d783ad948ec85ca2fdd"
+    ],
+    "Yunay V\tDeep Run A": [
+      "6aa4b0ad94390d8318debea8"
+    ],
+    "Nimit A\tDeep Run A": [
+      "69b86d94d62d93433abbb513"
+    ],
+    "Javier A\tDoral Academy B": [
+      "6a9b4b6cd1968a1d7eb0be63"
+    ],
+    "Luis G\tDoral Academy B": [
+      "6acba5370a408f7a4d457c78"
+    ],
+    "Ryan K\tDeep Run A": [
+      "69b4b38651074be782cddce9"
+    ],
+    "Varun V\tDoral Academy B": [
+      "6acb86bc0a408f7a4d452b33"
+    ],
+    "Riyan N\tDeep Run A": [
+      "69c4ae18081cf06514829573"
+    ],
+    "Shrey H\tDoral Academy B": [
+      "6a0d09403ad948ec85ca2ed9"
+    ],
+    "Rish\tDeep Run A": [
+      "6a07b260e4904c0aee0418df"
+    ],
+    "Daniel Y\tIolani A": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "Srihari K\tWard Melville High School B": [
+      "6ac265ed0a408f7a4d3966de"
+    ],
+    "Haru G\tIolani A": [
+      "6a07d24de4904c0aee042237"
+    ],
+    "Kiaan\tWard Melville High School B": [
+      "6acb44600a408f7a4d451a67"
+    ],
+    "Will S\tWard Melville High School B": [
+      "6acb92e60a408f7a4d453531"
+    ],
+    "Adrian\tFoothill A": [
+      "6acba4c20a408f7a4d45792f"
+    ],
+    "Arman A\tMontgomery Blair A": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "Ronith Balusani\tBASIS Chandler B": [
+      "6acb080f0a408f7a4d44f1f8"
+    ],
+    "Hank Sun\tMission San Jose A": [
+      "6ac04d190a408f7a4d376104"
+    ],
+    "Keene KK\tIolani A": [
+      "6a72caabd77d21198788ca3c"
+    ],
+    "Min Shin\tIolani A": [
+      "6a08a5a96230d878705f2e21"
+    ],
+    "natalina island\tNorth Hollywood B": [
+      "69f6e7c5a04dfd0d3cb984fb"
+    ],
+    "Toby W\tUniversity A": [
+      "6a54520acb9f55b139996a5a"
+    ],
+    "Darius S\tTemple City A": [
+      "69cffd732ca2bf9b4be845fd"
+    ],
+    "Srihan B\tNorth Hollywood A": [
+      "6a5819fe525723b2c4df0ad2"
+    ],
+    "Ethan Guo\tBASIS Independent Silicon Valley A": [
+      "6a92f22bd1968a1d7ea8e3fb"
+    ],
+    "Naman S\tBASIS Independent Silicon Valley A": [
+      "6a07f184e4904c0aee0438e1"
+    ],
+    "Liam T\tBASIS Independent Silicon Valley A": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "Bhaskar M\tBaton Rouge Magnet A": [
+      "69dc1fde0e8798db3321a0da"
+    ],
+    "Aaron Cohen\tBASIS Independent Silicon Valley A": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "david rong\tFrazer A": [
+      "6a7bdee338dc4882f9d0725a"
+    ],
+    "Calvin Qi\tPalo Alto A": [
+      "69decfe41244cc5a8c6b8688"
+    ],
+    "Evan Tan\tBASIS Chandler B": [
+      "6acbb91a0a408f7a4d464b16"
+    ],
+    "Kevin F\tMontgomery Blair A": [
+      "69b5832051074be782cddd4f"
+    ],
+    "William\tPRISMS A": [
+      "6aaee9ab94390d8318e39fb6"
+    ],
+    "T0B1\tObra D. Tompkins A": [
+      "6a14c4859a2d41b87c47e0ac"
+    ],
+    "shubrojit pal\tFolsom City East A": [
+      "6abda52b0a408f7a4d351e91"
+    ],
+    "Tim O\tTJHSST A": [
+      "69b32561270cf332f3249aee"
+    ],
+    "Srihari K\tWard Melville High School A": [
+      "6ac265ed0a408f7a4d3966de"
+    ],
+    "Will S\tWard Melville High School A": [
+      "6acb92e60a408f7a4d453531"
+    ],
+    "Sola M\tIolani A": [
+      "6a02010634f3e5cbba3a5aae"
+    ],
+    "Naman S\tBASIS Independent Silicon Valley B": [
+      "6a07f184e4904c0aee0438e1"
+    ],
+    "Liam T\tBASIS Independent Silicon Valley B": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "Aaron Cohen\tBASIS Independent Silicon Valley B": [
+      "6a0873a0a88e4f800d425600"
+    ]
+  }
 }

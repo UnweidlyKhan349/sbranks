@@ -19,5 +19,589 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "daniel l\tRe2rement Home": [
+      "6a07f414e4904c0aee043a01"
+    ],
+    "Angelina Y\tRe2rement Home": [
+      "69b06717d81009ff614dfda2"
+    ],
+    "caleb w\tWheaton": [
+      "69f0f0df1eed4454ba5b8154"
+    ],
+    "Andrew Z\tWheaton": [
+      "6a087d1ba88e4f800d425a7e"
+    ],
+    "Alex W\tWheaton": [
+      "6a08825a6230d878705effaa"
+    ],
+    "Ryan K\tShallow Walk A": [
+      "69b4b38651074be782cddce9"
+    ],
+    "Ryan Y\tEnloe": [
+      "69f9eba5a04dfd0d3cb9bfbc"
+    ],
+    "Riyan N\tShallow Walk A": [
+      "69c4ae18081cf06514829573"
+    ],
+    "Vishruth K\tEnloe": [
+      "69bed8e5b0d4a79909cf5926"
+    ],
+    "Nimit A\tShallow Walk A": [
+      "69b708ad51074be782cdddf1"
+    ],
+    "Matthew D\tEnloe": [
+      "6a00a14ea04dfd0d3cba9f7a"
+    ],
+    "Oliver Y\tEnloe": [
+      "6a038e8034f3e5cbba3a9091"
+    ],
+    "Rish B.\tShallow Walk A": [
+      "6a07b260e4904c0aee0418df"
+    ],
+    "Travis D\tPunahou": [
+      "69dafe5f6a17a69d3e04c7e1"
+    ],
+    "Condit\tPunahou": [
+      "6a0398ff34f3e5cbba3a91b5"
+    ],
+    "Nicholas Black\tPunahou": [
+      "6a08867b6230d878705f0486"
+    ],
+    "Luke Itomura\tPunahou": [
+      "6a0886b76230d878705f04d1"
+    ],
+    "akhil b\tASFA": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Tahmeed S\tCollierville HS B": [
+      "6a087331a88e4f800d42556c"
+    ],
+    "Niharika G\tWWPS B": [
+      "6a087c1da88e4f800d4259d1"
+    ],
+    "Aayan Ghosh\tWWPS B": [
+      "6a08069ae4904c0aee0445e9"
+    ],
+    "Prathiksha J\tCollierville HS B": [
+      "6a0883296230d878705f0072"
+    ],
+    "Shrihan C\tCollierville HS B": [
+      "6a088ac36230d878705f0e4c"
+    ],
+    "Nhi Le\tCollierville HS B": [
+      "6a0880666230d878705ef958"
+    ],
+    "Paxton Lin\tArcadia B": [
+      "6a0805e0e4904c0aee0445a7"
+    ],
+    "Shaun I\tVMATHs": [
+      "69bb0f16924039cb36bcc311"
+    ],
+    "uddip k\tVMATHs": [
+      "69dfcefa1244cc5a8c6b951b"
+    ],
+    "Austin Z\tArcadia B": [
+      "69d3044d5e53bdad7b9c6e59"
+    ],
+    "marty h\tVMATHs": [
+      "69b98cd3d62d93433abbb587"
+    ],
+    "Kevin W\tArcadia B": [
+      "6a07eba1e4904c0aee04363e"
+    ],
+    "Varun G\tVMATHs": [
+      "69bc1c15723e6f80690372f8"
+    ],
+    "Joel J\tFoothill": [
+      "6a07f2d1e4904c0aee04390a"
+    ],
+    "Parv S\tFoothill": [
+      "6a0259ea34f3e5cbba3a71b6"
+    ],
+    "Abhee S\tFoothill": [
+      "6a026f1034f3e5cbba3a7598"
+    ],
+    "Arjun D\tWWPS A": [
+      "6a036d9034f3e5cbba3a8d78"
+    ],
+    "Monish S\tWWPS A": [
+      "69b5823951074be782cddd2e"
+    ],
+    "Shashank V\tFoothill": [
+      "69da02b26a17a69d3e04bd8a"
+    ],
+    "Arun D\tFoothill": [
+      "6a02d2e634f3e5cbba3a8084"
+    ],
+    "Praneel A\tMAAOC": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Abhinav KSK\tMAAOC": [
+      "69c1fecb081cf065148279ac"
+    ],
+    "Arman A\tMAAOC": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "Kevin F\tMAAOC": [
+      "69b5832051074be782cddd4f"
+    ],
+    "Shirley V\tSSP Warriors": [
+      "69db05dd6a17a69d3e04c8ab"
+    ],
+    "Sneha\tSSP Warriors": [
+      "6a07d3f8e4904c0aee04232a"
+    ],
+    "Samuel W\tMontgomery Blair": [
+      "69d1ce4d5e53bdad7b9c689f"
+    ],
+    "Charith N\tCollierville HS A": [
+      "69f27f9ff9d1dfe6692236d1"
+    ],
+    "Ishan A\tCollierville HS A": [
+      "69b09c2ad81009ff614dfde8"
+    ],
+    "Chris W\tMontgomery Blair": [
+      "69b051bdd81009ff614dfd7e"
+    ],
+    "Santhosh V\tCollierville HS A": [
+      "69ffbf25a04dfd0d3cba8f64"
+    ],
+    "Henry L\tMontgomery Blair": [
+      "69b70f2f51074be782cdde01"
+    ],
+    "Sam E\tMontgomery Blair": [
+      "69bb5cf3924039cb36bcc351"
+    ],
+    "Jacob L\tCollierville HS A": [
+      "69fd45bea04dfd0d3cba4f3f"
+    ],
+    "Arjun G.\tMSJ C": [
+      "6a01e48534f3e5cbba3a530f"
+    ],
+    "Ananya V\tMSJ C": [
+      "6a047fa234f3e5cbba3aa990"
+    ],
+    "Leo Y\tNorth Allegheny": [
+      "6a08812b6230d878705efbbc"
+    ],
+    "Andrew F\tNorth Allegheny": [
+      "6a08812d6230d878705efbc5"
+    ],
+    "Kaartic M\tNorth Allegheny": [
+      "6a08842e6230d878705f01e0"
+    ],
+    "Alvin P\tMSJ C": [
+      "6a07ea3be4904c0aee04358b"
+    ],
+    "Jason L\tNorth Allegheny": [
+      "6a0870d1a88e4f800d425326"
+    ],
+    "Enming Z\tMSJ C": [
+      "69dafe5b6a17a69d3e04c7d8"
+    ],
+    "Iris G\tWWPS C": [
+      "6a07cd56e4904c0aee041ff6"
+    ],
+    "Edward H\tLaw Abiding Citizens": [
+      "69c5f6ad081cf0651482a1ed"
+    ],
+    "Medha T\tWWPS C": [
+      "6a087a84a88e4f800d4258cc"
+    ],
+    "Eddie A\tLaw Abiding Citizens": [
+      "69c5eef8081cf0651482a156"
+    ],
+    "Dennis J\tWWPS C": [
+      "6a0254c034f3e5cbba3a712f"
+    ],
+    "Vihaan M\tWWPS C": [
+      "6a0880546230d878705ef947"
+    ],
+    "Sparsh V\tWWPS C": [
+      "6a08804d6230d878705ef942"
+    ],
+    "Kensuke O\tNorth Hollywood": [
+      "69ecd5f86e5f9b63ff7c2873"
+    ],
+    "Sreekar K\tShallow Walk B": [
+      "69e50d18c4f7015214c70231"
+    ],
+    "Jake R\tNorth Hollywood": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "Minghao G\tNorth Hollywood": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "Yunay V\tShallow Walk B": [
+      "69e50b7ac4f7015214c701a0"
+    ],
+    "Charles H\tNorth Hollywood": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "Timo Ye\tBISV HS B": [
+      "6a07f584e4904c0aee043b02"
+    ],
+    "Brandon\tJordan": [
+      "6a07999ce4904c0aee04106e"
+    ],
+    "Alex Zhan\tBISV HS B": [
+      "6a07f21ee4904c0aee0438f2"
+    ],
+    "Avish B\tJordan": [
+      "69ffffd0a04dfd0d3cba972d"
+    ],
+    "Eric G\tBISV HS B": [
+      "6a07fc3de4904c0aee043f60"
+    ],
+    "William Chen\tJordan": [
+      "6a067d9ab92dbba0acce99c6"
+    ],
+    "ZhiyuZhao BISV\tBISV HS B": [
+      "6a054d7734f3e5cbba3ac7e8"
+    ],
+    "Aarnav P\tChattahoochee A": [
+      "69b62ee451074be782cdddca"
+    ],
+    "Prarabdh M\tChattahoochee A": [
+      "6a027e1634f3e5cbba3a7a4c"
+    ],
+    "Chris Z\tChattahoochee A": [
+      "6a02910e34f3e5cbba3a7be7"
+    ],
+    "Samy E\tChattahoochee A": [
+      "6a01ecc534f3e5cbba3a533b"
+    ],
+    "Larry Z\tBISV HS A": [
+      "69ec4ecb638ec98901b06a43"
+    ],
+    "Naman S\tBISV HS A": [
+      "6a07f184e4904c0aee0438e1"
+    ],
+    "Liam T\tBISV HS A": [
+      "6a01f5cc34f3e5cbba3a541b"
+    ],
+    "Aaron Cohen\tBISV HS A": [
+      "6a0873a0a88e4f800d425600"
+    ],
+    "Zanda Z\tBISV HS A": [
+      "6a07eab3e4904c0aee0435d5"
+    ],
+    "Shannon H.\tArcadia A": [
+      "6a02a0c834f3e5cbba3a7df2"
+    ],
+    "Lucas L\tSchool of Biology": [
+      "69b1b11d020790620e878106"
+    ],
+    "Nevin J\tSchool of Biology": [
+      "6a087f3f1b81c78940f66259"
+    ],
+    "Ethan Wang\tArcadia A": [
+      "6a06a1beaffc79833b1f04da"
+    ],
+    "Shannon I\tSchool of Biology": [
+      "69b0462cd81009ff614dfd50"
+    ],
+    "Brandon Z\tArcadia A": [
+      "69e3a34cc4f7015214c6f308"
+    ],
+    "Annie L\tCCA B": [
+      "6a07e188e4904c0aee0430ff"
+    ],
+    "Kian D\tSchool of Geology": [
+      "69b854336abfc27f505b56f1"
+    ],
+    "Rohan G\tSchool of Geology": [
+      "6a07e576e4904c0aee04337e"
+    ],
+    "Euan Lee\tCCA B": [
+      "6a07dd6ae4904c0aee042b2a"
+    ],
+    "Nina L\tCCA B": [
+      "6a07e558e4904c0aee043369"
+    ],
+    "Gina K\tChattahoochee B": [
+      "6a07c9b1e4904c0aee041f77"
+    ],
+    "Yihan J\tCCA A": [
+      "6a07a87be4904c0aee041378"
+    ],
+    "helen z\tChattahoochee B": [
+      "6a07cad3e4904c0aee041faa"
+    ],
+    "Alex D\tCCA A": [
+      "6a033dfd34f3e5cbba3a8614"
+    ],
+    "Ashley L\tCCA A": [
+      "6a0685aab92dbba0acce9a42"
+    ],
+    "Shawn Phan\tChattahoochee B": [
+      "6a07ca38e4904c0aee041f90"
+    ],
+    "Owen M\tCCA A": [
+      "6a07dd1ce4904c0aee042ad4"
+    ],
+    "Srinesh Parthiban\tChattahoochee B": [
+      "6a07de08e4904c0aee042c17"
+    ],
+    "Alex D\tMiddleton": [
+      "6a087697a88e4f800d425775"
+    ],
+    "ArthurW middletong\tMiddleton": [
+      "6a0878b7a88e4f800d4257db"
+    ],
+    "matthew wang\tMiddleton": [
+      "69e2321fc4f7015214c6ce0b"
+    ],
+    "Aditya B\tMiddleton": [
+      "6a087796a88e4f800d4257ad"
+    ],
+    "Likhith M\tGargy Bomy": [
+      "6a08814a6230d878705efc49"
+    ],
+    "Abhinav A\tGargy Bomy": [
+      "69ecd1f86e5f9b63ff7c27c6"
+    ],
+    "Frank\tLakeside": [
+      "6a080dc0e4904c0aee0448e0"
+    ],
+    "Sarah N\tLakeside": [
+      "6a07f571e4904c0aee043ae8"
+    ],
+    "William W\tLakeside": [
+      "69f3c2bfaf1df79fb93d802a"
+    ],
+    "Ishaan K\tMSJ B": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Anish A\tMSJ B": [
+      "69ecd7176e5f9b63ff7c28cf"
+    ],
+    "Rutvik A\tMSJ B": [
+      "6a080691e4904c0aee0445d8"
+    ],
+    "Ashley\tLakeside": [
+      "6a0886eb6230d878705f050b"
+    ],
+    "Carl L\tUniversity": [
+      "6a01dadb34f3e5cbba3a5051"
+    ],
+    "sumin\tRoyal Hogs": [
+      "69b09b74d81009ff614dfddd"
+    ],
+    "bluewater16\tRoyal Hogs": [
+      "69b09ce3d81009ff614dfdf7"
+    ],
+    "Stephanie Y\tUniversity": [
+      "6a07e5c4e4904c0aee0433ac"
+    ],
+    "Timothy C\tUniversity": [
+      "69b0f1cc02451431f1ab1668"
+    ],
+    "Achuth V\tRoyal Hogs": [
+      "69c1f99e081cf06514827977"
+    ],
+    "Priya K\tUniversity": [
+      "6a01e6fd34f3e5cbba3a532c"
+    ],
+    "Roshan A\tMSJ A": [
+      "69db17240e8798db33219568"
+    ],
+    "Advaith M\tMSJ A": [
+      "69bd9e52723e6f806903758b"
+    ],
+    "Bryce Thach\tSGVG": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Darius S\tSGVG": [
+      "69c0813ab0d4a79909cf5b79"
+    ],
+    "Tianhan H\tSGVG": [
+      "69fa953aa04dfd0d3cb9ecfb"
+    ],
+    "Andrew B\tBenjamin Franklin": [
+      "69c747e92f1a65e9f4081da9"
+    ],
+    "Ronald Z\tBenjamin Franklin": [
+      "69c747452f1a65e9f4081d77"
+    ],
+    "marianne\tBenjamin Franklin": [
+      "69b882fad62d93433abbb52b"
+    ],
+    "Sohil\tLynbroke": [
+      "6a07f36de4904c0aee043954"
+    ],
+    "suzuko o\tClang! Cloom! Clash!": [
+      "69f6a74ba04dfd0d3cb97bac"
+    ],
+    "connor z\tClang! Cloom! Clash!": [
+      "6a08865d6230d878705f0464"
+    ],
+    "Vishnu M\tClang! Cloom! Clash!": [
+      "69b17cc0020790620e8780e2"
+    ],
+    "Soham P\tRound Rock": [
+      "6a0885386230d878705f0326"
+    ],
+    "Sritam P\tRound Rock": [
+      "6a0889146230d878705f0b1c"
+    ],
+    "Dhruv G\tRound Rock": [
+      "6a0889ee6230d878705f0cb8"
+    ],
+    "Neil H\tDoral Academy": [
+      "69ecdc396e5f9b63ff7c2a9c"
+    ],
+    "Kevin P\tPalo Alto": [
+      "69b05965d81009ff614dfd8d"
+    ],
+    "Santiago S\tDoral Academy": [
+      "6a08873f6230d878705f05d2"
+    ],
+    "Abhishek C\tDoral Academy": [
+      "6a03c7a434f3e5cbba3a9c04"
+    ],
+    "Kaylee Z\tPalo Alto": [
+      "69eebaa66e5f9b63ff7c6352"
+    ],
+    "Jacob G\tPalo Alto": [
+      "6a0884386230d878705f01f0"
+    ],
+    "Andrew W\tPalo Alto": [
+      "6a08821f6230d878705eff62"
+    ],
+    "Shalina Liu\tDoral Academy": [
+      "6a07db4de4904c0aee042968"
+    ],
+    "Aayush K.\tWWPN": [
+      "6a08882d6230d878705f081a"
+    ],
+    "Haru G\tSchool of Chemistry": [
+      "6a07d24de4904c0aee042237"
+    ],
+    "Daniel Y\tSchool of Chemistry": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "Aldric B\tWWPN": [
+      "69b04acfd81009ff614dfd67"
+    ],
+    "Ethan Z\tSchool of Chemistry": [
+      "6a0887266230d878705f0559"
+    ],
+    "Easton W\tWWPN": [
+      "69fa6f99a04dfd0d3cb9e222"
+    ],
+    "Keene KK\tSchool of Chemistry": [
+      "6a07f352e4904c0aee043945"
+    ],
+    "Dhanshika\tWWPS B": [
+      "6a088d2d6230d878705f1189"
+    ],
+    "Raymond\tASFA": [
+      "6a088d626230d878705f11bd"
+    ],
+    "Tiger\tRoyal Hogs": [
+      "6a07e5a9e4904c0aee04339b"
+    ],
+    "Jason L\tWWPN": [
+      "6a0892026230d878705f16b1"
+    ],
+    "Caroline H\tChattahoochee B": [
+      "6a02826334f3e5cbba3a7b4a"
+    ],
+    "Ty Dutoit\tPunahou": [
+      "6a080111e4904c0aee0443bf"
+    ],
+    "Max T\tJordan": [
+      "6a079a0de4904c0aee041096"
+    ],
+    "Jamie W\tArcadia A": [
+      "6a07de53e4904c0aee042c84"
+    ],
+    "ethan p\tWheaton": [
+      "6a0869d5756581e6b6fd4d76"
+    ],
+    "Benjamin W.\tMSJ C": [
+      "6a07c969e4904c0aee041f68"
+    ],
+    "Eshan B\tMSJ C": [
+      "6a07f70fe4904c0aee043bbe"
+    ],
+    "Lucas Q\tBISV HS B": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "Connor Chang\tClang! Cloom! Clash!": [
+      "6a0894ea6230d878705f1a96"
+    ],
+    "Judy T\tSGVG": [
+      "6a07f5e8e4904c0aee043b39"
+    ],
+    "Haru G\tRound Rock": [
+      "6a07d24de4904c0aee042237"
+    ],
+    "Daniel Y\tRound Rock": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "Sona K\tLakeside": [
+      "6a07d7e6e4904c0aee042625"
+    ],
+    "6a089d756230d878705f2424\tRound Rock": [
+      "6a089d756230d878705f2424"
+    ],
+    "dea\tShallow Walk B": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "afstoecker\tBenjamin Franklin": [
+      "69f7c028a04dfd0d3cb995b4"
+    ],
+    "Alex L\tMiddleton": [
+      "6a07bef9e4904c0aee041c4a"
+    ],
+    "allison\tSSP Warriors": [
+      "6a08a19c6230d878705f297d"
+    ],
+    "Akhil M\tWWPS A": [
+      "69c27b13081cf06514827a8d"
+    ],
+    "Haiyue M\tCCA A": [
+      "6a07ddfbe4904c0aee042c07"
+    ],
+    "Lucas Q\tBISV HS A": [
+      "6a07f02ee4904c0aee0438aa"
+    ],
+    "Henry Z\tArcadia B": [
+      "6a08bbbd6230d878705f41a5"
+    ],
+    "theenash s\tMSJ A": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "Min Shin\tSchool of Chemistry": [
+      "6a08a5a96230d878705f2e21"
+    ],
+    "Sola M\tSchool of Chemistry": [
+      "6a02010634f3e5cbba3a5aae"
+    ],
+    "Eonathan H\tLaw Abiding Citizens": [
+      "6a08be8a6230d878705f43f0"
+    ],
+    "Dennis J\tWWPS A": [
+      "6a0254c034f3e5cbba3a712f"
+    ],
+    "khio\tLynbroke": [
+      "6a08d2576230d878705f5423"
+    ],
+    "evan\tLynbroke": [
+      "6a08d1e76230d878705f539a"
+    ],
+    "Eunyi\tLaw Abiding Citizens": [
+      "69c5f6a4081cf0651482a1e9"
+    ],
+    "Eelena Y\tLaw Abiding Citizens": [
+      "69bae620924039cb36bcc294"
+    ],
+    "Advik S\tASFA": [
+      "6a08f9206230d878705f621b"
+    ]
+  }
 }

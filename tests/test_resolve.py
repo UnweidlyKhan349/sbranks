@@ -102,3 +102,33 @@ def test_display_name_is_the_most_complete_form():
 def test_clean_player_name_strips_trailing_tags():
     assert resolve.clean_player_name("Emily (CHS)") == "Emily"
     assert resolve.clean_player_name("Ben (1)") == "Ben"
+
+
+def test_same_isobowl_account_links_rows_across_schools():
+    R = resolve.Resolver.__new__(resolve.Resolver)
+    R.player_merge, R.player_nosplit, R.player_rename = {}, set(), {}
+    obs = [
+        {"tournament_id": "t1", "season": "2025-26", "raw": "Theenash Sengupta", "team_id": "msj-a", "school_id": "msj", "composite": False},
+        {"tournament_id": "t2", "season": "2025-26", "raw": "theenash s", "team_id": "msj-a", "school_id": "msj", "composite": False, "accounts": ["u1"]},
+        {"tournament_id": "t3", "season": "2025-26", "raw": "theenash s", "team_id": "noho-a", "school_id": "noho", "composite": False, "accounts": ["u1"]},
+        # the same account lent to someone else once links nothing across first names
+        {"tournament_id": "t4", "season": "2026-27", "raw": "harry gao", "team_id": "x-chem", "school_id": "x-chem", "composite": True, "accounts": ["u1"]},
+    ]
+    people, raw_to_pid = resolve._resolve_players(R, obs)
+    pid = raw_to_pid[("t1", "Theenash Sengupta", "msj-a")]
+    assert raw_to_pid[("t3", "theenash s", "noho-a")] == pid
+    assert raw_to_pid[("t4", "harry gao", "x-chem")] != pid
+
+
+def test_school_scoped_link():
+    R = resolve.Resolver.__new__(resolve.Resolver)
+    R.player_merge, R.player_nosplit, R.player_rename = {}, set(), {}
+    R.player_links = [("ajay s", "prisms", "ajay sawant")]
+    obs = [
+        {"tournament_id": "t1", "season": "2025-26", "raw": "Ajay Sawant", "team_id": "frazer-a", "school_id": "frazer", "composite": False},
+        {"tournament_id": "t2", "season": "2026-27", "raw": "Ajay S", "team_id": "prisms-a", "school_id": "prisms", "composite": False},
+        {"tournament_id": "t3", "season": "2026-27", "raw": "Ajay S", "team_id": "other-a", "school_id": "other", "composite": False},
+    ]
+    people, raw_to_pid = resolve._resolve_players(R, obs)
+    assert raw_to_pid[("t2", "Ajay S", "prisms-a")] == raw_to_pid[("t1", "Ajay Sawant", "frazer-a")]
+    assert raw_to_pid[("t3", "Ajay S", "other-a")] != raw_to_pid[("t1", "Ajay Sawant", "frazer-a")]

@@ -24,7 +24,7 @@ def run_parser(t: registry.Tournament) -> dict:
     fn = getattr(mod, fn_name or "parse")
     w = TournamentWriter(t.id)
     fn(t, w, **(t.get("parser_options") or {}))
-    return w.close({"parser": spec})
+    return w.close({"parser": spec, **getattr(w, "extra_meta", {})})
 
 
 def main(argv: list[str] | None = None) -> int:

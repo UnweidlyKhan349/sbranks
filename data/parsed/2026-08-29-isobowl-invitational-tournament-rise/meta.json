@@ -19,5 +19,181 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "akshat m\tTMSA": [
+      "6a7a101238dc4882f9cff803"
+    ],
+    "aniket m\tTMSA": [
+      "6a92ea3cd1968a1d7ea8d472"
+    ],
+    "Rishabh\tTMSA": [
+      "6a78b91375c222ec3000d6fb"
+    ],
+    "Prathiksha J\tCollierville C": [
+      "6a0883296230d878705f0072"
+    ],
+    "Sanjeev\tCollierville C": [
+      "6a4ec93cf82c9dd29df86b7b"
+    ],
+    "Isaac\tCollierville C": [
+      "6a4ec948f82c9dd29df86b80"
+    ],
+    "Praneel\tTMSA": [
+      "6a6f9a7dd77d21198787e387"
+    ],
+    "Edward Han\tBISV C": [
+      "6a08853f6230d878705f0337"
+    ],
+    "Steven Zhang\tBISV C": [
+      "6a92f979d1968a1d7ea90eb5"
+    ],
+    "Andrew Lao\tBISV C": [
+      "6a05475e34f3e5cbba3ac70c"
+    ],
+    "Arjun Pandey\tBI Fremont HS": [
+      "6a9217a21ca4b2cba36ceada"
+    ],
+    "Aarnav Rudraraju\tBI Fremont HS": [
+      "6a924f7c1ca4b2cba36d0aba"
+    ],
+    "anthony h\tBI Fremont HS": [
+      "6a924a8d1ca4b2cba36d079f"
+    ],
+    "Kevin Chen\tBI Fremont HS": [
+      "6a92eaffd1968a1d7ea8d5af"
+    ],
+    "Timothy Yu\tBISV C": [
+      "6a06954eb92dbba0acce9d61"
+    ],
+    "Nicholas Black\tPunahou": [
+      "6a08867b6230d878705f0486"
+    ],
+    "Luke Itomura\tPunahou": [
+      "6a0886b76230d878705f04d1"
+    ],
+    "Shashank\tLambert": [
+      "6a92f45cd1968a1d7ea8eba4"
+    ],
+    "viren\tLambert": [
+      "6a9244d81ca4b2cba36d03f0"
+    ],
+    "Noah C\tPunahou": [
+      "6a0398ff34f3e5cbba3a91b5"
+    ],
+    "Ty Dutoit\tPunahou": [
+      "6a080111e4904c0aee0443bf"
+    ],
+    "Frank\tLambert": [
+      "6a91abc91ca4b2cba36cbc04"
+    ],
+    "Rochan\tLambert": [
+      "6a92f663d1968a1d7ea8f3a4"
+    ],
+    "jacob l\tCollierville A": [
+      "69b4161f51074be782cddc8a"
+    ],
+    "Kartigan S\tBridgeland B": [
+      "6a92f9f5d1968a1d7ea91215"
+    ],
+    "Akshaj Mishra\tBridgeland B": [
+      "6a863ffc0388829213c26b85"
+    ],
+    "Jefferson\tBridgeland B": [
+      "6a92f33cd1968a1d7ea8e777"
+    ],
+    "Charith\tCollierville A": [
+      "69f27f9ff9d1dfe6692236d1"
+    ],
+    "rebecca\tCollierville A": [
+      "69e2f689c4f7015214c6ee67"
+    ],
+    "Tanav P\tCollierville A": [
+      "6a30a944818435dceb211e5e"
+    ],
+    "frank chen\tArcadia B": [
+      "6a385ae2a4b1c102039f68e3"
+    ],
+    "Joshua\tBridgeland A": [
+      "6a9242981ca4b2cba36d0258"
+    ],
+    "Jamie W.\tArcadia B": [
+      "6a8fb9c41ca4b2cba36c43be"
+    ],
+    "Chris C\tArcadia B": [
+      "6a92f3e6d1968a1d7ea8e9dc"
+    ],
+    "Sophia Krum\tArcadia B": [
+      "6a921efd1ca4b2cba36cecaf"
+    ],
+    "Pranav Sai\tBridgeland A": [
+      "6a92f43fd1968a1d7ea8eb34"
+    ],
+    "Yihan J\tCanyon Crest B": [
+      "6a07a87be4904c0aee041378"
+    ],
+    "Euan Lee\tCanyon Crest B": [
+      "6a07dd6ae4904c0aee042b2a"
+    ],
+    "Gavin Yang\tCanyon Crest B": [
+      "6a8bd273c167bd7ef5c942d7"
+    ],
+    "Angeline C\tCollierville B": [
+      "6a3735c06838c3765cb8de01"
+    ],
+    "Tahmeed S\tCollierville B": [
+      "6a087331a88e4f800d42556c"
+    ],
+    "Indhraneel G\tCollierville B": [
+      "6a274c0b24079ae2a98e7bea"
+    ],
+    "Santhosh V\tCollierville B": [
+      "69ffbf25a04dfd0d3cba8f64"
+    ],
+    "Sihu Ahn\tCanyon Crest B": [
+      "6a8be3891ca4b2cba36b3c90"
+    ],
+    "Teddy\tCanyon Crest B": [
+      "6a92ec2cd1968a1d7ea8d7af"
+    ],
+    "Max T\tJordan": [
+      "6a079a0de4904c0aee041096"
+    ],
+    "Avish B\tJordan": [
+      "69ffffd0a04dfd0d3cba972d"
+    ],
+    "Brandon\tJordan": [
+      "6a07999ce4904c0aee04106e"
+    ],
+    "William Chen\tJordan": [
+      "6a067d9ab92dbba0acce99c6"
+    ],
+    "Akshaj Mishra\tBridgeland A": [
+      "6a863ffc0388829213c26b85"
+    ],
+    "Jefferson\tBridgeland A": [
+      "6a92f33cd1968a1d7ea8e777"
+    ],
+    "Carson Postrigan\tBridgeland B": [
+      "6a8b75c00388829213c49ddc"
+    ],
+    "Kshitij\tBI Fremont HS": [
+      "6a9315a5d1968a1d7ea9f782"
+    ],
+    "Advaith B\tBridgeland B": [
+      "6a7bd1cf38dc4882f9d06528"
+    ],
+    "Joshua\tBridgeland B": [
+      "6a9242981ca4b2cba36d0258"
+    ],
+    "Pranav Sai\tBridgeland B": [
+      "6a92f43fd1968a1d7ea8eb34"
+    ],
+    "jacob l\tCollierville B": [
+      "69b4161f51074be782cddc8a"
+    ],
+    "Charith\tCollierville B": [
+      "69f27f9ff9d1dfe6692236d1"
+    ]
+  }
 }

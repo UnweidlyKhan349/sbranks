@@ -166,6 +166,8 @@ class Resolver:
                 self.player_merge[norm_person(n)] = canon
         self.player_nosplit = {self.player_merge.get(norm_person(n), norm_person(n)) for n in pa.get("same_person") or []}
         self.player_rename = {norm_person(k): v for k, v in (pa.get("rename") or {}).items()}
+        # school-scoped links: rows named `name` at `school` belong to the person named `to`
+        self.player_links = [(norm_person(x["name"]), x["school"], norm_person(x["to"])) for x in pa.get("link") or []]
         self.unmatched: Counter[str] = Counter()
 
     # ---- teams --------------------------------------------------------------------------
@@ -283,6 +285,7 @@ def build() -> dict[str, Any]:
             tgs.append({"tournament_id": t.id, "game_id": r["game_id"], "team_id": team_map[r["team"]],
                         "subject": r["subject"], **{k: num(r[k]) for k in
                         ("points", "tossup_points", "bonus_points", "tossups_correct", "negs")}})
+        accounts = (d.get("meta") or {}).get("accounts") or {}  # ISOBowl: account ids per (player, team)
         for r in d["player_stats"]:
             name = clean_player_name(r["player"])
             if not name:
@@ -290,7 +293,8 @@ def build() -> dict[str, Any]:
             team_id = team_map[r["team"]]
             player_obs.append({"tournament_id": t.id, "season": t.season, "raw": name,
                                "team_id": team_id, "school_id": teams[team_id]["school_id"],
-                               "composite": teams[team_id]["composite"]})
+                               "composite": teams[team_id]["composite"],
+                               "accounts": accounts.get(f"{r['player']}\t{r['team']}") or []})
             pstats.append({"tournament_id": t.id, "raw_player": name, "team_id": team_id,
                            "scope": r["scope"], "subject": r["subject"],
                            **{k: num(r[k]) for k in ("gp", "tuh", "correct", "zeros", "negs", "points", "ppg")}})
@@ -411,6 +415,50 @@ def _resolve_players(R: Resolver, obs: list[dict[str, Any]]) -> tuple[dict[str, 
                 cands = narrow(o, cands)
             if len(cands) == 1:
                 person_of[id(o)] = cands[0]
+
+    # the same ISOBowl account is the same person, across events and schools (e.g. a player
+    # subbing for another school's team online)
+    parent: dict[tuple[str, str | None], tuple[str, str | None]] = {}
+
+    def find(x: tuple[str, str | None]) -> tuple[str, str | None]:
+        parent.setdefault(x, x)
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+    by_account: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for o in obs:
+        for a in o.get("accounts") or []:
+            by_account[a].append(o)
+    for os_all in by_account.values():
+        # within one account, rows with the same first name are one person (an account lent to
+        # someone else once, or a shared team account, links nothing across first names)
+        by_first: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for o in os_all:
+            if o["key"]:
+                by_first[o["key"].split()[0]].append(o)
+        for os_ in by_first.values():
+            people_ = {person_of[id(o)] for o in os_}
+            first = next(iter(people_))
+            for pp in people_:
+                # keep the full-name person as the root so it names the merged person
+                ra, rb = find(first), find(pp)
+                if ra != rb:
+                    if len(rb[0].split()[-1]) > len(ra[0].split()[-1]):
+                        ra, rb = rb, ra
+                    parent[rb] = ra
+    for o in obs:
+        if person_of[id(o)] in parent:
+            person_of[id(o)] = find(person_of[id(o)])
+    # curated cross-school links (a middle-school player moving up, a transfer): scoped to one school
+    for name, school, to in getattr(R, "player_links", []):
+        targets = {person_of[id(o)] for o in obs if o["key"] == to}
+        if len(targets) != 1:
+            continue
+        tgt = next(iter(targets))
+        for o in obs:
+            if o["key"] == name and o["school_id"] == school:
+                person_of[id(o)] = tgt
 
     pid_of_person: dict[tuple[str, str | None], str] = {}
     people: dict[str, dict[str, Any]] = {}

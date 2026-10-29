@@ -21,5 +21,149 @@
   "warnings": [
     "merged 2 accounts named 'marianne' on BFIT"
   ],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "Kevin Lu\tIndeterminate": [
+      "6a5ee49034357d72b2d3be0e"
+    ],
+    "Arnav D\tDulles Dolls": [
+      "6a78857d75c222ec30005717"
+    ],
+    "jayden\tIndeterminate": [
+      "6a77fb6375c222ec30002d3f"
+    ],
+    "Patrick L\tIndeterminate": [
+      "6a77fb1875c222ec30002d17"
+    ],
+    "Veeraj S\tDulles Dolls": [
+      "69fb887ba04dfd0d3cba20e3"
+    ],
+    "Shruthi R\tDulles Dolls": [
+      "69b01b72d81009ff614dfd2e"
+    ],
+    "Alex S\tOrang": [
+      "69b71ff051074be782cdde2e"
+    ],
+    "Ayden L\tSticks and Bricks": [
+      "69d71b12d4ef0d41240ccac1"
+    ],
+    "Krithik\tOrang": [
+      "6a74cf1d9c3f87866f9e92dc"
+    ],
+    "Jai M\tSticks and Bricks": [
+      "6a6aa7fbd77d21198786c873"
+    ],
+    "Sanjeev\tCarl, Friedrich, and Gauss": [
+      "6a4ec93cf82c9dd29df86b7b"
+    ],
+    "Shrey H\tDoral Kong Kribbers": [
+      "6a0d09403ad948ec85ca2ed9"
+    ],
+    "Abhishek C\tDoral Kong Kribbers": [
+      "6a03c7a434f3e5cbba3a9c04"
+    ],
+    "Isaac\tCarl, Friedrich, and Gauss": [
+      "6a4ec948f82c9dd29df86b80"
+    ],
+    "Jacob\tCarl, Friedrich, and Gauss": [
+      "69b4161f51074be782cddc8a"
+    ],
+    "Ulduar\tDoral Kong Kribbers": [
+      "6a6803bfd77d211987860f8d"
+    ],
+    "Sam E\tFXX": [
+      "69bb5cf3924039cb36bcc351"
+    ],
+    "Maxwell Tsai\tAinai72": [
+      "6a7884eb75c222ec300056ac"
+    ],
+    "Karam Gill\tAinai72": [
+      "6a7884ff75c222ec300056b8"
+    ],
+    "james w\tAinai72": [
+      "6a78885175c222ec3000599b"
+    ],
+    "Minghao G\tLebron to the 76ers": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "vockey\tLebron to the 76ers": [
+      "69b1c4d6020790620e878111"
+    ],
+    "rbo\tLebron to the 76ers": [
+      "6a50996d9de76b6703ba2d64"
+    ],
+    "Sohil\tHills Academy": [
+      "6a07f36de4904c0aee043954"
+    ],
+    "akhil b\tLong Live Luggy": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "Raymond\tLong Live Luggy": [
+      "6a088d626230d878705f11bd"
+    ],
+    "marianne\tBFIT": [
+      "69b882fad62d93433abbb52b",
+      "69b88346d62d93433abbb536"
+    ],
+    "Advik S\tLong Live Luggy": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "afstoecker\tBFIT": [
+      "69f7c028a04dfd0d3cb995b4"
+    ],
+    "tixkdm\tBFIT": [
+      "6a78845275c222ec3000567e"
+    ],
+    "ishaan kabra\tIdk": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "Sujit D\tCatGPT": [
+      "69fa0aa3a04dfd0d3cb9c700"
+    ],
+    "Vishnu M\tSchool of Geometry": [
+      "69b17cc0020790620e8780e2"
+    ],
+    "WADF Witch Hunter\t83% WADF": [
+      "69b5832051074be782cddd4f"
+    ],
+    "Kian D\tSchool of Geometry": [
+      "69b854336abfc27f505b56f1"
+    ],
+    "WADF Treasurer\t83% WADF": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "Rohan G\tSchool of Geometry": [
+      "6a07e576e4904c0aee04337e"
+    ],
+    "WADF Secretary\t83% WADF": [
+      "69b051bdd81009ff614dfd7e"
+    ],
+    "anish r\tMathlete": [
+      "6a6c119ad77d211987872916"
+    ],
+    "Dennis J\tMath Nexus": [
+      "6a0254c034f3e5cbba3a712f"
+    ],
+    "Ishaan R\tMath Nexus": [
+      "6a6b879dd77d211987870082"
+    ],
+    "Akhil M\tMath Nexus": [
+      "69ee4c996e5f9b63ff7c530c"
+    ],
+    "Varyan J\tIdk": [
+      "69b0464bd81009ff614dfd57"
+    ],
+    "Achuth V\tCatGPT": [
+      "69c1f99e081cf06514827977"
+    ],
+    "Mont\tFXX": [
+      "6a41c79234ff5c9d910f2c1d"
+    ],
+    "Mekaylin D\tSchool of Geometry": [
+      "69c5eef8081cf0651482a156"
+    ],
+    "yaoi\tFXX": [
+      "6a78aa4a75c222ec3000b6bc"
+    ]
+  }
 }

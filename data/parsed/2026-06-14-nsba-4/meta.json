@@ -23,5 +23,256 @@
     "merged 2 accounts named 'Nihar B' on Uncs",
     "merged 2 accounts named 'Rehan' on CZZ"
   ],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "Rohan G\tUncs": [
+      "6a07e576e4904c0aee04337e"
+    ],
+    "Owen M\tMingworms": [
+      "6a07dd1ce4904c0aee042ad4"
+    ],
+    "Namish Dour\tMingworms": [
+      "6a1bbbc69a2d41b87c491344"
+    ],
+    "uddip k\tMingworms": [
+      "69dfcefa1244cc5a8c6b951b"
+    ],
+    "theenash s\tMingworms": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "pravira d\tUncs": [
+      "6a369e4f6838c3765cb8d367"
+    ],
+    "Jianyu\tUncs": [
+      "69d9d43b6a17a69d3e04bb55"
+    ],
+    "Advai S\tFerroasumin": [
+      "6a06d3e2e4904c0aee03f8b2"
+    ],
+    "Abhinav A\tGid": [
+      "69bec034b0d4a79909cf58c5",
+      "69ecd1f86e5f9b63ff7c27c6"
+    ],
+    "Likhith M\tFerroasumin": [
+      "6a08814a6230d878705efc49"
+    ],
+    "Lucas W\tFerroasumin": [
+      "69b0e9c802451431f1ab1657"
+    ],
+    "William W\tGid": [
+      "69f3c2bfaf1df79fb93d802a"
+    ],
+    "Angelina Y\tFerroasumin": [
+      "69b06717d81009ff614dfda2"
+    ],
+    "Monish S\tGid": [
+      "69b5823951074be782cddd2e"
+    ],
+    "William Jung\tGid": [
+      "6a07f846e4904c0aee043c59"
+    ],
+    "Shean Fei\tSeanjay": [
+      "69fe8f9ba04dfd0d3cba7888"
+    ],
+    "Selena Y\tDANK": [
+      "69bae620924039cb36bcc294"
+    ],
+    "Sanjay Suresh\tSeanjay": [
+      "6a1653ea9a2d41b87c481d39"
+    ],
+    "Dennis J\tDANK": [
+      "6a0254c034f3e5cbba3a712f"
+    ],
+    "Lishan P\tDANK": [
+      "69b09ce3d81009ff614dfdf7"
+    ],
+    "Sanjay O\tSeanjay": [
+      "69bd7a46723e6f8069037541"
+    ],
+    "Riyan N\tSeanjay": [
+      "69c4ae18081cf06514829573"
+    ],
+    "Matthew Y\tDANK": [
+      "6a34b21b6838c3765cb8aab6"
+    ],
+    "Travis D\tSeanjay": [
+      "69dafe5f6a17a69d3e04c7e1"
+    ],
+    "Varyan J\tDANK": [
+      "69b0464bd81009ff614dfd57"
+    ],
+    "snapninja\tPonnor St. Germain": [
+      "69dafecd6a17a69d3e04c81b"
+    ],
+    "vockey\tPonnor St. Germain": [
+      "69b1c4d6020790620e878111"
+    ],
+    "Eric L\tHellcats": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "Minghao G\tPonnor St. Germain": [
+      "69ead2fb732192d4438b3058"
+    ],
+    "ishaan k\tHellcats": [
+      "69b4ecab51074be782cddd17"
+    ],
+    "RIsh\tHellcats": [
+      "6a07b260e4904c0aee0418df"
+    ],
+    "Kian D\tPonnor St. Germain": [
+      "69b854336abfc27f505b56f1"
+    ],
+    "dannyridel\tPonnor St. Germain": [
+      "6a07f414e4904c0aee043a01"
+    ],
+    "Varun G\tHellcats": [
+      "69bc1c15723e6f80690372f8"
+    ],
+    "dynomite\tHellcats": [
+      "69c4ae22081cf06514829579"
+    ],
+    "nithin n\tPonnor St. Germain": [
+      "6a0fb9b13ad948ec85ca9339"
+    ],
+    "Kavin Anreddy\tWeilords": [
+      "69d71cd3d4ef0d41240ccadd"
+    ],
+    "seonhoc\tCryofornia Gurls": [
+      "6a3312b9758b34642aa337c1"
+    ],
+    "suzuko\tCryofornia Gurls": [
+      "69f6a74ba04dfd0d3cb97bac"
+    ],
+    "Bryce Thach\tCryofornia Gurls": [
+      "69b5872b51074be782cddd6d"
+    ],
+    "Sohil\tWeilords": [
+      "6a07f36de4904c0aee043954"
+    ],
+    "akhil b\tWeilords": [
+      "69bec392b0d4a79909cf58d2"
+    ],
+    "jake r\tWeilords": [
+      "69e6f21dc4f7015214c7249a"
+    ],
+    "Ethan Wang\tCryofornia Gurls": [
+      "6a06a1beaffc79833b1f04da"
+    ],
+    "Arman\tWeilords": [
+      "69bed699b0d4a79909cf591a"
+    ],
+    "Edward Chen\tCryofornia Gurls": [
+      "6a334cf16838c3765cb88106"
+    ],
+    "Shannon I\tCryofornia Gurls": [
+      "69b0462cd81009ff614dfd50"
+    ],
+    "alex\tWeilords": [
+      "69b71ff051074be782cdde2e"
+    ],
+    "lysine\tCZZ": [
+      "6a320181818435dceb2131cf"
+    ],
+    "Charles H\tCZZ": [
+      "69d359fc5e53bdad7b9c718e"
+    ],
+    "AlexL\t(Stitch)^2": [
+      "6a07bef9e4904c0aee041c4a"
+    ],
+    "Praneel A\t(Stitch)^2": [
+      "69b5823351074be782cddd2a"
+    ],
+    "Achuth V\tCZZ": [
+      "69c1f99e081cf06514827977"
+    ],
+    "Vishnu M\tCZZ": [
+      "69b17cc0020790620e8780e2"
+    ],
+    "Sam E\t(Stitch)^2": [
+      "69bb5cf3924039cb36bcc351"
+    ],
+    "Arjun D\t(Stitch)^2": [
+      "6a036d9034f3e5cbba3a8d78"
+    ],
+    "Ryan K\t(Stitch)^2": [
+      "69b4b38651074be782cddce9"
+    ],
+    "Harry Gao\tGid": [
+      "69b4b8ce51074be782cddcf6"
+    ],
+    "sid s\tJonathan": [
+      "69b050a5d81009ff614dfd77"
+    ],
+    "Edwin H\tJonathan": [
+      "69c5f6ad081cf0651482a1ed"
+    ],
+    "kensuke o\tJonathan": [
+      "69ecd5f86e5f9b63ff7c2873"
+    ],
+    "bora\tJonathan": [
+      "6a16586a9a2d41b87c4820b5"
+    ],
+    "Patrick Liang\tJonathan": [
+      "6a1c4d5c8e3a52021faf00f0"
+    ],
+    "Daniel Y\tUncs": [
+      "6a01c06534f3e5cbba3a4b79"
+    ],
+    "Sriman D\tDANK": [
+      "69d85d98d4ef0d41240cd3fc"
+    ],
+    "dea\tMingworms": [
+      "69b4ad1f51074be782cddcbb"
+    ],
+    "Aldric B\tFez_Keyreb": [
+      "69b04acfd81009ff614dfd67"
+    ],
+    "Justin K\tFez_Keyreb": [
+      "69bec47eb0d4a79909cf58e5"
+    ],
+    "Chris W\tFez_Keyreb": [
+      "69b051bdd81009ff614dfd7e"
+    ],
+    "Roshan A\tMingworms": [
+      "69db17240e8798db33219568"
+    ],
+    "Agamotto\tHellcats": [
+      "69bb0f16924039cb36bcc311"
+    ],
+    "Eric L\tCryofornia Gurls": [
+      "69b0753ed81009ff614dfdbe"
+    ],
+    "Shubam V\tFez_Keyreb": [
+      "69bb764d924039cb36bcc370"
+    ],
+    "Dennis S\tJonathan": [
+      "6a39f00476d18f928c72a424"
+    ],
+    "Anish A\tCZZ": [
+      "69ecd7176e5f9b63ff7c28cf"
+    ],
+    "henry lu\t(Stitch)^2": [
+      "6a0885276230d878705f02ea"
+    ],
+    "Kevin F\tFerroasumin": [
+      "69b5832051074be782cddd4f"
+    ],
+    "Nihar B\tUncs": [
+      "69bf78bab0d4a79909cf5a6a",
+      "69d2c1745e53bdad7b9c6c8b"
+    ],
+    "Rehan\tCZZ": [
+      "69defe831244cc5a8c6b8a8d",
+      "6a30aa58818435dceb211e7d"
+    ],
+    "Advik S\tFez_Keyreb": [
+      "6a1c4baa8e3a52021faeff69"
+    ],
+    "nathaniel o\tFez_Keyreb": [
+      "69f6e7c5a04dfd0d3cb984fb"
+    ],
+    "Santhosh V\tFerroasumin": [
+      "69ffbf25a04dfd0d3cba8f64"
+    ]
+  }
 }

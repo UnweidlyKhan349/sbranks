@@ -19,5 +19,82 @@
     "player_game_stats": true
   },
   "warnings": [],
-  "parser": "g1_isobowl:parse"
+  "parser": "g1_isobowl:parse",
+  "accounts": {
+    "filthy\tkirkified lordus 67": [
+      "69cf165c2ca2bf9b4be840b4"
+    ],
+    "Jason T\tBilateria": [
+      "69e6fd94732192d4438ac127"
+    ],
+    "henry liu\tEpistasis": [
+      "69e93fb9732192d4438aeea0"
+    ],
+    "Malachi, D,\tWashed": [
+      "69ec2b82638ec98901b064d4"
+    ],
+    "Anvi J\tEpistasis": [
+      "69ec0ec4638ec98901b05e3a"
+    ],
+    "Kian D\tCaudate": [
+      "69b854336abfc27f505b56f1"
+    ],
+    "Anish K.\tGangalicious Ganglions": [
+      "69ec1d57638ec98901b0614b"
+    ],
+    "AryanA\tGangalicious Ganglions": [
+      "69ecd2a16e5f9b63ff7c27e8"
+    ],
+    "Monish S\tLarpers": [
+      "69b5823951074be782cddd2e"
+    ],
+    "Abhinav A\tLarpers": [
+      "69ecd1f86e5f9b63ff7c27c6"
+    ],
+    "Arsh, G, Majestic Millburn\tMajestic Millburn": [
+      "69ecc30457e17d201a78362d"
+    ],
+    "simonL\tMajestic Millburn": [
+      "69ecaaf757e17d201a783387"
+    ],
+    "Adhrit M\tUltimate Uzbeks": [
+      "69ecc1ff57e17d201a78361d"
+    ],
+    "Dev M\tThe Quorum": [
+      "69ecd2e06e5f9b63ff7c27f3"
+    ],
+    "Arnav K\tUltimate Uzbeks": [
+      "69ebcf51638ec98901b05518"
+    ],
+    "theenash s\tchuck and larry": [
+      "69ecd7a96e5f9b63ff7c2943"
+    ],
+    "Achuth V\tZygoats": [
+      "69c1f99e081cf06514827977"
+    ],
+    "Simon Z\tparathyroid glands": [
+      "69d168db495bcc4f970a2b68"
+    ],
+    "alavaline\tlampreys": [
+      "69dfcefa1244cc5a8c6b951b"
+    ],
+    "sideways adjacent\tlampreys": [
+      "69b5fc4951074be782cddd9e"
+    ],
+    "Allen F\tparathyroid glands": [
+      "69ebf1eb638ec98901b059c5"
+    ],
+    "Larry D\tCortisol Spikers": [
+      "69ec048e638ec98901b05c55"
+    ],
+    "Dunce\tKazakhstani Krushers": [
+      "69ebb9d6732192d4438b3f33"
+    ],
+    "Biological Foundation Research\tKazakhstani Krushers": [
+      "69e755e3732192d4438ac201"
+    ],
+    "sunny G\tCortisol Spikers": [
+      "69ec2922638ec98901b0644a"
+    ]
+  }
 }
