@@ -326,17 +326,12 @@ export function lineChart(series, opts = {}) {
       layer.appendChild(s("path", { class: "series-line", d, style: `stroke:${sr.color}` }));
     }
     const dotsAll = visible.length === 1 || visible.every((sr) => sr.points.filter(inView).length <= 40);
-    // dots shrink where events sit close together on the time axis (e.g. a week apart)
-    const dotR = (pts, i) => {
-      const gap = Math.min(i > 0 ? sx(pts[i].x) - sx(pts[i - 1].x) : Infinity, i + 1 < pts.length ? sx(pts[i + 1].x) - sx(pts[i].x) : Infinity);
-      return gap < 5 ? 0 : Math.max(2.5, Math.min(4, gap / 2.4));  // too crowded: line only (hover still finds it)
-    };
+    // every event gets a dot, all the same size (outlined so neighbours stay distinct)
     for (const sr of visible) {
       const pts = dotsAll ? sr.points : sr.points.slice(-1);
-      pts.forEach((p, i) => {
-        const r = i === pts.length - 1 ? 4 : dotR(pts, i);
-        if (inView(p) && r) layer.appendChild(s("circle", { class: "series-dot", cx: sx(p.x), cy: sy(p.y), r, style: `fill:${sr.color}` }));
-      });
+      for (const p of pts) {
+        if (inView(p)) layer.appendChild(s("circle", { class: "series-dot", cx: sx(p.x), cy: sy(p.y), r: 3.5, style: `fill:${sr.color}` }));
+      }
     }
     if (refText) svgEl.appendChild(refText);
     // direct end labels (only when they don't collide)

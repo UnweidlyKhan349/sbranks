@@ -331,7 +331,7 @@ figure.chart { margin: 0; min-width: 0; }
 .crosshair { stroke: var(--muted); stroke-width: 1; shape-rendering: crispEdges; pointer-events: none; }
 .series-line { fill: none; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
 .series-band { stroke: none; fill-opacity: 0.1; }
-.series-dot { stroke: var(--surface); stroke-width: 2; }
+.series-dot { stroke: var(--surface); stroke-width: 1.5; }
 .end-label { font-size: 12px; fill: var(--ink-2); }
 .bar-label { font-size: 12px; fill: var(--ink); }
 .bar-label .pm { fill: var(--muted); }
